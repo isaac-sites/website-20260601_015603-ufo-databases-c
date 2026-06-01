@@ -1,0 +1,854 @@
+---
+level: 3
+basename: ufo_report_databases_8352a3_ufocat_source_tracin_039724_x2_prn_primary_filte_590182
+parent_basename: ufo_report_databases_8352a3_ufocat_source_tracin_039724
+child_basenames: []
+sibling_basenames:
+- ufo_report_databases_8352a3_ufocat_source_tracin_039724_historical_duplicate_d0e733
+- ufo_report_databases_8352a3_ufocat_source_tracin_039724_intentional_duplicat_4000d1
+- ufo_report_databases_8352a3_ufocat_source_tracin_039724_source_levels_reliab_582608
+- ufo_report_databases_8352a3_ufocat_source_tracin_039724_ufocat_multiple_sour_4fba5e
+tags:
+- ufo-report-databases-and-catalogues
+- ufocat
+- primary-records
+keywords:
+- ufo-report-databases-and-catalogues
+- ufocat
+- primary-records
+affiliate_category: ufo-report-databases-and-catalogues
+show_ads: true
+description: Readers learn how X2 and PRN codes help distinguish primary UFO records from duplicates in UFOCAT.
+hero_summary: Readers learn how X2 and PRN codes help distinguish primary UFO records from duplicates in UFOCAT.
+layout: default
+permalink: /primary-records/
+sidebar_expanded_urls:
+- /ufo-report-databases-and-catalogues/
+- /ufocat/
+nav_short_title: Primary Records
+title: How X2 and PRN Codes Identify Primary UFOCAT Entries
+title_full: How X2 and PRN Codes Identify Primary UFOCAT Entries | UFOCAT
+display_title_short: Primary Records
+display_title: Primary Records
+heading_title: How X2 and PRN Codes Identify Primary UFOCAT Entries
+page_heading_title: How X2 and PRN Codes Identify Primary UFOCAT Entries
+source_count: 22
+infographic_count: 3
+planned_sections:
+- Explanation of X2 field values
+- PRN pointing to primary sources
+- Filtering techniques for accurate counts
+focal_unit_type: mechanism
+topic_lens: implementation
+topic_granularity: bounded_topic
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+date: '2026-05-31 19:20:32'
+parent_title: Why UFOCAT Is Not Just a Sighting Count | UFO Archives
+parent_permalink: /ufocat/
+parent_nav_short_title: UFOCAT
+parent_heading_title: Why UFOCAT Is Not Just a Sighting Count
+ancestor_links:
+- basename: ufo_report_databases_8352a3
+  title: UFO Archives
+  permalink: /ufo-report-databases-and-catalogues/
+  short_title: UFO Archives
+- basename: ufo_report_databases_8352a3_ufocat_source_tracin_039724
+  title: UFOCAT | Where UFO Reports Become Usable Evidence
+  permalink: /ufocat/
+  short_title: UFOCAT
+  heading_title: Why UFOCAT Is Not Just a Sighting Count
+breadcrumb_links:
+- basename: ufo_report_databases_8352a3
+  title: UFO Archives
+  permalink: /ufo-report-databases-and-catalogues/
+  short_title: UFO Archives
+- basename: ufo_report_databases_8352a3_ufocat_source_tracin_039724
+  title: UFOCAT | Where UFO Reports Become Usable Evidence
+  permalink: /ufocat/
+  short_title: UFOCAT
+  heading_title: Why UFOCAT Is Not Just a Sighting Count
+sibling_links:
+- basename: ufo_report_databases_8352a3_ufocat_source_tracin_039724_historical_duplicate_d0e733
+  title: Duplicate Case Studies | UFOCAT
+  permalink: /duplicate-case-studies/
+  short_title: Duplicate Case Studies
+  heading_title: Historical UFOCAT Case Studies Addressing Duplicate Entries
+- basename: ufo_report_databases_8352a3_ufocat_source_tracin_039724_intentional_duplicat_4000d1
+  title: Duplicate Rationale | UFOCAT
+  permalink: /duplicate-rationale/
+  short_title: Duplicate Rationale
+  heading_title: Why UFOCAT Intentionally Keeps Duplicate UFO Records
+- basename: ufo_report_databases_8352a3_ufocat_source_tracin_039724_source_levels_reliab_582608
+  title: Source Reliability | UFOCAT
+  permalink: /source-reliability/
+  short_title: Source Reliability
+  heading_title: How UFOCAT Source Levels Reveal Report Reliability
+- basename: ufo_report_databases_8352a3_ufocat_source_tracin_039724_ufocat_multiple_sour_4fba5e
+  title: Source Versions | UFOCAT
+  permalink: /source-versions/
+  short_title: Source Versions
+  heading_title: Why UFOCAT Keeps Multiple Source Versions of UFO Events
+up_link:
+  basename: ufo_report_databases_8352a3_ufocat_source_tracin_039724
+  title: UFOCAT | Where UFO Reports Become Usable Evidence
+  permalink: /ufocat/
+  short_title: UFOCAT
+  heading_title: Why UFOCAT Is Not Just a Sighting Count
+prev_link:
+  basename: ufo_report_databases_8352a3_ufocat_source_tracin_039724_intentional_duplicat_4000d1
+  title: Duplicate Rationale | UFOCAT
+  permalink: /duplicate-rationale/
+  short_title: Duplicate Rationale
+  heading_title: Why UFOCAT Intentionally Keeps Duplicate UFO Records
+next_link:
+  basename: ufo_report_databases_8352a3_ufocat_source_tracin_039724_source_levels_reliab_582608
+  title: Source Reliability | UFOCAT
+  permalink: /source-reliability/
+  short_title: Source Reliability
+  heading_title: How UFOCAT Source Levels Reveal Report Reliability
+header:
+  og_image: /assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_x2_prn_primary_filte_590182-Illustration-1-social.jpg
+  preview_image: /assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_x2_prn_primary_filte_590182-Illustration-1.webp
+image: /assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_x2_prn_primary_filte_590182-Illustration-1-social.jpg
+---
+
+## Introduction
+
+In the context of [UFOCAT]({{ 'ufocat/' | relative_url }}) — the extensive *Center for UFO Studies* (CUFOS) catalogue of unidentified flying object (UFO) reports — researchers must carefully distinguish **primary records** (the closest-to-original accounts of a sighting) from multiple peripheral references to the same event. UFOCAT deliberately preserves multiple entries per actual sighting because one UFO report often appears in many sources: original [case files]({{ 'case-files/' | relative_url }}), newspaper articles, books, periodicals and derivative compilations. Without filtering, researchers can easily **over-count events**, misinterpret statistical patterns, or conflate independent sightings with reposted narratives. Two critical database fields — **X2** and **PRN** — exist precisely to help researchers isolate the most authoritative, primary UFOCAT records for accurate counts and analysis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/cufos-publications-databases/ufocat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">Center for UFO Studies UFOCAT</span><span class="citation-popover-snippet">Center for UFO StudiesUFOCAT - Center for UFO Studies...</span></span></span>
+
+
+<img src="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_x2_prn_primary_filte_590182-Illustration-1-dark.svg" | relative_url }}" alt="Primary Records illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_x2_prn_primary_filte_590182-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_x2_prn_primary_filte_590182-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+## What the X2 Field Tells You About Record Primacy
+
+The **X2** field in UFOCAT is a compact, numerical indicator of how *primary* a given record is within its cluster of entries referring to the same UFO event. According to the official UFOCAT codebook:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Records coded **0 in X2** are judged the **true primary account** — closest to an original source and least mediated by other reports. These are the entries most suitable for basic tallies of unique incidents.
+* **X2 = 1** marks **independent investigations** that are substantive but were *not chosen* as the main primary entry.
+* **Values of 2** indicate records that mainly *reference* another source and thus are **secondary sources**.
+* **Codes of 3** signify records that clearly derive from secondary material and are even further removed from the original reporting.
+
+</div>
+
+This coding scheme turns X2 into a **shortcut to primary-source quality** in the database. By filtering for X2 = 0 alone, a researcher can extract the set of entries representing the primary, non-duplicate records for a given query. Without this filter, raw queries would include many entries that are merely derivative references to the same event across different media.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/cufos-publications-databases/ufocat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">Center for UFO Studies UFOCAT</span><span class="citation-popover-snippet">Center for UFO StudiesUFOCAT - Center for UFO Studies...</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VmVf2Axe6as" title="UAP Data Analysis On 80,000 Sightings! | Don Tadaya" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VmVf2Axe6as" target="_blank" rel="noopener noreferrer">UAP Data Analysis On 80,000 Sightings! | Don Tadaya</a></p><p class="youtube-embed-meta">Channel: Tim Ventura &middot; Views: 9.1K &middot; Uploaded: May 2023 &middot; Length: 54 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VmVf2Axe6as" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VmVf2Axe6as">Open on YouTube</a></p></div></div></div>
+
+## How PRN Points to the Core Event
+
+While X2 flags the primacy quality of an individual entry, the **PRN** (*Primary Record Number*) field links every record to the **URN** (Unique Record Number) of the entry judged to contain the most authoritative account of the same event. In practice:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Every UFOCAT record carries a **URN** — its unique identifier in the catalogue.
+* The **PRN** attaches that record to a *primary* URN for the event it documents; records referring to the same incident carry identical PRN values.
+* Filtering by a given PRN will return **all records (primary and linked secondary references)** for the same UFO sighting, enabling researchers to understand the source trail behind an event.
+
+</div>
+
+In configured searches, this means a *PRN grouping* is the canonical way to collect all entries about one incident, and the corresponding X2 = 0 record within that group is the locus of the primary account. Analysts can use PRN to link and navigate cross‑references even when X2 values vary across sources.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/cufos-publications-databases/ufocat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">Center for UFO Studies UFOCAT</span><span class="citation-popover-snippet">Center for UFO StudiesUFOCAT - Center for UFO Studies...</span></span></span>
+
+
+<img src="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_x2_prn_primary_filte_590182-Illustration-2-dark.svg" | relative_url }}" alt="Primary Records illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_x2_prn_primary_filte_590182-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_x2_prn_primary_filte_590182-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Practical Filtering Techniques for Accurate Counts
+
+Researchers using UFOCAT for counting or statistical work typically combine **X2** and **PRN** to avoid duplicating events that appear in many derivative sources:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* **Primary count extraction:** Query for *X2 = 0* across the whole dataset or within focus parameters (e.g. year, location, object shape) to get a dataset of events counted once at their primary source.
+* **Cluster retrieval:** Group query results by **PRN** to see all the records tied to a specific primary event. This reveals how many derivative references exist and where they came from.
+* **Source trail analysis:** After grouping by PRN, researchers can use the full set of associated records to map the flow of a case through newspapers, books, periodicals, and investigatory files to understand which sources carried the report and how it changed over time.
+
+</div>
+
+Such filtering transforms UFOCAT from a flat list of entries into a structured, **source-tracing tool**. By isolating X2 = 0 records for unique incident tallies and using PRN linkages to explore related entries, researchers can **avoid over‑counting** and appreciate the propagation of UFO reports across the literature.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/cufos-publications-databases/ufocat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">Center for UFO Studies UFOCAT</span><span class="citation-popover-snippet">Center for UFO StudiesUFOCAT - Center for UFO Studies...</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TQcqOW39ksk" title="Unidentified Anomalous Phenomena Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Independent Study Report</a></p><p class="youtube-embed-meta">Channel: NASA &middot; Views: 107.3K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TQcqOW39ksk">Open on YouTube</a></p></div></div></div>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BsFCVTBzTvY" title="Analyzing UFO Risk with PostGIS and H3 with Martin Davis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BsFCVTBzTvY" target="_blank" rel="noopener noreferrer">Analyzing UFO Risk with PostGIS and H3 with Martin Davis</a></p><p class="youtube-embed-meta">Channel: Crunchy Data &middot; Views: 468 &middot; Uploaded: November 2024 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BsFCVTBzTvY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BsFCVTBzTvY">Open on YouTube</a></p></div></div></div>
+
+## Implications for UFOCAT Research
+
+The existence and proper use of X2 and PRN demonstrate that UFOCAT was designed not simply as a historical archive but as a **reference map of source chains** for UFO events. Counting events without respect for these fields leads to inflated totals and obscures the relative research value of different sources. By emphasising *primary entries* (via X2 = 0) and *event [clusters]({{ 'clusters/' | relative_url }})* (via PRN linkages), analysts can generate statistics that approximate actual unique sightings rather than bibliographic echoes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/cufos-publications-databases/ufocat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">Center for UFO Studies UFOCAT</span><span class="citation-popover-snippet">Center for UFO StudiesUFOCAT - Center for UFO Studies...</span></span></span>
+
+In short, X2 and PRN are essential tools within UFOCAT for **filtering, de‑duplicating, and navigating** the tangled web of sighting reports — enabling researchers to extract meaningful, evidence‑anchored insights from a catalogue designed to preserve, not obfuscate, the origins of UFO narratives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/cufos-publications-databases/ufocat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">Center for UFO Studies UFOCAT</span><span class="citation-popover-snippet">Center for UFO StudiesUFOCAT - Center for UFO Studies...</span></span></span>
+
+
+<img src="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_x2_prn_primary_filte_590182-Illustration-3-dark.svg" | relative_url }}" alt="Primary Records illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_x2_prn_primary_filte_590182-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_x2_prn_primary_filte_590182-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How X2 and PRN Codes Identify Primary UFOCAT Entries. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+        </h4>
+        <p class="fr-book-author">By J. Allen Hynek</p>
+        
+        <p class="fr-book-desc">Useful background for catalogue-based UFO research and case classification.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+        </h4>
+        <p class="fr-book-author">By Leslie Kean</p>
+        
+        <p class="fr-book-desc">Shows distinctions between primary and secondary sources in UFO records, akin to X2/PRN filtering.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
+        </h4>
+        <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
+        
+        <p class="fr-book-desc">First published 2011.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+        </h4>
+        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        
+        <p class="fr-book-desc">Covers evaluation of firsthand vs derivative reports, aligning with X2/PRN concepts.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+      <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-records-how-x2-and-prn-codes-identify-primary-ufocat-entries-ufo-report-databases-and-ca-ufo-metal-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Metal Sign Aluminum 8x12 Funny Home Décor Wall Art Plaque Sign"><img src="{{ '/assets/images/marketplace-covers/e22f90187bea173825a0.jpg' | relative_url }}" alt="Listing image for Ufo Metal Sign Aluminum 8x12 Funny Home Décor Wall Art Plaque Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-records-how-x2-and-prn-codes-identify-primary-ufocat-entries-ufo-report-databases-and-ca-ufo-metal-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufo Metal Sign Aluminum 8x12 Funny Home Décor Wall Art Plaque Sign</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-records-how-x2-and-prn-codes-identify-primary-ufocat-entries-ufo-report-databases-and-ca-ufo-metal-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo metal sign">Search <span data-ebay-domain-label>eBay.com</span>: ufo metal sign</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-records-how-x2-and-prn-codes-identify-primary-ufocat-entries-ufo-report-databases-and-ca-ufo-metal-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-records-how-x2-and-prn-codes-identify-primary-ufocat-entries-ufo-report-databases-and-ca-ufo-metal-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar"><img src="{{ '/assets/images/marketplace-covers/5d94b10d5d0f4c4b9720.jpg' | relative_url }}" alt="Listing image for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-records-how-x2-and-prn-codes-identify-primary-ufocat-entries-ufo-report-databases-and-ca-ufo-metal-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-records-how-x2-and-prn-codes-identify-primary-ufocat-entries-ufo-report-databases-and-ca-ufo-metal-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo metal sign">Search <span data-ebay-domain-label>eBay.com</span>: ufo metal sign</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-records-how-x2-and-prn-codes-identify-primary-ufocat-entries-ufo-report-databases-and-ca-ufo-metal-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-records-how-x2-and-prn-codes-identify-primary-ufocat-entries-ufo-report-databases-and-ca-ufo-metal-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Alien Pinup Lady Metal Sign Vintage Sci-Fi Tin Wall Decor"><img src="{{ '/assets/images/marketplace-covers/38fb45e87dbed8711c73.jpg' | relative_url }}" alt="Listing image for Retro UFO Alien Pinup Lady Metal Sign Vintage Sci-Fi Tin Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-records-how-x2-and-prn-codes-identify-primary-ufocat-entries-ufo-report-databases-and-ca-ufo-metal-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Alien Pinup Lady Metal Sign Vintage Sci-Fi Tin Wall Decor</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-records-how-x2-and-prn-codes-identify-primary-ufocat-entries-ufo-report-databases-and-ca-ufo-metal-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo metal sign">Search <span data-ebay-domain-label>eBay.com</span>: ufo metal sign</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-records-how-x2-and-prn-codes-identify-primary-ufocat-entries-ufo-report-databases-and-ca-ufo-metal-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-records-how-x2-and-prn-codes-identify-primary-ufocat-entries-ufo-report-databases-and-ca-ufo-metal-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Sci-Fi Pyramid UFO Sighting Metal Tin Sign"><img src="{{ '/assets/images/marketplace-covers/5af165dd7106d56f12bb.jpg' | relative_url }}" alt="Listing image for Retro Sci-Fi Pyramid UFO Sighting Metal Tin Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-records-how-x2-and-prn-codes-identify-primary-ufocat-entries-ufo-report-databases-and-ca-ufo-metal-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Retro Sci-Fi Pyramid UFO Sighting Metal Tin Sign</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-records-how-x2-and-prn-codes-identify-primary-ufocat-entries-ufo-report-databases-and-ca-ufo-metal-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo metal sign">Search <span data-ebay-domain-label>eBay.com</span>: ufo metal sign</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-records-how-x2-and-prn-codes-identify-primary-ufocat-entries-ufo-report-databases-and-ca-ufo-metal-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-records-how-x2-and-prn-codes-identify-primary-ufocat-entries-ufo-report-databases-and-ca-ufo-metal-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.com</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+      <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-records-how-x2-and-prn-codes-identify-primary-ufocat-entries-ufo-report-databases-and-ca-ufo-metal-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-records-how-x2-and-prn-codes-identify-primary-ufocat-entries-ufo-report-databases-and-ca-ufo-metal-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-records-how-x2-and-prn-codes-identify-primary-ufocat-entries-ufo-report-databases-and-ca-ufo-metal-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo metal sign</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-records-how-x2-and-prn-codes-identify-primary-ufocat-entries-ufo-report-databases-and-ca-ufo-metal-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-records-how-x2-and-prn-codes-identify-primary-ufocat-entries-ufo-report-databases-and-ca-ufo-metal-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign"><img src="{{ '/assets/images/marketplace-covers/8b6940efc9406071c305.jpg' | relative_url }}" alt="Listing image for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-records-how-x2-and-prn-codes-identify-primary-ufocat-entries-ufo-report-databases-and-ca-ufo-metal-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-records-how-x2-and-prn-codes-identify-primary-ufocat-entries-ufo-report-databases-and-ca-ufo-metal-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo metal sign</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-records-how-x2-and-prn-codes-identify-primary-ufocat-entries-ufo-report-databases-and-ca-ufo-metal-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-records-how-x2-and-prn-codes-identify-primary-ufocat-entries-ufo-report-databases-and-ca-ufo-metal-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-records-how-x2-and-prn-codes-identify-primary-ufocat-entries-ufo-report-databases-and-ca-ufo-metal-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-records-how-x2-and-prn-codes-identify-primary-ufocat-entries-ufo-report-databases-and-ca-ufo-metal-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo metal sign</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-records-how-x2-and-prn-codes-identify-primary-ufocat-entries-ufo-report-databases-and-ca-ufo-metal-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-records-how-x2-and-prn-codes-identify-primary-ufocat-entries-ufo-report-databases-and-ca-ufo-metal-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cb805875adbedc804d3a.jpg' | relative_url }}" alt="Listing image for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-records-how-x2-and-prn-codes-identify-primary-ufocat-entries-ufo-report-databases-and-ca-ufo-metal-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-records-how-x2-and-prn-codes-identify-primary-ufocat-entries-ufo-report-databases-and-ca-ufo-metal-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo metal sign</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-records-how-x2-and-prn-codes-identify-primary-ufocat-entries-ufo-report-databases-and-ca-ufo-metal-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=primary-records-how-x2-and-prn-codes-identify-primary-ufocat-entries-ufo-report-databases-and-ca-ufo-metal-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i < languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i < timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+  <script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  if (!sections.length) return;
+  function inferMarket(available) {
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      return window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: 'EBAY_US'
+      });
+    }
+    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
+    return available[0];
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-market-init') === '1') return;
+    section.setAttribute('data-ebay-market-init', '1');
+    var select = section.querySelector('[data-ebay-market-select]');
+    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
+    if (!select || panels.length < 2) return;
+    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
+    function selectMarket(marketId, persist) {
+      panels.forEach(function (panel) {
+        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
+        panel.hidden = !active;
+      });
+      if (available.indexOf(marketId) >= 0) select.value = marketId;
+      var option = select.options[select.selectedIndex];
+      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+        label.textContent = option ? option.text : marketId;
+      });
+      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+        flag.className = flagClass(marketId);
+      });
+      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+        label.textContent = option ? option.text : marketId;
+      });
+      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+      });
+      if (persist) {
+        try {
+          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
+        } catch (err) {}
+      }
+      closeMenu(section);
+    }
+    select.addEventListener('change', function () {
+      selectMarket(select.value, true);
+    });
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    selectMarket(inferMarket(available), false);
+  });
+})();
+</script>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: cufos.org  
+   Title: Center for UFO Studies UFOCAT  
+   Link: [https://cufos.org/cufos-publications-databases/ufocat/](https://cufos.org/cufos-publications-databases/ufocat/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for UFO StudiesUFOCAT - Center for UFO Studies...</p></details>
+
+2. <a id="endnote-2"></a>
+   Source: cufos.org  
+   Link: [https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf](https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>USER&#x27;S GUIDE UFOCAT 2023 Concord, New HamNovember 7, 2025...</p></details>
+   Published: November 7, 2025  
+
+3. <a id="endnote-3"></a>
+   Source: ufocat.com  
+   Link: [https://ufocat.com/](https://ufocat.com/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>[Input] DRAG &amp; DROP EVIDENCE Supported formats: JPG, PNG, WEBP OR BROWSE FILES [LOG_ID: 8823-A] NEW SIGH...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: cufos.org  
+   Title: Frequently Asked Questions  
+   Link: [https://cufos.org/faqs](https://cufos.org/faqs)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>We have tried to keep the answers simple, so that students and...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: encyclopedia.com  
+   Title: Ufo | Encyclopedia.com  
+   Link: [https://www.encyclopedia.com/science-and-technology/technology/aviation-general/ufo](https://www.encyclopedia.com/science-and-technology/technology/aviation-general/ufo)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>the study of UFOs.DERIVATIVES: u·fo·log·i·cal / ˌyoōfəˈläjikəl/ adj.u·fol·o·gist / -jist/ n. The Oxford Pocket Dictionary of Current...</p></details>
+
+### Additional References
+
+6. <a id="endnote-6"></a>
+   Source: aliencatalog.com  
+   Link: [https://www.aliencatalog.com/](https://www.aliencatalog.com/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Catalog | AlienCatalog.com Official UFO and UAP RecordsLegally public records from official sources ALIEN CATALOG AlienCatalog.com...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: ai-2.io  
+   Title: Every record is traced to its primary origin, processed through the sa  
+   Link: [https://ai-2.io/sources.html](https://ai-2.io/sources.html)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Sources — UAP Knowledge Graph29 Independent Sources EVERY SOURCE, Explained Each source was selected for its provenance, accessibili...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: scribd.com  
+   Link: [https://www.scribd.com/document/471252323/36773908-[MUFON](https://www.scribd.com/document/471252323/36773908-[MUFON)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>David R. Saunders in 199 and donated to the Center for UFO Studies in 1975. In its present form UFOCAT has...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: u-sphere.com  
+   Link: [https://www.u-sphere.com/?title=UAP_Database](https://www.u-sphere.com/?title=UAP_Database)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>This project is part of an assessment of the possible correlations between the UFO phenomenon (or UAP) and potential environmental risks...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: decur.org  
+   Title: Qualitative data catalogued for anal  
+   Link: [https://decur.org/](https://decur.org/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>DECUR: UAP &amp; NHI Research ArchiveA REFERENCE ARCHIVE FOR UAP AND NHI RESEARCH Structured documentation of insider testimony, primary sour...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: disclosdex.com  
+   Title: CUFO S | Disclosdex  
+   Link: [https://disclosdex.com/organizations/cufos](https://disclosdex.com/organizations/cufos)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek in 1973 to apply scientific rigor to global UFO incident data Astronomer J. Allen Hynek established the Center for UFO Studie...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: [nuforc](&#123;&#123; 'nuforc/' | relative_url &#125;&#125;). org  
+   Title: For 25 years, it ha  
+   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021 — THE NATIONAL UFO REPORTING CENTER ONLINE DATABASE Image The NUFORC Databank...</p></details>
+   Published: September 6, 2021  
+
+13. <a id="endnote-13"></a>
+   Source: ufosearch.org  
+   Title: UF O Search — PURSUE UAP Archive  
+   Link: [https://ufosearch.org/](https://ufosearch.org/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Search — PURSUE UAP ArchiveMay 8, 2026 — Image: Apollo 17 — December 1972 Image: Witness composite sketch — April 2024 Image: Unresol...</p></details>
+   Published: May 8, 2026  
+
+14. <a id="endnote-14"></a>
+   Source: youtube.com  
+   Title: Governments Using AI To Decode Massive UFO Databases | WION Podcast  
+   Link: [https://www.youtube.com/watch?v=adCsqd_-M94](https://www.youtube.com/watch?v=adCsqd_-M94)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Data &amp; Trends [Python Data Visualization Project]...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: youtube.com  
+   Title: UAP Data Analysis On 80,000 Sightings! | Don Tadaya  
+   Link: [https://www.youtube.com/watch?v=VmVf2Axe6as](https://www.youtube.com/watch?v=VmVf2Axe6as)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Governments Using AI To Decode Massive UFO Databases | WION Podcast - YouTube...</p></details>

@@ -1,0 +1,290 @@
+sidebar_generated:
+- title: UFO Archives
+  title_full: Where UFO Reports Become Usable Evidence
+  url: /ufo-report-databases-and-catalogues/
+  children:
+  - title: AARO
+    title_full: Why AARO Cases Remain Unresolved | UFO Archives
+    url: /aaro/
+    children:
+    - title: Active Archive
+      title_full: What AARO's Active Archive Really Means | AARO
+      url: /active-archive/
+    - title: FAA Logs
+      title_full: Why AARO's Numbers Suddenly Grew | AARO
+      url: /faa-logs/
+    - title: GoFast
+      title_full: Was GoFast Really Moving That Fast? | AARO
+      url: /gofast/
+    - title: Missing Data
+      title_full: The Missing Data Behind Unresolved UAP Cases | AARO
+      url: /missing-data/
+    - title: Wake Artefacts
+      title_full: When UAP Propulsion Signs Are Sensor Artefacts | AARO
+      url: /wake-artefacts/
+  - title: Archives
+    title_full: Finding Original UFO Records in Archives | UFO Archives
+    url: /archives/
+    children:
+    - title: Blue Book Files
+      title_full: What Project Blue Book Records Reveal in NARA Archives | Archives
+      url: /blue-book-files/
+    - title: Catalogue & Downloads
+      title_full: Using NARA Catalogues and Bulk Downloads for UAP Records | Archives
+      url: /catalogue-downloads/
+    - title: Media Handling
+      title_full: Preserving UAP Photographs, Film, and Sound in Archives | Archives
+      url: /media-handling/
+    - title: Record Group Context
+      title_full: Understanding UAP Files Through Their Record Group Provenance | Archives
+      url: /record-group-context/
+    - title: RG 615 Transfers
+      title_full: How UAP Records Are Transferred to NARA's RG 615 | Archives
+      url: /rg-615-transfers/
+  - title: Blue Book
+    title_full: What Project Blue Book Records Still Reveal | UFO Archives
+    url: /blue-book/
+    children:
+    - title: Admin Records
+      title_full: Internal Administration and Procedures Behind Project Blue Book | Blue Book
+      url: /admin-records/
+    - title: Case Files
+      title_full: How Individual UFO Case Files Were Recorded and Evaluated | Blue Book
+      url: /case-files/
+    - title: Case Patterns
+      title_full: Patterns in Identifications and Unexplained UFO Reports | Blue Book
+      url: /case-patterns/
+    - title: Control Sheets
+      title_full: How Control Sheets Structured UFO Sightings and Classifications | Blue Book
+      url: /control-sheets/
+    - title: Research Use
+      title_full: How Researchers Use Blue Book Records for Historical Analysis | Blue Book
+      url: /research-use/
+  - title: Clusters
+    title_full: Why UFO Sightings Cluster on the Map | UFO Archives
+    url: /clusters/
+    children:
+    - title: Air Traffic
+      title_full: How Air Traffic and Military Zones Affect UFO Clustering | Clusters
+      url: /air-traffic/
+    - title: Light Pollution
+      title_full: How Light Pollution Shapes UFO Report Clusters | Clusters
+      url: /light-pollution/
+    - title: Population Density
+      title_full: Why Denser Populations Produce More UFO Sightings | Clusters
+      url: /population-density/
+    - title: Tree Canopy
+      title_full: How Landscape and Forest Cover Affect UFO Reports | Clusters
+      url: /tree-canopy/
+    - title: Weather Patterns
+      title_full: Why Cloud Cover Reduces UFO Sightings in Some Areas | Clusters
+      url: /weather-patterns/
+  - title: Duplicates
+    title_full: How One UFO Sighting Becomes Many Records | UFO Archives
+    url: /duplicates/
+    children:
+    - title: Event Counts
+      title_full: What Happens When UFO Rows Are Counted Once | Duplicates
+      url: /event-counts/
+    - title: Merged Data
+      title_full: Why Big UFO Datasets Double Count Cases | Duplicates
+      url: /merged-data/
+    - title: Report Chains
+      title_full: How One Sighting Turns Into Many Records | Duplicates
+      url: /report-chains/
+    - title: Video Rows
+      title_full: Why One UFO Clip Is Not Always One Event | Duplicates
+      url: /video-rows/
+    - title: Witness Clusters
+      title_full: Do More Witnesses Mean More UFOs? | Duplicates
+      url: /witness-clusters/
+  - title: Enigma
+    title_full: Can a UFO App Fix Old Data Problems? | UFO Archives
+    url: /enigma/
+    children:
+    - title: AI Scoring
+      title_full: How Enigma Uses AI to Rate UFO Reports | Enigma
+      url: /ai-scoring/
+    - title: Camera Metadata
+      title_full: How Enigma Captures Location and Angle Metadata | Enigma
+      url: /camera-metadata/
+    - title: Map Clustering
+      title_full: Using Maps and Community Feedback to Spot Clusters | Enigma
+      url: /map-clustering/
+    - title: NJ Drone Scare
+      title_full: How Enigma Handled the 2024 New Jersey Drone Surge | Enigma
+      url: /nj-drone-scare/
+    - title: Object Identification
+      title_full: How Enigma Identifies Planes, Satellites, and Stars | Enigma
+      url: /object-identification/
+  - title: GEIPAN
+    title_full: How France Classifies Public UAP Cases | UFO Archives
+    url: /geipan/
+    children:
+    - title: A & B
+      title_full: How GEIPAN Determines Identified and Probable Cases | GEIPAN
+      url: /a-b/
+    - title: C Cases
+      title_full: Why Some UFO Reports Remain Unidentified Due to Insufficient Data | GEIPAN
+      url: /c-cases/
+    - title: Case Statistics
+      title_full: Understanding GEIPAN's Public UFO Case Statistics | GEIPAN
+      url: /case-statistics/
+    - title: Case Studies
+      title_full: Lessons from Notable GEIPAN UFO Case Files | GEIPAN
+      url: /case-studies/
+    - title: Reclassified Cases
+      title_full: How GEIPAN Revises UFO Case Classifications Over Time | GEIPAN
+      url: /reclassified-cases/
+  - title: Misidentifications
+    title_full: Why Ordinary Objects Fill UFO Databases | UFO Archives
+    url: /misidentifications/
+    children:
+    - title: Balloons
+      title_full: When balloons look like intelligent craft | Misidentifications
+      url: /balloons/
+    - title: Camera artifacts
+      title_full: When the camera creates the UFO | Misidentifications
+      url: /camera-artifacts/
+    - title: Orb reports
+      title_full: Why ordinary lights become UFO orbs | Misidentifications
+      url: /orb-reports/
+    - title: Pilot sightings
+      title_full: Why pilot reports still need checks | Misidentifications
+      url: /pilot-sightings/
+    - title: Unresolved cases
+      title_full: Why unexplained does not mean extraordinary | Misidentifications
+      url: /unresolved-cases/
+  - title: MUFON
+    title_full: How MUFON Turns Sightings Into Cases | UFO Archives
+    url: /mufon/
+    children:
+    - title: Field screening
+      title_full: What Happens After a MUFON Report? | MUFON
+      url: /field-screening/
+    - title: MUFON vs NUFORC
+      title_full: Which UFO Database Can Researchers Check? | MUFON
+      url: /mufon-vs-nuforc/
+    - title: Privacy risks
+      title_full: What Can a UFO File Reveal? | MUFON
+      url: /privacy-risks/
+    - title: Public gaps
+      title_full: Why Public UFO Snippets Are Not Enough | MUFON
+      url: /public-gaps/
+    - title: Report bias
+      title_full: Do MUFON Counts Show Sightings or Reporters? | MUFON
+      url: /report-bias/
+  - title: NASA UAP
+    title_full: Why NASA Wants Better UAP Data | UFO Archives
+    url: /nasa-uap/
+    children:
+    - title: Baselines
+      title_full: Know the Ordinary Before Calling It Anomalous | NASA UAP
+      url: /baselines/
+    - title: Middle East Object
+      title_full: The Orb Video That Shows the Data Problem | NASA UAP
+      url: /middle-east-object/
+    - title: Multi Sensor
+      title_full: What Would Make a UFO Case Testable? | NASA UAP
+      url: /multi-sensor/
+    - title: Sensor Metadata
+      title_full: How Camera Details Can Change a UFO Story | NASA UAP
+      url: /sensor-metadata/
+    - title: Sighting Counts
+      title_full: Why More UFO Reports Do Not Mean Better Evidence | NASA UAP
+      url: /sighting-counts/
+  - title: NUFORC
+    title_full: What NUFORC Reports Can Really Tell You | UFO Archives
+    url: /nuforc/
+    children:
+    - title: Location Accuracy
+      title_full: How Imprecise Locations Affect UFO Sighting Analyses | NUFORC
+      url: /location-accuracy/
+    - title: Media Effects
+      title_full: How Media Coverage Drives UFO Sighting Clusters | NUFORC
+      url: /media-effects/
+    - title: Misidentifications
+      title_full: Top Causes of Misidentified UFO Sightings | NUFORC
+      url: /misidentifications-815a14/
+    - title: Starlink Effects
+      title_full: How Starlink Satellite Launches Inflated UFO Reports | NUFORC
+      url: /starlink-effects/
+    - title: Time Rounding
+      title_full: Why Rounded Times in UFO Reports Can Mislead Analysis | NUFORC
+      url: /time-rounding/
+  - title: Public vs Official
+    title_full: Public UFO Reports or Official UAP Records? | UFO Archives
+    url: /public-vs-official/
+    children:
+    - title: Count Gaps
+      title_full: Why UFO report counts never match | Public vs Official
+      url: /count-gaps/
+    - title: Cross Checks
+      title_full: How serious UFO research uses both sides | Public vs Official
+      url: /cross-checks/
+    - title: GEIPAN
+      title_full: The official UAP archive anyone can read | Public vs Official
+      url: /geipan-635011/
+    - title: Pilot Reports
+      title_full: Where pilot UAP reports really go | Public vs Official
+      url: /pilot-reports/
+    - title: Sensor Context
+      title_full: What official UAP files can add | Public vs Official
+      url: /sensor-context/
+  - title: Reliability
+    title_full: Which UFO Databases Are Worth Trusting? | UFO Archives
+    url: /reliability/
+    children:
+    - title: Archives vs Apps
+      title_full: Are Archives Better Than UFO Dashboards? | Reliability
+      url: /archives-vs-apps/
+    - title: Case Labels
+      title_full: When Does Unexplained Really Mean Unknown? | Reliability
+      url: /case-labels/
+    - title: GEIPAN Model
+      title_full: Why GEIPAN Separates Quality From Strangeness | Reliability
+      url: /geipan-model/
+    - title: Report Timing
+      title_full: Are UFO Spikes Events or Reporting Surges? | Reliability
+      url: /report-timing/
+    - title: Source Trails
+      title_full: Can You Trace the UFO Report Back? | Reliability
+      url: /source-trails/
+  - title: UFOCAT
+    title_full: Why UFOCAT Is Not Just a Sighting Count | UFO Archives
+    url: /ufocat/
+    children:
+    - title: Duplicate Case Studies
+      title_full: Historical UFOCAT Case Studies Addressing Duplicate Entries | UFOCAT
+      url: /duplicate-case-studies/
+    - title: Duplicate Rationale
+      title_full: Why UFOCAT Intentionally Keeps Duplicate UFO Records | UFOCAT
+      url: /duplicate-rationale/
+    - title: Primary Records
+      title_full: How X2 and PRN Codes Identify Primary UFOCAT Entries | UFOCAT
+      url: /primary-records/
+    - title: Source Reliability
+      title_full: How UFOCAT Source Levels Reveal Report Reliability | UFOCAT
+      url: /source-reliability/
+    - title: Source Versions
+      title_full: Why UFOCAT Keeps Multiple Source Versions of UFO Events | UFOCAT
+      url: /source-versions/
+  - title: UK Files
+    title_full: What the UK UFO Files Actually Show | UFO Archives
+    url: /uk-files/
+    children:
+    - title: Lantern Report Spike
+      title_full: Why 2008 2009 UFO Reports Skyrocketed in the UK | UK Files
+      url: /lantern-report-spike/
+    - title: Misidentified Reports
+      title_full: Ordinary Objects Behind UK UFO Sightings | UK Files
+      url: /misidentified-reports/
+    - title: MOD Desk Workflow
+      title_full: How the MOD UFO Desk Processed Sightings | UK Files
+      url: /mod-desk-workflow/
+    - title: Project Condign
+      title_full: How Project Condign Assessed UK UFO Phenomena | UK Files
+      url: /project-condign/
+    - title: Rendlesham Forest
+      title_full: What the MOD Files Reveal About Rendlesham Forest | UK Files
+      url: /rendlesham-forest/

@@ -1,0 +1,618 @@
+---
+level: 3
+basename: ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_attachment_pri_ac069d
+parent_basename: ufo_report_databases_8352a3_mufon_investigations_00f5bd
+child_basenames: []
+sibling_basenames:
+- ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_field_screenin_9fbb4f
+- ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_nuforc_researc_ad240c
+- ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_public_case_ga_f45155
+- ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_reporting_bias_649995
+tags:
+- ufo-report-databases-and-catalogues
+- mufon
+- privacy-risks
+keywords:
+- ufo-report-databases-and-catalogues
+- mufon
+- privacy-risks
+affiliate_category: ufo-report-databases-and-catalogues
+show_ads: true
+description: Photos, videos and documents can reveal faces, addresses, exact locations or professional details even when witnesses expect privacy.
+hero_summary: Photos, videos and documents can reveal faces, addresses, exact locations or professional details even when witnesses expect privacy.
+layout: default
+permalink: /privacy-risks/
+sidebar_expanded_urls:
+- /ufo-report-databases-and-catalogues/
+- /mufon/
+nav_short_title: Privacy risks
+title: What Can a UFO File Reveal?
+title_full: What Can a UFO File Reveal? | MUFON
+display_title_short: Privacy risks
+display_title: Privacy risks
+heading_title: What Can a UFO File Reveal?
+page_heading_title: What Can a UFO File Reveal?
+source_count: 56
+infographic_count: 3
+planned_sections:
+- Personal details hidden in images and documents
+- Why exact locations and metadata matter
+- How privacy protection can limit public access
+focal_unit_type: policy_intervention
+topic_lens: governance
+topic_granularity: single_policy
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+date: '2026-05-31 18:33:21'
+parent_title: How MUFON Turns Sightings Into Cases | UFO Archives
+parent_permalink: /mufon/
+parent_nav_short_title: MUFON
+parent_heading_title: How MUFON Turns Sightings Into Cases
+ancestor_links:
+- basename: ufo_report_databases_8352a3
+  title: UFO Archives
+  permalink: /ufo-report-databases-and-catalogues/
+  short_title: UFO Archives
+- basename: ufo_report_databases_8352a3_mufon_investigations_00f5bd
+  title: MUFON | Where UFO Reports Become Usable Evidence
+  permalink: /mufon/
+  short_title: MUFON
+  heading_title: How MUFON Turns Sightings Into Cases
+breadcrumb_links:
+- basename: ufo_report_databases_8352a3
+  title: UFO Archives
+  permalink: /ufo-report-databases-and-catalogues/
+  short_title: UFO Archives
+- basename: ufo_report_databases_8352a3_mufon_investigations_00f5bd
+  title: MUFON | Where UFO Reports Become Usable Evidence
+  permalink: /mufon/
+  short_title: MUFON
+  heading_title: How MUFON Turns Sightings Into Cases
+sibling_links:
+- basename: ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_field_screenin_9fbb4f
+  title: Field screening | MUFON
+  permalink: /field-screening/
+  short_title: Field screening
+  heading_title: What Happens After a MUFON Report?
+- basename: ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_nuforc_researc_ad240c
+  title: MUFON vs NUFORC | MUFON
+  permalink: /mufon-vs-nuforc/
+  short_title: MUFON vs NUFORC
+  heading_title: Which UFO Database Can Researchers Check?
+- basename: ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_public_case_ga_f45155
+  title: Public gaps | MUFON
+  permalink: /public-gaps/
+  short_title: Public gaps
+  heading_title: Why Public UFO Snippets Are Not Enough
+- basename: ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_reporting_bias_649995
+  title: Report bias | MUFON
+  permalink: /report-bias/
+  short_title: Report bias
+  heading_title: Do MUFON Counts Show Sightings or Reporters?
+up_link:
+  basename: ufo_report_databases_8352a3_mufon_investigations_00f5bd
+  title: MUFON | Where UFO Reports Become Usable Evidence
+  permalink: /mufon/
+  short_title: MUFON
+  heading_title: How MUFON Turns Sightings Into Cases
+prev_link:
+  basename: ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_nuforc_researc_ad240c
+  title: MUFON vs NUFORC | MUFON
+  permalink: /mufon-vs-nuforc/
+  short_title: MUFON vs NUFORC
+  heading_title: Which UFO Database Can Researchers Check?
+next_link:
+  basename: ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_public_case_ga_f45155
+  title: Public gaps | MUFON
+  permalink: /public-gaps/
+  short_title: Public gaps
+  heading_title: Why Public UFO Snippets Are Not Enough
+header:
+  og_image: /assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_attachment_pri_ac069d-Illustration-1-social.jpg
+  preview_image: /assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_attachment_pri_ac069d-Illustration-1.webp
+image: /assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_attachment_pri_ac069d-Illustration-1-social.jpg
+---
+
+## Introduction
+
+[MUFON]({{ 'mufon/' | relative_url }}) [case files]({{ 'case-files/' | relative_url }}) are often discussed in terms of witness testimony, but the attachments submitted alongside reports can be far more revealing than the written account itself. Photographs, videos, screenshots, drawings and supporting documents may contain names, addresses, workplace information, precise locations or hidden technical data that identifies where and when a sighting occurred. This creates a significant privacy trade-off within UFO reporting: the more evidence a witness provides, the greater the possibility that personal information will accompany it. MUFON itself explicitly warns reporters that attached files may compromise anonymity and advises against including personal information in submitted materials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/cms-ifo-info/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">MUFONCMS IFO InfoAll witnesses who attach files to this report must acknowledge that by clicking the CONTINUE WITH REPORT button below, t...</span></span></span>
+
+
+<img src="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_attachment_pri_ac069d-Illustration-1-dark.svg" | relative_url }}" alt="Privacy risks illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_attachment_pri_ac069d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_attachment_pri_ac069d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+Within the broader ecosystem of [UFO report databases and catalogues]({{ 'ufo-report-databases-and-catalogues/' | relative_url }}), attachments are therefore not merely evidence. They are also potential sources of identifiable personal data that can affect witnesses, investigators and third parties who appear in the material.
+
+## What Can a UFO File Reveal?
+
+### Personal details hidden in images and documents
+
+Many witnesses assume that removing their name from a report is enough to protect their identity. In practice, attached files often contain information that can reveal far more than the narrative itself.
+
+MUFON's reporting system specifically warns that photographs, videos, drawings and documents may contain compromising personal information and states that anonymity cannot be guaranteed when such information is included. Examples highlighted by MUFON include visible addresses, vehicle registration details, workplace identifiers and other information capable of identifying the witness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/the-scientific-method/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">MUFONThe Scientific MethodAmong the parameters collected on UFO reports include: date, time, latitude, longitude, witness report, witness...</span></span></span>
+
+Common privacy exposures include:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Faces of witnesses, family members or neighbours visible in photographs or videos.
+* House numbers, street signs or distinctive buildings appearing in the background.
+* Vehicle registration plates.
+* Employer names visible on uniforms, ID badges or company vehicles.
+* Screenshots that unintentionally display account names, email addresses or phone numbers.
+* Supporting documents containing signatures, contact details or home addresses.
+
+</div>
+
+The risk extends beyond the person making the report. Research on image privacy has shown that individuals appearing incidentally in photographs can have their identities and movements exposed even when they were not the ones who shared the image. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2103.10851" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">March 19, 2021...</span><span class="citation-popover-meta">Published: March 19, 2021</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nU4PMRrx36w" title="Congress UFO hearing explained: MUFON insider talks UAPs and whistleblowers | ChicagoNOW" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nU4PMRrx36w" target="_blank" rel="noopener noreferrer">Congress UFO hearing explained: MUFON insider talks UAPs and whistleblowers | ChicagoNOW</a></p><p class="youtube-embed-meta">Channel: FOX 32 Chicago &middot; Views: 19.9K &middot; Uploaded: September 2025 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nU4PMRrx36w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nU4PMRrx36w">Open on YouTube</a></p></div></div></div>
+
+### Hidden metadata can be as revealing as the image
+
+A photograph can disclose information even when nothing sensitive is visible on screen. Modern smartphones and digital cameras routinely store metadata, commonly known as EXIF data, inside image files. This metadata may include the date and time a photograph was taken, device details and, in some cases, precise GPS coordinates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.canon-europe.com/pro/infobank/all-about-exif/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canon-europe.com">[Canon Europe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canon-europe.com</span><span class="citation-popover-snippet">Canon EuropeUnderstanding EXIF and metadataEXIF stands for Exchangeable Image File Format. It is a standardised way of storing useful met...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Exif" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">ExifPrivacy and security. edit. Since the Exif tag contains metadata about the photo, it can pose a privacy problem. For example, a ph...</span></span></span> The FBI has warned that geolocation data embedded in images can reveal where a person lives, works or spends time, recommending that users remove EXIF data before sharing photographs online. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fbi.gov/contact-us/field-offices/portland/news/press-releases/oregon-fbi-tech-tuesday-building-a-digital-defense-against-dangers-of-exif-data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbi.gov">[Federal Bureau of Investigation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbi.gov</span><span class="citation-popover-snippet">Federal Bureau of InvestigationBuilding a Digital Defense Against Dangers of EXIF DataNov 17, 2020 — Turn off your phone or camera&#x27;s geo...</span></span></span>
+
+For UFO reports, this creates a distinctive problem. A witness may believe they are sharing only an image of an unusual object in the sky, while the file itself may disclose the exact location from which the observation was made. That information can potentially identify the witness even if the public-facing report omits their name.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/i_80J6rUQmQ" title="Metadata: The Invisible Threat Beyond Encryption" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=i_80J6rUQmQ" target="_blank" rel="noopener noreferrer">Metadata: The Invisible Threat Beyond Encryption</a></p><p class="youtube-embed-meta">Channel: Cybersecurity Learning &middot; Views: 5.8K &middot; Uploaded: February 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=i_80J6rUQmQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=i_80J6rUQmQ">Open on YouTube</a></p></div></div></div>
+
+## Why Exact Locations and Metadata Matter
+
+MUFON's investigative process values precise location information because it helps reconstruct sighting conditions. The organisation states that reports may collect data including latitude and longitude as part of its effort to analyse sightings scientifically. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">Mufon&#x27;s Ufo, Et Research Tracking ToolsThe MUFON Case Management System (CMS) is a powerful tool designed to help researchers, investigat...</span></span></span>
+
+From an investigative perspective, exact coordinates can be useful. They allow investigators to compare reports with aircraft movements, astronomical events, satellite passes and environmental conditions. However, the same information can create privacy concerns when linked to an identifiable person.
+
+In sparsely populated areas, a set of coordinates may point to a single property. Even in urban environments, combining a location with a date, time and publicly visible social-media activity can narrow the pool of potential witnesses. Privacy researchers have repeatedly demonstrated that location information is often highly identifying, even when names are removed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2103.10851" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">March 19, 2021...</span><span class="citation-popover-meta">Published: March 19, 2021</span></span></span>
+
+A further complication is that geolocation can sometimes be inferred from image content alone. Landmarks, skylines, terrain features and other visual clues may allow viewers to identify where a photograph was taken, even if metadata has been removed. Research on photo geolocation has shown that images can sometimes be matched to locations through visual analysis without relying on embedded GPS data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2103.10851" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">March 19, 2021...</span><span class="citation-popover-meta">Published: March 19, 2021</span></span></span>
+
+This means that privacy risks do not disappear simply because metadata is stripped from a file.
+
+
+<img src="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_attachment_pri_ac069d-Illustration-2-dark.svg" | relative_url }}" alt="Privacy risks illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_attachment_pri_ac069d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_attachment_pri_ac069d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Why Large Case Repositories Increase Exposure
+
+The privacy implications become greater when attachments are stored within a large case-management system rather than remaining in private correspondence.
+
+MUFON's Case Management System functions as a repository for witness reports and associated files, including photographs, videos, drawings and investigation materials. The organisation promotes the system as a searchable database and reports that its archive contains well over one hundred thousand witness-submitted cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slideserve.com/alcina/mufon-case-management-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slideserve.com">[SlideServe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slideserve.com</span><span class="citation-popover-title">mufon case management system</span><span class="citation-popover-snippet">SlideServeMUFON Case Management System5 Sept 2014 — Allows a witness to easily REPORT their UFO Sighting to MUFON via the Internet • A RE...</span></span></span> MUFON Large repositories create several governance challenges: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/cms-ifo-info/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[mufon.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">MUFONCMS IFO InfoAll witnesses who attach files to this report must acknowledge that by clicking the CONTINUE WITH REPORT button below, t...</span></span></span>
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Sensitive files may remain accessible long after a witness expected interest in a case to fade.
+* Future database features can make older material easier to search and cross-reference.
+* Information that appears harmless in isolation may become identifying when combined with other records.
+* Researchers, investigators or members may notice details that the original witness overlooked.
+
+</div>
+
+The issue is not necessarily malicious access. Often the concern is cumulative disclosure: small pieces of information from multiple files can combine into a surprisingly complete picture of a person's identity, location or activities.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nrBhhUzwgMk" title="What It Takes To Be A MUFON Investigator - We Are Not Alone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nrBhhUzwgMk" target="_blank" rel="noopener noreferrer">What It Takes To Be A MUFON Investigator - We Are Not Alone</a></p><p class="youtube-embed-meta">Channel: Queen City News &middot; Views: 1.0K &middot; Uploaded: October 2025 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nrBhhUzwgMk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nrBhhUzwgMk">Open on YouTube</a></p></div></div></div>
+
+## How Privacy Protection Can Limit Public Access
+
+The privacy risks associated with attachments help explain why UFO databases frequently restrict access to complete case files.
+
+A written sighting summary can often be shared publicly with relatively little risk. Attached media are different. Images, videos and documents may contain identifiable information, hidden metadata or details about third parties who never agreed to public disclosure. As a result, organisations may limit who can view original files, redact information before publication, or keep certain materials available only to investigators and authorised users. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">MUFON Through the AgesThe MUFON Case Management System (CMS) now holds over 140,000 witness submitted cases! 2024. The MUFON Symposium re...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">MUFON: HomeRead and Search MUFON Case Management System Reports; Monthly MUFON e-Journal with Exclusive UFO Coverage; Access to The Obser...</span></span></span>
+
+This creates a recurring tension within UFO research. Greater openness can improve transparency and independent analysis, yet stronger privacy protection often requires restricting access to the most detailed evidence. The attachments that make a case more useful for investigation are frequently the same materials that create the greatest privacy concerns.
+
+In that sense, attachment privacy is not a side issue within MUFON's reporting model. It is one of the central reasons why a fully open UFO archive is difficult to maintain. Detailed evidence and witness protection often pull in opposite directions, forcing database operators to balance investigative value against the obligation to protect the people who submitted the material.
+
+
+<img src="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_attachment_pri_ac069d-Illustration-3-dark.svg" | relative_url }}" alt="Privacy risks illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_attachment_pri_ac069d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_attachment_pri_ac069d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to What Can a UFO File Reveal?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael D. Swords</p>
+        
+        <p class="fr-book-desc">Strong fit for case files, investigation records, official documentation and evidential tradeoffs.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+        </h4>
+        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        
+        <p class="fr-book-desc">Explains classification, witness evaluation and the problem of turning reports into usable evidence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+        </h4>
+        <p class="fr-book-author">By Leslie Kean</p>
+        
+        <p class="fr-book-desc">Covers UFO evidence handling, official records, witness reports and the limits of public case material.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+        </h4>
+        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+        
+        <p class="fr-book-desc">Useful for understanding how UFO reports, artefacts and testimony become socially meaningful records.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: mufon.com  
+   Link: [https://mufon.com/cms-ifo-info/](https://mufon.com/cms-ifo-info/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFONCMS IFO InfoAll witnesses who attach files to this report must acknowledge that by clicking the CONTINUE WITH REPORT button below, t...</p></details>
+
+2. <a id="endnote-2"></a>
+   Source: arxiv.org  
+   Link: [https://arxiv.org/abs/2103.10851](https://arxiv.org/abs/2103.10851)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 19, 2021...</p></details>
+   Published: March 19, 2021  
+
+3. <a id="endnote-3"></a>
+   Source: canon-europe.com  
+   Link: [https://www.canon-europe.com/pro/infobank/all-about-exif/](https://www.canon-europe.com/pro/infobank/all-about-exif/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canon EuropeUnderstanding EXIF and metadataEXIF stands for Exchangeable Image File Format. It is a standardised way of storing useful met...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: Wikipedia  
+   Link: [https://en.wikipedia.org/wiki/Exif](https://en.wikipedia.org/wiki/Exif)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ExifPrivacy and security. edit. Since the Exif tag contains metadata about the photo, it can pose a privacy problem. For example, a ph...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: fbi.gov  
+   Link: [https://www.fbi.gov/contact-us/field-offices/portland/news/press-releases/oregon-fbi-tech-tuesday-building-a-digital-defense-against-dangers-of-exif-data](https://www.fbi.gov/contact-us/field-offices/portland/news/press-releases/oregon-fbi-tech-tuesday-building-a-digital-defense-against-dangers-of-exif-data)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Bureau of InvestigationBuilding a Digital Defense Against Dangers of EXIF DataNov 17, 2020 — Turn off your phone or camera&#x27;s geo...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: mufon.com  
+   Link: [https://mufon.com/the-scientific-method/](https://mufon.com/the-scientific-method/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFONThe Scientific MethodAmong the parameters collected on UFO reports include: date, time, latitude, longitude, witness report, witness...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: arxiv.org  
+   Title: arXiv Protecting Geolocation Privacy of Photo Collections  
+   Link: [https://arxiv.org/abs/1912.02085](https://arxiv.org/abs/1912.02085)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivProtecting Geolocation Privacy of Photo CollectionsDecember 4, 2019...</p></details>
+   Published: December 4, 2019  
+
+8. <a id="endnote-8"></a>
+   Source: arxiv.org  
+   Link: [https://arxiv.org/abs/1603.01335](https://arxiv.org/abs/1603.01335)  
+
+9. <a id="endnote-9"></a>
+   Source: slideserve.com  
+   Title: mufon case management system  
+   Link: [https://www.slideserve.com/alcina/mufon-case-management-system](https://www.slideserve.com/alcina/mufon-case-management-system)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>SlideServeMUFON Case Management System5 Sept 2014 — Allows a witness to easily REPORT their UFO Sighting to MUFON via the Internet • A RE...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: mufon.com  
+   Link: [https://mufon.com/research/](https://mufon.com/research/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mufon&#x27;s Ufo, Et Research Tracking ToolsThe MUFON Case Management System (CMS) is a powerful tool designed to help researchers, investigat...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: mufon.com  
+   Link: [https://mufon.com/history/](https://mufon.com/history/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON Through the AgesThe MUFON Case Management System (CMS) now holds over 140,000 witness submitted cases! 2024. The MUFON Symposium re...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: mufon.com  
+   Link: [https://mufon.com/](https://mufon.com/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON: HomeRead and Search MUFON Case Management System Reports; Monthly MUFON e-Journal with Exclusive UFO Coverage; Access to The Obser...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: mufon.com  
+   Link: [https://mufon.com/become-a-mufon-field-investigator/](https://mufon.com/become-a-mufon-field-investigator/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Become a Mufon Field InvestigatorTrack UFOs · Field Investigator CMS Login · Become a Field Investigator · Report a UFO · Report an Exper...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: mufon.com  
+   Link: [https://mufon.com/join/](https://mufon.com/join/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>or undertaking with costs...Read more...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: mufon.com  
+   Link: [https://mufon.com/contact/](https://mufon.com/contact/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ContactTo ensure your report is properly tracked and investigated, please submit your sighting directly through our website by clicking o...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: mufon.com  
+   Link: [https://mufon.com/search_database-terms-and-conditions/](https://mufon.com/search_database-terms-and-conditions/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Search Database Terms and ConditionsThe Mutual UFO Network (MUFON) allows active members to access certain parts of our Case Management S...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: mufon.com  
+   Link: [https://mufon.com/history-2/](https://mufon.com/history-2/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Brief History of MufonHas a computerized UFO Case Management System (CMS) with over 139,000UFO cases; Has a structured Field Investigat...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: lucidtruthtechnologies.com  
+   Title: Understanding Metadata in Digital Forensics: HTML vs  
+   Link: [https://lucidtruthtechnologies.com/understanding-meta-data-in-digital-forensics/](https://lucidtruthtechnologies.com/understanding-meta-data-in-digital-forensics/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>EXIFThis blog post aims to clarify the differences between HTML metadata and EXIF data, discuss their implications in legal contexts, and...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: mufongeorgia.org  
+   Link: [https://mufongeorgia.org/report-ufo/](https://mufongeorgia.org/report-ufo/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Report a UFOIn order to effectively catalogue and investigate all these reports MUFON asks that you submit your sighting reports with pho...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: proton.me  
+   Title: exif data  
+   Link: [https://proton.me/blog/exif-data](https://proton.me/blog/exif-data)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>in shared photos may compromise your privacyAug 6, 2025 — EXIF data in your photos can reveal more than you think, including your locatio...</p></details>
+
+21. <a id="endnote-21"></a>
+   Source: dochub.com  
+   Link: [https://www.dochub.com/fillable-form/109085-mufon-field-investigator-manual](https://www.dochub.com/fillable-form/109085-mufon-field-investigator-manual)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ien UFO Investigations. MUFON Field Investigators are the...Read more...</p></details>
+
+### Additional References
+
+22. <a id="endnote-22"></a>
+   Source: nist.gov  
+   Link: [https://www.nist.gov/image/data-metadata](https://www.nist.gov/image/data-metadata)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Data &amp; MetadataOther organizations may use this image without charge for editorial articles that mention NIST in accompanying text or a c...</p></details>
+
+23. <a id="endnote-23"></a>
+   Source: [archives](&#123;&#123; 'archives/' | relative_url &#125;&#125;). gov  
+   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...NARA has records related to unidentified flying objects (UFO) and unidentifi...</p></details>
+
+24. <a id="endnote-24"></a>
+   Source: adarsus.com  
+   Link: [https://www.adarsus.com/en/all-about-the-metadata-of-a-photograph/](https://www.adarsus.com/en/all-about-the-metadata-of-a-photograph/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>EXIF or IPTC metadata of the photographsThe EXIF metadata also contain the location coordinates in case the camera is GPS-enabled, as wel...</p></details>
+
+25. <a id="endnote-25"></a>
+   Source: dokumen.pub  
+   Link: [https://dokumen.pub/haynes-ufo-investigations-manual-ufo-investigations-from-1892-to-the-present-day-085733400x-9780857334008.html](https://dokumen.pub/haynes-ufo-investigations-manual-ufo-investigations-from-1892-to-the-present-day-085733400x-9780857334008.html)  
+
+26. <a id="endnote-26"></a>
+   Source: majorcitieschiefs.com  
+   Link: [https://majorcitieschiefs.com/wp-content/uploads/2024/06/MCCA-UAP_Reference-Guide-June-2024-.pdf](https://majorcitieschiefs.com/wp-content/uploads/2024/06/MCCA-UAP_Reference-Guide-June-2024-.pdf)  
+
+27. <a id="endnote-27"></a>
+   Source: pdffiller.com  
+   Link: [https://www.pdffiller.com/101430199-Form2030-MUFON20Field20Investigators20Reportpdf-mufon-field-investigator-manual-](https://www.pdffiller.com/101430199-Form2030-MUFON20Field20Investigators20Reportpdf-mufon-field-investigator-manual-)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>2015-2026 MUFON Form 30 Field Investigators Report5 May 2026 — MUFON Form 30 Field Investigators Report is needed by: Field Investigators...</p></details>
+   Published: May 2026  
+
+28. <a id="endnote-28"></a>
+   Source: consumerreports.org  
+   Title: CR tells you how social media and photo-storage sites handle the data,  
+   Link: [https://www.consumerreports.org/electronics-computers/privacy/what-can-you-tell-from-photo-exif-data-a2386546443/](https://www.consumerreports.org/electronics-computers/privacy/what-can-you-tell-from-photo-exif-data-a2386546443/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>How a Photo&#x27;s Hidden &#x27;Exif&#x27; Data Exposes Your Personal...Dec 6, 2019 — A photo&#x27;s embedded Exif data can give away your location information...</p></details>
+
+29. <a id="endnote-29"></a>
+   Source: isaca.org  
+   Title: what to know about exif data a more subtle cybersecurity risk  
+   Link: [https://www.isaca.org/resources/news-and-trends/industry-news/2025/what-to-know-about-exif-data-a-more-subtle-cybersecurity-risk](https://www.isaca.org/resources/news-and-trends/industry-news/2025/what-to-know-about-exif-data-a-more-subtle-cybersecurity-risk)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>What to Know About EXIF Data, a More Subtle...Feb 6, 2025 — EXIF data consists of more than just the visible pixels; it also houses a pl...</p></details>
+
+30. <a id="endnote-30"></a>
+   Source: security.stackexchange.com  
+   Title: gps metadata in uploaded pictures vulnerability or not  
+   Link: [https://security.stackexchange.com/questions/272944/gps-metadata-in-uploaded-pictures-vulnerability-or-not](https://security.stackexchange.com/questions/272944/gps-metadata-in-uploaded-pictures-vulnerability-or-not)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>metadata in uploaded pictures: vulnerability or not?2 Nov 2023 — If a web application (like an internet forum, social media, etc.) does n...</p></details>
+
+31. <a id="endnote-31"></a>
+   Source: webiano.digital  
+   Title: the hidden privacy risk inside every photo you share  
+   Link: [https://webiano.digital/the-hidden-privacy-risk-inside-every-photo-you-share/](https://webiano.digital/the-hidden-privacy-risk-inside-every-photo-you-share/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>14-Apr-2026 — Committee to Protect Journalists advises reporters to remove metadata before posting because EXIF can reveal when and where...</p></details>
