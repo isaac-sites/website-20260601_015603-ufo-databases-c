@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-report-databases-8352a3-public-vs/
 description: Focused pages that expand on Public vs Official.
-date: '2026-06-01'
+date: '2026-06-09'
 layout: default
 parent_basename: ufo_report_databases_8352a3_public_vs_official_u_af5202
 parent_title: Public vs Official | UFO Report Databases And Catalogues

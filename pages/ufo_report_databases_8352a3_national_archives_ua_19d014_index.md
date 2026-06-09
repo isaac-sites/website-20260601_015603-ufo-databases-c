@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-report-databases-8352a3-national/
 description: Focused pages that expand on Archives.
-date: '2026-06-01'
+date: '2026-06-09'
 layout: default
 parent_basename: ufo_report_databases_8352a3_national_archives_ua_19d014
 parent_title: Archives | UFO Report Databases And Catalogues

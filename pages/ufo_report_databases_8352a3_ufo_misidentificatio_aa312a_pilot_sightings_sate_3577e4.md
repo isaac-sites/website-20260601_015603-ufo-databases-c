@@ -501,9 +501,9 @@ The result is not a dismissal of pilot testimony. Instead, it is an argument for
 
 12. <a id="endnote-12"></a>
    Source: aaro.mil  
-   Title: Go Fast Case Resolution Card Methodology Final  
+   Title: [Go Fast](&#123;&#123; 'go-fast/' | relative_url &#125;&#125;) Case Resolution Card Methodology Final  
    Link: [https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf](https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO [GoFast](&amp;#123;&amp;#123; &#x27;gofast/&#x27; | relative_url &amp;#125;&amp;#125;) Case Resolution6 Feb 2025 — Dividing this distance by the 13 seconds elapsed between t1 and t2 gave an estimated speed of abo...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO GoFast Case Resolution6 Feb 2025 — Dividing this distance by the 13 seconds elapsed between t1 and t2 gave an estimated speed of abo...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: science.nasa.gov  

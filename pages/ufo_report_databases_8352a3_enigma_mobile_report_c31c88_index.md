@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-report-databases-8352a3-enigma/
 description: Focused pages that expand on Enigma.
-date: '2026-06-01'
+date: '2026-06-09'
 layout: default
 parent_basename: ufo_report_databases_8352a3_enigma_mobile_report_c31c88
 parent_title: Enigma | UFO Report Databases And Catalogues

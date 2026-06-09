@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-report-databases-8352a3-mufon/
 description: Focused pages that expand on MUFON.
-date: '2026-06-01'
+date: '2026-06-09'
 layout: default
 parent_basename: ufo_report_databases_8352a3_mufon_investigations_00f5bd
 parent_title: MUFON | UFO Report Databases And Catalogues

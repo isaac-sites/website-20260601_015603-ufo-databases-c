@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-report-databases-8352a3-aaro/
 description: Focused pages that expand on AARO.
-date: '2026-06-01'
+date: '2026-06-09'
 layout: default
 parent_basename: ufo_report_databases_8352a3_aaro_unresolved_case_7f814d
 parent_title: AARO | UFO Report Databases And Catalogues
@@ -21,5 +21,5 @@ The following pages expand on the main **[AARO]({{ '/aaro/' | relative_url }})**
 - [Active Archive]({{ '/active-archive/' | relative_url }})
 - [Wake Artefacts]({{ '/wake-artefacts/' | relative_url }})
 - [FAA Logs]({{ '/faa-logs/' | relative_url }})
-- [GoFast]({{ '/gofast/' | relative_url }})
+- [Go Fast]({{ '/go-fast/' | relative_url }})
 - [Missing Data]({{ '/missing-data/' | relative_url }})
