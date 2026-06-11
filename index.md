@@ -166,10 +166,6 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-header:
-  og_image: /assets/images/ufo_report_databases_8352a3-overview-social.jpg
-  preview_image: /assets/images/ufo_report_databases_8352a3-overview-social.jpg
-image: /assets/images/ufo_report_databases_8352a3-overview-social.jpg
 site_image_description: A desk covered with printed UFO sighting forms, archival folders, a city map with pins, and a laptop showing a night-sky database...
 ---
 
