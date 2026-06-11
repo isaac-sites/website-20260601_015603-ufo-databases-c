@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /reliability/
 nav_short_title: Case Labels
 title: When Does Unexplained Really Mean Unknown?
-title_full: When Does Unexplained Really Mean Unknown? | Reliability
+title_full: When Does Unexplained Really Mean Unknown?
 display_title_short: Case Labels
 display_title: Case Labels
 heading_title: When Does Unexplained Really Mean Unknown?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 01:44:24'
-parent_title: Which UFO Databases Are Worth Trusting? | UFO Archives
+parent_title: Which UFO Databases Are Worth Trusting?
 parent_permalink: /reliability/
 parent_nav_short_title: Reliability
 parent_heading_title: Which UFO Databases Are Worth Trusting?
@@ -276,7 +276,6 @@ image: /assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_cl
 
 A UFO case can appear much stronger than it really is because of a single word in a database entry. Labels such as “unexplained”, “unknown”, “unidentified” and “anomalous” often sound as if investigators ruled out every ordinary explanation and were left with a genuine mystery. In practice, different databases use those words in very different ways. Some labels reflect a completed investigation. Others simply mean that the report could not be matched to a known explanation using the information available at the time.
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_classification_label_03e9b0-Illustration-1-dark.svg" | relative_url }}" alt="Case Labels illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_classification_label_03e9b0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_classification_label_03e9b0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This creates one of the biggest comparison problems in UFO research. Two databases may both contain a category called “unknown”, yet one may reserve it for heavily investigated cases while another applies it to reports with minimal follow-up. Understanding how labels are assigned is often more important than the label itself. A database with strict classification rules can make a small number of “unknowns” meaningful. A database with vague rules can make the same word almost impossible to interpret. Pieces of History <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Eds Whs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Eds WhsProject Blue BookThe Air Force groups its evaluations of UFO reports under three general headings: (1) identified. (2) insufficie...</span></span></span>
 
@@ -308,7 +307,6 @@ Some databases display cases as open or under investigation. These labels can cr
 
 The National UFO Reporting Center, for example, primarily functions as a reporting and archival system. A report's presence in the database or its unresolved status should not automatically be interpreted as evidence that investigators found something extraordinary. [[nuforc]({{ 'nuforc/' | relative_url }}). org+2nuforc.org]
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fb7T1v_VHpE" title="The Unknowns: Mystifying UFO Cases" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fb7T1v_VHpE" target="_blank" rel="noopener noreferrer">The Unknowns: Mystifying UFO Cases</a></p><p class="youtube-embed-meta">Channel: LEMMiNO &middot; Views: 13.0M &middot; Uploaded: November 2017 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fb7T1v_VHpE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fb7T1v_VHpE">Open on YouTube</a></p></div></div></div>
 
 ## Why Insufficient Data Is Not an Anomaly
@@ -318,7 +316,6 @@ One of the most common mistakes in UFO database analysis is treating “insuffic
 Project Blue Book explicitly separated insufficient-data cases from unidentified cases. This distinction recognised a basic investigative reality: a report cannot be analysed properly if key information is missing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prologue.blogs.archives.gov">[Pieces of History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prologue.blogs.archives.gov</span><span class="citation-popover-title">blue book 2</span><span class="citation-popover-snippet">Pieces of HistoryUFOs: Natural Explanations - Pieces of History16 Apr 2018 — After investigating a case, the Air Force placed it into one...</span></span></span>
 
 Missing information can include:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -338,7 +335,6 @@ This is especially important in large public databases. Online reporting systems
 
 A useful mental test is to ask whether the case remained unexplained after investigation or before investigation. Those are very different situations that are often collapsed into a single category when databases present summary statistics.
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_classification_label_03e9b0-Illustration-2-dark.svg" | relative_url }}" alt="Case Labels illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_classification_label_03e9b0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_classification_label_03e9b0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Labels Can Accidentally Inflate Mystery
 
@@ -356,7 +352,6 @@ Many UFO catalogues aggregate material from books, magazines, [archives]({{ 'arc
 
 A modern user may see a case marked “unknown” but have no access to the original investigator's reasoning. The label survives while the underlying evidence trail becomes harder to verify.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rO_M0hLlJ-Q" title="Watch the Pentagon&#x27;s three declassified UFO videos taken by U.S. Navy pilots" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rO_M0hLlJ-Q" target="_blank" rel="noopener noreferrer">Watch the Pentagon&#x27;s three declassified UFO videos taken by U.S. Navy pilots</a></p><p class="youtube-embed-meta">Channel: CNBC Television &middot; Views: 3.5M &middot; Uploaded: April 2020 &middot; Length: 1 minute 21 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rO_M0hLlJ-Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rO_M0hLlJ-Q">Open on YouTube</a></p></div></div></div>
 
 ### Ambiguous categories merge weak and strong cases
@@ -369,7 +364,6 @@ When categories are broad, readers can mistakenly assume that all entries carry 
 
 Terms such as “unexplained”, “anomalous” and “unknown” attract more attention than “insufficient information” or “likely misidentification”. This can subtly shape how databases are discussed online. Reports that receive dramatic labels are more likely to be shared, quoted and counted, even when the underlying evidence remains weak.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QYY5vVuit1Q" title="Project Blue Book: CIA MK Ultra Program (Season 2) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QYY5vVuit1Q" target="_blank" rel="noopener noreferrer">Project Blue Book: CIA MK Ultra Program (Season 2) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 544.4K &middot; Uploaded: February 2020 &middot; Length: 4 minutes 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QYY5vVuit1Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QYY5vVuit1Q">Open on YouTube</a></p></div></div></div>
 
 ## How Visible Rules Improve Comparison
@@ -377,7 +371,6 @@ Terms such as “unexplained”, “anomalous” and “unknown” attract more 
 The most reliable UFO databases do not merely assign labels. They explain them.
 
 A useful classification system should answer several questions:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -395,7 +388,6 @@ When these rules are visible, readers can compare databases more fairly.
 For example, a database reporting 5 per cent unidentified cases after extensive investigation may be more informative than a database reporting 40 per cent unexplained cases without documented review procedures. The percentage alone tells very little. The classification method tells much more.
 
 The strongest systems also preserve uncertainty. Rather than forcing every report into either “explained” or “mysterious”, they show intermediate states such as probable explanation, insufficient evidence, pending review and unresolved after investigation. Those distinctions reduce the risk that ordinary data limitations are mistaken for evidence of extraordinary phenomena.
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_classification_label_03e9b0-Illustration-3-dark.svg" | relative_url }}" alt="Case Labels illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_classification_label_03e9b0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_classification_label_03e9b0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Key Question Behind Every Label
@@ -803,164 +795,164 @@ That is why classification labels alone are poor indicators of evidential streng
 1. <a id="endnote-1"></a>
    Source: prologue.blogs.archives.gov  
    Title: blue book 2  
-   Link: [https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/](https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/)  
+   Link: <a href="https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pieces of HistoryUFOs: Natural Explanations - Pieces of History16 Apr 2018 — After investigating a case, the Air Force placed it into one...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: esd.whs.mil  
-   Link: [https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837)  
+   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eds WhsProject Blue BookThe Air Force groups its evaluations of UFO reports under three general headings: (1) identified. (2) insufficie...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
    Title: Browse reports, images, videos, maps and more  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witn...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 6. <a id="endnote-6"></a>
    Source: history.com  
    Title: Project Blue Book  
-   Link: [https://www.history.com/articles/project-blue-book](https://www.history.com/articles/project-blue-book)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HistoryProject Blue Book - Alien, Definition &amp; Files22 Feb 2010 — Similarly to the Robertson Panel, Blue Book would eventually classify m...</p></details>
+   Link: <a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book - Alien, Definition &amp; Files22 Feb 2010 — Similarly to the Robertson Panel, Blue Book would eventually classify m...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/reportform/](https://nuforc.org/reportform/)  
+   Link: <a href="https://nuforc.org/reportform/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/reportform/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting Report Form | NUFORCSIGHTING DATE AND TIME · SIGHTING LOCATION · DESCRIBE WHAT YOU SAW · TELL US ABOUT YOU · ADD IMAGES OR V...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/ndx/?id=shape](https://nuforc.org/ndx/?id=shape)  
+   Link: <a href="https://nuforc.org/ndx/?id=shape" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=shape</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by Shape... File a UFO Report · Donate · About Us · Toggle website search. NUFORC Reports by Shape. SHAPE, REPORT COUNT. U...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/spatial/](https://nuforc.org/spatial/)  
+   Link: <a href="https://nuforc.org/spatial/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/spatial/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Military tests? Experimental Boeing/...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/report-a-ufo/](https://nuforc.org/report-a-ufo/)  
+   Link: <a href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/report-a-ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>agency for reporting UFO/UAP related events...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/univutahstudy/](https://nuforc.org/univutahstudy/)  
+   Link: <a href="https://nuforc.org/univutahstudy/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/univutahstudy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Utah and Recent [AARO](&amp;#123;&amp;#123; &#x27;aaro/&#x27; | relative_url &amp;#125;&amp;#125;) Director Publish...15 Dec 2023 — Data [Reliability](&amp;#123;&amp;#123; &#x27;reliability/&#x27; | relative_url &amp;#125;&amp;#125;): The study acknowledges the challenge of...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: UFO Report (U.S. Intelligence)  
-   Link: [https://en.wikipedia.org/wiki/UFO_Report_%28U.S._Intelligence%29](https://en.wikipedia.org/wiki/UFO_Report_%28U.S._Intelligence%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_Report_%28U.S._Intelligence%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_Report_%28U.S._Intelligence%29</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Report (U.S. Intelligence)A lack of data does not mean aliens are the likely answer.&quot; Research... Five questions left unanswered...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookWith the termination of Project Blue Book, the Air Force regulation e...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: osi.af.mil  
    Title: project blue book part 1 ufo reports  
-   Link: [https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/](https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/)  
+   Link: <a href="https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book Part 1 (UFO Reports)6 Aug 2020 — Project Blue Book continued until 1969. A total of 12,618 sightings were reported to Project B...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: livescience.com  
    Title: Live Science US government declassifies dozens of additional UFO files  
-   Link: [https://www.livescience.com/space/extraterrestrial-life/us-government-declassifies-nearly-200-uap-files-including-strange-sightings-from-apollo-astronauts](https://www.livescience.com/space/extraterrestrial-life/us-government-declassifies-nearly-200-uap-files-including-strange-sightings-from-apollo-astronauts)  
+   Link: <a href="https://www.livescience.com/space/extraterrestrial-life/us-government-declassifies-nearly-200-uap-files-including-strange-sightings-from-apollo-astronauts" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/extraterrestrial-life/us-government-declassifies-nearly-200-uap-files-including-strange-sightings-from-apollo-astronauts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Due to the poor data quality, the reports do not contain any compelling evidence of alien intelligence. While NASA has not...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — Project Blue Book, code name for the United States&#x27; longest-running Air Force pro...</p></details>
    Published: May 2026  
 
 18. <a id="endnote-18"></a>
    Source: cuny.manifoldapp.org  
    Title: national ufo reporting center  
-   Link: [https://cuny.manifoldapp.org/read/national-ufo-reporting-center](https://cuny.manifoldapp.org/read/national-ufo-reporting-center)  
+   Link: <a href="https://cuny.manifoldapp.org/read/national-ufo-reporting-center" target="_blank" rel="noopener noreferrer nofollow">https://cuny.manifoldapp.org/read/national-ufo-reporting-center</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Reporting CenterApr 2, 2025 — The National UFO Reporting Center (NUFORC) is a text-heavy web-based archive with a searchable database...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: geekchocolate.co.uk  
    Title: project blue book  
-   Link: [https://geekchocolate.co.uk/project-blue-book/](https://geekchocolate.co.uk/project-blue-book/)  
+   Link: <a href="https://geekchocolate.co.uk/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://geekchocolate.co.uk/project-blue-book/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>9 Jan 2019 — Allen Hynek&#x27;s investigations for the U.S. Air Force into the existence of UFOs. The cases depicted are based on real events...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/library/d3b9f01b-ddb8-4ecf-bcf4-832e413200bf](https://enigmalabs.io/library/d3b9f01b-ddb8-4ecf-bcf4-832e413200bf)  
+   Link: <a href="https://enigmalabs.io/library/d3b9f01b-ddb8-4ecf-bcf4-832e413200bf" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/d3b9f01b-ddb8-4ecf-bcf4-832e413200bf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[Enigma](&amp;#123;&amp;#123; &#x27;enigma/&#x27; | relative_url &amp;#125;&amp;#125;) Labs | Report a UFO sightingThe National UFO Reporting Center (NUFORC)Gribble, receives, records, documents, and corroborates repo...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/OriginsOSU/posts/recently-the-pentagon-released-more-files-on-ufos-it-seems-like-every-few-months/1809383503713749/](https://www.facebook.com/OriginsOSU/posts/recently-the-pentagon-released-more-files-on-ufos-it-seems-like-every-few-months/1809383503713749/)  
+   Link: <a href="https://www.facebook.com/OriginsOSU/posts/recently-the-pentagon-released-more-files-on-ufos-it-seems-like-every-few-months/1809383503713749/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OriginsOSU/posts/recently-the-pentagon-released-more-files-on-ufos-it-seems-like-every-few-months/1809383503713749/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Air Force Investigation into UFOsProject Blue Book investigated 12,618 UFO sightings and 701 of those sightings remained unidentified...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: ufodatalive.com  
-   Link: [https://www.ufodatalive.com/about/](https://www.ufodatalive.com/about/)  
+   Link: <a href="https://www.ufodatalive.com/about/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufodatalive.com/about/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>sightings — is drawn from peer-reviewed academic research geocoding historical NUFORC (National UFO Reporting Center)...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: sofrep.com  
    Title: the truth behind ufos from project blue book to the pentagons uap task force  
-   Link: [https://sofrep.com/news/the-truth-behind-ufos-from-project-blue-book-to-the-pentagons-uap-task-force/](https://sofrep.com/news/the-truth-behind-ufos-from-project-blue-book-to-the-pentagons-uap-task-force/)  
+   Link: <a href="https://sofrep.com/news/the-truth-behind-ufos-from-project-blue-book-to-the-pentagons-uap-task-force/" target="_blank" rel="noopener noreferrer nofollow">https://sofrep.com/news/the-truth-behind-ufos-from-project-blue-book-to-the-pentagons-uap-task-force/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth Behind UFOs: From Project Blue Book to the...8 Feb 2026 — Project Blue Book had two main goals: to determine whether UFOs posed...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: enigmaticideas.com  
    Title: Shadowy beings: 68% of witnesses report fear. Greys: 38% involve abduction  
-   Link: [https://enigmaticideas.com/what-152-000-ufo-reports-reveal-about-entity-encounters/](https://enigmaticideas.com/what-152-000-ufo-reports-reveal-about-entity-encounters/)  
+   Link: <a href="https://enigmaticideas.com/what-152-000-ufo-reports-reveal-about-entity-encounters/" target="_blank" rel="noopener noreferrer nofollow">https://enigmaticideas.com/what-152-000-ufo-reports-reveal-about-entity-encounters/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What 152,000 UFO Reports Reveal About Entity Encounters8 Jan 2026 — I analyzed entity encounters in the NUFORC sightings database...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: weirddatascience.net  
    Title: the shape of the other the evolution of ufo sightings by shape  
-   Link: [https://www.weirddatascience.net/2018/06/20/the-shape-of-the-other-the-evolution-of-ufo-sightings-by-shape/](https://www.weirddatascience.net/2018/06/20/the-shape-of-the-other-the-evolution-of-ufo-sightings-by-shape/)  
+   Link: <a href="https://www.weirddatascience.net/2018/06/20/the-shape-of-the-other-the-evolution-of-ufo-sightings-by-shape/" target="_blank" rel="noopener noreferrer nofollow">https://www.weirddatascience.net/2018/06/20/the-shape-of-the-other-the-evolution-of-ufo-sightings-by-shape/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Shape of the Other: The Evolution of UFO Sightings...20 Jun 2018 — The NUFORC dataset classifies each sighting as one of 46 possible...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: popularmechanics.com  
    Title: j allen hynek project blue book ufo investigation truth  
-   Link: [https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/](https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/)  
+   Link: <a href="https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek &amp; Project Blue Book: UFO Secrets Revealed12 Apr 2026 — Explore the UFO mysteries J. Allen Hynek uncovered with Project Blue B...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: metabunk.org  
    Title: nuforc sightings categorized by decade and shape.14610  
-   Link: [https://www.metabunk.org/threads/nuforc-sightings-categorized-by-decade-and-shape.14610/](https://www.metabunk.org/threads/nuforc-sightings-categorized-by-decade-and-shape.14610/)  
+   Link: <a href="https://www.metabunk.org/threads/nuforc-sightings-categorized-by-decade-and-shape.14610/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/nuforc-sightings-categorized-by-decade-and-shape.14610/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC sightings categorized by decade and shape1 Dec 2025 — Interesting. I&#x27;ve been working on a report rating scheme to grade UFO report...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: medium.com  
-   Link: [https://medium.com/illumination/project-blue-book-unidentified-unexplained-or-misunderstood-0a9524ba3664](https://medium.com/illumination/project-blue-book-unidentified-unexplained-or-misunderstood-0a9524ba3664)  
+   Link: <a href="https://medium.com/illumination/project-blue-book-unidentified-unexplained-or-misunderstood-0a9524ba3664" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/illumination/project-blue-book-unidentified-unexplained-or-misunderstood-0a9524ba3664</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>es Air Force (USAF), started in 1952 and continuing until the end of 1969.Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: steeped.ai  
    Title: ufo sightings data analysis exploring tier 1 reports  
-   Link: [https://steeped.ai/ufo-sightings-data-analysis-exploring-tier-1-reports/](https://steeped.ai/ufo-sightings-data-analysis-exploring-tier-1-reports/)  
+   Link: <a href="https://steeped.ai/ufo-sightings-data-analysis-exploring-tier-1-reports/" target="_blank" rel="noopener noreferrer nofollow">https://steeped.ai/ufo-sightings-data-analysis-exploring-tier-1-reports/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Data Analysis: Exploring 1500+ Tier 1 Reports21 Jan 2026 — As the “National” in NUFORC suggests, these sightings were heavi...</p></details>

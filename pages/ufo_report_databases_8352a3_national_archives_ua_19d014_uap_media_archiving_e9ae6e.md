@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /archives/
 nav_short_title: Media Handling
 title: Preserving UAP Photographs, Film, and Sound in Archives
-title_full: Preserving UAP Photographs, Film, and Sound in Archives | Archives
+title_full: Preserving UAP Photographs, Film, and Sound in Archives
 display_title_short: Media Handling
 display_title: Media Handling
 heading_title: Preserving UAP Photographs, Film, and Sound in Archives
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 21:06:52'
-parent_title: Finding Original UFO Records in Archives | UFO Archives
+parent_title: Finding Original UFO Records in Archives
 parent_permalink: /archives/
 parent_nav_short_title: Archives
 parent_heading_title: Finding Original UFO Records in Archives
@@ -274,8 +274,7 @@ image: /assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_ua
 
 ## Introduction
 
-UAP [archives]({{ 'archives/' | relative_url }}) are not built from text alone. Photographs, motion-picture film, cockpit video, radar-derived imagery, audio recordings, witness interviews and briefing materials often carry as much evidential value as written reports. For that reason, the [National Archives]({{ 'archives/' | relative_url }}) and Records Administration (NARA) and related archival programmes do not simply store images or recordings as detached files. They preserve them alongside catalogue metadata, provenance information, record-group identifiers and supporting documentation so that researchers can determine where a file came from, how it was handled and what institutional context surrounded it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/category/information-management/manage-information/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesHow to manage information ArchivesThis page introduces some of the types of born-digital records that The National A...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/category/information-management/manage-information/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesHow to manage information ArchivesThis page introduces some of the types of born-digital records that The National A...</span></span></span>
-
+UAP [archives]({{ 'archives/' | relative_url }}) are not built from text alone. Photographs, motion-picture film, cockpit video, radar-derived imagery, audio recordings, witness interviews and briefing materials often carry as much evidential value as written reports. For that reason, the National Archives and Records Administration (NARA) and related archival programmes do not simply store images or recordings as detached files. They preserve them alongside catalogue metadata, provenance information, record-group identifiers and supporting documentation so that researchers can determine where a file came from, how it was handled and what institutional context surrounded it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/category/information-management/manage-information/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesHow to manage information ArchivesThis page introduces some of the types of born-digital records that The National A...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/category/information-management/manage-information/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesHow to manage information ArchivesThis page introduces some of the types of born-digital records that The National A...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_uap_media_archiving_e9ae6e-Illustration-1-dark.svg" | relative_url }}" alt="Media Handling illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_uap_media_archiving_e9ae6e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_uap_media_archiving_e9ae6e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the growing UAP records ecosystem, the challenge is not merely keeping media accessible. It is maintaining a chain of context. A video clip without its originating report, a photograph without date information, or an audio file separated from its accompanying transcript can quickly become difficult to authenticate or interpret. Archival handling practices are designed to prevent that loss of meaning.
@@ -285,7 +284,6 @@ Within the growing UAP records ecosystem, the challenge is not merely keeping me
 NARA separates many visual and audiovisual records into specialised archival branches rather than leaving them embedded inside textual collections. This reflects long-standing preservation practice for government photographs, film reels, videotapes and sound recordings, which require different storage environments, cataloguing systems and conservation procedures than paper files. The National Archives maintains dedicated moving-image and sound holdings containing hundreds of thousands of film, video and audio items. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/category/information-management/manage-information/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesHow to manage information ArchivesThis page introduces some of the types of born-digital records that The National A...</span></span></span>
 
 For UAP-related material, this means that a sighting file may exist in more than one archival location:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -306,7 +304,6 @@ One of the most common misunderstandings in UFO research is the assumption that 
 
 A photograph gains meaning from accompanying metadata such as:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Date of creation.
@@ -325,7 +322,6 @@ This is particularly important in UAP collections because many famous images hav
 
 The same principle applies to video clips. A short extract distributed online may represent only part of a larger recording. Archive descriptions help establish whether the clip came from a training file, an intelligence briefing, a sensor recording, a newsreel or another source entirely.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MEeG81arab0" title="National archives digitizes once-secret UFO records | Elizabeth Vargas Reports" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MEeG81arab0" target="_blank" rel="noopener noreferrer">National archives digitizes once-secret UFO records | Elizabeth Vargas Reports</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 65.7K &middot; Uploaded: September 2023 &middot; Length: 3 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MEeG81arab0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MEeG81arab0">Open on YouTube</a></p></div></div></div>
 
 ## Cataloguing metadata and context notes
@@ -334,7 +330,7 @@ Modern UAP collections increasingly depend on metadata rather than physical fili
 
 Those metadata records can include information such as:
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/topics/uaps/rg-615" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[* National Archives identifiers.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesRecord Group 615: Unidentified Anomalous Phenomena...This web page provides a list of UAP records, with links to the Na...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/topics/uaps/rg-615" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[* Record-group assignments.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesRecord Group 615: Unidentified Anomalous Phenomena...This web page provides a list of UAP records, with links to the Na...</span></span></span>
+* National Archives identifiers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/topics/uaps/rg-615" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[archives.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesRecord Group 615: Unidentified Anomalous Phenomena...This web page provides a list of UAP records, with links to the Na...</span></span></span> * Record-group assignments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/topics/uaps/rg-615" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[archives.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesRecord Group 615: Unidentified Anomalous Phenomena...This web page provides a list of UAP records, with links to the Na...</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -351,14 +347,12 @@ For researchers building searchable UFO databases, these metadata layers are oft
 
 Preservation specialists also distinguish between descriptive metadata and technical metadata. Descriptive metadata explains what a record is and why it exists. Technical and preservation metadata record details necessary for long-term access, including file formats, digitisation characteristics and preservation actions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/topics/uaps/rg-615" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesRecord Group 615: Unidentified Anomalous Phenomena...This web page provides a list of UAP records, with links to the Na...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nedcc.org/fundamentals-of-av-preservation-textbook/chapter-4-introduction/chapter-4-section-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nedcc.org">[NEDCC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nedcc.org</span><span class="citation-popover-title">Fundamentals of AV Preservation</span><span class="citation-popover-snippet">Chapter 4 — NEDCCPreservation metadata is the information necessary to support the management and long-term accessibility and usability o...</span></span></span> This distinction matters for UAP archives because many records are now born-digital. Sensor imagery, surveillance footage and digital photographs may never have existed as physical artefacts. Their authenticity therefore depends heavily on the preservation of accompanying technical information.
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_uap_media_archiving_e9ae6e-Illustration-2-dark.svg" | relative_url }}" alt="Media Handling illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_uap_media_archiving_e9ae6e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_uap_media_archiving_e9ae6e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How photographs are linked back to case files
 
 Archives rarely treat photographs as standalone evidence. Instead, photographs are linked through catalogue relationships to the files that explain why the image was created or collected.
 
 In practical terms, a UAP photograph may be connected to:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -378,7 +372,6 @@ NARA's UAP catalogue pages are organised by record group and archival descriptio
 
 For researchers, this structure reduces a common problem in UFO literature: images being reproduced without clear sourcing. A catalogue entry can reveal whether a photograph came directly from an agency file, a public submission, a news source or another repository.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UlmwakUTo3M" title="UFO Interview, 1966" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UlmwakUTo3M" target="_blank" rel="noopener noreferrer">UFO Interview, 1966</a></p><p class="youtube-embed-meta">Channel: US National Archives &middot; Views: 688.0K &middot; Uploaded: September 2013 &middot; Length: 4 minutes 31 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UlmwakUTo3M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UlmwakUTo3M">Open on YouTube</a></p></div></div></div>
 
 ## Redaction and separation from textual files
@@ -396,14 +389,12 @@ Researchers sometimes encounter missing frames, blurred areas, muted audio segme
 
 Because audiovisual records often contain multiple kinds of sensitive information simultaneously, media files can require different review procedures than accompanying text documents. A written report might be releasable while a related image remains restricted, or vice versa.
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_uap_media_archiving_e9ae6e-Illustration-3-dark.svg" | relative_url }}" alt="Media Handling illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_uap_media_archiving_e9ae6e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_uap_media_archiving_e9ae6e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Digital preservation of born-digital UAP media
 
 The newest UAP records increasingly arrive as digital files rather than paper documents or physical film. NARA's UAP guidance specifies that agencies transfer digital versions of records into the collection, reflecting a broader shift towards digital preservation workflows. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/category/information-management/manage-information/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesHow to manage information ArchivesThis page introduces some of the types of born-digital records that The National A...</span></span></span>
 
 Preserving born-digital UAP media involves more than storing copies on a server. Archives must address:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -419,7 +410,6 @@ National Archives guidance on digital preservation and file formats emphasises s
 
 For UAP collections, this is particularly relevant because many records involve specialised imagery formats, sensor outputs and digital-video files that may outlive the software originally used to create them.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ADMcelTgWYo" title="Here are the released videos from Pentagon&#x27;s first batch of UFO files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ADMcelTgWYo" target="_blank" rel="noopener noreferrer">Here are the released videos from Pentagon&#x27;s first batch of UFO files</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 446.4K &middot; Uploaded: May 2026 &middot; Length: 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ADMcelTgWYo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ADMcelTgWYo">Open on YouTube</a></p></div></div></div>
 
 ## What researchers can verify from archival media records
@@ -427,7 +417,6 @@ For UAP collections, this is particularly relevant because many records involve 
 The archival value of UAP photographs, film and sound recordings is not limited to what appears on screen or in an audio track. Catalogue descriptions, metadata packages and linked records allow researchers to ask verification questions that are impossible when media circulates independently online.
 
 A properly catalogued archival record may help establish:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -838,203 +827,203 @@ That approach reflects the broader purpose of national archives. The objective i
 
 1. <a id="endnote-1"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/rg-615](https://www.archives.gov/research/topics/uaps/rg-615)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-615" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-615</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecord Group 615: Unidentified Anomalous Phenomena...This web page provides a list of UAP records, with links to the Na...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/moving-images-and-sound](https://www.archives.gov/research/topics/uaps/moving-images-and-sound)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...This page provides a list of moving images and sound record...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/photographs](https://www.archives.gov/research/topics/uaps/photographs)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The page is organized by record group, with links to...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/motion-pictures](https://www.archives.gov/research/motion-pictures)  
+   Link: <a href="https://www.archives.gov/research/motion-pictures" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/motion-pictures</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesMoving Image and Sound Holdings at the...Apr 16, 2025 — 520,400 Film Reels; 312,066 Sound Recordings; 170,925 Video Rec...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/motion-pictures/order](https://www.archives.gov/research/motion-pictures/order)  
+   Link: <a href="https://www.archives.gov/research/motion-pictures/order" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/motion-pictures/order</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesOrder Copies of Motion Pictures and Sound RecordingsJun 17, 2022 — The audiovisual holdings of the Motion Picture, Sound...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download](https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download)  
+   Link: <a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesBulk Downloads for Records Related to Unidentified...Digitized and born-digital records related to Unidentified Anomalo...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nedcc.org  
    Title: Fundamentals of AV Preservation  
-   Link: [https://www.nedcc.org/fundamentals-of-av-preservation-textbook/chapter-4-introduction/chapter-4-section-5](https://www.nedcc.org/fundamentals-of-av-preservation-textbook/chapter-4-introduction/chapter-4-section-5)  
+   Link: <a href="https://www.nedcc.org/fundamentals-of-av-preservation-textbook/chapter-4-introduction/chapter-4-section-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nedcc.org/fundamentals-of-av-preservation-textbook/chapter-4-introduction/chapter-4-section-5</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 4 — NEDCCPreservation metadata is the information necessary to support the management and long-term accessibility and usability o...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/records-mgmt/memos/ac-04-2025](https://www.archives.gov/records-mgmt/memos/ac-04-2025)  
+   Link: <a href="https://www.archives.gov/records-mgmt/memos/ac-04-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/memos/ac-04-2025</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesAC 04.2025Oct 10, 2024 — For any publicly releasable records that include redactions, agencies must simultaneously trans...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/faqs](https://www.archives.gov/research/topics/uaps/faqs)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/faqs</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesUnidentified Anomalous Phenomena Records Collection24 Apr 2025 — The Unidentified Anomalous Phenomena (UAP) Records Coll...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — NARA has records related to unidentified flying objects (UFO)...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: archives.gov  
    Title: catalog film sound video  
-   Link: [https://www.archives.gov/research/motion-pictures/catalog-film-sound-video](https://www.archives.gov/research/motion-pictures/catalog-film-sound-video)  
+   Link: <a href="https://www.archives.gov/research/motion-pictures/catalog-film-sound-video" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/motion-pictures/catalog-film-sound-video</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Motion Picture, Sound, and Video Card CatalogsMar 17, 2022 — The main card catalog describes both government and commercially-produced ne...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: archives.gov  
    Title: Record Group 615  
-   Link: [https://www.archives.gov/findingaid/stat/discovery/615](https://www.archives.gov/findingaid/stat/discovery/615)  
+   Link: <a href="https://www.archives.gov/findingaid/stat/discovery/615" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/findingaid/stat/discovery/615</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena...Explore descriptions of our records. These records, though not yet digitized, are available at Nation...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: archives.gov  
    Title: order copies  
-   Link: [https://www.archives.gov/research/motion-pictures/order-copies](https://www.archives.gov/research/motion-pictures/order-copies)  
+   Link: <a href="https://www.archives.gov/research/motion-pictures/order-copies" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/motion-pictures/order-copies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of Moving Image and Sound HoldingsFeb 23, 2024 — The Moving Image and Sound Branch holdings at the National Archives in College Park are...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: archives.gov  
    Title: nr25 07  
-   Link: [https://www.archives.gov/press/press-releases/2025/nr25-07](https://www.archives.gov/press/press-releases/2025/nr25-07)  
+   Link: <a href="https://www.archives.gov/press/press-releases/2025/nr25-07" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/press/press-releases/2025/nr25-07</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives Releases UAP Records24 Apr 2025 — The National Archives and Records Administration (NARA) today released new records re...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/motion-pictures/contact](https://www.archives.gov/research/motion-pictures/contact)  
+   Link: <a href="https://www.archives.gov/research/motion-pictures/contact" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/motion-pictures/contact</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Visit the Moving Image and Sound Research Room in...Jun 24, 2025 — Welcome to the Moving Image and Sound Research Room at the National A...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/category/information-management/manage-information/](https://www.nationalarchives.gov.uk/category/information-management/manage-information/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/category/information-management/manage-information/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/information-management/manage-information/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesHow to manage information ArchivesThis page introduces some of the types of born-digital records that The National A...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/information-management/manage-information/digital-records-transfer/file-formats-transfer/](https://www.nationalarchives.gov.uk/information-management/manage-information/digital-records-transfer/file-formats-transfer/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/information-management/manage-information/digital-records-transfer/file-formats-transfer/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/information-management/manage-information/digital-records-transfer/file-formats-transfer/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesFile formats for transferThis page sets out the range of digital file formats that The National Archives can current...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/pronom/fmt/199](https://www.nationalarchives.gov.uk/pronom/fmt/199)  
+   Link: <a href="https://www.nationalarchives.gov.uk/pronom/fmt/199" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/pronom/fmt/199</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Details: File format summary17 Apr 2024 — PRONOM is an online technical registry providing impartial and definitive information about fil...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/digital-preservation-workflow-guidance-web-server-copy.docx](https://cdn.nationalarchives.gov.uk/documents/digital-preservation-workflow-guidance-web-server-copy.docx)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/digital-preservation-workflow-guidance-web-server-copy.docx" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/digital-preservation-workflow-guidance-web-server-copy.docx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DROID is designed to meet the...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/information-management/manage-information/preserving-digital-records/digitisation/](https://www.nationalarchives.gov.uk/information-management/manage-information/preserving-digital-records/digitisation/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/information-management/manage-information/preserving-digital-records/digitisation/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/information-management/manage-information/preserving-digital-records/digitisation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DigitisationThis covers all administrative and departmental records belonging to His Majesty, held in any format, including paper, digita...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
 22. <a id="endnote-22"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are more unusual. Early...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: drdavidclarke.co.uk  
    Title: National Archives UFO Files  
-   Link: [https://drdavidclarke.co.uk/national-archives-ufo-files-7/](https://drdavidclarke.co.uk/national-archives-ufo-files-7/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>collections of UFO files released by The National Archives in the UK. From... UFOs and related subjects (this category contains some pap...</p></details>
+   Link: <a href="https://drdavidclarke.co.uk/national-archives-ufo-files-7/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/national-archives-ufo-files-7/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>llections of UFO files released by The National Archives in the UK. From... UFOs and related subjects (this category contains some pap...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: reddit.com  
    Title: us national archives nara publishes frequently  
-   Link: [https://www.reddit.com/r/UFOs/comments/1g0qptd/us_national_archives_nara_publishes_frequently/](https://www.reddit.com/r/UFOs/comments/1g0qptd/us_national_archives_nara_publishes_frequently/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1g0qptd/us_national_archives_nara_publishes_frequently/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1g0qptd/us_national_archives_nara_publishes_frequently/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives (NARA) publishes &quot;Frequently...For any publicly releasable records that include redactions, agencies must simultaneous...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: [aaro](&#123;&#123; 'aaro/' | relative_url &#125;&#125;). mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>/Information Papers13 Feb 2026 — AARO recognizes the importance of NARA in supporting AARO&#x27;s mission to review and document historical UA...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: sgp.fas.org  
-   Link: [https://sgp.fas.org/clinton/nara.html](https://sgp.fas.org/clinton/nara.html)  
+   Link: <a href="https://sgp.fas.org/clinton/nara.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/clinton/nara.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>at the National ArchivesThe final responsibility for declassification of the records in NARA remains with the originating agencies. NARA...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=MEeG81arab0](https://www.youtube.com/watch?v=MEeG81arab0)  
+   Link: <a href="https://www.youtube.com/watch?v=MEeG81arab0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MEeG81arab0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>retrieval program; object caught on video | NewsNation...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: sciforums.com  
    Title: the national archives uap catalog.167370  
-   Link: [https://www.sciforums.com/threads/the-national-archives-uap-catalog.167370/](https://www.sciforums.com/threads/the-national-archives-uap-catalog.167370/)  
+   Link: <a href="https://www.sciforums.com/threads/the-national-archives-uap-catalog.167370/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciforums.com/threads/the-national-archives-uap-catalog.167370/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The National Archives (UAP) Catalog14 Mar 2026 — NARA will update these bulk downloads at least three times a year. It may be updated mor...</p></details>
 
 ### Additional References
 
 29. <a id="endnote-29"></a>
    Source: ukoln.ac.uk  
-   Link: [https://www.ukoln.ac.uk/metadata/cedars/AIW01.html](https://www.ukoln.ac.uk/metadata/cedars/AIW01.html)  
+   Link: <a href="https://www.ukoln.ac.uk/metadata/cedars/AIW01.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ukoln.ac.uk/metadata/cedars/AIW01.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AIW01: Metadata for Preservationby M Day · Cited by 18 — This report is a review of metadata formats and initiatives in the specific area...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: github.com  
-   Link: [https://github.com/usnationalarchives/Catalog-API](https://github.com/usnationalarchives/Catalog-API)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GitHubusnationalarchives/Catalog-API: National Archives...What can the API do? The API&#x27;s main functions include querying for metadata, e...</p></details>
+   Link: <a href="https://github.com/usnationalarchives/Catalog-API" target="_blank" rel="noopener noreferrer nofollow">https://github.com/usnationalarchives/Catalog-API</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>usnationalarchives/Catalog-API: National Archives...What can the API do? The API&#x27;s main functions include querying for metadata, e...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: uapedia.ai  
-   Link: [https://www.uapedia.ai/wiki/project-blue-book-records-data-archives/](https://www.uapedia.ai/wiki/project-blue-book-records-data-archives/)  
+   Link: <a href="https://www.uapedia.ai/wiki/project-blue-book-records-data-archives/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapedia.ai/wiki/project-blue-book-records-data-archives/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project [Blue Book](&amp;#123;&amp;#123; &#x27;blue-book/&#x27; | relative_url &amp;#125;&amp;#125;) Records &amp; Data ArchivesStep 3 Grab the bulk data. Use NARA&#x27;s Bulk Downloads page to pull the image/PDF ZIPs and JSON me...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: nowdeclassified.com  
-   Link: [https://www.nowdeclassified.com/guides](https://www.nowdeclassified.com/guides)  
+   Link: <a href="https://www.nowdeclassified.com/guides" target="_blank" rel="noopener noreferrer nofollow">https://www.nowdeclassified.com/guides</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Archive Guides | Now DeclassifiedEditorial guides covering NARA RG 615, AARO UAP cases, NASA&#x27;s UAP study, FBI Vault UFO files, and pr...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/usnationalarchives/posts/-new-to-maximize-transparency-the-national-archives-has-released-new-records-rel/1064767475698845/](https://www.facebook.com/usnationalarchives/posts/-new-to-maximize-transparency-the-national-archives-has-released-new-records-rel/1064767475698845/)  
+   Link: <a href="https://www.facebook.com/usnationalarchives/posts/-new-to-maximize-transparency-the-national-archives-has-released-new-records-rel/1064767475698845/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/usnationalarchives/posts/-new-to-maximize-transparency-the-national-archives-has-released-new-records-rel/1064767475698845/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US National ArchivesThe National Archives has released new records related to Unidentified Anomalous Phenomena (UAP). These records come...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: thenextweb.com  
-   Link: [https://thenextweb.com/news/pentagon-ufo-files-war-gov-pursue](https://thenextweb.com/news/pentagon-ufo-files-war-gov-pursue)  
+   Link: <a href="https://thenextweb.com/news/pentagon-ufo-files-war-gov-pursue" target="_blank" rel="noopener noreferrer nofollow">https://thenextweb.com/news/pentagon-ufo-files-war-gov-pursue</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Department of War said information was withheld to “protect the identity of eyewitnesses, the...Read more...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeRead UAP Records from NARA; UAP Reporting Trends; UAP Imagery; NEW INFORMATION PAPER &amp; ANIMATION: Correlations of Satellite F...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: meritalk.com  
    Title: nara gives feds instructions on ufo records classification  
-   Link: [https://www.meritalk.com/articles/nara-gives-feds-instructions-on-ufo-records-classification/](https://www.meritalk.com/articles/nara-gives-feds-instructions-on-ufo-records-classification/)  
+   Link: <a href="https://www.meritalk.com/articles/nara-gives-feds-instructions-on-ufo-records-classification/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/nara-gives-feds-instructions-on-ufo-records-classification/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>15 May 2024 — NARA began to stand up the records collection earlier this year, urging agencies to begin classifying any UAP-related recor...</p></details>
    Published: May 2024  
 
 37. <a id="endnote-37"></a>
    Source: meritalk.com  
    Title: nara starting work on ufo records repository  
-   Link: [https://www.meritalk.com/articles/nara-starting-work-on-ufo-records-repository/](https://www.meritalk.com/articles/nara-starting-work-on-ufo-records-repository/)  
+   Link: <a href="https://www.meritalk.com/articles/nara-starting-work-on-ufo-records-repository/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/nara-starting-work-on-ufo-records-repository/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>27 Feb 2024 — NARA is tasked with providing Federal agency records officers with guidance on how to create and manage this collection, as...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1fogo80/lets_not_forget_that_the_uapda_passed_last_year/](https://www.reddit.com/r/UFOs/comments/1fogo80/lets_not_forget_that_the_uapda_passed_last_year/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1fogo80/lets_not_forget_that_the_uapda_passed_last_year/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fogo80/lets_not_forget_that_the_uapda_passed_last_year/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>give all UAP/NHI records to the National Archive by October 17th...</p></details>

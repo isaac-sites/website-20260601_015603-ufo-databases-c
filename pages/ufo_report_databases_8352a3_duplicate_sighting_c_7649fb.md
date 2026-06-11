@@ -40,7 +40,7 @@ sidebar_expanded_urls:
 - /ufo-report-databases-and-catalogues/
 nav_short_title: Duplicates
 title: How One UFO Sighting Becomes Many Records
-title_full: How One UFO Sighting Becomes Many Records | UFO Archives
+title_full: How One UFO Sighting Becomes Many Records
 display_title_short: Duplicates
 display_title: Duplicates
 heading_title: How One UFO Sighting Becomes Many Records
@@ -354,7 +354,6 @@ image: /assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb-ov
 
 Duplicate reports are one of the easiest ways for UFO databases to look more dramatic than they really are. One sighting can become several records when multiple witnesses file separately, a case is copied from a police file into a newspaper, later summarised in a book, re-entered by a researcher, then imported into a newer database. That does not mean the event is fake, but it does mean that “number of reports” is not the same as “number of distinct UFO events”.
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb-overview.webp" | relative_url }}" alt="Overview image for Duplicates" loading="eager" decoding="sync" fetchpriority="high">
 This distinction matters because UFO catalogues are often cited by their totals: tens of thousands of [NUFORC]({{ 'nuforc/' | relative_url }}) reports, thousands of Project [Blue Book]({{ 'blue-book/' | relative_url }}) sightings, or large merged datasets built from several public sources. Those totals are useful for finding material, but they can inflate the apparent frequency of events unless records are grouped, cross-checked and counted at the event level rather than the report level. CUFOS’s UFOCAT codebook is unusually explicit about this: records may describe the same event from different sources, and the database includes fields intended to group those records into blocks referring to the same incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 
@@ -366,8 +365,7 @@ Duplicates arise because UFO reporting is usually decentralised. A witness may s
 
 That design is valuable for researchers because it preserves provenance. A newspaper account and an investigator’s file may both matter. But it is dangerous if a reader simply exports all rows and treats each row as one separate UFO. UFOCAT’s own structure anticipates this by using a primary record number and related fields so that filtering by the primary number can retrieve all references to the same event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 
-The same risk exists in modern public reporting systems. NUFORC describes its databank as the largest independently collected online set of UFO or UAP sighting reports, and it allows browsing by event date, location, shape and posting date. It also grades reports into tiers, including reports judged explainable by human or natural phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">Data Bank | NUFORC</span></span></span> Those features help users inspect the data, but they do not by themselves guarantee that every entry is a unique event.
-
+The same risk exists in modern public reporting systems. NUFORC describes its databank as the largest independently collected online set of UFO or UAP sighting reports, and it allows browsing by event date, location, shape and posting date. It also grades reports into tiers, including reports judged explainable by human or natural phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC</span></span></span> Those features help users inspect the data, but they do not by themselves guarantee that every entry is a unique event.
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb-Illustration-1-dark.svg" | relative_url }}" alt="Duplicates illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Counting reports versus events
@@ -380,19 +378,17 @@ A more transparent model is visible in UFOCAT’s grouping practice. The codeboo
 
 This distinction also changes how multiple witnesses should be read. Several independent reports of the same object can strengthen a case because they may provide different angles, times or locations. But if a catalogue counts them as several “UFOs”, it inflates the event count. A good database therefore needs two layers: one layer for individual reports and one layer for linked events.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qho0N3vv7Gw" title="UFO Sightings: How Scientists are Trying to Capture More Data | NOVA | PBS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qho0N3vv7Gw" target="_blank" rel="noopener noreferrer">UFO Sightings: How Scientists are Trying to Capture More Data | NOVA | PBS</a></p><p class="youtube-embed-meta">Channel: NOVA PBS Official &middot; Views: 25.0K &middot; Uploaded: March 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qho0N3vv7Gw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qho0N3vv7Gw">Open on YouTube</a></p></div></div></div>
 
 ## How ordinary sky events multiply entries
 
-Inflation is not limited to archival copying. Modern skies contain repeatable, widely visible objects that can generate [clusters]({{ 'clusters/' | relative_url }}) of reports across a wide area. Starlink satellite trains are a strong example. NUFORC now warns users before filing that a line of lights travelling together on the same course is probably Starlink and asks them not to report such sightings as UFOs. It also points users to Starlink trackers and launch schedules before submission. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">File a UFO Report | NUFORC</span><span class="citation-popover-snippet">File a UFO Report | NUFORC</span></span></span>
+Inflation is not limited to archival copying. Modern skies contain repeatable, widely visible objects that can generate [clusters]({{ 'clusters/' | relative_url }}) of reports across a wide area. Starlink satellite trains are a strong example. NUFORC now warns users before filing that a line of lights travelling together on the same course is probably Starlink and asks them not to report such sightings as UFOs. It also points users to Starlink trackers and launch schedules before submission. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">File a UFO Report &#124; NUFORC</span><span class="citation-popover-snippet">File a UFO Report &#124; NUFORC</span></span></span>
 
 The problem is not that witnesses are necessarily dishonest. A 2022 study of UFO reporting during the COVID-19 period found that Starlink reports became a substantial fraction of UFO reports beginning in 2019 and increasing rapidly in 2020. After coding and removing Starlink sightings, the authors concluded that the number of sightings in 2020 was not greater than in 2019, which shows how one new visible phenomenon can create an apparent reporting surge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/368458403_Social_factors_and_UFO_reports_was_the_SARS-CoV-2_pandemic_associated_with_an_increase_in_UFO_reporting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Aviation cases show the same mechanism with higher stakes. A 2024 arXiv case study analysed an August 2022 incident in which five pilots on two commercial flights over the Pacific reported a UAP, with photographs and video. The researchers reconstructed the sighting using Starlink orbital data and aircraft tracking data, arguing that the reports were consistent with a recently launched satellite train. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In a database, that single sky event could appear as multiple [pilot reports]({{ 'pilot-reports/' | relative_url }}), multiple media items and multiple later analytical records unless it is explicitly linked.
 
 AARO’s public imagery pages also show why counting needs caution. Several entries are individual “reports” with short video clips, some resolved as [balloons]({{ 'balloons/' | relative_url }}) or birds, others unresolved because available data were insufficient or did not allow precise attribution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span> A row in a repository may therefore represent a clip, a report packet, an unresolved observation, a prosaic object awaiting better attribution, or one angle on a broader incident.
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb-Illustration-2-dark.svg" | relative_url }}" alt="Duplicates illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The database design choices that cause overcounting
@@ -409,12 +405,37 @@ Inflated counts usually come from a few recurring design choices rather than fro
 
 **Publication-chain duplication.** A case may enter a catalogue once from an investigator’s notes, again from a local article, and again from a later book. UFOCAT preserves such chains because the sources themselves are useful, but users must not confuse bibliographic richness with event multiplicity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NJdt9Dxvfvo" title="MUFON Unmasks the Truth! | UFO&#x27;s Over Earth | Discovery Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NJdt9Dxvfvo" target="_blank" rel="noopener noreferrer">MUFON Unmasks the Truth! | UFO&#x27;s Over Earth | Discovery Channel</a></p><p class="youtube-embed-meta">Channel: DiscoveryChannelInd &middot; Views: 539.8K &middot; Uploaded: May 2025 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NJdt9Dxvfvo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NJdt9Dxvfvo">Open on YouTube</a></p></div></div></div>
 
 ## Practical deduplication checks
 
 Good deduplication does not mean deleting everything that looks repetitive. It means preserving the evidence trail while assigning records to probable event groups. For UFO databases and catalogues, the most useful checks are practical and conservative.
+
+1. **Separate source record ID from event ID.** Each submission, article, image or official file should keep its own record ID, but related records should also share a higher-level event ID where the match is strong. UFOCAT’s primary record approach is a useful precedent because it keeps source entries while allowing same-event grouping. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
+2. **Match on time windows, not exact times.** Because witnesses round times, a same-event search should use a reasonable window around reported time and duration. A “9:00 pm” report and a “9:07 pm” report from nearby towns may be the same event; two exact “9:00 pm” reports hundreds of miles apart may not be.
+3. **Use geography as a corridor, not a point.** Satellites, rocket launches, aircraft and re-entries can be visible across large regions. A same-event cluster may run along a flight path, satellite pass or launch visibility zone rather than around a single postcode.
+4. **Compare narrative signatures.** Phrases such as “line of lights”, “same speed”, “disappeared overhead” and “straight course” can be stronger duplicate clues than shape labels. NUFORC’s Starlink warning gives exactly this kind of pattern description. [nuforc.org](https://nuforc.org/ndx/?id=event)
+5. **Check known-object databases.** Before treating a cluster as multiple unknowns, compare it with satellite passes, rocket launches, aircraft tracks, meteor showers, astronomical objects, balloons and drones. The Starlink aviation case shows how orbital and ADS-B data can turn several credible witness reports into one identified event. [arXiv](#endnote-6 "Endnote 6")
+6. **Keep uncertainty flags.** Some matches should be labelled probable, possible or rejected. Over-merging is as harmful as under-merging: it can erase genuinely separate events that occurred close together.
+
+<img src="{{ "/assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb-Illustration-3-dark.svg" | relative_url }}" alt="Duplicates illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## What inflated counts do to UFO research
+
+Inflated counts distort both public discussion and serious analysis. A map of “sightings” may actually show where people live, where people look up, where reporting forms are popular, where satellites are visible, or where a single widely visible event produced many entries. RAND’s 2023 analysis of NUFORC data used 101,151 public reports across 12,783 US census-designated places, but explicitly warned that its analysis should not be read as an endorsement of any individual report or of the overall quality of the underlying data. [RAND Corporation](#endnote-9 "Endnote 9")
+
+The same caution applies to trend claims. If a year shows more reports, the increase may reflect more witnesses, better reporting access, media attention, a new aircraft or satellite phenomenon, or a change in database intake. The ScienceDirect study of 80,332 UFO reports found that new reports were sensitive to media broadcasting and daytime hours, which is a reminder that report volume measures human reporting behaviour as well as sky phenomena. [ScienceDirect](#endnote-8 "Endnote 8")
+
+Inflation can also make unresolved percentages seem more meaningful than they are. AARO reported more than 1,600 UAP reports in its holdings by late 2024 and said hundreds had been resolved to commonplace objects such as balloons, birds, drones, satellites and aircraft. [U.S. Department of War](https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/)(#endnote-10 "Snippet: Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP > U.S. Department of War > Transcript |...") If multiple records belong to the same ordinary stimulus, failure to group them can make unresolved backlogs look larger, and later resolution of one event may require updating several linked records.
+
+## A better way to read UFO database totals
+
+The safest reading is: report counts measure database activity; [event counts]({{ 'event-counts/' | relative_url }}) measure deduplicated incidents; explanation counts measure the subset that has been investigated enough to classify. These are different numbers, and mixing them produces exaggerated conclusions.
+
+For a casual reader, the practical question is not “How many UFO reports are there?” but “How many distinct events remain after matching same-time, same-place and same-source-chain records?” For a researcher, the further question is “How many of those events have enough reliable data to support analysis?” GEIPAN’s methodology is useful here because it classifies cases using both residual strangeness and consistency, where consistency reflects the quantity and reliability of submitted and collected data. [cnes-geipan.fr](https://www.cnes-geipan.fr/en/node/58788)
+
+The best UFO catalogues therefore do not simply chase bigger totals. They preserve the messy source trail, show how records are linked, distinguish testimony from event, and make it possible to count both ways. A database with 100,000 reports may be less useful than a smaller catalogue that clearly marks duplicates, source chains, uncertainty levels and event groups. In UFO research, the impressive number is rarely the raw count; it is the number that remains after the same sighting has stopped pretending to be many.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lTGJt7Gho0w" title="Inside the Data: What 1,000+ Pilot Reports Reveal About UAP | iConnections Webinar with Ryan Graves" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer">Inside the Data: What 1,000+ Pilot Reports Reveal About UAP | iConnections Webinar with Ryan Graves</a></p><p class="youtube-embed-meta">Channel: iConnections &middot; Views: 262 &middot; Uploaded: April 2026 &middot; Length: 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lTGJt7Gho0w">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -808,216 +829,188 @@ Good deduplication does not mean deleting everything that looks repetitive. It m
 </script>
 </section>
 
-1. **Separate source record ID from event ID.** Each submission, article, image or official file should keep its own record ID, but related records should also share a higher-level event ID where the match is strong. UFOCAT’s primary record approach is a useful precedent because it keeps source entries while allowing same-event grouping. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
-2. **Match on time windows, not exact times.** Because witnesses round times, a same-event search should use a reasonable window around reported time and duration. A “9:00 pm” report and a “9:07 pm” report from nearby towns may be the same event; two exact “9:00 pm” reports hundreds of miles apart may not be.
-3. **Use geography as a corridor, not a point.** Satellites, rocket launches, aircraft and re-entries can be visible across large regions. A same-event cluster may run along a flight path, satellite pass or launch visibility zone rather than around a single postcode.
-4. **Compare narrative signatures.** Phrases such as “line of lights”, “same speed”, “disappeared overhead” and “straight course” can be stronger duplicate clues than shape labels. NUFORC’s Starlink warning gives exactly this kind of pattern description. [nuforc.org](https://nuforc.org/ndx/?id=event)
-5. **Check known-object databases.** Before treating a cluster as multiple unknowns, compare it with satellite passes, rocket launches, aircraft tracks, meteor showers, astronomical objects, balloons and drones. The Starlink aviation case shows how orbital and ADS-B data can turn several credible witness reports into one identified event. [arXiv](#endnote-6 "Endnote 6")
-6. **Keep uncertainty flags.** Some matches should be labelled probable, possible or rejected. Over-merging is as harmful as under-merging: it can erase genuinely separate events that occurred close together.
-
-
-<img src="{{ "/assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb-Illustration-3-dark.svg" | relative_url }}" alt="Duplicates illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## What inflated counts do to UFO research
-
-Inflated counts distort both public discussion and serious analysis. A map of “sightings” may actually show where people live, where people look up, where reporting forms are popular, where satellites are visible, or where a single widely visible event produced many entries. RAND’s 2023 analysis of NUFORC data used 101,151 public reports across 12,783 US census-designated places, but explicitly warned that its analysis should not be read as an endorsement of any individual report or of the overall quality of the underlying data. [RAND Corporation](#endnote-9 "Endnote 9")
-
-The same caution applies to trend claims. If a year shows more reports, the increase may reflect more witnesses, better reporting access, media attention, a new aircraft or satellite phenomenon, or a change in database intake. The ScienceDirect study of 80,332 UFO reports found that new reports were sensitive to media broadcasting and daytime hours, which is a reminder that report volume measures human reporting behaviour as well as sky phenomena. [ScienceDirect](#endnote-8 "Endnote 8")
-
-Inflation can also make unresolved percentages seem more meaningful than they are. AARO reported more than 1,600 UAP reports in its holdings by late 2024 and said hundreds had been resolved to commonplace objects such as balloons, birds, drones, satellites and aircraft. [U.S. Department of War](https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/)(#endnote-10 "Snippet: Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP > U.S. Department of War > Transcript |...") If multiple records belong to the same ordinary stimulus, failure to group them can make unresolved backlogs look larger, and later resolution of one event may require updating several linked records.
-
-## A better way to read UFO database totals
-
-The safest reading is: report counts measure database activity; [event counts]({{ 'event-counts/' | relative_url }}) measure deduplicated incidents; explanation counts measure the subset that has been investigated enough to classify. These are different numbers, and mixing them produces exaggerated conclusions.
-
-For a casual reader, the practical question is not “How many UFO reports are there?” but “How many distinct events remain after matching same-time, same-place and same-source-chain records?” For a researcher, the further question is “How many of those events have enough reliable data to support analysis?” GEIPAN’s methodology is useful here because it classifies cases using both residual strangeness and consistency, where consistency reflects the quantity and reliability of submitted and collected data. [cnes-geipan.fr](https://www.cnes-geipan.fr/en/node/58788)
-
-The best UFO catalogues therefore do not simply chase bigger totals. They preserve the messy source trail, show how records are linked, distinguish testimony from event, and make it possible to count both ways. A database with 100,000 reports may be less useful than a smaller catalogue that clearly marks duplicates, source chains, uncertainty levels and event groups. In UFO research, the impressive number is rarely the raw count; it is the number that remains after the same sighting has stopped pretending to be many.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lTGJt7Gho0w" title="Inside the Data: What 1,000+ Pilot Reports Reveal About UAP | iConnections Webinar with Ryan Graves" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer">Inside the Data: What 1,000+ Pilot Reports Reveal About UAP | iConnections Webinar with Ryan Graves</a></p><p class="youtube-embed-meta">Channel: iConnections &middot; Views: 262 &middot; Uploaded: April 2026 &middot; Length: 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lTGJt7Gho0w">Open on YouTube</a></p></div></div></div>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: cufos.org  
    Title: Center for UFO Studies  
-   Link: [https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf](https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf)  
+   Link: <a href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
 
 3. <a id="endnote-3"></a>
    Source: af.mil  
    Title: U.S. Air Force  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
    Title: File a UFO Report | NUFORC  
-   Link: [https://nuforc.org/report-a-ufo/](https://nuforc.org/report-a-ufo/)  
+   Link: <a href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/report-a-ufo/</a>  
 
 5. <a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/368458403_Social_factors_and_UFO_reports_was_the_SARS-CoV-2_pandemic_associated_with_an_increase_in_UFO_reporting](https://www.researchgate.net/publication/368458403_Social_factors_and_UFO_reports_was_the_SARS-CoV-2_pandemic_associated_with_an_increase_in_UFO_reporting)  
+   Link: <a href="https://www.researchgate.net/publication/368458403_Social_factors_and_UFO_reports_was_the_SARS-CoV-2_pandemic_associated_with_an_increase_in_UFO_reporting" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/368458403_Social_factors_and_UFO_reports_was_the_SARS-CoV-2_pandemic_associated_with_an_increase_in_UFO_reporting</a>  
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2403.08155](https://arxiv.org/abs/2403.08155)  
+   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
 
 7. <a id="endnote-7"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect On the dynamics of reporting data: A case study of UFO sightings  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295](https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295</a>  
 
 9. <a id="endnote-9"></a>
    Source: rand.org  
-   Link: [https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf](https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf)  
+   Link: <a href="https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: war.gov  
    Title: U.S. Department of War  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/](https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP &gt; U.S. Department of War &gt; Transcript |...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: cnes-geipan.fr  
    Title: Methodology | GEIPAN  
-   Link: [https://www.cnes-geipan.fr/en/node/58788](https://www.cnes-geipan.fr/en/node/58788)  
+   Link: <a href="https://www.cnes-geipan.fr/en/node/58788" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58788</a>  
 
 12. <a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/396123768_Factors_complicating_the_identification_and_processing_of_duplicates_in_bibliographic_records_A_theoretical_perspective](https://www.researchgate.net/publication/396123768_Factors_complicating_the_identification_and_processing_of_duplicates_in_bibliographic_records_A_theoretical_perspective)  
+   Link: <a href="https://www.researchgate.net/publication/396123768_Factors_complicating_the_identification_and_processing_of_duplicates_in_bibliographic_records_A_theoretical_perspective" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396123768_Factors_complicating_the_identification_and_processing_of_duplicates_in_bibliographic_records_A_theoretical_perspective</a>  
 
 13. <a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/385588760_Hyperconflation_Recommending_a_Relational_Alternative_to_the_Datacentric_Approach_to_UAP](https://www.researchgate.net/publication/385588760_Hyperconflation_Recommending_a_Relational_Alternative_to_the_Datacentric_Approach_to_UAP)  
+   Link: <a href="https://www.researchgate.net/publication/385588760_Hyperconflation_Recommending_a_Relational_Alternative_to_the_Datacentric_Approach_to_UAP" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/385588760_Hyperconflation_Recommending_a_Relational_Alternative_to_the_Datacentric_Approach_to_UAP</a>  
 
 14. <a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/376519968_An_environmental_analysis_of_public_UAP_sightings_and_sky_view_potential](https://www.researchgate.net/publication/376519968_An_environmental_analysis_of_public_UAP_sightings_and_sky_view_potential)  
+   Link: <a href="https://www.researchgate.net/publication/376519968_An_environmental_analysis_of_public_UAP_sightings_and_sky_view_potential" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376519968_An_environmental_analysis_of_public_UAP_sightings_and_sky_view_potential</a>  
 
 15. <a id="endnote-15"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/en/missions-methodes-et-resultats](https://www.cnes-geipan.fr/en/missions-methodes-et-resultats)  
+   Link: <a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
 
 16. <a id="endnote-16"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/en/node/58787](https://www.cnes-geipan.fr/en/node/58787)  
+   Link: <a href="https://www.cnes-geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58787</a>  
 
 17. <a id="endnote-17"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
 18. <a id="endnote-18"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/ndx/?id=event](https://nuforc.org/ndx/?id=event)  
+   Link: <a href="https://nuforc.org/ndx/?id=event" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=event</a>  
 
 19. <a id="endnote-19"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
 20. <a id="endnote-20"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/FAQ/](https://www.aaro.mil/FAQ/)  
+   Link: <a href="https://www.aaro.mil/FAQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/FAQ/</a>  
 
 21. <a id="endnote-21"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 22. <a id="endnote-22"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_UAP_Program_Report_User_Guide-20231211.pdf?ver=dJtqTlbDr3HqkIVDW8MP4Q%3D%3D](https://www.aaro.mil/Portals/136/PDFs/AARO_UAP_Program_Report_User_Guide-20231211.pdf?ver=dJtqTlbDr3HqkIVDW8MP4Q%3D%3D)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_UAP_Program_Report_User_Guide-20231211.pdf?ver=dJtqTlbDr3HqkIVDW8MP4Q%3D%3D" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_UAP_Program_Report_User_Guide-20231211.pdf?ver=dJtqTlbDr3HqkIVDW8MP4Q%3D%3D</a>  
 
 23. <a id="endnote-23"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
 24. <a id="endnote-24"></a>
    Source: cufos.org  
-   Link: [https://cufos.org/cufos-publications-databases/ufocat/](https://cufos.org/cufos-publications-databases/ufocat/)  
+   Link: <a href="https://cufos.org/cufos-publications-databases/ufocat/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/cufos-publications-databases/ufocat/</a>  
 
 25. <a id="endnote-25"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 26. <a id="endnote-26"></a>
    Source: cnes.fr  
-   Link: [https://cnes.fr/en/projects/geipan](https://cnes.fr/en/projects/geipan)  
+   Link: <a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
 
 27. <a id="endnote-27"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2411.02401v1](https://arxiv.org/html/2411.02401v1)  
+   Link: <a href="https://arxiv.org/html/2411.02401v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.02401v1</a>  
 
 28. <a id="endnote-28"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 29. <a id="endnote-29"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/GEIPAN](https://en.wikipedia.org/wiki/GEIPAN)  
+   Link: <a href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEIPAN</a>  
 
 30. <a id="endnote-30"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 ### Additional References
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=nraHhvzdZAQ](https://www.youtube.com/watch?v=nraHhvzdZAQ)  
+   Link: <a href="https://www.youtube.com/watch?v=nraHhvzdZAQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nraHhvzdZAQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the Data: What 1,000+ Pilot Reports Reveal About UAP | iConnections Webinar with Ryan Graves...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=lTGJt7Gho0w](https://www.youtube.com/watch?v=lTGJt7Gho0w)  
+   Link: <a href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lTGJt7Gho0w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings: How Scientists are Trying to Capture More Data | NOVA | PBS...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: youtube.com  
    Title: UFO Sightings: How Scientists are Trying to Capture More Data | NOVA | PBS  
-   Link: [https://www.youtube.com/watch?v=qho0N3vv7Gw](https://www.youtube.com/watch?v=qho0N3vv7Gw)  
+   Link: <a href="https://www.youtube.com/watch?v=qho0N3vv7Gw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qho0N3vv7Gw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Governments Using AI To Decode Massive UFO Databases | WION Podcast...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
    Title: Governments Using AI To Decode Massive UFO Databases | WION Podcast  
-   Link: [https://www.youtube.com/watch?v=adCsqd_-M94](https://www.youtube.com/watch?v=adCsqd_-M94)  
+   Link: <a href="https://www.youtube.com/watch?v=adCsqd_-M94" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=adCsqd_-M94</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON Unmasks the Truth! | UFO&#x27;s Over Earth | Discovery Channel...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
 36. <a id="endnote-36"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
 37. <a id="endnote-37"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOB/comments/1sjoz1f/614505_ufo_sighting_records_from_5_major_databases/](https://www.reddit.com/r/UFOB/comments/1sjoz1f/614505_ufo_sighting_records_from_5_major_databases/)  
+   Link: <a href="https://www.reddit.com/r/UFOB/comments/1sjoz1f/614505_ufo_sighting_records_from_5_major_databases/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1sjoz1f/614505_ufo_sighting_records_from_5_major_databases/</a>  
 
 38. <a id="endnote-38"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/6abcActionNews/posts/also-included-in-the-files-is-a-written-account-from-a-senior-us-intelligence-of/1530682285090808/](https://www.facebook.com/6abcActionNews/posts/also-included-in-the-files-is-a-written-account-from-a-senior-us-intelligence-of/1530682285090808/)  
+   Link: <a href="https://www.facebook.com/6abcActionNews/posts/also-included-in-the-files-is-a-written-account-from-a-senior-us-intelligence-of/1530682285090808/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/6abcActionNews/posts/also-included-in-the-files-is-a-written-account-from-a-senior-us-intelligence-of/1530682285090808/</a>  
 
 39. <a id="endnote-39"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/fox9kmsp/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1466543298848455/](https://www.facebook.com/fox9kmsp/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1466543298848455/)  
+   Link: <a href="https://www.facebook.com/fox9kmsp/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1466543298848455/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox9kmsp/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1466543298848455/</a>  
 
 40. <a id="endnote-40"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DYqQblURejG/](https://www.instagram.com/p/DYqQblURejG/)  
+   Link: <a href="https://www.instagram.com/p/DYqQblURejG/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYqQblURejG/</a>

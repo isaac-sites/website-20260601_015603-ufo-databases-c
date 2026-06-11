@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /nuforc/
 nav_short_title: Time Rounding
 title: Why Rounded Times in UFO Reports Can Mislead Analysis
-title_full: Why Rounded Times in UFO Reports Can Mislead Analysis | NUFORC
+title_full: Why Rounded Times in UFO Reports Can Mislead Analysis
 display_title_short: Time Rounding
 display_title: Time Rounding
 heading_title: Why Rounded Times in UFO Reports Can Mislead Analysis
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 18:32:47'
-parent_title: What NUFORC Reports Can Really Tell You | UFO Archives
+parent_title: What NUFORC Reports Can Really Tell You
 parent_permalink: /nuforc/
 parent_nav_short_title: NUFORC
 parent_heading_title: What NUFORC Reports Can Really Tell You
@@ -268,16 +268,14 @@ image: /assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271_ufo_rep
 
 ## Introduction
 
-Time is one of the most important fields in a National UFO Reporting Center ([NUFORC]({{ 'nuforc/' | relative_url }})) report. Researchers often use sighting times to look for [clusters]({{ 'clusters/' | relative_url }}), compare reports with aircraft movements, satellite passes, astronomical objects, and weather conditions, or identify possible waves of activity. Yet a significant limitation of any large witness-report database is that many reported times are not precise measurements but human recollections. NUFORC asks witnesses to provide a sighting date and time and encourages precise reporting, but witnesses frequently reconstruct the time from memory rather than from a clock. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/reportform/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">UFO Sighting Report Form | NUFORCSIGHTING DATE AND TIME · SIGHTING LOCATION · DESCRIBE WHAT YOU SAW · TELL US ABOUT YOU · ADD IMAGES OR V...</span></span></span>
-
+Time is one of the most important fields in a National UFO Reporting Center ([NUFORC]({{ 'nuforc/' | relative_url }})) report. Researchers often use sighting times to look for [clusters]({{ 'clusters/' | relative_url }}), compare reports with aircraft movements, satellite passes, astronomical objects, and weather conditions, or identify possible waves of activity. Yet a significant limitation of any large witness-report database is that many reported times are not precise measurements but human recollections. NUFORC asks witnesses to provide a sighting date and time and encourages precise reporting, but witnesses frequently reconstruct the time from memory rather than from a clock. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/reportform/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">UFO Sighting Report Form &#124; NUFORCSIGHTING DATE AND TIME · SIGHTING LOCATION · DESCRIBE WHAT YOU SAW · TELL US ABOUT YOU · ADD IMAGES OR V...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271_ufo_report_time_roun_936ea3-Illustration-1-dark.svg" | relative_url }}" alt="Time Rounding illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271_ufo_report_time_roun_936ea3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271_ufo_report_time_roun_936ea3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The result is a subtle [reliability]({{ 'reliability/' | relative_url }}) problem: people tend to round times to familiar intervals such as the hour, half-hour, or quarter-hour. In a database containing tens of thousands of reports, this habit can create apparent patterns that reflect reporting behaviour rather than the timing of unusual aerial events. Understanding time rounding is therefore essential when analysing NUFORC data for trends, clusters, or alleged sighting waves.
 
 ## Frequency of Exact vs Rounded Times in NUFORC Data
 
-NUFORC records time as a structured field and many derivative datasets preserve that information for analysis. Researchers and data projects built from NUFORC records routinely treat time as a key variable because it allows sightings to be compared across locations and dates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6621925/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCImproving Time Estimation in Witness Memory</span><span class="citation-popover-snippet">PMC - NIHby HL Gasper · 2019 · Cited by 8 — The present study sought to extend time estimation approaches to the field of eyewitness memo...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kaggle.com/datasets/thedevastator/uncovering-mysterious-unexplained-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kaggle.com">[Kaggle However]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kaggle.com</span><span class="citation-popover-snippet">ation about the time, location, duration, shape and...Read more...</span></span></span>, the existence of a time field does not guarantee temporal precision. In eyewitness reporting systems, a reported time may originate from several sources:
-
+NUFORC records time as a structured field and many derivative datasets preserve that information for analysis. Researchers and data projects built from NUFORC records routinely treat time as a key variable because it allows sightings to be compared across locations and dates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6621925/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCImproving Time Estimation in Witness Memory</span><span class="citation-popover-snippet">NIHby HL Gasper · 2019 · Cited by 8 — The present study sought to extend time estimation approaches to the field of eyewitness memo...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kaggle.com/datasets/thedevastator/uncovering-mysterious-unexplained-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kaggle.com">[Kaggle However]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kaggle.com</span><span class="citation-popover-snippet">ation about the time, location, duration, shape and...Read more...</span></span></span>, the existence of a time field does not guarantee temporal precision. In eyewitness reporting systems, a reported time may originate from several sources:
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -294,7 +292,7 @@ When large databases are examined statistically, rounded values often accumulate
 
 ### Human memory stores events better than clock readings
 
-Psychological research on eyewitness memory shows that people do not record events like cameras. Memory is reconstructive. Witnesses often remember what happened more clearly than exactly when it happened. Studies of eyewitness time estimation have found that estimating duration and timing is difficult and can be influenced by anchors, recall strategies, and later reconstruction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6621925/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCImproving Time Estimation in Witness Memory</span><span class="citation-popover-snippet">PMC - NIHby HL Gasper · 2019 · Cited by 8 — The present study sought to extend time estimation approaches to the field of eyewitness memo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://brill.com/display/book/edcoll/9789004280205/B9789004280205_002.xml?srsltid=AfmBOoo8KbauPnpsnzZta7oMzkCVcZ2Tstxhm6iH2Gvt7yFDcQ-ZupGY" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brill.com">[brill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brill.com</span><span class="citation-popover-snippet">BrillProspective and Retrospective Timing Processes: Theories...27 Mar 2018 — Retrospective duration estimates are used in situations su...</span></span></span> A person who remembers seeing an unusual light while walking a dog may confidently recall the sighting itself but only vaguely remember whether it occurred at 8:05, 8:15, or 8:25. When filling out a report days, months, or years later, “around 8:00 pm” becomes a natural response.
+Psychological research on eyewitness memory shows that people do not record events like cameras. Memory is reconstructive. Witnesses often remember what happened more clearly than exactly when it happened. Studies of eyewitness time estimation have found that estimating duration and timing is difficult and can be influenced by anchors, recall strategies, and later reconstruction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6621925/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCImproving Time Estimation in Witness Memory</span><span class="citation-popover-snippet">NIHby HL Gasper · 2019 · Cited by 8 — The present study sought to extend time estimation approaches to the field of eyewitness memo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://brill.com/display/book/edcoll/9789004280205/B9789004280205_002.xml?srsltid=AfmBOoo8KbauPnpsnzZta7oMzkCVcZ2Tstxhm6iH2Gvt7yFDcQ-ZupGY" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brill.com">[brill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brill.com</span><span class="citation-popover-snippet">Prospective and Retrospective Timing Processes: Theories...27 Mar 2018 — Retrospective duration estimates are used in situations su...</span></span></span> A person who remembers seeing an unusual light while walking a dog may confidently recall the sighting itself but only vaguely remember whether it occurred at 8:05, 8:15, or 8:25. When filling out a report days, months, or years later, “around 8:00 pm” becomes a natural response.
 
 ### Reporting forms encourage completion
 
@@ -304,10 +302,9 @@ Faced with a required or expected time field, witnesses often choose the closest
 
 ### Delay increases reconstruction
 
-Research into eyewitness recall consistently finds that memory becomes more reconstructive as time passes. Retrieval effort, repeated recollection, and delayed reporting can alter details or increase uncertainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/363373522_Eyewitness_accuracy_and_retrieval_effort_Effects_of_time_and_repetition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateEyewitness accuracy and retrieval effort: Effects of time and...7 Sept 2022 — Results showed that the retrieval-effort cues...</span></span></span>
+Research into eyewitness recall consistently finds that memory becomes more reconstructive as time passes. Retrieval effort, repeated recollection, and delayed reporting can alter details or increase uncertainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/363373522_Eyewitness_accuracy_and_retrieval_effort_Effects_of_time_and_repetition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Eyewitness accuracy and retrieval effort: Effects of time and...7 Sept 2022 — Results showed that the retrieval-effort cues...</span></span></span>
 
 This matters because many NUFORC reports are not submitted immediately after a sighting. A witness filing months later may sincerely believe a rounded time is accurate even when it is only an approximation.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Gvqfioqopeg" title="John Wixted Lecture" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Gvqfioqopeg" target="_blank" rel="noopener noreferrer">John Wixted Lecture</a></p><p class="youtube-embed-meta">Channel: Claremont Graduate University &middot; Views: 971 &middot; Uploaded: October 2016 &middot; Length: 1 hour 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Gvqfioqopeg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Gvqfioqopeg">Open on YouTube</a></p></div></div></div>
 
@@ -321,7 +318,6 @@ In reality, the pattern could be a by-product of human reporting behaviour.
 
 This problem becomes especially important when researchers:
 
-
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
 * Search for minute-by-minute sighting waves.
@@ -333,8 +329,7 @@ This problem becomes especially important when researchers:
 
 A cluster of reports at exactly 9:00 pm may look compelling until one recognises that many witnesses who were unsure of the precise time would naturally select 9:00 rather than 8:53 or 9:07.
 
-Research using large UFO-report datasets has already shown that reporting behaviour itself influences observable patterns. Analyses of tens of thousands of UFO reports have found that reporting dynamics are sensitive to factors such as media attention and time-of-day effects, demonstrating that database patterns do not always correspond directly to underlying events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectOn the dynamics of reporting data: A case study of UFO...by FJ Antonio · 2022 · Cited by 7 — In this study, we used data fr...</span></span></span>
-
+Research using large UFO-report datasets has already shown that reporting behaviour itself influences observable patterns. Analyses of tens of thousands of UFO reports have found that reporting dynamics are sensitive to factors such as media attention and time-of-day effects, demonstrating that database patterns do not always correspond directly to underlying events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">On the dynamics of reporting data: A case study of UFO...by FJ Antonio · 2022 · Cited by 7 — In this study, we used data fr...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271_ufo_report_time_roun_936ea3-Illustration-2-dark.svg" | relative_url }}" alt="Time Rounding illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271_ufo_report_time_roun_936ea3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271_ufo_report_time_roun_936ea3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Risk to Correlation Studies
@@ -342,7 +337,6 @@ Research using large UFO-report datasets has already shown that reporting behavi
 Time rounding becomes especially problematic when investigators try to identify causes.
 
 Many ordinary explanations for UFO reports depend on exact timing:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -367,7 +361,6 @@ This means analysts should be cautious about treating reported times as exact un
 
 Without such corroboration, the recorded time may be best understood as an approximate window rather than a precise timestamp.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oaJ-tByZko8" title="UFO Data Mining, Part 1: Time Series Models" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oaJ-tByZko8" target="_blank" rel="noopener noreferrer">UFO Data Mining, Part 1: Time Series Models</a></p><p class="youtube-embed-meta">Channel: Cache Lack Stats &middot; Views: 203 &middot; Uploaded: November 2021 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oaJ-tByZko8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oaJ-tByZko8">Open on YouTube</a></p></div></div></div>
 
 ## Why Apparent Sighting Waves Can Be Misleading
@@ -382,17 +375,15 @@ Second, it can conceal genuine synchronisation. If multiple witnesses saw the sa
 
 As a result, both false positives and false negatives become possible. Analysts may see a wave where none existed or miss a genuine cluster because the temporal information is noisy.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QnULjisX3ik" title="Master Kaggle: Build Your Data Science Profile and Enhance Your Skills" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QnULjisX3ik" target="_blank" rel="noopener noreferrer">Master Kaggle: Build Your Data Science Profile and Enhance Your Skills</a></p><p class="youtube-embed-meta">Channel: Decoding Data Science &middot; Views: 112 &middot; Uploaded: January 2025 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QnULjisX3ik" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QnULjisX3ik">Open on YouTube</a></p></div></div></div>
 
 ## A Better Way to Use NUFORC Time Data
 
 Time data remain valuable, but they should be interpreted according to their likely precision.
 
-For broad analyses, reported times can reveal useful patterns such as whether sightings are more common during evening hours or overnight. Studies using NUFORC data have successfully examined broad temporal distributions because hour-level trends are less vulnerable to small rounding errors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6621925/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCImproving Time Estimation in Witness Memory</span><span class="citation-popover-snippet">PMC - NIHby HL Gasper · 2019 · Cited by 8 — The present study sought to extend time estimation approaches to the field of eyewitness memo...</span></span></span>
+For broad analyses, reported times can reveal useful patterns such as whether sightings are more common during evening hours or overnight. Studies using NUFORC data have successfully examined broad temporal distributions because hour-level trends are less vulnerable to small rounding errors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6621925/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCImproving Time Estimation in Witness Memory</span><span class="citation-popover-snippet">NIHby HL Gasper · 2019 · Cited by 8 — The present study sought to extend time estimation approaches to the field of eyewitness memo...</span></span></span>
 
 For fine-grained analysis, greater caution is required. Useful practices include:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -405,7 +396,6 @@ For fine-grained analysis, greater caution is required. Useful practices include
 </div>
 
 These approaches recognise that a reported time is not merely a description of an event. It is also a description of how a witness remembered and reported that event.
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271_ufo_report_time_roun_936ea3-Illustration-3-dark.svg" | relative_url }}" alt="Time Rounding illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271_ufo_report_time_roun_936ea3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271_ufo_report_time_roun_936ea3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Time Rounding Reveals About Report Reliability
@@ -810,147 +800,147 @@ The strongest use of NUFORC timing information is often at broader scales—iden
 
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/reportform/](https://nuforc.org/reportform/)  
+   Link: <a href="https://nuforc.org/reportform/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/reportform/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting Report Form | NUFORCSIGHTING DATE AND TIME · SIGHTING LOCATION · DESCRIBE WHAT YOU SAW · TELL US ABOUT YOU · ADD IMAGES OR V...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/reportform-wp/](https://nuforc.org/reportform-wp/)  
+   Link: <a href="https://nuforc.org/reportform-wp/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/reportform-wp/</a>  
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This research uses data from the National UFO Reporting Center (NUFORC) online. NUFORC was formed in 1974 and “...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: kaggle.com  
-   Link: [https://www.kaggle.com/datasets/thedevastator/uncovering-mysterious-unexplained-ufo-sightings](https://www.kaggle.com/datasets/thedevastator/uncovering-mysterious-unexplained-ufo-sightings)  
+   Link: <a href="https://www.kaggle.com/datasets/thedevastator/uncovering-mysterious-unexplained-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/thedevastator/uncovering-mysterious-unexplained-ufo-sightings</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ation about the time, location, duration, shape and...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: kaggle.com  
-   Link: [https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings](https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings)  
+   Link: <a href="https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>uding the time, location duration...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: rand.org  
    Title: RAND RRA2475 1  
-   Link: [https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf](https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf)  
+   Link: <a href="https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>RAND CorporationMapping Public Reports of Unidentified Aerial Phenomena...by MN POSARD · 2023 · Cited by 4 — There is no limit on the am...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCImproving Time Estimation in Witness Memory  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6621925/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6621925/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby HL Gasper · 2019 · Cited by 8 — The present study sought to extend time estimation approaches to the field of eyewitness memo...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6621925/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6621925/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby HL Gasper · 2019 · Cited by 8 — The present study sought to extend time estimation approaches to the field of eyewitness memo...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: brill.com  
-   Link: [https://brill.com/display/book/edcoll/9789004280205/B9789004280205_002.xml?srsltid=AfmBOoo8KbauPnpsnzZta7oMzkCVcZ2Tstxhm6iH2Gvt7yFDcQ-ZupGY](https://brill.com/display/book/edcoll/9789004280205/B9789004280205_002.xml?srsltid=AfmBOoo8KbauPnpsnzZta7oMzkCVcZ2Tstxhm6iH2Gvt7yFDcQ-ZupGY)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BrillProspective and Retrospective Timing Processes: Theories...27 Mar 2018 — Retrospective duration estimates are used in situations su...</p></details>
+   Link: <a href="https://brill.com/display/book/edcoll/9789004280205/B9789004280205_002.xml?srsltid=AfmBOoo8KbauPnpsnzZta7oMzkCVcZ2Tstxhm6iH2Gvt7yFDcQ-ZupGY" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/edcoll/9789004280205/B9789004280205_002.xml?srsltid=AfmBOoo8KbauPnpsnzZta7oMzkCVcZ2Tstxhm6iH2Gvt7yFDcQ-ZupGY</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Prospective and Retrospective Timing Processes: Theories...27 Mar 2018 — Retrospective duration estimates are used in situations su...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/363373522_Eyewitness_accuracy_and_retrieval_effort_Effects_of_time_and_repetition](https://www.researchgate.net/publication/363373522_Eyewitness_accuracy_and_retrieval_effort_Effects_of_time_and_repetition)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateEyewitness accuracy and retrieval effort: Effects of time and...7 Sept 2022 — Results showed that the retrieval-effort cues...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/363373522_Eyewitness_accuracy_and_retrieval_effort_Effects_of_time_and_repetition" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/363373522_Eyewitness_accuracy_and_retrieval_effort_Effects_of_time_and_repetition</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness accuracy and retrieval effort: Effects of time and...7 Sept 2022 — Results showed that the retrieval-effort cues...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295](https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectOn the dynamics of reporting data: A case study of UFO...by FJ Antonio · 2022 · Cited by 7 — In this study, we used data fr...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>On the dynamics of reporting data: A case study of UFO...by FJ Antonio · 2022 · Cited by 7 — In this study, we used data fr...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/madar/](https://nuforc.org/madar/)  
+   Link: <a href="https://nuforc.org/madar/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/madar/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MADAR Report Form | NUFORCSighting Date / Time * · Duration * · Sighting Location * · Sighting Details * · Madar Node Number · Name * · E...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: nuforc.org  
    Title: report a ufo  
-   Link: [https://nuforc.org/report-a-ufo/](https://nuforc.org/report-a-ufo/)  
+   Link: <a href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/report-a-ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>File a UFO Report | NUFORCThe Center&#x27;s hotline at 206-722-3000 is generally reserved for recent UFO reports. However, brief queries may b...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: nuforc.org  
    Title: Browse reports, images, videos, maps and more  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witn...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: kaggle.com  
-   Link: [https://www.kaggle.com/datasets/thedevastator/uncovering-mysterious-unexplained-ufo-sightings/data](https://www.kaggle.com/datasets/thedevastator/uncovering-mysterious-unexplained-ufo-sightings/data)  
+   Link: <a href="https://www.kaggle.com/datasets/thedevastator/uncovering-mysterious-unexplained-ufo-sightings/data" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/thedevastator/uncovering-mysterious-unexplained-ufo-sightings/data</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings (Location &amp; Time)Welcome to the world of UFO sightings! This vast dataset contains records of reported UFO sightings from N...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Eyewitness memory  
-   Link: [https://en.wikipedia.org/wiki/Eyewitness_memory](https://en.wikipedia.org/wiki/Eyewitness_memory)  
+   Link: <a href="https://en.wikipedia.org/wiki/Eyewitness_memory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eyewitness_memory</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness memoryEyewitness memory is a person&#x27;s episodic memory for a crime or other witnessed dramatic event. Eyewitness testimony i...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: github.com  
    Title: ufo reports  
-   Link: [https://github.com/planetsig/ufo-reports](https://github.com/planetsig/ufo-reports)  
+   Link: <a href="https://github.com/planetsig/ufo-reports" target="_blank" rel="noopener noreferrer nofollow">https://github.com/planetsig/ufo-reports</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>planetsig/ufo-reportsNUFORC geolocated and time standardized ufo reports for close to a century of data. 80000 plus reports. - planetsig/...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: cuny.manifoldapp.org  
    Title: national ufo reporting center  
-   Link: [https://cuny.manifoldapp.org/read/national-ufo-reporting-center](https://cuny.manifoldapp.org/read/national-ufo-reporting-center)  
+   Link: <a href="https://cuny.manifoldapp.org/read/national-ufo-reporting-center" target="_blank" rel="noopener noreferrer nofollow">https://cuny.manifoldapp.org/read/national-ufo-reporting-center</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Reporting Center2 Apr 2025 — Data Sources: Publicly submitted UFO sighting reports. Metadata for each report: location, time, duratio...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: cdn.ymaws.com  
-   Link: [https://cdn.ymaws.com/www.idc.law/resource/resmgr/quarterly_v28-29/29.1.23.pdf](https://cdn.ymaws.com/www.idc.law/resource/resmgr/quarterly_v28-29/29.1.23.pdf)  
+   Link: <a href="https://cdn.ymaws.com/www.idc.law/resource/resmgr/quarterly_v28-29/29.1.23.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.ymaws.com/www.idc.law/resource/resmgr/quarterly_v28-29/29.1.23.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of Error in Eyewitness Perception and MemoryUnderstanding the science of how memories are formed, stored and recalled, and when memory ca...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: huggingface.co  
-   Link: [https://huggingface.co/datasets/kcimc/NUFORC](https://huggingface.co/datasets/kcimc/NUFORC)  
+   Link: <a href="https://huggingface.co/datasets/kcimc/NUFORC" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/datasets/kcimc/NUFORC</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>kcimc/NUFORC · Datasets at Hugging FaceI observed a rectangle shaped UFO moving at a very high rate of speed and sending out bright white...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: rdocumentation.org  
-   Link: [https://www.rdocumentation.org/packages/nomiShape/versions/1.0.2/topics/ufo](https://www.rdocumentation.org/packages/nomiShape/versions/1.0.2/topics/ufo)  
+   Link: <a href="https://www.rdocumentation.org/packages/nomiShape/versions/1.0.2/topics/ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.rdocumentation.org/packages/nomiShape/versions/1.0.2/topics/ufo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ufo UFO Sightings DatasetThe dataset contains over 63,000 reported sightings spanning several decades and includes information on sightin...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
    Title: the national ufo reporting center nuforcorg which celebrated its 50th year in 20  
-   Link: [https://www.facebook.com/whereyatnola/posts/the-national-ufo-reporting-center-nuforcorg-which-celebrated-its-50th-year-in-20/1375756277253857/](https://www.facebook.com/whereyatnola/posts/the-national-ufo-reporting-center-nuforcorg-which-celebrated-its-50th-year-in-20/1375756277253857/)  
+   Link: <a href="https://www.facebook.com/whereyatnola/posts/the-national-ufo-reporting-center-nuforcorg-which-celebrated-its-50th-year-in-20/1375756277253857/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/whereyatnola/posts/the-national-ufo-reporting-center-nuforcorg-which-celebrated-its-50th-year-in-20/1375756277253857/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The National UFO Reporting Center (nuforc.org), which...NUFORC UFO Sighting 189386 Occurred: 2025-05-05 08:30 Local - Approximate Report...</p></details>
    Published: May 5, 2025  
 
 22. <a id="endnote-22"></a>
    Source: montana.edu  
-   Link: [https://www.montana.edu/rblock/documents/papers/BlockZakay2006.pdf](https://www.montana.edu/rblock/documents/papers/BlockZakay2006.pdf)  
+   Link: <a href="https://www.montana.edu/rblock/documents/papers/BlockZakay2006.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.montana.edu/rblock/documents/papers/BlockZakay2006.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the variables that affect these four stages, although to our knowledge they have not yet studied all of the...Read mor...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/13n9o57/i_plotted_the_number_of_uap_sightings_from_the/](https://www.reddit.com/r/aliens/comments/13n9o57/i_plotted_the_number_of_uap_sightings_from_the/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/13n9o57/i_plotted_the_number_of_uap_sightings_from_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/13n9o57/i_plotted_the_number_of_uap_sightings_from_the/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Part 2: I analyzed 80000 UFO sightings from the NUFORC database... r/dataisbeautiful - Weird pattern in UFO sightings over time.Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: r-bloggers.com  
    Title: the shape of the other the evolution of ufo sightings by shape  
-   Link: [https://www.r-bloggers.com/2018/06/the-shape-of-the-other-the-evolution-of-ufo-sightings-by-shape/](https://www.r-bloggers.com/2018/06/the-shape-of-the-other-the-evolution-of-ufo-sightings-by-shape/)  
+   Link: <a href="https://www.r-bloggers.com/2018/06/the-shape-of-the-other-the-evolution-of-ufo-sightings-by-shape/" target="_blank" rel="noopener noreferrer nofollow">https://www.r-bloggers.com/2018/06/the-shape-of-the-other-the-evolution-of-ufo-sightings-by-shape/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Shape of the Other: The Evolution of UFO Sightings...20 Jun 2018 — In earlier analyses of the UFO phenomenon, based on the NUFORC da...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: weirddatascience.net  
    Title: the shape of the other the evolution of ufo sightings by shape  
-   Link: [https://www.weirddatascience.net/2018/06/20/the-shape-of-the-other-the-evolution-of-ufo-sightings-by-shape/](https://www.weirddatascience.net/2018/06/20/the-shape-of-the-other-the-evolution-of-ufo-sightings-by-shape/)  
+   Link: <a href="https://www.weirddatascience.net/2018/06/20/the-shape-of-the-other-the-evolution-of-ufo-sightings-by-shape/" target="_blank" rel="noopener noreferrer nofollow">https://www.weirddatascience.net/2018/06/20/the-shape-of-the-other-the-evolution-of-ufo-sightings-by-shape/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Shape of the Other: The Evolution of UFO Sightings...20 Jun 2018 — The NUFORC dataset classifies each sighting as one of 46 possible...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: ada-nuforc-analysis.github.io  
-   Link: [https://ada-nuforc-analysis.github.io/](https://ada-nuforc-analysis.github.io/)  
+   Link: <a href="https://ada-nuforc-analysis.github.io/" target="_blank" rel="noopener noreferrer nofollow">https://ada-nuforc-analysis.github.io/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>To get a taste for an UFO report, here are two typical UFO encounters:... time...Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: cs.ubc.ca  
-   Link: [https://www.cs.ubc.ca/~tmm/courses/547-17F/projects/hayley-theodore/report.pdf](https://www.cs.ubc.ca/~tmm/courses/547-17F/projects/hayley-theodore/report.pdf)  
+   Link: <a href="https://www.cs.ubc.ca/~tmm/courses/547-17F/projects/hayley-theodore/report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cs.ubc.ca/~tmm/courses/547-17F/projects/hayley-theodore/report.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Want to Believe: A Visualization of UFO Siting Reportsby TSH Guillou — In this work we present an interactive visualization tool for exam...</p></details>

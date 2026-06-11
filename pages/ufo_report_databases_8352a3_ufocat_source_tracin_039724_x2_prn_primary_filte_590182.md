@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /ufocat/
 nav_short_title: Primary Records
 title: How X2 and PRN Codes Identify Primary UFOCAT Entries
-title_full: How X2 and PRN Codes Identify Primary UFOCAT Entries | UFOCAT
+title_full: How X2 and PRN Codes Identify Primary UFOCAT Entries
 display_title_short: Primary Records
 display_title: Primary Records
 heading_title: How X2 and PRN Codes Identify Primary UFOCAT Entries
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 19:20:32'
-parent_title: Why UFOCAT Is Not Just a Sighting Count | UFO Archives
+parent_title: Why UFOCAT Is Not Just a Sighting Count
 parent_permalink: /ufocat/
 parent_nav_short_title: UFOCAT
 parent_heading_title: Why UFOCAT Is Not Just a Sighting Count
@@ -276,12 +276,10 @@ image: /assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_x2
 
 In the context of [UFOCAT]({{ 'ufocat/' | relative_url }}) — the extensive *Center for UFO Studies* (CUFOS) catalogue of unidentified flying object (UFO) reports — researchers must carefully distinguish **primary records** (the closest-to-original accounts of a sighting) from multiple peripheral references to the same event. UFOCAT deliberately preserves multiple entries per actual sighting because one UFO report often appears in many sources: original [case files]({{ 'case-files/' | relative_url }}), newspaper articles, books, periodicals and derivative compilations. Without filtering, researchers can easily **over-count events**, misinterpret statistical patterns, or conflate independent sightings with reposted narratives. Two critical database fields — **X2** and **PRN** — exist precisely to help researchers isolate the most authoritative, primary UFOCAT records for accurate counts and analysis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/cufos-publications-databases/ufocat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">Center for UFO Studies UFOCAT</span><span class="citation-popover-snippet">Center for UFO StudiesUFOCAT - Center for UFO Studies...</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_x2_prn_primary_filte_590182-Illustration-1-dark.svg" | relative_url }}" alt="Primary Records illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_x2_prn_primary_filte_590182-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_x2_prn_primary_filte_590182-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the X2 Field Tells You About Record Primacy
 
 The **X2** field in UFOCAT is a compact, numerical indicator of how *primary* a given record is within its cluster of entries referring to the same UFO event. According to the official UFOCAT codebook:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -294,13 +292,11 @@ The **X2** field in UFOCAT is a compact, numerical indicator of how *primary* a 
 
 This coding scheme turns X2 into a **shortcut to primary-source quality** in the database. By filtering for X2 = 0 alone, a researcher can extract the set of entries representing the primary, non-duplicate records for a given query. Without this filter, raw queries would include many entries that are merely derivative references to the same event across different media.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/cufos-publications-databases/ufocat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">Center for UFO Studies UFOCAT</span><span class="citation-popover-snippet">Center for UFO StudiesUFOCAT - Center for UFO Studies...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BsFCVTBzTvY" title="Analyzing UFO Risk with PostGIS and H3 with Martin Davis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BsFCVTBzTvY" target="_blank" rel="noopener noreferrer">Analyzing UFO Risk with PostGIS and H3 with Martin Davis</a></p><p class="youtube-embed-meta">Channel: Crunchy Data &middot; Views: 468 &middot; Uploaded: November 2024 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BsFCVTBzTvY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BsFCVTBzTvY">Open on YouTube</a></p></div></div></div>
 
 ## How PRN Points to the Core Event
 
 While X2 flags the primacy quality of an individual entry, the **PRN** (*Primary Record Number*) field links every record to the **URN** (Unique Record Number) of the entry judged to contain the most authoritative account of the same event. In practice:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -312,12 +308,10 @@ While X2 flags the primacy quality of an individual entry, the **PRN** (*Primary
 
 In configured searches, this means a *PRN grouping* is the canonical way to collect all entries about one incident, and the corresponding X2 = 0 record within that group is the locus of the primary account. Analysts can use PRN to link and navigate cross‑references even when X2 values vary across sources.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/cufos-publications-databases/ufocat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">Center for UFO Studies UFOCAT</span><span class="citation-popover-snippet">Center for UFO StudiesUFOCAT - Center for UFO Studies...</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_x2_prn_primary_filte_590182-Illustration-2-dark.svg" | relative_url }}" alt="Primary Records illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_x2_prn_primary_filte_590182-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_x2_prn_primary_filte_590182-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Practical Filtering Techniques for Accurate Counts
 
 Researchers using UFOCAT for counting or statistical work typically combine **X2** and **PRN** to avoid duplicating events that appear in many derivative sources:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -329,7 +323,6 @@ Researchers using UFOCAT for counting or statistical work typically combine **X2
 
 Such filtering transforms UFOCAT from a flat list of entries into a structured, **source-tracing tool**. By isolating X2 = 0 records for unique incident tallies and using PRN linkages to explore related entries, researchers can **avoid over‑counting** and appreciate the propagation of UFO reports across the literature.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/cufos-publications-databases/ufocat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">Center for UFO Studies UFOCAT</span><span class="citation-popover-snippet">Center for UFO StudiesUFOCAT - Center for UFO Studies...</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_x2_prn_primary_filte_590182-Illustration-3-dark.svg" | relative_url }}" alt="Primary Records illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_x2_prn_primary_filte_590182-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_x2_prn_primary_filte_590182-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Implications for UFOCAT Research
 
@@ -337,9 +330,7 @@ The existence and proper use of X2 and PRN demonstrate that UFOCAT was designed 
 
 In short, X2 and PRN are essential tools within UFOCAT for **filtering, de‑duplicating, and navigating** the tangled web of sighting reports — enabling researchers to extract meaningful, evidence‑anchored insights from a catalogue designed to preserve, not obfuscate, the origins of UFO narratives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/cufos-publications-databases/ufocat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">Center for UFO Studies UFOCAT</span><span class="citation-popover-snippet">Center for UFO StudiesUFOCAT - Center for UFO Studies...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VmVf2Axe6as" title="UAP Data Analysis On 80,000 Sightings! | Don Tadaya" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VmVf2Axe6as" target="_blank" rel="noopener noreferrer">UAP Data Analysis On 80,000 Sightings! | Don Tadaya</a></p><p class="youtube-embed-meta">Channel: Tim Ventura &middot; Views: 9.1K &middot; Uploaded: May 2023 &middot; Length: 54 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VmVf2Axe6as" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VmVf2Axe6as">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -738,89 +729,89 @@ In short, X2 and PRN are essential tools within UFOCAT for **filtering, de‑dup
 1. <a id="endnote-1"></a>
    Source: cufos.org  
    Title: Center for UFO Studies UFOCAT  
-   Link: [https://cufos.org/cufos-publications-databases/ufocat/](https://cufos.org/cufos-publications-databases/ufocat/)  
+   Link: <a href="https://cufos.org/cufos-publications-databases/ufocat/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/cufos-publications-databases/ufocat/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for UFO StudiesUFOCAT - Center for UFO Studies...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cufos.org  
-   Link: [https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf](https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf)  
+   Link: <a href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>USER&#x27;S GUIDE UFOCAT 2023 Concord, New HamNovember 7, 2025...</p></details>
    Published: November 7, 2025  
 
 3. <a id="endnote-3"></a>
    Source: ufocat.com  
-   Link: [https://ufocat.com/](https://ufocat.com/)  
+   Link: <a href="https://ufocat.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufocat.com/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Input] DRAG &amp; DROP EVIDENCE Supported formats: JPG, PNG, WEBP OR BROWSE FILES [LOG_ID: 8823-A] NEW SIGH...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: cufos.org  
    Title: Frequently Asked Questions  
-   Link: [https://cufos.org/faqs](https://cufos.org/faqs)  
+   Link: <a href="https://cufos.org/faqs" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/faqs</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>We have tried to keep the answers simple, so that students and...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: encyclopedia.com  
    Title: Ufo | Encyclopedia.com  
-   Link: [https://www.encyclopedia.com/science-and-technology/technology/aviation-general/ufo](https://www.encyclopedia.com/science-and-technology/technology/aviation-general/ufo)  
+   Link: <a href="https://www.encyclopedia.com/science-and-technology/technology/aviation-general/ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science-and-technology/technology/aviation-general/ufo</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>the study of UFOs.DERIVATIVES: u·fo·log·i·cal / ˌyoōfəˈläjikəl/ adj.u·fol·o·gist / -jist/ n. The Oxford Pocket Dictionary of Current...</p></details>
 
 ### Additional References
 
 6. <a id="endnote-6"></a>
    Source: aliencatalog.com  
-   Link: [https://www.aliencatalog.com/](https://www.aliencatalog.com/)  
+   Link: <a href="https://www.aliencatalog.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.aliencatalog.com/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Catalog | AlienCatalog.com Official UFO and UAP RecordsLegally public records from official sources ALIEN CATALOG AlienCatalog.com...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: ai-2.io  
    Title: Every record is traced to its primary origin, processed through the sa  
-   Link: [https://ai-2.io/sources.html](https://ai-2.io/sources.html)  
+   Link: <a href="https://ai-2.io/sources.html" target="_blank" rel="noopener noreferrer nofollow">https://ai-2.io/sources.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Sources — UAP Knowledge Graph29 Independent Sources EVERY SOURCE, Explained Each source was selected for its provenance, accessibili...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/471252323/36773908-[MUFON](https://www.scribd.com/document/471252323/36773908-[MUFON)  
+   Link: <a href="https://www.scribd.com/document/471252323/36773908-[MUFON" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/471252323/36773908-[MUFON</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>David R. Saunders in 199 and donated to the Center for UFO Studies in 1975. In its present form UFOCAT has...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: u-sphere.com  
-   Link: [https://www.u-sphere.com/?title=UAP_Database](https://www.u-sphere.com/?title=UAP_Database)  
+   Link: <a href="https://www.u-sphere.com/?title=UAP_Database" target="_blank" rel="noopener noreferrer nofollow">https://www.u-sphere.com/?title=UAP_Database</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This project is part of an assessment of the possible correlations between the UFO phenomenon (or UAP) and potential environmental risks...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: decur.org  
    Title: Qualitative data catalogued for anal  
-   Link: [https://decur.org/](https://decur.org/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DECUR: UAP &amp; NHI Research ArchiveA REFERENCE ARCHIVE FOR UAP AND NHI RESEARCH Structured documentation of insider testimony, primary sour...</p></details>
+   Link: <a href="https://decur.org/" target="_blank" rel="noopener noreferrer nofollow">https://decur.org/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP &amp; NHI Research ArchiveA REFERENCE ARCHIVE FOR UAP AND NHI RESEARCH Structured documentation of insider testimony, primary sour...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: disclosdex.com  
    Title: CUFO S | Disclosdex  
-   Link: [https://disclosdex.com/organizations/cufos](https://disclosdex.com/organizations/cufos)  
+   Link: <a href="https://disclosdex.com/organizations/cufos" target="_blank" rel="noopener noreferrer nofollow">https://disclosdex.com/organizations/cufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek in 1973 to apply scientific rigor to global UFO incident data Astronomer J. Allen Hynek established the Center for UFO Studie...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: [nuforc](&#123;&#123; 'nuforc/' | relative_url &#125;&#125;). org  
    Title: For 25 years, it ha  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021 — THE NATIONAL UFO REPORTING CENTER ONLINE DATABASE Image The NUFORC Databank...</p></details>
    Published: September 6, 2021  
 
 13. <a id="endnote-13"></a>
    Source: ufosearch.org  
    Title: UF O Search — PURSUE UAP Archive  
-   Link: [https://ufosearch.org/](https://ufosearch.org/)  
+   Link: <a href="https://ufosearch.org/" target="_blank" rel="noopener noreferrer nofollow">https://ufosearch.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Search — PURSUE UAP ArchiveMay 8, 2026 — Image: Apollo 17 — December 1972 Image: Witness composite sketch — April 2024 Image: Unresol...</p></details>
    Published: May 8, 2026  
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: Governments Using AI To Decode Massive UFO Databases | WION Podcast  
-   Link: [https://www.youtube.com/watch?v=adCsqd_-M94](https://www.youtube.com/watch?v=adCsqd_-M94)  
+   Link: <a href="https://www.youtube.com/watch?v=adCsqd_-M94" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=adCsqd_-M94</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Data &amp; Trends [Python Data Visualization Project]...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: UAP Data Analysis On 80,000 Sightings! | Don Tadaya  
-   Link: [https://www.youtube.com/watch?v=VmVf2Axe6as](https://www.youtube.com/watch?v=VmVf2Axe6as)  
+   Link: <a href="https://www.youtube.com/watch?v=VmVf2Axe6as" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VmVf2Axe6as</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Governments Using AI To Decode Massive UFO Databases | WION Podcast - YouTube...</p></details>

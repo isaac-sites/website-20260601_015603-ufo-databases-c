@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /duplicates/
 nav_short_title: Video Rows
 title: Why One UFO Clip Is Not Always One Event
-title_full: Why One UFO Clip Is Not Always One Event | Duplicates
+title_full: Why One UFO Clip Is Not Always One Event
 display_title_short: Video Rows
 display_title: Video Rows
 heading_title: Why One UFO Clip Is Not Always One Event
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 00:19:10'
-parent_title: How One UFO Sighting Becomes Many Records | UFO Archives
+parent_title: How One UFO Sighting Becomes Many Records
 parent_permalink: /duplicates/
 parent_nav_short_title: Duplicates
 parent_heading_title: How One UFO Sighting Becomes Many Records
@@ -276,14 +276,12 @@ image: /assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb_uf
 
 A UFO video in a public database often looks like a discrete event: one thumbnail, one row, one case number. In practice, many video entries are better understood as reports about an event rather than the event itself. A single incident may generate several clips, multiple uploads, investigator summaries, witness statements and later archive entries. When repositories mix all of those materials together, the visible count of “videos” can become much larger than the number of underlying observations.
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb_ufo_video_report_cou_4c193a-Illustration-1-dark.svg" | relative_url }}" alt="Video Rows illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb_ufo_video_report_cou_4c193a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb_ufo_video_report_cou_4c193a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction matters because modern UFO and UAP catalogues increasingly present videos, photographs and [case files]({{ 'case-files/' | relative_url }}) in the same searchable interface. A user scrolling through dozens of clips may assume they are seeing dozens of separate incidents. In reality, they may be seeing different pieces of documentation attached to the same sighting, or repeated uploads of an event that was already logged elsewhere. Understanding the difference between clips, reports and incidents is essential when interpreting database totals and claims about UFO evidence. [NUFORC]({{ 'nuforc/' | relative_url }}) <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slideserve.com/alcina/mufon-case-management-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slideserve.com">[SlideServe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slideserve.com</span><span class="citation-popover-title">mufon case management system</span><span class="citation-popover-snippet">SlideServeMUFON Case Management System5 Sept 2014 — Allows a witness to easily REPORT their UFO Sighting to MUFON via... video, photo, d...</span></span></span>
+This distinction matters because modern UFO and UAP catalogues increasingly present videos, photographs and [case files]({{ 'case-files/' | relative_url }}) in the same searchable interface. A user scrolling through dozens of clips may assume they are seeing dozens of separate incidents. In reality, they may be seeing different pieces of documentation attached to the same sighting, or repeated uploads of an event that was already logged elsewhere. Understanding the difference between clips, reports and incidents is essential when interpreting database totals and claims about UFO evidence. [NUFORC]({{ 'nuforc/' | relative_url }}) <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slideserve.com/alcina/mufon-case-management-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slideserve.com">[SlideServe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slideserve.com</span><span class="citation-popover-title">mufon case management system</span><span class="citation-popover-snippet">MUFON Case Management System5 Sept 2014 — Allows a witness to easily REPORT their UFO Sighting to MUFON via... video, photo, d...</span></span></span>
 
 ## Clips, reports and incidents are different units
 
 The most important counting problem in UFO video [archives]({{ 'archives/' | relative_url }}) is that three different things are often treated as if they were interchangeable:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -297,14 +295,13 @@ Those units do not map neatly onto one another.
 
 One witness may upload a 20-second video and later submit a written account. A second witness may upload another angle. An investigator may create a case summary and attach both files. A database may then generate separate searchable records for the witness report, the investigator report and each media attachment. To a casual user, four visible records can look like four UFO events even though they all refer to the same moment.
 
-This is not necessarily a flaw. Research archives often preserve provenance because the source history matters. A witness account, a video file and a later investigative assessment may contain different information. The problem arises when users count rows, thumbnails or case pages without distinguishing between documentation and incidents. UFO reporting systems are designed to collect reports and evidence, not automatically to produce a clean census of unique events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slideserve.com/alcina/mufon-case-management-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slideserve.com">[SlideServe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slideserve.com</span><span class="citation-popover-title">mufon case management system</span><span class="citation-popover-snippet">SlideServeMUFON Case Management System5 Sept 2014 — Allows a witness to easily REPORT their UFO Sighting to MUFON via... video, photo, d...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">NUFORCData Bank | NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</span></span></span>
+This is not necessarily a flaw. Research archives often preserve provenance because the source history matters. A witness account, a video file and a later investigative assessment may contain different information. The problem arises when users count rows, thumbnails or case pages without distinguishing between documentation and incidents. UFO reporting systems are designed to collect reports and evidence, not automatically to produce a clean census of unique events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slideserve.com/alcina/mufon-case-management-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slideserve.com">[SlideServe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slideserve.com</span><span class="citation-popover-title">mufon case management system</span><span class="citation-popover-snippet">MUFON Case Management System5 Sept 2014 — Allows a witness to easily REPORT their UFO Sighting to MUFON via... video, photo, d...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</span></span></span>
 
 ### Why video makes the problem worse
 
 Videos create additional layers of duplication that do not appear as often in text-only reports.
 
 A single recording may exist in several forms:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -321,24 +318,22 @@ Each version may receive its own page, identifier or catalogue entry. In public-
 
 The result is a misleading impression of volume. A gallery containing 100 UFO clips does not necessarily represent 100 independent observations. Some entries may be alternative versions of the same recording, while others may be evidence attached to already documented incidents.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PSgTuE7HFx0" title="MUFON – The Truth Behind UFOs and Alien Encounters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PSgTuE7HFx0" target="_blank" rel="noopener noreferrer">MUFON – The Truth Behind UFOs and Alien Encounters</a></p><p class="youtube-embed-meta">Channel: J. Horton Films &middot; Views: 48.3K &middot; Uploaded: January 2023 &middot; Length: 50 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PSgTuE7HFx0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PSgTuE7HFx0">Open on YouTube</a></p></div></div></div>
 
 ## When a video entry is really a case file
 
-Many UFO repositories are organised around reports rather than media objects. The National UFO Reporting Center collects witness accounts and allows users to browse reports, images and videos associated with submissions. The visible media therefore sit inside a reporting structure rather than functioning as a catalogue of unique aerial events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">agency for reporting UFO/UAP related events...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNational UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span>
+Many UFO repositories are organised around reports rather than media objects. The National UFO Reporting Center collects witness accounts and allows users to browse reports, images and videos associated with submissions. The visible media therefore sit inside a reporting structure rather than functioning as a catalogue of unique aerial events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">agency for reporting UFO/UAP related events...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span>
 
-[MUFON]({{ 'mufon/' | relative_url }})'s Case Management System was built in a similar way. Documentation describing the system presents it as a repository for sighting reports, investigation reports and associated audio, video, photographs and sketches. The organisational unit is the case, not necessarily the event. Multiple files can belong to one report, while one incident can generate multiple reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slideserve.com/alcina/mufon-case-management-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slideserve.com">[SlideServe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slideserve.com</span><span class="citation-popover-title">mufon case management system</span><span class="citation-popover-snippet">SlideServeMUFON Case Management System5 Sept 2014 — Allows a witness to easily REPORT their UFO Sighting to MUFON via... video, photo, d...</span></span></span>
+[MUFON]({{ 'mufon/' | relative_url }})'s Case Management System was built in a similar way. Documentation describing the system presents it as a repository for sighting reports, investigation reports and associated audio, video, photographs and sketches. The organisational unit is the case, not necessarily the event. Multiple files can belong to one report, while one incident can generate multiple reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slideserve.com/alcina/mufon-case-management-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slideserve.com">[SlideServe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slideserve.com</span><span class="citation-popover-title">mufon case management system</span><span class="citation-popover-snippet">MUFON Case Management System5 Sept 2014 — Allows a witness to easily REPORT their UFO Sighting to MUFON via... video, photo, d...</span></span></span>
 
 This distinction becomes especially important when databases expose media through gallery-style interfaces. A gallery encourages visual browsing. Users naturally count images and clips. Yet the underlying database logic may still be centred on witness submissions and case management.
 
 A repository row can therefore mean:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * One uploaded video.
-* One witness report containing a video. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slideserve.com/alcina/mufon-case-management-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slideserve.com">[slideserve.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slideserve.com</span><span class="citation-popover-title">mufon case management system</span><span class="citation-popover-snippet">SlideServeMUFON Case Management System5 Sept 2014 — Allows a witness to easily REPORT their UFO Sighting to MUFON via... video, photo, d...</span></span></span>
+* One witness report containing a video. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slideserve.com/alcina/mufon-case-management-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slideserve.com">[slideserve.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slideserve.com</span><span class="citation-popover-title">mufon case management system</span><span class="citation-popover-snippet">MUFON Case Management System5 Sept 2014 — Allows a witness to easily REPORT their UFO Sighting to MUFON via... video, photo, d...</span></span></span>
 * One investigator summary discussing a video.
 * One media attachment within a larger case packet.
 
@@ -356,7 +351,6 @@ NUFORC explicitly notes that some reports are judged explainable by human-made o
 
 This can create a second layer of inflation. A user may browse a gallery and assume every video represents an unresolved anomaly. In reality, the collection may combine:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Explained sightings.
@@ -369,14 +363,12 @@ This can create a second layer of inflation. A user may browse a gallery and ass
 
 The number of visible clips therefore says little by itself about the number of unexplained events.
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb_ufo_video_report_cou_4c193a-Illustration-2-dark.svg" | relative_url }}" alt="Video Rows illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb_ufo_video_report_cou_4c193a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb_ufo_video_report_cou_4c193a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The same object can appear in many reports
 
 Certain recurring stimuli generate large [clusters]({{ 'clusters/' | relative_url }}) of video submissions.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -392,7 +384,6 @@ Examples include:
 When a highly visible object crosses a populated area, dozens of witnesses may independently record it. Each recording can become a separate report. Investigators may later determine that all the videos show the same conventional object.
 
 From a reporting perspective, those submissions are valuable because they document public perception and witness behaviour. From an event-counting perspective, however, they should often be grouped together.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nraHhvzdZAQ" title="AI Found Hidden Patterns in 150,000 UFO Reports | ft. Christian Stepien, National UFO Database CTO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nraHhvzdZAQ" target="_blank" rel="noopener noreferrer">AI Found Hidden Patterns in 150,000 UFO Reports | ft. Christian Stepien, National UFO Database CTO</a></p><p class="youtube-embed-meta">Channel: TechUnhinged &middot; Views: 33 &middot; Uploaded: May 2026 &middot; Length: 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nraHhvzdZAQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nraHhvzdZAQ">Open on YouTube</a></p></div></div></div>
 
@@ -428,13 +419,25 @@ Older cases are often re-entered into newer databases, creating additional layer
 
 The cumulative effect can be substantial. Researchers analysing large UFO datasets frequently emphasise that database entries represent reports rather than verified events. Public datasets derived from NUFORC records, for example, routinely describe their contents as sighting reports rather than confirmed incidents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jumpingrivers.com/blog/ufo-counts-in-stan-bayesian-r/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jumpingrivers.com">[jumpingrivers.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jumpingrivers.com</span><span class="citation-popover-title">Using Stan to analyse global UFO sighting reports</span><span class="citation-popover-snippet">August 31, 2023 — 31 Aug 2023 — The goal here is to fit a simple Bayesian model which will allow us to understand the historical counts o...</span><span class="citation-popover-meta">Published: August 31, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kaggle.com/code/allisonphan/ufo-sightings-data-analysis-project" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kaggle.com">[Kaggle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kaggle.com</span><span class="citation-popover-title">ufo sightings data analysis project</span><span class="citation-popover-snippet">This dataset contains over 80,000 records of reported UFO sightings from 1906-2014.... Summer is the season with the highest number of U...</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb_ufo_video_report_cou_4c193a-Illustration-3-dark.svg" | relative_url }}" alt="Video Rows illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb_ufo_video_report_cou_4c193a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb_ufo_video_report_cou_4c193a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Reading a UFO video catalogue more carefully
 
 For readers, journalists and researchers, the safest approach is to treat a video row as a documentation unit until proven otherwise.
 
 Several questions help reveal what is actually being counted:
+
+1. Is the entry a media file, a report or an incident record? <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">agency for reporting UFO/UAP related events...</span></span></span>
+2. Does the database assign one case number to multiple videos?
+3. Are several witnesses describing the same time and location?
+4. Has the footage been reposted from another source?
+5. Does the repository distinguish between explained and unexplained cases?
+6. Are investigator summaries counted separately from witness submissions?
+
+Repositories that preserve source history provide important research value. The danger appears when visible media totals are interpreted as counts of independent UFO occurrences.
+
+A gallery showing hundreds or thousands of clips may indeed contain evidence from many separate incidents. It may also contain multiple recordings, summaries and derivative files linked to a much smaller number of underlying events. In UFO catalogues, a video is often best understood as a report about an observation rather than a direct measure of how many distinct observations occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cuny.manifoldapp.org/read/national-ufo-reporting-center/section/fcbc8a38-68e6-4d00-927c-a9f799775599/resource/3e3a208c-fcc6-4ff4-a8e5-b42d60a7dfa5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cuny.manifoldapp.org">[cuny.manifoldapp.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cuny.manifoldapp.org</span><span class="citation-popover-snippet">National UFO Reporting Center Home PageApr 14, 2025 — The National UFO Reporting Center (NUFORC) is a text-heavy web-based archive with a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slideserve.com/alcina/mufon-case-management-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slideserve.com">[3NUFORC 3SlideServe(#endnote-2 &quot;Snippet: SlideServeMUFON Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slideserve.com</span><span class="citation-popover-title">mufon case management system</span><span class="citation-popover-snippet">MUFON Case Management System5 Sept 2014 — Allows a witness to easily REPORT their UFO Sighting to MUFON via... video, photo, d...</span></span></span> Management System5 Sept 2014 — Allows a witness to easily REPORT their UFO Sighting to MUFON via... video, photo, d...")
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PTwwokag5Zk" title="Pre Sputnik UFOs Crash and Burn (w @MickWest )" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PTwwokag5Zk" target="_blank" rel="noopener noreferrer">Pre Sputnik UFOs Crash and Burn (w @MickWest )</a></p><p class="youtube-embed-meta">Channel: Bad Boy of Science &middot; Views: 882 &middot; Uploaded: May 2026 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PTwwokag5Zk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PTwwokag5Zk">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -553,15 +556,15 @@ Several questions help reveal what is actually being counted:
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-rows-why-one-ufo-clip-is-not-always-one-event-ufo-report-databases-and-catalogues-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="video-rows-why-one-ufo-clip-is-not-always-one-event-ufo-report-databases-and-catalogues-alien-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weyland Corp Logo from Alien series of films Car Sticker, Laptop decal"><img src="{{ '/assets/images/marketplace-covers/d21ad2f89016902af95c.jpg' | relative_url }}" alt="Listing image for Weyland Corp Logo from Alien series of films Car Sticker, Laptop decal" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-ufo-clip-is-not-always-one-event-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-one-ufo-clip-is-not-always-one-event-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-rows-why-one-ufo-clip-is-not-always-one-event-ufo-report-databases-and-catalogues-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="video-rows-why-one-ufo-clip-is-not-always-one-event-ufo-report-databases-and-catalogues-alien-sticker" target="_blank" rel="sponsored noopener noreferrer">Weyland Corp Logo from Alien series of films Car Sticker, Laptop decal</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-ufo-clip-is-not-always-one-event-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-one-ufo-clip-is-not-always-one-event-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-rows-why-one-ufo-clip-is-not-always-one-event-ufo-report-databases-and-catalogues-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="video-rows-why-one-ufo-clip-is-not-always-one-event-ufo-report-databases-and-catalogues-alien-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-ufo-clip-is-not-always-one-event-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-one-ufo-clip-is-not-always-one-event-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-rows-why-one-ufo-clip-is-not-always-one-event-ufo-report-databases-and-catalogues-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="video-rows-why-one-ufo-clip-is-not-always-one-event-ufo-report-databases-and-catalogues-alien-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-ufo-clip-is-not-always-one-event-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-one-ufo-clip-is-not-always-one-event-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -569,15 +572,15 @@ Several questions help reveal what is actually being counted:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-rows-why-one-ufo-clip-is-not-always-one-event-ufo-report-databases-and-catalogues-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="video-rows-why-one-ufo-clip-is-not-always-one-event-ufo-report-databases-and-catalogues-alien-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weyland Yutani Corp Alien Movie Sticker, Car Van Laptop PC Case Vinyl Decal"><img src="{{ '/assets/images/marketplace-covers/1e273888bcb86dc4b850.jpg' | relative_url }}" alt="Listing image for Weyland Yutani Corp Alien Movie Sticker, Car Van Laptop PC Case Vinyl Decal" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-ufo-clip-is-not-always-one-event-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-one-ufo-clip-is-not-always-one-event-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-rows-why-one-ufo-clip-is-not-always-one-event-ufo-report-databases-and-catalogues-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="video-rows-why-one-ufo-clip-is-not-always-one-event-ufo-report-databases-and-catalogues-alien-sticker" target="_blank" rel="sponsored noopener noreferrer">Weyland Yutani Corp Alien Movie Sticker, Car Van Laptop PC Case Vinyl Decal</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-ufo-clip-is-not-always-one-event-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-one-ufo-clip-is-not-always-one-event-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-rows-why-one-ufo-clip-is-not-always-one-event-ufo-report-databases-and-catalogues-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="video-rows-why-one-ufo-clip-is-not-always-one-event-ufo-report-databases-and-catalogues-alien-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-ufo-clip-is-not-always-one-event-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-one-ufo-clip-is-not-always-one-event-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-rows-why-one-ufo-clip-is-not-always-one-event-ufo-report-databases-and-catalogues-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="video-rows-why-one-ufo-clip-is-not-always-one-event-ufo-report-databases-and-catalogues-alien-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-ufo-clip-is-not-always-one-event-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-one-ufo-clip-is-not-always-one-event-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -585,15 +588,15 @@ Several questions help reveal what is actually being counted:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-rows-why-one-ufo-clip-is-not-always-one-event-ufo-report-databases-and-catalogues-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="video-rows-why-one-ufo-clip-is-not-always-one-event-ufo-report-databases-and-catalogues-alien-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Cartoon Alien Dancing Vinyl Sticker Decal Car Window Scrapbook 100x75mm"><img src="{{ '/assets/images/marketplace-covers/933bb86c3bbc2075c645.jpg' | relative_url }}" alt="Listing image for Green Cartoon Alien Dancing Vinyl Sticker Decal Car Window Scrapbook 100x75mm" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-ufo-clip-is-not-always-one-event-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-one-ufo-clip-is-not-always-one-event-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-rows-why-one-ufo-clip-is-not-always-one-event-ufo-report-databases-and-catalogues-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="video-rows-why-one-ufo-clip-is-not-always-one-event-ufo-report-databases-and-catalogues-alien-sticker" target="_blank" rel="sponsored noopener noreferrer">Green Cartoon Alien Dancing Vinyl Sticker Decal Car Window Scrapbook 100x75mm</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-ufo-clip-is-not-always-one-event-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-one-ufo-clip-is-not-always-one-event-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-rows-why-one-ufo-clip-is-not-always-one-event-ufo-report-databases-and-catalogues-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="video-rows-why-one-ufo-clip-is-not-always-one-event-ufo-report-databases-and-catalogues-alien-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-ufo-clip-is-not-always-one-event-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-one-ufo-clip-is-not-always-one-event-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-rows-why-one-ufo-clip-is-not-always-one-event-ufo-report-databases-and-catalogues-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="video-rows-why-one-ufo-clip-is-not-always-one-event-ufo-report-databases-and-catalogues-alien-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-ufo-clip-is-not-always-one-event-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-one-ufo-clip-is-not-always-one-event-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -601,15 +604,15 @@ Several questions help reveal what is actually being counted:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-rows-why-one-ufo-clip-is-not-always-one-event-ufo-report-databases-and-catalogues-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="video-rows-why-one-ufo-clip-is-not-always-one-event-ufo-report-databases-and-catalogues-alien-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien On Board Funny Car Window Bumper Laptop Sticker Paul Movie Vinyl Decal"><img src="{{ '/assets/images/marketplace-covers/241b6a7792b5a3675193.jpg' | relative_url }}" alt="Listing image for Alien On Board Funny Car Window Bumper Laptop Sticker Paul Movie Vinyl Decal" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-ufo-clip-is-not-always-one-event-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-one-ufo-clip-is-not-always-one-event-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-rows-why-one-ufo-clip-is-not-always-one-event-ufo-report-databases-and-catalogues-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="video-rows-why-one-ufo-clip-is-not-always-one-event-ufo-report-databases-and-catalogues-alien-sticker" target="_blank" rel="sponsored noopener noreferrer">Alien On Board Funny Car Window Bumper Laptop Sticker Paul Movie Vinyl Decal</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-ufo-clip-is-not-always-one-event-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-one-ufo-clip-is-not-always-one-event-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-rows-why-one-ufo-clip-is-not-always-one-event-ufo-report-databases-and-catalogues-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="video-rows-why-one-ufo-clip-is-not-always-one-event-ufo-report-databases-and-catalogues-alien-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-ufo-clip-is-not-always-one-event-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-one-ufo-clip-is-not-always-one-event-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-rows-why-one-ufo-clip-is-not-always-one-event-ufo-report-databases-and-catalogues-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="video-rows-why-one-ufo-clip-is-not-always-one-event-ufo-report-databases-and-catalogues-alien-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-ufo-clip-is-not-always-one-event-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-one-ufo-clip-is-not-always-one-event-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -617,7 +620,7 @@ Several questions help reveal what is actually being counted:
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-rows-why-one-ufo-clip-is-not-always-one-event-ufo-report-databases-and-catalogues-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="video-rows-why-one-ufo-clip-is-not-always-one-event-ufo-report-databases-and-catalogues-alien-sticker" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-ufo-clip-is-not-always-one-event-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-one-ufo-clip-is-not-always-one-event-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -828,146 +831,132 @@ Several questions help reveal what is actually being counted:
 </script>
 </section>
 
-1. Is the entry a media file, a report or an incident record? <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">agency for reporting UFO/UAP related events...</span></span></span>
-2. Does the database assign one case number to multiple videos?
-3. Are several witnesses describing the same time and location?
-4. Has the footage been reposted from another source?
-5. Does the repository distinguish between explained and unexplained cases?
-6. Are investigator summaries counted separately from witness submissions?
-
-Repositories that preserve source history provide important research value. The danger appears when visible media totals are interpreted as counts of independent UFO occurrences.
-
-A gallery showing hundreds or thousands of clips may indeed contain evidence from many separate incidents. It may also contain multiple recordings, summaries and derivative files linked to a much smaller number of underlying events. In UFO catalogues, a video is often best understood as a report about an observation rather than a direct measure of how many distinct observations occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cuny.manifoldapp.org/read/national-ufo-reporting-center/section/fcbc8a38-68e6-4d00-927c-a9f799775599/resource/3e3a208c-fcc6-4ff4-a8e5-b42d60a7dfa5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cuny.manifoldapp.org">[cuny.manifoldapp.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cuny.manifoldapp.org</span><span class="citation-popover-snippet">National UFO Reporting Center Home PageApr 14, 2025 — The National UFO Reporting Center (NUFORC) is a text-heavy web-based archive with a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slideserve.com/alcina/mufon-case-management-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slideserve.com">[3NUFORC 3SlideServe(#endnote-2 &quot;Snippet: SlideServeMUFON Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slideserve.com</span><span class="citation-popover-title">mufon case management system</span><span class="citation-popover-snippet">SlideServeMUFON Case Management System5 Sept 2014 — Allows a witness to easily REPORT their UFO Sighting to MUFON via... video, photo, d...</span></span></span> Management System5 Sept 2014 — Allows a witness to easily REPORT their UFO Sighting to MUFON via... video, photo, d...")
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PTwwokag5Zk" title="Pre Sputnik UFOs Crash and Burn (w @MickWest )" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PTwwokag5Zk" target="_blank" rel="noopener noreferrer">Pre Sputnik UFOs Crash and Burn (w @MickWest )</a></p><p class="youtube-embed-meta">Channel: Bad Boy of Science &middot; Views: 882 &middot; Uploaded: May 2026 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PTwwokag5Zk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PTwwokag5Zk">Open on YouTube</a></p></div></div></div>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCData Bank | NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</p></details>
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: slideserve.com  
    Title: mufon case management system  
-   Link: [https://www.slideserve.com/alcina/mufon-case-management-system](https://www.slideserve.com/alcina/mufon-case-management-system)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SlideServeMUFON Case Management System5 Sept 2014 — Allows a witness to easily REPORT their UFO Sighting to MUFON via... video, photo, d...</p></details>
+   Link: <a href="https://www.slideserve.com/alcina/mufon-case-management-system" target="_blank" rel="noopener noreferrer nofollow">https://www.slideserve.com/alcina/mufon-case-management-system</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON Case Management System5 Sept 2014 — Allows a witness to easily REPORT their UFO Sighting to MUFON via... video, photo, d...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/report-a-ufo/](https://nuforc.org/report-a-ufo/)  
+   Link: <a href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/report-a-ufo/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>agency for reporting UFO/UAP related events...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNational UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: jumpingrivers.com  
    Title: Using Stan to analyse global UFO sighting reports  
-   Link: [https://www.jumpingrivers.com/blog/ufo-counts-in-stan-bayesian-r/](https://www.jumpingrivers.com/blog/ufo-counts-in-stan-bayesian-r/)  
+   Link: <a href="https://www.jumpingrivers.com/blog/ufo-counts-in-stan-bayesian-r/" target="_blank" rel="noopener noreferrer nofollow">https://www.jumpingrivers.com/blog/ufo-counts-in-stan-bayesian-r/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>August 31, 2023 — 31 Aug 2023 — The goal here is to fit a simple Bayesian model which will allow us to understand the historical counts o...</p></details>
    Published: August 31, 2023  
 
 6. <a id="endnote-6"></a>
    Source: kaggle.com  
    Title: ufo sightings data analysis project  
-   Link: [https://www.kaggle.com/code/allisonphan/ufo-sightings-data-analysis-project](https://www.kaggle.com/code/allisonphan/ufo-sightings-data-analysis-project)  
+   Link: <a href="https://www.kaggle.com/code/allisonphan/ufo-sightings-data-analysis-project" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/code/allisonphan/ufo-sightings-data-analysis-project</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This dataset contains over 80,000 records of reported UFO sightings from 1906-2014.... Summer is the season with the highest number of U...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: cuny.manifoldapp.org  
-   Link: [https://cuny.manifoldapp.org/read/national-ufo-reporting-center/section/fcbc8a38-68e6-4d00-927c-a9f799775599/resource/3e3a208c-fcc6-4ff4-a8e5-b42d60a7dfa5](https://cuny.manifoldapp.org/read/national-ufo-reporting-center/section/fcbc8a38-68e6-4d00-927c-a9f799775599/resource/3e3a208c-fcc6-4ff4-a8e5-b42d60a7dfa5)  
+   Link: <a href="https://cuny.manifoldapp.org/read/national-ufo-reporting-center/section/fcbc8a38-68e6-4d00-927c-a9f799775599/resource/3e3a208c-fcc6-4ff4-a8e5-b42d60a7dfa5" target="_blank" rel="noopener noreferrer nofollow">https://cuny.manifoldapp.org/read/national-ufo-reporting-center/section/fcbc8a38-68e6-4d00-927c-a9f799775599/resource/3e3a208c-fcc6-4ff4-a8e5-b42d60a7dfa5</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center Home PageApr 14, 2025 — The National UFO Reporting Center (NUFORC) is a text-heavy web-based archive with a...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports by Location NUFORC Reports by Location; USA  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationNUFORC Reports by Location; USA - Arizona, 5340; USA - California, 17150; USA - Colorado, 3574; USA - Conne...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=all](https://nuforc.org/subndx/?id=all)  
+   Link: <a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>All NUFORC ReportsNUFORC · Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search · Menu Close...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
 11. <a id="endnote-11"></a>
    Source: projectaquarius.mufon.com  
    Title: December November 1985  
-   Link: [https://projectaquarius.mufon.com/wp-content/uploads/2023/09/December_November_1985.pdf](https://projectaquarius.mufon.com/wp-content/uploads/2023/09/December_November_1985.pdf)  
+   Link: <a href="https://projectaquarius.mufon.com/wp-content/uploads/2023/09/December_November_1985.pdf" target="_blank" rel="noopener noreferrer nofollow">https://projectaquarius.mufon.com/wp-content/uploads/2023/09/December_November_1985.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO JOURNAL6 Dec 1985 — The MUFON UFO JOURNAL is published by the Mutual UFO. Network, Inc., Seguin, Texas. Membership/Subscription rates...</p></details>
    Published: November 1985  
 
 12. <a id="endnote-12"></a>
    Source: github.com  
-   Link: [https://github.com/suyukun666/UFO](https://github.com/suyukun666/UFO)  
+   Link: <a href="https://github.com/suyukun666/UFO" target="_blank" rel="noopener noreferrer nofollow">https://github.com/suyukun666/UFO</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>suyukun666/UFO: Official PyTorch implementation of the “A...8 Sept 2022 — UFO is a simple and Unified framework for addressing Co-Object...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: metabunk.org  
    Title: Reporting UFOs  
-   Link: [https://www.metabunk.org/threads/nuforc-sightings-categorized-by-decade-and-shape.14610/](https://www.metabunk.org/threads/nuforc-sightings-categorized-by-decade-and-shape.14610/)  
+   Link: <a href="https://www.metabunk.org/threads/nuforc-sightings-categorized-by-decade-and-shape.14610/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/nuforc-sightings-categorized-by-decade-and-shape.14610/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC sightings categorized by decade and shapeDec 1, 2025 — The NUFORC database is completely based on self-reporting, and sighting rec...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/6abcActionNews/posts/also-included-in-the-files-is-a-written-account-from-a-senior-us-intelligence-of/1530682285090808/](https://www.facebook.com/6abcActionNews/posts/also-included-in-the-files-is-a-written-account-from-a-senior-us-intelligence-of/1530682285090808/)  
+   Link: <a href="https://www.facebook.com/6abcActionNews/posts/also-included-in-the-files-is-a-written-account-from-a-senior-us-intelligence-of/1530682285090808/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/6abcActionNews/posts/also-included-in-the-files-is-a-written-account-from-a-senior-us-intelligence-of/1530682285090808/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>6abc Action NewsSource: MUFON CMS report # 114696; submitted promptly April... Case 74907 from the Mutual UFO Network (MUFON) witness re...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/164595413/Life_as_a_Mutual_UFO_Network_MUFON_Field_Investigator_The_Frustration_of_Unanswered_Mysteries](https://www.academia.edu/164595413/Life_as_a_Mutual_UFO_Network_MUFON_Field_Investigator_The_Frustration_of_Unanswered_Mysteries)  
+   Link: <a href="https://www.academia.edu/164595413/Life_as_a_Mutual_UFO_Network_MUFON_Field_Investigator_The_Frustration_of_Unanswered_Mysteries" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/164595413/Life_as_a_Mutual_UFO_Network_MUFON_Field_Investigator_The_Frustration_of_Unanswered_Mysteries</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Take a Report: Witnesses share their sighting, sometimes with photos or videos. 2. Conduct Investigation...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=PSgTuE7HFx0](https://www.youtube.com/watch?v=PSgTuE7HFx0)  
+   Link: <a href="https://www.youtube.com/watch?v=PSgTuE7HFx0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PSgTuE7HFx0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON – The Truth Behind UFOs and Alien EncountersThis video is about Is MUFON Finding Real Aliens? UFO Investigating Documentary Exposed...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/books/Behavioral_Scientist/UFO_Phenomena_and_Behavioral_Scientist.pdf](https://www.nicap.org/books/Behavioral_Scientist/UFO_Phenomena_and_Behavioral_Scientist.pdf)  
+   Link: <a href="https://www.nicap.org/books/Behavioral_Scientist/UFO_Phenomena_and_Behavioral_Scientist.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/books/Behavioral_Scientist/UFO_Phenomena_and_Behavioral_Scientist.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Phenomena and the Behavioral ScientistUFO phenomena and the behavioral scientist. Includes bibliographical references and index. 1. U...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: science.gc.ca  
-   Link: [https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada](https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada)  
+   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>d to, eyewitness accounts, photographs and videos, radar data and physical...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
    Title: i analyzed 79621 declassified ufo reports with ai  
-   Link: [https://www.reddit.com/r/ufo/comments/1t9cikz/i_analyzed_79621_declassified_ufo_reports_with_ai/](https://www.reddit.com/r/ufo/comments/1t9cikz/i_analyzed_79621_declassified_ufo_reports_with_ai/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1t9cikz/i_analyzed_79621_declassified_ufo_reports_with_ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1t9cikz/i_analyzed_79621_declassified_ufo_reports_with_ai/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A full data science pipeline. Key findings from the NUFORC database (1941-2014):. - 61% of sightings happen between 8pm–2am, consistent a...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/ufoupdates/posts/10156859100306790/](https://www.facebook.com/groups/ufoupdates/posts/10156859100306790/)  
+   Link: <a href="https://www.facebook.com/groups/ufoupdates/posts/10156859100306790/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ufoupdates/posts/10156859100306790/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>cess to detailed reports, photos, videos, and advanced...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsMost commonly reported shapes in UFO sightings gathered in the National UFO Reporting Center (NUFORC) On...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: washingtonpost.com  
    Title: ufo conspiracy theorist  
-   Link: [https://www.washingtonpost.com/nation/interactive/2021/ufo-conspiracy-theorist/](https://www.washingtonpost.com/nation/interactive/2021/ufo-conspiracy-theorist/)  
+   Link: <a href="https://www.washingtonpost.com/nation/interactive/2021/ufo-conspiracy-theorist/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/nation/interactive/2021/ufo-conspiracy-theorist/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The lonely journey of a UFO conspiracy theorist3 Sept 2021 — MacDonald added that MUFON did not sell cases outright but would occasionall...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=nraHhvzdZAQ](https://www.youtube.com/watch?v=nraHhvzdZAQ)  
+   Link: <a href="https://www.youtube.com/watch?v=nraHhvzdZAQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nraHhvzdZAQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO files show no alien evidence, analyst says...</p></details>

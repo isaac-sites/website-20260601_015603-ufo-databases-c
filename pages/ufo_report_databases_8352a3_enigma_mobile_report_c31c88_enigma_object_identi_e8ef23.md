@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /enigma/
 nav_short_title: Object Identification
 title: How Enigma Identifies Planes, Satellites, and Stars
-title_full: How Enigma Identifies Planes, Satellites, and Stars | Enigma
+title_full: How Enigma Identifies Planes, Satellites, and Stars
 display_title_short: Object Identification
 display_title: Object Identification
 heading_title: How Enigma Identifies Planes, Satellites, and Stars
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 19:20:19'
-parent_title: Can a UFO App Fix Old Data Problems? | UFO Archives
+parent_title: Can a UFO App Fix Old Data Problems?
 parent_permalink: /enigma/
 parent_nav_short_title: Enigma
 parent_heading_title: Can a UFO App Fix Old Data Problems?
@@ -268,23 +268,20 @@ image: /assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_en
 
 ## Introduction
 
-In the landscape of citizen‑driven UFO/UAP repositories and mobile reporting platforms, **the integration of known‑object identification directly into reporting workflows represents a distinct technical layer within [Enigma]({{ 'enigma/' | relative_url }}) Labs’ offering**. Rather than relying purely on after‑the‑fact human interpretation or external catalogue cross‑checks, Enigma’s **Identify Lens** aims to *deconflict ordinary aerial and celestial objects in real time as part of the sighting experience* — reducing false positives at the point of data capture and improving the overall signal quality in its global catalogue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/identify-satellies-planes-stars-planets-ar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingIdentify (AR) Lens Gets a Major Update—Now You Can Identify Even More Known Objects in the Sky | Enigm...</span></span></span> | Report a UFO sighting
-
+In the landscape of citizen‑driven UFO/UAP repositories and mobile reporting platforms, **the integration of known‑object identification directly into reporting workflows represents a distinct technical layer within [Enigma]({{ 'enigma/' | relative_url }}) Labs’ offering**. Rather than relying purely on after‑the‑fact human interpretation or external catalogue cross‑checks, Enigma’s **Identify Lens** aims to *deconflict ordinary aerial and celestial objects in real time as part of the sighting experience* — reducing false positives at the point of data capture and improving the overall signal quality in its global catalogue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/identify-satellies-planes-stars-planets-ar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingIdentify (AR) Lens Gets a Major Update—Now You Can Identify Even More Known Objects in the Sky &#124; Enigm...</span></span></span> | Report a UFO sighting
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_object_identi_e8ef23-Illustration-1-dark.svg" | relative_url }}" alt="Object Identification illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_object_identi_e8ef23-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_object_identi_e8ef23-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Augmented Reality Object Recognition at the Point of Observation
 
-Traditional UFO databases depend on witness narratives that are often vague about whether a light was a satellite, aircraft or celestial body. Enigma’s mobile app embeds an **augmented reality (AR) “Identify Lens”** into its native camera interface. Users can point their phone at the sky and receive **live identification of known objects**, overlaying real‑time positional data atop the camera view. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/identify-satellies-planes-stars-planets-ar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingIdentify (AR) Lens Gets a Major Update—Now You Can Identify Even More Known Objects in the Sky | Enigm...</span></span></span> | Report a UFO sighting
+Traditional UFO databases depend on witness narratives that are often vague about whether a light was a satellite, aircraft or celestial body. Enigma’s mobile app embeds an **augmented reality (AR) “Identify Lens”** into its native camera interface. Users can point their phone at the sky and receive **live identification of known objects**, overlaying real‑time positional data atop the camera view. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/identify-satellies-planes-stars-planets-ar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingIdentify (AR) Lens Gets a Major Update—Now You Can Identify Even More Known Objects in the Sky &#124; Enigm...</span></span></span> | Report a UFO sighting
 
-The system is designed to filter out routine aerial phenomena—*for example, recognising satellites and commercial aircraft using live telemetry and ADS‑B data*—before the user decides to record or submit a sighting. This AR layer effectively turns a smartphone into a “sky scanner”, overlaying graphical markers for objects such as stars, planets, satellites, and planes, and showing object details like altitude and speed when available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/identify-satellies-planes-stars-planets-ar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingIdentify (AR) Lens Gets a Major Update—Now You Can Identify Even More Known Objects in the Sky | Enigm...</span></span></span> | Report a UFO sighting
-
+The system is designed to filter out routine aerial phenomena—*for example, recognising satellites and commercial aircraft using live telemetry and ADS‑B data*—before the user decides to record or submit a sighting. This AR layer effectively turns a smartphone into a “sky scanner”, overlaying graphical markers for objects such as stars, planets, satellites, and planes, and showing object details like altitude and speed when available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/identify-satellies-planes-stars-planets-ar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingIdentify (AR) Lens Gets a Major Update—Now You Can Identify Even More Known Objects in the Sky &#124; Enigm...</span></span></span> | Report a UFO sighting
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/h5tR21ucjq4" title="Halide Mk II Tutorial // Learn Halide and get the most out of your $36 camera app!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=h5tR21ucjq4" target="_blank" rel="noopener noreferrer">Halide Mk II Tutorial // Learn Halide and get the most out of your $36 camera app!</a></p><p class="youtube-embed-meta">Channel: David Addison &middot; Views: 124.2K &middot; Uploaded: November 2020 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=h5tR21ucjq4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=h5tR21ucjq4">Open on YouTube</a></p></div></div></div>
 
 ## Database of Known Celestial and Aerial Objects
 
 The mechanism for identifying known objects bridges multiple real‑world datasets:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -294,25 +291,22 @@ The mechanism for identifying known objects bridges multiple real‑world datase
 
 </div>
 
-By anchoring these data layers to the phone’s sensors and camera orientation, the app attempts to match observed objects to known entities *before* they enter the UFO catalogue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/identify-satellies-planes-stars-planets-ar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingIdentify (AR) Lens Gets a Major Update—Now You Can Identify Even More Known Objects in the Sky | Enigm...</span></span></span> | Report a UFO sighting
+By anchoring these data layers to the phone’s sensors and camera orientation, the app attempts to match observed objects to known entities *before* they enter the UFO catalogue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/identify-satellies-planes-stars-planets-ar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingIdentify (AR) Lens Gets a Major Update—Now You Can Identify Even More Known Objects in the Sky &#124; Enigm...</span></span></span> | Report a UFO sighting
 
-This integration reflects Enigma’s broader approach to “signal over noise”: the service explicitly identifies and stratifies confounding variables that commonly appear in UFO reports—so users can submit fewer mundane objects and more genuinely unresolved observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/identify-satellies-planes-stars-planets-ar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingIdentify (AR) Lens Gets a Major Update—Now You Can Identify Even More Known Objects in the Sky | Enigm...</span></span></span> | Report a UFO sighting
-
+This integration reflects Enigma’s broader approach to “signal over noise”: the service explicitly identifies and stratifies confounding variables that commonly appear in UFO reports—so users can submit fewer mundane objects and more genuinely unresolved observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/identify-satellies-planes-stars-planets-ar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingIdentify (AR) Lens Gets a Major Update—Now You Can Identify Even More Known Objects in the Sky &#124; Enigm...</span></span></span> | Report a UFO sighting
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_object_identi_e8ef23-Illustration-2-dark.svg" | relative_url }}" alt="Object Identification illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_object_identi_e8ef23-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_object_identi_e8ef23-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Impact on Reducing False UFO Reports
 
 A persistent challenge in UFO databases is the **high prevalence of misidentifications** stemming from routine aerial or celestial objects. Enigma’s implementation of in‑app identification tools influences reporting behaviour and data quality in several key ways:
 
-* **Early deconfliction:** By informing users in real time that an object is a known plane, satellite, star or planet, fewer submissions are generated for explainable sightings, *shrinking the volume of easily classified cases in the database*. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/identify-satellies-planes-stars-planets-ar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingIdentify (AR) Lens Gets a Major Update—Now You Can Identify Even More Known Objects in the Sky | Enigm...</span></span></span> | Report a UFO sighting
-* **Evidence quality upgrade:** Users who choose to record or submit sightings do so with confidence that **pre‑screening has already eliminated obvious candidates**, improving the relative proportion of genuinely ambiguous events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/identify-satellies-planes-stars-planets-ar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingIdentify (AR) Lens Gets a Major Update—Now You Can Identify Even More Known Objects in the Sky | Enigm...</span></span></span> | Report a UFO sighting
-* **Field validation scenarios:** In field tests, such as investigative efforts around anomalous drone reports in New Jersey, the Identify Lens played a practical role in *filtering commercial aircraft and celestial objects*, allowing investigators to focus on unexplained activity rather than known aerial traffic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/identify-satellies-planes-stars-planets-ar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingIdentify (AR) Lens Gets a Major Update—Now You Can Identify Even More Known Objects in the Sky | Enigm...</span></span></span> | Report a UFO sighting
+* **Early deconfliction:** By informing users in real time that an object is a known plane, satellite, star or planet, fewer submissions are generated for explainable sightings, *shrinking the volume of easily classified cases in the database*. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/identify-satellies-planes-stars-planets-ar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingIdentify (AR) Lens Gets a Major Update—Now You Can Identify Even More Known Objects in the Sky &#124; Enigm...</span></span></span> | Report a UFO sighting
+* **Evidence quality upgrade:** Users who choose to record or submit sightings do so with confidence that **pre‑screening has already eliminated obvious candidates**, improving the relative proportion of genuinely ambiguous events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/identify-satellies-planes-stars-planets-ar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingIdentify (AR) Lens Gets a Major Update—Now You Can Identify Even More Known Objects in the Sky &#124; Enigm...</span></span></span> | Report a UFO sighting
+* **Field validation scenarios:** In field tests, such as investigative efforts around anomalous drone reports in New Jersey, the Identify Lens played a practical role in *filtering commercial aircraft and celestial objects*, allowing investigators to focus on unexplained activity rather than known aerial traffic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/identify-satellies-planes-stars-planets-ar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingIdentify (AR) Lens Gets a Major Update—Now You Can Identify Even More Known Objects in the Sky &#124; Enigm...</span></span></span> | Report a UFO sighting
 
 This integrated known‑object identification **directly influences Enigma’s broader UFO catalogue quality** by making the “front line” capture process more informed and less reliant on retrospective external cross‑checks.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PHQv0SPwg24" title="The Benefits of the Enigma App | Talking Strange" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PHQv0SPwg24" target="_blank" rel="noopener noreferrer">The Benefits of the Enigma App | Talking Strange</a></p><p class="youtube-embed-meta">Channel: Talking Strange &middot; Views: 276 &middot; Uploaded: January 2025 &middot; Length: 45 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PHQv0SPwg24" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PHQv0SPwg24">Open on YouTube</a></p></div></div></div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/R3Z_tmsY3fk" title="SKY FULL OF LIGHTS! Analyzing a #Satellite Train &amp; The Truth About &quot;No-Fly Zone&quot; #UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=R3Z_tmsY3fk" target="_blank" rel="noopener noreferrer">SKY FULL OF LIGHTS! Analyzing a #Satellite Train &amp; The Truth About &quot;No-Fly Zone&quot; #UFOs</a></p><p class="youtube-embed-meta">Channel: UFO-Track - Real-time UFO Reports &amp; Investigations &middot; Views: 75 &middot; Uploaded: May 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=R3Z_tmsY3fk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=R3Z_tmsY3fk">Open on YouTube</a></p></div></div></div>
 
@@ -324,8 +318,7 @@ In some app version notes, developers highlight plans to employ computer vision 
 
 While mainstream UFO databases like [MUFON]({{ 'mufon/' | relative_url }}) or historical [archives]({{ 'archives/' | relative_url }}) do not yet natively embed such real‑time identification tools, Enigma’s approach represents a **mobile‑first instantiation of immediate object deconfliction**, feeding cleaner, context‑rich reports into its networked repository.
 
-In sum, the integration of known‑object identification within Enigma sightings *actively shapes what enters the database and how users interpret what they see*. By front‑loading object recognition into the user interface and linking it with live data feeds and AR overlays, Enigma situates itself at a unique intersection between citizen science, mobile data collection, and UFO reporting infrastructure—offering a practical mechanism to reduce false positives and elevate the quality of crowd‑sourced aerial anomaly data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/identify-satellies-planes-stars-planets-ar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingIdentify (AR) Lens Gets a Major Update—Now You Can Identify Even More Known Objects in the Sky | Enigm...</span></span></span> | Report a UFO sighting
-
+In sum, the integration of known‑object identification within Enigma sightings *actively shapes what enters the database and how users interpret what they see*. By front‑loading object recognition into the user interface and linking it with live data feeds and AR overlays, Enigma situates itself at a unique intersection between citizen science, mobile data collection, and UFO reporting infrastructure—offering a practical mechanism to reduce false positives and elevate the quality of crowd‑sourced aerial anomaly data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/identify-satellies-planes-stars-planets-ar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingIdentify (AR) Lens Gets a Major Update—Now You Can Identify Even More Known Objects in the Sky &#124; Enigm...</span></span></span> | Report a UFO sighting
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_object_identi_e8ef23-Illustration-3-dark.svg" | relative_url }}" alt="Object Identification illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_object_identi_e8ef23-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_object_identi_e8ef23-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -725,134 +718,134 @@ In sum, the integration of known‑object identification within Enigma sightings
 
 1. <a id="endnote-1"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/blog/identify-satellies-planes-stars-planets-ar](https://enigmalabs.io/blog/identify-satellies-planes-stars-planets-ar)  
+   Link: <a href="https://enigmalabs.io/blog/identify-satellies-planes-stars-planets-ar" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/blog/identify-satellies-planes-stars-planets-ar</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | Report a UFO sightingIdentify (AR) Lens Gets a Major Update—Now You Can Identify Even More Known Objects in the Sky | Enigm...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: enigmalabs.io  
    Title: Enigma Labs | Report a UFO sighting Shazam for the Skies | Enigma Labs  
-   Link: [https://enigmalabs.io/blog/announcing-the-enigma-ar-lens](https://enigmalabs.io/blog/announcing-the-enigma-ar-lens)  
+   Link: <a href="https://enigmalabs.io/blog/announcing-the-enigma-ar-lens" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/blog/announcing-the-enigma-ar-lens</a>  
 
 3. <a id="endnote-3"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/blog/finding-signal-in-a-noisy-world](https://enigmalabs.io/blog/finding-signal-in-a-noisy-world)  
+   Link: <a href="https://enigmalabs.io/blog/finding-signal-in-a-noisy-world" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/blog/finding-signal-in-a-noisy-world</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | Report a UFO sightingFinding Signal in a Noisy World | Enigma LabsJuly 19, 2023...</p></details>
    Published: July 19, 2023  
 
 4. <a id="endnote-4"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/blog/hunting-njs-mysterious-drones-in-the-field-with-rf](https://enigmalabs.io/blog/hunting-njs-mysterious-drones-in-the-field-with-rf)  
+   Link: <a href="https://enigmalabs.io/blog/hunting-njs-mysterious-drones-in-the-field-with-rf" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/blog/hunting-njs-mysterious-drones-in-the-field-with-rf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | Report a UFO sightingHunting NJ’s mysterious drones in the field with Enigma&#x27;s AR Identify Lens and Radio Frequency | Enigm...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: apps.apple.com  
    Title: App Store‎Enigma: What’s that in the Sky App  
-   Link: [https://apps.apple.com/gb/app/enigma-ufo-sightings-alerts/id1548371173](https://apps.apple.com/gb/app/enigma-ufo-sightings-alerts/id1548371173)  
+   Link: <a href="https://apps.apple.com/gb/app/enigma-ufo-sightings-alerts/id1548371173" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/gb/app/enigma-ufo-sightings-alerts/id1548371173</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>App Store...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: apps.apple.com  
    Title: App Store‎Enigma: What’s that in the Sky App  
-   Link: [https://apps.apple.com/us/app/enigma-ufo-sightings-alerts/id1548371173](https://apps.apple.com/us/app/enigma-ufo-sightings-alerts/id1548371173)  
+   Link: <a href="https://apps.apple.com/us/app/enigma-ufo-sightings-alerts/id1548371173" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/us/app/enigma-ufo-sightings-alerts/id1548371173</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>App Store...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: play.google.com  
-   Link: [https://play.google.com/store/apps/details?hl=en-US&id=com.enigma.mobile](https://play.google.com/store/apps/details?hl=en-US&id=com.enigma.mobile)  
+   Link: <a href="https://play.google.com/store/apps/details?hl=en-US&amp;id=com.enigma.mobile" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en-US&amp;id=com.enigma.mobile</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>google.comEnigma: What’s that in the Sky - Apps on Google PlayDecember 2, 2025 — ENIGMA: WHAT’S THAT IN THE SKY Enigma Labs, LLC 3.9 296...</p></details>
    Published: December 2, 2025  
 
 8. <a id="endnote-8"></a>
    Source: toolmage.com  
    Title: It provides a platform for users to report, track, and analyze sightin  
-   Link: [https://www.toolmage.com/en/tool/enigma-labs/](https://www.toolmage.com/en/tool/enigma-labs/)  
+   Link: <a href="https://www.toolmage.com/en/tool/enigma-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.toolmage.com/en/tool/enigma-labs/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | The #1 UAP/UFO Sighting &amp; Analysis Platform - ToolMageAugust 3, 2025 — ENIGMA LABS Visit Website Enigma Labs is the world&#x27;s...</p></details>
    Published: August 3, 2025  
 
 9. <a id="endnote-9"></a>
    Source: enigmalabs.io  
-   Link: [https://www.enigmalabs.io/blog/product-launch-enigma-alerts-enable-real-time-sighting-notifications](https://www.enigmalabs.io/blog/product-launch-enigma-alerts-enable-real-time-sighting-notifications)  
+   Link: <a href="https://www.enigmalabs.io/blog/product-launch-enigma-alerts-enable-real-time-sighting-notifications" target="_blank" rel="noopener noreferrer nofollow">https://www.enigmalabs.io/blog/product-launch-enigma-alerts-enable-real-time-sighting-notifications</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 9, 2024 — Image NEVER MISS A UFO SIGHTING–ENIGMA ALERTS ENABLE REAL-TIME SIGHTING NOTIFICATIONS Dec 9, 2024 [Button: Share Artic...</p></details>
    Published: December 9, 2024  
 
 10. <a id="endnote-10"></a>
    Source: enigmalabs.io  
    Title: 12,000 UAP Sightings and Counting | Enigma Labs  
-   Link: [https://enigmalabs.io/blog/12000-uap-sightings-and-counting](https://enigmalabs.io/blog/12000-uap-sightings-and-counting)  
+   Link: <a href="https://enigmalabs.io/blog/12000-uap-sightings-and-counting" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/blog/12000-uap-sightings-and-counting</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>December 14, 2023 — Share UFO Sighting Image 12,000 UAP SIGHTINGS AND COUNTING Dec 14, 2023 Share Article At Enigma, we are laser focused...</p></details>
    Published: December 14, 2023  
 
 11. <a id="endnote-11"></a>
    Source: enigmalabs.io  
    Title: Product update: Enigma’s Native Camera and AR Lens | Enigma Labs  
-   Link: [https://enigmalabs.io/blog/enigma-camera-recordings-are-stored-in-app-and-can](https://enigmalabs.io/blog/enigma-camera-recordings-are-stored-in-app-and-can)  
+   Link: <a href="https://enigmalabs.io/blog/enigma-camera-recordings-are-stored-in-app-and-can" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/blog/enigma-camera-recordings-are-stored-in-app-and-can</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>November 8, 2023 — Image PRODUCT UPDATE: ENIGMA’S NATIVE CAMERA AND AR LENS Nov 8, 2023 [Button: Share Article] Product update: Enigma’s...</p></details>
    Published: November 8, 2023  
 
 13. <a id="endnote-13"></a>
    Source: enigmalabs.io  
    Title: The New Enigma Camera — Optimizing Metadata for UAP Sightings | Enigma Labs  
-   Link: [https://enigmalabs.io/blog/the-new-enigma-camera-optimizing-metadata-for-uap-sightings](https://enigmalabs.io/blog/the-new-enigma-camera-optimizing-metadata-for-uap-sightings)  
+   Link: <a href="https://enigmalabs.io/blog/the-new-enigma-camera-optimizing-metadata-for-uap-sightings" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/blog/the-new-enigma-camera-optimizing-metadata-for-uap-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>August 25, 2023 — THE NEW ENIGMA CAMERA — OPTIMIZING METADATA FOR UAP SIGHTINGS The native Enigma camera captures metadata frame by frame...</p></details>
    Published: August 25, 2023  
 
 14. <a id="endnote-14"></a>
    Source: enigmalabs.io  
-   Link: [https://www.enigmalabs.io/faq](https://www.enigmalabs.io/faq)  
+   Link: <a href="https://www.enigmalabs.io/faq" target="_blank" rel="noopener noreferrer nofollow">https://www.enigmalabs.io/faq</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>+ What does “UAP&quot; stand for? + Why did the terminology change from UFO to UAP? + Why is the United States Congress interested in UAP? +...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: moge.ai  
-   Link: [https://moge.ai/en/product/enigma-labs/](https://moge.ai/en/product/enigma-labs/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MOGEENIGMA LABS A comprehensive platform for reporting, analyzing, and understanding Unidentified Anomalous Phenomena (UAP) sightings wor...</p></details>
+   Link: <a href="https://moge.ai/en/product/enigma-labs/" target="_blank" rel="noopener noreferrer nofollow">https://moge.ai/en/product/enigma-labs/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ENIGMA LABS A comprehensive platform for reporting, analyzing, and understanding Unidentified Anomalous Phenomena (UAP) sightings wor...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=h5tR21ucjq4](http://www.youtube.com/watch?v=h5tR21ucjq4)  
+   Link: <a href="http://www.youtube.com/watch?v=h5tR21ucjq4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=h5tR21ucjq4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma UFO app Identify Lens Enigma UFO app identifies aircraft, satellites, and celestial objects all at once and its free OpenMindsTV...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=Tz7_ioGanmw](http://www.youtube.com/watch?v=Tz7_ioGanmw)  
+   Link: <a href="http://www.youtube.com/watch?v=Tz7_ioGanmw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Tz7_ioGanmw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SKY FULL OF LIGHTS! Analyzing a #Satellite Train &amp; The Truth About &quot;No-Fly Zone&quot; #UFOs...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: apps.apple.com  
    Title: Every day, thousands of people see  
-   Link: [https://apps.apple.com/gb/app/enigma-ufo-uap-sightings/id1548371173?uo=2](https://apps.apple.com/gb/app/enigma-ufo-uap-sightings/id1548371173?uo=2)  
+   Link: <a href="https://apps.apple.com/gb/app/enigma-ufo-uap-sightings/id1548371173?uo=2" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/gb/app/enigma-ufo-uap-sightings/id1548371173?uo=2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>apple.com‎Enigma: What’s that in the Sky App - App StoreENIGMA: WHAT’S THAT IN THE SKY REPORT DRONES &amp; UFO SIGHTINGS Free · Designed for...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: appbrain.com  
    Title: Enigma: What’s that in the Sky  
-   Link: [https://www.appbrain.com/app/enigma-ufo-sightings-alerts/com.enigma.mobile](https://www.appbrain.com/app/enigma-ufo-sightings-alerts/com.enigma.mobile)  
+   Link: <a href="https://www.appbrain.com/app/enigma-ufo-sightings-alerts/com.enigma.mobile" target="_blank" rel="noopener noreferrer nofollow">https://www.appbrain.com/app/enigma-ufo-sightings-alerts/com.enigma.mobile</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Free APK Download for AndroidMay 11, 2026 — Image: Enigma: What’s that in the Sky icon ENIGMA: WHAT’S THAT IN THE SKY 2.3.1 Enigma Labs...</p></details>
    Published: May 11, 2026  
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=R3Z_tmsY3fk](http://www.youtube.com/watch?v=R3Z_tmsY3fk)  
+   Link: <a href="http://www.youtube.com/watch?v=R3Z_tmsY3fk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=R3Z_tmsY3fk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Benefits of the Enigma App | Talking Strange...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=K2sd6OD2vnc](http://www.youtube.com/watch?v=K2sd6OD2vnc)  
+   Link: <a href="http://www.youtube.com/watch?v=K2sd6OD2vnc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=K2sd6OD2vnc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Halide Mk II Tutorial // Learn Halide and get the most out of your $36 camera app...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: apps.apple.com  
-   Link: [https://apps.apple.com/us/app/enigma-whats-that-in-the-sky/id1548371173](https://apps.apple.com/us/app/enigma-whats-that-in-the-sky/id1548371173)  
+   Link: <a href="https://apps.apple.com/us/app/enigma-whats-that-in-the-sky/id1548371173" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/us/app/enigma-whats-that-in-the-sky/id1548371173</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Not verified for macOS. Share * 5.2K Ratings 4.8 * Age Rating 9+ Years * Category News * Developer Enig...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: apps.apple.com  
-   Link: [https://apps.apple.com/ro/app/enigma-whats-that-in-the-sky/id1548371173](https://apps.apple.com/ro/app/enigma-whats-that-in-the-sky/id1548371173)  
+   Link: <a href="https://apps.apple.com/ro/app/enigma-whats-that-in-the-sky/id1548371173" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/ro/app/enigma-whats-that-in-the-sky/id1548371173</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Not verified for macOS. * * * * iPhone, iPad Enigma is the #1 destination for UFO sighting alerts an...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: The Benefits of the Enigma App | Talking Strange  
-   Link: [http://www.youtube.com/watch?v=PHQv0SPwg24](http://www.youtube.com/watch?v=PHQv0SPwg24)  
+   Link: <a href="http://www.youtube.com/watch?v=PHQv0SPwg24" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=PHQv0SPwg24</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 3 Enigma UFO Sightings of 2024...</p></details>

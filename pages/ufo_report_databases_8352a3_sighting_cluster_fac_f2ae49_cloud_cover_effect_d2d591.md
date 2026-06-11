@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /clusters/
 nav_short_title: Weather Patterns
 title: Why Cloud Cover Reduces UFO Sightings in Some Areas
-title_full: Why Cloud Cover Reduces UFO Sightings in Some Areas | Clusters
+title_full: Why Cloud Cover Reduces UFO Sightings in Some Areas
 display_title_short: Weather Patterns
 display_title: Weather Patterns
 heading_title: Why Cloud Cover Reduces UFO Sightings in Some Areas
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 00:20:34'
-parent_title: Why UFO Sightings Cluster on the Map | UFO Archives
+parent_title: Why UFO Sightings Cluster on the Map
 parent_permalink: /clusters/
 parent_nav_short_title: Clusters
 parent_heading_title: Why UFO Sightings Cluster on the Map
@@ -270,41 +270,37 @@ image: /assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_cl
 
 When people map large databases of UFO or Unidentified Aerial Phenomena (UAP) reports — such as public [archives]({{ 'archives/' | relative_url }}) from [NUFORC]({{ 'nuforc/' | relative_url }}) or similar catalogues — striking **spatial and temporal patterns** often emerge. But seeing where and when reports cluster is only part of the story. A parallel question asks whether **weather conditions such as cloud cover and broader meteorological patterns influence how many sightings get recorded**. In other words, are we looking at variations in the sky itself, or variations in our ability to notice and report what’s up there? A growing body of research suggests that visibility conditions — including cloud cover — matter for observing and reporting aerial phenomena, and that weather patterns can shape where and when people document unusual sightings.
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_cloud_cover_effect_d2d591-Illustration-1-dark.svg" | relative_url }}" alt="Weather Patterns illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_cloud_cover_effect_d2d591-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_cloud_cover_effect_d2d591-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Cloud Cover Affects Visibility and Reporting
 
 At the most basic level, cloud cover reduces the **visual opportunity** for observers to see atmospheric or aerial events. Overcast skies scatter and absorb light, diminishing contrast and obscuring objects, lights, and movements that might otherwise be noticeable against a clear sky. This mechanism is well‑established in atmospheric science; for example, work in meteorology shows how fog and low clouds degrade visibility conditions for ground observers and instruments alike, complicating the detection of distant features or motion (visibility loss and its effects on observation are core topics in visibility research)[Springer].
 
-In the context of UFO/UAP reporting, fewer clear observation opportunities logically lead to **fewer reports** simply because potential witnesses see less of the sky. Informal observations — such as those made on enthusiast forums — note that many curated sighting videos and descriptions occur under clear or lightly clouded skies, while heavily overcast conditions seem under‑represented in public sightings threads, even accounting for night‑time reporting biases<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs_Archives/comments/1hfoq22" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Question About UAP Sightings and Weather Patterns</span><span class="citation-popover-snippet">RedditQuestion About UAP Sightings and Weather PatternsDecember 16, 2024...</span><span class="citation-popover-meta">Published: December 16, 2024</span></span></span>.
-
+In the context of UFO/UAP reporting, fewer clear observation opportunities logically lead to **fewer reports** simply because potential witnesses see less of the sky. Informal observations — such as those made on enthusiast forums — note that many curated sighting videos and descriptions occur under clear or lightly clouded skies, while heavily overcast conditions seem under‑represented in public sightings threads, even accounting for night‑time reporting biases<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs_Archives/comments/1hfoq22" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Question About UAP Sightings and Weather Patterns</span><span class="citation-popover-snippet">Question About UAP Sightings and Weather PatternsDecember 16, 2024...</span><span class="citation-popover-meta">Published: December 16, 2024</span></span></span>.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/awml9Z6eF_M" title="Exclusive: &#x27;Incredible&#x27; UAP video captured in Greenland | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=awml9Z6eF_M" target="_blank" rel="noopener noreferrer">Exclusive: &#x27;Incredible&#x27; UAP video captured in Greenland | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 1.5M &middot; Uploaded: June 2025 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=awml9Z6eF_M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=awml9Z6eF_M">Open on YouTube</a></p></div></div></div>
 
 ## Evidence From Spatial Analyses of Sightings
 
-One of the few systematic attempts to quantify environmental effects on UFO/UAP reports is a study that modelled thousands of public sighting reports against a set of **“sky view potential” variables** — including cloud cover, [light pollution]({{ 'light-pollution/' | relative_url }}), and [tree canopy]({{ 'tree-canopy/' | relative_url }}) cover — across counties in the continental United States. The hypothesis was straightforward: areas with **fewer visibility obstructions should have more reported sightings**, all else equal<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureAn environmental analysis of public UAP sightings and sky view potential | Scientific ReportsDecember 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>.
+One of the few systematic attempts to quantify environmental effects on UFO/UAP reports is a study that modelled thousands of public sighting reports against a set of **“sky view potential” variables** — including cloud cover, [light pollution]({{ 'light-pollution/' | relative_url }}), and [tree canopy]({{ 'tree-canopy/' | relative_url }}) cover — across counties in the continental United States. The hypothesis was straightforward: areas with **fewer visibility obstructions should have more reported sightings**, all else equal<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky view potential &#124; Scientific ReportsDecember 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>.
 
-The results from Bayesian regression confirmed credible correlations for some variables (such as light pollution and proximity to [air traffic]({{ 'air-traffic/' | relative_url }})), but **cloud cover did not show a strong independent relationship** with reports in this particular analysis. The authors suggested that this might be because areas with consistently cloudier weather (for example, coastal Pacific Northwest regions) can still generate many sightings, while desert regions with mostly clear skies also produce many reports, weakening a simple statistical link between clouds and counts of reports at the county scale<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn environmental analysis of public UAP sightings and sky view potential</span><span class="citation-popover-snippet">PMCDecember 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>.
+The results from Bayesian regression confirmed credible correlations for some variables (such as light pollution and proximity to [air traffic]({{ 'air-traffic/' | relative_url }})), but **cloud cover did not show a strong independent relationship** with reports in this particular analysis. The authors suggested that this might be because areas with consistently cloudier weather (for example, coastal Pacific Northwest regions) can still generate many sightings, while desert regions with mostly clear skies also produce many reports, weakening a simple statistical link between clouds and counts of reports at the county scale<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn environmental analysis of public UAP sightings and sky view potential</span><span class="citation-popover-snippet">December 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>.
 
 However, the broader interpretation remains aligned with the visibility mechanism: locations where observers have a **better unobstructed view of the sky** — whether due to fewer trees, less light pollution, or generally clearer conditions — tend to generate more sightings reports than places where sightlines are blocked or the sky is obscured. This supports the idea that cloud cover and related weather patterns **moderate observational opportunities**, shaping the apparent spatial distribution of UFO report density.
 
 ## Weather Patterns and Human Observation Behaviour
 
-Beyond cloud cover alone, larger weather regimes can affect **when and how people look at the sky**. Seasonal and climatic patterns — for example, extended periods of overcast conditions, storms, or persistent low clouds — can discourage outdoor observation. Conversely, clear, dry weather often invites more people outdoors at dawn, dusk, or night, increasing the pool of casual witnesses who might notice and report unusual aerial activity. Although detailed quantitative work connecting seasonal meteorology to UFO report rates is limited, common reporting patterns deposited in databases show **seasonal cycles**, with peaks in reports during warmer months when skies are often clearer and outdoor activity is higher<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufotimelineproject.com/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotimelineproject.com">[ufotimelineproject.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotimelineproject.com</span><span class="citation-popover-title">UF O Sightings | UFO Timeline Project</span><span class="citation-popover-snippet">UF O Sightings | UFO Timeline Project</span></span></span>.
+Beyond cloud cover alone, larger weather regimes can affect **when and how people look at the sky**. Seasonal and climatic patterns — for example, extended periods of overcast conditions, storms, or persistent low clouds — can discourage outdoor observation. Conversely, clear, dry weather often invites more people outdoors at dawn, dusk, or night, increasing the pool of casual witnesses who might notice and report unusual aerial activity. Although detailed quantitative work connecting seasonal meteorology to UFO report rates is limited, common reporting patterns deposited in databases show **seasonal cycles**, with peaks in reports during warmer months when skies are often clearer and outdoor activity is higher<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufotimelineproject.com/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotimelineproject.com">[ufotimelineproject.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotimelineproject.com</span><span class="citation-popover-title">UF O Sightings &#124; UFO Timeline Project</span><span class="citation-popover-snippet">UF O Sightings &#124; UFO Timeline Project</span></span></span>.
 
 Weather dynamics can also influence the **perception** of ordinary aerial or atmospheric phenomena. Light scattering by thin clouds or high cirrus layers can create optical effects — halos, glows, or unusual light patterns — that are more noticeable than the objects themselves and may be misreported as unexplained sighting events. While this kind of perceptual effect is seldom directly measured in large datasets, atmospheric optics research shows how cloud layers and moisture gradients can significantly alter visual impressions of celestial objects or aircraft.
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_cloud_cover_effect_d2d591-Illustration-2-dark.svg" | relative_url }}" alt="Weather Patterns illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_cloud_cover_effect_d2d591-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_cloud_cover_effect_d2d591-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Clouds, Technological Detection, and Sighting Data Artefacts
 
-Although much UFO reporting depends on eyewitness testimony, an increasing number of reports include photographs and video captured by cameras or phones. Here, **cloud cover also affects sensor performance**: cameras struggle to focus or auto‑adjust under low contrast conditions, and cloud layers can mask objects moving above them. Technology‑focused research on atmospheric conditions routinely uses cloud masks from satellites (e.g., MODIS products) to identify **clear pixels** before analysing phenomena above the atmosphere, precisely because clouds block or scatter signals of interest<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0927650503001968" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectEffect of clouds on apertures of space-based air fluorescence detectors - ScienceDirectJanuary 1, 2004...</span><span class="citation-popover-meta">Published: January 1, 2004</span></span></span>. This illustrates why both human and instrument‑based sightings are likely to be underrepresented under heavy cloud cover.
+Although much UFO reporting depends on eyewitness testimony, an increasing number of reports include photographs and video captured by cameras or phones. Here, **cloud cover also affects sensor performance**: cameras struggle to focus or auto‑adjust under low contrast conditions, and cloud layers can mask objects moving above them. Technology‑focused research on atmospheric conditions routinely uses cloud masks from satellites (e.g., MODIS products) to identify **clear pixels** before analysing phenomena above the atmosphere, precisely because clouds block or scatter signals of interest<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0927650503001968" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Effect of clouds on apertures of space-based air fluorescence detectors - ScienceDirectJanuary 1, 2004...</span><span class="citation-popover-meta">Published: January 1, 2004</span></span></span>. This illustrates why both human and instrument‑based sightings are likely to be underrepresented under heavy cloud cover.
 
 ## Putting Cloud Cover in Context With Other Environmental Factors
 
 The relationship between weather patterns and UFO sightings does not operate in isolation. Cloud cover interacts with other environmental factors that shape visibility — such as light pollution, altitude, and terrain. For example, mountainous or arid regions with generally clearer skies and low light pollution often appear as hotspots in sighting catalogues, while dense urban areas with frequent low clouds and high pollution show fewer reports per capita. Similarly, extended periods of certain weather patterns — like persistent high‑pressure systems with clear skies — may coincide with spikes in sightings, while prolonged cloudiness can depress reporting without necessarily indicating changes in actual aerial phenomena.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Xjsng_aBBxg" title="LIVE | The TRUTH About Donald Trump&#x27;s UFO Shocker | US Congress Hearing on UFOs | UAP or UFO | N18G" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Xjsng_aBBxg" target="_blank" rel="noopener noreferrer">LIVE | The TRUTH About Donald Trump&#x27;s UFO Shocker | US Congress Hearing on UFOs | UAP or UFO | N18G</a></p><p class="youtube-embed-meta">Channel: CNN-News18 &middot; Views: 131.0K &middot; Uploaded: June 2025 &middot; Length: 2 hours 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Xjsng_aBBxg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Xjsng_aBBxg">Open on YouTube</a></p></div></div></div>
 
@@ -314,20 +310,21 @@ Understanding the **effect of cloud cover and weather patterns** on UFO report d
 
 This perspective — grounded in geographical and atmospheric analysis — emphasises that environmental factors like cloudiness should be considered **when interpreting patterns in UFO databases**, helping to avoid over‑attributing clusters to unexplained phenomena rather than to differences in observational opportunity and weather‑related visibility conditions.
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_cloud_cover_effect_d2d591-Illustration-3-dark.svg" | relative_url }}" alt="Weather Patterns illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_cloud_cover_effect_d2d591-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_cloud_cover_effect_d2d591-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Summary
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Cloud cover reduces visibility**, making it less likely that observers will notice or report aerial phenomena.
 * Large‑scale analyses suggest that environmental visibility variables (including cloud cover) are linked to sighting reports, though cloudiness alone may not always show a simple statistical effect at broad spatial scales.
 * **Seasonal and weather patterns** influence human observation behaviour and the technological detectability of events.
-* Considering cloud cover helps disentangle apparent geographic clusters in [UFO report databases]({{ 'ufo-report-databases-and-catalogues/' | relative_url }}) from variations in sky visibility and reporting likelihood.
+* Considering cloud cover helps disentangle apparent geographic clusters in UFO report databases from variations in sky visibility and reporting likelihood.
+
+</div>
 
 In short, weather and cloud cover shape our view of the sky, and that, in turn, shapes what we count as sightings in UFO/UAP catalogues — reminding researchers to account for perceptual and environmental context when analysing report patterns.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wMrCs1fdPEQ" title="Caught on camera: Mysterious orbs in the sky | Unreported" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wMrCs1fdPEQ" target="_blank" rel="noopener noreferrer">Caught on camera: Mysterious orbs in the sky | Unreported</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 59.6K &middot; Uploaded: May 2026 &middot; Length: 1 hour 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wMrCs1fdPEQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wMrCs1fdPEQ">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -725,117 +722,117 @@ In short, weather and cloud cover shape our view of the sky, and that, in turn, 
 
 1. <a id="endnote-1"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s10546-018-0374-2](https://link.springer.com/article/10.1007/s10546-018-0374-2)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpringerUnderstanding and Reducing False Alarms in Observational Fog Prediction | Boundary-Layer Meteorology | Springer Nature LinkJuly 3...</p></details>
+   Link: <a href="https://link.springer.com/article/10.1007/s10546-018-0374-2" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10546-018-0374-2</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding and Reducing False Alarms in Observational Fog Prediction | Boundary-Layer Meteorology | Springer Nature LinkJuly 3...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: reddit.com  
    Title: Question About UAP Sightings and Weather Patterns  
-   Link: [https://www.reddit.com/r/UFOs_Archives/comments/1hfoq22](https://www.reddit.com/r/UFOs_Archives/comments/1hfoq22)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditQuestion About UAP Sightings and Weather PatternsDecember 16, 2024...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs_Archives/comments/1hfoq22" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs_Archives/comments/1hfoq22</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Question About UAP Sightings and Weather PatternsDecember 16, 2024...</p></details>
    Published: December 16, 2024  
 
 3. <a id="endnote-3"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-023-49527-x](https://www.nature.com/articles/s41598-023-49527-x)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureAn environmental analysis of public UAP sightings and sky view potential | Scientific ReportsDecember 14, 2023...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-49527-x</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>An environmental analysis of public UAP sightings and sky view potential | Scientific ReportsDecember 14, 2023...</p></details>
    Published: December 14, 2023  
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAn environmental analysis of public UAP sightings and sky view potential  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCDecember 14, 2023...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>December 14, 2023...</p></details>
    Published: December 14, 2023  
 
 5. <a id="endnote-5"></a>
    Source: ufotimelineproject.com  
    Title: UF O Sightings | UFO Timeline Project  
-   Link: [https://www.ufotimelineproject.com/ufo-sightings](https://www.ufotimelineproject.com/ufo-sightings)  
+   Link: <a href="https://www.ufotimelineproject.com/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.ufotimelineproject.com/ufo-sightings</a>  
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0927650503001968](https://www.sciencedirect.com/science/article/abs/pii/S0927650503001968)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectEffect of clouds on apertures of space-based air fluorescence detectors - ScienceDirectJanuary 1, 2004...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0927650503001968" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0927650503001968</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of clouds on apertures of space-based air fluorescence detectors - ScienceDirectJanuary 1, 2004...</p></details>
    Published: January 1, 2004  
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
    Title: For 25 years, it ha  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021 — THE NATIONAL UFO REPORTING CENTER ONLINE DATABASE Image The NUFORC Databank...</p></details>
    Published: September 6, 2021  
 
 8. <a id="endnote-8"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/1880-5981-66-98](https://link.springer.com/article/10.1186/1880-5981-66-98)  
+   Link: <a href="https://link.springer.com/article/10.1186/1880-5981-66-98" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/1880-5981-66-98</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>clouds observed from the ground: sensitivity to mesospheric parameters and long-term time series | Earth, Planets and Space | Springer Na...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0169809514002403](https://www.sciencedirect.com/science/article/abs/pii/S0169809514002403)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectATMOSPHERIC RESEARCH Volume 149, November 2014, Pages 166-173 CLOUD COVER AND COSMIC RAY VARIATIONS AT LOMNICKÝ ŠTÍT HIGH AL...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0169809514002403" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0169809514002403</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ATMOSPHERIC RESEARCH Volume 149, November 2014, Pages 166-173 CLOUD COVER AND COSMIC RAY VARIATIONS AT LOMNICKÝ ŠTÍT HIGH AL...</p></details>
    Published: November 2014  
 
 10. <a id="endnote-10"></a>
    Source: earth-planets-space.springeropen.com  
-   Link: [https://earth-planets-space.springeropen.com/articles/10.1186/1880-5981-66-98](https://earth-planets-space.springeropen.com/articles/10.1186/1880-5981-66-98)  
+   Link: <a href="https://earth-planets-space.springeropen.com/articles/10.1186/1880-5981-66-98" target="_blank" rel="noopener noreferrer nofollow">https://earth-planets-space.springeropen.com/articles/10.1186/1880-5981-66-98</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>clouds observed from the ground: sensitivity to mesospheric parameters and long-term time series | Earth, Planets and Space | Full TextAu...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: ouci.dntb.gov.ua  
-   Link: [https://ouci.dntb.gov.ua/en/works/4EweyOK9/](https://ouci.dntb.gov.ua/en/works/4EweyOK9/)  
+   Link: <a href="https://ouci.dntb.gov.ua/en/works/4EweyOK9/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/4EweyOK9/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>environmental analysis of public UAP sightings and sky view potentialAN ENVIRONMENTAL ANALYSIS OF PUBLIC UAP SIGHTINGS AND SKY VIEW POTEN...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: ufofeed.com  
-   Link: [https://www.ufofeed.com/33080/dr-sean-kirkpatrick-publishes-an-environmental-analysis-of-public-uap-sightings-and-sky-view-potential-research-study-in-the-scientific-journal-nature/](https://www.ufofeed.com/33080/dr-sean-kirkpatrick-publishes-an-environmental-analysis-of-public-uap-sightings-and-sky-view-potential-research-study-in-the-scientific-journal-nature/)  
+   Link: <a href="https://www.ufofeed.com/33080/dr-sean-kirkpatrick-publishes-an-environmental-analysis-of-public-uap-sightings-and-sky-view-potential-research-study-in-the-scientific-journal-nature/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufofeed.com/33080/dr-sean-kirkpatrick-publishes-an-environmental-analysis-of-public-uap-sightings-and-sky-view-potential-research-study-in-the-scientific-journal-nature/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sean Kirkpatrick publishes “An environmental analysis of public UAP sightings and sky view potential” research study in the scientific jo...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: earth.com  
    Title: UF O sightings surprisingly connected to the environment  
-   Link: [https://www.earth.com/news/ufo-sightings-are-influenced-by-the-environment/](https://www.earth.com/news/ufo-sightings-are-influenced-by-the-environment/)  
+   Link: <a href="https://www.earth.com/news/ufo-sightings-are-influenced-by-the-environment/" target="_blank" rel="noopener noreferrer nofollow">https://www.earth.com/news/ufo-sightings-are-influenced-by-the-environment/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings surprisingly connected to the environment - Earth.comMarch 3, 2024 — Image: Surprising connection between UFO sightings and...</p></details>
    Published: March 3, 2024  
 
 14. <a id="endnote-14"></a>
    Source: impacts.ucar.edu  
    Title: climatological study of aircraft turbulence versus cloud cover ba  
-   Link: [https://impacts.ucar.edu/en/publications/climatological-study-of-aircraft-turbulence-versus-cloud-cover-ba](https://impacts.ucar.edu/en/publications/climatological-study-of-aircraft-turbulence-versus-cloud-cover-ba)  
+   Link: <a href="https://impacts.ucar.edu/en/publications/climatological-study-of-aircraft-turbulence-versus-cloud-cover-ba" target="_blank" rel="noopener noreferrer nofollow">https://impacts.ucar.edu/en/publications/climatological-study-of-aircraft-turbulence-versus-cloud-cover-ba</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wolff *, Robert Sharman * National Center for Atmospheric Research Research output: Abstra...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Exclusive: 'Incredible' UAP video captured in Greenland | Reality Check  
-   Link: [https://www.youtube.com/watch?v=awml9Z6eF_M](https://www.youtube.com/watch?v=awml9Z6eF_M)  
+   Link: <a href="https://www.youtube.com/watch?v=awml9Z6eF_M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=awml9Z6eF_M</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LIVE | The TRUTH About Donald Trump&#x27;s UFO Shocker | US Congress Hearing on UFOs | UAP or UFO | N18G...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Xjsng_aBBxg](https://www.youtube.com/watch?v=Xjsng_aBBxg)  
+   Link: <a href="https://www.youtube.com/watch?v=Xjsng_aBBxg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xjsng_aBBxg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Caught on camera: Mysterious orbs in the sky | Unreported...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Best place to spot UFOs? The West, according to University of Utah  
-   Link: [https://www.youtube.com/watch?v=fBjqEtnaK2Y](https://www.youtube.com/watch?v=fBjqEtnaK2Y)  
+   Link: <a href="https://www.youtube.com/watch?v=fBjqEtnaK2Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fBjqEtnaK2Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the questions surrounding UAPs and the search for extraterrestrial life...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: ntrs.nasa.gov  
-   Link: [https://ntrs.nasa.gov/citations/19840026757](https://ntrs.nasa.gov/citations/19840026757)  
+   Link: <a href="https://ntrs.nasa.gov/citations/19840026757" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/19840026757</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Volume 1: Analysis and conclusions - NASA Technical Reports Server (NTRS)October 1, 1984 — NTRS NTRS - NASA TECHNICAL REPORTS SERVER Back...</p></details>
    Published: October 1, 1984  
 
 19. <a id="endnote-19"></a>
    Source: doaj.org  
-   Link: [https://doaj.org/article/35b2b566d73240e9928509834240b34f](https://doaj.org/article/35b2b566d73240e9928509834240b34f)  
+   Link: <a href="https://doaj.org/article/35b2b566d73240e9928509834240b34f" target="_blank" rel="noopener noreferrer nofollow">https://doaj.org/article/35b2b566d73240e9928509834240b34f</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>M. Medina, * S. C. Brewer, * S. M. Kirkpatrick Affiliations R. M. Medina Department of...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: ideas.repec.org  
-   Link: [https://ideas.repec.org/a/eee/phsmap/v603y2022ics0378437122005295.html](https://ideas.repec.org/a/eee/phsmap/v603y2022ics0378437122005295.html)  
+   Link: <a href="https://ideas.repec.org/a/eee/phsmap/v603y2022ics0378437122005295.html" target="_blank" rel="noopener noreferrer nofollow">https://ideas.repec.org/a/eee/phsmap/v603y2022ics0378437122005295.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>* Itami, Andreia S. * Dalmedico, Jônatas F. * Mendes, Renio S. Registered: ABSTRACT There...</p></details>

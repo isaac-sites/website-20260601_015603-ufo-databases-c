@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /blue-book/
 nav_short_title: Research Use
 title: How Researchers Use Blue Book Records for Historical Analysis
-title_full: How Researchers Use Blue Book Records for Historical Analysis | Blue Book
+title_full: How Researchers Use Blue Book Records for Historical Analysis
 display_title_short: Research Use
 display_title: Research Use
 heading_title: How Researchers Use Blue Book Records for Historical Analysis
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 20:16:52'
-parent_title: What Project Blue Book Records Still Reveal | UFO Archives
+parent_title: What Project Blue Book Records Still Reveal
 parent_permalink: /blue-book/
 parent_nav_short_title: Blue Book
 parent_heading_title: What Project Blue Book Records Still Reveal
@@ -270,7 +270,6 @@ image: /assets/images/ufo_report_databases_8352a3_project_blue_book_re_ad1d41_re
 
 Project [Blue Book]({{ 'blue-book/' | relative_url }}) records are not only used by UFO enthusiasts searching for unexplained cases. Historians, archivists, sociologists, intelligence researchers and data analysts increasingly treat the archive as a large documentary record of how a Cold War government institution gathered information, evaluated public reports and communicated official conclusions. The value of the collection lies less in proving or disproving extraordinary claims than in showing how reports moved through an investigative system, how classifications were assigned, and how public concerns were interpreted by military authorities. The surviving files allow researchers to reconstruct investigation practices, compare official explanations with witness testimony, and study changing attitudes toward aerial phenomena across two decades. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsPro-UFO researchers claim that an extraterrestrial spacecraft and its ali...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsPro-UFO researchers claim that an extraterrestrial spacecraft and its ali...</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_project_blue_book_re_ad1d41_research_analysis_us_a28b0a-Illustration-1-dark.svg" | relative_url }}" alt="Research Use illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_project_blue_book_re_ad1d41_research_analysis_us_a28b0a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_project_blue_book_re_ad1d41_research_analysis_us_a28b0a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Because Project Blue Book accumulated thousands of reports between the late 1940s and 1969, it provides an unusually large historical dataset. Researchers can examine individual incidents, but they can also analyse broader patterns involving geography, media attention, military priorities and institutional decision-making. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsPro-UFO researchers claim that an extraterrestrial spacecraft and its ali...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archivesfoundation.org">[National Archives Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archivesfoundation.org</span><span class="citation-popover-title">National Archives Foundation50 Years Ago: Government Stops Investigating UFOs</span><span class="citation-popover-snippet">Project Blue Book&#x27;s termination on December 17, 1969. Of the 12,618 UFO sightings reported between 1947 and 1969, 701 remained “unidentif...</span><span class="citation-popover-meta">Published: December 17, 1969</span></span></span>
 
@@ -288,10 +287,9 @@ The archive also contains administrative records showing staffing changes, repor
 
 ### Using Microfilm and Digital Databases
 
-The [original records]({{ 'source-trails/' | relative_url }}) were preserved on [National Archives]({{ 'archives/' | relative_url }}) microfilm series T-1206, consisting of dozens of rolls covering case files and administrative material. Researchers historically worked through these reels manually, but modern digitisation projects and searchable archive sites have transformed access. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsPro-UFO researchers claim that an extraterrestrial spacecraft and its ali...</span></span></span>
+The original records were preserved on National [Archives]({{ 'archives/' | relative_url }}) microfilm series T-1206, consisting of dozens of rolls covering [case files]({{ 'case-files/' | relative_url }}) and administrative material. Researchers historically worked through these reels manually, but modern digitisation projects and searchable archive sites have transformed access. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsPro-UFO researchers claim that an extraterrestrial spacecraft and its ali...</span></span></span>
 
 Digital databases allow investigators to:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -303,12 +301,11 @@ Digital databases allow investigators to:
 
 </div>
 
-The recent expansion of National [Archives]({{ 'archives/' | relative_url }}) digital collections has further increased opportunities for large-scale analysis using database and text-search methods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsPro-UFO researchers claim that an extraterrestrial spacecraft and its ali...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/science/a62396621/government-ufo-reports-and-records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">government ufo reports and records</span><span class="citation-popover-snippet">Could A Massive Public UFO Database Eventually Help...27 Sept 2024 — The National Archives is continuing to add records of unidentified...</span></span></span>
+The recent expansion of National Archives digital collections has further increased opportunities for large-scale analysis using database and text-search methods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsPro-UFO researchers claim that an extraterrestrial spacecraft and its ali...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/science/a62396621/government-ufo-reports-and-records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">government ufo reports and records</span><span class="citation-popover-snippet">Could A Massive Public UFO Database Eventually Help...27 Sept 2024 — The National Archives is continuing to add records of unidentified...</span></span></span>
 
 ## Tracing How Cases Were Classified
 
 One of the most important research uses of Blue Book records is reconstructing the classification process itself.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kvkpX-ucTSc" title="17th December 1969: Project Blue Book, the United States&#x27; study of UFOs, officially terminated" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kvkpX-ucTSc" target="_blank" rel="noopener noreferrer">17th December 1969: Project Blue Book, the United States&#x27; study of UFOs, officially terminated</a></p><p class="youtube-embed-meta">Channel: HistoryPod &middot; Views: 572 &middot; Uploaded: December 2023 &middot; Length: 2 minutes 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kvkpX-ucTSc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kvkpX-ucTSc">Open on YouTube</a></p></div></div></div>
 
@@ -317,7 +314,6 @@ One of the most important research uses of Blue Book records is reconstructing t
 Each case generally moved through a sequence of stages: report submission, preliminary review, collection of supporting information, assessment by investigators and final classification. Control sheets frequently summarised this process and recorded the official outcome. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsPro-UFO researchers claim that an extraterrestrial spacecraft and its ali...</span></span></span>
 
 Researchers examine these records to answer questions such as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -336,7 +332,6 @@ The approximately 701 cases that remained officially unidentified have attracted
 
 This method is particularly valuable because it reveals what counted as acceptable evidence within a military bureaucracy during the Cold War.
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_project_blue_book_re_ad1d41_research_analysis_us_a28b0a-Illustration-2-dark.svg" | relative_url }}" alt="Research Use illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_project_blue_book_re_ad1d41_research_analysis_us_a28b0a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_project_blue_book_re_ad1d41_research_analysis_us_a28b0a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Reconstructing Statistical Patterns
 
@@ -354,7 +349,6 @@ Many reports reflect broader cultural concerns rather than solely observations i
 
 Researchers use these files to study:
 
-
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
 * Public reactions to emerging aerospace technologies.
@@ -365,7 +359,6 @@ Researchers use these files to study:
 </div>
 
 In this sense, Blue Book records function as a historical archive of public perception as much as an archive of unexplained observations.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wy1qDwPhaVM" title="Project Blue Book, 1950–1966 - The National Archives Catalog UAP Records (341-pbb-492)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wy1qDwPhaVM" target="_blank" rel="noopener noreferrer">Project Blue Book, 1950–1966 - The National Archives Catalog UAP Records (341-pbb-492)</a></p><p class="youtube-embed-meta">Channel: New Paradigm Institute &middot; Views: 339 &middot; Uploaded: October 2024 &middot; Length: 3 minutes 9 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wy1qDwPhaVM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wy1qDwPhaVM">Open on YouTube</a></p></div></div></div>
 
@@ -387,7 +380,6 @@ This makes the archive relevant beyond UFO history. It serves as a case study in
 
 Questions often explored include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * How did security concerns influence investigations?
@@ -396,7 +388,6 @@ Questions often explored include:
 * When did institutional scepticism become visible in official correspondence?
 
 </div>
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_project_blue_book_re_ad1d41_research_analysis_us_a28b0a-Illustration-3-dark.svg" | relative_url }}" alt="Research Use illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_project_blue_book_re_ad1d41_research_analysis_us_a28b0a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_project_blue_book_re_ad1d41_research_analysis_us_a28b0a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The Role of Scientific Consultants
@@ -415,9 +406,7 @@ Importantly, these methods do not necessarily seek evidence of extraordinary phe
 
 The result is that Project Blue Book has evolved from a closed government investigation into a widely used historical research resource. Its significance today lies not only in the individual sightings it contains, but in the detailed documentary trail it preserves about how mid-twentieth-century America investigated uncertainty, managed public concern and recorded the unexplained. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsPro-UFO researchers claim that an extraterrestrial spacecraft and its ali...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsPro-UFO researchers claim that an extraterrestrial spacecraft and its ali...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Vf41CD5INGU" title="Project Blue Book: Declassified – The True Story of the Foo Fighters | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Vf41CD5INGU" target="_blank" rel="noopener noreferrer">Project Blue Book: Declassified – The True Story of the Foo Fighters | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 99.0K &middot; Uploaded: March 2019 &middot; Length: 2 minutes 22 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Vf41CD5INGU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Vf41CD5INGU">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -816,126 +805,126 @@ The result is that Project Blue Book has evolved from a closed government invest
 1. <a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsPro-UFO researchers claim that an extraterrestrial spacecraft and its ali...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
+   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesPublic Interest in UFOs Persists 50 Years After Project Blue...5 Dec 2019 — Each case file contains a control sheet tha...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/textual-and-microfilm](https://www.archives.gov/research/topics/uaps/textual-and-microfilm)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/textual-and-microfilm" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/textual-and-microfilm</a>  
 
 4. <a id="endnote-4"></a>
    Source: upload.wikimedia.org  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf](https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsThe Project Blue Book ArchiveThough it may appear to be a continuous operation, these UFO investigations were subject to...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: archives.gov  
    Title: do records show proof of ufos  
-   Link: [https://www.archives.gov/news/articles/do-records-show-proof-of-ufos](https://www.archives.gov/news/articles/do-records-show-proof-of-ufos)  
+   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesDo Records Show Proof of UFOs?9 Feb 2018 — All of Project Blue Book documentation is available on 94 rolls of microfilm...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download](https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download)  
+   Link: <a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesBulk Downloads for Records Related to Unidentified...Digitized and born-digital records related to Unidentified Anomalo...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book701 reports were classified as unexplained, even after stringent analysis. The UFO reports were archived and are avai...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: academia.edu  
    Title: Project Blue Book Special Report 14  
-   Link: [https://www.academia.edu/49680297/Project_Blue_Book_Special_Report_14](https://www.academia.edu/49680297/Project_Blue_Book_Special_Report_14)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AcademiaProject Blue Book Special Report 14Project Blue Book Special Report No. 14: Analysis of Reports of Unidentified Aerial Objects, 5...</p></details>
+   Link: <a href="https://www.academia.edu/49680297/Project_Blue_Book_Special_Report_14" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/49680297/Project_Blue_Book_Special_Report_14</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book Special Report 14Project Blue Book Special Report No. 14: Analysis of Reports of Unidentified Aerial Objects, 5...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: docsteach.org  
    Title: Docs Teach Project Blue Book Status Report Number Eight  
-   Link: [https://docsteach.org/document/project-blue-book-status-report-number-eight/](https://docsteach.org/document/project-blue-book-status-report-number-eight/)  
+   Link: <a href="https://docsteach.org/document/project-blue-book-status-report-number-eight/" target="_blank" rel="noopener noreferrer nofollow">https://docsteach.org/document/project-blue-book-status-report-number-eight/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Government established Project Blue Book to collect and evaluate UFO data. Project Blue Book was actually the third in a series of studie...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: esd.whs.mil  
-   Link: [https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837)  
+   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WHS ESDProject Blue BookThe objectives of Project Blue Book are two-fold: first, to determine whether UFOs pose a threat to the security...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: archives.gov  
    Title: moving images and sound  
-   Link: [https://www.archives.gov/research/topics/uaps/moving-images-and-sound](https://www.archives.gov/research/topics/uaps/moving-images-and-sound)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — This page provides a list of moving images and sound recording...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/photographs](https://www.archives.gov/research/topics/uaps/photographs)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The page is organized by record group, with links to...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/foia/ufos.html](https://www.archives.gov/foia/ufos.html)  
+   Link: <a href="https://www.archives.gov/foia/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/foia/ufos.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This File Moved. This file was moved to a location to make it easier for you to locate similar information.Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/7482584/Project_Blue_Book_Archive](https://www.academia.edu/7482584/Project_Blue_Book_Archive)  
+   Link: <a href="https://www.academia.edu/7482584/Project_Blue_Book_Archive" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/7482584/Project_Blue_Book_Archive</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the code name of the U.S. Air Force&#x27;s UFO investigation...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: archivesfoundation.org  
    Title: National Archives Foundation50 Years Ago: Government Stops Investigating UFOs  
-   Link: [https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/](https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/)  
+   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book&#x27;s termination on December 17, 1969. Of the 12,618 UFO sightings reported between 1947 and 1969, 701 remained “unidentif...</p></details>
    Published: December 17, 1969  
 
 16. <a id="endnote-16"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaProject Blue Book | Definition, History, Aliens, UFOs, &amp; Facts6 days ago — The report indicated that there would b...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: popularmechanics.com  
    Title: government ufo reports and records  
-   Link: [https://www.popularmechanics.com/science/a62396621/government-ufo-reports-and-records/](https://www.popularmechanics.com/science/a62396621/government-ufo-reports-and-records/)  
+   Link: <a href="https://www.popularmechanics.com/science/a62396621/government-ufo-reports-and-records/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/science/a62396621/government-ufo-reports-and-records/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Could A Massive Public UFO Database Eventually Help...27 Sept 2024 — The National Archives is continuing to add records of unidentified...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: cufos.org  
-   Link: [https://cufos.org/resources/project-blue-book/](https://cufos.org/resources/project-blue-book/)  
+   Link: <a href="https://cufos.org/resources/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/resources/project-blue-book/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for UFO StudiesProject Blue BookProject Blue Book produced several lengthy reports, from No. 1 to No. 14, with Project Blue Book S...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: osi.af.mil  
    Title: project blue book part 1 ufo reports  
-   Link: [https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/](https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/)  
+   Link: <a href="https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>J. Allen Hynek worked with the U.S. Air Force, leading investigations of UFO sightings under Projects Sign and Blue Book.Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: popularmechanics.com  
-   Link: [https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/](https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/)  
+   Link: <a href="https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek from a government consultant and UFO skeptic into the foremost advocate for serious scientific study of unidentified flying o...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: vault.fbi.gov  
-   Link: [https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file](https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file)  
+   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book (UFO) part 1 of 1experience gained from investigating. UFO reports since. 1948, the conclusions of Project. Blue Book are: l! n...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
 23. <a id="endnote-23"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are more unusual. Early...</p></details>
 
 ### Additional References
@@ -943,58 +932,58 @@ The result is that Project Blue Book has evolved from a closed government invest
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: Project Blue Book: Declassified  
-   Link: [http://www.youtube.com/watch?v=UKzI3uu_oTQ](http://www.youtube.com/watch?v=UKzI3uu_oTQ)  
+   Link: <a href="http://www.youtube.com/watch?v=UKzI3uu_oTQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=UKzI3uu_oTQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book National Archives research historical analysis Project Blue Book: Declassified – The True Story of the Foo Fighters | H...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Office, (202)-501:.5525. Public queries should be addressed...Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: af.mil  
    Title: unidentified flying objects and air force project blue book  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue Book... UFO reports since 1948, the conclusions of Project Blue Book were...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: reddit.com  
    Title: i built a searchable archive of 6000 project blue  
-   Link: [https://www.reddit.com/r/aliens/comments/1qgpczq/i_built_a_searchable_archive_of_6000_project_blue/](https://www.reddit.com/r/aliens/comments/1qgpczq/i_built_a_searchable_archive_of_6000_project_blue/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1qgpczq/i_built_a_searchable_archive_of_6000_project_blue/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1qgpczq/i_built_a_searchable_archive_of_6000_project_blue/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>6000 Project Blue Book files (full-text search + map view)U.S. National Archives adds new Project Blue Book files (53 documents, 3195 pag...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: uk.forceswarrecords.com  
    Title: us project blue book ufo investigations 1947 1969  
-   Link: [https://uk.forceswarrecords.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969](https://uk.forceswarrecords.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>forceswarrecords.comUS, Project Blue Book - UFO Investigations, 1947-196926 Feb 2007 — NARA T1206. Records and [case files](&amp;#123;&amp;#123; &#x27;case-files/&#x27; | relative_url &amp;#125;&amp;#125;) relating to inv...</p></details>
+   Link: <a href="https://uk.forceswarrecords.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969" target="_blank" rel="noopener noreferrer nofollow">https://uk.forceswarrecords.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>forceswarrecords.comUS, Project Blue Book - UFO Investigations, 1947-196926 Feb 2007 — NARA T1206. Records and case files relating to inv...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: blog.fold3.com  
    Title: august 1963 ufo reports in project blue book  
-   Link: [https://blog.fold3.com/august-1963-ufo-reports-in-project-blue-book/](https://blog.fold3.com/august-1963-ufo-reports-in-project-blue-book/)  
+   Link: <a href="https://blog.fold3.com/august-1963-ufo-reports-in-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://blog.fold3.com/august-1963-ufo-reports-in-project-blue-book/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1963: UFO Reports in Project Blue Book1 Aug 2013 — In August 1963, there were forty-four investigations into UFO sightings. Most were exp...</p></details>
    Published: august 1963  
 
 30. <a id="endnote-30"></a>
    Source: vault.fbi.gov  
    Title: Project Blue Book (UFO)  
-   Link: [https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20](https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20)  
+   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book (UFO)Project Blue Book Originally Project Blue Book was the Air Force name for a project that investigated UFO reports between...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: cia.gov  
    Title: Investigation of UFOs  
-   Link: [https://www.cia.gov/resources/csi/static/Investigation-of-UFOs.pdf](https://www.cia.gov/resources/csi/static/Investigation-of-UFOs.pdf)  
+   Link: <a href="https://www.cia.gov/resources/csi/static/Investigation-of-UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/resources/csi/static/Investigation-of-UFOs.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Investigation of UFO&#x27;s8 May 2007 — Special Report No. 14. The soothing conclusions of Project Grudge caused very little comment, and...</p></details>
    Published: May 2007  
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/](https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/)  
+   Link: <a href="https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>shocking 1955 sighting in Kentucky pushed the U.S. Air...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=wy1qDwPhaVM](http://www.youtube.com/watch?v=wy1qDwPhaVM)  
+   Link: <a href="http://www.youtube.com/watch?v=wy1qDwPhaVM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=wy1qDwPhaVM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book, 1950–1966 - The National Archives Catalog UAP Records (341-pbb-757)...</p></details>

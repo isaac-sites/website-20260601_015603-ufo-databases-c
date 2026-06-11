@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /uk-files/
 nav_short_title: Misidentified Reports
 title: Ordinary Objects Behind UK UFO Sightings
-title_full: Ordinary Objects Behind UK UFO Sightings | UK Files
+title_full: Ordinary Objects Behind UK UFO Sightings
 display_title_short: Misidentified Reports
 display_title: Misidentified Reports
 heading_title: Ordinary Objects Behind UK UFO Sightings
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 21:07:24'
-parent_title: What the UK UFO Files Actually Show | UFO Archives
+parent_title: What the UK UFO Files Actually Show
 parent_permalink: /uk-files/
 parent_nav_short_title: UK Files
 parent_heading_title: What the UK UFO Files Actually Show
@@ -274,20 +274,18 @@ image: /assets/images/ufo_report_databases_8352a3_uk_mod_ufo_files_ca3ad5_uk_ufo
 
 ## Introduction
 
-In the context of the UK Ministry of Defence’s (MOD) UFO files — official records of *Unidentified Flying Object* reports held at The [National Archives]({{ 'archives/' | relative_url }}) — there is a recurring pattern: many sightings that initially puzzled witnesses were later understood as recognisable, ordinary phenomena. Far from proof of non‑terrestrial craft, a substantial share of reports were later associated with aircraft, satellites, advertising airships, or natural atmospheric effects. This pattern of misidentification illustrates both the limits of unaided observation and the challenge of interpreting snapshots of the sky without corroborating sensor data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National ArchivesUFO reports - The National Archives...</span></span></span>
-
+In the context of the UK Ministry of Defence’s (MOD) UFO files — official records of *Unidentified Flying Object* reports held at The National [Archives]({{ 'archives/' | relative_url }}) — there is a recurring pattern: many sightings that initially puzzled witnesses were later understood as recognisable, ordinary phenomena. Far from proof of non‑terrestrial craft, a substantial share of reports were later associated with aircraft, satellites, advertising airships, or natural atmospheric effects. This pattern of misidentification illustrates both the limits of unaided observation and the challenge of interpreting snapshots of the sky without corroborating sensor data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National ArchivesUFO reports - The National Archives...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_uk_mod_ufo_files_ca3ad5_uk_ufo_misidentifica_ce97a6-Illustration-1-dark.svg" | relative_url }}" alt="Misidentified Reports illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_uk_mod_ufo_files_ca3ad5_uk_ufo_misidentifica_ce97a6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_uk_mod_ufo_files_ca3ad5_uk_ufo_misidentifica_ce97a6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Case Studies of Airship and Rocket Sightings
 
 Among the MOD’s released reporting data are notable [clusters]({{ 'clusters/' | relative_url }}) where large numbers of witnesses independently described the same phenomenon, only for mundane explanations to emerge upon review.
 
-One well‑documented example from the early 1990s involved dozens of UFO reports describing a bright, oval‑shaped object over London and surrounding areas during 1993–94. National [Archives]({{ 'archives/' | relative_url }}) files show that these turned out to be sightings of a Virgin airship — a commercial advertising balloon — in the evening sky for the Ford Mondeo campaign. The distinct illuminated envelope of the airship, seen from many ground locations, led multiple correspondents to assume an unknown craft when first observed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National ArchivesUFO reports - The National Archives...</span></span></span>
+One well‑documented example from the early 1990s involved dozens of UFO reports describing a bright, oval‑shaped object over London and surrounding areas during 1993–94. National Archives files show that these turned out to be sightings of a Virgin airship — a commercial advertising balloon — in the evening sky for the Ford Mondeo campaign. The distinct illuminated envelope of the airship, seen from many ground locations, led multiple correspondents to assume an unknown craft when first observed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National ArchivesUFO reports - The National Archives...</span></span></span>
 
 In the same period, more than 30 reports came in of fast‑moving bright lights seen across Devon, Cornwall, South Wales and Shropshire in March 1993. Initial descriptions ranged from “unknown luminous objects” to “catamaran‑shaped” lights moving silently overhead. After radar analysis and consultation with air defence units, these were attributed to the re‑entry of a Russian Cosmos 2238 satellite into the Earth’s atmosphere — a meteor‑like phenomenon that can create spectacular, rapidly moving luminous effects visible over wide areas.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National ArchivesUFO reports - The National Archives...</span></span></span>
 
 Cases like these show how common airborne objects — in these instances, a commercial airship and an orbital satellite re‑entry — can generate clustered reports interpreted as anomalous until data linkage and context are brought in.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/62tr8fZ-02Q" title="UFO file release May 2008 Part 1 (audio with slides)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=62tr8fZ-02Q" target="_blank" rel="noopener noreferrer">UFO file release May 2008 Part 1 (audio with slides)</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 11.2K &middot; Uploaded: June 2008 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=62tr8fZ-02Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=62tr8fZ-02Q">Open on YouTube</a></p></div></div></div>
 
@@ -301,9 +299,7 @@ Across the MOD UFO reporting archive, several recurring features appear in misid
 
 **Atmospheric and astronomical phenomena:** Satellite re‑entries, meteors, and certain optical effects like bright planets near the horizon have frequently been invoked to explain clustered UFO sightings. These natural phenomena can exhibit rapid movement, flickering light, and apparent changes in direction that challenge casual observers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in the United Kingdom</span><span class="citation-popover-snippet">UFO sightings in the United Kingdom</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8y37WMfH30U" title="The British UFO Files: Secret Government Investigations Revealed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8y37WMfH30U" target="_blank" rel="noopener noreferrer">The British UFO Files: Secret Government Investigations Revealed</a></p><p class="youtube-embed-meta">Channel: Documentary Overload &middot; Views: 789 &middot; Uploaded: April 2026 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8y37WMfH30U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8y37WMfH30U">Open on YouTube</a></p></div></div></div>
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_uk_mod_ufo_files_ca3ad5_uk_ufo_misidentifica_ce97a6-Illustration-3-dark.svg" | relative_url }}" alt="Misidentified Reports illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_uk_mod_ufo_files_ca3ad5_uk_ufo_misidentifica_ce97a6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_uk_mod_ufo_files_ca3ad5_uk_ufo_misidentifica_ce97a6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -318,9 +314,7 @@ These examples of misidentification highlight two broader patterns in UFO data f
 
 Taken together, these patterns demonstrate that many reports in the UK Ministry of Defence UFO files are best read as records of public perception of aerial phenomena — often without immediate, independent verification — rather than confirmation of extraordinary vehicles. The strength of the archive lies in its documentation of reporting behaviour and the administrative response, not in proof of unexplained craft beyond Earth.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National ArchivesUFO reports - The National Archives...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DxgqN13k4D4" title="UFO file release May 2008 Part 3 (audio with slides)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DxgqN13k4D4" target="_blank" rel="noopener noreferrer">UFO file release May 2008 Part 3 (audio with slides)</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 5.2K &middot; Uploaded: June 2008 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DxgqN13k4D4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DxgqN13k4D4">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -719,123 +713,123 @@ Taken together, these patterns demonstrate that many reports in the UK Ministry 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: UFO sightings in the United Kingdom  
-   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom](https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
 
 2. <a id="endnote-2"></a>
    Source: independent.co.uk  
    Title: Secret Mo D files reveal UFOs went to the top  
-   Link: [https://www.independent.co.uk/news/uk/politics/secret-mod-files-reveal-ufos-went-to-the-top-1773100.html](https://www.independent.co.uk/news/uk/politics/secret-mod-files-reveal-ufos-went-to-the-top-1773100.html)  
+   Link: <a href="https://www.independent.co.uk/news/uk/politics/secret-mod-files-reveal-ufos-went-to-the-top-1773100.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/politics/secret-mod-files-reveal-ufos-went-to-the-top-1773100.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Secret MoD files reveal UFOs went to the topAugust 17, 2009 — 17 Aug 2009 — The files contain UFO reports of 800 sightings between Januar...</p></details>
    Published: August 17, 2009  
 
 3. <a id="endnote-3"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: [https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364](https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364)  
+   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Desk: Why MoD Shut Real-Life X-Files | UK News | Sky NewsJune 20, 2013 — UFO DESK: WHY MOD SHUT REAL-LIFE X-FILES The Ministry of Defence...</p></details>
    Published: June 20, 2013  
 
 4. <a id="endnote-4"></a>
    Source: independent.co.uk  
-   Link: [https://www.independent.co.uk/news/uk/home-news/revealed-eerie-ufo-sightings-recorded-in-mod-files-1903251.html](https://www.independent.co.uk/news/uk/home-news/revealed-eerie-ufo-sightings-recorded-in-mod-files-1903251.html)  
+   Link: <a href="https://www.independent.co.uk/news/uk/home-news/revealed-eerie-ufo-sightings-recorded-in-mod-files-1903251.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/home-news/revealed-eerie-ufo-sightings-recorded-in-mod-files-1903251.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Revealed: eerie UFO sightings recorded in MoD files | The Independent | The IndependentFebruary 18, 2010 — REVEALED: EERIE UFO SIGHTINGS...</p></details>
    Published: February 18, 2010  
 
 5. <a id="endnote-5"></a>
    Source: independent.co.uk  
-   Link: [https://www.independent.co.uk/news/uk/politics/ufo-secret-records-show-there-were-almost-1-200-mysterious-sightings-between-1987-and-1993-1651408.html](https://www.independent.co.uk/news/uk/politics/ufo-secret-records-show-there-were-almost-1-200-mysterious-sightings-between-1987-and-1993-1651408.html)  
+   Link: <a href="https://www.independent.co.uk/news/uk/politics/ufo-secret-records-show-there-were-almost-1-200-mysterious-sightings-between-1987-and-1993-1651408.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/politics/ufo-secret-records-show-there-were-almost-1-200-mysterious-sightings-between-1987-and-1993-1651408.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO: Secret records show there were almost 1,200 mysterious sightings between 1987 and 1993 | The Independent | The IndependentMarch 22...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: nationalarchives.gov.uk  
    Title: The National Archives UFO reports  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reports - The National Archives...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf](https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesHighlights GuideDozens of sightings of a brightly illuminated oval object were reported over London, caused by what was...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: media.nationalarchives.gov.uk  
    Title: nationalarchives.gov.uk The Cold War and UFOs | The National Archives  
-   Link: [https://media.nationalarchives.gov.uk/index.php/cold-war-ufos/](https://media.nationalarchives.gov.uk/index.php/cold-war-ufos/)  
+   Link: <a href="https://media.nationalarchives.gov.uk/index.php/cold-war-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/cold-war-ufos/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This was not reported to the MOD UFO Desk. This was seen as a near-miss not a UFO, and reported to the CAA, the Civil Aviation A...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: [https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/](https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/)  
+   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>files at The National Archives | The National ArchivesMay 1, 2018 — UFO FILES AT THE NATIONAL ARCHIVES Tuesday 1 May 2018 | Dr David Clar...</p></details>
    Published: May 1, 2018  
 
 10. <a id="endnote-10"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOS This is a brief guide to researching records of UFOs. The surviving records consist mainly of documents relating to official policy...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: ufotransparency.com  
-   Link: [https://ufotransparency.com/files/intl-uk-project-condign-volume-1-uap-vol1-pgs35to55-ch3a](https://ufotransparency.com/files/intl-uk-project-condign-volume-1-uap-vol1-pgs35to55-ch3a)  
+   Link: <a href="https://ufotransparency.com/files/intl-uk-project-condign-volume-1-uap-vol1-pgs35to55-ch3a" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-uk-project-condign-volume-1-uap-vol1-pgs35to55-ch3a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Summary, Chapters 1–5, Annexes A–F), UK Ministry of Defence / Defence Intelligence Staff (DI55) · 2006 · UFO TransparencyMay 15, 2006 — A...</p></details>
    Published: May 15, 2006  
 
 12. <a id="endnote-12"></a>
    Source: the-independent.com  
-   Link: [https://www.the-independent.com/news/uk/politics/uncovered-at-last-the-sightings-of-strange-flying-objects-found-in-britain-s-xfiles-487828.html](https://www.the-independent.com/news/uk/politics/uncovered-at-last-the-sightings-of-strange-flying-objects-found-in-britain-s-xfiles-487828.html)  
+   Link: <a href="https://www.the-independent.com/news/uk/politics/uncovered-at-last-the-sightings-of-strange-flying-objects-found-in-britain-s-xfiles-487828.html" target="_blank" rel="noopener noreferrer nofollow">https://www.the-independent.com/news/uk/politics/uncovered-at-last-the-sightings-of-strange-flying-objects-found-in-britain-s-xfiles-487828.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>January 21, 2005 — UNCOVERED AT LAST: THE SIGHTINGS OF STRANGE FLYING OBJECTS FOUND IN BRITAIN&#x27;S &#x27;X-FILES&#x27; Robert Verkaik Friday 21 Janua...</p></details>
    Published: January 21, 2005  
 
 13. <a id="endnote-13"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings](https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings)  
+   Link: <a href="https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MoD&#x27;s latest UFO files reveal saucerful of secrets | National Archives | The GuardianAugust 16, 2009 — This article is more than 16 years...</p></details>
    Published: August 16, 2009  
 
 14. <a id="endnote-14"></a>
    Source: strangeattractor.co.uk  
    Title: You can get them here, along with an accompanying research guide by D  
-   Link: [https://strangeattractor.co.uk/news/mod-ufo-files-released/](https://strangeattractor.co.uk/news/mod-ufo-files-released/)  
+   Link: <a href="https://strangeattractor.co.uk/news/mod-ufo-files-released/" target="_blank" rel="noopener noreferrer nofollow">https://strangeattractor.co.uk/news/mod-ufo-files-released/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MOD UFO files released - Strange AttractorMay 14, 2008 — MOD UFO FILES RELEASED The British Ministry of Defence has made public the first...</p></details>
    Published: May 14, 2008  
 
 15. <a id="endnote-15"></a>
    Source: theguardian.com  
    Title: Alien nation: Mo D releases final UFO files | Ministry of Defence | The Guardian  
-   Link: [https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files](https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files)  
+   Link: <a href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Photograph: National Archives/PA A letter from a schoolchild in Altrincham, released with the MoD&#x27;s UFO files. Photograp...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: theguardian.com  
    Title: New UFO secrets are revealed in Mo D files | UK news | The Guardian  
-   Link: [https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod](https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod)  
+   Link: <a href="https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New UFO secrets are revealed in MoD files | UK news | The GuardianMarch 21, 2009 — This article is more than 17 years old NEW UFO SECRETS...</p></details>
    Published: March 21, 2009  
 
 17. <a id="endnote-17"></a>
    Source: yourexpertwitness.co.uk  
-   Link: [https://www.yourexpertwitness.co.uk/expert-witness-home/legal-news/15-expert-witness-legal-news/154-files-detailing-mysterious-sightings-of-ufos-are-released-by-mod](https://www.yourexpertwitness.co.uk/expert-witness-home/legal-news/15-expert-witness-legal-news/154-files-detailing-mysterious-sightings-of-ufos-are-released-by-mod)  
+   Link: <a href="https://www.yourexpertwitness.co.uk/expert-witness-home/legal-news/15-expert-witness-legal-news/154-files-detailing-mysterious-sightings-of-ufos-are-released-by-mod" target="_blank" rel="noopener noreferrer nofollow">https://www.yourexpertwitness.co.uk/expert-witness-home/legal-news/15-expert-witness-legal-news/154-files-detailing-mysterious-sightings-of-ufos-are-released-by-mod</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The drawing of a mystery object in 1995 is just one of a host of sightings made public today.Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: defenceweb.co.za  
    Title: U K Government releases UFO sighting and policy files  
-   Link: [https://defenceweb.co.za/governance/governance-governance/uk-government-releases-ufo-sighting-and-policy-files/](https://defenceweb.co.za/governance/governance-governance/uk-government-releases-ufo-sighting-and-policy-files/)  
+   Link: <a href="https://defenceweb.co.za/governance/governance-governance/uk-government-releases-ufo-sighting-and-policy-files/" target="_blank" rel="noopener noreferrer nofollow">https://defenceweb.co.za/governance/governance-governance/uk-government-releases-ufo-sighting-and-policy-files/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Government releases UFO sighting and policy files - DefenceWebMarch 3, 2011 — Governance UK GOVERNMENT RELEASES UFO SIGHTING AND POLIC...</p></details>
    Published: March 3, 2011  
 
 19. <a id="endnote-19"></a>
    Source: time.com  
    Title: britain releases its x files  
-   Link: [https://time.com/archive/6943352/britain-releases-its-x-files/](https://time.com/archive/6943352/britain-releases-its-x-files/)  
+   Link: <a href="https://time.com/archive/6943352/britain-releases-its-x-files/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6943352/britain-releases-its-x-files/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Britain Releases its X-Files13 May 2008 — This week Britain&#x27;s Ministry of Defence (MoD) begins releasing all its files about UFOs — in mi...</p></details>
    Published: May 2008  
 
 20. <a id="endnote-20"></a>
    Source: api.parliament.uk  
    Title: unidentified flying objects  
-   Link: [https://api.parliament.uk/historic-hansard/lords/1979/jan/18/unidentified-flying-objects](https://api.parliament.uk/historic-hansard/lords/1979/jan/18/unidentified-flying-objects)  
+   Link: <a href="https://api.parliament.uk/historic-hansard/lords/1979/jan/18/unidentified-flying-objects" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/lords/1979/jan/18/unidentified-flying-objects</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FLYING OBJECTS (Hansard, 18 January 1979)18 Jan 1979 — It is true that when people ask to see the Ministry of Defence UFO files they are...</p></details>
-   Published: January 1979  
+   Published: January 1979

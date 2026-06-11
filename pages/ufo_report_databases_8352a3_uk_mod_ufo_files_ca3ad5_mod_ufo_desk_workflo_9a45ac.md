@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /uk-files/
 nav_short_title: MOD Desk Workflow
 title: How the MOD UFO Desk Processed Sightings
-title_full: How the MOD UFO Desk Processed Sightings | UK Files
+title_full: How the MOD UFO Desk Processed Sightings
 display_title_short: MOD Desk Workflow
 display_title: MOD Desk Workflow
 heading_title: How the MOD UFO Desk Processed Sightings
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 21:07:09'
-parent_title: What the UK UFO Files Actually Show | UFO Archives
+parent_title: What the UK UFO Files Actually Show
 parent_permalink: /uk-files/
 parent_nav_short_title: UK Files
 parent_heading_title: What the UK UFO Files Actually Show
@@ -276,7 +276,6 @@ image: /assets/images/ufo_report_databases_8352a3_uk_mod_ufo_files_ca3ad5_mod_uf
 
 The UK Ministry of Defence (MOD) UFO desk was primarily an administrative and policy function rather than a dedicated investigative unit. Its central task was to receive reports, determine whether they suggested any threat to UK airspace or national security, coordinate internal assessments where necessary, and manage the resulting correspondence with the public, Parliament, the media and ministers. The surviving files show that much of the desk’s daily workload involved paperwork: logging sightings, drafting replies, preparing briefing notes, responding to Freedom of Information (FOI) requests and maintaining policy positions on UFOs. The importance of these records lies not in proving or disproving unusual phenomena, but in documenting how government processed and communicated information about them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesUFO Desk: ClosedThe 25 files, which contain 4,400 pages, cover the work carried out during final two years of the MoD‟s...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesUFO Desk: ClosedThe 25 files, which contain 4,400 pages, cover the work carried out during final two years of the MoD‟s...</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_uk_mod_ufo_files_ca3ad5_mod_ufo_desk_workflo_9a45ac-Illustration-1-dark.svg" | relative_url }}" alt="MOD Desk Workflow illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_uk_mod_ufo_files_ca3ad5_mod_ufo_desk_workflo_9a45ac-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_uk_mod_ufo_files_ca3ad5_mod_ufo_desk_workflo_9a45ac-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Reports Moved Through the MOD System
 
@@ -288,21 +287,19 @@ This triage system explains why many archived files contain only brief report su
 
 ### Internal Assessment and Referral
 
-When a report was judged potentially relevant, officials could seek input from air defence, intelligence or technical specialists. During different periods, responsibilities passed through several MOD branches, including Defence Intelligence staff and the DI55 analytical branch. These referrals were intended to determine whether a report might reveal foreign military activity, aerospace developments or other defence-related issues. <span class="citation-chip-wrap"><a class="citation-chip" href="https://drdavidclarke.co.uk/secret-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Dr. David Clarke Case Files</span><span class="citation-popover-snippet">Dr. David ClarkeCase Files | - David ClarkeNevertheless MOD recommended that DI 55 should keep “a watching brief” on UFOs due to their ex...</span></span></span>
+When a report was judged potentially relevant, officials could seek input from air defence, intelligence or technical specialists. During different periods, responsibilities passed through several MOD branches, including Defence Intelligence staff and the DI55 analytical branch. These referrals were intended to determine whether a report might reveal foreign military activity, aerospace developments or other defence-related issues. <span class="citation-chip-wrap"><a class="citation-chip" href="https://drdavidclarke.co.uk/secret-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Dr. David Clarke Case Files</span><span class="citation-popover-snippet">Dr. David ClarkeCase Files &#124; - David ClarkeNevertheless MOD recommended that DI 55 should keep “a watching brief” on UFOs due to their ex...</span></span></span>
 
-Even when unusual reports were examined, the emphasis remained practical. Internal correspondence repeatedly focused on whether any evidence indicated a threat, hostile technology or a requirement for operational action. The surviving records show that officials often regarded the majority of reports as having insufficient evidence for firm conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://drdavidclarke.co.uk/secret-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Dr. David Clarke Case Files</span><span class="citation-popover-snippet">Dr. David ClarkeCase Files | - David ClarkeNevertheless MOD recommended that DI 55 should keep “a watching brief” on UFOs due to their ex...</span></span></span>
-
+Even when unusual reports were examined, the emphasis remained practical. Internal correspondence repeatedly focused on whether any evidence indicated a threat, hostile technology or a requirement for operational action. The surviving records show that officials often regarded the majority of reports as having insufficient evidence for firm conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://drdavidclarke.co.uk/secret-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Dr. David Clarke Case Files</span><span class="citation-popover-snippet">Dr. David ClarkeCase Files &#124; - David ClarkeNevertheless MOD recommended that DI 55 should keep “a watching brief” on UFOs due to their ex...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dwZGlFL0PHI" title="UFOs: Britains Secret Files | Nick Pope Secret UFO Files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dwZGlFL0PHI" target="_blank" rel="noopener noreferrer">UFOs: Britains Secret Files | Nick Pope Secret UFO Files</a></p><p class="youtube-embed-meta">Channel: Extreme Mysteries &middot; Views: 30.2K &middot; Uploaded: August 2024 &middot; Length: 1 hour 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dwZGlFL0PHI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dwZGlFL0PHI">Open on YouTube</a></p></div></div></div>
 
 ## Handling Public and Parliamentary Correspondence
 
-One of the most visible functions of the UFO desk was managing communications from citizens and elected representatives. Large numbers of letters arrived each year from people reporting sightings, requesting investigations, proposing explanations or alleging government secrecy. The files released through The [National Archives]({{ 'archives/' | relative_url }}) contain extensive examples of these exchanges. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesUFO Desk: ClosedThe 25 files, which contain 4,400 pages, cover the work carried out during final two years of the MoD‟s...</span></span></span>
+One of the most visible functions of the UFO desk was managing communications from citizens and elected representatives. Large numbers of letters arrived each year from people reporting sightings, requesting investigations, proposing explanations or alleging government secrecy. The files released through The National [Archives]({{ 'archives/' | relative_url }}) contain extensive examples of these exchanges. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesUFO Desk: ClosedThe 25 files, which contain 4,400 pages, cover the work carried out during final two years of the MoD‟s...</span></span></span>
 
 Officials developed standard responses to ensure consistency. Typical letters acknowledged receipt of a report, explained that the MOD's interest was confined to defence matters and noted that the department held no evidence of extraterrestrial activity. This approach allowed the desk to answer large volumes of correspondence without committing to extensive investigations in each case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesUFO Desk: ClosedThe 25 files, which contain 4,400 pages, cover the work carried out during final two years of the MoD‟s...</span></span></span>
 
 Parliamentary enquiries received additional attention because ministers could be questioned in the House of Commons or House of Lords. In these cases, civil servants prepared briefing notes summarising policy, historical practice and any relevant case information. These briefings helped ministers answer questions while maintaining a consistent official position. Surviving records include parliamentary business files alongside sighting reports and policy memoranda. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesUFO Desk: ClosedThe 25 files, which contain 4,400 pages, cover the work carried out during final two years of the MoD‟s...</span></span></span>
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_uk_mod_ufo_files_ca3ad5_mod_ufo_desk_workflo_9a45ac-Illustration-2-dark.svg" | relative_url }}" alt="MOD Desk Workflow illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_uk_mod_ufo_files_ca3ad5_mod_ufo_desk_workflo_9a45ac-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_uk_mod_ufo_files_ca3ad5_mod_ufo_desk_workflo_9a45ac-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Ministerial Briefings and Policy Messages
@@ -314,8 +311,7 @@ Officials repeatedly emphasised that:
 * No reported UFO had demonstrated a verified threat to the United Kingdom.
 * No report had provided evidence of extraterrestrial visitation.
 * MOD resources should be directed toward defence priorities rather than speculative investigations.
-* Public interest required clear communication but did not justify a dedicated scientific UFO programme. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesUFO Desk: ClosedThe 25 files, which contain 4,400 pages, cover the work carried out during final two years of the MoD‟s...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-snippet">HansardUnidentified Flying Objects - UK Parliament - Hansard30 Jun 2021 — My Lords, in 2008 the MoD began the process of releasing all it...</span></span></span> Briefings prepared during the final years of the desk culminated in advice to Defence Secretary Bob Ainsworth that there was no continuing defence benefit in recording, analysing or investigating UFO sightings. This assessment became a central justification for closing the desk in 2009. Sky News <span class="citation-chip-wrap"><a class="citation-chip" href="https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-snippet">HansardUnidentified Flying Objects - UK Parliament - Hansard30 Jun 2021 — My Lords, in 2008 the MoD began the process of releasing all it...</span></span></span>
-
+* Public interest required clear communication but did not justify a dedicated scientific UFO programme. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesUFO Desk: ClosedThe 25 files, which contain 4,400 pages, cover the work carried out during final two years of the MoD‟s...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-snippet">Unidentified Flying Objects - UK Parliament - Hansard30 Jun 2021 — My Lords, in 2008 the MoD began the process of releasing all it...</span></span></span> Briefings prepared during the final years of the desk culminated in advice to Defence Secretary Bob Ainsworth that there was no continuing defence benefit in recording, analysing or investigating UFO sightings. This assessment became a central justification for closing the desk in 2009. Sky News <span class="citation-chip-wrap"><a class="citation-chip" href="https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-snippet">Unidentified Flying Objects - UK Parliament - Hansard30 Jun 2021 — My Lords, in 2008 the MoD began the process of releasing all it...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Vrt5LdhcxWw" title="UFO file release June 2012" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Vrt5LdhcxWw" target="_blank" rel="noopener noreferrer">UFO file release June 2012</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 45.2K &middot; Uploaded: July 2012 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Vrt5LdhcxWw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Vrt5LdhcxWw">Open on YouTube</a></p></div></div></div>
 
@@ -327,16 +323,14 @@ Former officials have described daily responsibilities that included preparing p
 
 The administrative nature of the operation also shaped public misconceptions. Many correspondents assumed the MOD possessed specialised UFO investigators, laboratories or hidden analytical programmes. Internal documents frequently show officials explaining that the department's role was limited and focused on defence relevance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.curiousarchive.com/the-history-of-the-british-governments-ufo-files-and-how-you-can-access-them/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: curiousarchive.com">[Curious Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">curiousarchive.com</span><span class="citation-popover-title">the history of the british governments ufo files and how you can access them</span><span class="citation-popover-snippet">Curious ArchiveThe History of the British Government&#x27;s UFO Files (and How...8 Apr 2021 — Nick Pope, who worked for the MoD for 21 years...</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_uk_mod_ufo_files_ca3ad5_mod_ufo_desk_workflo_9a45ac-Illustration-3-dark.svg" | relative_url }}" alt="MOD Desk Workflow illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_uk_mod_ufo_files_ca3ad5_mod_ufo_desk_workflo_9a45ac-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_uk_mod_ufo_files_ca3ad5_mod_ufo_desk_workflo_9a45ac-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Freedom of Information and the Release of Records
 
 The growth of FOI requests transformed the desk's workload during its final years. Increasing numbers of researchers, journalists and UFO enthusiasts sought access to historical files. Responding to these requests generated substantial administrative work, including document reviews, redactions and consultations over release policy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesUFO Desk: ClosedThe 25 files, which contain 4,400 pages, cover the work carried out during final two years of the MoD‟s...</span></span></span>
 
-The MOD eventually adopted a broad release programme in cooperation with The National [Archives]({{ 'archives/' | relative_url }}). Beginning in 2008, hundreds of files were transferred and published in batches. The final releases included policy papers, correspondence with the public, ministerial briefings, FOI material and records documenting the closure of the UFO desk itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://drdavidclarke.co.uk/secret-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Dr. David Clarke Case Files</span><span class="citation-popover-snippet">Dr. David ClarkeCase Files | - David ClarkeNevertheless MOD recommended that DI 55 should keep “a watching brief” on UFOs due to their ex...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://drdavidclarke.co.uk/secret-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Dr. David Clarke Case Files</span><span class="citation-popover-snippet">Dr. David ClarkeCase Files | - David ClarkeNevertheless MOD recommended that DI 55 should keep “a watching brief” on UFOs due to their ex...</span></span></span>
+The MOD eventually adopted a broad release programme in cooperation with The National Archives. Beginning in 2008, hundreds of files were transferred and published in batches. The final releases included policy papers, correspondence with the public, ministerial briefings, FOI material and records documenting the closure of the UFO desk itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://drdavidclarke.co.uk/secret-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Dr. David Clarke Case Files</span><span class="citation-popover-snippet">Dr. David ClarkeCase Files &#124; - David ClarkeNevertheless MOD recommended that DI 55 should keep “a watching brief” on UFOs due to their ex...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://drdavidclarke.co.uk/secret-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Dr. David Clarke Case Files</span><span class="citation-popover-snippet">Dr. David ClarkeCase Files &#124; - David ClarkeNevertheless MOD recommended that DI 55 should keep “a watching brief” on UFOs due to their ex...</span></span></span>
 
 This process revealed an important aspect of the desk's function. The archive was not simply a collection of sightings. It was also a record of government communication: how officials answered questions, justified policies, handled criticism and explained the limits of their responsibilities. The correspondence files often provide a clearer picture of the desk's day-to-day work than the sighting reports themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesUFO Desk: ClosedThe 25 files, which contain 4,400 pages, cover the work carried out during final two years of the MoD‟s...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesUFO Desk: ClosedThe 25 files, which contain 4,400 pages, cover the work carried out during final two years of the MoD‟s...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9-_xRgUtU3s" title="Lecture by Nick Pope UFOs and Government" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9-_xRgUtU3s" target="_blank" rel="noopener noreferrer">Lecture by Nick Pope UFOs and Government</a></p><p class="youtube-embed-meta">Channel: Wydział Studiów Międzynarodowych i Politycznych UJ &middot; Views: 14.8K &middot; Uploaded: March 2022 &middot; Length: 1 hour 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9-_xRgUtU3s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9-_xRgUtU3s">Open on YouTube</a></p></div></div></div>
 
@@ -742,167 +736,167 @@ Understanding this workflow helps explain both the strengths and limitations of 
 
 1. <a id="endnote-1"></a>
    Source: hansard.parliament.uk  
-   Link: [https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects](https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HansardUnidentified Flying Objects - UK Parliament - Hansard30 Jun 2021 — My Lords, in 2008 the MoD began the process of releasing all it...</p></details>
+   Link: <a href="https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects - UK Parliament - Hansard30 Jun 2021 — My Lords, in 2008 the MoD began the process of releasing all it...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: [https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364](https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364)  
+   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky NewsUFO Desk: Why MoD Shut Real-Life X-Files | UK News20 Jun 2013 — They include accounts of alleged abductions, contact with aliens...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf](https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesUFO Desk: ClosedThe 25 files, which contain 4,400 pages, cover the work carried out during final two years of the MoD‟s...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFOsUFO reports, correspondence and parliamentary business (1950-1995). Search Discovery, our catalogue in DEFE, AIR...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf](https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesUFO files reveal behind the scenes of the &#x27;UFO Desk&#x27;Daily duties included providing briefings on the Ministry of Defence...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: nickpope.net  
-   Link: [https://nickpope.net/wpte19/ufos/](https://nickpope.net/wpte19/ufos/)  
+   Link: <a href="https://nickpope.net/wpte19/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://nickpope.net/wpte19/ufos/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The MoD&#x27;s UFO project ran from 1953 to 2009, and in that time over 12,000 UFO sightings were logged and investigated. The MoD&#x27;s role was...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: curiousarchive.com  
    Title: the history of the british governments ufo files and how you can access them  
-   Link: [https://www.curiousarchive.com/the-history-of-the-british-governments-ufo-files-and-how-you-can-access-them/](https://www.curiousarchive.com/the-history-of-the-british-governments-ufo-files-and-how-you-can-access-them/)  
+   Link: <a href="https://www.curiousarchive.com/the-history-of-the-british-governments-ufo-files-and-how-you-can-access-them/" target="_blank" rel="noopener noreferrer nofollow">https://www.curiousarchive.com/the-history-of-the-british-governments-ufo-files-and-how-you-can-access-them/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Curious ArchiveThe History of the British Government&#x27;s UFO Files (and How...8 Apr 2021 — Nick Pope, who worked for the MoD for 21 years...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: drdavidclarke.co.uk  
    Title: Dr. David Clarke [Case Files](&#123;&#123; 'case-files/' | relative_url &#125;&#125;)  
-   Link: [https://drdavidclarke.co.uk/secret-files/](https://drdavidclarke.co.uk/secret-files/)  
+   Link: <a href="https://drdavidclarke.co.uk/secret-files/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/secret-files/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. David ClarkeCase Files | - David ClarkeNevertheless MOD recommended that DI 55 should keep “a watching brief” on UFOs due to their ex...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reportsEarly letters regarding UFO sightings · Correspondence on the [Rendlesham Forest](&amp;#123;&amp;#123; &#x27;rendlesham-forest/&#x27; | relative_url &amp;#125;&amp;#125;) incident · Documents on U...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf](https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archivesufo-highlights-guide-2013.pdfThe files cover the work carried out during final two years of the MoD‟s UFO desk, from lat...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: briefing guide 12 07 12  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf](https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesBriefing documentFurther files have been added, the most recent in July 2012. One of the first UFO files to be released...</p></details>
    Published: July 2012  
 
 12. <a id="endnote-12"></a>
    Source: drdavidclarke.co.uk  
    Title: Dr. David Clarke National Archives UFO Files  
-   Link: [https://drdavidclarke.co.uk/national-archives-ufo-files-7/](https://drdavidclarke.co.uk/national-archives-ufo-files-7/)  
+   Link: <a href="https://drdavidclarke.co.uk/national-archives-ufo-files-7/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/national-archives-ufo-files-7/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. David ClarkeNational Archives UFO Files | - Dr David ClarkeThis section of my website contains highlights from the collections of UFO...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: drdavidclarke.co.uk  
    Title: the end of the ufo files  
-   Link: [https://drdavidclarke.co.uk/2013/06/20/the-end-of-the-ufo-files/](https://drdavidclarke.co.uk/2013/06/20/the-end-of-the-ufo-files/)  
+   Link: <a href="https://drdavidclarke.co.uk/2013/06/20/the-end-of-the-ufo-files/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2013/06/20/the-end-of-the-ufo-files/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>David ClarkeThe End of the UFO Files | - Dr David Clarke20 Jun 2013 — The tenth and final collection of British UFO files have been relea...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: [https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/](https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/)  
+   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives – UFO files (MoD)No information is available for this page...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf](https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO FILESThis book is largely based upon the real-life accounts of UFO experiences recorded in files collected by Britain&#x27;s Ministry of D...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/search/results/?_q=ufo](https://www.nationalarchives.gov.uk/search/results/?_q=ufo)  
+   Link: <a href="https://www.nationalarchives.gov.uk/search/results/?_q=ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/?_q=ufo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Website search results: ufoThe official archive of the UK government. Our... There is more to the Ministry of Defence UFO files than rep...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: videocast transcript 12 07 12  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/videocast-transcript-12-07-12.pdf](https://cdn.nationalarchives.gov.uk/documents/videocast-transcript-12-07-12.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/videocast-transcript-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/videocast-transcript-12-07-12.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>video transcriptThis was drawn up by an. Intelligence Officer in 1978 and this was in preparation for the House of Lords debate on. UFOs...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf](https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GuideThe MoD‟s UFO desk asked the RAF to replay radar tapes but this found nothing unusual had been detected. However, the Assistant Chie...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: shura.shu.ac.uk  
-   Link: [https://shura.shu.ac.uk/16394/](https://shura.shu.ac.uk/16394/)  
+   Link: <a href="https://shura.shu.ac.uk/16394/" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/16394/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives during the release of UFO files created by the Ministry of Defence.... UFOs, extraordinary experiences, The National A...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: drdavidclarke.co.uk  
    Title: top 10 ufo documents at the national archives  
-   Link: [https://drdavidclarke.co.uk/2018/03/15/top-10-ufo-documents-at-the-national-archives/](https://drdavidclarke.co.uk/2018/03/15/top-10-ufo-documents-at-the-national-archives/)  
+   Link: <a href="https://drdavidclarke.co.uk/2018/03/15/top-10-ufo-documents-at-the-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2018/03/15/top-10-ufo-documents-at-the-national-archives/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This gave visitors a unique opportunity...Read more...</p></details>
 
 ### Additional References
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/alarabiya.english/posts/former-head-of-the-british-governments-ufo-project-nick-pope-discusses-what-make/1350455960452754/](https://www.facebook.com/alarabiya.english/posts/former-head-of-the-british-governments-ufo-project-nick-pope-discusses-what-make/1350455960452754/)  
+   Link: <a href="https://www.facebook.com/alarabiya.english/posts/former-head-of-the-british-governments-ufo-project-nick-pope-discusses-what-make/1350455960452754/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/alarabiya.english/posts/former-head-of-the-british-governments-ufo-project-nick-pope-discusses-what-make/1350455960452754/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Former Head of the British Government&#x27;s UFO Project Nick...Nick Pope, a former British Ministry of Defence (MoD) employee who investigat...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: nickpope.net  
-   Link: [https://nickpope.net/wpte19/mod-ufo-files/](https://nickpope.net/wpte19/mod-ufo-files/)  
+   Link: <a href="https://nickpope.net/wpte19/mod-ufo-files/" target="_blank" rel="noopener noreferrer nofollow">https://nickpope.net/wpte19/mod-ufo-files/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MoD UFO FilesThe British Government has declassified and released most of its UFO files. Nick Pope worked on these files, wrote many of t...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: nickpope.net  
-   Link: [https://nickpope.net/wpte19/project-condign/](https://nickpope.net/wpte19/project-condign/)  
+   Link: <a href="https://nickpope.net/wpte19/project-condign/" target="_blank" rel="noopener noreferrer nofollow">https://nickpope.net/wpte19/project-condign/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project CondignProject Condign was a study of the UFO phenomenon undertaken by the UK Ministry of Defence in the late Nineties, and publi...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: sandboxx.us  
    Title: interview with nick pope the man who investigated aurora for the uk government  
-   Link: [https://www.sandboxx.us/news/interview-with-nick-pope-the-man-who-investigated-aurora-for-the-uk-government/](https://www.sandboxx.us/news/interview-with-nick-pope-the-man-who-investigated-aurora-for-the-uk-government/)  
+   Link: <a href="https://www.sandboxx.us/news/interview-with-nick-pope-the-man-who-investigated-aurora-for-the-uk-government/" target="_blank" rel="noopener noreferrer nofollow">https://www.sandboxx.us/news/interview-with-nick-pope-the-man-who-investigated-aurora-for-the-uk-government/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The man who investigated Aurora for the UK government20 Sept 2022 — “The UFO Desk was staffed by civil servants from the Air Staff Secret...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=dwZGlFL0PHI](https://www.youtube.com/watch?v=dwZGlFL0PHI)  
+   Link: <a href="https://www.youtube.com/watch?v=dwZGlFL0PHI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dwZGlFL0PHI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: Britains Secret Files | Nick Pope Secret UFO FilesMeet Nick Pope, the man that ran the Secret UFO Files of Great Britain for twenty...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: csmonitor.com  
    Title: UFO Britain releases documents explaining closure of military UFO desk  
-   Link: [https://www.csmonitor.com/Science/2013/0621/UFO-Britain-releases-documents-explaining-closure-of-military-UFO-desk](https://www.csmonitor.com/Science/2013/0621/UFO-Britain-releases-documents-explaining-closure-of-military-UFO-desk)  
+   Link: <a href="https://www.csmonitor.com/Science/2013/0621/UFO-Britain-releases-documents-explaining-closure-of-military-UFO-desk" target="_blank" rel="noopener noreferrer nofollow">https://www.csmonitor.com/Science/2013/0621/UFO-Britain-releases-documents-explaining-closure-of-military-UFO-desk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Christian Science MonitorUFO: Britain releases documents explaining closure of...21 Jun 2013 — Newly declassified files from Britain...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: theguardian.com  
    Title: The truth is out there: National Archives lifts lid on UFO files  
-   Link: [https://www.theguardian.com/science/2008/may/14/spaceexploration.military](https://www.theguardian.com/science/2008/may/14/spaceexploration.military)  
+   Link: <a href="https://www.theguardian.com/science/2008/may/14/spaceexploration.military" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2008/may/14/spaceexploration.military</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 14, 2008 — Some of the incidents are truly bizarre, but although some UFO sightings remain unexplained there is no evidence in the fi...</p></details>
    Published: May 14, 2008  
 
 28. <a id="endnote-28"></a>
    Source: independent.co.uk  
    Title: nick pope ufo mod ministry of defence northern ireland b2474519  
-   Link: [https://www.independent.co.uk/news/uk/nick-pope-ufo-mod-ministry-of-defence-northern-ireland-b2474519.html](https://www.independent.co.uk/news/uk/nick-pope-ufo-mod-ministry-of-defence-northern-ireland-b2474519.html)  
+   Link: <a href="https://www.independent.co.uk/news/uk/nick-pope-ufo-mod-ministry-of-defence-northern-ireland-b2474519.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/nick-pope-ufo-mod-ministry-of-defence-northern-ireland-b2474519.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UK urged to &#x27;follow US&#x27; and take UFO sightings seriously...Jan 7, 2024 — Nick Pope, who used to investigate reports of UFO sightings for...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: [https://assets.publishing.service.gov.uk/media/5a7e3ea940f0b6230268a198/FOI_UFO_DMC_publishing.pdf](https://assets.publishing.service.gov.uk/media/5a7e3ea940f0b6230268a198/FOI_UFO_DMC_publishing.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7e3ea940f0b6230268a198/FOI_UFO_DMC_publishing.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7e3ea940f0b6230268a198/FOI_UFO_DMC_publishing.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>documents titled &#x27;UFO policy&#x27; and three other...11 Sept 2014 — The table below details all UFO files titled UFO Policy: D/DI55/108/15...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOscience/comments/s3a5my/the_ultimate_dirty_secret_about_ufos_according_to/](https://www.reddit.com/r/UFOscience/comments/s3a5my/the_ultimate_dirty_secret_about_ufos_according_to/)  
+   Link: <a href="https://www.reddit.com/r/UFOscience/comments/s3a5my/the_ultimate_dirty_secret_about_ufos_according_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOscience/comments/s3a5my/the_ultimate_dirty_secret_about_ufos_according_to/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>trials, he has found cases in the MoD&#x27;s files that left him stumped...Read more...</p></details>

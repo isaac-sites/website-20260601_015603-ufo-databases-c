@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-report-databases-8352a3-aaro/
 description: Focused pages that expand on AARO.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: ufo_report_databases_8352a3_aaro_unresolved_case_7f814d
-parent_title: AARO | UFO Report Databases And Catalogues
+parent_title: AARO
 parent_nav_short_title: AARO
 parent_permalink: /aaro/
 ---

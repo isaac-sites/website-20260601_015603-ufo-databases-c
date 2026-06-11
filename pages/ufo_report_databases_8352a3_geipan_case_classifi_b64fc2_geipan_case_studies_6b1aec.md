@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /geipan/
 nav_short_title: Case Studies
 title: Lessons from Notable GEIPAN UFO Case Files
-title_full: Lessons from Notable GEIPAN UFO Case Files | GEIPAN
+title_full: Lessons from Notable GEIPAN UFO Case Files
 display_title_short: Case Studies
 display_title: Case Studies
 heading_title: Lessons from Notable GEIPAN UFO Case Files
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 22:16:56'
-parent_title: How France Classifies Public UAP Cases | UFO Archives
+parent_title: How France Classifies Public UAP Cases
 parent_permalink: /geipan/
 parent_nav_short_title: GEIPAN
 parent_heading_title: How France Classifies Public UAP Cases
@@ -276,10 +276,8 @@ image: /assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_ge
 
 Individual [case files]({{ 'case-files/' | relative_url }}) are where GEIPAN’s classification system becomes most useful. Rather than treating UFO reports as a single undifferentiated category, GEIPAN investigates specific sightings, compares witness testimony with astronomical, atmospheric and human-made explanations, and then assigns a classification reflecting the strength of the evidence and the plausibility of the explanation. The public archive shows that a case can begin as a local mystery, attract media attention, and ultimately be resolved through systematic analysis. It also shows that classifications can be revisited when new information emerges. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">GEIPANGEIPAN is clearly focused on UFO study, but UAP (PAN in French) is meant to cover a much broader area than UFO (OVNI in French)...</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_case_studies_6b1aec-Illustration-1-dark.svg" | relative_url }}" alt="Case Studies illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_case_studies_6b1aec-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_case_studies_6b1aec-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Three frequently cited examples—the 1983 Plouarzel sighting, the 1985 Lyon meteoroid observation, and the 1990 Moosch incident—illustrate different pathways to resolution. Together they demonstrate how GEIPAN distinguishes between astronomical misidentifications, rare natural events and initially puzzling observations that later receive conventional explanations.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RLP_sXOkFy4" title="24 H POUR FILMER UN OVNI A VALENSOLE ( révélation choc )" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RLP_sXOkFy4" target="_blank" rel="noopener noreferrer">24 H POUR FILMER UN OVNI A VALENSOLE ( révélation choc )</a></p><p class="youtube-embed-meta">Channel: Clément EXPLORATION &middot; Views: 28.5K &middot; Uploaded: August 2025 &middot; Length: 37 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RLP_sXOkFy4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RLP_sXOkFy4">Open on YouTube</a></p></div></div></div>
 
@@ -291,7 +289,6 @@ GEIPAN's investigation examined witness locations, viewing directions and the po
 
 What makes Plouarzel important is not merely that it was explained. The file demonstrates several recurring features of UFO investigations:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Bright astronomical objects can appear unusual when viewed under unfamiliar atmospheric conditions.
@@ -302,7 +299,6 @@ What makes Plouarzel important is not merely that it was explained. The file dem
 </div>
 
 The Plouarzel file is therefore a useful example of GEIPAN's willingness to re-examine apparently mysterious events using astronomical data rather than relying solely on witness impressions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-snippet">7 Jul 2025 — GEIPAN, the French UAP research and information group created by CNES in 1977, collects, analyses and archives information o...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UuptR_x1tRU" title="Trans-en-Provence Case" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UuptR_x1tRU" target="_blank" rel="noopener noreferrer">Trans-en-Provence Case</a></p><p class="youtube-embed-meta">Channel: Wiki4All &middot; Views: 456 &middot; Uploaded: January 2021 &middot; Length: 1 minute 19 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UuptR_x1tRU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UuptR_x1tRU">Open on YouTube</a></p></div></div></div>
 
@@ -316,7 +312,6 @@ The Lyon case is particularly valuable because it shows how multiple independent
 
 For readers exploring UFO databases, Lyon highlights an important principle: unusual events in the sky are not necessarily common events seen unusually. Sometimes they are genuinely rare phenomena—such as atmospheric entries—that many people have never observed before and therefore interpret as anomalous.
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_case_studies_6b1aec-Illustration-2-dark.svg" | relative_url }}" alt="Case Studies illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_case_studies_6b1aec-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_case_studies_6b1aec-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## 1990 Moosch: From Local Mystery to Skytracer Explanation
 
@@ -327,7 +322,6 @@ On the evening of 19 September 1990, a family observed a milky-white oval form a
 Further investigation, however, pointed towards artificial light projections. The observed movements, appearance and timing were found to be consistent with luminous sky animations produced by laser displays or powerful skytracer searchlights. GEIPAN ultimately classified the case as Category B, indicating a probable identification rather than a fully certain one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufologie.patrickgross.org/alsacat/1990-09-19-moosch.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[UFologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Case of Moosch, on September 19, 1990Consequently the GEIPAN classifies in B: observation of luminous animations (laser, skytracer). MOOS...</span></span></span>
 
 The significance of Moosch lies in the distinction between Categories A and B. Unlike the Plouarzel case, where the astronomical explanation could be established with high confidence, Moosch involved a reconstruction based on the balance of probabilities. The evidence supported a terrestrial lighting source, but not to the degree required for a definitive A classification. This illustrates GEIPAN's effort to avoid false certainty while still identifying the most plausible explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-snippet">7 Jul 2025 — GEIPAN, the French UAP research and information group created by CNES in 1977, collects, analyses and archives information o...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/I7MToY5eaBY" title="Ovnis inexpliqués près de Rennes : reconstitution filmée du cas d&#x27;Étrelles 🛸" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=I7MToY5eaBY" target="_blank" rel="noopener noreferrer">Ovnis inexpliqués près de Rennes : reconstitution filmée du cas d&#x27;Étrelles 🛸</a></p><p class="youtube-embed-meta">Channel: Le Télégramme &middot; Views: 321.5K &middot; Uploaded: June 2023 &middot; Length: 3 minutes 25 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=I7MToY5eaBY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=I7MToY5eaBY">Open on YouTube</a></p></div></div></div>
 
@@ -342,7 +336,6 @@ Viewed together, these three files reveal several consistent features of the GEI
 **Moosch (1990)** illustrates the intermediate territory where investigators cannot prove an explanation absolutely but can identify a highly probable cause and classify the case accordingly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufologie.patrickgross.org/alsacat/1990-09-19-moosch.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[UFologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Case of Moosch, on September 19, 1990Consequently the GEIPAN classifies in B: observation of luminous animations (laser, skytracer). MOOS...</span></span></span>
 
 Perhaps the most important lesson is that GEIPAN's classifications are not judgments about whether witnesses are truthful. In all three cases, investigators treated the reports as genuine observations while concluding that the observed phenomenon had a conventional origin. The archive therefore functions less as a catalogue of extraordinary claims and more as a record of how unusual aerial observations are analysed, tested and resolved. This is precisely why individual case studies remain central to understanding GEIPAN's role within public [UFO report databases and catalogues]({{ 'ufo-report-databases-and-catalogues/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-snippet">7 Jul 2025 — GEIPAN, the French UAP research and information group created by CNES in 1977, collects, analyses and archives information o...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-snippet">7 Jul 2025 — GEIPAN, the French UAP research and information group created by CNES in 1977, collects, analyses and archives information o...</span></span></span>
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_case_studies_6b1aec-Illustration-3-dark.svg" | relative_url }}" alt="Case Studies illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_case_studies_6b1aec-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_case_studies_6b1aec-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -742,115 +735,115 @@ Perhaps the most important lesson is that GEIPAN's classifications are not judgm
 
 1. <a id="endnote-1"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/en/missions-methodes-et-resultats](https://www.cnes-geipan.fr/en/missions-methodes-et-resultats)  
+   Link: <a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>GeipanMission &amp; Geipan | GEIPANOne or several witnesses are the starting point of a GEIPAN case. They have... However, an eventual recla...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/en/node/58787](https://www.cnes-geipan.fr/en/node/58787)  
+   Link: <a href="https://www.cnes-geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58787</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>GeipanClassificationA more detailed classification (A/B/C/D1/D2) has been used by the GEIPAN. It is based on 2 main criteria: the weirdne...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/fr/cas/1983-03-00968](https://www.cnes-geipan.fr/fr/cas/1983-03-00968)  
+   Link: <a href="https://www.cnes-geipan.fr/fr/cas/1983-03-00968" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/cas/1983-03-00968</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>GeipanPLOUARZEL (29) 14.03.19837 Dec 2017 — Le GEIPAN classe le cas en A: méprises astronomiques (Vénus et Arcturus). République Françai...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/fr/cas/1985-09-01076](https://www.cnes-geipan.fr/fr/cas/1985-09-01076)  
+   Link: <a href="https://www.cnes-geipan.fr/fr/cas/1985-09-01076" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/cas/1985-09-01076</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>GeipanRENTREE ATMOSPHERIQUE (69) 03.09.1985Le 3 septembre 1985 quatre témoins à Lyon (2 témoins) mais aussi à Villefranche-sur-Saône (2 t...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/fr/cas/1990-09-01215](https://www.cnes-geipan.fr/fr/cas/1990-09-01215)  
+   Link: <a href="https://www.cnes-geipan.fr/fr/cas/1990-09-01215" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/cas/1990-09-01215</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>GeipanMOOSCH (68) 19.09.1990Le 19 septembre 1990 vers 21h45 un couple et deux enfants observent les évolutions dans le ciel couvert d&#x27;une...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://www.ufologie.patrickgross.org/alsacat/1990-09-19-moosch.htm](https://www.ufologie.patrickgross.org/alsacat/1990-09-19-moosch.htm)  
+   Link: <a href="https://www.ufologie.patrickgross.org/alsacat/1990-09-19-moosch.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/alsacat/1990-09-19-moosch.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Case of Moosch, on September 19, 1990Consequently the GEIPAN classifies in B: observation of luminous animations (laser, skytracer). MOOS...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/en/node/58791](https://www.cnes-geipan.fr/en/node/58791)  
+   Link: <a href="https://www.cnes-geipan.fr/en/node/58791" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58791</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Its history | GEIPANCases... Classification into A, B, C, D. 6. Anonymizing the files. 7. witness information and publication. 8. How do...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/GEIPAN](https://en.wikipedia.org/wiki/GEIPAN)  
+   Link: <a href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEIPAN</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPANGEIPAN is clearly focused on UFO study, but UAP (PAN in French) is meant to cover a much broader area than UFO (OVNI in French)...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: cnes.fr  
-   Link: [https://cnes.fr/en/projects/geipan](https://cnes.fr/en/projects/geipan)  
+   Link: <a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Jul 2025 — GEIPAN, the French UAP research and information group created by CNES in 1977, collects, analyses and [archives](&amp;#123;&amp;#123; &#x27;archives/&#x27; | relative_url &amp;#125;&amp;#125;) information o...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=hn2xTieploU](https://www.youtube.com/watch?v=hn2xTieploU)  
+   Link: <a href="https://www.youtube.com/watch?v=hn2xTieploU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hn2xTieploU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Geipan: France is also interested in UFOs...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: Geipan: France is also interested in UFOs  
-   Link: [https://www.youtube.com/watch?v=OLXDikL331Y](https://www.youtube.com/watch?v=OLXDikL331Y)  
+   Link: <a href="https://www.youtube.com/watch?v=OLXDikL331Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OLXDikL331Y</a>  
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: GEIPAN: Tout savoir sur les OVNIS et Phénomènes Aérospatiaux (PAN)  
-   Link: [https://www.youtube.com/watch?v=CWt2zkuxRNQ](https://www.youtube.com/watch?v=CWt2zkuxRNQ)  
+   Link: <a href="https://www.youtube.com/watch?v=CWt2zkuxRNQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CWt2zkuxRNQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell, the Shocking Investigation by the Former Director of GEIPAN (CNES)...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony](https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony)  
+   Link: <a href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony</a>  
 
 14. <a id="endnote-14"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/en/recherche/cas](https://www.cnes-geipan.fr/en/recherche/cas)  
+   Link: <a href="https://www.cnes-geipan.fr/en/recherche/cas" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/recherche/cas</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Recherche de casThe Geipan. Mission &amp; Geipan · Its history · Documentation · Events; Cases &amp; Testimonials. Case search · Statistics · Cl...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/MaryMagdaleneFranceTours/posts/3017625505035933/](https://www.facebook.com/groups/MaryMagdaleneFranceTours/posts/3017625505035933/)  
+   Link: <a href="https://www.facebook.com/groups/MaryMagdaleneFranceTours/posts/3017625505035933/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/MaryMagdaleneFranceTours/posts/3017625505035933/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>xplained cases in the GEIPAN files. The summary has been...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2502.06794v2](https://arxiv.org/html/2502.06794v2)  
+   Link: <a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The New Science of Unidentified Aerospace-Undersea...GEIPAN&#x27;s mission is to collect, analyze, archive, and publish aerospace observation...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/288389376_Unidentified_Aerial_Phenomena_UAP_A_New_Hypothesis_toward_Their_Explanation](https://www.researchgate.net/publication/288389376_Unidentified_Aerial_Phenomena_UAP_A_New_Hypothesis_toward_Their_Explanation)  
+   Link: <a href="https://www.researchgate.net/publication/288389376_Unidentified_Aerial_Phenomena_UAP_A_New_Hypothesis_toward_Their_Explanation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/288389376_Unidentified_Aerial_Phenomena_UAP_A_New_Hypothesis_toward_Their_Explanation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP sightings in Hessdalen and most elsewhere.Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Roswell, the Shocking Investigation by the Former Director of GEIPAN (CNES)!  
-   Link: [https://www.youtube.com/watch?v=OJcy6BhB4iI](https://www.youtube.com/watch?v=OJcy6BhB4iI)  
+   Link: <a href="https://www.youtube.com/watch?v=OJcy6BhB4iI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OJcy6BhB4iI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unexplained UFOs near Rennes: filmed reenactment of the Étrelles case...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Unexplained UFOs near Rennes: filmed reenactment of the Étrelles case  
-   Link: [https://www.youtube.com/watch?v=I7MToY5eaBY](https://www.youtube.com/watch?v=I7MToY5eaBY)  
+   Link: <a href="https://www.youtube.com/watch?v=I7MToY5eaBY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=I7MToY5eaBY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>24 HOURS TO FILM A UFO IN VALENSOLE (shocking revelation)...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: pauldmaley.com  
-   Link: [https://pauldmaley.com/sd2/](https://pauldmaley.com/sd2/)  
+   Link: <a href="https://pauldmaley.com/sd2/" target="_blank" rel="noopener noreferrer nofollow">https://pauldmaley.com/sd2/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1985 hit a house in Kasambya, Uganda. The sphere caused no damage or injuries. The sphere was measured at 660mm in diameter (26 inches)...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/en/recherche/cas/tab?customGetLattitude=45.735486641128446&customGetLongitude=-0.615234375&customGetZoom=5&field_agregation_index_value=&field_date_d_observation_value%5Bmax%5D=&field_date_d_observation_value%5Bmin%5D=&field_date_value=&field_departement_target_id=&field_document_existe_ou_pas_value=All&field_is_new_value=All&field_is_revisited_value=All&field_latitude_value%5Bmax%5D=54.52108149544362&field_latitude_value%5Bmin%5D=36.94989178681327&field_longitude_value%5Bmax%5D=14.326171875000002&field_longitude_value%5Bmin%5D=-15.556640625000002&field_phenomene_target_id=&field_type_de_cas_target_id=All&order=field_date_d_observation&page=32&sort=asc](https://www.cnes-geipan.fr/en/recherche/cas/tab?customGetLattitude=45.735486641128446&customGetLongitude=-0.615234375&customGetZoom=5&field_agregation_index_value=&field_date_d_observation_value%5Bmax%5D=&field_date_d_observation_value%5Bmin%5D=&field_date_value=&field_departement_target_id=&field_document_existe_ou_pas_value=All&field_is_new_value=All&field_is_revisited_value=All&field_latitude_value%5Bmax%5D=54.52108149544362&field_latitude_value%5Bmin%5D=36.94989178681327&field_longitude_value%5Bmax%5D=14.326171875000002&field_longitude_value%5Bmin%5D=-15.556640625000002&field_phenomene_target_id=&field_type_de_cas_target_id=All&order=field_date_d_observation&page=32&sort=asc)  
+   Link: <a href="https://www.cnes-geipan.fr/en/recherche/cas/tab?customGetLattitude=45.735486641128446&amp;customGetLongitude=-0.615234375&amp;customGetZoom=5&amp;field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=54.52108149544362&amp;field_latitude_value%5Bmin%5D=36.94989178681327&amp;field_longitude_value%5Bmax%5D=14.326171875000002&amp;field_longitude_value%5Bmin%5D=-15.556640625000002&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date_d_observation&amp;page=32&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/recherche/cas/tab?customGetLattitude=45.735486641128446&amp;customGetLongitude=-0.615234375&amp;customGetZoom=5&amp;field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=54.52108149544362&amp;field_latitude_value%5Bmin%5D=36.94989178681327&amp;field_longitude_value%5Bmax%5D=14.326171875000002&amp;field_longitude_value%5Bmin%5D=-15.556640625000002&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date_d_observation&amp;page=32&amp;sort=asc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Recherche de cas | GEIPANListe des nouveaux cas; MOIRANS EN MONTAGNE (39) 1985, 26/01/1985, B; ABONDANCE (74) 22.02.1985, 31/01/1985, A...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: 24 HOURS TO FILM A UFO IN VALENSOLE (shocking revelation)  
-   Link: [https://www.youtube.com/watch?v=RLP_sXOkFy4](https://www.youtube.com/watch?v=RLP_sXOkFy4)  
+   Link: <a href="https://www.youtube.com/watch?v=RLP_sXOkFy4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RLP_sXOkFy4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Trans-en-Provence Case...</p></details>

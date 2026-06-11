@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /mufon/
 nav_short_title: Report bias
 title: Do MUFON Counts Show Sightings or Reporters?
-title_full: Do MUFON Counts Show Sightings or Reporters? | MUFON
+title_full: Do MUFON Counts Show Sightings or Reporters?
 display_title_short: Report bias
 display_title: Report bias
 heading_title: Do MUFON Counts Show Sightings or Reporters?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 18:33:36'
-parent_title: How MUFON Turns Sightings Into Cases | UFO Archives
+parent_title: How MUFON Turns Sightings Into Cases
 parent_permalink: /mufon/
 parent_nav_short_title: MUFON
 parent_heading_title: How MUFON Turns Sightings Into Cases
@@ -270,17 +270,15 @@ image: /assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mu
 
 Understanding how counts of UFO sightings in the Mutual UFO Network ([MUFON]({{ 'mufon/' | relative_url }})) database reflect *reporting bias* is essential before treating raw totals as indicators of genuine anomalous events. MUFON’s dataset represents civilian reporting behaviour shaped by human perception, communication, social context and organisational processes, not a uniform census of unexplained aerial phenomena. This page examines how reporting dynamics, geographic and cultural factors, access and awareness, and media influence combine to produce patterns in MUFON totals that are as much about *reporters* as they are about *sightings*.
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_reporting_bias_649995-Illustration-1-dark.svg" | relative_url }}" alt="Report bias illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_reporting_bias_649995-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_reporting_bias_649995-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Raw Counts Can Mislead
 
 A simple tally of MUFON reports — such as “X thousand sightings this year” — does not directly equate to the frequency of unusual physical events. Civilian reporting systems like MUFON collect voluntary witness submissions, and those volumes are affected by many behavioural factors:
 
-* **Human perception and reporting psychology:** People tend to report experiences that are vivid, memorable or socially salient. Research on UFO data generally finds evidence of *respondent bias* in timing and detail — for example, report times clustered at round numbers and spikes correlated with media exposure rather than actual observation rates, indicating a reporting behaviour signal overlaying any event signal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect On the dynamics of reporting data: A case study of UFO sightings</span><span class="citation-popover-snippet">ScienceDirectOn the dynamics of reporting data: A case study of UFO sightings - ScienceDirectOctober 1, 2022...</span><span class="citation-popover-meta">Published: October 1, 2022</span></span></span>
+* **Human perception and reporting psychology:** People tend to report experiences that are vivid, memorable or socially salient. Research on UFO data generally finds evidence of *respondent bias* in timing and detail — for example, report times clustered at round numbers and spikes correlated with media exposure rather than actual observation rates, indicating a reporting behaviour signal overlaying any event signal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect On the dynamics of reporting data: A case study of UFO sightings</span><span class="citation-popover-snippet">On the dynamics of reporting data: A case study of UFO sightings - ScienceDirectOctober 1, 2022...</span><span class="citation-popover-meta">Published: October 1, 2022</span></span></span>
 * **Motivations and social context:** Reporting behaviour hinges on individual motives. Some witnesses file because of curiosity or civic duty; others do not report at all due to fear of ridicule or stigma, as social research on anomalous experience reporting shows. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufomagazines.com/0-scientific-journal-articles-1977-08-00-social-studies-of-science-vol-7-no-3-ron-westrum/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufomagazines.com">[UFO Magazine Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufomagazines.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 These human elements can shape MUFON’s totals independently of any underlying physical phenomena. Simply counting case records without considering these biases risks overstating the coherence or significance of apparent trends.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VUj5rdNaveM" title="The Untold Truth Of MUFON | Unveiled" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VUj5rdNaveM" target="_blank" rel="noopener noreferrer">The Untold Truth Of MUFON | Unveiled</a></p><p class="youtube-embed-meta">Channel: Unveiled &middot; Views: 17.5K &middot; Uploaded: August 2020 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VUj5rdNaveM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VUj5rdNaveM">Open on YouTube</a></p></div></div></div>
 
@@ -288,28 +286,25 @@ These human elements can shape MUFON’s totals independently of any underlying 
 
 Not all regions are equal in their contribution to MUFON totals:
 
-* **Population and sky visibility:** Places with higher [population density]({{ 'population-density/' | relative_url }}) and active reporting communities naturally generate more reports, not necessarily because more unusual objects are present but because more people are present to report them. Population-normalised analyses of public UAP datasets show strong spatial variation linked to sociocultural and environmental factors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn environmental analysis of public UAP sightings and sky view potential</span><span class="citation-popover-snippet">PMCDecember 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>
+* **Population and sky visibility:** Places with higher [population density]({{ 'population-density/' | relative_url }}) and active reporting communities naturally generate more reports, not necessarily because more unusual objects are present but because more people are present to report them. Population-normalised analyses of public UAP datasets show strong spatial variation linked to sociocultural and environmental factors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn environmental analysis of public UAP sightings and sky view potential</span><span class="citation-popover-snippet">December 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>
 * **Organisational access:** MUFON has chapters across the United States and in many countries, but reporting penetration is uneven. In regions without active outreach or familiarity with MUFON, people with similar experiences may not submit at all, or they may report to other platforms like [NUFORC]({{ 'nuforc/' | relative_url }}). These access disparities mean that totals conflate observational density with visibility of the reporting system itself.
 
 The result is that MUFON totals cannot be interpreted without reference to *where* reports come from and *how* easily people in various places can participate in the reporting process.
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_reporting_bias_649995-Illustration-2-dark.svg" | relative_url }}" alt="Report bias illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_reporting_bias_649995-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_reporting_bias_649995-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Influence of Media and Awareness
 
 Media coverage significantly alters reporting behaviour, a pattern well documented in broader UFO data research:
 
-* **Media spikes and reporting surges:** Studies of large UFO datasets (not MUFON specifically but indicative of civilian reporting systems) have found that report submissions rise following intense broadcasting or coverage of specific sightings. These patterns point to *availability effects*, where people become more likely to report after exposure to related narratives in the media. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect On the dynamics of reporting data: A case study of UFO sightings</span><span class="citation-popover-snippet">ScienceDirectOn the dynamics of reporting data: A case study of UFO sightings - ScienceDirectOctober 1, 2022...</span><span class="citation-popover-meta">Published: October 1, 2022</span></span></span>
+* **Media spikes and reporting surges:** Studies of large UFO datasets (not MUFON specifically but indicative of civilian reporting systems) have found that report submissions rise following intense broadcasting or coverage of specific sightings. These patterns point to *availability effects*, where people become more likely to report after exposure to related narratives in the media. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect On the dynamics of reporting data: A case study of UFO sightings</span><span class="citation-popover-snippet">On the dynamics of reporting data: A case study of UFO sightings - ScienceDirectOctober 1, 2022...</span><span class="citation-popover-meta">Published: October 1, 2022</span></span></span>
 * **Public narratives and expectation:** Popular culture and news narratives can prime observers to interpret ambiguous stimuli (e.g., satellites, aircraft, drones) as UFOs, and this framing effect can boost reports of certain kinds while suppressing others.
 
 Media influence can thus produce artificial trends in raw MUFON counts — apparent rises or falls in sighting volumes that are better understood as changes in public attention rather than changes in sky phenomena.
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_reporting_bias_649995-Illustration-3-dark.svg" | relative_url }}" alt="Report bias illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_reporting_bias_649995-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_reporting_bias_649995-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Counts Might *Actually* Reflect
 
 When all these factors are considered together, what MUFON report counts actually mirror is a blend of:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -321,13 +316,11 @@ When all these factors are considered together, what MUFON report counts actuall
 
 Counts are therefore as much a measure of *reporter behaviour patterns* as they are a starting point for investigating unexplained cases. Researchers using MUFON totals should treat them as *behavioural signals* subject to sampling and visibility biases, not direct measurements of anomalous atmospheric events.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nrBhhUzwgMk" title="What It Takes To Be A MUFON Investigator - We Are Not Alone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nrBhhUzwgMk" target="_blank" rel="noopener noreferrer">What It Takes To Be A MUFON Investigator - We Are Not Alone</a></p><p class="youtube-embed-meta">Channel: Queen City News &middot; Views: 1.0K &middot; Uploaded: October 2025 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nrBhhUzwgMk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nrBhhUzwgMk">Open on YouTube</a></p></div></div></div>
 
 ## Interpreting MUFON Totals Responsibly
 
 For analysts and readers engaging with MUFON data:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -736,95 +729,95 @@ By situating MUFON counts within the broader context of reporting behaviour and 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect On the dynamics of reporting data: A case study of UFO sightings  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0378437122005295](https://www.sciencedirect.com/science/article/pii/S0378437122005295)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectOn the dynamics of reporting data: A case study of UFO sightings - ScienceDirectOctober 1, 2022...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0378437122005295</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>On the dynamics of reporting data: A case study of UFO sightings - ScienceDirectOctober 1, 2022...</p></details>
    Published: October 1, 2022  
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAn environmental analysis of public UAP sightings and sky view potential  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCDecember 14, 2023...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>December 14, 2023...</p></details>
    Published: December 14, 2023  
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
    Title: On the dynamics of reporting data: A case study of UFO sightings  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295](https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectOctober 1, 2022 — PHYSICA A: STATISTICAL MECHANICS AND ITS APPLICATIONS Volume 603, 1 October 2022, 127807 ON THE DYNAMICS O...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>October 1, 2022 — PHYSICA A: STATISTICAL MECHANICS AND ITS APPLICATIONS Volume 603, 1 October 2022, 127807 ON THE DYNAMICS O...</p></details>
    Published: October 1, 2022  
 
 4. <a id="endnote-4"></a>
    Source: mufon.com  
    Title: The Scientific Method  
-   Link: [https://mufon.com/the-scientific-method/](https://mufon.com/the-scientific-method/)  
+   Link: <a href="https://mufon.com/the-scientific-method/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/the-scientific-method/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Norwegian, Italian, French study of the Hessdalen Lights in Norway is t...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ufomagazines.com  
-   Link: [https://www.ufomagazines.com/0-scientific-journal-articles-1977-08-00-social-studies-of-science-vol-7-no-3-ron-westrum/](https://www.ufomagazines.com/0-scientific-journal-articles-1977-08-00-social-studies-of-science-vol-7-no-3-ron-westrum/)  
+   Link: <a href="https://www.ufomagazines.com/0-scientific-journal-articles-1977-08-00-social-studies-of-science-vol-7-no-3-ron-westrum/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomagazines.com/0-scientific-journal-articles-1977-08-00-social-studies-of-science-vol-7-no-3-ron-westrum/</a>  
 
 ### Additional References
 
 6. <a id="endnote-6"></a>
    Source: uapedia.ai  
-   Link: [https://www.uapedia.ai/wiki/nuforc-mufon-civilian-data-sources/](https://www.uapedia.ai/wiki/nuforc-mufon-civilian-data-sources/)  
+   Link: <a href="https://www.uapedia.ai/wiki/nuforc-mufon-civilian-data-sources/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapedia.ai/wiki/nuforc-mufon-civilian-data-sources/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC &amp; MUFON: Civilian Data Sources - UAPediaNovember 7, 2025 — NUFORC &amp; MUFON: CIVILIAN DATA SOURCES Civilian reporting pipelines are...</p></details>
    Published: November 7, 2025  
 
 7. <a id="endnote-7"></a>
    Source: narcap.org  
-   Link: [https://www.narcap.org/faa-reporting-recommendation](https://www.narcap.org/faa-reporting-recommendation)  
+   Link: <a href="https://www.narcap.org/faa-reporting-recommendation" target="_blank" rel="noopener noreferrer nofollow">https://www.narcap.org/faa-reporting-recommendation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Platte, John-Michael Guttierez, Ted Roe, Ryan Graves, 2023&lt;br/&gt; — National Aviation Reporting Center on Anomalous PhenomenaJune 14, 2023...</p></details>
    Published: June 14, 2023  
 
 8. <a id="endnote-8"></a>
    Source: uapedia.ai  
    Title: MUFO N – Mutual UFO Network: Citizen Science, Scandals, and Decades of UAP Data  
-   Link: [https://uapedia.ai/wiki/mufon-mutual-ufo-network-citizen-science-scandals-and-decades-of-uap-data/](https://uapedia.ai/wiki/mufon-mutual-ufo-network-citizen-science-scandals-and-decades-of-uap-data/)  
+   Link: <a href="https://uapedia.ai/wiki/mufon-mutual-ufo-network-citizen-science-scandals-and-decades-of-uap-data/" target="_blank" rel="noopener noreferrer nofollow">https://uapedia.ai/wiki/mufon-mutual-ufo-network-citizen-science-scandals-and-decades-of-uap-data/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON – Mutual UFO Network: Citizen Science, Scandals, and Decades of UAP Data - UAPediaFebruary 12, 2026 — MUFON – MUTUAL UFO NETWORK: C...</p></details>
    Published: February 12, 2026  
 
 9. <a id="endnote-9"></a>
    Source: space.com  
    Title: They Want to Believe: UFO Hunters Plan Database to Track Sightings | Space  
-   Link: [https://www.space.com/28325-ufo-database-mufon-sightings.html](https://www.space.com/28325-ufo-database-mufon-sightings.html)  
+   Link: <a href="https://www.space.com/28325-ufo-database-mufon-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/28325-ufo-database-mufon-sightings.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 25, 2015 — Image: Space Signup to our newsletter Follow us on Google Detailed observations Back in 2006, MUFON instituted a datab...</p></details>
    Published: January 25, 2015  
 
 10. <a id="endnote-10"></a>
    Source: discovermagazine.com  
    Title: But the public is growing increasingly confused by ordinary object  
-   Link: [https://www.discovermagazine.com/reports-of-rising-ufo-sightings-are-greatly-exaggerated-41864](https://www.discovermagazine.com/reports-of-rising-ufo-sightings-are-greatly-exaggerated-41864)  
+   Link: <a href="https://www.discovermagazine.com/reports-of-rising-ufo-sightings-are-greatly-exaggerated-41864" target="_blank" rel="noopener noreferrer nofollow">https://www.discovermagazine.com/reports-of-rising-ufo-sightings-are-greatly-exaggerated-41864</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reports of Rising UFO Sightings are Greatly Exaggerated | Discover MagazineOctober 3, 2020 — REPORTS OF RISING UFO SIGHTINGS ARE GREATLY...</p></details>
    Published: October 3, 2020  
 
 11. <a id="endnote-11"></a>
    Source: gizmodo.com  
-   Link: [https://gizmodo.com/our-skies-are-more-watched-than-ever-so-why-are-report-1827284430](https://gizmodo.com/our-skies-are-more-watched-than-ever-so-why-are-report-1827284430)  
+   Link: <a href="https://gizmodo.com/our-skies-are-more-watched-than-ever-so-why-are-report-1827284430" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/our-skies-are-more-watched-than-ever-so-why-are-report-1827284430</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>By Jennings Brown Published July 2, 2018, 10:25 am ET Reading time 3 minutes Read Later Comments (0) Repor...</p></details>
    Published: July 2, 2018  
 
 12. <a id="endnote-12"></a>
    Source: astronomy.com  
    Title: Reports of rising UFO sightings are greatly exaggerated  
-   Link: [https://www.astronomy.com/science/reports-of-rising-ufo-sightings-are-greatly-exaggerated/](https://www.astronomy.com/science/reports-of-rising-ufo-sightings-are-greatly-exaggerated/)  
+   Link: <a href="https://www.astronomy.com/science/reports-of-rising-ufo-sightings-are-greatly-exaggerated/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/science/reports-of-rising-ufo-sightings-are-greatly-exaggerated/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In fact, sightings have generally dropped in recent years, even as UFO investigators say they’re seeing an increasing nu...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: livescience.com  
    Title: UF Os Remain Elusive Despite Decades of Study | Live Science  
-   Link: [https://www.livescience.com/65808-ufo-investigations-mufon-50-years.html](https://www.livescience.com/65808-ufo-investigations-mufon-50-years.html)  
+   Link: <a href="https://www.livescience.com/65808-ufo-investigations-mufon-50-years.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/65808-ufo-investigations-mufon-50-years.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>But who knows? Nearly 34% of reports coming into MUFON can be identified, be they aircraft, rocket launches...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: ufotransparency.com  
    Title: eghigian ufos mutual mistrust 2017  
-   Link: [https://ufotransparency.com/scholarly/papers/eghigian-ufos-mutual-mistrust-2017](https://ufotransparency.com/scholarly/papers/eghigian-ufos-mutual-mistrust-2017)  
+   Link: <a href="https://ufotransparency.com/scholarly/papers/eghigian-ufos-mutual-mistrust-2017" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/scholarly/papers/eghigian-ufos-mutual-mistrust-2017</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Making UFOs make sense: Ufology, science, and the history of their mutual mistrust, Eghigian 2017 · UFO TransparencySCHOLARLY / PAPER MAK...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: scholars.uky.edu  
    Title: journalism versus the flying saucers assessing the first generati  
-   Link: [https://scholars.uky.edu/en/publications/journalism-versus-the-flying-saucers-assessing-the-first-generati](https://scholars.uky.edu/en/publications/journalism-versus-the-flying-saucers-assessing-the-first-generati)  
+   Link: <a href="https://scholars.uky.edu/en/publications/journalism-versus-the-flying-saucers-assessing-the-first-generati" target="_blank" rel="noopener noreferrer nofollow">https://scholars.uky.edu/en/publications/journalism-versus-the-flying-saucers-assessing-the-first-generati</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hutchison, Herbert J. Strentz * Integrated Strategic Communication Research output: Cont...</p></details>

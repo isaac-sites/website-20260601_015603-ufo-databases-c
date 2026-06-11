@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /archives/
 nav_short_title: Record Group Context
 title: Understanding UAP Files Through Their Record Group Provenance
-title_full: Understanding UAP Files Through Their Record Group Provenance | Archives
+title_full: Understanding UAP Files Through Their Record Group Provenance
 display_title_short: Record Group Context
 display_title: Record Group Context
 heading_title: Understanding UAP Files Through Their Record Group Provenance
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 21:06:37'
-parent_title: Finding Original UFO Records in Archives | UFO Archives
+parent_title: Finding Original UFO Records in Archives
 parent_permalink: /archives/
 parent_nav_short_title: Archives
 parent_heading_title: Finding Original UFO Records in Archives
@@ -274,18 +274,16 @@ image: /assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_ua
 
 ## Introduction
 
-UAP and UFO files in the U.S. [National Archives]({{ 'archives/' | relative_url }}) are not organised primarily by incident, witness or theory. They are organised by provenance: the office, command, department or agency that created and maintained the records. That principle is one of the most important tools available to researchers because it provides context about why a document exists, who produced it, how it circulated and what institutional purpose it served. A sighting report held within an Air Force intelligence series carries a different evidential meaning from a public-affairs release, a diplomatic cable or a scientific analysis created by another agency. Understanding the record group attached to a file is therefore essential when evaluating UAP material in archival catalogues. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...Record group (RG) numbers are assigned by NARA to large org...</span></span></span>
-
+UAP and UFO files in the U.S. National [Archives]({{ 'archives/' | relative_url }}) are not organised primarily by incident, witness or theory. They are organised by provenance: the office, command, department or agency that created and maintained the records. That principle is one of the most important tools available to researchers because it provides context about why a document exists, who produced it, how it circulated and what institutional purpose it served. A sighting report held within an Air Force intelligence series carries a different evidential meaning from a public-affairs release, a diplomatic cable or a scientific analysis created by another agency. Understanding the record group attached to a file is therefore essential when evaluating UAP material in archival catalogues. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...Record group (RG) numbers are assigned by NARA to large org...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_uap_record_group_pro_2270e8-Illustration-1-dark.svg" | relative_url }}" alt="Record Group Context illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_uap_record_group_pro_2270e8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_uap_record_group_pro_2270e8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The National [Archives]({{ 'archives/' | relative_url }}) and Records Administration (NARA) has recently centralised many UAP-related releases under Record Group 615, the Unidentified Anomalous Phenomena Records Collection. However, the original provenance of those records remains critical. Even when files are transferred into a consolidated UAP collection, researchers still need to know which agency created them and how they originally functioned inside government record-keeping systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...Record group (RG) numbers are assigned by NARA to large org...</span></span></span>
+The National Archives and Records Administration (NARA) has recently centralised many UAP-related releases under Record Group 615, the Unidentified Anomalous Phenomena Records Collection. However, the original provenance of those records remains critical. Even when files are transferred into a consolidated UAP collection, researchers still need to know which agency created them and how they originally functioned inside government record-keeping systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...Record group (RG) numbers are assigned by NARA to large org...</span></span></span>
 
 ## Record groups are more than filing categories
 
 At NARA, a record group is the highest level of archival description and normally corresponds to a major federal agency or organisational body. Record groups help preserve the relationship between documents and the institutions that produced them. Rather than treating every UFO report as an isolated event, the archival system places records inside their administrative environment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...Record group (RG) numbers are assigned by NARA to large org...</span></span></span>
 
 This matters because UAP records were created for very different purposes:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -309,7 +307,6 @@ Project [Blue Book]({{ 'blue-book/' | relative_url }}) provides a clear example.
 
 This provenance changes how the records should be read. A Blue Book case file was not created as a historical narrative for future researchers. It was produced as part of a military administrative process involving collection, evaluation, classification and reporting. Knowing that origin helps explain why some files contain routing slips, intelligence assessments, standardised forms and internal correspondence that may seem mundane but are crucial for understanding how conclusions were reached.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dzv6nRpMX24" title="Roswell Reports, 03/31/1997" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dzv6nRpMX24" target="_blank" rel="noopener noreferrer">Roswell Reports, 03/31/1997</a></p><p class="youtube-embed-meta">Channel: US National Archives &middot; Views: 294.4K &middot; Uploaded: July 2014 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dzv6nRpMX24" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dzv6nRpMX24">Open on YouTube</a></p></div></div></div>
 
 ### RG 342 and operational Air Force records
@@ -328,7 +325,6 @@ For UAP researchers, provenance within RG 330 can indicate that a document was c
 
 A memorandum preserved within Secretary of Defense records may reflect: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/iwg/declassified-records/rg-330-defense-secretary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[archives.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">rg 330 defense secretary</span><span class="citation-popover-snippet">Joint Intelligence Objectives Agency. Notice to Researchers in Records Released under the Nazi War...Read more...</span></span></span>
 
-
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
 * Inter-service coordination.
@@ -340,7 +336,6 @@ A memorandum preserved within Secretary of Defense records may reflect: <span cl
 </div>
 
 Those functions differ significantly from the investigative mission represented by Air Force intelligence files. Understanding the record group prevents researchers from treating every government document as though it served the same purpose.
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_uap_record_group_pro_2270e8-Illustration-2-dark.svg" | relative_url }}" alt="Record Group Context illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_uap_record_group_pro_2270e8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_uap_record_group_pro_2270e8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Civilian agencies produce a different kind of UFO record
@@ -359,7 +354,6 @@ A common mistake in UFO research is treating all government documents as equival
 
 When researchers know the creating office, they can ask more precise questions:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * Was the document produced contemporaneously with the event or years later?
@@ -376,7 +370,6 @@ For example, a later historical summary located in an administrative series may 
 
 Likewise, a newspaper clipping preserved inside a government file does not automatically become official evidence simply because it resides in an archive. Provenance helps distinguish between records created by an agency and material merely collected by it.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QdVDKly2T2I" title="Yes, I Would Baptize An Alien! The Theology &amp; Psychology of the UFO Files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QdVDKly2T2I" target="_blank" rel="noopener noreferrer">Yes, I Would Baptize An Alien! The Theology &amp; Psychology of the UFO Files</a></p><p class="youtube-embed-meta">Channel: Catholic Counseling Institute &middot; Views: 979 &middot; Uploaded: May 2026 &middot; Length: 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QdVDKly2T2I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QdVDKly2T2I">Open on YouTube</a></p></div></div></div>
 
 ## The role of RG 615 in preserving original context
@@ -389,7 +382,6 @@ However, centralisation can create the impression that all records belong to a s
 
 A UAP record transferred from the Office of the Director of National Intelligence is not equivalent to one transferred from the Federal Aviation Administration or the Department of State, even if both ultimately appear within RG 615. The record group's purpose is to collect UAP-related material; provenance explains what the material originally was.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ADMcelTgWYo" title="Here are the released videos from Pentagon&#x27;s first batch of UFO files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ADMcelTgWYo" target="_blank" rel="noopener noreferrer">Here are the released videos from Pentagon&#x27;s first batch of UFO files</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 446.4K &middot; Uploaded: May 2026 &middot; Length: 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ADMcelTgWYo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ADMcelTgWYo">Open on YouTube</a></p></div></div></div>
 
 ## Reading UAP catalogues through provenance rather than mystery
@@ -397,7 +389,6 @@ A UAP record transferred from the Office of the Director of National Intelligenc
 For serious archival research, the most informative question is often not whether a file contains a dramatic sighting but where the file came from. Record groups reveal chains of custody, organisational responsibility and institutional purpose. They help researchers distinguish operational records from policy records, investigative files from publicity material and original evidence from later summaries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...Record group (RG) numbers are assigned by NARA to large org...</span></span></span>
 
 That is why record-group context remains indispensable even as NARA expands the central UAP collection. The archival value of a UAP document is not only in what it says. It is also in knowing who created it, why it was created and where it sat within the federal record-keeping system before it reached the archive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...Record group (RG) numbers are assigned by NARA to large org...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...Record group (RG) numbers are assigned by NARA to large org...</span></span></span>
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_uap_record_group_pro_2270e8-Illustration-3-dark.svg" | relative_url }}" alt="Record Group Context illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_uap_record_group_pro_2270e8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_uap_record_group_pro_2270e8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -797,101 +788,101 @@ That is why record-group context remains indispensable even as NARA expands the 
 
 1. <a id="endnote-1"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/rg-collections](https://www.archives.gov/research/topics/uaps/rg-collections)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...Record group (RG) numbers are assigned by NARA to large org...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — NARA has issued guidance to federal agencies...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/rg-615](https://www.archives.gov/research/topics/uaps/rg-615)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-615" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-615</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecord Group 615: Unidentified Anomalous Phenomena...20 Feb 2026 — NARA issued guidance to federal agencies regarding i...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/textual-and-microfilm](https://www.archives.gov/research/topics/uaps/textual-and-microfilm)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/textual-and-microfilm" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/textual-and-microfilm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — Project Blue Book: UFO Sightings, Page 15 (Na...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: archives.gov  
    Title: National Archives Record Group 342  
-   Link: [https://www.archives.gov/findingaid/stat/discovery/342](https://www.archives.gov/findingaid/stat/discovery/342)  
+   Link: <a href="https://www.archives.gov/findingaid/stat/discovery/342" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/findingaid/stat/discovery/342</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Commands...Record Group 342 - Records of U.S. Air Force Commands, Activities... The U.S. National Archives and Records Admini...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying Objects25 Jun 2024 — Finding aids for these records include a file list for the...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/guide-fed-records/groups/342.html](https://www.archives.gov/research/guide-fed-records/groups/342.html)  
+   Link: <a href="https://www.archives.gov/research/guide-fed-records/groups/342.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guide-fed-records/groups/342.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Search this Record Group in the National Archives Online Catalog. (Record Group 342)Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: archives.gov  
    Title: National Archives Record Group 330  
-   Link: [https://www.archives.gov/findingaid/stat/discovery/330](https://www.archives.gov/findingaid/stat/discovery/330)  
+   Link: <a href="https://www.archives.gov/findingaid/stat/discovery/330" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/findingaid/stat/discovery/330</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecord Group 330 - Records of the Office of the Secretary...Explore descriptions of our records. These records, though...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: downloads.regulations.gov  
-   Link: [https://downloads.regulations.gov/NARA-24-0026-0004/content.pdf](https://downloads.regulations.gov/NARA-24-0026-0004/content.pdf)  
+   Link: <a href="https://downloads.regulations.gov/NARA-24-0026-0004/content.pdf" target="_blank" rel="noopener noreferrer nofollow">https://downloads.regulations.gov/NARA-24-0026-0004/content.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>schedule proposed by the7 Oct 2024 — NARA will accession UAP records subject to the 2024 National Defense Authorization Act (NDAA) under...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/cartographic/aerial-photography/still-pictures-rg-342](https://www.archives.gov/research/cartographic/aerial-photography/still-pictures-rg-342)  
+   Link: <a href="https://www.archives.gov/research/cartographic/aerial-photography/still-pictures-rg-342" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/cartographic/aerial-photography/still-pictures-rg-342</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Still Picture Aerial Photography in Record Group 342Nov 16, 2022 — A number of aerial photographs, many depicting bombings during World W...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: archives.gov  
    Title: Records of U.S  
-   Link: [https://www.archives.gov/iwg/declassified-records/rg-342-air-force](https://www.archives.gov/iwg/declassified-records/rg-342-air-force)  
+   Link: <a href="https://www.archives.gov/iwg/declassified-records/rg-342-air-force" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/iwg/declassified-records/rg-342-air-force</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Commands, Activities, and...Jun 26, 2017 — Records of US Air Force Commands, Activities, and Organizations (Record Group 342)...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/kansas-city/finding-aids/html/rg342-series-title-list.html](https://www.archives.gov/kansas-city/finding-aids/html/rg342-series-title-list.html)  
+   Link: <a href="https://www.archives.gov/kansas-city/finding-aids/html/rg342-series-title-list.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/kansas-city/finding-aids/html/rg342-series-title-list.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 24, 2021 — Record Group 342: Records of U.S. Air Force Commands, Activities, and Organizations. Series Title List. Department of Defe...</p></details>
    Published: May 24, 2021  
 
 13. <a id="endnote-13"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/photographs](https://www.archives.gov/research/topics/uaps/photographs)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — Record Group 341: Records of Headquarters United States Air Fo...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: archives.gov  
    Title: Record Group 615  
-   Link: [https://www.archives.gov/findingaid/stat/discovery/615](https://www.archives.gov/findingaid/stat/discovery/615)  
+   Link: <a href="https://www.archives.gov/findingaid/stat/discovery/615" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/findingaid/stat/discovery/615</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena...Explore descriptions of our records. These records, though not yet digitized, are available at Nation...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: unwritten-record.blogs.archives.gov  
-   Link: [https://unwritten-record.blogs.archives.gov/2017/06/29/how-to-research-photographs-relating-to-wwii-air-force-units/342-fh-3a-10657/](https://unwritten-record.blogs.archives.gov/2017/06/29/how-to-research-photographs-relating-to-wwii-air-force-units/342-fh-3a-10657/)  
+   Link: <a href="https://unwritten-record.blogs.archives.gov/2017/06/29/how-to-research-photographs-relating-to-wwii-air-force-units/342-fh-3a-10657/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2017/06/29/how-to-research-photographs-relating-to-wwii-air-force-units/342-fh-3a-10657/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>archives.gov342-FH-3A-10657 - The Unwritten RecordJun 29, 2017 — 342-FH-3A-10657. Post navigation. Previous postHow to Research: Photogra...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: archives.gov  
    Title: rg 330 defense secretary  
-   Link: [https://www.archives.gov/iwg/declassified-records/rg-330-defense-secretary](https://www.archives.gov/iwg/declassified-records/rg-330-defense-secretary)  
+   Link: <a href="https://www.archives.gov/iwg/declassified-records/rg-330-defense-secretary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/iwg/declassified-records/rg-330-defense-secretary</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Joint Intelligence Objectives Agency. Notice to Researchers in Records Released under the Nazi War...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: unwritten-record.blogs.archives.gov  
    Title: summer road trip albuquerque to las vegas  
-   Link: [https://unwritten-record.blogs.archives.gov/2019/07/10/summer-road-trip-albuquerque-to-las-vegas/](https://unwritten-record.blogs.archives.gov/2019/07/10/summer-road-trip-albuquerque-to-las-vegas/)  
+   Link: <a href="https://unwritten-record.blogs.archives.gov/2019/07/10/summer-road-trip-albuquerque-to-las-vegas/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2019/07/10/summer-road-trip-albuquerque-to-las-vegas/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Road Trip: Albuquerque to Las VegasJul 10, 2019 — Footage held by NARA in Record Group 342: Records of U.S. Air Force Commands, Activitie...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: war.gov  
    Title: department of war releases unidentified anomalous phenomena files in historic t  
-   Link: [https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/](https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of War Releases Unidentified Anomalous...8 May 2026 — Today, the Department of War announced the initial release of new, neve...</p></details>
    Published: May 2026  
 
@@ -899,55 +890,55 @@ That is why record-group context remains indispensable even as NARA expands the 
 
 19. <a id="endnote-19"></a>
    Source: trumanlibrary.gov  
-   Link: [https://www.trumanlibrary.gov/library/federal-record/records-office-secretary-defense-public-statements-secretary-defense-record](https://www.trumanlibrary.gov/library/federal-record/records-office-secretary-defense-public-statements-secretary-defense-record)  
+   Link: <a href="https://www.trumanlibrary.gov/library/federal-record/records-office-secretary-defense-public-statements-secretary-defense-record" target="_blank" rel="noopener noreferrer nofollow">https://www.trumanlibrary.gov/library/federal-record/records-office-secretary-defense-public-statements-secretary-defense-record</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Public Statements of the Secretary of Defense (Record...The Office of the Secretary of Defense (Record Group 330) was created in 1947, w...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: commons.wikimedia.org  
-   Link: [https://commons.wikimedia.org/wiki/Category%3AUS_National_Archives_Record_Group_342%3A_Records_of_U.S._Air_Force_Commands%2C_Activities%2C_and_Organizations%2C_1900_-_2003](https://commons.wikimedia.org/wiki/Category%3AUS_National_Archives_Record_Group_342%3A_Records_of_U.S._Air_Force_Commands%2C_Activities%2C_and_Organizations%2C_1900_-_2003)  
+   Link: <a href="https://commons.wikimedia.org/wiki/Category%3AUS_National_Archives_Record_Group_342%3A_Records_of_U.S._Air_Force_Commands%2C_Activities%2C_and_Organizations%2C_1900_-_2003" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AUS_National_Archives_Record_Group_342%3A_Records_of_U.S._Air_Force_Commands%2C_Activities%2C_and_Organizations%2C_1900_-_2003</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Commands, Activities, and...Jun 19, 2021 — Category:US National Archives Record Group 342: Records of U.S. Air Force Commands...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: medium.com  
-   Link: [https://medium.com/on-the-trail-of-the-saucers/the-hidden-ufo-records-39edd7d83625](https://medium.com/on-the-trail-of-the-saucers/the-hidden-ufo-records-39edd7d83625)  
+   Link: <a href="https://medium.com/on-the-trail-of-the-saucers/the-hidden-ufo-records-39edd7d83625" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/on-the-trail-of-the-saucers/the-hidden-ufo-records-39edd7d83625</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hidden UFO Records | Point of ContactThe Hidden UFO Records. Would the people running the UAP cover up destroy the classified archive...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/usnationalarchives/posts/-new-to-maximize-transparency-the-national-archives-has-released-new-records-rel/1064767475698845/](https://www.facebook.com/usnationalarchives/posts/-new-to-maximize-transparency-the-national-archives-has-released-new-records-rel/1064767475698845/)  
+   Link: <a href="https://www.facebook.com/usnationalarchives/posts/-new-to-maximize-transparency-the-national-archives-has-released-new-records-rel/1064767475698845/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/usnationalarchives/posts/-new-to-maximize-transparency-the-national-archives-has-released-new-records-rel/1064767475698845/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US National ArchivesThe National Archives has released new records related to Unidentified Anomalous Phenomena (UAP). These records come...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: historyhub.history.gov  
    Title: are rg 342 air force photograph videodiscs candidates for the catalog  
-   Link: [https://historyhub.history.gov/citizen_archivists/f/discussions/24913/are-rg-342-air-force-photograph-videodiscs-candidates-for-the-catalog](https://historyhub.history.gov/citizen_archivists/f/discussions/24913/are-rg-342-air-force-photograph-videodiscs-candidates-for-the-catalog)  
+   Link: <a href="https://historyhub.history.gov/citizen_archivists/f/discussions/24913/are-rg-342-air-force-photograph-videodiscs-candidates-for-the-catalog" target="_blank" rel="noopener noreferrer nofollow">https://historyhub.history.gov/citizen_archivists/f/discussions/24913/are-rg-342-air-force-photograph-videodiscs-candidates-for-the-catalog</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RG 342 Air Force photograph videodiscs candidates...Apr 13, 2020 — When looking for WWII era Air Force photographs, following the trail...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: [aaro](&#123;&#123; 'aaro/' | relative_url &#125;&#125;). mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: meritalk.com  
    Title: nara gives feds instructions on ufo records classification  
-   Link: [https://www.meritalk.com/articles/nara-gives-feds-instructions-on-ufo-records-classification/](https://www.meritalk.com/articles/nara-gives-feds-instructions-on-ufo-records-classification/)  
+   Link: <a href="https://www.meritalk.com/articles/nara-gives-feds-instructions-on-ufo-records-classification/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/nara-gives-feds-instructions-on-ufo-records-classification/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>15 May 2024 — NARA is giving Federal agencies instructions on how to review, identify, and organize records in their custody relating to...</p></details>
    Published: May 2024  
 
 26. <a id="endnote-26"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1k75ynz/to_maximize_transparency_the_national_archives/](https://www.reddit.com/r/UFOs/comments/1k75ynz/to_maximize_transparency_the_national_archives/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1k75ynz/to_maximize_transparency_the_national_archives/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1k75ynz/to_maximize_transparency_the_national_archives/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>To maximize transparency, the National Archives has...The National Archives has released new records related to Unidentified Anomalous P...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: meritalk.com  
    Title: nara starting work on ufo records repository  
-   Link: [https://www.meritalk.com/articles/nara-starting-work-on-ufo-records-repository/](https://www.meritalk.com/articles/nara-starting-work-on-ufo-records-repository/)  
+   Link: <a href="https://www.meritalk.com/articles/nara-starting-work-on-ufo-records-repository/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/nara-starting-work-on-ufo-records-repository/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>27 Feb 2024 — “Agencies have until the end of the current fiscal year [on Sept. 30] to submit UAP records custody for disclosure to the p...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: vault.fbi.gov  
    Title: Project Blue Book (UFO)  
-   Link: [https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20](https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20)  
+   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book (UFO)Project Blue Book was the Air Force name for a project that investigated UFO reports between 1947 and 1969.Read more...</p></details>

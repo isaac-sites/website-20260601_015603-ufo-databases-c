@@ -40,7 +40,7 @@ sidebar_expanded_urls:
 - /ufo-report-databases-and-catalogues/
 nav_short_title: GEIPAN
 title: How France Classifies Public UAP Cases
-title_full: How France Classifies Public UAP Cases | UFO Archives
+title_full: How France Classifies Public UAP Cases
 display_title_short: GEIPAN
 display_title: GEIPAN
 heading_title: How France Classifies Public UAP Cases
@@ -352,81 +352,75 @@ image: /assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2-ov
 
 ## Introduction
 
-France’s GEIPAN is one of the clearest public models for turning UAP reports into a searchable, classified case record. Housed within the French space agency CNES, it collects witness accounts, analyses them, investigates selected cases, anonymises files, publishes conclusions and assigns each case a resolution category. The important point is that GEIPAN’s labels are not a scale from “ordinary” to “alien”; they are an administrative and evidential judgement about how well a reported observation can be explained after inquiry. A case marked A or B has been identified or probably identified, C lacks enough usable information, and D remains unidentified after investigation. GEIPAN’s public value lies in that disciplined separation between “explained”, “probably explained”, “not workable” and “still unexplained”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN | CNES</span><span class="citation-popover-snippet">CNESGEIPAN | CNES...</span></span></span>
-
+France’s GEIPAN is one of the clearest public models for turning UAP reports into a searchable, classified case record. Housed within the French space agency CNES, it collects witness accounts, analyses them, investigates selected cases, anonymises files, publishes conclusions and assigns each case a resolution category. The important point is that GEIPAN’s labels are not a scale from “ordinary” to “alien”; they are an administrative and evidential judgement about how well a reported observation can be explained after inquiry. A case marked A or B has been identified or probably identified, C lacks enough usable information, and D remains unidentified after investigation. GEIPAN’s public value lies in that disciplined separation between “explained”, “probably explained”, “not workable” and “still unexplained”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2-overview.webp" | relative_url }}" alt="Overview image for GEIPAN" loading="eager" decoding="sync" fetchpriority="high">
 For [UFO report databases and catalogues]({{ 'ufo-report-databases-and-catalogues/' | relative_url }}), GEIPAN matters because it shows what a government-linked public database can do when it publishes not only sightings but also case status, metadata, witness material, investigation notes and reclassification history. It does not remove uncertainty from the UAP subject, but it makes the uncertainty easier to audit.
 
 ## Why GEIPAN is different from a simple sightings list
 
-Many UFO databases are built around witness submission and public browsing. GEIPAN is more structured because it sits inside CNES and has an explicit public-service role: to collect, analyse, archive and inform the public about unidentified aerospace phenomena. CNES describes GEIPAN as operating from Toulouse, created through the French official UAP study lineage that began in 1977, and working with partners including the gendarmerie, police, the Air and Space Force, CNRS and Météo-France. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN | CNES</span><span class="citation-popover-snippet">CNESGEIPAN | CNES...</span></span></span>
+Many UFO databases are built around witness submission and public browsing. GEIPAN is more structured because it sits inside CNES and has an explicit public-service role: to collect, analyse, archive and inform the public about unidentified aerospace phenomena. CNES describes GEIPAN as operating from Toulouse, created through the French official UAP study lineage that began in 1977, and working with partners including the gendarmerie, police, the Air and Space Force, CNRS and Météo-France. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
 
-That institutional setting changes the shape of the database. A GEIPAN entry is not only a witness story; it can include a formal case page, date and place of observation, classification, update date, phenomenon type, strangeness and consistency scores, documents, testimony files and a narrative conclusion. Its public case search also lets readers filter or browse cases by classification and other fields, which makes the site function as both a reporting archive and a case-resolution catalogue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN | CNES</span><span class="citation-popover-snippet">CNESGEIPAN | CNES...</span></span></span>
+That institutional setting changes the shape of the database. A GEIPAN entry is not only a witness story; it can include a formal case page, date and place of observation, classification, update date, phenomenon type, strangeness and consistency scores, documents, testimony files and a narrative conclusion. Its public case search also lets readers filter or browse cases by classification and other fields, which makes the site function as both a reporting archive and a case-resolution catalogue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
 
 This does not mean GEIPAN is infallible or that every entry has the same depth. Some cases have richer witness files or investigation notes than others, and older records can reflect the methods and limitations of earlier decades. The distinctive feature is the public classification layer: each case is placed somewhere in a resolution system rather than left as a free-floating anecdote.
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2-Illustration-1-dark.svg" | relative_url }}" alt="GEIPAN illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the A, B, C and D categories work
 
-GEIPAN’s classification system is built around two ideas: residual strangeness and consistency. Residual strangeness measures how far the observation remains from known explanations after hypotheses have been considered. Consistency measures the quantity and [reliability]({{ 'reliability/' | relative_url }}) of the available data, including witness detail, coherence, links between witnesses, and supporting material such as photographs or video. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN | CNES</span><span class="citation-popover-snippet">CNESGEIPAN | CNES...</span></span></span>
+GEIPAN’s classification system is built around two ideas: residual strangeness and consistency. Residual strangeness measures how far the observation remains from known explanations after hypotheses have been considered. Consistency measures the quantity and [reliability]({{ 'reliability/' | relative_url }}) of the available data, including witness detail, coherence, links between witnesses, and supporting material such as photographs or video. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
 
 The categories are simple on the surface:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * **A:** the phenomenon is perfectly identified after investigation.
 * **B:** the phenomenon is probably identified after investigation.
 * **C:** the phenomenon is not identified because the available data or information is insufficient.
-* **D:** the phenomenon is not identified after investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN | CNES</span><span class="citation-popover-snippet">CNESGEIPAN | CNES...</span></span></span>
+* **D:** the phenomenon is not identified after investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
 
 </div>
 
-Since 2008, GEIPAN has used a more detailed version that includes D1 and D2 for [unresolved cases]({{ 'unresolved-cases/' | relative_url }}). D1 means an unexplained case of medium consistency; D2 is used for a highly consistent unexplained case. GEIPAN says its method compares the strongest explanatory hypothesis against the observation’s residual strangeness, while also applying a common-sense rule: the stranger the case remains, the stronger the data consistency must be before it should be treated as genuinely unexplained. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN | CNES</span><span class="citation-popover-snippet">CNESGEIPAN | CNES...</span></span></span>
+Since 2008, GEIPAN has used a more detailed version that includes D1 and D2 for [unresolved cases]({{ 'unresolved-cases/' | relative_url }}). D1 means an unexplained case of medium consistency; D2 is used for a highly consistent unexplained case. GEIPAN says its method compares the strongest explanatory hypothesis against the observation’s residual strangeness, while also applying a common-sense rule: the stranger the case remains, the stronger the data consistency must be before it should be treated as genuinely unexplained. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
 
 That distinction is crucial. A weakly documented sighting should not become a strong mystery simply because no one can identify it. Under GEIPAN’s system, insufficient information points towards C, not towards a stronger D claim. The classification therefore works as a restraint on over-reading the database.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CWt2zkuxRNQ" title="GEIPAN : Tout savoir sur les OVNIS et Phénomènes Aérospatiaux (PAN)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CWt2zkuxRNQ" target="_blank" rel="noopener noreferrer">GEIPAN : Tout savoir sur les OVNIS et Phénomènes Aérospatiaux (PAN)</a></p><p class="youtube-embed-meta">Channel: Science &amp; Vie &middot; Views: 36.9K &middot; Uploaded: March 2026 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CWt2zkuxRNQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CWt2zkuxRNQ">Open on YouTube</a></p></div></div></div>
 
 ## What the public statistics say
 
-GEIPAN’s published dynamic statistics show that most classified public cases are either identified or probably identified, while a smaller proportion remain unresolved after investigation. The statistics page listed 27.81% as category A, 38.76% as category B, 30.26% as category C, and 2.18% as category D, with D1 at 0.98% and D2 at 0.00% in the displayed table. The same page states that these dynamic statistics are calculated from classified cases published on the website across all years combined, with files in progress counted only once completed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN | CNES</span><span class="citation-popover-snippet">CNESGEIPAN | CNES...</span></span></span>
+GEIPAN’s published dynamic statistics show that most classified public cases are either identified or probably identified, while a smaller proportion remain unresolved after investigation. The statistics page listed 27.81% as category A, 38.76% as category B, 30.26% as category C, and 2.18% as category D, with D1 at 0.98% and D2 at 0.00% in the displayed table. The same page states that these dynamic statistics are calculated from classified cases published on the website across all years combined, with files in progress counted only once completed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
 
-CNES’s own GEIPAN project page gives a similar broad picture, listing 24.6% clearly identified, 39.7% probably identified, 32.4% unidentified for lack of data, and 3.3% unidentified after investigation. Those figures are not identical to the live dynamic table because GEIPAN statistics can change as published cases are added, updated or reclassified, but both sets point to the same pattern: the largest share is not “mysterious residue”, but identified, probably identified or too poorly documented to resolve. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN | CNES</span><span class="citation-popover-snippet">CNESGEIPAN | CNES...</span></span></span>
+CNES’s own GEIPAN project page gives a similar broad picture, listing 24.6% clearly identified, 39.7% probably identified, 32.4% unidentified for lack of data, and 3.3% unidentified after investigation. Those figures are not identical to the live dynamic table because GEIPAN statistics can change as published cases are added, updated or reclassified, but both sets point to the same pattern: the largest share is not “mysterious residue”, but identified, probably identified or too poorly documented to resolve. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
 
 For readers comparing UAP catalogues, this is the main lesson. Raw [sighting counts]({{ 'sighting-counts/' | relative_url }}) are less informative than the distribution of outcomes. A catalogue with thousands of reports but no resolution status tells a different story from a catalogue that separates confirmed explanations, probable explanations, insufficient data and investigated unknowns.
 
 ## How a public case becomes a resolved case
 
-GEIPAN describes its process as a sequence: receiving the testimony, creating the file, initial analysis, investigation and processing, classification, anonymisation, and finally witness information and publication. It also says human testimony is central to the process, but that witnesses are expected to complete a technical questionnaire, and that sketches, photographs, videos or other detection material may supplement the report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN | CNES</span><span class="citation-popover-snippet">CNESGEIPAN | CNES...</span></span></span>
+GEIPAN describes its process as a sequence: receiving the testimony, creating the file, initial analysis, investigation and processing, classification, anonymisation, and finally witness information and publication. It also says human testimony is central to the process, but that witnesses are expected to complete a technical questionnaire, and that sketches, photographs, videos or other detection material may supplement the report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
 
-The public case pages show how that process looks in practice. In a 1983 Plouarzel case, for example, multiple witnesses reported nocturnal lights that appeared to follow a vehicle. The case page now classifies the observation as A, with the phenomenon type listed as Venus. The published explanation identifies a classic “following star” illusion: a fixed bright celestial object can appear to move with a vehicle as the observer’s own movement and road direction change. GEIPAN’s conclusion also points to Arcturus in relation to a later related witness account. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN | CNES</span><span class="citation-popover-snippet">CNESGEIPAN | CNES...</span></span></span>
+The public case pages show how that process looks in practice. In a 1983 Plouarzel case, for example, multiple witnesses reported nocturnal lights that appeared to follow a vehicle. The case page now classifies the observation as A, with the phenomenon type listed as Venus. The published explanation identifies a classic “following star” illusion: a fixed bright celestial object can appear to move with a vehicle as the observer’s own movement and road direction change. GEIPAN’s conclusion also points to Arcturus in relation to a later related witness account. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
 
-That case is useful because it shows what “resolved” means in a public database. It is not merely a label. The page includes the observation date, region, department, classification, update date, phenomenon type, strangeness and consistency values, testimony links, a summary and a written explanation. The result is a public audit trail that readers can examine rather than a bare official assertion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN | CNES</span><span class="citation-popover-snippet">CNESGEIPAN | CNES...</span></span></span>
-
+That case is useful because it shows what “resolved” means in a public database. It is not merely a label. The page includes the observation date, region, department, classification, update date, phenomenon type, strangeness and consistency values, testimony links, a summary and a written explanation. The result is a public audit trail that readers can examine rather than a bare official assertion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2-Illustration-2-dark.svg" | relative_url }}" alt="GEIPAN illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Reclassification is part of the model, not a flaw by itself
 
-One of GEIPAN’s most important database features is that classifications can change. Its FAQ states that C and D cases may be revisited if new information is communicated after the initial investigation. Its classification page also says D cases need periodic re-evaluation, and notes that newer tools and accumulated experience have helped explain older cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN | CNES</span><span class="citation-popover-snippet">CNESGEIPAN | CNES...</span></span></span>
+One of GEIPAN’s most important database features is that classifications can change. Its FAQ states that C and D cases may be revisited if new information is communicated after the initial investigation. Its classification page also says D cases need periodic re-evaluation, and notes that newer tools and accumulated experience have helped explain older cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
 
-The public archive contains concrete examples. A 1985 Lyon-area case, previously classed D, was re-examined and classified B, with GEIPAN concluding that the witnesses probably observed a meteoroid re-entry. The case page points to short observation duration, rapid movement, glow and halo descriptions, similar reports from geographically separate witnesses, and coherent trajectory indications as reasons supporting the explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN | CNES</span><span class="citation-popover-snippet">CNESGEIPAN | CNES...</span></span></span>
+The public archive contains concrete examples. A 1985 Lyon-area case, previously classed D, was re-examined and classified B, with GEIPAN concluding that the witnesses probably observed a meteoroid re-entry. The case page points to short observation duration, rapid movement, glow and halo descriptions, similar reports from geographically separate witnesses, and coherent trajectory indications as reasons supporting the explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
 
-A 1979 Pithiviers case, also previously classified D, was re-examined and classified B as a probable observation of helicopters. GEIPAN’s published reasoning refers to a file-like movement towards Orléans-Bricy air base, aircraft navigation light colours, possible anti-collision lights, and the common night-time tendency to perceive separate points of light as a solid triangular form. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN | CNES</span><span class="citation-popover-snippet">CNESGEIPAN | CNES...</span></span></span>
+A 1979 Pithiviers case, also previously classified D, was re-examined and classified B as a probable observation of helicopters. GEIPAN’s published reasoning refers to a file-like movement towards Orléans-Bricy air base, aircraft navigation light colours, possible anti-collision lights, and the common night-time tendency to perceive separate points of light as a solid triangular form. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
 
-A 1990 Moosch case illustrates another recurring pattern: an older strange-looking light in a cloudy sky was later classified B as probable laser or skytracer lighting. GEIPAN’s note says accumulated experience with similar cases made the hypothesis fit the reported oval, milky, moving light on a cloud ceiling, even though no specific local event could be confirmed three decades later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN | CNES</span><span class="citation-popover-snippet">CNESGEIPAN | CNES...</span></span></span>
+A 1990 Moosch case illustrates another recurring pattern: an older strange-looking light in a cloudy sky was later classified B as probable laser or skytracer lighting. GEIPAN’s note says accumulated experience with similar cases made the hypothesis fit the reported oval, milky, moving light on a cloud ceiling, even though no specific local event could be confirmed three decades later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
 
 These examples matter because they show that an “unidentified” label is not permanent proof of anomaly. It may be a provisional state created by missing tools, incomplete checks, weak original documentation or simply the investigator’s limited experience with a class of misidentification.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OLXDikL331Y" title="Geipan : la France aussi s’intéresse aux ovnis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OLXDikL331Y" target="_blank" rel="noopener noreferrer">Geipan : la France aussi s’intéresse aux ovnis</a></p><p class="youtube-embed-meta">Channel: C dans l&#x27;air - France Télévisions &middot; Views: 22.3K &middot; Uploaded: April 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OLXDikL331Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OLXDikL331Y">Open on YouTube</a></p></div></div></div>
 
 ## Public transparency and its limits
 
-GEIPAN’s publication model is unusually transparent for an official UAP system. It publishes case material while protecting witness anonymity, and its FAQ explicitly says confidentiality is maintained through anonymisation of the files and documents linked to investigations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN | CNES</span><span class="citation-popover-snippet">CNESGEIPAN | CNES...</span></span></span>
+GEIPAN’s publication model is unusually transparent for an official UAP system. It publishes case material while protecting witness anonymity, and its FAQ explicitly says confidentiality is maintained through anonymisation of the files and documents linked to investigations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
 
 The strength of this model is that readers can see more than a headline. They can examine classification, update history, testimony links, investigation documents where available, and the reasoning behind many conclusions. This makes GEIPAN more useful than a sightings map for serious comparison work: a researcher can ask not only “what was reported?” but “what did the investigators do with the report, and why did they classify it this way?”
 
@@ -434,22 +428,20 @@ The limitation is that transparency does not automatically guarantee perfect ana
 
 That criticism should not be read as cancelling GEIPAN’s value. It actually reinforces the need for public files, reclassification and auditable reasoning. A closed archive can preserve mistakes indefinitely; an open, revisable case catalogue gives later investigators and outside readers a chance to test whether an old classification still holds.
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2-Illustration-3-dark.svg" | relative_url }}" alt="GEIPAN illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What GEIPAN classifications do and do not prove
 
-The most common mistake is to treat category D as a claim about exotic origin. GEIPAN itself does not do that. Its classification page says that after decades of investigation it has no proof of alien existence, while also saying it does not turn absence of proof into proof of absence. It also notes that aircraft of unknown origin cannot be excluded in the abstract, but that no proof has been found in its investigations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN | CNES</span><span class="citation-popover-snippet">CNESGEIPAN | CNES...</span></span></span>
+The most common mistake is to treat category D as a claim about exotic origin. GEIPAN itself does not do that. Its classification page says that after decades of investigation it has no proof of alien existence, while also saying it does not turn absence of proof into proof of absence. It also notes that aircraft of unknown origin cannot be excluded in the abstract, but that no proof has been found in its investigations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
 
 A more careful reading is this:
 
-**A and B cases show the importance of misidentification.** They demonstrate that many strange reports become understandable when investigators check astronomical objects, aircraft, satellites, meteorological conditions, perception effects, lighting events or human-made activity. The Plouarzel, Pithiviers and Moosch examples show how emotionally convincing observations can still resolve into Venus, helicopters or laser lighting once geometry, context and accumulated case knowledge are applied. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN | CNES</span><span class="citation-popover-snippet">CNESGEIPAN | CNES...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN | CNES</span><span class="citation-popover-snippet">CNESGEIPAN | CNES...</span></span></span>
+**A and B cases show the importance of misidentification.** They demonstrate that many strange reports become understandable when investigators check astronomical objects, aircraft, satellites, meteorological conditions, perception effects, lighting events or human-made activity. The Plouarzel, Pithiviers and Moosch examples show how emotionally convincing observations can still resolve into Venus, helicopters or laser lighting once geometry, context and accumulated case knowledge are applied. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
 
-**[C cases]({{ 'c-cases/' | relative_url }}) show the cost of weak data.** A C classification is not a stronger mystery than B. It means the available information is too thin or unreliable to support either a firm explanation or a robust unexplained classification. In database terms, C is a warning label about evidential limits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN | CNES</span><span class="citation-popover-snippet">CNESGEIPAN | CNES...</span></span></span>
+**[C cases]({{ 'c-cases/' | relative_url }}) show the cost of weak data.** A C classification is not a stronger mystery than B. It means the available information is too thin or unreliable to support either a firm explanation or a robust unexplained classification. In database terms, C is a warning label about evidential limits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
 
-**D cases are the true unresolved residue, but still not a conclusion about cause.** A D case has survived investigation without a satisfactory explanation, and D1 or D2 adds information about consistency. That makes D cases especially interesting for researchers, but the label means “unidentified after investigation”, not “extraordinary craft”, “non-human technology” or “proof of a theory”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN | CNES</span><span class="citation-popover-snippet">CNESGEIPAN | CNES...</span></span></span>
+**D cases are the true unresolved residue, but still not a conclusion about cause.** A D case has survived investigation without a satisfactory explanation, and D1 or D2 adds information about consistency. That makes D cases especially interesting for researchers, but the label means “unidentified after investigation”, not “extraordinary craft”, “non-human technology” or “proof of a theory”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
 
 For a public UAP catalogue, this is the central governance achievement of GEIPAN’s model. It gives readers a vocabulary for different kinds of uncertainty. Some uncertainty is solved, some is probabilistic, some is caused by [missing data]({{ 'missing-data/' | relative_url }}), and some remains after investigation. Treating those four states as the same thing is how UFO databases become misleading.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HrsJ8jPwF88" title="En quête d&#x27;ovnis : qui sont les chasseurs d&#x27;aliens ?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HrsJ8jPwF88" target="_blank" rel="noopener noreferrer">En quête d&#x27;ovnis : qui sont les chasseurs d&#x27;aliens ?</a></p><p class="youtube-embed-meta">Channel: Investigation &middot; Views: 1.3M &middot; Uploaded: February 2023 &middot; Length: 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HrsJ8jPwF88" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HrsJ8jPwF88">Open on YouTube</a></p></div></div></div>
 
@@ -457,7 +449,7 @@ For a public UAP catalogue, this is the central governance achievement of GEIPAN
 
 GEIPAN’s public classifications are valuable because they convert a culturally charged subject into a case-management problem. The database does not ask readers to accept a single grand theory. It asks them to look at the status of each report: the observation, the available data, the explanatory hypotheses, the consistency of the evidence, the residual strangeness and the final classification.
 
-For the wider field of [UFO report databases]({{ 'ufo-report-databases-and-catalogues/' | relative_url }}) and catalogues, that is a practical benchmark. A useful UAP database should not merely accumulate reports. It should preserve source material, protect witnesses, distinguish weak files from strong ones, mark probable explanations, keep unresolved cases separate from insufficient-data cases, and allow old conclusions to be revisited when better information becomes available. GEIPAN is not the final answer to public UAP investigation, but it is one of the clearest examples of how official case resolution can be made visible enough for readers to inspect, compare and challenge.
+For the wider field of UFO report databases and catalogues, that is a practical benchmark. A useful UAP database should not merely accumulate reports. It should preserve source material, protect witnesses, distinguish weak files from strong ones, mark probable explanations, keep unresolved cases separate from insufficient-data cases, and allow old conclusions to be revisited when better information becomes available. GEIPAN is not the final answer to public UAP investigation, but it is one of the clearest examples of how official case resolution can be made visible enough for readers to inspect, compare and challenge.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -856,138 +848,138 @@ For the wider field of [UFO report databases]({{ 'ufo-report-databases-and-catal
 1. <a id="endnote-1"></a>
    Source: cnes.fr  
    Title: GEIPAN | CNES  
-   Link: [https://cnes.fr/en/projects/geipan](https://cnes.fr/en/projects/geipan)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CNESGEIPAN | CNES...</p></details>
+   Link: <a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPAN | CNES...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cnes-geipan.fr  
    Title: Geipan Statistics | GEIPAN  
-   Link: [https://www.cnes-geipan.fr/en/stats](https://www.cnes-geipan.fr/en/stats)  
+   Link: <a href="https://www.cnes-geipan.fr/en/stats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/stats</a>  
 
 3. <a id="endnote-3"></a>
    Source: skepticalinquirer.org  
    Title: Skeptical Inquirer  
-   Link: [https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com](https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com)  
+   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com</a>  
 
 4. <a id="endnote-4"></a>
    Source: youtube.com  
    Title: GEIPAN: Tout savoir sur les OVNIS et Phénomènes Aérospatiaux (PAN)  
-   Link: [https://www.youtube.com/watch?v=CWt2zkuxRNQ](https://www.youtube.com/watch?v=CWt2zkuxRNQ)  
+   Link: <a href="https://www.youtube.com/watch?v=CWt2zkuxRNQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CWt2zkuxRNQ</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Office: Is the truth out there? • FRANCE 24...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: youtube.com  
    Title: UFO Office: Is the truth out there? • FRANCE 24  
-   Link: [https://www.youtube.com/watch?v=yDqQGyAwWCg](https://www.youtube.com/watch?v=yDqQGyAwWCg)  
+   Link: <a href="https://www.youtube.com/watch?v=yDqQGyAwWCg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yDqQGyAwWCg</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Geipan: France is also interested in UFOs...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
    Title: Geipan: France is also interested in UFOs  
-   Link: [https://www.youtube.com/watch?v=OLXDikL331Y](https://www.youtube.com/watch?v=OLXDikL331Y)  
+   Link: <a href="https://www.youtube.com/watch?v=OLXDikL331Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OLXDikL331Y</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, aliens: why is Trump declassifying? - C dans l&#x27;air - 04/25/2026...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: cnes-geipan.fr  
    Title: Geipan How does GEIPAN classify observation cases? | GEIPAN  
-   Link: [https://www.cnes-geipan.fr/en/node/412](https://www.cnes-geipan.fr/en/node/412)  
+   Link: <a href="https://www.cnes-geipan.fr/en/node/412" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/412</a>  
 
 8. <a id="endnote-8"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/en/search/cas](https://www.cnes-geipan.fr/en/search/cas)  
+   Link: <a href="https://www.cnes-geipan.fr/en/search/cas" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/search/cas</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>GeipanCase searchCase list; 12/01/2026. PAPEETE (987) 12.01.2026 · Polynésie française; 01/01/2026. RUMILLY (74) 01.01.2026 · Haute-Sav...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: cnes-geipan.fr  
    Title: Geipan Classification | GEIPAN  
-   Link: [https://www.cnes-geipan.fr/en/node/58787](https://www.cnes-geipan.fr/en/node/58787)  
+   Link: <a href="https://www.cnes-geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58787</a>  
 
 10. <a id="endnote-10"></a>
    Source: cnes-geipan.fr  
    Title: Geipan FAQ | GEIPAN  
-   Link: [https://www.cnes-geipan.fr/en/faq-page](https://www.cnes-geipan.fr/en/faq-page)  
+   Link: <a href="https://www.cnes-geipan.fr/en/faq-page" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/faq-page</a>  
 
 11. <a id="endnote-11"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/fr/cas/1983-03-00968](https://www.cnes-geipan.fr/fr/cas/1983-03-00968)  
+   Link: <a href="https://www.cnes-geipan.fr/fr/cas/1983-03-00968" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/cas/1983-03-00968</a>  
 
 12. <a id="endnote-12"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/fr/cas/1985-09-01076](https://www.cnes-geipan.fr/fr/cas/1985-09-01076)  
+   Link: <a href="https://www.cnes-geipan.fr/fr/cas/1985-09-01076" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/cas/1985-09-01076</a>  
 
 13. <a id="endnote-13"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/fr/cas/1979-12-01704](https://www.cnes-geipan.fr/fr/cas/1979-12-01704)  
+   Link: <a href="https://www.cnes-geipan.fr/fr/cas/1979-12-01704" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/cas/1979-12-01704</a>  
 
 14. <a id="endnote-14"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/fr/cas/1990-09-01215](https://www.cnes-geipan.fr/fr/cas/1990-09-01215)  
+   Link: <a href="https://www.cnes-geipan.fr/fr/cas/1990-09-01215" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/cas/1990-09-01215</a>  
 
 15. <a id="endnote-15"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/](https://www.cnes-geipan.fr/)  
+   Link: <a href="https://www.cnes-geipan.fr/" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/</a>  
 
 16. <a id="endnote-16"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/en](https://www.cnes-geipan.fr/en)  
+   Link: <a href="https://www.cnes-geipan.fr/en" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en</a>  
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/GEIPAN](https://en.wikipedia.org/wiki/GEIPAN)  
+   Link: <a href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEIPAN</a>  
 
 18. <a id="endnote-18"></a>
    Source: academieairespace.com  
-   Link: [https://academieairespace.com/event/geipan-studies-uaps-ufos/?lang=en](https://academieairespace.com/event/geipan-studies-uaps-ufos/?lang=en)  
+   Link: <a href="https://academieairespace.com/event/geipan-studies-uaps-ufos/?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://academieairespace.com/event/geipan-studies-uaps-ufos/?lang=en</a>  
 
 19. <a id="endnote-19"></a>
    Source: uapedia.ai  
-   Link: [https://uapedia.ai/wiki/geipan-frances-official-uap-unit/](https://uapedia.ai/wiki/geipan-frances-official-uap-unit/)  
+   Link: <a href="https://uapedia.ai/wiki/geipan-frances-official-uap-unit/" target="_blank" rel="noopener noreferrer nofollow">https://uapedia.ai/wiki/geipan-frances-official-uap-unit/</a>  
 
 20. <a id="endnote-20"></a>
    Source: newspaceeconomy.ca  
    Title: GEIPA N: Frances UAP Investigation Unit  
-   Link: [https://newspaceeconomy.ca/2025/07/29/geipan-frances-uap-investigation-unit/](https://newspaceeconomy.ca/2025/07/29/geipan-frances-uap-investigation-unit/)  
+   Link: <a href="https://newspaceeconomy.ca/2025/07/29/geipan-frances-uap-investigation-unit/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/07/29/geipan-frances-uap-investigation-unit/</a>  
 
 ### Additional References
 
 21. <a id="endnote-21"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2502.06794v2](https://arxiv.org/html/2502.06794v2)  
+   Link: <a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: UFOs, aliens: why is Trump declassifying?  
-   Link: [https://www.youtube.com/watch?v=d1Olr4FyNbs](https://www.youtube.com/watch?v=d1Olr4FyNbs)  
+   Link: <a href="https://www.youtube.com/watch?v=d1Olr4FyNbs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d1Olr4FyNbs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In search of UFOs: who are the alien hunters?...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue](https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue)  
+   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
 
 24. <a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/390980555_The_UAP_Assessment_Matrix_A_proposed_framework_for_evaluating_evidence_and_understanding_regarding_Unidentified_Anomalous_Phenomena](https://www.researchgate.net/publication/390980555_The_UAP_Assessment_Matrix_A_proposed_framework_for_evaluating_evidence_and_understanding_regarding_Unidentified_Anomalous_Phenomena)  
+   Link: <a href="https://www.researchgate.net/publication/390980555_The_UAP_Assessment_Matrix_A_proposed_framework_for_evaluating_evidence_and_understanding_regarding_Unidentified_Anomalous_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390980555_The_UAP_Assessment_Matrix_A_proposed_framework_for_evaluating_evidence_and_understanding_regarding_Unidentified_Anomalous_Phenomena</a>  
 
 25. <a id="endnote-25"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/sites/default/files/Compte%20rendu%20enquete9.pdf](https://www.cnes-geipan.fr/sites/default/files/Compte%20rendu%20enquete9.pdf)  
+   Link: <a href="https://www.cnes-geipan.fr/sites/default/files/Compte%20rendu%20enquete9.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/Compte%20rendu%20enquete9.pdf</a>  
 
 26. <a id="endnote-26"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/fr/node/58787](https://www.cnes-geipan.fr/fr/node/58787)  
+   Link: <a href="https://www.cnes-geipan.fr/fr/node/58787" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/node/58787</a>  
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/26863639499938432/posts/27209432368692475/](https://www.facebook.com/groups/26863639499938432/posts/27209432368692475/)  
+   Link: <a href="https://www.facebook.com/groups/26863639499938432/posts/27209432368692475/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/26863639499938432/posts/27209432368692475/</a>  
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/southwestfrance/posts/1342464920438589/](https://www.facebook.com/groups/southwestfrance/posts/1342464920438589/)  
+   Link: <a href="https://www.facebook.com/groups/southwestfrance/posts/1342464920438589/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/southwestfrance/posts/1342464920438589/</a>  
 
 29. <a id="endnote-29"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/en/missions-methodes-et-resultats](https://www.cnes-geipan.fr/en/missions-methodes-et-resultats)  
+   Link: <a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
 
 30. <a id="endnote-30"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/en/node/58792](https://www.cnes-geipan.fr/en/node/58792)  
+   Link: <a href="https://www.cnes-geipan.fr/en/node/58792" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58792</a>

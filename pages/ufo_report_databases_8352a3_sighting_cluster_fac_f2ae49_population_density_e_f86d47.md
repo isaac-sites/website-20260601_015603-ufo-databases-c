@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /clusters/
 nav_short_title: Population Density
 title: Why Denser Populations Produce More UFO Sightings
-title_full: Why Denser Populations Produce More UFO Sightings | Clusters
+title_full: Why Denser Populations Produce More UFO Sightings
 display_title_short: Population Density
 display_title: Population Density
 heading_title: Why Denser Populations Produce More UFO Sightings
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 00:19:50'
-parent_title: Why UFO Sightings Cluster on the Map | UFO Archives
+parent_title: Why UFO Sightings Cluster on the Map
 parent_permalink: /clusters/
 parent_nav_short_title: Clusters
 parent_heading_title: Why UFO Sightings Cluster on the Map
@@ -276,16 +276,14 @@ image: /assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_po
 
 Population density shapes UFO report clustering because UFO databases record **reported sightings**, not sightings independent of witnesses. Dense areas supply more potential observers, more internet access, more local discussion, and more chances for a single ambiguous light or aircraft to become a database entry. Raw maps of public catalogues such as [NUFORC]({{ 'nuforc/' | relative_url }}) therefore often resemble maps of where people live. Yet the relationship is not simple: some studies find more total reports in populated areas, while per-capita or model-adjusted analyses can highlight rural regions where reports are unusually frequent for the number of residents. The key point is that population density is a baseline variable: before treating a UFO cluster as anomalous, analysts need to ask whether it is mainly a cluster of people, reporting habits, and skywatching opportunity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofscientificexploration.org/index.php/jse/article/view/812" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[journalofscientificexploration.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">In the search for patterns of the UFO phenomenon, the geographical distribution has shown contradictory results.Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_population_density_e_f86d47-Illustration-1-dark.svg" | relative_url }}" alt="Population Density illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_population_density_e_f86d47-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_population_density_e_f86d47-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Population as a Witness Pool
 
 The simplest mechanism is also the most important: more people create more opportunities for someone to notice, interpret, and submit an aerial observation. A review of geographical UFO-report studies found that the relationship between reports and population density has long produced apparently contradictory findings, but those contradictions can often be reconciled by distinguishing raw report totals from rates adjusted for population. In raw counts, more populated places tend to generate more reports because there are more witnesses available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofscientificexploration.org/index.php/jse/article/view/3551/2205" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[journalofscientificexploration.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Open source on journalofscientificexploration.org.</span></span></span>
 
-NUFORC’s own public location index illustrates the raw-count effect. Large-population states such as California and Florida appear near the top of the report totals, while less populated areas generally have fewer entries. That does not prove that more unusual objects appear over those places; it shows that large public sighting catalogues are strongly shaped by where observers are concentrated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</span></span></span>
+NUFORC’s own public location index illustrates the raw-count effect. Large-population states such as California and Florida appear near the top of the report totals, while less populated areas generally have fewer entries. That does not prove that more unusual objects appear over those places; it shows that large public sighting catalogues are strongly shaped by where observers are concentrated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</span></span></span>
 
 This matters because “cluster” can mean two different things. A cluster of reports in a city may simply reflect a large witness pool. A cluster that remains strong after population adjustment is more analytically interesting, because it suggests that something beyond population alone may be influencing reports: sky visibility, local aircraft activity, tourism, regional UFO culture, internet access, or unusual repeated events.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JvqoodXDZjE" title="WATCH: Meet the people who research suspected UFO sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JvqoodXDZjE" target="_blank" rel="noopener noreferrer">WATCH: Meet the people who research suspected UFO sightings</a></p><p class="youtube-embed-meta">Channel: KENS 5: Your San Antonio News Source &middot; Views: 10.0K &middot; Uploaded: November 2022 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JvqoodXDZjE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JvqoodXDZjE">Open on YouTube</a></p></div></div></div>
 
@@ -293,12 +291,11 @@ This matters because “cluster” can mean two different things. A cluster of r
 
 A raw dot map of UFO reports is visually persuasive but statistically risky. If every report is plotted as a point, dense cities and suburbs naturally glow brighter. The viewer may read this as a map of unexplained activity, when it is often closer to a map of **human opportunity to report**.
 
-This is why several modern analyses use population-normalised rates, such as reports per 10,000 people, or model expected report counts against local demographic [baselines]({{ 'baselines/' | relative_url }}). The 2023 Scientific Reports study of more than 98,000 public UAP reports examined county-level reporting rates rather than simply counting reports, allowing the authors to compare places with very different population sizes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureAn environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — The dependent variable includes ov...</span></span></span>
+This is why several modern analyses use population-normalised rates, such as reports per 10,000 people, or model expected report counts against local demographic [baselines]({{ 'baselines/' | relative_url }}). The 2023 Scientific Reports study of more than 98,000 public UAP reports examined county-level reporting rates rather than simply counting reports, allowing the authors to compare places with very different population sizes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — The dependent variable includes ov...</span></span></span>
 
 The RAND Corporation’s 2023 analysis of 101,151 NUFORC reports likewise treated public UAP reporting as a geographical pattern requiring controls. Its findings complicate the simple “more population equals more UFOs” assumption: after modelling report likelihood across U.S. census designated places, RAND found reports were less likely in more densely populated areas, while rural areas tended to show higher report rates. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-title">RRA2475 1</span><span class="citation-popover-snippet">RRA2475 1</span></span></span>
 
 That result does not overturn the witness-pool effect. It shows the difference between **total reports** and **report rates**. Big cities can generate many reports in absolute terms while rural areas may produce more reports per resident, especially where skies are darker, horizons are more open, or people spend more time outdoors.
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_population_density_e_f86d47-Illustration-2-dark.svg" | relative_url }}" alt="Population Density illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_population_density_e_f86d47-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_population_density_e_f86d47-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Social and Cultural Reporting Factors
@@ -308,7 +305,6 @@ Population density also affects reporting through social transmission. In dense 
 A study of 80,332 UFO reports from 1906 to 2014 found that reporting patterns were sensitive to media broadcasts and to human reporting behaviour, not just to the original sighting event. This supports the view that UFO databases partly measure public attention and willingness to report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Dense population does not automatically mean stronger reporting culture, however. Some rural regions have powerful UFO associations, military folklore, dark-sky recreation, or local tourism tied to anomalous phenomena. The American West is a good example: the University of Utah summary of the Scientific Reports analysis noted high per-capita reporting [clusters]({{ 'clusters/' | relative_url }}) in the West and far Northeast, with cold spots in parts of the central plains and Southeast. <span class="citation-chip-wrap"><a class="citation-chip" href="https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: attheu.utah.edu">[attheu.utah.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">attheu.utah.edu</span><span class="citation-popover-title">The West is best to spot UFOs</span><span class="citation-popover-snippet">The West is best to spot UFOs</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Xjsng_aBBxg" title="LIVE | The TRUTH About Donald Trump&#x27;s UFO Shocker | US Congress Hearing on UFOs | UAP or UFO | N18G" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Xjsng_aBBxg" target="_blank" rel="noopener noreferrer">LIVE | The TRUTH About Donald Trump&#x27;s UFO Shocker | US Congress Hearing on UFOs | UAP or UFO | N18G</a></p><p class="youtube-embed-meta">Channel: CNN-News18 &middot; Views: 131.0K &middot; Uploaded: June 2025 &middot; Length: 2 hours 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Xjsng_aBBxg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Xjsng_aBBxg">Open on YouTube</a></p></div></div></div>
 
@@ -320,12 +316,10 @@ In cities, common sources of misidentification include aircraft, drones, adverti
 
 In rural areas, fewer people may be offset by darker skies, wider horizons, outdoor work, camping, hunting, stargazing, or proximity to military training airspace. RAND’s strongest and most consistent finding was that UAP reports were more likely within 30 km of military operations areas, suggesting that some rural or semi-rural clusters may reflect exposure to aircraft activity rather than population density alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-title">RAND RRA2475 1</span><span class="citation-popover-snippet">RAND RRA2475 1</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_population_density_e_f86d47-Illustration-3-dark.svg" | relative_url }}" alt="Population Density illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_population_density_e_f86d47-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_population_density_e_f86d47-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Analysts Should Use Population Density
 
 Population density is best treated as a control variable, not a final explanation. A useful interpretation of UFO report clustering usually asks:
-
 
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
@@ -338,9 +332,7 @@ Population density is best treated as a control variable, not a final explanatio
 
 This approach keeps UFO catalogue analysis grounded. It avoids treating every dense report patch as mysterious, but it also avoids dismissing all clusters as mere population effects. Population density explains much of the baseline pattern, while the most interesting cases are those where reporting remains unusually high or low after population, visibility, and local activity are considered.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VmVf2Axe6as" title="UAP Data Analysis On 80,000 Sightings! | Don Tadaya" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VmVf2Axe6as" target="_blank" rel="noopener noreferrer">UAP Data Analysis On 80,000 Sightings! | Don Tadaya</a></p><p class="youtube-embed-meta">Channel: Tim Ventura &middot; Views: 9.1K &middot; Uploaded: May 2023 &middot; Length: 54 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VmVf2Axe6as" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VmVf2Axe6as">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -738,75 +730,75 @@ This approach keeps UFO catalogue analysis grounded. It avoids treating every de
 
 1. <a id="endnote-1"></a>
    Source: journalofscientificexploration.org  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/812](https://journalofscientificexploration.org/index.php/jse/article/view/812)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/812" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/812</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In the search for patterns of the UFO phenomenon, the geographical distribution has shown contradictory results.Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports by Location  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationAugust 20, 2023 — NUFORC Reports by Location; USA - Arizona, 5349; USA - California, 17169; USA - Colorado...</p></details>
    Published: August 20, 2023  
 
 4. <a id="endnote-4"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-023-49527-x](https://www.nature.com/articles/s41598-023-49527-x)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureAn environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — The dependent variable includes ov...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-49527-x</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — The dependent variable includes ov...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: rand.org  
    Title: RRA2475 1  
-   Link: [https://www.rand.org/pubs/research_reports/RRA2475-1.html](https://www.rand.org/pubs/research_reports/RRA2475-1.html)  
+   Link: <a href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/research_reports/RRA2475-1.html</a>  
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295](https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295</a>  
 
 7. <a id="endnote-7"></a>
    Source: attheu.utah.edu  
    Title: The West is best to spot UFOs  
-   Link: [https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/](https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/)  
+   Link: <a href="https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/</a>  
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/newmap/](https://nuforc.org/newmap/)  
+   Link: <a href="https://nuforc.org/newmap/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/newmap/</a>  
 
 9. <a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
 10. <a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/spatial/](https://nuforc.org/spatial/)  
+   Link: <a href="https://nuforc.org/spatial/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/spatial/</a>  
 
 11. <a id="endnote-11"></a>
    Source: rand.org  
    Title: RAND RRA2475 1  
-   Link: [https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf](https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf)  
+   Link: <a href="https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41599-024-04182-z](https://www.nature.com/articles/s41599-024-04182-z)  
+   Link: <a href="https://www.nature.com/articles/s41599-024-04182-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-024-04182-z</a>  
 
 13. <a id="endnote-13"></a>
    Source: journalofscientificexploration.org  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/3551/2205](https://journalofscientificexploration.org/index.php/jse/article/view/3551/2205)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/3551/2205" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/3551/2205</a>  
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: UAP Data Analysis On 80,000 Sightings! | Don Tadaya  
-   Link: [https://www.youtube.com/watch?v=VmVf2Axe6as](https://www.youtube.com/watch?v=VmVf2Axe6as)  
+   Link: <a href="https://www.youtube.com/watch?v=VmVf2Axe6as" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VmVf2Axe6as</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LIVE | The TRUTH About Donald Trump&#x27;s UFO Shocker | US Congress Hearing on UFOs | UAP or UFO...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Xjsng_aBBxg](https://www.youtube.com/watch?v=Xjsng_aBBxg)  
+   Link: <a href="https://www.youtube.com/watch?v=Xjsng_aBBxg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xjsng_aBBxg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WATCH: Meet the people who research suspected UFO sightings...</p></details>
 
 ### Additional References
@@ -814,47 +806,47 @@ This approach keeps UFO catalogue analysis grounded. It avoids treating every de
 16. <a id="endnote-16"></a>
    Source: sciencenews.org  
    Title: Science News Scientists are getting serious about UFOs  
-   Link: [https://www.sciencenews.org/article/scientists-serious-ufo-uap-security](https://www.sciencenews.org/article/scientists-serious-ufo-uap-security)  
+   Link: <a href="https://www.sciencenews.org/article/scientists-serious-ufo-uap-security" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencenews.org/article/scientists-serious-ufo-uap-security</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s why7 Aug 2024 — An analysis of nearly 99,000 reported UAP sightings pinpointed U.S. counties with a particularly high number of re...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: [MUFON](&#123;&#123; 'mufon/' | relative_url &#125;&#125;) – The Truth Behind UFOs and Alien Encounters  
-   Link: [https://www.youtube.com/watch?v=PSgTuE7HFx0](https://www.youtube.com/watch?v=PSgTuE7HFx0)  
+   Link: <a href="https://www.youtube.com/watch?v=PSgTuE7HFx0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PSgTuE7HFx0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Utah UFO sighting map population density Is that UFO??!😰#googlemaps Explore The Universe...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: WATCH: Meet the people who research suspected UFO sightings  
-   Link: [https://www.youtube.com/watch?v=JvqoodXDZjE](https://www.youtube.com/watch?v=JvqoodXDZjE)  
+   Link: <a href="https://www.youtube.com/watch?v=JvqoodXDZjE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JvqoodXDZjE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON Unmasks the Truth! | UFO&#x27;s Over Earth | Discovery Channel...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: MUFON Unmasks the Truth! | UFO's Over Earth | Discovery Channel  
-   Link: [https://www.youtube.com/watch?v=NJdt9Dxvfvo](https://www.youtube.com/watch?v=NJdt9Dxvfvo)  
+   Link: <a href="https://www.youtube.com/watch?v=NJdt9Dxvfvo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NJdt9Dxvfvo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON – The Truth Behind UFOs and Alien Encounters...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1396529487421974/posts/2169736926767889/](https://www.facebook.com/groups/1396529487421974/posts/2169736926767889/)  
+   Link: <a href="https://www.facebook.com/groups/1396529487421974/posts/2169736926767889/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1396529487421974/posts/2169736926767889/</a>  
 
 21. <a id="endnote-21"></a>
    Source: medium.com  
-   Link: [https://medium.com/data-science/data-analysis-everything-youve-ever-wanted-to-know-about-ufo-sightings-e16f2ed34151](https://medium.com/data-science/data-analysis-everything-youve-ever-wanted-to-know-about-ufo-sightings-e16f2ed34151)  
+   Link: <a href="https://medium.com/data-science/data-analysis-everything-youve-ever-wanted-to-know-about-ufo-sightings-e16f2ed34151" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/data-science/data-analysis-everything-youve-ever-wanted-to-know-about-ufo-sightings-e16f2ed34151</a>  
 
 22. <a id="endnote-22"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/MapPorn/comments/1thusij/europes_ufo_reports_map/](https://www.reddit.com/r/MapPorn/comments/1thusij/europes_ufo_reports_map/)  
+   Link: <a href="https://www.reddit.com/r/MapPorn/comments/1thusij/europes_ufo_reports_map/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/MapPorn/comments/1thusij/europes_ufo_reports_map/</a>  
 
 23. <a id="endnote-23"></a>
    Source: github.com  
-   Link: [https://github.com/lazell/ufo_reports](https://github.com/lazell/ufo_reports)  
+   Link: <a href="https://github.com/lazell/ufo_reports" target="_blank" rel="noopener noreferrer nofollow">https://github.com/lazell/ufo_reports</a>  
 
 24. <a id="endnote-24"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40katie.lazell/more-than-meets-the-eye-unsupervised-learning-on-ufo-reports-part-i-f1f5320cc244](https://medium.com/%40katie.lazell/more-than-meets-the-eye-unsupervised-learning-on-ufo-reports-part-i-f1f5320cc244)  
+   Link: <a href="https://medium.com/%40katie.lazell/more-than-meets-the-eye-unsupervised-learning-on-ufo-reports-part-i-f1f5320cc244" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40katie.lazell/more-than-meets-the-eye-unsupervised-learning-on-ufo-reports-part-i-f1f5320cc244</a>  
 
 25. <a id="endnote-25"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/361615025_On_the_dynamics_of_reporting_data_A_case_study_of_UFO_sightings](https://www.researchgate.net/publication/361615025_On_the_dynamics_of_reporting_data_A_case_study_of_UFO_sightings)  
+   Link: <a href="https://www.researchgate.net/publication/361615025_On_the_dynamics_of_reporting_data_A_case_study_of_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/361615025_On_the_dynamics_of_reporting_data_A_case_study_of_UFO_sightings</a>

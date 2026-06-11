@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /nuforc/
 nav_short_title: Location Accuracy
 title: How Imprecise Locations Affect UFO Sighting Analyses
-title_full: How Imprecise Locations Affect UFO Sighting Analyses | NUFORC
+title_full: How Imprecise Locations Affect UFO Sighting Analyses
 display_title_short: Location Accuracy
 display_title: Location Accuracy
 heading_title: How Imprecise Locations Affect UFO Sighting Analyses
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 18:33:01'
-parent_title: What NUFORC Reports Can Really Tell You | UFO Archives
+parent_title: What NUFORC Reports Can Really Tell You
 parent_permalink: /nuforc/
 parent_nav_short_title: NUFORC
 parent_heading_title: What NUFORC Reports Can Really Tell You
@@ -268,16 +268,14 @@ image: /assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271_nuforc_
 
 ## Introduction
 
-Location data are among the most important fields in the National UFO Reporting Center ([NUFORC]({{ 'nuforc/' | relative_url }})) database, yet they are also one of its most persistent weaknesses. Many analyses of UFO sighting reports depend on knowing where an observation occurred so it can be compared with airports, military training areas, launch sites, satellite tracks, [population density]({{ 'population-density/' | relative_url }}), and other real-world factors. When location information is limited to a town name, an approximate area, or a broadly geocoded point, apparent patterns can become misleading. A report that appears to occur near an air force base may in reality have been dozens of kilometres away, while a supposed cluster around an airport may partly reflect the way locations were recorded rather than where witnesses actually stood. For researchers using NUFORC as a dataset rather than a collection of individual stories, location precision is therefore a major source of uncertainty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/reportform/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">UFO Sighting Report Form | NUFORCSIGHTING DATE AND TIME · SIGHTING LOCATION · DESCRIBE WHAT YOU SAW · TELL US ABOUT YOU · ADD IMAGES OR V...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/reportform-wp/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">UFO Sighting Report Form | NUFORCENTER DATE AND LOCATION. Sighting Date / Time *. Date. Time. Confidence. If you do not know the exact da...</span></span></span>
-
+Location data are among the most important fields in the National UFO Reporting Center ([NUFORC]({{ 'nuforc/' | relative_url }})) database, yet they are also one of its most persistent weaknesses. Many analyses of UFO sighting reports depend on knowing where an observation occurred so it can be compared with airports, military training areas, launch sites, satellite tracks, [population density]({{ 'population-density/' | relative_url }}), and other real-world factors. When location information is limited to a town name, an approximate area, or a broadly geocoded point, apparent patterns can become misleading. A report that appears to occur near an air force base may in reality have been dozens of kilometres away, while a supposed cluster around an airport may partly reflect the way locations were recorded rather than where witnesses actually stood. For researchers using NUFORC as a dataset rather than a collection of individual stories, location precision is therefore a major source of uncertainty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/reportform/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">UFO Sighting Report Form &#124; NUFORCSIGHTING DATE AND TIME · SIGHTING LOCATION · DESCRIBE WHAT YOU SAW · TELL US ABOUT YOU · ADD IMAGES OR V...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/reportform-wp/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">UFO Sighting Report Form &#124; NUFORCENTER DATE AND LOCATION. Sighting Date / Time *. Date. Time. Confidence. If you do not know the exact da...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271_nuforc_location_prec_e9fb50-Illustration-1-dark.svg" | relative_url }}" alt="Location Accuracy illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271_nuforc_location_prec_e9fb50-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271_nuforc_location_prec_e9fb50-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Reporting Methods and Location Options
 
 NUFORC's modern reporting system explicitly asks witnesses to provide a sighting location and encourages them to be as precise as possible. The current form requests the location where the sighting occurred and allows a map-based location marker. NUFORC's guidance states that observers should enter the address where the sighting occurred or drag a map pin to identify the specific location. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lWA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for State WANUFORC Reports for State WA. Link, Occurred, City, State, Country, Shape, Summary, Reported, Media, Explanatio...</span></span></span>
 
-In practice, however, the historical database contains reports submitted under different forms, standards, and technologies over many decades. Many publicly accessible records are organised around city, state, and country fields rather than exact coordinates. Researchers who create downloadable versions of NUFORC data often have to geocode reports afterwards by assigning latitude and longitude values to reported cities. Several public NUFORC-derived datasets describe their location information in terms of city-level records that were later standardised into coordinates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://github.com/timothyrenner/nuforc_sightings_data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-snippet">GitHubtimothyrenner/nuforc_sightings_data: Data collection and...The Nationa UFO Research Center (NUFORC) maintains an online database o...</span></span></span> Kaggle This creates an important distinction: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kaggle.com">[kaggle.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kaggle.com</span><span class="citation-popover-snippet">uding the time, location duration...Read more...</span></span></span>
-
+In practice, however, the historical database contains reports submitted under different forms, standards, and technologies over many decades. Many publicly accessible records are organised around city, state, and country fields rather than exact coordinates. Researchers who create downloadable versions of NUFORC data often have to geocode reports afterwards by assigning latitude and longitude values to reported cities. Several public NUFORC-derived datasets describe their location information in terms of city-level records that were later standardised into coordinates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://github.com/timothyrenner/nuforc_sightings_data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-snippet">timothyrenner/nuforc_sightings_data: Data collection and...The Nationa UFO Research Center (NUFORC) maintains an online database o...</span></span></span> Kaggle This creates an important distinction: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kaggle.com">[kaggle.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kaggle.com</span><span class="citation-popover-snippet">uding the time, location duration...Read more...</span></span></span>
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -287,8 +285,7 @@ In practice, however, the historical database contains reports submitted under d
 
 </div>
 
-These three locations may not be identical. A witness might report a sighting from a rural area outside a municipality, while a cleaned dataset places the event at the geographic centre of the nearest town. The resulting coordinate can appear highly precise despite being only an approximation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://github.com/timothyrenner/nuforc_sightings_data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-snippet">GitHubtimothyrenner/nuforc_sightings_data: Data collection and...The Nationa UFO Research Center (NUFORC) maintains an online database o...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://github.com/timothyrenner/nuforc_sightings_data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-snippet">GitHubtimothyrenner/nuforc_sightings_data: Data collection and...The Nationa UFO Research Center (NUFORC) maintains an online database o...</span></span></span>
-
+These three locations may not be identical. A witness might report a sighting from a rural area outside a municipality, while a cleaned dataset places the event at the geographic centre of the nearest town. The resulting coordinate can appear highly precise despite being only an approximation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://github.com/timothyrenner/nuforc_sightings_data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-snippet">timothyrenner/nuforc_sightings_data: Data collection and...The Nationa UFO Research Center (NUFORC) maintains an online database o...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://github.com/timothyrenner/nuforc_sightings_data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-snippet">timothyrenner/nuforc_sightings_data: Data collection and...The Nationa UFO Research Center (NUFORC) maintains an online database o...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/N_IV76eU0Bk" title="Tutorial 4: Making Density (Heat) Maps and Origin-Destination Maps in Tableau" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=N_IV76eU0Bk" target="_blank" rel="noopener noreferrer">Tutorial 4: Making Density (Heat) Maps and Origin-Destination Maps in Tableau</a></p><p class="youtube-embed-meta">Channel: Will Jones &middot; Views: 715 &middot; Uploaded: December 2021 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=N_IV76eU0Bk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=N_IV76eU0Bk">Open on YouTube</a></p></div></div></div>
 
@@ -296,8 +293,7 @@ These three locations may not be identical. A witness might report a sighting fr
 
 The most common use of location data in UFO research is proximity analysis: measuring whether reports occur unusually often near certain facilities or activities. This is where location precision matters most.
 
-Consider a report assigned to a city centre coordinate. If the city spans a large geographic area, the actual observer could have been many kilometres from that point. A report geocoded to a municipal centre might appear close to an airport, military installation, launch facility, or restricted airspace even when the witness was observing from a completely different location. The reverse can also occur: a genuine proximity relationship may disappear because all reports have been collapsed into a single city-level coordinate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://github.com/timothyrenner/nuforc_sightings_data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-snippet">GitHubtimothyrenner/nuforc_sightings_data: Data collection and...The Nationa UFO Research Center (NUFORC) maintains an online database o...</span></span></span> GitHub This problem becomes especially significant when analysts investigate: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://github.com/timothyrenner/nuforc_sightings_data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[github.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-snippet">GitHubtimothyrenner/nuforc_sightings_data: Data collection and...The Nationa UFO Research Center (NUFORC) maintains an online database o...</span></span></span>
-
+Consider a report assigned to a city centre coordinate. If the city spans a large geographic area, the actual observer could have been many kilometres from that point. A report geocoded to a municipal centre might appear close to an airport, military installation, launch facility, or restricted airspace even when the witness was observing from a completely different location. The reverse can also occur: a genuine proximity relationship may disappear because all reports have been collapsed into a single city-level coordinate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://github.com/timothyrenner/nuforc_sightings_data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-snippet">timothyrenner/nuforc_sightings_data: Data collection and...The Nationa UFO Research Center (NUFORC) maintains an online database o...</span></span></span> GitHub This problem becomes especially significant when analysts investigate: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://github.com/timothyrenner/nuforc_sightings_data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[github.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-snippet">timothyrenner/nuforc_sightings_data: Data collection and...The Nationa UFO Research Center (NUFORC) maintains an online database o...</span></span></span>
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -311,16 +307,14 @@ Consider a report assigned to a city centre coordinate. If the city spans a larg
 
 Many of these features operate on scales where a few kilometres can substantially change an interpretation. A report recorded only as occurring in a particular town may not support precise claims about nearby infrastructure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">This research uses data from the National UFO Reporting Center (NUFORC) online. NUFORC was formed in 1974 and “...Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271_nuforc_location_prec_e9fb50-Illustration-2-dark.svg" | relative_url }}" alt="Location Accuracy illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271_nuforc_location_prec_e9fb50-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271_nuforc_location_prec_e9fb50-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Hidden Problem of Artificial Clusters
 
 Maps of NUFORC reports can create a strong visual impression of hotspots. However, some apparent [clusters]({{ 'clusters/' | relative_url }}) may arise from reporting conventions rather than observation patterns.
 
-When researchers convert city names into coordinates, multiple reports can be assigned to exactly the same point. A town that receives numerous reports over time may therefore appear as a dense concentration on a map even though witnesses were scattered throughout a much larger area. Projects that geocode NUFORC reports frequently acknowledge that standardisation and location enhancement are necessary steps because the [original records]({{ 'source-trails/' | relative_url }}) do not always contain directly usable coordinates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://github.com/timothyrenner/nuforc_sightings_data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-snippet">GitHubtimothyrenner/nuforc_sightings_data: Data collection and...The Nationa UFO Research Center (NUFORC) maintains an online database o...</span></span></span>
+When researchers convert city names into coordinates, multiple reports can be assigned to exactly the same point. A town that receives numerous reports over time may therefore appear as a dense concentration on a map even though witnesses were scattered throughout a much larger area. Projects that geocode NUFORC reports frequently acknowledge that standardisation and location enhancement are necessary steps because the original records do not always contain directly usable coordinates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://github.com/timothyrenner/nuforc_sightings_data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-snippet">timothyrenner/nuforc_sightings_data: Data collection and...The Nationa UFO Research Center (NUFORC) maintains an online database o...</span></span></span>
 
 This issue is particularly visible in:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -331,8 +325,7 @@ This issue is particularly visible in:
 
 </div>
 
-The result is that visual clustering can sometimes reflect database structure as much as real observational geography. Analysts who treat every plotted point as an exact sighting location risk overstating the precision of their findings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://github.com/timothyrenner/nuforc_sightings_data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-snippet">GitHubtimothyrenner/nuforc_sightings_data: Data collection and...The Nationa UFO Research Center (NUFORC) maintains an online database o...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cs.ubc.ca/~tmm/courses/547-17F/projects/hayley-theodore/report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cs.ubc.ca">[2cs.ubc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cs.ubc.ca</span><span class="citation-popover-snippet">s pre-processed using python and necessary fields including datetime, duration, shape, latitude...Read more...</span></span></span>
-
+The result is that visual clustering can sometimes reflect database structure as much as real observational geography. Analysts who treat every plotted point as an exact sighting location risk overstating the precision of their findings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://github.com/timothyrenner/nuforc_sightings_data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-snippet">timothyrenner/nuforc_sightings_data: Data collection and...The Nationa UFO Research Center (NUFORC) maintains an online database o...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cs.ubc.ca/~tmm/courses/547-17F/projects/hayley-theodore/report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cs.ubc.ca">[2cs.ubc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cs.ubc.ca</span><span class="citation-popover-snippet">s pre-processed using python and necessary fields including datetime, duration, shape, latitude...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/W3xQBkCQnSI" title="Power BI | DAX Query View | Map &amp; Line Charts | UFO Sightings Dataset | Video 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=W3xQBkCQnSI" target="_blank" rel="noopener noreferrer">Power BI | DAX Query View | Map &amp; Line Charts | UFO Sightings Dataset | Video 2</a></p><p class="youtube-embed-meta">Channel: Linknet Analytics &middot; Views: 49 &middot; Uploaded: November 2024 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=W3xQBkCQnSI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=W3xQBkCQnSI">Open on YouTube</a></p></div></div></div>
 
@@ -344,7 +337,6 @@ NUFORC's database spans many decades and includes reports submitted long after t
 
 The problem becomes compounded when a sighting is reported years after it occurred. Witnesses may remember the town or region but not the precise observation point. Even if the narrative remains sincere, the geographic accuracy can deteriorate substantially over time. This makes historical hotspot analysis particularly vulnerable to location uncertainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-title">RAND RRA2475 1</span><span class="citation-popover-snippet">RAND CorporationMapping Public Reports of Unidentified Aerial Phenomena...by MN POSARD · 2023 · Cited by 4 — There is no limit on the am...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-avvuEENEI8" title="UFO Sightings Visualization Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-avvuEENEI8" target="_blank" rel="noopener noreferrer">UFO Sightings Visualization Demo</a></p><p class="youtube-embed-meta">Channel: Alex House &middot; Views: 18 &middot; Uploaded: April 2024 &middot; Length: 4 minutes 27 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-avvuEENEI8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-avvuEENEI8">Open on YouTube</a></p></div></div></div>
 
 ## How Researchers Can Interpret Approximate Locations More Carefully
@@ -353,19 +345,18 @@ Location imprecision does not make NUFORC useless. It changes the level of confi
 
 A cautious approach includes several practices:
 
-**Treat coordinates as estimates unless their source is known.** Many publicly available NUFORC datasets include latitude and longitude values, but those coordinates are often generated through geocoding rather than supplied directly by witnesses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://github.com/timothyrenner/nuforc_sightings_data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-snippet">GitHubtimothyrenner/nuforc_sightings_data: Data collection and...The Nationa UFO Research Center (NUFORC) maintains an online database o...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kaggle.com/datasets/NUFORC/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kaggle.com">[Kaggle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kaggle.com</span><span class="citation-popover-snippet">KaggleUFO SightingsSince the reports date back to the 20th century, some older data might be obscured. Data contains city, state, time, d...</span></span></span>
+**Treat coordinates as estimates unless their source is known.** Many publicly available NUFORC datasets include latitude and longitude values, but those coordinates are often generated through geocoding rather than supplied directly by witnesses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://github.com/timothyrenner/nuforc_sightings_data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-snippet">timothyrenner/nuforc_sightings_data: Data collection and...The Nationa UFO Research Center (NUFORC) maintains an online database o...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kaggle.com/datasets/NUFORC/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kaggle.com">[Kaggle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kaggle.com</span><span class="citation-popover-snippet">UFO SightingsSince the reports date back to the 20th century, some older data might be obscured. Data contains city, state, time, d...</span></span></span>
 
 **Use distance bands rather than exact proximity claims.** Instead of claiming a sighting occurred next to an airport or military facility, analysts can examine broader zones that account for location uncertainty. This reduces the risk of overinterpreting small differences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">This research uses data from the National UFO Reporting Center (NUFORC) online. NUFORC was formed in 1974 and “...Read more...</span></span></span>
 
-**Read the narrative text.** Free-text descriptions sometimes contain geographic clues absent from structured fields, such as references to roads, coastlines, landmarks, mountains, or viewing directions. These details may provide a more realistic sense of location than the database coordinate alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</span></span></span>
+**Read the narrative text.** Free-text descriptions sometimes contain geographic clues absent from structured fields, such as references to roads, coastlines, landmarks, mountains, or viewing directions. These details may provide a more realistic sense of location than the database coordinate alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</span></span></span>
 
-**Separate exact-location reports from approximate-location reports.** Analyses become more reliable when records with map-pinned locations, detailed addresses, or clearly identified observation points are distinguished from city-level entries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/madar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">MADAR Report Form | NUFORCSighting Date / Time * · Duration * · Sighting Location * · Sighting Details * · Madar Node Number · Name * · E...</span></span></span>
-
+**Separate exact-location reports from approximate-location reports.** Analyses become more reliable when records with map-pinned locations, detailed addresses, or clearly identified observation points are distinguished from city-level entries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/madar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">MADAR Report Form &#124; NUFORCSighting Date / Time * · Duration * · Sighting Location * · Sighting Details * · Madar Node Number · Name * · E...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271_nuforc_location_prec_e9fb50-Illustration-3-dark.svg" | relative_url }}" alt="Location Accuracy illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271_nuforc_location_prec_e9fb50-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271_nuforc_location_prec_e9fb50-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Location Accuracy Can and Cannot Support
 
-The strength of NUFORC's location data lies in broad regional analysis rather than fine-grained geographic claims. The database can often support questions such as whether reports are concentrated in certain states, metropolitan regions, or population corridors. It is much less reliable for determining whether a particular report occurred within a few kilometres of a military installation, airport perimeter, or launch complex unless the underlying location information is exceptionally detailed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">This research uses data from the National UFO Reporting Center (NUFORC) online. NUFORC was formed in 1974 and “...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://github.com/planetsig/ufo-reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-title">ufo reports</span><span class="citation-popover-snippet">GitHubplanetsig/ufo-reportsNUFORC geolocated and time standardized ufo reports for close to a century of data. 80000 plus reports. - plan...</span></span></span>
+The strength of NUFORC's location data lies in broad regional analysis rather than fine-grained geographic claims. The database can often support questions such as whether reports are concentrated in certain states, metropolitan regions, or population corridors. It is much less reliable for determining whether a particular report occurred within a few kilometres of a military installation, airport perimeter, or launch complex unless the underlying location information is exceptionally detailed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">This research uses data from the National UFO Reporting Center (NUFORC) online. NUFORC was formed in 1974 and “...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://github.com/planetsig/ufo-reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-title">ufo reports</span><span class="citation-popover-snippet">planetsig/ufo-reportsNUFORC geolocated and time standardized ufo reports for close to a century of data. 80000 plus reports. - plan...</span></span></span>
 
 For that reason, location precision gaps should be viewed as a core analytical risk rather than a minor technical issue. In studies of UFO reports, the difference between a city-level approximation and a verified observation point can determine whether an apparent correlation reflects a genuine pattern or merely the limits of the underlying data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">This research uses data from the National UFO Reporting Center (NUFORC) online. NUFORC was formed in 1974 and “...Read more...</span></span></span>
 
@@ -749,173 +740,173 @@ For that reason, location precision gaps should be viewed as a core analytical r
 
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/reportform/](https://nuforc.org/reportform/)  
+   Link: <a href="https://nuforc.org/reportform/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/reportform/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting Report Form | NUFORCSIGHTING DATE AND TIME · SIGHTING LOCATION · DESCRIBE WHAT YOU SAW · TELL US ABOUT YOU · ADD IMAGES OR V...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/reportform-wp/](https://nuforc.org/reportform-wp/)  
+   Link: <a href="https://nuforc.org/reportform-wp/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/reportform-wp/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting Report Form | NUFORCENTER DATE AND LOCATION. Sighting Date / Time *. Date. Time. Confidence. If you do not know the exact da...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This research uses data from the National UFO Reporting Center (NUFORC) online. NUFORC was formed in 1974 and “...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: github.com  
-   Link: [https://github.com/timothyrenner/nuforc_sightings_data](https://github.com/timothyrenner/nuforc_sightings_data)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GitHubtimothyrenner/nuforc_sightings_data: Data collection and...The Nationa UFO Research Center (NUFORC) maintains an online database o...</p></details>
+   Link: <a href="https://github.com/timothyrenner/nuforc_sightings_data" target="_blank" rel="noopener noreferrer nofollow">https://github.com/timothyrenner/nuforc_sightings_data</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>timothyrenner/nuforc_sightings_data: Data collection and...The Nationa UFO Research Center (NUFORC) maintains an online database o...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: kaggle.com  
-   Link: [https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings](https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings)  
+   Link: <a href="https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>uding the time, location duration...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: github.com  
    Title: ufo reports  
-   Link: [https://github.com/planetsig/ufo-reports](https://github.com/planetsig/ufo-reports)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GitHubplanetsig/ufo-reportsNUFORC geolocated and time standardized ufo reports for close to a century of data. 80000 plus reports. - plan...</p></details>
+   Link: <a href="https://github.com/planetsig/ufo-reports" target="_blank" rel="noopener noreferrer nofollow">https://github.com/planetsig/ufo-reports</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>planetsig/ufo-reportsNUFORC geolocated and time standardized ufo reports for close to a century of data. 80000 plus reports. - plan...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: rand.org  
    Title: RAND RRA2475 1  
-   Link: [https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf](https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf)  
+   Link: <a href="https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>RAND CorporationMapping Public Reports of Unidentified Aerial Phenomena...by MN POSARD · 2023 · Cited by 4 — There is no limit on the am...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: cs.ubc.ca  
-   Link: [https://www.cs.ubc.ca/~tmm/courses/547-17F/projects/hayley-theodore/report.pdf](https://www.cs.ubc.ca/~tmm/courses/547-17F/projects/hayley-theodore/report.pdf)  
+   Link: <a href="https://www.cs.ubc.ca/~tmm/courses/547-17F/projects/hayley-theodore/report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cs.ubc.ca/~tmm/courses/547-17F/projects/hayley-theodore/report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>s pre-processed using python and necessary fields including datetime, duration, shape, latitude...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: kaggle.com  
-   Link: [https://www.kaggle.com/datasets/NUFORC/ufo-sightings](https://www.kaggle.com/datasets/NUFORC/ufo-sightings)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>KaggleUFO SightingsSince the reports date back to the 20th century, some older data might be obscured. Data contains city, state, time, d...</p></details>
+   Link: <a href="https://www.kaggle.com/datasets/NUFORC/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/NUFORC/ufo-sightings</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO SightingsSince the reports date back to the 20th century, some older data might be obscured. Data contains city, state, time, d...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lWA](https://nuforc.org/subndx/?id=lWA)  
+   Link: <a href="https://nuforc.org/subndx/?id=lWA" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lWA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for State WANUFORC Reports for State WA. Link, Occurred, City, State, Country, Shape, Summary, Reported, Media, Explanatio...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/madar/](https://nuforc.org/madar/)  
+   Link: <a href="https://nuforc.org/madar/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/madar/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MADAR Report Form | NUFORCSighting Date / Time * · Duration * · Sighting Location * · Sighting Details * · Madar Node Number · Name * · E...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
 14. <a id="endnote-14"></a>
    Source: nuforc.org  
    Title: report a ufo  
-   Link: [https://nuforc.org/report-a-ufo/](https://nuforc.org/report-a-ufo/)  
+   Link: <a href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/report-a-ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>File a UFO Report | NUFORCThe Center&#x27;s hotline at 206-722-3000 is generally reserved for recent UFO reports. However, brief queries may b...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/ndx/?id=shape](https://nuforc.org/ndx/?id=shape)  
+   Link: <a href="https://nuforc.org/ndx/?id=shape" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=shape</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by Shape... File a UFO Report · Donate · About Us · Toggle website search. NUFORC Reports by Shape. SHAPE, REPORT COUNT. U...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: nuforc.org  
    Title: Browse reports, images, videos, maps and more  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witn...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/2025-best-ufos/](https://nuforc.org/2025-best-ufos/)  
+   Link: <a href="https://nuforc.org/2025-best-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/2025-best-ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Octahedrons – and 2025&#x27;s Best UFO Reports so Far11 May 2025 — Between January and early May 2025, thousands of UFO sightings have been re...</p></details>
    Published: May 2025  
 
 18. <a id="endnote-18"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=sDisk](https://nuforc.org/subndx/?id=sDisk)  
+   Link: <a href="https://nuforc.org/subndx/?id=sDisk" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=sDisk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Shape DiskNUFORC Reports for Shape Disk; Open, 01/23/2026 22:40, Fair Hill; Open, 01/18/2026 19:30, Oak Harbor; Ope...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: kaggle.com  
-   Link: [https://www.kaggle.com/datasets/thedevastator/uncovering-mysterious-unexplained-ufo-sightings](https://www.kaggle.com/datasets/thedevastator/uncovering-mysterious-unexplained-ufo-sightings)  
+   Link: <a href="https://www.kaggle.com/datasets/thedevastator/uncovering-mysterious-unexplained-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/thedevastator/uncovering-mysterious-unexplained-ufo-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings (Location &amp; Time)This vast dataset contains records of reported UFO sightings from North America, including detailed inform...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: kaggle.com  
-   Link: [https://www.kaggle.com/datasets/mexwell/ufo-sightings-dataset](https://www.kaggle.com/datasets/mexwell/ufo-sightings-dataset)  
+   Link: <a href="https://www.kaggle.com/datasets/mexwell/ufo-sightings-dataset" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/mexwell/ufo-sightings-dataset</a>  
 
 21. <a id="endnote-21"></a>
    Source: kaggle.com  
-   Link: [https://www.kaggle.com/datasets/thedevastator/uncovering-mysterious-unexplained-ufo-sightings/data](https://www.kaggle.com/datasets/thedevastator/uncovering-mysterious-unexplained-ufo-sightings/data)  
+   Link: <a href="https://www.kaggle.com/datasets/thedevastator/uncovering-mysterious-unexplained-ufo-sightings/data" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/thedevastator/uncovering-mysterious-unexplained-ufo-sightings/data</a>  
 
 22. <a id="endnote-22"></a>
    Source: ada-nuforc-analysis.github.io  
-   Link: [https://ada-nuforc-analysis.github.io/](https://ada-nuforc-analysis.github.io/)  
+   Link: <a href="https://ada-nuforc-analysis.github.io/" target="_blank" rel="noopener noreferrer nofollow">https://ada-nuforc-analysis.github.io/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Report AnalysisThe NUFORC checks each reports for fakes or hoax and comments them accordingly. The reports are classified by their...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: dataherb.github.io  
-   Link: [https://dataherb.github.io/flora/nuforc_ufo_events/](https://dataherb.github.io/flora/nuforc_ufo_events/)  
+   Link: <a href="https://dataherb.github.io/flora/nuforc_ufo_events/" target="_blank" rel="noopener noreferrer nofollow">https://dataherb.github.io/flora/nuforc_ufo_events/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Date / Time, City, State, Country, Shape, Duration, Summary, Posted, Images. 00/00...Read more...</p></details>
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: huggingface.co  
-   Link: [https://huggingface.co/datasets/kcimc/NUFORC](https://huggingface.co/datasets/kcimc/NUFORC)  
+   Link: <a href="https://huggingface.co/datasets/kcimc/NUFORC" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/datasets/kcimc/NUFORC</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>kcimc/NUFORC · Datasets at Hugging FaceI observed a rectangle shaped UFO moving at a very high rate of speed and sending out bright white...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: rdocumentation.org  
-   Link: [https://www.rdocumentation.org/packages/nomiShape/versions/1.0.2/topics/ufo](https://www.rdocumentation.org/packages/nomiShape/versions/1.0.2/topics/ufo)  
+   Link: <a href="https://www.rdocumentation.org/packages/nomiShape/versions/1.0.2/topics/ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.rdocumentation.org/packages/nomiShape/versions/1.0.2/topics/ufo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ufo UFO Sightings DatasetThe dataset contains over 63,000 reported sightings spanning several decades and includes information on sightin...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: medium.com  
-   Link: [https://medium.com/data-science/are-we-alone-in-the-universe-data-analysis-and-data-visualization-of-ufo-sightings-with-r-42d0798679c3](https://medium.com/data-science/are-we-alone-in-the-universe-data-analysis-and-data-visualization-of-ufo-sightings-with-r-42d0798679c3)  
+   Link: <a href="https://medium.com/data-science/are-we-alone-in-the-universe-data-analysis-and-data-visualization-of-ufo-sightings-with-r-42d0798679c3" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/data-science/are-we-alone-in-the-universe-data-analysis-and-data-visualization-of-ufo-sightings-with-r-42d0798679c3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>duration — In seconds, the length of the sighting. date posted — When the sighting was reported to the NUFORC...Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: weirddatascience.net  
    Title: the shape of the other the evolution of ufo sightings by shape  
-   Link: [https://www.weirddatascience.net/2018/06/20/the-shape-of-the-other-the-evolution-of-ufo-sightings-by-shape/](https://www.weirddatascience.net/2018/06/20/the-shape-of-the-other-the-evolution-of-ufo-sightings-by-shape/)  
+   Link: <a href="https://www.weirddatascience.net/2018/06/20/the-shape-of-the-other-the-evolution-of-ufo-sightings-by-shape/" target="_blank" rel="noopener noreferrer nofollow">https://www.weirddatascience.net/2018/06/20/the-shape-of-the-other-the-evolution-of-ufo-sightings-by-shape/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Shape of the Other: The Evolution of UFO Sightings...20 Jun 2018 — The NUFORC dataset classifies each sighting as one of 46 possible...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: metabunk.org  
    Title: nuforc sightings categorized by decade and shape.14610  
-   Link: [https://www.metabunk.org/threads/nuforc-sightings-categorized-by-decade-and-shape.14610/](https://www.metabunk.org/threads/nuforc-sightings-categorized-by-decade-and-shape.14610/)  
+   Link: <a href="https://www.metabunk.org/threads/nuforc-sightings-categorized-by-decade-and-shape.14610/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/nuforc-sightings-categorized-by-decade-and-shape.14610/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC sightings categorized by decade and shape1 Dec 2025 — Interesting. I&#x27;ve been working on a report rating scheme to grade UFO report...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1051tci/where_would_you_recommend_people_report_their/](https://www.reddit.com/r/UFOs/comments/1051tci/where_would_you_recommend_people_report_their/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1051tci/where_would_you_recommend_people_report_their/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1051tci/where_would_you_recommend_people_report_their/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ng to do so? This post is part of the our Common Question Series...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: medium.com  
-   Link: [https://medium.com/data-science/data-analysis-everything-youve-ever-wanted-to-know-about-ufo-sightings-e16f2ed34151](https://medium.com/data-science/data-analysis-everything-youve-ever-wanted-to-know-about-ufo-sightings-e16f2ed34151)  
+   Link: <a href="https://medium.com/data-science/data-analysis-everything-youve-ever-wanted-to-know-about-ufo-sightings-e16f2ed34151" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/data-science/data-analysis-everything-youve-ever-wanted-to-know-about-ufo-sightings-e16f2ed34151</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>erse breakdown of the NUFORC UFO sighting data.Read more...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: aol.com  
    Title: la crowned one best places 201337946  
-   Link: [https://www.aol.com/news/la-crowned-one-best-places-201337946.html](https://www.aol.com/news/la-crowned-one-best-places-201337946.html)  
+   Link: <a href="https://www.aol.com/news/la-crowned-one-best-places-201337946.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/news/la-crowned-one-best-places-201337946.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LA crowned one of the best places to spot UFOs...8 hours ago — In one 2025 report filed with NUFORC, a witness described spotting a whit...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=nraHhvzdZAQ](https://www.youtube.com/watch?v=nraHhvzdZAQ)  
+   Link: <a href="https://www.youtube.com/watch?v=nraHhvzdZAQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nraHhvzdZAQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Tutorial 4: Making Density (Heat) Maps and Origin-Destination Maps in Tableau...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40mrmaster907/ufo-sighting-analysis-with-power-bi-24eafe0dd0d1](https://medium.com/%40mrmaster907/ufo-sighting-analysis-with-power-bi-24eafe0dd0d1)  
+   Link: <a href="https://medium.com/%40mrmaster907/ufo-sighting-analysis-with-power-bi-24eafe0dd0d1" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40mrmaster907/ufo-sighting-analysis-with-power-bi-24eafe0dd0d1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ther attributes in both the raw form...Read more...</p></details>

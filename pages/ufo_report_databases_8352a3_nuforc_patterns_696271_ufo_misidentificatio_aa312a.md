@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /nuforc/
 nav_short_title: Misidentifications
 title: Top Causes of Misidentified UFO Sightings
-title_full: Top Causes of Misidentified UFO Sightings | NUFORC
+title_full: Top Causes of Misidentified UFO Sightings
 display_title_short: Misidentifications
 display_title: Misidentifications
 heading_title: Top Causes of Misidentified UFO Sightings
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 18:33:05'
-parent_title: What NUFORC Reports Can Really Tell You | UFO Archives
+parent_title: What NUFORC Reports Can Really Tell You
 parent_permalink: /nuforc/
 parent_nav_short_title: NUFORC
 parent_heading_title: What NUFORC Reports Can Really Tell You
@@ -276,7 +276,6 @@ image: /assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271_ufo_mis
 
 Within the vast landscape of publicly collected UFO sightings, **common misidentifications** dominate entries in the National UFO Reporting Center’s ([NUFORC]({{ 'nuforc/' | relative_url }})) database. NUFORC itself warns that *most reports end up being explainable as mundane objects or phenomena*, and efforts to catalogue explanations now accompany many sightings. Understanding these misidentifications helps researchers and casual readers alike distinguish perceptual or observational errors from genuinely unexplained cases. NUFORC’s own categorisation shows that the **most frequently cited explanations are satellites (especially Starlink constellations) and camera anomalies**, alongside a suite of other mundane sources that regularly prompt UFO reports.[NUFORC]
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271_ufo_misidentificatio_aa312a-Illustration-1-dark.svg" | relative_url }}" alt="Misidentifications illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271_ufo_misidentificatio_aa312a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271_ufo_misidentificatio_aa312a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Frequency of Starlink and Satellite Misreports
 
@@ -285,7 +284,6 @@ One of the most prominent sources of misidentified sightings in recent years is 
 In NUFORC’s graded reports, **Starlink satellites are singled out as among the most common misidentifications**, alongside conventional satellites, rocket launch stages, and other controlled orbital objects. The database’s explanation fields include “Satellite” and “Starlink” tags, helping researchers see how often orbital objects drive report volume.[NUFORC]
 
 This trend mirrors broader patterns in UFO sighting data: independent analyses have noted that Starlink trains at times accounted for *large swathes of coincident sightings*, overwhelming reporting systems and public attention because of their visual brightness and grouping behaviour.[Sky Lens]
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4m38NgaQ_OU" title="The Problem with Starlink" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4m38NgaQ_OU" target="_blank" rel="noopener noreferrer">The Problem with Starlink</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 28.0K &middot; Uploaded: August 2023 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4m38NgaQ_OU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4m38NgaQ_OU">Open on YouTube</a></p></div></div></div>
 
@@ -296,7 +294,6 @@ Apart from skyborne objects, another leading category of misidentification in NU
 Smartphone cameras, especially when zoomed or in low light, can introduce distortions: pulsating lights, apparent movement, or shapes that defy normal perception. These illusions are often misinterpreted as dynamic behaviour when, in fact, they are electronic or optical quirks of the recording device rather than features of an object in the sky.[NUFORC]
 
 The prevalence of these photo‑only sightings means that a significant fraction of reported “anomalies” are likely artefacts of imaging technology rather than actual phenomena requiring further investigation.
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271_ufo_misidentificatio_aa312a-Illustration-2-dark.svg" | relative_url }}" alt="Misidentifications illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271_ufo_misidentificatio_aa312a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271_ufo_misidentificatio_aa312a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Other Mundane Sources — Aircraft, Balloons, Planets
@@ -309,7 +306,6 @@ Beyond satellites and camera issues, NUFORC’s misidentification list includes 
 
 Other specific mundane explanations listed in NUFORC’s categorisation include birds, blimps, contrails, firework flares, and insects flying close to a camera — all of which can generate misleading visual cues when captured in limited observational contexts.[NUFORC]
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NGAtZaNfshE" title="(E)IFO image collection misidentified as UFO/UAP. Things that can easily be mistaken for UFO or UAP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NGAtZaNfshE" target="_blank" rel="noopener noreferrer">(E)IFO image collection misidentified as UFO/UAP. Things that can easily be mistaken for UFO or UAP</a></p><p class="youtube-embed-meta">Channel: Space Phenomena Observatory Center (SPOC) &middot; Views: 579 &middot; Uploaded: March 2022 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NGAtZaNfshE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NGAtZaNfshE">Open on YouTube</a></p></div></div></div>
 
 ## Patterns and Reporting Pitfalls
@@ -318,7 +314,6 @@ The reason these misidentifications populate the NUFORC dataset so extensively i
 
 This reinforces why NUFORC now includes explanation fields in many reports: by tagging sightings with possible causes (e.g. Satellite, Aircraft, Camera Anomaly), researchers can start to filter genuine anomalies from the steady background of **misinterpretations of well‑understood objects and effects**.[NUFORC]
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271_ufo_misidentificatio_aa312a-Illustration-3-dark.svg" | relative_url }}" alt="Misidentifications illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271_ufo_misidentificatio_aa312a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271_ufo_misidentificatio_aa312a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Implications for Researchers and Enthusiasts
 
@@ -326,9 +321,7 @@ For anyone using NUFORC data — whether for academic analysis, pattern detectio
 
 By being aware of what often gets misreported, both casual observers and dedicated researchers can improve reporting quality, reduce false positives, and better prioritise the sightings that truly resist simple explanation.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/e-WDx7byI0k" title="UFO&#x27;s Over Palmdale August 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=e-WDx7byI0k" target="_blank" rel="noopener noreferrer">UFO&#x27;s Over Palmdale August 2022</a></p><p class="youtube-embed-meta">Channel: FADE TO BLACK Radio &middot; Views: 5.2K &middot; Uploaded: November 2022 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=e-WDx7byI0k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=e-WDx7byI0k">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -727,112 +720,112 @@ By being aware of what often gets misreported, both casual observers and dedicat
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
    Title: 722 new ufo reports  
-   Link: [https://nuforc.org/722-new-ufo-reports/](https://nuforc.org/722-new-ufo-reports/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC722 New UFO Reports Posted | NUFORCJuly 10, 2023...</p></details>
+   Link: <a href="https://nuforc.org/722-new-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/722-new-ufo-reports/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>722 New UFO Reports Posted | NUFORCJuly 10, 2023...</p></details>
    Published: July 10, 2023  
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
    Title: report a ufo  
-   Link: [https://nuforc.org/report-a-ufo/](https://nuforc.org/report-a-ufo/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCFile a UFO Report | NUFORCSeptember 13, 2021...</p></details>
+   Link: <a href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/report-a-ufo/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>File a UFO Report | NUFORCSeptember 13, 2021...</p></details>
    Published: September 13, 2021  
 
 3. <a id="endnote-3"></a>
    Source: sky-lens.com  
    Title: Sky Lens Most Commonly Misidentified Sky Objects — Sky Lens Field Guide  
-   Link: [https://sky-lens.com/guide/common-confusables](https://sky-lens.com/guide/common-confusables)  
+   Link: <a href="https://sky-lens.com/guide/common-confusables" target="_blank" rel="noopener noreferrer nofollow">https://sky-lens.com/guide/common-confusables</a>  
 
 4. <a id="endnote-4"></a>
    Source: [aaro](&#123;&#123; 'aaro/' | relative_url &#125;&#125;). mil  
    Title: AAR O FAQ  
-   Link: [https://www.aaro.mil/FAQ/](https://www.aaro.mil/FAQ/)  
+   Link: <a href="https://www.aaro.mil/FAQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/FAQ/</a>  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Identification studies of UFOs  
-   Link: [https://en.wikipedia.org/wiki/Identification_studies_of_UFOs](https://en.wikipedia.org/wiki/Identification_studies_of_UFOs)  
+   Link: <a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
 
 6. <a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=191181](https://nuforc.org/sighting/?id=191181)  
+   Link: <a href="https://nuforc.org/sighting/?id=191181" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=191181</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 191181July 24, 2025 — NUFORC UFO SIGHTING 191181 Occurred: 2025-07-23 04:35 Local Reported: 2025-07-22 21:08 Pacific...</p></details>
    Published: July 23, 2025  
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/webreports/reports/173/S173130.html](https://nuforc.org/webreports/reports/173/S173130.html)  
+   Link: <a href="https://nuforc.org/webreports/reports/173/S173130.html" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/webreports/reports/173/S173130.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 173130December 22, 2022 — NUFORC UFO SIGHTING 173130 Occurred: 2022-10-27 18:21 Local Reported: 2022-11-21 09:00 Paci...</p></details>
    Published: October 27, 2022  
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
    Title: For 25 years, it ha  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021 — THE NATIONAL UFO REPORTING CENTER ONLINE DATABASE Image The NUFORC Databank...</p></details>
    Published: September 6, 2021  
 
 9. <a id="endnote-9"></a>
    Source: sky-lens.com  
-   Link: [https://sky-lens.com/guide-fr/common-confusables](https://sky-lens.com/guide-fr/common-confusables)  
+   Link: <a href="https://sky-lens.com/guide-fr/common-confusables" target="_blank" rel="noopener noreferrer nofollow">https://sky-lens.com/guide-fr/common-confusables</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apprenez-les et votre taux de faux positifs chute dramatiquement. Ob...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: aliencouncil.com  
-   Link: [https://aliencouncil.com/guides/fg-036-five-confused-mundane-phenomena/](https://aliencouncil.com/guides/fg-036-five-confused-mundane-phenomena/)  
+   Link: <a href="https://aliencouncil.com/guides/fg-036-five-confused-mundane-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://aliencouncil.com/guides/fg-036-five-confused-mundane-phenomena/</a>  
 
 11. <a id="endnote-11"></a>
    Source: hangar1publishing.com  
-   Link: [https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/national-ufo-reporting-center-nuforc](https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/national-ufo-reporting-center-nuforc)  
+   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/national-ufo-reporting-center-nuforc" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/national-ufo-reporting-center-nuforc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the National UFO Reporting Center (NUFORC) – Hangar1publishingA NEW ERA UNDER PETER DAVENPORT: EXPANSION AND DIGITAL TRANSF...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: iflscience.com  
-   Link: [https://www.iflscience.com/where-are-you-most-likely-to-spot-ufos-we-took-a-peek-inside-the-uss-biggest-alien-sighting-database-79918](https://www.iflscience.com/where-are-you-most-likely-to-spot-ufos-we-took-a-peek-inside-the-uss-biggest-alien-sighting-database-79918)  
+   Link: <a href="https://www.iflscience.com/where-are-you-most-likely-to-spot-ufos-we-took-a-peek-inside-the-uss-biggest-alien-sighting-database-79918" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/where-are-you-most-likely-to-spot-ufos-we-took-a-peek-inside-the-uss-biggest-alien-sighting-database-79918</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>We Took A Peek Inside The US’s Biggest &quot;Alien&quot; Sighting Database | IFLScienceJuly 9, 2025 — COMMON CULPRITS MISTAKEN FOR UFOS There are s...</p></details>
    Published: July 9, 2025  
 
 13. <a id="endnote-13"></a>
    Source: ufos.wiki  
-   Link: [https://ufos.wiki/investigate/](https://ufos.wiki/investigate/)  
+   Link: <a href="https://ufos.wiki/investigate/" target="_blank" rel="noopener noreferrer nofollow">https://ufos.wiki/investigate/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ufologist generally agree approximately 90% of UFO reports can be found to have conventional explanations. We recommend el...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: ufotimelineproject.com  
-   Link: [https://www.ufotimelineproject.com/ufo-sightings](https://www.ufotimelineproject.com/ufo-sightings)  
+   Link: <a href="https://www.ufotimelineproject.com/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.ufotimelineproject.com/ufo-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Discover Contact us WHY SIGHTINGS MATTER Sightings are the front door of UFO/UAP research. They&#x27;re messy, human, and...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: science.nasa.gov  
    Title: Full image and caption NASA/Bill Dunford by Dave Prospe  
-   Link: [https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/](https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/)  
+   Link: <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and UAPs - NASA ScienceDecember 1, 2013 — 4 min read IDENTIFYING UFOS AND UAPS Night Sky Network Dec 01, 2013 Article Bright Venus s...</p></details>
    Published: December 1, 2013  
 
 16. <a id="endnote-16"></a>
    Source: arstechnica.com  
    Title: A lot of people are mistaking Elon Musk’s Starlink satellites for UAPs  
-   Link: [https://arstechnica.com/space/2024/11/a-lot-of-people-are-mistaking-elon-musks-starlink-satellites-for-uaps/](https://arstechnica.com/space/2024/11/a-lot-of-people-are-mistaking-elon-musks-starlink-satellites-for-uaps/)  
+   Link: <a href="https://arstechnica.com/space/2024/11/a-lot-of-people-are-mistaking-elon-musks-starlink-satellites-for-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/space/2024/11/a-lot-of-people-are-mistaking-elon-musks-starlink-satellites-for-uaps/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ars TechnicaNovember 15, 2024 — A LOT OF PEOPLE ARE MISTAKING ELON MUSK’S STARLINK SATELLITES FOR UAPS “We were able to assess that they...</p></details>
    Published: November 15, 2024  
 
 17. <a id="endnote-17"></a>
    Source: aerial-phenomenon.org  
    Title: Common Identified Flying Objects – Aerial Phenomena Investigations  
-   Link: [https://aerial-phenomenon.org/?page_id=57137](https://aerial-phenomenon.org/?page_id=57137)  
+   Link: <a href="https://aerial-phenomenon.org/?page_id=57137" target="_blank" rel="noopener noreferrer nofollow">https://aerial-phenomenon.org/?page_id=57137</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>April 29, 2026 — Image: Aerial Phenomena Investigations Aerial Phenomena Investigations UFO Reports, Investigations, Research &amp; Analysis...</p></details>
    Published: April 29, 2026  
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=NGAtZaNfshE](https://www.youtube.com/watch?v=NGAtZaNfshE)  
+   Link: <a href="https://www.youtube.com/watch?v=NGAtZaNfshE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NGAtZaNfshE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellite mistaken for UFO NUFORC SpaceX &amp; Starlinks are often mistaken for UAP - Racetrack UAP #aviation [Enigma](&amp;#123;&amp;#123; &#x27;enigma/&#x27; | relative_url &amp;#125;&amp;#125;) Labs...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: higgypop.com  
    Title: A study conduct by Sam Monfort, a doctoral  
-   Link: [https://www.higgypop.com/news/10-most-common-explanations-for-ufo-sightings/](https://www.higgypop.com/news/10-most-common-explanations-for-ufo-sightings/)  
+   Link: <a href="https://www.higgypop.com/news/10-most-common-explanations-for-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.higgypop.com/news/10-most-common-explanations-for-ufo-sightings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Most Common Explanations For UFO Sightings | HiggypopJanuary 8, 2017 — UFOs 10 MOST COMMON EXPLANATIONS FOR UFO SIGHTINGS January 08...</p></details>
-   Published: January 8, 2017  
+   Published: January 8, 2017

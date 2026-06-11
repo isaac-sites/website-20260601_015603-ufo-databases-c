@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /enigma/
 nav_short_title: Map Clustering
 title: Using Maps and Community Feedback to Spot Clusters
-title_full: Using Maps and Community Feedback to Spot Clusters | Enigma
+title_full: Using Maps and Community Feedback to Spot Clusters
 display_title_short: Map Clustering
 display_title: Map Clustering
 heading_title: Using Maps and Community Feedback to Spot Clusters
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 19:20:12'
-parent_title: Can a UFO App Fix Old Data Problems? | UFO Archives
+parent_title: Can a UFO App Fix Old Data Problems?
 parent_permalink: /enigma/
 parent_nav_short_title: Enigma
 parent_heading_title: Can a UFO App Fix Old Data Problems?
@@ -276,7 +276,6 @@ image: /assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_en
 
 [Enigma]({{ 'enigma/' | relative_url }})’s UFO reporting app is not designed simply as a place to store witness accounts. One of its main goals is to turn thousands of individual reports into patterns that users can see, discuss and investigate together. The app combines interactive maps, nearby sighting alerts, community comments and voting systems to highlight possible [clusters]({{ 'clusters/' | relative_url }}) of unusual activity. Rather than treating every report as an isolated story, Enigma encourages users to compare sightings across locations, dates and witness groups, creating a more networked form of UFO reporting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apps.apple.com/gb/app/enigma-whats-that-in-the-sky/id1548371173" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apps.apple.com">[App Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apps.apple.com</span><span class="citation-popover-snippet">App StoreEnigma: What&#x27;s that in the Sky - App Store - AppleEnigma is the #1 destination for UFO sighting alerts and aerial intelligence...</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_map_clusterin_ee1aa3-Illustration-1-dark.svg" | relative_url }}" alt="Map Clustering illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_map_clusterin_ee1aa3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_map_clusterin_ee1aa3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This approach reflects a broader shift in modern UFO databases. Traditional catalogues often functioned as [archives]({{ 'archives/' | relative_url }}) that users searched after the fact. Enigma instead presents reports as part of a live geographic system where sightings appear on maps, trigger local notifications and attract public discussion. The result is a database that behaves more like a social mapping platform than a static case repository. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apps.apple.com/gb/app/enigma-whats-that-in-the-sky/id1548371173" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apps.apple.com">[App Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apps.apple.com</span><span class="citation-popover-snippet">App StoreEnigma: What&#x27;s that in the Sky - App Store - AppleEnigma is the #1 destination for UFO sighting alerts and aerial intelligence...</span></span></span>
 
@@ -285,7 +284,6 @@ This approach reflects a broader shift in modern UFO databases. Traditional cata
 The centrepiece of Enigma’s clustering system is its interactive world map. Users can browse more than 200,000 historical and recent reports, zoom into specific regions and inspect individual cases linked to particular locations. Reports are displayed geographically rather than only through chronological lists, making it easier to notice concentrations of activity in a city, region or transport corridor. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apps.apple.com/gb/app/enigma-whats-that-in-the-sky/id1548371173" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apps.apple.com">[App Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apps.apple.com</span><span class="citation-popover-snippet">App StoreEnigma: What&#x27;s that in the Sky - App Store - AppleEnigma is the #1 destination for UFO sighting alerts and aerial intelligence...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.enigma.mobile" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: play.google.com">[Google Play]</a><span class="citation-popover" role="note"><span class="citation-popover-source">play.google.com</span><span class="citation-popover-snippet">Google PlayEnigma: What&#x27;s that in the Sky – Apps on...Finally, the #1 mobile app for UFO sightings and alerts is now available on Android...</span></span></span>
 
 The map includes filtering tools that allow users to narrow results by characteristics such as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -301,7 +299,6 @@ These filters matter because apparent clusters can be misleading without context
 
 The map also supports Enigma’s larger effort to organise sightings into what it calls “Collections” and notable categories. Instead of displaying reports as disconnected pins, the platform increasingly groups related cases into thematic investigations, encouraging users to examine whether separate reports may describe the same phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apps.apple.com/gb/app/enigma-whats-that-in-the-sky/id1548371173" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apps.apple.com">[App Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apps.apple.com</span><span class="citation-popover-snippet">App StoreEnigma: What&#x27;s that in the Sky - App Store - AppleEnigma is the #1 destination for UFO sighting alerts and aerial intelligence...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/onSVgu0bhO0" title="New app tracks UFO sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=onSVgu0bhO0" target="_blank" rel="noopener noreferrer">New app tracks UFO sightings</a></p><p class="youtube-embed-meta">Channel: 13News Now &middot; Views: 27.7K &middot; Uploaded: May 2023 &middot; Length: 1 minute 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=onSVgu0bhO0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=onSVgu0bhO0">Open on YouTube</a></p></div></div></div>
 
 ## How Clusters Emerge From Individual Reports
@@ -311,7 +308,6 @@ Enigma’s clustering process is partly visual and partly social. The applicatio
 A useful example is the app’s emphasis on areas around airports, military installations and nuclear facilities. Users can zoom into these regions and compare historical reports with new submissions. When multiple witnesses describe similar events in roughly the same area, the clustering effect becomes easier to spot than it would be in a text-only database. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apps.apple.com/gb/app/enigma-whats-that-in-the-sky/id1548371173" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apps.apple.com">[App Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apps.apple.com</span><span class="citation-popover-snippet">App StoreEnigma: What&#x27;s that in the Sky - App Store - AppleEnigma is the #1 destination for UFO sighting alerts and aerial intelligence...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://apps.apple.com/gb/app/enigma-whats-that-in-the-sky/id1548371173" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apps.apple.com">[App Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apps.apple.com</span><span class="citation-popover-snippet">App StoreEnigma: What&#x27;s that in the Sky - App Store - AppleEnigma is the #1 destination for UFO sighting alerts and aerial intelligence...</span></span></span>
 
 This does not automatically verify a sighting. A cluster may reflect:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -332,7 +328,6 @@ One of Enigma’s most distinctive features is its location-based alert system. 
 The alert mechanism changes the way reports spread through the database. In older UFO catalogues, a witness might submit a report and never discover whether anyone else saw the same thing. Enigma instead attempts to create near-real-time awareness. If several people report unusual activity in the same region, other users nearby can quickly learn about it and compare observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apps.apple.com/gb/app/enigma-whats-that-in-the-sky/id1548371173" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apps.apple.com">[App Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apps.apple.com</span><span class="citation-popover-snippet">App StoreEnigma: What&#x27;s that in the Sky - App Store - AppleEnigma is the #1 destination for UFO sighting alerts and aerial intelligence...</span></span></span>
 
 This produces a feedback loop:
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_map_clusterin_ee1aa3-Illustration-2-dark.svg" | relative_url }}" alt="Map Clustering illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_map_clusterin_ee1aa3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_map_clusterin_ee1aa3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -364,7 +359,6 @@ Third, discussion can reveal inconsistencies. If a report contains obvious error
 
 The limitation is that popularity is not the same as credibility. A dramatic video may receive significant engagement regardless of whether it represents something genuinely unexplained. Community voting can indicate interest, but it cannot establish authenticity on its own. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/spotted-a-ufo-theres-an-app-for-that" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Spotted a UFO?</span><span class="citation-popover-snippet">There&#x27;s an App for ThatEnigma Labs has launched an app to report UFO sightings, aiming to convert them into data science. Initially relea...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cFTSXtE8veg" title="ENIGMA UFO APP - HOW TO USE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cFTSXtE8veg" target="_blank" rel="noopener noreferrer">ENIGMA UFO APP - HOW TO USE</a></p><p class="youtube-embed-meta">Channel: mrhackio &middot; Views: 67 &middot; Uploaded: October 2025 &middot; Length: 4 minutes 9 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cFTSXtE8veg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cFTSXtE8veg">Open on YouTube</a></p></div></div></div>
 
 ## The Balance Between Social Signals and Evidence
@@ -374,7 +368,6 @@ Enigma's map clustering system depends on social participation, but that creates
 To address this problem, Enigma has repeatedly emphasised moderation, structured reporting and algorithmic analysis. Company descriptions mention anomaly scoring, machine-learning evaluation and review processes intended to distinguish stronger reports from weaker ones. Human review of submitted content has also been reported as part of the effort to reduce hoaxes and obvious misidentifications. Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/12/18/business/enigmas-ufo-spotting-app-soars-by-74-in-wake-of-drone-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">The app, similar to Citizen, saw a 74% increase in video uploads within a month, nearing a million downloads. Enigma invites users to pos...</span></span></span>
 
 The result is a hybrid model:
-
 
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
@@ -387,7 +380,6 @@ The result is a hybrid model:
 
 None of these layers independently verify a UFO sighting. Together, however, they create a system that is more interactive than earlier UFO databases and more focused on identifying patterns across many reports rather than preserving individual testimonies in isolation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apps.apple.com/gb/app/enigma-whats-that-in-the-sky/id1548371173" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apps.apple.com">[App Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apps.apple.com</span><span class="citation-popover-snippet">App StoreEnigma: What&#x27;s that in the Sky - App Store - AppleEnigma is the #1 destination for UFO sighting alerts and aerial intelligence...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/2024/01/29/the-truth-is-out-there-on-an-app" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-snippet">One such app, Enigma Labs, enables users to report and view U.A.P. sightings, utilizing augmented reality to identify common sky objects...</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_map_clusterin_ee1aa3-Illustration-3-dark.svg" | relative_url }}" alt="Map Clustering illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_map_clusterin_ee1aa3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_map_clusterin_ee1aa3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Map Clustering Matters in a UFO Database
 
@@ -397,9 +389,7 @@ By displaying reports as live spatial data, connecting witnesses through alerts 
 
 That shift from isolated reports to visible clusters is one of the app’s defining mechanisms within the broader landscape of modern UFO reporting databases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apps.apple.com/gb/app/enigma-whats-that-in-the-sky/id1548371173" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apps.apple.com">[App Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apps.apple.com</span><span class="citation-popover-snippet">App StoreEnigma: What&#x27;s that in the Sky - App Store - AppleEnigma is the #1 destination for UFO sighting alerts and aerial intelligence...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://mwm.ai/apps/enigma-what-s-that-in-the-sky/1548371173" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mwm.ai">[MWM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mwm.ai</span><span class="citation-popover-title">Enigma: What&#x27;s that in the Sky</span><span class="citation-popover-snippet">News AppThe Enigma app allows users to explore over 200,000 recent and historical UFO, drone, and other aerial sightings worldwide throug...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/X32NPzP6Fvs" title="Top 10 Enigma UFO Sightings of 2024 - Part 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=X32NPzP6Fvs" target="_blank" rel="noopener noreferrer">Top 10 Enigma UFO Sightings of 2024 - Part 1</a></p><p class="youtube-embed-meta">Channel: Enigma Labs &middot; Views: 297 &middot; Uploaded: February 2025 &middot; Length: 3 minutes 51 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=X32NPzP6Fvs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=X32NPzP6Fvs">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -798,110 +788,110 @@ That shift from isolated reports to visible clusters is one of the app’s defin
 1. <a id="endnote-1"></a>
    Source: wired.com  
    Title: Spotted a UFO?  
-   Link: [https://www.wired.com/story/spotted-a-ufo-theres-an-app-for-that](https://www.wired.com/story/spotted-a-ufo-theres-an-app-for-that)  
+   Link: <a href="https://www.wired.com/story/spotted-a-ufo-theres-an-app-for-that" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/spotted-a-ufo-theres-an-app-for-that</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>There&#x27;s an App for ThatEnigma Labs has launched an app to report UFO sightings, aiming to convert them into data science. Initially relea...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: play.google.com  
-   Link: [https://play.google.com/store/apps/details?hl=en_GB&id=com.enigma.mobile](https://play.google.com/store/apps/details?hl=en_GB&id=com.enigma.mobile)  
+   Link: <a href="https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.enigma.mobile" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.enigma.mobile</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google PlayEnigma: What&#x27;s that in the Sky – Apps on...Finally, the #1 mobile app for UFO sightings and alerts is now available on Android...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: mwm.ai  
    Title: Enigma: What's that in the Sky  
-   Link: [https://mwm.ai/apps/enigma-what-s-that-in-the-sky/1548371173](https://mwm.ai/apps/enigma-what-s-that-in-the-sky/1548371173)  
+   Link: <a href="https://mwm.ai/apps/enigma-what-s-that-in-the-sky/1548371173" target="_blank" rel="noopener noreferrer nofollow">https://mwm.ai/apps/enigma-what-s-that-in-the-sky/1548371173</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>News AppThe Enigma app allows users to explore over 200,000 recent and historical UFO, drone, and other aerial sightings worldwide throug...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1qks3m6/theyre_not_just_watching_nukes_theyre_inside_the/](https://www.reddit.com/r/UFOs/comments/1qks3m6/theyre_not_just_watching_nukes_theyre_inside_the/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1qks3m6/theyre_not_just_watching_nukes_theyre_inside_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1qks3m6/theyre_not_just_watching_nukes_theyre_inside_the/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>0 sightings within 25 miles of major U.S. nuclear power plants.Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/14fbm6n/we_are_enigma_labs_we_have_created_an_app_for_uap/](https://www.reddit.com/r/UFOs/comments/14fbm6n/we_are_enigma_labs_we_have_created_an_app_for_uap/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditWe are Enigma Labs, we have created an app for UAP...We are Enigma Labs. Enigma is the trusted, frictionless place to report a sig...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/14fbm6n/we_are_enigma_labs_we_have_created_an_app_for_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/14fbm6n/we_are_enigma_labs_we_have_created_an_app_for_uap/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>We are Enigma Labs, we have created an app for UAP...We are Enigma Labs. Enigma is the trusted, frictionless place to report a sig...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: play.google.com  
-   Link: [https://play.google.com/store/apps/details?hl=en_ZA&id=com.enigma.mobile](https://play.google.com/store/apps/details?hl=en_ZA&id=com.enigma.mobile)  
+   Link: <a href="https://play.google.com/store/apps/details?hl=en_ZA&amp;id=com.enigma.mobile" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_ZA&amp;id=com.enigma.mobile</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Seen something unusual in the sky? Share your UFO sighting story and read accounts...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: apps.apple.com  
-   Link: [https://apps.apple.com/gb/app/enigma-whats-that-in-the-sky/id1548371173](https://apps.apple.com/gb/app/enigma-whats-that-in-the-sky/id1548371173)  
+   Link: <a href="https://apps.apple.com/gb/app/enigma-whats-that-in-the-sky/id1548371173" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/gb/app/enigma-whats-that-in-the-sky/id1548371173</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>App StoreEnigma: What&#x27;s that in the Sky - App Store - AppleEnigma is the #1 destination for UFO sighting alerts and aerial intelligence...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: newyorker.com  
-   Link: [https://www.newyorker.com/magazine/2024/01/29/the-truth-is-out-there-on-an-app](https://www.newyorker.com/magazine/2024/01/29/the-truth-is-out-there-on-an-app)  
+   Link: <a href="https://www.newyorker.com/magazine/2024/01/29/the-truth-is-out-there-on-an-app" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2024/01/29/the-truth-is-out-there-on-an-app</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>One such app, Enigma Labs, enables users to report and view U.A.P. sightings, utilizing augmented reality to identify common sky objects...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: apps.apple.com  
    Title: App Store Enigma: What's that in the Sky  
-   Link: [https://apps.apple.com/lb/app/enigma-whats-that-in-the-sky/id1548371173](https://apps.apple.com/lb/app/enigma-whats-that-in-the-sky/id1548371173)  
+   Link: <a href="https://apps.apple.com/lb/app/enigma-whats-that-in-the-sky/id1548371173" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/lb/app/enigma-whats-that-in-the-sky/id1548371173</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>App StoreEnigma: What&#x27;s that in the Sky - App Store18 May 2026 — EXPLORE THE MAP -Discover over 200K recent and historical UFO, drone, an...</p></details>
    Published: May 2026  
 
 11. <a id="endnote-11"></a>
    Source: nypost.com  
-   Link: [https://nypost.com/2024/12/18/business/enigmas-ufo-spotting-app-soars-by-74-in-wake-of-drone-mystery/](https://nypost.com/2024/12/18/business/enigmas-ufo-spotting-app-soars-by-74-in-wake-of-drone-mystery/)  
+   Link: <a href="https://nypost.com/2024/12/18/business/enigmas-ufo-spotting-app-soars-by-74-in-wake-of-drone-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/12/18/business/enigmas-ufo-spotting-app-soars-by-74-in-wake-of-drone-mystery/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The app, similar to Citizen, saw a 74% increase in video uploads within a month, nearing a million downloads. Enigma invites users to pos...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: marketing.dev.enigmalabs.io  
-   Link: [https://marketing.dev.enigmalabs.io/about](https://marketing.dev.enigmalabs.io/about)  
+   Link: <a href="https://marketing.dev.enigmalabs.io/about" target="_blank" rel="noopener noreferrer nofollow">https://marketing.dev.enigmalabs.io/about</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Labs | Report a UFO sightingExplore thousands of UAP and UFO sightings with location data, media, and community analysis. The world&#x27;s fir...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=onSVgu0bhO0](https://www.youtube.com/watch?v=onSVgu0bhO0)  
+   Link: <a href="https://www.youtube.com/watch?v=onSVgu0bhO0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=onSVgu0bhO0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New app tracks UFO sightingsThe creators of Enigma were in Norfolk this week, promoting the app that uses artificial intelligence to weed...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: apps.apple.com  
-   Link: [https://apps.apple.com/us/app/enigma-whats-that-in-the-sky/id1548371173](https://apps.apple.com/us/app/enigma-whats-that-in-the-sky/id1548371173)  
+   Link: <a href="https://apps.apple.com/us/app/enigma-whats-that-in-the-sky/id1548371173" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/us/app/enigma-whats-that-in-the-sky/id1548371173</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>apple.comEnigma: What&#x27;s that in the Sky - App Store - AppleEnigma is the #1 destination for UFO sighting alerts and aerial intelligence...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/wired/posts/the-tech-startup-enigma-labs-wants-to-turn-ufo-sightings-into-data-science/10159675094043721/](https://www.facebook.com/wired/posts/the-tech-startup-enigma-labs-wants-to-turn-ufo-sightings-into-data-science/10159675094043721/)  
+   Link: <a href="https://www.facebook.com/wired/posts/the-tech-startup-enigma-labs-wants-to-turn-ufo-sightings-into-data-science/10159675094043721/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wired/posts/the-tech-startup-enigma-labs-wants-to-turn-ufo-sightings-into-data-science/10159675094043721/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nomena sightings to eliminate the stigma of reporting UFO sightings...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/journalsentinel/posts/enigma-labs-has-created-an-app-allowing-users-to-post-unidentified-aerial-phenom/878482007648607/](https://www.facebook.com/journalsentinel/posts/enigma-labs-has-created-an-app-allowing-users-to-post-unidentified-aerial-phenom/878482007648607/)  
+   Link: <a href="https://www.facebook.com/journalsentinel/posts/enigma-labs-has-created-an-app-allowing-users-to-post-unidentified-aerial-phenom/878482007648607/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/journalsentinel/posts/enigma-labs-has-created-an-app-allowing-users-to-post-unidentified-aerial-phenom/878482007648607/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ena sightings to eliminate the stigma of reporting UFO sightings...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/posts/enigma-labs-collects-videos-submitted-by-people-who-have-seen-ufos/873020898438262/](https://www.facebook.com/NewsNationNow/posts/enigma-labs-collects-videos-submitted-by-people-who-have-seen-ufos/873020898438262/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/enigma-labs-collects-videos-submitted-by-people-who-have-seen-ufos/873020898438262/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/enigma-labs-collects-videos-submitted-by-people-who-have-seen-ufos/873020898438262/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>a sightings to eliminate the stigma of reporting UFO sightings...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/61568295047693/posts/ive-been-seeing-these-lights-on-the-enigma-ufo-sightings-app-and-some-of-them-ar/122157782942609834/](https://www.facebook.com/61568295047693/posts/ive-been-seeing-these-lights-on-the-enigma-ufo-sightings-app-and-some-of-them-ar/122157782942609834/)  
+   Link: <a href="https://www.facebook.com/61568295047693/posts/ive-been-seeing-these-lights-on-the-enigma-ufo-sightings-app-and-some-of-them-ar/122157782942609834/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61568295047693/posts/ive-been-seeing-these-lights-on-the-enigma-ufo-sightings-app-and-some-of-them-ar/122157782942609834/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ed recurring patterns including early morning sightings...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DYXT2oEozT0/](https://www.instagram.com/p/DYXT2oEozT0/)  
+   Link: <a href="https://www.instagram.com/p/DYXT2oEozT0/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYXT2oEozT0/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ing in 2022, while the unexplained underwater sightings...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/CPIDJbjg_Ff/](https://www.instagram.com/reel/CPIDJbjg_Ff/)  
+   Link: <a href="https://www.instagram.com/reel/CPIDJbjg_Ff/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/CPIDJbjg_Ff/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>s since launching in 2022, but the underwater sightings are the...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/posts/a-video-sharing-platform-run-by-enigma-labs-is-storing-images-of-unidentified-an/873015845105434/](https://www.facebook.com/NewsNationNow/posts/a-video-sharing-platform-run-by-enigma-labs-is-storing-images-of-unidentified-an/873015845105434/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/a-video-sharing-platform-run-by-enigma-labs-is-storing-images-of-unidentified-an/873015845105434/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-video-sharing-platform-run-by-enigma-labs-is-storing-images-of-unidentified-an/873015845105434/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>as formed last summer, [AARO](&amp;#123;&amp;#123; &#x27;aaro/&#x27; | relative_url &amp;#125;&amp;#125;) has received 366 reports about UAP...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/videos/online-platform-tracks-uap-sightings-in-real-time-newsnation-prime/1341753540590568/](https://www.facebook.com/NewsNationNow/videos/online-platform-tracks-uap-sightings-in-real-time-newsnation-prime/1341753540590568/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/videos/online-platform-tracks-uap-sightings-in-real-time-newsnation-prime/1341753540590568/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/videos/online-platform-tracks-uap-sightings-in-real-time-newsnation-prime/1341753540590568/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anomalous Phenomena” as they are photographed, in real time...</p></details>

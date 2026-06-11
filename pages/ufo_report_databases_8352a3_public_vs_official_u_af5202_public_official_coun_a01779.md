@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /public-vs-official/
 nav_short_title: Count Gaps
 title: Why UFO report counts never match
-title_full: Why UFO report counts never match | Public vs Official
+title_full: Why UFO report counts never match
 display_title_short: Count Gaps
 display_title: Count Gaps
 heading_title: Why UFO report counts never match
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 01:51:09'
-parent_title: Public UFO Reports or Official UAP Records? | UFO Archives
+parent_title: Public UFO Reports or Official UAP Records?
 parent_permalink: /public-vs-official/
 parent_nav_short_title: Public vs Official
 parent_heading_title: Public UFO Reports or Official UAP Records?
@@ -270,13 +270,12 @@ image: /assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202_pu
 
 Public UFO sighting totals and official UAP case counts often appear wildly different not because one is “true” and the other “false,” but because they measure **different kinds of events in different reporting systems with distinct purposes, criteria, and pipelines**. Large civilian databases record tens of thousands of self‑submitted eyewitness accounts, whereas government UAP records typically catalogue only a few hundred formally processed cases drawn from official channels and narrow mission priorities. Understanding **why these counts never match** helps a reader avoid misleading comparisons and misinterpretations, and clarifies what each set of numbers actually represents.
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202_public_official_coun_a01779-Illustration-1-dark.svg" | relative_url }}" alt="Count Gaps illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202_public_official_coun_a01779-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202_public_official_coun_a01779-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Each Count Actually Measures
 
-Civilian sighting totals — such as those in the **National UFO Reporting Center** archive — are built from **voluntary reports from the public** submitted via online forms, hotlines and other open channels. Over decades, this has yielded many **tens of thousands of submitted narratives**, each reflecting a witness’s perception of something unusual in the sky, whether or not that object was ever sensor‑tracked or physically corroborated. These tallies include brief notes, single‑witness accounts, and submissions lacking precise localisation or confirming data; many duplicate observations from different witnesses also exist in the collection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uapedia.ai/wiki/nuforc-mufon-civilian-data-sources/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[UAPedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-title">Unlocking New Realities NUFORC &amp; MUFON: Civilian Data Sources</span><span class="citation-popover-snippet">UAPedia - Unlocking New RealitiesNUFORC &amp; MUFON: Civilian Data Sources - UAPediaNovember 7, 2025...</span><span class="citation-popover-meta">Published: November 7, 2025</span></span></span> - Unlocking New Realities
+Civilian sighting totals — such as those in the **National UFO Reporting Center** archive — are built from **voluntary reports from the public** submitted via online forms, hotlines and other open channels. Over decades, this has yielded many **tens of thousands of submitted narratives**, each reflecting a witness’s perception of something unusual in the sky, whether or not that object was ever sensor‑tracked or physically corroborated. These tallies include brief notes, single‑witness accounts, and submissions lacking precise localisation or confirming data; many duplicate observations from different witnesses also exist in the collection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uapedia.ai/wiki/nuforc-mufon-civilian-data-sources/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[UAPedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-title">Unlocking New Realities NUFORC &amp; MUFON: Civilian Data Sources</span><span class="citation-popover-snippet">Unlocking New RealitiesNUFORC &amp; MUFON: Civilian Data Sources - UAPediaNovember 7, 2025...</span><span class="citation-popover-meta">Published: November 7, 2025</span></span></span> - Unlocking New Realities
 
-Official UAP case counts kept by government bodies — such as the U.S. Department of Defence’s All‑domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) or historical military reporting systems — represent a **much narrower subset of events**. These are instances that have been recorded through structured institutional reporting channels (e.g., military reports, aviation safety systems, radar logs), vetted for procedural completeness, and logged into controlled [archives]({{ 'archives/' | relative_url }}). A notable example is the U.S. intelligence reports to Congress that covered around 144 or 510 UAP incidents documented from military sensors and formal mechanisms over specific multi‑year periods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn environmental analysis of public UAP sightings and sky view potential</span><span class="citation-popover-snippet">PMCDecember 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>
+Official UAP case counts kept by government bodies — such as the U.S. Department of Defence’s All‑domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) or historical military reporting systems — represent a **much narrower subset of events**. These are instances that have been recorded through structured institutional reporting channels (e.g., military reports, aviation safety systems, radar logs), vetted for procedural completeness, and logged into controlled [archives]({{ 'archives/' | relative_url }}). A notable example is the U.S. intelligence reports to Congress that covered around 144 or 510 UAP incidents documented from military sensors and formal mechanisms over specific multi‑year periods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn environmental analysis of public UAP sightings and sky view potential</span><span class="citation-popover-snippet">December 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>
 
 The difference in scope is fundamental: **civilian totals count raw submissions**, whereas **official numbers count processed, verified or actionable cases** — often with accompanying sensor data or testimonial traceability.
 
@@ -286,7 +285,7 @@ The civilian reporting environment is inherently **self‑selecting**. Members o
 
 Government reporting is governed by **institutional filters**:
 
-* **Restricted reporting pathways:** Official systems often require specific roles, training, or procedural channels. For example, military personnel and aviation professionals must report through command structures rather than public forms. Many commercial pilots and [air traffic]({{ 'air-traffic/' | relative_url }}) controllers are still encouraged to use civilian reporting channels for UAP sightings because the FAA does not maintain its own central UFO/UAP catalogue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/suzannerowankelleher/2021/06/26/faa-ufo-uap-sightings-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">ForbesThe FAA Does Not Track UFO Sightings By Commercial Airline Pilots—But Here’s Who DoesJune 26, 2021...</span><span class="citation-popover-meta">Published: June 26, 2021</span></span></span>
+* **Restricted reporting pathways:** Official systems often require specific roles, training, or procedural channels. For example, military personnel and aviation professionals must report through command structures rather than public forms. Many commercial pilots and [air traffic]({{ 'air-traffic/' | relative_url }}) controllers are still encouraged to use civilian reporting channels for UAP sightings because the FAA does not maintain its own central UFO/UAP catalogue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/suzannerowankelleher/2021/06/26/faa-ufo-uap-sightings-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">The FAA Does Not Track UFO Sightings By Commercial Airline Pilots—But Here’s Who DoesJune 26, 2021...</span><span class="citation-popover-meta">Published: June 26, 2021</span></span></span>
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -298,12 +297,10 @@ Government reporting is governed by **institutional filters**:
 
 These filters systematically reduce the number of events that appear in official tallies relative to the much broader sea of civilian submissions.
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202_public_official_coun_a01779-Illustration-2-dark.svg" | relative_url }}" alt="Count Gaps illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202_public_official_coun_a01779-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202_public_official_coun_a01779-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to Compare Numbers Without Overclaiming
 
 Because the two count systems reflect different reporting pipelines, **direct numerical comparisons can mislead**:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -316,7 +313,6 @@ Because the two count systems reflect different reporting pipelines, **direct nu
 A more useful comparison frames the numbers by **methodology and purpose** rather than bare totals: what triggers reporting, what level of evidence is required, and what each dataset is used for. This avoids overclaiming based on sheer count differences.
 
 By recognising that **public counts and official case totals reflect separate parts of the broader reporting ecosystem**, a reader can better interpret what large civilian sighting numbers signify (public interest, perception patterns, reporting hotspots) and what official tallies indicate (incidents reaching formal documentation and investigation thresholds).
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202_public_official_coun_a01779-Illustration-3-dark.svg" | relative_url }}" alt="Count Gaps illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202_public_official_coun_a01779-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202_public_official_coun_a01779-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -717,90 +713,90 @@ By recognising that **public counts and official case totals reflect separate pa
 1. <a id="endnote-1"></a>
    Source: uapedia.ai  
    Title: Unlocking New Realities NUFORC & [MUFON](&#123;&#123; 'mufon/' | relative_url &#125;&#125;): Civilian Data Sources  
-   Link: [https://www.uapedia.ai/wiki/nuforc-mufon-civilian-data-sources/](https://www.uapedia.ai/wiki/nuforc-mufon-civilian-data-sources/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAPedia - Unlocking New RealitiesNUFORC &amp; MUFON: Civilian Data Sources - UAPediaNovember 7, 2025...</p></details>
+   Link: <a href="https://www.uapedia.ai/wiki/nuforc-mufon-civilian-data-sources/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapedia.ai/wiki/nuforc-mufon-civilian-data-sources/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unlocking New RealitiesNUFORC &amp; MUFON: Civilian Data Sources - UAPediaNovember 7, 2025...</p></details>
    Published: November 7, 2025  
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAn environmental analysis of public UAP sightings and sky view potential  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCDecember 14, 2023...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>December 14, 2023...</p></details>
    Published: December 14, 2023  
 
 3. <a id="endnote-3"></a>
    Source: anythingcounter.com  
-   Link: [https://anythingcounter.com/ufo-sightings-per-day](https://anythingcounter.com/ufo-sightings-per-day)  
+   Link: <a href="https://anythingcounter.com/ufo-sightings-per-day" target="_blank" rel="noopener noreferrer nofollow">https://anythingcounter.com/ufo-sightings-per-day</a>  
 
 4. <a id="endnote-4"></a>
    Source: forbes.com  
-   Link: [https://www.forbes.com/sites/suzannerowankelleher/2021/06/26/faa-ufo-uap-sightings-pilots/](https://www.forbes.com/sites/suzannerowankelleher/2021/06/26/faa-ufo-uap-sightings-pilots/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ForbesThe FAA Does Not Track UFO Sightings By Commercial Airline Pilots—But Here’s Who DoesJune 26, 2021...</p></details>
+   Link: <a href="https://www.forbes.com/sites/suzannerowankelleher/2021/06/26/faa-ufo-uap-sightings-pilots/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/suzannerowankelleher/2021/06/26/faa-ufo-uap-sightings-pilots/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The FAA Does Not Track UFO Sightings By Commercial Airline Pilots—But Here’s Who DoesJune 26, 2021...</p></details>
    Published: June 26, 2021  
 
 5. <a id="endnote-5"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/faqs](https://www.archives.gov/research/topics/uaps/faqs)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 24, 2025 — UNIDENTIFIED ANOMALOUS PHENOMENA RECORDS COLLECTION: FREQUENTLY ASKED QUESTIONS The [National Archives](&amp;#123;&amp;#123; &#x27;archives/&#x27; | relative_url &amp;#125;&amp;#125;) and Records Admini...</p></details>
+   Link: <a href="https://www.archives.gov/research/topics/uaps/faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/faqs</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 24, 2025 — UNIDENTIFIED ANOMALOUS PHENOMENA RECORDS COLLECTION: FREQUENTLY ASKED QUESTIONS The National Archives and Records Admini...</p></details>
    Published: April 24, 2025  
 
 ### Additional References
 
 6. <a id="endnote-6"></a>
    Source: cnbc.com  
-   Link: [https://www.cnbc.com/2021/06/25/ufo-report-government-cant-explain-143-of-144-mysterious-flying-objects-blames-limited-data.html](https://www.cnbc.com/2021/06/25/ufo-report-government-cant-explain-143-of-144-mysterious-flying-objects-blames-limited-data.html)  
+   Link: <a href="https://www.cnbc.com/2021/06/25/ufo-report-government-cant-explain-143-of-144-mysterious-flying-objects-blames-limited-data.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cnbc.com/2021/06/25/ufo-report-government-cant-explain-143-of-144-mysterious-flying-objects-blames-limited-data.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO report: Government can&#x27;t explain 143 of 144 mysterious flying objects, blames limited dataJune 25, 2021 — UFO REPORT: GOVERNMENT CAN&#x27;...</p></details>
    Published: June 25, 2021  
 
 7. <a id="endnote-7"></a>
    Source: ufodatalive.com  
-   Link: [https://www.ufodatalive.com/](https://www.ufodatalive.com/)  
+   Link: <a href="https://www.ufodatalive.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufodatalive.com/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Database, UAP Tracker &amp; Disclosure TimelineGLOBAL SIGHTING OVERVIEW The United States leads globally in documented sighting...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: science.gc.ca  
-   Link: [https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada](https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada)  
+   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
 
 9. <a id="endnote-9"></a>
    Source: space.com  
-   Link: [https://www.space.com/ufo-government-report-transparency-better-data-science](https://www.space.com/ufo-government-report-transparency-better-data-science)  
+   Link: <a href="https://www.space.com/ufo-government-report-transparency-better-data-science" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/ufo-government-report-transparency-better-data-science</a>  
 
 10. <a id="endnote-10"></a>
    Source: science.nasa.gov  
    Title: Trump’s direction for whole-of-government transparency and will alw  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FAQs - NASA ScienceMay 8, 2026 — UAP FAQS NASA UNIDENTIFIED ANOMALOUS PHENOMENA STUDY Frequently Asked Questions ​&lt; Back to UAP NASA appl...</p></details>
    Published: May 8, 2026  
 
 11. <a id="endnote-11"></a>
    Source: narcap.org  
-   Link: [https://www.narcap.org/faa-reporting-recommendation](https://www.narcap.org/faa-reporting-recommendation)  
+   Link: <a href="https://www.narcap.org/faa-reporting-recommendation" target="_blank" rel="noopener noreferrer nofollow">https://www.narcap.org/faa-reporting-recommendation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Platte, John-Michael Guttierez, Ted Roe, Ryan Graves, 2023&lt;br/&gt; — National Aviation Reporting Center on Anomalous PhenomenaJune 14, 2023...</p></details>
    Published: June 14, 2023  
 
 12. <a id="endnote-12"></a>
    Source: science.gc.ca  
-   Link: [https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa](https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa)  
+   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>January 15, 2025 — PREVIEW: SKY CANADA REPORT FROM THE OFFICE OF THE CHIEF SCIENCE ADVISOR OF CANADA Management of public reporting of Un...</p></details>
    Published: January 15, 2025  
 
 13. <a id="endnote-13"></a>
    Source: washingtonpost.com  
    Title: Most reported UFO sightings are ‘unremarkable,’ Pentagon review finds  
-   Link: [https://www.washingtonpost.com/national-security/2023/01/12/ufo-sightings-pentagon-review/?itid=lk_inline_manual_19](https://www.washingtonpost.com/national-security/2023/01/12/ufo-sightings-pentagon-review/?itid=lk_inline_manual_19)  
+   Link: <a href="https://www.washingtonpost.com/national-security/2023/01/12/ufo-sightings-pentagon-review/?itid=lk_inline_manual_19" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/national-security/2023/01/12/ufo-sightings-pentagon-review/?itid=lk_inline_manual_19</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Washington PostJanuary 12, 2023 — MOST UFO REPORTS ‘UNREMARKABLE,’ PENTAGON SAYS, BUT ANALYSIS GOES ON More than half of 366 recent s...</p></details>
    Published: January 12, 2023  
 
 14. <a id="endnote-14"></a>
    Source: opb.org  
    Title: Image: Deputy Director of Naval Intelligence Scott Bray, left,  
-   Link: [https://www.opb.org/article/2022/05/17/ufo-database-400-reported-incidents-government/](https://www.opb.org/article/2022/05/17/ufo-database-400-reported-incidents-government/)  
+   Link: <a href="https://www.opb.org/article/2022/05/17/ufo-database-400-reported-incidents-government/" target="_blank" rel="noopener noreferrer nofollow">https://www.opb.org/article/2022/05/17/ufo-database-400-reported-incidents-government/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The military’s UFO database now has info from about 400 reported incidents - OPBMay 18, 2022 — THE MILITARY’S UFO DATABASE NOW HAS INFO F...</p></details>
    Published: May 18, 2022  
 
 15. <a id="endnote-15"></a>
    Source: uapsightings.org  
    Title: Announcing the Launch of the UAP Sightings Reporting System  
-   Link: [https://uapsightings.org/announcing-the-launch-of-the-uap-sightings-reporting-system/](https://uapsightings.org/announcing-the-launch-of-the-uap-sightings-reporting-system/)  
+   Link: <a href="https://uapsightings.org/announcing-the-launch-of-the-uap-sightings-reporting-system/" target="_blank" rel="noopener noreferrer nofollow">https://uapsightings.org/announcing-the-launch-of-the-uap-sightings-reporting-system/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Sightings Reporting SystemJanuary 4, 2024 — ANNOUNCING THE LAUNCH OF THE UAP SIGHTINGS REPORTING SYSTEM We are very proud to announce...</p></details>
-   Published: January 4, 2024  
+   Published: January 4, 2024

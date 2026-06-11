@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /archives/
 nav_short_title: Blue Book Files
 title: What Project Blue Book Records Reveal in NARA Archives
-title_full: What Project Blue Book Records Reveal in NARA Archives | Archives
+title_full: What Project Blue Book Records Reveal in NARA Archives
 display_title_short: Blue Book Files
 display_title: Blue Book Files
 heading_title: What Project Blue Book Records Reveal in NARA Archives
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 21:06:27'
-parent_title: Finding Original UFO Records in Archives | UFO Archives
+parent_title: Finding Original UFO Records in Archives
 parent_permalink: /archives/
 parent_nav_short_title: Archives
 parent_heading_title: Finding Original UFO Records in Archives
@@ -268,25 +268,22 @@ image: /assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_pr
 
 ## Introduction
 
-Project Blue Book, the United States Air Force’s official programme to investigate unidentified flying objects from 1947 to 1969, generated a vast archival record that now resides in the custody of the U.S. [National Archives]({{ 'archives/' | relative_url }}) and Records Administration (NARA). These records — including [case files]({{ 'case-files/' | relative_url }}), administrative correspondence and supporting media — were systematically preserved and made available to researchers primarily through a comprehensive set of microfilm publications. Understanding how these files are composed, organised and accessed in NARA’s holdings is essential for anyone working with historical UAP/UFO data, as it anchors individual reports in an archival control system rather than scattered reproductions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/free-online-records-digital-microfilm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">Free online records: digital microfilm</span><span class="citation-popover-snippet">How many are online? * None * Some * All WHY USE THIS GUIDE? This guide lists and provides access to all the record series at...</span></span></span>
-
+Project [Blue Book]({{ 'blue-book/' | relative_url }}), the United States Air Force’s official programme to investigate unidentified flying objects from 1947 to 1969, generated a vast archival record that now resides in the custody of the U.S. National Archives and Records Administration (NARA). These records — including [case files]({{ 'case-files/' | relative_url }}), administrative correspondence and supporting media — were systematically preserved and made available to researchers primarily through a comprehensive set of microfilm publications. Understanding how these files are composed, organised and accessed in NARA’s holdings is essential for anyone working with historical UAP/UFO data, as it anchors individual reports in an archival control system rather than scattered reproductions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/free-online-records-digital-microfilm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">Free online records: digital microfilm</span><span class="citation-popover-snippet">How many are online? * None * Some * All WHY USE THIS GUIDE? This guide lists and provides access to all the record series at...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_project_blue_book_ar_9502cd-Illustration-1-dark.svg" | relative_url }}" alt="Blue Book Files illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_project_blue_book_ar_9502cd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_project_blue_book_ar_9502cd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Case File Organisation and Chronology
 
-The core of Project [Blue Book]({{ 'blue-book/' | relative_url }})’s archival footprint consists of individual sighting case files arranged chronologically by date of report. In aggregate, these files occupy a substantial physical volume: approximately 37 cubic feet of textual records documented the individual case investigations conducted by Air Force personnel between 1947 and 1969. Each case file typically includes the original report or questionnaire submitted by a witness, narrative descriptions, investigator worksheets and evaluations, correspondence from field offices, and, where applicable, analytical materials such as photographs or instrument traces. This chronological arrangement reflects the operational workflow of the project, which handled incoming sightings as they were reported and moved them through a review and classification process.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/free-online-records-digital-microfilm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">Free online records: digital microfilm</span><span class="citation-popover-snippet">How many are online? * None * Some * All WHY USE THIS GUIDE? This guide lists and provides access to all the record series at...</span></span></span>
+The core of Project Blue Book’s archival footprint consists of individual sighting case files arranged chronologically by date of report. In aggregate, these files occupy a substantial physical volume: approximately 37 cubic feet of textual records documented the individual case investigations conducted by Air Force personnel between 1947 and 1969. Each case file typically includes the original report or questionnaire submitted by a witness, narrative descriptions, investigator worksheets and evaluations, correspondence from field offices, and, where applicable, analytical materials such as photographs or instrument traces. This chronological arrangement reflects the operational workflow of the project, which handled incoming sightings as they were reported and moved them through a review and classification process.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/free-online-records-digital-microfilm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">Free online records: digital microfilm</span><span class="citation-popover-snippet">How many are online? * None * Some * All WHY USE THIS GUIDE? This guide lists and provides access to all the record series at...</span></span></span>
 
 In addition to the sighting case files proper, a smaller but significant portion of the collection comprises records related to the Office of Special Investigations (OSI), which handled certain aspects of the Air Force’s investigative mandate. These materials, amounting to roughly 3 cubic feet, are sorted both chronologically and by OSI district or overseas command, offering additional context on how specific investigative tasks were administratively routed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/free-online-records-digital-microfilm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">Free online records: digital microfilm</span><span class="citation-popover-snippet">How many are online? * None * Some * All WHY USE THIS GUIDE? This guide lists and provides access to all the record series at...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EZ8uLaWP0qo" title="BD-0120 Lt Col Robert J Friend Project Blue Book" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EZ8uLaWP0qo" target="_blank" rel="noopener noreferrer">BD-0120 Lt Col Robert J Friend Project Blue Book</a></p><p class="youtube-embed-meta">Channel: San Diego Air and Space Museum Archives &middot; Views: 20.1K &middot; Uploaded: December 2016 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EZ8uLaWP0qo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EZ8uLaWP0qo">Open on YouTube</a></p></div></div></div>
 
 ## Administrative and Correspondence Materials
 
-Alongside the case files, Project Blue Book generated a suite of administrative documents that illuminate the internal functioning and policy framework of the programme. These “project files” — about 2 cubic feet of unarranged textual records — include inter‑office memos, status reports, staff studies, regulatory texts, press releases and correspondence with other branches of the Air Force or external entities. Administrative files help researchers understand not just individual sightings, but how the project was staffed, managed and perceived over time. Some of these materials also track congressional inquiries, public briefings and evolving Air Force regulations related to UFO reporting and analysis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://legalclarity.org/national-archives-ufo-records-accessing-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legalclarity.org">[LegalClarity]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legalclarity.org</span><span class="citation-popover-title">Legal Clarity National Archives UFO Records: Accessing Project Blue Book</span><span class="citation-popover-snippet">LegalClarityNational Archives UFO Records: Accessing Project Blue Book - LegalClarityDecember 13, 2025...</span><span class="citation-popover-meta">Published: December 13, 2025</span></span></span>
+Alongside the case files, Project Blue Book generated a suite of administrative documents that illuminate the internal functioning and policy framework of the programme. These “project files” — about 2 cubic feet of unarranged textual records — include inter‑office memos, status reports, staff studies, regulatory texts, press releases and correspondence with other branches of the Air Force or external entities. Administrative files help researchers understand not just individual sightings, but how the project was staffed, managed and perceived over time. Some of these materials also track congressional inquiries, public briefings and evolving Air Force regulations related to UFO reporting and analysis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://legalclarity.org/national-archives-ufo-records-accessing-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legalclarity.org">[LegalClarity]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legalclarity.org</span><span class="citation-popover-title">Legal Clarity National Archives UFO Records: Accessing Project Blue Book</span><span class="citation-popover-snippet">National Archives UFO Records: Accessing Project Blue Book - LegalClarityDecember 13, 2025...</span><span class="citation-popover-meta">Published: December 13, 2025</span></span></span>
 
 Within NARA’s descriptive framework, these administrative series are separately identifiable in the National [Archives]({{ 'archives/' | relative_url }}) Catalog, often with their own National Archives Identifiers and metadata that distinguish them from the sighting case series. Bulk download options now make these series available in digital form — including JSON metadata and downloadable PDFs or image sets — allowing researchers to reconstruct administrative narratives alongside case‑level data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/free-online-records-digital-microfilm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">Free online records: digital microfilm</span><span class="citation-popover-snippet">How many are online? * None * Some * All WHY USE THIS GUIDE? This guide lists and provides access to all the record series at...</span></span></span>
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_project_blue_book_ar_9502cd-Illustration-2-dark.svg" | relative_url }}" alt="Blue Book Files illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_project_blue_book_ar_9502cd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_project_blue_book_ar_9502cd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Microfilm Access and Photographic Records
@@ -297,9 +294,7 @@ Microfilm remains a critical access pathway because many of the original paper r
 
 In recent years, digital access has expanded. NARA’s Online Public Access catalogue and bulk download portal provide digitised versions of many Blue Book series, including case files and administrative files, often accompanied by metadata that supports remote research without on‑site microfilm consultation. However, the microfilm set T‑1206 remains a reference standard, particularly for researchers who need the complete, verified archival sequence as originally preserved by NARA.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/free-online-records-digital-microfilm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">Free online records: digital microfilm</span><span class="citation-popover-snippet">How many are online? * None * Some * All WHY USE THIS GUIDE? This guide lists and provides access to all the record series at...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UlmwakUTo3M" title="UFO Interview, 1966" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UlmwakUTo3M" target="_blank" rel="noopener noreferrer">UFO Interview, 1966</a></p><p class="youtube-embed-meta">Channel: US National Archives &middot; Views: 688.0K &middot; Uploaded: September 2013 &middot; Length: 4 minutes 31 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UlmwakUTo3M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UlmwakUTo3M">Open on YouTube</a></p></div></div></div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jjinS2lZAsY" title="Project Blue Book" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jjinS2lZAsY" target="_blank" rel="noopener noreferrer">Project Blue Book</a></p><p class="youtube-embed-meta">Channel: Daily Dose Documentary &middot; Views: 391 &middot; Uploaded: October 2021 &middot; Length: 3 minutes 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jjinS2lZAsY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jjinS2lZAsY">Open on YouTube</a></p></div></div></div>
 
@@ -307,8 +302,7 @@ In recent years, digital access has expanded. NARA’s Online Public Access cata
 
 Researchers approaching the Blue Book holdings benefit from several navigational tools that map the archival structure. Within the microfilm set, the initial roll’s finding aids index individual sightings by date and location, functioning like a catalogue that precedes the substantive documents. In the online catalogue, each series is assigned identifiers that clarify scope — for example, separate entries for administrative files, case files and sanitized case file versions intended for broader public distribution. These metadata entries include descriptive notes, date ranges, format information and links to digital objects where available.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/free-online-records-digital-microfilm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">Free online records: digital microfilm</span><span class="citation-popover-snippet">How many are online? * None * Some * All WHY USE THIS GUIDE? This guide lists and provides access to all the record series at...</span></span></span>
 
-Understanding the distinction between microfilm, original paper, and digital surrogate holdings helps researchers target the right format for their needs. While microfilm offers a near‑complete analogue of the original textual records, optimisation of digital surrogates in the catalogue — including large image‑ or PDF‑based downloads — increasingly complements or substitutes for roll‑by‑roll research.<span class="citation-chip-wrap"><a class="citation-chip" href="https://legalclarity.org/national-archives-ufo-records-accessing-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legalclarity.org">[LegalClarity]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legalclarity.org</span><span class="citation-popover-title">Legal Clarity National Archives UFO Records: Accessing Project Blue Book</span><span class="citation-popover-snippet">LegalClarityNational Archives UFO Records: Accessing Project Blue Book - LegalClarityDecember 13, 2025...</span><span class="citation-popover-meta">Published: December 13, 2025</span></span></span>
-
+Understanding the distinction between microfilm, original paper, and digital surrogate holdings helps researchers target the right format for their needs. While microfilm offers a near‑complete analogue of the original textual records, optimisation of digital surrogates in the catalogue — including large image‑ or PDF‑based downloads — increasingly complements or substitutes for roll‑by‑roll research.<span class="citation-chip-wrap"><a class="citation-chip" href="https://legalclarity.org/national-archives-ufo-records-accessing-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legalclarity.org">[LegalClarity]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legalclarity.org</span><span class="citation-popover-title">Legal Clarity National Archives UFO Records: Accessing Project Blue Book</span><span class="citation-popover-snippet">National Archives UFO Records: Accessing Project Blue Book - LegalClarityDecember 13, 2025...</span><span class="citation-popover-meta">Published: December 13, 2025</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_project_blue_book_ar_9502cd-Illustration-3-dark.svg" | relative_url }}" alt="Blue Book Files illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_project_blue_book_ar_9502cd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_project_blue_book_ar_9502cd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -709,116 +703,116 @@ Understanding the distinction between microfilm, original paper, and digital sur
 1. <a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying Objects | National ArchivesJune 25, 2024...</p></details>
    Published: June 25, 2024  
 
 2. <a id="endnote-2"></a>
    Source: legalclarity.org  
    Title: Legal Clarity National Archives UFO Records: Accessing Project Blue Book  
-   Link: [https://legalclarity.org/national-archives-ufo-records-accessing-project-blue-book/](https://legalclarity.org/national-archives-ufo-records-accessing-project-blue-book/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LegalClarityNational Archives UFO Records: Accessing Project Blue Book - LegalClarityDecember 13, 2025...</p></details>
+   Link: <a href="https://legalclarity.org/national-archives-ufo-records-accessing-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://legalclarity.org/national-archives-ufo-records-accessing-project-blue-book/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives UFO Records: Accessing Project Blue Book - LegalClarityDecember 13, 2025...</p></details>
    Published: December 13, 2025  
 
 3. <a id="endnote-3"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download](https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download)  
+   Link: <a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesBulk Downloads for Records Related to Unidentified Anomalous Phenomena (UAPs) | National ArchivesApril 24, 2025...</p></details>
    Published: April 24, 2025  
 
 4. <a id="endnote-4"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/textual-and-microfilm](https://www.archives.gov/research/topics/uaps/textual-and-microfilm)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/textual-and-microfilm" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/textual-and-microfilm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>icrofilm | National ArchivesApril 24, 2025 — RECORDS RELATED TO UNIDENTIFIED FLYING OBJECTS (UFOS) AND UNIDENTIFIED ANOMALOUS PHENOMENA (...</p></details>
    Published: April 24, 2025  
 
 5. <a id="endnote-5"></a>
    Source: archives.gov  
    Title: Do Records Show Proof of UFOs?  
-   Link: [https://www.archives.gov/news/articles/do-records-show-proof-of-ufos](https://www.archives.gov/news/articles/do-records-show-proof-of-ufos)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| National ArchivesJuly 24, 2023 — DO RECORDS SHOW PROOF OF UFOS? En Español Image: UFO graphic banner By Kerri Lawrence | National Archi...</p></details>
+   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesJuly 24, 2023 — DO RECORDS SHOW PROOF OF UFOS? En Español Image: UFO graphic banner By Kerri Lawrence | National Archi...</p></details>
    Published: July 24, 2023  
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=EZ8uLaWP0qo](https://www.youtube.com/watch?v=EZ8uLaWP0qo)  
+   Link: <a href="https://www.youtube.com/watch?v=EZ8uLaWP0qo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EZ8uLaWP0qo</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
    Title: Project Blue Book  
-   Link: [https://www.youtube.com/watch?v=jjinS2lZAsY](https://www.youtube.com/watch?v=jjinS2lZAsY)  
+   Link: <a href="https://www.youtube.com/watch?v=jjinS2lZAsY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jjinS2lZAsY</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>17th December 1969: Project Blue Book, the United States&#x27; study of UFOs, officially terminated...</p></details>
    Published: December 1969  
 
 8. <a id="endnote-8"></a>
    Source: cufos.org  
    Title: Project Blue Book  
-   Link: [https://cufos.org/resources/project-blue-book/](https://cufos.org/resources/project-blue-book/)  
+   Link: <a href="https://cufos.org/resources/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/resources/project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>14, as edited by Leon Davidson, July 1966The United States Air Force managed three UFO projects, from 1948 to 1969. The first w...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nationalarchives.gov.uk  
    Title: Free online records: digital microfilm  
-   Link: [https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/free-online-records-digital-microfilm](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/free-online-records-digital-microfilm)  
+   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/free-online-records-digital-microfilm" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/free-online-records-digital-microfilm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How many are online? * None * Some * All WHY USE THIS GUIDE? This guide lists and provides access to all the record series at...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: commons.wikimedia.org  
-   Link: [https://commons.wikimedia.org/wiki/Category%3AUS_National_Archives_series%3A_Project_Blue_Book_Administrative_Files%2C_1947_-_1969](https://commons.wikimedia.org/wiki/Category%3AUS_National_Archives_series%3A_Project_Blue_Book_Administrative_Files%2C_1947_-_1969)  
+   Link: <a href="https://commons.wikimedia.org/wiki/Category%3AUS_National_Archives_series%3A_Project_Blue_Book_Administrative_Files%2C_1947_-_1969" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AUS_National_Archives_series%3A_Project_Blue_Book_Administrative_Files%2C_1947_-_1969</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgCategory:US National Archives series: Project Blue Book Administrative Files, 1947 - 1969 - Wikimedia CommonsSeptember 19, 2...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/798530947/T206](https://www.scribd.com/document/798530947/T206)  
+   Link: <a href="https://www.scribd.com/document/798530947/T206" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/798530947/T206</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ews 5 pages Project Blue Book UFO Records Access UPLOADED BY Tom Miller AI-enhanced title Copyright © © All Rights Reserved We take c...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: scribd.com  
    Title: Project Blue Book Archive | PDF | National Archives And Records Administration  
-   Link: [https://www.scribd.com/document/751733389/Project-Blue-Book-Archive](https://www.scribd.com/document/751733389/Project-Blue-Book-Archive)  
+   Link: <a href="https://www.scribd.com/document/751733389/Project-Blue-Book-Archive" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/751733389/Project-Blue-Book-Archive</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 5, 1955 — THIS PDF FORMAT DOCUMENT WAS PRODUCED BY THE PROJECT BLUE BOOK ARCHIVE [http://www.bluebookarchive.org](http://www.bluebookarchive.org) with the support of P...</p></details>
    Published: May 5, 1955  
 
 13. <a id="endnote-13"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/htm/bludet.htm](https://ufologie.patrickgross.org/htm/bludet.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/htm/bludet.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/bludet.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at close sight: Project Blue Book archive contentPROJECT BLUE BOOK: RG 341.15 RECORDS OF PROJECT BLUE BOOK 1947-1969: BRIEF HISTORIC...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: uapedia.ai  
    Title: Unlocking New Realities Project Blue Book Records & Data Archives  
-   Link: [https://www.uapedia.ai/wiki/project-blue-book-records-data-archives/](https://www.uapedia.ai/wiki/project-blue-book-records-data-archives/)  
+   Link: <a href="https://www.uapedia.ai/wiki/project-blue-book-records-data-archives/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapedia.ai/wiki/project-blue-book-records-data-archives/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force’s Project Blue Book record set (1947–1969): what exists, where it’s archived, how the data w...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: theblackvault.com  
    Title: Many of these files are not available  
-   Link: [https://www.theblackvault.com/casefiles/desks-project-blue-book/](https://www.theblackvault.com/casefiles/desks-project-blue-book/)  
+   Link: <a href="https://www.theblackvault.com/casefiles/desks-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/desks-project-blue-book/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>From the Desks of Project Blue Book - The Black Vault Case FilesDecember 15, 2017 — FROM THE DESKS OF PROJECT BLUE BOOK Image The Black V...</p></details>
    Published: December 15, 2017  
 
 16. <a id="endnote-16"></a>
    Source: commons.wikimedia.org  
    Title: File:Project Blue Book FBI file  
-   Link: [https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_FBI_file.pdf](https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_FBI_file.pdf)  
+   Link: <a href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_FBI_file.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_FBI_file.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Project Blue Book FBI file.pdf - Wikimedia CommonsFILE:PROJECT BLUE BOOK FBI FILE.PDF * File * Discussion [Input] Engli...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: docslib.org  
    Title: Project Blue Book (UFO) Part 1 of 1  
-   Link: [https://docslib.org/doc/2892431/project-blue-book-ufo-part-1-of-1](https://docslib.org/doc/2892431/project-blue-book-ufo-part-1-of-1)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DocsLibPROJECT BLUE BOOK Publication Number: T1206 Publication...</p></details>
+   Link: <a href="https://docslib.org/doc/2892431/project-blue-book-ufo-part-1-of-1" target="_blank" rel="noopener noreferrer nofollow">https://docslib.org/doc/2892431/project-blue-book-ufo-part-1-of-1</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>PROJECT BLUE BOOK Publication Number: T1206 Publication...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: bluebookfiles.org  
    Title: Text ha  
-   Link: [https://bluebookfiles.org/doc/17637](https://bluebookfiles.org/doc/17637)  
+   Link: <a href="https://bluebookfiles.org/doc/17637" target="_blank" rel="noopener noreferrer nofollow">https://bluebookfiles.org/doc/17637</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book Archive — Declassified UFO Documents 1947-1969PROJECT BLUE BOOK ARCHIVE — Declassified UFO Documents &amp; Records Search M...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: ufology.patrickgross.org  
-   Link: [https://ufology.patrickgross.org/htm/bluefaq.htm](https://ufology.patrickgross.org/htm/bluefaq.htm)  
+   Link: <a href="https://ufology.patrickgross.org/htm/bluefaq.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufology.patrickgross.org/htm/bluefaq.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force UFO investigation took over from Project Grudge in 1952 and lasted until Dec 1969. By this time, almost 13,000 sighting reports...</p></details>

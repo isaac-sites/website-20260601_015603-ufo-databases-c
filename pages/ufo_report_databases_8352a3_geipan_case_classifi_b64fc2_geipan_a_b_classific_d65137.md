@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /geipan/
 nav_short_title: A & B
 title: How GEIPAN Determines Identified and Probable Cases
-title_full: How GEIPAN Determines Identified and Probable Cases | GEIPAN
+title_full: How GEIPAN Determines Identified and Probable Cases
 display_title_short: A & B
 display_title: A & B
 heading_title: How GEIPAN Determines Identified and Probable Cases
@@ -201,7 +201,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 22:16:19'
-parent_title: How France Classifies Public UAP Cases | UFO Archives
+parent_title: How France Classifies Public UAP Cases
 parent_permalink: /geipan/
 parent_nav_short_title: GEIPAN
 parent_heading_title: How France Classifies Public UAP Cases
@@ -266,8 +266,7 @@ image: /assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_ge
 
 ## Introduction
 
-Within France’s public UFO and UAP database, GEIPAN’s A and B categories are the mechanism used to distinguish sightings that have a plausible conventional explanation from those that remain unresolved. An **A classification** means investigators consider the phenomenon identified with a very high degree of confidence. A **B classification** means the most likely explanation has been found, but some uncertainty remains because the available evidence is incomplete or does not allow absolute confirmation. GEIPAN uses these categories to separate cases that are effectively resolved from those that lack sufficient information or remain unexplained after investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/en/recherche/cas/tab?field_date_value=2020-11-18&amp;field_is_new_value=1&amp;field_is_revisited_value=All&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=21&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">GeipanRecherche de cas[A750] DE AUMELAS (34) VERS GIGNAC (34) 04.12.2021, 04/12/2021, B; [A86] DE SCEAUX (92) VERS PARIS (75) 01.11.2021...</span></span></span>
-
+Within France’s public UFO and UAP database, GEIPAN’s A and B categories are the mechanism used to distinguish sightings that have a plausible conventional explanation from those that remain unresolved. An **A classification** means investigators consider the phenomenon identified with a very high degree of confidence. A **B classification** means the most likely explanation has been found, but some uncertainty remains because the available evidence is incomplete or does not allow absolute confirmation. GEIPAN uses these categories to separate cases that are effectively resolved from those that lack sufficient information or remain unexplained after investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/en/recherche/cas/tab?field_date_value=2020-11-18&amp;field_is_new_value=1&amp;field_is_revisited_value=All&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=21&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Recherche de cas[A750] DE AUMELAS (34) VERS GIGNAC (34) 04.12.2021, 04/12/2021, B; [A86] DE SCEAUX (92) VERS PARIS (75) 01.11.2021...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_a_b_classific_d65137-Illustration-1-dark.svg" | relative_url }}" alt="A &amp; B illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_a_b_classific_d65137-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_a_b_classific_d65137-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For readers exploring [UFO report databases and catalogues]({{ 'ufo-report-databases-and-catalogues/' | relative_url }}), the key point is that neither A nor B indicates an unknown phenomenon. Both categories represent cases where investigators believe a known cause best explains what witnesses reported. The difference lies in the strength of the identification rather than in the type of phenomenon involved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/en/search/cas?field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date_d_observation&amp;page=%2C32&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Recherche de casThe Geipan. Mission &amp; Geipan · Its history · Documentation · Events · Actualities; Cases &amp; Testimonials. Case search · St...</span></span></span>
@@ -276,12 +275,11 @@ For readers exploring [UFO report databases and catalogues]({{ 'ufo-report-datab
 
 GEIPAN formally defines the categories as follows:
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/en/node/412" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[* **A: Phenomenon perfectly identified after investigation.**]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> * **B: Phenomenon probably identified after investigation.** Geipan <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/en/node/412" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* **A: Phenomenon perfectly identified after investigation.** <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/en/node/412" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> * **B: Phenomenon probably identified after investigation.** Geipan <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/en/node/412" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The distinction is subtle but important. An A case is one in which the investigation produces a near-certain match between the reported observation and a known object, event, or natural phenomenon. A B case reaches a probable explanation, but investigators cannot eliminate all alternative possibilities with the available evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/en/search/cas?field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=%2C290&amp;s=09&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Recherche de casThe Geipan. Mission &amp; Geipan · Its history · Documentation · Events · Actualities; Cases &amp; Testimonials. Case search · St...</span></span></span>
 
 Examples of explanations that commonly lead to A or B classifications include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -291,12 +289,11 @@ Examples of explanations that commonly lead to A or B classifications include:
 * Atmospheric optical effects.
 * Satellites and satellite flares.
 * Chinese lanterns and other airborne light sources.
-* Misperceptions caused by viewing angle, distance, weather, or witness movement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/en/recherche/cas/tab?field_date_value=2020-11-18&amp;field_is_new_value=1&amp;field_is_revisited_value=All&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=21&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">GeipanRecherche de cas[A750] DE AUMELAS (34) VERS GIGNAC (34) 04.12.2021, 04/12/2021, B; [A86] DE SCEAUX (92) VERS PARIS (75) 01.11.2021...</span></span></span>
+* Misperceptions caused by viewing angle, distance, weather, or witness movement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/en/recherche/cas/tab?field_date_value=2020-11-18&amp;field_is_new_value=1&amp;field_is_revisited_value=All&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=21&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Recherche de cas[A750] DE AUMELAS (34) VERS GIGNAC (34) 04.12.2021, 04/12/2021, B; [A86] DE SCEAUX (92) VERS PARIS (75) 01.11.2021...</span></span></span>
 
 </div>
 
 GEIPAN's published statistics show that the majority of resolved cases fall into the A or B categories, with many arising from misidentifications or perceptual errors rather than genuinely unusual aerial phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/en/search/cas?field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date_d_observation&amp;page=%2C32&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Recherche de casThe Geipan. Mission &amp; Geipan · Its history · Documentation · Events · Actualities; Cases &amp; Testimonials. Case search · St...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7YT8bfZI8fs" title="CIA Declassifies UFO Documents 👽 | Download Now 💾 | 3,000 Pages" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7YT8bfZI8fs" target="_blank" rel="noopener noreferrer">CIA Declassifies UFO Documents 👽 | Download Now 💾 | 3,000 Pages</a></p><p class="youtube-embed-meta">Channel: The Why Files &middot; Views: 296.6K &middot; Uploaded: January 2021 &middot; Length: 2 minutes 7 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7YT8bfZI8fs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7YT8bfZI8fs">Open on YouTube</a></p></div></div></div>
 
@@ -314,7 +311,6 @@ GEIPAN defines strangeness as the distance from the strongest known explanation.
 
 Consistency reflects the quality and [reliability]({{ 'reliability/' | relative_url }}) of the information available. Investigators consider factors such as:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * Number of witnesses.
@@ -328,7 +324,6 @@ Consistency reflects the quality and [reliability]({{ 'reliability/' | relative_
 
 A case supported by multiple independent witnesses and objective evidence is considered more consistent than a brief report from a single observer with limited details. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">GEIPANGEIPAN (an acronym in French for Groupe d&#x27;Études et d&#x27;Informations sur les Phénomènes Aérospatiaux Non-identifiés, or Unidentifi...</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_a_b_classific_d65137-Illustration-2-dark.svg" | relative_url }}" alt="A &amp; B illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_a_b_classific_d65137-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_a_b_classific_d65137-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### When a Case Becomes A Rather Than B
 
@@ -341,7 +336,6 @@ In practical terms:
 SituationLikely ClassificationStrong evidence directly matches a known causeAKnown cause fits well but some uncertainty remainsBExplanation cannot be tested because information is insufficientCNo satisfactory explanation survives investigationD1 or D2
 
 This framework prevents investigators from treating every unresolved detail as a mystery while also avoiding overconfident conclusions when the evidence is incomplete. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">GEIPANGEIPAN (an acronym in French for Groupe d&#x27;Études et d&#x27;Informations sur les Phénomènes Aérospatiaux Non-identifiés, or Unidentifi...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yIEfm0oDsmM" title="Craziest New UFO Files Apollo 11 &amp; 12: Forensic Expert Analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yIEfm0oDsmM" target="_blank" rel="noopener noreferrer">Craziest New UFO Files Apollo 11 &amp; 12: Forensic Expert Analysis</a></p><p class="youtube-embed-meta">Channel: Dr. G Explains &middot; Views: 363.1K &middot; Uploaded: May 2026 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yIEfm0oDsmM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yIEfm0oDsmM">Open on YouTube</a></p></div></div></div>
 
@@ -361,7 +355,6 @@ The database contains multiple **B-classified** reports ultimately attributed to
 
 A witness might report a stationary light that later appears to move in unusual ways. Investigation may show that an aircraft viewed under specific lighting conditions and relative motion effects provides the best explanation. If the match is persuasive but not conclusive, the case remains B rather than A. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">GEIPANGEIPAN (an acronym in French for Groupe d&#x27;Études et d&#x27;Informations sur les Phénomènes Aérospatiaux Non-identifiés, or Unidentifi...</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_a_b_classific_d65137-Illustration-3-dark.svg" | relative_url }}" alt="A &amp; B illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_a_b_classific_d65137-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_a_b_classific_d65137-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Lanterns and Atmospheric Phenomena
 
@@ -375,9 +368,7 @@ This distinction helps readers avoid a common misunderstanding: uncertainty does
 
 For researchers and members of the public using UFO report catalogues, A and B classifications therefore serve as a transparency tool. They show not only what investigators think happened, but also how confident they are in that assessment. Cases in both categories are considered resolved, yet the database preserves the difference between a near-certain identification and a well-supported probability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">GEIPANGEIPAN (an acronym in French for Groupe d&#x27;Études et d&#x27;Informations sur les Phénomènes Aérospatiaux Non-identifiés, or Unidentifi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">GEIPANGEIPAN (an acronym in French for Groupe d&#x27;Études et d&#x27;Informations sur les Phénomènes Aérospatiaux Non-identifiés, or Unidentifi...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mmcgzZo8lVI" title="Classified UFO documents released" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mmcgzZo8lVI" target="_blank" rel="noopener noreferrer">Classified UFO documents released</a></p><p class="youtube-embed-meta">Channel: CNN &middot; Views: 376.7K &middot; Uploaded: January 2015 &middot; Length: 1 minute 31 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mmcgzZo8lVI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mmcgzZo8lVI">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -775,119 +766,119 @@ For researchers and members of the public using UFO report catalogues, A and B c
 
 1. <a id="endnote-1"></a>
    Source: geipan.fr  
-   Link: [https://geipan.fr/en/recherche/cas/tab?field_date_value=2020-11-18&field_is_new_value=1&field_is_revisited_value=All&field_type_de_cas_target_id=All&order=title&page=21&sort=asc](https://geipan.fr/en/recherche/cas/tab?field_date_value=2020-11-18&field_is_new_value=1&field_is_revisited_value=All&field_type_de_cas_target_id=All&order=title&page=21&sort=asc)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GeipanRecherche de cas[A750] DE AUMELAS (34) VERS GIGNAC (34) 04.12.2021, 04/12/2021, B; [A86] DE SCEAUX (92) VERS PARIS (75) 01.11.2021...</p></details>
+   Link: <a href="https://geipan.fr/en/recherche/cas/tab?field_date_value=2020-11-18&amp;field_is_new_value=1&amp;field_is_revisited_value=All&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=21&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow">https://geipan.fr/en/recherche/cas/tab?field_date_value=2020-11-18&amp;field_is_new_value=1&amp;field_is_revisited_value=All&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=21&amp;sort=asc</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Recherche de cas[A750] DE AUMELAS (34) VERS GIGNAC (34) 04.12.2021, 04/12/2021, B; [A86] DE SCEAUX (92) VERS PARIS (75) 01.11.2021...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: geipan.fr  
-   Link: [https://geipan.fr/en/search/cas?field_date_d_observation_value%5Bmax%5D=&field_date_d_observation_value%5Bmin%5D=&field_departement_target_id=&field_document_existe_ou_pas_value=All&field_is_new_value=All&field_is_revisited_value=All&field_latitude_value%5Bmax%5D=&field_latitude_value%5Bmin%5D=&field_longitude_value%5Bmax%5D=&field_phenomene_target_id=&field_type_de_cas_target_id=All&order=field_date_d_observation&page=%2C32&sort=desc](https://geipan.fr/en/search/cas?field_date_d_observation_value%5Bmax%5D=&field_date_d_observation_value%5Bmin%5D=&field_departement_target_id=&field_document_existe_ou_pas_value=All&field_is_new_value=All&field_is_revisited_value=All&field_latitude_value%5Bmax%5D=&field_latitude_value%5Bmin%5D=&field_longitude_value%5Bmax%5D=&field_phenomene_target_id=&field_type_de_cas_target_id=All&order=field_date_d_observation&page=%2C32&sort=desc)  
+   Link: <a href="https://geipan.fr/en/search/cas?field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date_d_observation&amp;page=%2C32&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow">https://geipan.fr/en/search/cas?field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date_d_observation&amp;page=%2C32&amp;sort=desc</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Recherche de casThe Geipan. Mission &amp; Geipan · Its history · Documentation · Events · Actualities; Cases &amp; Testimonials. Case search · St...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: geipan.fr  
-   Link: [https://geipan.fr/en/search/cas?field_agregation_index_value=&field_date_d_observation_value%5Bmax%5D=&field_date_d_observation_value%5Bmin%5D=&field_date_value=&field_departement_target_id=&field_document_existe_ou_pas_value=All&field_is_new_value=All&field_is_revisited_value=All&field_latitude_value%5Bmax%5D=&field_latitude_value%5Bmin%5D=&field_longitude_value%5Bmax%5D=&field_longitude_value%5Bmin%5D=&field_phenomene_target_id=&field_type_de_cas_target_id=All&order=title&page=%2C290&s=09&sort=desc](https://geipan.fr/en/search/cas?field_agregation_index_value=&field_date_d_observation_value%5Bmax%5D=&field_date_d_observation_value%5Bmin%5D=&field_date_value=&field_departement_target_id=&field_document_existe_ou_pas_value=All&field_is_new_value=All&field_is_revisited_value=All&field_latitude_value%5Bmax%5D=&field_latitude_value%5Bmin%5D=&field_longitude_value%5Bmax%5D=&field_longitude_value%5Bmin%5D=&field_phenomene_target_id=&field_type_de_cas_target_id=All&order=title&page=%2C290&s=09&sort=desc)  
+   Link: <a href="https://geipan.fr/en/search/cas?field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=%2C290&amp;s=09&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow">https://geipan.fr/en/search/cas?field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=%2C290&amp;s=09&amp;sort=desc</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Recherche de casThe Geipan. Mission &amp; Geipan · Its history · Documentation · Events · Actualities; Cases &amp; Testimonials. Case search · St...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=hn2xTieploU](https://www.youtube.com/watch?v=hn2xTieploU)  
+   Link: <a href="https://www.youtube.com/watch?v=hn2xTieploU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hn2xTieploU</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Office • FRANCE 24...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/en/node/412](https://www.cnes-geipan.fr/en/node/412)  
+   Link: <a href="https://www.cnes-geipan.fr/en/node/412" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/412</a>  
 
 6. <a id="endnote-6"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/en/node/58787](https://www.cnes-geipan.fr/en/node/58787)  
+   Link: <a href="https://www.cnes-geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58787</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>GeipanClassificationA more detailed classification (A/B/C/D1/D2) has been used by the GEIPAN. It is based on 2 main criteria: the weirdne...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: cnes-geipan.fr  
    Title: methodologie classification geipan  
-   Link: [https://www.cnes-geipan.fr/en/actualites/methodologie-classification-geipan](https://www.cnes-geipan.fr/en/actualites/methodologie-classification-geipan)  
+   Link: <a href="https://www.cnes-geipan.fr/en/actualites/methodologie-classification-geipan" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/actualites/methodologie-classification-geipan</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>GeipanLa méthodologie de classification au GEIPAN26 Feb 2021 — La classification du GEIPAN (A/B/C/D1/D2) s&#x27;appuie sur l&#x27;évaluation de deu...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: uapedia.ai  
-   Link: [https://uapedia.ai/wiki/geipan-frances-official-uap-unit/](https://uapedia.ai/wiki/geipan-frances-official-uap-unit/)  
+   Link: <a href="https://uapedia.ai/wiki/geipan-frances-official-uap-unit/" target="_blank" rel="noopener noreferrer nofollow">https://uapedia.ai/wiki/geipan-frances-official-uap-unit/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPAN: France&#x27;s Official UAP UnitC – Unidentified / not workable (insufficient data to test hypotheses). D – Unidentified after investig...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/en/node/58788](https://www.cnes-geipan.fr/en/node/58788)  
+   Link: <a href="https://www.cnes-geipan.fr/en/node/58788" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58788</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MethodologyClassification categories: Classification A: Phenomenon perfectly identified after investigation. Classification B: Phenomenon...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/en/glossaire](https://www.cnes-geipan.fr/en/glossaire)  
+   Link: <a href="https://www.cnes-geipan.fr/en/glossaire" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/glossaire</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GeipanLe glossaire du GeipanCLASSIFICATION DES CAS. La classification d&#x27;un cas nécessite l&#x27;évaluation, d&#x27;une part, de son degré de consis...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: cnes-geipan.fr  
    Title: evolution classification des cas  
-   Link: [https://www.cnes-geipan.fr/en/actualites/evolution-classification-des-cas](https://www.cnes-geipan.fr/en/actualites/evolution-classification-des-cas)  
+   Link: <a href="https://www.cnes-geipan.fr/en/actualites/evolution-classification-des-cas" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/actualites/evolution-classification-des-cas</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GeipanEvolution de la CLASSIFICATION DES CAS10 Dec 2008 — Depuis l&#x27;origine, les OBSERVATION de PAN analysés par le GEPAN et le SEPRA sont...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/GEIPAN](https://en.wikipedia.org/wiki/GEIPAN)  
+   Link: <a href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEIPAN</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPANGEIPAN (an acronym in French for Groupe d&#x27;Études et d&#x27;Informations sur les Phénomènes Aérospatiaux Non-identifiés, or Unidentifi...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue](https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue)  
+   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A global picture of unidentified anomalous phenomenaOver recent years, the issue of unidentified anomalous phenomena (UAP) has incr...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/369507030_GEIPAN_classification_with_text_mining_and_machine_learning](https://www.researchgate.net/publication/369507030_GEIPAN_classification_with_text_mining_and_machine_learning)  
+   Link: <a href="https://www.researchgate.net/publication/369507030_GEIPAN_classification_with_text_mining_and_machine_learning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/369507030_GEIPAN_classification_with_text_mining_and_machine_learning</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ly explore and classify the content of massive data from databases and from texts.Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: ufomagazines.com  
    Title: ufology news kalytyuk ufology news no 17 july august 2013  
-   Link: [https://www.ufomagazines.com/ufology-news-kalytyuk-ufology-news-no-17-july-august-2013/](https://www.ufomagazines.com/ufology-news-kalytyuk-ufology-news-no-17-july-august-2013/)  
+   Link: <a href="https://www.ufomagazines.com/ufology-news-kalytyuk-ufology-news-no-17-july-august-2013/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomagazines.com/ufology-news-kalytyuk-ufology-news-no-17-july-august-2013/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>НОВОСТИ УФОЛОГИИ — Ufology News (Kalytyuk)9 Aug 2013 — GEIPAN uses an ABCD classification system: A for easily identified phenomena, B fo...</p></details>
    Published: august 2013  
 
 16. <a id="endnote-16"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/316858564/Unidentified-Flying-Object](https://www.scribd.com/document/316858564/Unidentified-Flying-Object)  
+   Link: <a href="https://www.scribd.com/document/316858564/Unidentified-Flying-Object" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/316858564/Unidentified-Flying-Object</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It describes how the term was coined by the US Air Force to...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1l3mw3x/pentagons_aaro_director_jon_kosloski_just_told/](https://www.reddit.com/r/UFOs/comments/1l3mw3x/pentagons_aaro_director_jon_kosloski_just_told/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1l3mw3x/pentagons_aaro_director_jon_kosloski_just_told/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1l3mw3x/pentagons_aaro_director_jon_kosloski_just_told/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;trol.&quot; - Leslie Kean, 2010, page 120: [https://archive.org...&quot;](https://archive.org...&quot;)...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/en/node/58791](https://www.cnes-geipan.fr/en/node/58791)  
+   Link: <a href="https://www.cnes-geipan.fr/en/node/58791" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58791</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the CNES (French Space Agency). · It also...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: cnes-geipan.fr  
    Title: 2015 09 01 Spatial Point Pattern Analysis of the Unidentified  
-   Link: [https://www.cnes-geipan.fr/sites/default/files/2015-09-01_Spatial_Point_Pattern_Analysis_of_the_Unidentified.pdf](https://www.cnes-geipan.fr/sites/default/files/2015-09-01_Spatial_Point_Pattern_Analysis_of_the_Unidentified.pdf)  
+   Link: <a href="https://www.cnes-geipan.fr/sites/default/files/2015-09-01_Spatial_Point_Pattern_Analysis_of_the_Unidentified.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/2015-09-01_Spatial_Point_Pattern_Analysis_of_the_Unidentified.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A/B/C/D, forming a kind of scale, which goes from perfectly known and determined...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Unidentified flying object  
-   Link: [https://en.wikipedia.org/wiki/Unidentified_flying_object](https://en.wikipedia.org/wiki/Unidentified_flying_object)  
+   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified flying objectAn unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or exp...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: jhmovie.fandom.com  
    Title: Unidentified flying object  
-   Link: [https://jhmovie.fandom.com/wiki/Unidentified_flying_object](https://jhmovie.fandom.com/wiki/Unidentified_flying_object)  
+   Link: <a href="https://jhmovie.fandom.com/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Unidentified_flying_object</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>flying object | JH Wiki Collection Wiki - Fandom↑ GEIPAN: Le GEIPAN. Groupe d&#x27;Études et d&#x27;Informations sur les Phénomènes Aérospatiaux No...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: ultimatepopculture.fandom.com  
    Title: Unidentified flying object  
-   Link: [https://ultimatepopculture.fandom.com/wiki/Unidentified_flying_object](https://ultimatepopculture.fandom.com/wiki/Unidentified_flying_object)  
+   Link: <a href="https://ultimatepopculture.fandom.com/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://ultimatepopculture.fandom.com/wiki/Unidentified_flying_object</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>flying object | Ultimate Pop Culture Wiki - FandomUnidentified flying object (UFO) is the popular term for any aerial phenomenon that can...</p></details>

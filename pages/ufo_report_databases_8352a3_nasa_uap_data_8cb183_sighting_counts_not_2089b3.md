@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /nasa-uap/
 nav_short_title: Sighting Counts
 title: Why More UFO Reports Do Not Mean Better Evidence
-title_full: Why More UFO Reports Do Not Mean Better Evidence | NASA UAP
+title_full: Why More UFO Reports Do Not Mean Better Evidence
 display_title_short: Sighting Counts
 display_title: Sighting Counts
 heading_title: Why More UFO Reports Do Not Mean Better Evidence
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 22:50:43'
-parent_title: Why NASA Wants Better UAP Data | UFO Archives
+parent_title: Why NASA Wants Better UAP Data
 parent_permalink: /nasa-uap/
 parent_nav_short_title: NASA UAP
 parent_heading_title: Why NASA Wants Better UAP Data
@@ -270,7 +270,6 @@ image: /assets/images/ufo_report_databases_8352a3_nasa_uap_data_8cb183_sighting_
 
 Large UFO and UAP databases can be useful, but not in the way many people assume. A catalogue containing tens of thousands of reports does not automatically become stronger scientific evidence simply because it grows larger. NASA’s 2023 independent UAP study repeatedly stressed that the central problem is not the shortage of reports. It is the shortage of high-quality, testable data attached to those reports. According to the study, current analysis is often limited by poor sensor calibration, missing metadata, a lack of multiple measurements, and inconsistent observation records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_nasa_uap_data_8cb183_sighting_counts_not_2089b3-Illustration-1-dark.svg" | relative_url }}" alt="Sighting Counts illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_nasa_uap_data_8cb183_sighting_counts_not_2089b3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_nasa_uap_data_8cb183_sighting_counts_not_2089b3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction matters because UFO databases are often discussed as though sighting totals themselves prove that something extraordinary is occurring. Large [archives]({{ 'archives/' | relative_url }}) can reveal patterns in reporting behaviour, public attention, geography and witness experience. They cannot, by themselves, determine what was actually observed. NASA’s framework shifts attention away from raw numbers and toward evidence quality, reproducibility and measurement standards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
@@ -278,10 +277,9 @@ This distinction matters because UFO databases are often discussed as though sig
 
 The existence of a large reporting database demonstrates that many people have reported unusual experiences. It does not demonstrate that all, most or even a significant fraction of those experiences share the same cause.
 
-The National UFO Reporting Center ([NUFORC]({{ 'nuforc/' | relative_url }})), one of the largest public UFO archives, contains reports collected over decades and publishes large counts organised by location and time period. Some states contain thousands of entries, and reporting surges can appear in particular months or years. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports by Location NUFORC Reports by Location; USA</span><span class="citation-popover-snippet">NUFORC Reports by LocationNUFORC Reports by Location; USA - Alabama, 1529; USA - Arkansas, 1367; USA - Arizona, 5349; USA - Californi...</span></span></span>
+The National UFO Reporting Center ([NUFORC]({{ 'nuforc/' | relative_url }})), one of the largest public UFO archives, contains reports collected over decades and publishes large counts organised by location and time period. Some states contain thousands of entries, and reporting surges can appear in particular months or years. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports by Location NUFORC Reports by Location; USA</span><span class="citation-popover-snippet">NUFORC Reports by LocationNUFORC Reports by Location; USA - Alabama, 1529; USA - Arkansas, 1367; USA - Arizona, 5349; USA - Californi...</span></span></span>
 
 Those totals can help answer questions such as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -293,7 +291,6 @@ Those totals can help answer questions such as:
 </div>
 
 They cannot directly answer questions such as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -316,7 +313,6 @@ UAP reports rarely meet that standard.
 
 For example, thousands of people might report bright lights in the sky during the same period. That surge could result from:
 
-
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
 * A genuine unusual event.
@@ -330,10 +326,9 @@ For example, thousands of people might report bright lights in the sky during th
 
 Without supporting measurements, scientists cannot determine which explanation fits the reports.
 
-This problem appeared during several modern reporting waves. Large numbers of observations can emerge rapidly, but a surge in reports does not necessarily correspond to a surge in unexplained physical phenomena. It may instead reflect increased awareness, media coverage or changes in reporting systems. Research examining large UFO datasets has found that reporting behaviour itself becomes an important variable that must be analysed separately from whatever witnesses believed they saw. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectOn the dynamics of reporting data: A case study of UFO...by FJ Antonio · 2022 · Cited by 7 — In this study, we used data fr...</span></span></span>
+This problem appeared during several modern reporting waves. Large numbers of observations can emerge rapidly, but a surge in reports does not necessarily correspond to a surge in unexplained physical phenomena. It may instead reflect increased awareness, media coverage or changes in reporting systems. Research examining large UFO datasets has found that reporting behaviour itself becomes an important variable that must be analysed separately from whatever witnesses believed they saw. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">On the dynamics of reporting data: A case study of UFO...by FJ Antonio · 2022 · Cited by 7 — In this study, we used data fr...</span></span></span>
 
 In other words, high report volume may reveal something significant about human observation and reporting patterns without proving anything about the underlying object.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bR0PaotZxD0" title="NASA UFO report finds no evidence UAP have extraterrestrial origins | FULL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bR0PaotZxD0" target="_blank" rel="noopener noreferrer">NASA UFO report finds no evidence UAP have extraterrestrial origins | FULL</a></p><p class="youtube-embed-meta">Channel: Global News &middot; Views: 37.7K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bR0PaotZxD0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bR0PaotZxD0">Open on YouTube</a></p></div></div></div>
 
@@ -342,7 +337,6 @@ In other words, high report volume may reveal something significant about human 
 NASA's report repeatedly returns to a simple point: most UAP cases lack enough information for rigorous analysis. The study notes that investigation is hampered by missing [sensor metadata]({{ 'sensor-metadata/' | relative_url }}), inadequate calibration, missing baseline information and the absence of multiple independent measurements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
 A typical public sighting report may contain:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -376,7 +370,6 @@ Without those details, apparent speed may result from perspective effects, camer
 
 This is why thousands of similar reports do not necessarily accumulate into stronger proof. If each report contains the same missing information, adding more reports mainly adds more uncertainty.
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_nasa_uap_data_8cb183_sighting_counts_not_2089b3-Illustration-2-dark.svg" | relative_url }}" alt="Sighting Counts illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_nasa_uap_data_8cb183_sighting_counts_not_2089b3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_nasa_uap_data_8cb183_sighting_counts_not_2089b3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The difference between a catalogue and a dataset
 
@@ -387,7 +380,6 @@ A catalogue preserves reports. A scientific dataset preserves measurements.
 Many UFO databases function primarily as archives. They collect witness narratives and make them available for review. That role is valuable because it preserves information that might otherwise disappear. NUFORC openly presents itself as a long-running repository of witness accounts and historical reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=event" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports by MonthSIGHTING YEAR/MONTH, REPORT COUNT. 2026/05, 160. 2026/04, 212. 2026/03, 200. 2026/02, 178. 2026/01, 283. 2025/12...</span></span></span>
 
 Scientific analysis, however, requires additional layers of information:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -405,7 +397,6 @@ A report that remains unidentified because little information exists is fundamen
 The first case reflects missing evidence. The second may indicate a genuinely unresolved phenomenon.
 
 NASA's concern is that many public discussions treat both categories as equivalent when they are not. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ur0QX1eGCQI" title="UAP data released: Astrophysicist Avi Loeb breaks down declassified records | FOX 10 Talks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ur0QX1eGCQI" target="_blank" rel="noopener noreferrer">UAP data released: Astrophysicist Avi Loeb breaks down declassified records | FOX 10 Talks</a></p><p class="youtube-embed-meta">Channel: FOX 10 Phoenix &middot; Views: 29.1K &middot; Uploaded: May 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ur0QX1eGCQI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ur0QX1eGCQI">Open on YouTube</a></p></div></div></div>
 
@@ -428,7 +419,6 @@ Those are not the same thing.
 
 A database may contain thousands of unidentified reports because thousands of reports are incomplete.
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_nasa_uap_data_8cb183_sighting_counts_not_2089b3-Illustration-3-dark.svg" | relative_url }}" alt="Sighting Counts illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_nasa_uap_data_8cb183_sighting_counts_not_2089b3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_nasa_uap_data_8cb183_sighting_counts_not_2089b3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How databases can separate volume from value
 
@@ -443,7 +433,6 @@ This does not mean low-quality reports should be discarded. Large archives remai
 The key is avoiding the assumption that all reports contribute equally to evidence. Ten thousand narrative accounts do not necessarily outweigh one carefully documented event recorded by calibrated instruments operating under known conditions.
 
 NASA's study argues that future progress depends on exactly this shift: moving from counting sightings to measuring observations. The emphasis is not on collecting the largest possible archive, but on building records that can be independently analysed, compared and tested. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Rn39Hhyk7WE" title="Pentagon UFO files show no alien evidence, analyst says" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Rn39Hhyk7WE" target="_blank" rel="noopener noreferrer">Pentagon UFO files show no alien evidence, analyst says</a></p><p class="youtube-embed-meta">Channel: Reuters &middot; Views: 21.2K &middot; Uploaded: May 2026 &middot; Length: 1 minute 10 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Rn39Hhyk7WE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Rn39Hhyk7WE">Open on YouTube</a></p></div></div></div>
 
@@ -821,89 +810,89 @@ That is why NASA's report treats UAP research primarily as a data-quality challe
 
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP FAQs8 May 2026 — The UAP independent study team&#x27;s main focus for the report was to come up with a way in which to evaluat...</p></details>
    Published: May 2026  
 
 3. <a id="endnote-3"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP9 Jun 2022 — The study will focus on identifying available data, how best to collect future data, and how NASA can use tha...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports by Location NUFORC Reports by Location; USA  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationNUFORC Reports by Location; USA - Alabama, 1529; USA - Arkansas, 1367; USA - Arizona, 5349; USA - Californi...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/ndx/?id=event](https://nuforc.org/ndx/?id=event)  
+   Link: <a href="https://nuforc.org/ndx/?id=event" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=event</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by MonthSIGHTING YEAR/MONTH, REPORT COUNT. 2026/05, 160. 2026/04, 212. 2026/03, 200. 2026/02, 178. 2026/01, 283. 2025/12...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: wired.com  
-   Link: [https://www.wired.com/story/nasa-ufos-aliens-report-2023](https://www.wired.com/story/nasa-ufos-aliens-report-2023)  
+   Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295](https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectOn the dynamics of reporting data: A case study of UFO...by FJ Antonio · 2022 · Cited by 7 — In this study, we used data fr...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>On the dynamics of reporting data: A case study of UFO...by FJ Antonio · 2022 · Cited by 7 — In this study, we used data fr...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nuforc.org  
    Title: Browse reports, images, videos, maps and more  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witn...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reuters.com  
    Title: Pentagon UFO report says most sightings 'ordinary objects' and phenomena  
-   Link: [https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/](https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/)  
+   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reuters.com  
    Title: nasa panel hold first public meeting ufo study ahead report 2023 05 31  
-   Link: [https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/](https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/)  
+   Link: <a href="https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO panel in first public meeting says better data...1 Jun 2023 — &quot;The current existing data and eyewitness reports alone are insuf...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/report-a-ufo/](https://nuforc.org/report-a-ufo/)  
+   Link: <a href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/report-a-ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>agency for reporting UFO/UAP related events.Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
 14. <a id="endnote-14"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: [https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/](https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/)  
+   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: news.sky.com  
-   Link: [https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933](https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933)  
+   Link: <a href="https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO report - live: Scientists release Unidentified...14 Sept 2023 — NASA has released a report on Unidentified Anomalous Phenomena - com...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: news.sky.com  
    Title: ufo meeting live nasa panel to examine recent sightings for first time 12893723  
-   Link: [https://news.sky.com/story/ufo-meeting-live-nasa-panel-to-examine-recent-sightings-for-first-time-12893723](https://news.sky.com/story/ufo-meeting-live-nasa-panel-to-examine-recent-sightings-for-first-time-12893723)  
+   Link: <a href="https://news.sky.com/story/ufo-meeting-live-nasa-panel-to-examine-recent-sightings-for-first-time-12893723" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-meeting-live-nasa-panel-to-examine-recent-sightings-for-first-time-12893723</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>trolled online during UFO sightings meeting31 May 2023 — NASA is &quot;searching for life in any form&quot; but &quot;has not found life beyond Earth ye...</p></details>
    Published: May 2023  
 
@@ -911,53 +900,53 @@ That is why NASA's report treats UAP research primarily as a data-quality challe
 
 18. <a id="endnote-18"></a>
    Source: rev.com  
-   Link: [https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript](https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript)  
+   Link: <a href="https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Holds First Public Meeting on UFOs TranscriptThe current existing data and eyewitness reports alone are insufficient to provide conc...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/](https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/)  
+   Link: <a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...I read the report. To summarize: we should reduce stigma for reporting this stuff. we nee...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/](https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/)  
+   Link: <a href="https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...I really hate it when &quot;it&#x27;s alien&quot; believers don&#x27;t even want their aliens to be alien. Wh...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: ada-nuforc-analysis.github.io  
-   Link: [https://ada-nuforc-analysis.github.io/](https://ada-nuforc-analysis.github.io/)  
+   Link: <a href="https://ada-nuforc-analysis.github.io/" target="_blank" rel="noopener noreferrer nofollow">https://ada-nuforc-analysis.github.io/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Report AnalysisThe NUFORC checks each reports for fakes or hoax and comments them accordingly. The reports are classified by their...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: nypost.com  
-   Link: [https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/](https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/)  
+   Link: <a href="https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;all-domain anomaly resolution office&quot; (AARO) identified 21 reports as &quot;true anomalies&quot; needing further investigation. Most sightings...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: avi-loeb.medium.com  
-   Link: [https://avi-loeb.medium.com/nasa-aaro-and-the-galileo-project-agree-on-the-need-for-a-scientific-study-of-uap-58b39c005b57](https://avi-loeb.medium.com/nasa-aaro-and-the-galileo-project-agree-on-the-need-for-a-scientific-study-of-uap-58b39c005b57)  
+   Link: <a href="https://avi-loeb.medium.com/nasa-aaro-and-the-galileo-project-agree-on-the-need-for-a-scientific-study-of-uap-58b39c005b57" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/nasa-aaro-and-the-galileo-project-agree-on-the-need-for-a-scientific-study-of-uap-58b39c005b57</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>medium.comNASA, AARO and the Galileo Project Agree on the Need for a...The known correlation between the rate of UAP reports and populat...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: livescience.com  
-   Link: [https://www.livescience.com/space/extraterrestrial-life/us-government-declassifies-nearly-200-uap-files-including-strange-sightings-from-apollo-astronauts](https://www.livescience.com/space/extraterrestrial-life/us-government-declassifies-nearly-200-uap-files-including-strange-sightings-from-apollo-astronauts)  
+   Link: <a href="https://www.livescience.com/space/extraterrestrial-life/us-government-declassifies-nearly-200-uap-files-including-strange-sightings-from-apollo-astronauts" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/extraterrestrial-life/us-government-declassifies-nearly-200-uap-files-including-strange-sightings-from-apollo-astronauts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Due to the poor data quality, the reports do not contain any compelling evidence of alien intelligence. While NASA has...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: managingexpectations.net  
    Title: It made a narrower and stronger point: the current evidence base is often  
-   Link: [https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html](https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html)  
+   Link: <a href="https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html" target="_blank" rel="noopener noreferrer nofollow">https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s UAP Study: What It Did — and Did Not — ConcludeNASA&#x27;s UAP study did not turn unidentified sightings into proof of alien visitation...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: port.ac.uk  
    Title: ufos what well learn from the nasa panel investigating sightings  
-   Link: [https://www.port.ac.uk/news-events-and-blogs/blogs/developing-enhanced-technologies/ufos-what-well-learn-from-the-nasa-panel-investigating-sightings](https://www.port.ac.uk/news-events-and-blogs/blogs/developing-enhanced-technologies/ufos-what-well-learn-from-the-nasa-panel-investigating-sightings)  
+   Link: <a href="https://www.port.ac.uk/news-events-and-blogs/blogs/developing-enhanced-technologies/ufos-what-well-learn-from-the-nasa-panel-investigating-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.port.ac.uk/news-events-and-blogs/blogs/developing-enhanced-technologies/ufos-what-well-learn-from-the-nasa-panel-investigating-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>what we&#x27;ll learn from the Nasa panel investigating sightings13 Jun 2023 — As a result, the committee is hoping to remove the stigma aroun...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: [https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team](https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team)  
+   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena Independent...UAPs are defined as phenomena or observations of events in the air, sea, space, a...</p></details>

@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /ufocat/
 nav_short_title: Source Versions
 title: Why UFOCAT Keeps Multiple Source Versions of UFO Events
-title_full: Why UFOCAT Keeps Multiple Source Versions of UFO Events | UFOCAT
+title_full: Why UFOCAT Keeps Multiple Source Versions of UFO Events
 display_title_short: Source Versions
 display_title: Source Versions
 heading_title: Why UFOCAT Keeps Multiple Source Versions of UFO Events
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 19:20:31'
-parent_title: Why UFOCAT Is Not Just a Sighting Count | UFO Archives
+parent_title: Why UFOCAT Is Not Just a Sighting Count
 parent_permalink: /ufocat/
 parent_nav_short_title: UFOCAT
 parent_heading_title: Why UFOCAT Is Not Just a Sighting Count
@@ -270,7 +270,6 @@ image: /assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_uf
 
 [UFOCAT]({{ 'ufocat/' | relative_url }}) was designed to preserve the history of a UFO report, not merely to count sightings. One of its most distinctive features is that it deliberately keeps multiple source versions of the same event. A single sighting may appear as an original witness report, a local newspaper story, a civilian investigation file, a UFO magazine article and a later book summary. Rather than collapsing those accounts into one record, UFOCAT links them while preserving each version separately. This approach allows researchers to trace how a case evolved, identify where details were added or altered, and determine which source is closest to the original observation. CUFOS, the organisation that maintains UFOCAT, explicitly states that the catalogue often contains multiple entries for the same sighting and that this is a core part of its design rather than a database error. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/cufos-publications-databases/ufocat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO StudiesUFOCATUFOCAT is a catalog of published and unpublished UFO sighting reports. It often contains multiple entries for...</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_ufocat_multiple_sour_4fba5e-Illustration-1-dark.svg" | relative_url }}" alt="Source Versions illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_ufocat_multiple_sour_4fba5e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_ufocat_multiple_sour_4fba5e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What UFOCAT Means by a “Source Version”
 
@@ -297,7 +296,6 @@ These fields allow UFOCAT to create [clusters]({{ 'clusters/' | relative_url }})
 
 The result resembles a bibliographic network more than a conventional sightings spreadsheet. Researchers can move from one version of a case to another and reconstruct the reporting chain.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lTGJt7Gho0w" title="Inside the Data: What 1,000+ Pilot Reports Reveal About UAP | iConnections Webinar with Ryan Graves" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer">Inside the Data: What 1,000+ Pilot Reports Reveal About UAP | iConnections Webinar with Ryan Graves</a></p><p class="youtube-embed-meta">Channel: iConnections &middot; Views: 262 &middot; Uploaded: April 2026 &middot; Length: 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lTGJt7Gho0w">Open on YouTube</a></p></div></div></div>
 
 ## Why Original and Secondary Reports Are Kept Separate
@@ -316,7 +314,6 @@ Preserving multiple versions makes it possible to study how a UFO narrative deve
 
 Researchers can compare:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The earliest known witness account.
@@ -329,7 +326,6 @@ Researchers can compare:
 
 In some cases, dramatic details appear only in later retellings. In others, early reports contain information that later summaries omit. Because UFOCAT retains separate records for these stages, researchers can identify where a particular claim first entered the historical record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/cufos-publications-databases/ufocat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO StudiesUFOCATUFOCAT is a catalog of published and unpublished UFO sighting reports. It often contains multiple entries for...</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_ufocat_multiple_sour_4fba5e-Illustration-2-dark.svg" | relative_url }}" alt="Source Versions illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_ufocat_multiple_sour_4fba5e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_ufocat_multiple_sour_4fba5e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Multiple Versions Improve Historical Accuracy
 
@@ -338,7 +334,6 @@ At first glance, keeping duplicate-looking records appears inefficient. In histo
 A merged record can hide uncertainty by presenting one reconstructed narrative as if it were unquestionably correct. UFOCAT takes the opposite approach. It exposes the documentary trail and allows users to evaluate sources individually.
 
 This has several advantages:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -351,7 +346,6 @@ This has several advantages:
 
 The system therefore preserves uncertainty instead of concealing it. For historical work, that is often more valuable than producing a single simplified case summary.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nraHhvzdZAQ" title="AI Found Hidden Patterns in 150,000 UFO Reports | ft. Christian Stepien, National UFO Database CTO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nraHhvzdZAQ" target="_blank" rel="noopener noreferrer">AI Found Hidden Patterns in 150,000 UFO Reports | ft. Christian Stepien, National UFO Database CTO</a></p><p class="youtube-embed-meta">Channel: TechUnhinged &middot; Views: 33 &middot; Uploaded: May 2026 &middot; Length: 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nraHhvzdZAQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nraHhvzdZAQ">Open on YouTube</a></p></div></div></div>
 
 ## The Trade-Off: Better Source Tracing, Harder Case Counting
@@ -362,7 +356,6 @@ Because UFOCAT contains multiple source versions of many incidents, a simple cou
 
 This trade-off reflects UFOCAT's underlying philosophy. The database was built as a research archive and reference system rather than as a definitive census of UFO incidents. Preserving the source history of a report was considered more important than maintaining one clean entry per sighting.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/adCsqd_-M94" title="Governments Using AI To Decode Massive UFO Databases | WION Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=adCsqd_-M94" target="_blank" rel="noopener noreferrer">Governments Using AI To Decode Massive UFO Databases | WION Podcast</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 326 &middot; Uploaded: May 2026 &middot; Length: 2 minutes 14 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=adCsqd_-M94" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=adCsqd_-M94">Open on YouTube</a></p></div></div></div>
 
 ## What UFOCAT Reveals About UFO Documentation
@@ -372,7 +365,6 @@ The practice of keeping multiple source versions highlights a broader reality of
 A report may pass through newspapers, private investigators, civilian organisations, books and later databases before reaching modern researchers. Each step can introduce changes. UFOCAT's structure acknowledges that problem directly by preserving the different versions and recording how they relate to one another.
 
 For historians, archivists and serious UFO researchers, this is one of the catalogue's most valuable features. It transforms UFOCAT from a list of sightings into a map of how UFO information was collected, circulated and preserved across decades of investigation and publication. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/cufos-publications-databases/ufocat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO StudiesUFOCATUFOCAT is a catalog of published and unpublished UFO sighting reports. It often contains multiple entries for...</span></span></span>
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_ufocat_multiple_sour_4fba5e-Illustration-3-dark.svg" | relative_url }}" alt="Source Versions illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_ufocat_multiple_sour_4fba5e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_ufocat_multiple_sour_4fba5e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -772,72 +764,72 @@ For historians, archivists and serious UFO researchers, this is one of the catal
 
 1. <a id="endnote-1"></a>
    Source: cufos.org  
-   Link: [https://cufos.org/cufos-publications-databases/ufocat/](https://cufos.org/cufos-publications-databases/ufocat/)  
+   Link: <a href="https://cufos.org/cufos-publications-databases/ufocat/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/cufos-publications-databases/ufocat/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for UFO StudiesUFOCATUFOCAT is a catalog of published and unpublished UFO sighting reports. It often contains multiple entries for...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cufos.org  
    Title: UFOCAT Codebook 2023  
-   Link: [https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf](https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf)  
+   Link: <a href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for UFO StudiesUFOCAT 2023UFOCAT 2002 refers to a computer database of over 120,000 UFO reports and related information released i...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: cufos.org  
-   Link: [https://cufos.org/PDFs/CUFOS_Associate_Newsletter/AN1_1.pdf](https://cufos.org/PDFs/CUFOS_Associate_Newsletter/AN1_1.pdf)  
+   Link: <a href="https://cufos.org/PDFs/CUFOS_Associate_Newsletter/AN1_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/CUFOS_Associate_Newsletter/AN1_1.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>J. Allen Hynek, contains...Read more...</p></details>
 
 ### Additional References
 
 4. <a id="endnote-4"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=lTGJt7Gho0w](https://www.youtube.com/watch?v=lTGJt7Gho0w)  
+   Link: <a href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lTGJt7Gho0w</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings: How Scientists are Trying to Capture More Data | NOVA | PBS - YouTube UFO Sightings: How Scientists are Trying to Capture...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/DOC_0000042346.pdf](https://www.cia.gov/readingroom/docs/DOC_0000042346.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0000042346.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000042346.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>USSR: MEDIA REPORT MULTITUDE OF UFO SIGHTINGSOn 9 October the Soviet news agency TASS reported that a UFO had landed in a park in the cit...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: enigmaticideas.com  
    Title: analyzing ufo sightings databases with generated code  
-   Link: [https://enigmaticideas.com/analyzing-ufo-sightings-databases-with-generated-code/](https://enigmaticideas.com/analyzing-ufo-sightings-databases-with-generated-code/)  
+   Link: <a href="https://enigmaticideas.com/analyzing-ufo-sightings-databases-with-generated-code/" target="_blank" rel="noopener noreferrer nofollow">https://enigmaticideas.com/analyzing-ufo-sightings-databases-with-generated-code/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>15 Mar 2026 — Using generative AI and natural language processing on multiple UFO sighting databases, we finally have the tools to answer...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: dni.gov  
    Title: Prelimary Assessment UAP 20210625  
-   Link: [https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf](https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf)  
+   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Preliminary Assessment: Unidentified Aerial Phenomena...25 Jun 2021 — This report provides an overview for policymakers of the challenge...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=ur0QX1eGCQI](https://www.youtube.com/watch?v=ur0QX1eGCQI)  
+   Link: <a href="https://www.youtube.com/watch?v=ur0QX1eGCQI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ur0QX1eGCQI</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the Data: What 1,000+ [Pilot Reports](&amp;#123;&amp;#123; &#x27;pilot-reports/&#x27; | relative_url &amp;#125;&amp;#125;) Reveal About UAP | iConnections Webinar with Ryan Graves...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: newspaceeconomy.ca  
    Title: ufocat the ufo sightings catalog by cufos  
-   Link: [https://newspaceeconomy.ca/2025/07/30/ufocat-the-ufo-sightings-catalog-by-cufos/](https://newspaceeconomy.ca/2025/07/30/ufocat-the-ufo-sightings-catalog-by-cufos/)  
+   Link: <a href="https://newspaceeconomy.ca/2025/07/30/ufocat-the-ufo-sightings-catalog-by-cufos/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/07/30/ufocat-the-ufo-sightings-catalog-by-cufos/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOCAT is an electronic database of UFO sightings maintained by the Center for UFO Studies (CUFOS), a nonprofit founded in 1973...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/664911255/Alien-Identities](https://www.scribd.com/document/664911255/Alien-Identities)  
+   Link: <a href="https://www.scribd.com/document/664911255/Alien-Identities" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/664911255/Alien-Identities</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>h, let us consider some reports of. UFO...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=nraHhvzdZAQ](https://www.youtube.com/watch?v=nraHhvzdZAQ)  
+   Link: <a href="https://www.youtube.com/watch?v=nraHhvzdZAQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nraHhvzdZAQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Governments Using AI To Decode Massive UFO Databases | WION Podcast...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: UFO Sightings: How Scientists are Trying to Capture More Data | NOVA | PBS  
-   Link: [https://www.youtube.com/watch?v=qho0N3vv7Gw](https://www.youtube.com/watch?v=qho0N3vv7Gw)  
+   Link: <a href="https://www.youtube.com/watch?v=qho0N3vv7Gw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qho0N3vv7Gw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP data released: Astrophysicist Avi Loeb breaks down declassified records | FOX 10 Talks...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: usabusinessradio.com  
-   Link: [https://usabusinessradio.com/top-ufo-research-websites-to-follow-in-2026/](https://usabusinessradio.com/top-ufo-research-websites-to-follow-in-2026/)  
+   Link: <a href="https://usabusinessradio.com/top-ufo-research-websites-to-follow-in-2026/" target="_blank" rel="noopener noreferrer nofollow">https://usabusinessradio.com/top-ufo-research-websites-to-follow-in-2026/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Top UFO Research Websites To Follow in 202625 Mar 2026 — Aside from UFO sightings, you can also read about alien encounters and abduction...</p></details>

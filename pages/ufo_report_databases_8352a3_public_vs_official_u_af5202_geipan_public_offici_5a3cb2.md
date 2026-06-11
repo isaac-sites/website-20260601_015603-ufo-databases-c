@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /public-vs-official/
 nav_short_title: GEIPAN
 title: The official UAP archive anyone can read
-title_full: The official UAP archive anyone can read | Public vs Official
+title_full: The official UAP archive anyone can read
 display_title_short: GEIPAN
 display_title: GEIPAN
 heading_title: The official UAP archive anyone can read
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 01:51:00'
-parent_title: Public UFO Reports or Official UAP Records? | UFO Archives
+parent_title: Public UFO Reports or Official UAP Records?
 parent_permalink: /public-vs-official/
 parent_nav_short_title: Public vs Official
 parent_heading_title: Public UFO Reports or Official UAP Records?
@@ -276,7 +276,6 @@ image: /assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202_ge
 
 Official efforts to document and investigate reports of unidentified aerial phenomena can take many forms. Among them, **GEIPAN** stands out because it is both a government‑mandated investigatory body and a genuinely **public‑facing archive** of UAP reports. Unlike many official UAP systems that operate behind closed doors or focus solely on internal safety reporting, GEIPAN operates under the French space agency **CNES**, systematically **collecting, analysing, classifying and publishing UAP cases** for anyone to access. Its longevity (dating back in lineage to 1977) and its open publication of thousands of cases make it one of the most substantial and transparent official UAP [archives]({{ 'archives/' | relative_url }}) worldwide.[cnes.fr]
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202_geipan_public_offici_5a3cb2-Illustration-1-dark.svg" | relative_url }}" alt="GEIPAN illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202_geipan_public_offici_5a3cb2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202_geipan_public_offici_5a3cb2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why GEIPAN Is Different from Closed Official Systems
 
@@ -286,13 +285,11 @@ GEIPAN’s mandate explicitly includes **informing the public** about its invest
 
 This openness stems in part from GEIPAN’s history: its predecessors (GEPAN and SEPRA) accumulated decades of records, and a 2007 decision led to **systematic publication of archives** to increase transparency and public confidence. The addition of “Information” (the “I” in GEIPAN) symbolised this shift toward public accessibility.[cnes-geipan.fr]
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2wBIkZ646gA" title="Ancient Aliens: French Government EXPOSES Evidence of UFOs (Special) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2wBIkZ646gA" target="_blank" rel="noopener noreferrer">Ancient Aliens: French Government EXPOSES Evidence of UFOs (Special) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 336.7K &middot; Uploaded: February 2024 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2wBIkZ646gA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2wBIkZ646gA">Open on YouTube</a></p></div></div></div>
 
 ## How Investigation and Publication Sit Together
 
 GEIPAN’s process blends **investigatory rigour with public accessibility** in a way that most official systems do not:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -304,9 +301,7 @@ GEIPAN’s process blends **investigatory rigour with public accessibility** in 
 
 This model places GEIPAN in a **dual role**: it is an official, government‑sanctioned investigatory unit with access to formal institutional resources, and at the same time a **public archival system** that deliberately exposes its processed data rather than restricting it within bureaucratic reporting channels. That openness allows independent researchers to examine evidence, compare cases, and perform secondary analyses without needing special clearance.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OLXDikL331Y" title="Geipan : la France aussi s’intéresse aux ovnis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OLXDikL331Y" target="_blank" rel="noopener noreferrer">Geipan : la France aussi s’intéresse aux ovnis</a></p><p class="youtube-embed-meta">Channel: C dans l&#x27;air - France Télévisions &middot; Views: 22.3K &middot; Uploaded: April 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OLXDikL331Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OLXDikL331Y">Open on YouTube</a></p></div></div></div>
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202_geipan_public_offici_5a3cb2-Illustration-3-dark.svg" | relative_url }}" alt="GEIPAN illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202_geipan_public_offici_5a3cb2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202_geipan_public_offici_5a3cb2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -322,9 +317,7 @@ For people who work with public UFO and UAP databases, GEIPAN offers several les
 
 By combining official investigatory authority with accessible, searchable archives, GEIPAN exemplifies a **public‑facing official UAP archive** model — one that other countries could study or adapt if they seek to balance rigorous reporting with transparency.[cnes.fr]
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/K-dgmfIOYBE" title="GEIPAN: Everything You Need to Know About UFOs and Aerial Phenomena" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=K-dgmfIOYBE" target="_blank" rel="noopener noreferrer">GEIPAN: Everything You Need to Know About UFOs and Aerial Phenomena</a></p><p class="youtube-embed-meta">Channel: Science And Life &middot; Views: 16 &middot; Uploaded: April 2026 &middot; Length: 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=K-dgmfIOYBE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=K-dgmfIOYBE">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -723,89 +716,89 @@ By combining official investigatory authority with accessible, searchable archiv
 1. <a id="endnote-1"></a>
    Source: cnes.fr  
    Title: GEIPA N | CNES  
-   Link: [https://cnes.fr/en/projects/geipan](https://cnes.fr/en/projects/geipan)  
+   Link: <a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
 
 2. <a id="endnote-2"></a>
    Source: geipan.fr  
    Title: Mission & Geipan | GEIPAN  
-   Link: [https://www.geipan.fr/en/node/440](https://www.geipan.fr/en/node/440)  
+   Link: <a href="https://www.geipan.fr/en/node/440" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/en/node/440</a>  
 
 3. <a id="endnote-3"></a>
    Source: cnes-geipan.fr  
    Title: GEIPA N  
-   Link: [https://www.cnes-geipan.fr/en/node](https://www.cnes-geipan.fr/en/node)  
+   Link: <a href="https://www.cnes-geipan.fr/en/node" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node</a>  
 
 4. <a id="endnote-4"></a>
    Source: geipan.fr  
    Title: Understanding a Phenomenon | GEIPAN  
-   Link: [https://www.geipan.fr/en/what-did-i-see/step-1](https://www.geipan.fr/en/what-did-i-see/step-1)  
+   Link: <a href="https://www.geipan.fr/en/what-did-i-see/step-1" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/en/what-did-i-see/step-1</a>  
 
 5. <a id="endnote-5"></a>
    Source: cnes-geipan.fr  
    Title: Sitemap | GEIPAN  
-   Link: [https://www.cnes-geipan.fr/en/plan-du-site](https://www.cnes-geipan.fr/en/plan-du-site)  
+   Link: <a href="https://www.cnes-geipan.fr/en/plan-du-site" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/plan-du-site</a>  
 
 6. <a id="endnote-6"></a>
    Source: cnes-geipan.fr  
    Title: Mission & Geipan | GEIPANSommaire 1  
-   Link: [https://www.cnes-geipan.fr/en/node/58792](https://www.cnes-geipan.fr/en/node/58792)  
+   Link: <a href="https://www.cnes-geipan.fr/en/node/58792" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58792</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GEIPAN&#x27;s mission 2. How does the GEIPAN work? 3. FAQ GEIPAN THE GEIPAN&#x27;S MISSION The GEIPAN&#x27;s mission (Group for Study and Informati...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: cnes-geipan.fr  
    Title: Methodology | GEIPANThe GEIPAN uses a reproducible methodology for each survey  
-   Link: [https://cnes-geipan.fr/en/node/58788](https://cnes-geipan.fr/en/node/58788)  
+   Link: <a href="https://cnes-geipan.fr/en/node/58788" target="_blank" rel="noopener noreferrer nofollow">https://cnes-geipan.fr/en/node/58788</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The methodology is based on current scientific knowledge and known aerospace phenomena. It follows 7 steps: 1. Collecting the testimony 2...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/en/faq-page](https://www.cnes-geipan.fr/en/faq-page)  
+   Link: <a href="https://www.cnes-geipan.fr/en/faq-page" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/faq-page</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Select] [Input] [Input] [Input] 1. What is GEIPAN? * GEIPAN (Group for the Study and Information of Uniden...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: cnes-geipan.fr  
    Title: What is GEIPAN?  
-   Link: [https://www.cnes-geipan.fr/en/node/430](https://www.cnes-geipan.fr/en/node/430)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| GEIPANGeipan Groupe d’études et d’informations sur les phénomènes aérospatiaux non identifiés. [Select] [Input] [Input] [Input] * GEIPA...</p></details>
+   Link: <a href="https://www.cnes-geipan.fr/en/node/430" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/430</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPANGeipan Groupe d’études et d’informations sur les phénomènes aérospatiaux non identifiés. [Select] [Input] [Input] [Input] * GEIPA...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/en/histoire-du-geipan](https://www.cnes-geipan.fr/en/histoire-du-geipan)  
+   Link: <a href="https://www.cnes-geipan.fr/en/histoire-du-geipan" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/histoire-du-geipan</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>QU&#x27;EST-CE QUE LE GEIPAN? Le GEIPAN, Groupe d’Études et d’Information sur les Phénomènes Aérospatiaux Non Ide...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: cnes-geipan.fr  
-   Link: [https://cnes-geipan.fr/en/documentation](https://cnes-geipan.fr/en/documentation)  
+   Link: <a href="https://cnes-geipan.fr/en/documentation" target="_blank" rel="noopener noreferrer nofollow">https://cnes-geipan.fr/en/documentation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Conferences. Congress External publications GEIPAN documents Forms Etude bibliographique sur les vagues d&#x27;OVNI 458.5 KB Des...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: geipan.fr  
-   Link: [https://www.geipan.fr/en/faq-page](https://www.geipan.fr/en/faq-page)  
+   Link: <a href="https://www.geipan.fr/en/faq-page" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/en/faq-page</a>  
 
 15. <a id="endnote-15"></a>
    Source: geipan.fr  
-   Link: [https://www.geipan.fr/en/node?page=0](https://www.geipan.fr/en/node?page=0)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPANFAQ GEIPAN * GEIPAN only investigates phenomena reported by one or more direct witnesses of the observation. * The witness must ful...</p></details>
+   Link: <a href="https://www.geipan.fr/en/node?page=0" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/en/node?page=0</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>FAQ GEIPAN * GEIPAN only investigates phenomena reported by one or more direct witnesses of the observation. * The witness must ful...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: cnes.fr  
-   Link: [https://cnes.fr/projets/geipan](https://cnes.fr/projets/geipan)  
+   Link: <a href="https://cnes.fr/projets/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/projets/geipan</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPAN | CNESCollecter, analyser et archiver les phénomènes aérospatiaux non identifiés tout en informant le public sur ces derniers, tel...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=hn2xTieploU](https://www.youtube.com/watch?v=hn2xTieploU)  
+   Link: <a href="https://www.youtube.com/watch?v=hn2xTieploU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hn2xTieploU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Geipan: France is also interested in UFOs...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Geipan: France is also interested in UFOs  
-   Link: [https://www.youtube.com/watch?v=OLXDikL331Y](https://www.youtube.com/watch?v=OLXDikL331Y)  
+   Link: <a href="https://www.youtube.com/watch?v=OLXDikL331Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OLXDikL331Y</a>  
 
 19. <a id="endnote-19"></a>
    Source: uapedia.ai  
    Title: GEIPA N: France’s Official UAP Unit  
-   Link: [https://uapedia.ai/wiki/geipan-frances-official-uap-unit/](https://uapedia.ai/wiki/geipan-frances-official-uap-unit/)  
+   Link: <a href="https://uapedia.ai/wiki/geipan-frances-official-uap-unit/" target="_blank" rel="noopener noreferrer nofollow">https://uapedia.ai/wiki/geipan-frances-official-uap-unit/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPAN: France’s Official UAP Unit - UAPediaOctober 29, 2025 — GEIPAN: FRANCE’S OFFICIAL UAP UNIT GEIPAN (Groupe d’Études et d’Informatio...</p></details>
    Published: October 29, 2025  
 
@@ -814,28 +807,28 @@ By combining official investigatory authority with accessible, searchable archiv
 20. <a id="endnote-20"></a>
    Source: uapedia.ai  
    Title: Housed inside CNES (the French Spac  
-   Link: [https://www.uapedia.ai/wiki/french-uap-agencies-cnes-geipan/](https://www.uapedia.ai/wiki/french-uap-agencies-cnes-geipan/)  
+   Link: <a href="https://www.uapedia.ai/wiki/french-uap-agencies-cnes-geipan/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapedia.ai/wiki/french-uap-agencies-cnes-geipan/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>French UAP Agencies (CNES/GEIPAN) - UAPediaOctober 10, 2025 — FRENCH UAP AGENCIES (CNES/GEIPAN) France is the only major spacefaring nati...</p></details>
    Published: October 10, 2025  
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: GEIPAN: Everything You Need to Know About UFOs and Aerial Phenomena  
-   Link: [https://www.youtube.com/watch?v=K-dgmfIOYBE](https://www.youtube.com/watch?v=K-dgmfIOYBE)  
+   Link: <a href="https://www.youtube.com/watch?v=K-dgmfIOYBE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K-dgmfIOYBE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPAN: Behind the scenes of the organization that studies unidentified aerospace phenomena...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: strangeskies.net  
-   Link: [https://strangeskies.net/sources](https://strangeskies.net/sources)  
+   Link: <a href="https://strangeskies.net/sources" target="_blank" rel="noopener noreferrer nofollow">https://strangeskies.net/sources</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The list below shows each source, its license notes, and a link to its terms. * ## GEIPAN / CNES [https://www.cnes-geipan.fr/...&quot;](https://www.cnes-geipan.fr/...&quot;)...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: The UFO Office • FRANCE 24  
-   Link: [https://www.youtube.com/watch?v=Ygb1vphH1q0](https://www.youtube.com/watch?v=Ygb1vphH1q0)  
+   Link: <a href="https://www.youtube.com/watch?v=Ygb1vphH1q0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ygb1vphH1q0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: French Government EXPOSES Evidence of UFOs (Special) | History...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: Ancient Aliens: French Government EXPOSES Evidence of UFOs (Special) | History  
-   Link: [https://www.youtube.com/watch?v=2wBIkZ646gA](https://www.youtube.com/watch?v=2wBIkZ646gA)  
+   Link: <a href="https://www.youtube.com/watch?v=2wBIkZ646gA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2wBIkZ646gA</a>

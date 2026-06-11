@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /ufocat/
 nav_short_title: Source Reliability
 title: How UFOCAT Source Levels Reveal Report Reliability
-title_full: How UFOCAT Source Levels Reveal Report Reliability | UFOCAT
+title_full: How UFOCAT Source Levels Reveal Report Reliability
 display_title_short: Source Reliability
 display_title: Source Reliability
 heading_title: How UFOCAT Source Levels Reveal Report Reliability
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 20:16:11'
-parent_title: Why UFOCAT Is Not Just a Sighting Count | UFO Archives
+parent_title: Why UFOCAT Is Not Just a Sighting Count
 parent_permalink: /ufocat/
 parent_nav_short_title: UFOCAT
 parent_heading_title: Why UFOCAT Is Not Just a Sighting Count
@@ -276,14 +276,12 @@ image: /assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_so
 
 [UFOCAT]({{ 'ufocat/' | relative_url }}) does not treat every source as equally trustworthy. One of its most useful features is the **LEVEL** field, which identifies the type of source behind a record and helps researchers judge how close a report is to the original event. Rather than simply listing a sighting, UFOCAT preserves information about whether the account came from a newspaper article, an investigator's case file, a UFO magazine, a book, a later database compilation, or another form of documentation. This matters because the [reliability]({{ 'reliability/' | relative_url }}) of a UFO report often depends as much on the source chain as on the reported event itself. A dramatic claim repeated through several secondary publications may appear well documented while actually resting on a single weak original report. UFOCAT's source-level system was designed to make those distinctions visible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Center_for_UFO_Studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Center for UFO Studies - WikipediaThe Center for UFO Studies (CUFOS) is a privately funded UFO research group. The group was founded i...</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_source_levels_reliab_582608-Illustration-1-dark.svg" | relative_url }}" alt="Source Reliability illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_source_levels_reliab_582608-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_source_levels_reliab_582608-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Understanding LEVEL Field Categories
 
-The UFOCAT codebook describes the LEVEL field as a way of identifying the nature of a source rather than directly grading whether a sighting is true or false. Researchers therefore use LEVEL as an indicator of evidential strength, source proximity, and potential distortion within the reporting chain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sourcewatch.org/index.php/Center_for_UFO_Studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sourcewatch.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sourcewatch.org</span><span class="citation-popover-snippet">SourceWatchJuly 24, 2013 — Our purpose is to promote serious scientific interest in UFOs and to serve as an archive for reports, document...</span><span class="citation-popover-meta">Published: July 24, 2013</span></span></span>
+The UFOCAT codebook describes the LEVEL field as a way of identifying the nature of a source rather than directly grading whether a sighting is true or false. Researchers therefore use LEVEL as an indicator of evidential strength, source proximity, and potential distortion within the reporting chain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sourcewatch.org/index.php/Center_for_UFO_Studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sourcewatch.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sourcewatch.org</span><span class="citation-popover-snippet">July 24, 2013 — Our purpose is to promote serious scientific interest in UFOs and to serve as an archive for reports, document...</span><span class="citation-popover-meta">Published: July 24, 2013</span></span></span>
 
 In practical terms, the field helps answer several questions:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -308,7 +306,6 @@ When UFOCAT identifies a source as an investigation record or organisational cas
 
 A high-quality investigation source is not automatically correct. Investigators may make errors, introduce assumptions, or overlook conventional explanations. Nevertheless, the existence of original documentation allows later researchers to review those decisions.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TlJwiRz-t0A" title="How to analyse a historical source" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TlJwiRz-t0A" target="_blank" rel="noopener noreferrer">How to analyse a historical source</a></p><p class="youtube-embed-meta">Channel: History Skills &middot; Views: 186.4K &middot; Uploaded: December 2019 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TlJwiRz-t0A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TlJwiRz-t0A">Open on YouTube</a></p></div></div></div>
 
 ### The strengths and limits of newspaper sources
@@ -330,16 +327,15 @@ For historical researchers, newspapers are often most valuable when compared aga
 
 Books present a different challenge. Many influential UFO books compile earlier reports from newspapers, investigators, government files, and other publications. By the time a case appears in a popular UFO volume, the account may have passed through several layers of interpretation.
 
-UFOCAT's distinction between first-edition books, revised books, and other published sources helps researchers identify where an account sits within that chain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sourcewatch.org/index.php/Center_for_UFO_Studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sourcewatch.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sourcewatch.org</span><span class="citation-popover-snippet">SourceWatchJuly 24, 2013 — Our purpose is to promote serious scientific interest in UFOs and to serve as an archive for reports, document...</span><span class="citation-popover-meta">Published: July 24, 2013</span></span></span>
+UFOCAT's distinction between first-edition books, revised books, and other published sources helps researchers identify where an account sits within that chain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sourcewatch.org/index.php/Center_for_UFO_Studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sourcewatch.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sourcewatch.org</span><span class="citation-popover-snippet">July 24, 2013 — Our purpose is to promote serious scientific interest in UFOs and to serve as an archive for reports, document...</span><span class="citation-popover-meta">Published: July 24, 2013</span></span></span>
 
-A book can contain valuable analysis unavailable elsewhere, especially when written by an investigator directly involved in the case. However, books also tend to compress evidence, remove uncertainty, and emphasise the most dramatic aspects of an incident. Researchers therefore often treat book accounts as secondary sources unless the author had direct access to witnesses or [original records]({{ 'source-trails/' | relative_url }}).
+A book can contain valuable analysis unavailable elsewhere, especially when written by an investigator directly involved in the case. However, books also tend to compress evidence, remove uncertainty, and emphasise the most dramatic aspects of an incident. Researchers therefore often treat book accounts as secondary sources unless the author had direct access to witnesses or original records.
 
 ## How Source Levels Expose Information Drift
 
 One of the most important uses of the LEVEL field is detecting how a UFO story changes over time.
 
 A typical reporting chain might look like this:
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_source_levels_reliab_582608-Illustration-2-dark.svg" | relative_url }}" alt="Source Reliability illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_source_levels_reliab_582608-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_source_levels_reliab_582608-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 1. Witness reports an observation.
@@ -356,7 +352,7 @@ A typical reporting chain might look like this:
 
 Each stage can introduce new errors, assumptions, or embellishments. Details may become more precise than the original evidence justifies. Witness estimates may harden into apparent facts. Missing information can be replaced with speculation.
 
-Because UFOCAT attempts to identify source relationships through fields such as LEVEL, PRN, IRN, and X2, researchers can often reconstruct this progression and determine whether several records actually derive from one original report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sourcewatch.org/index.php/Center_for_UFO_Studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sourcewatch.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sourcewatch.org</span><span class="citation-popover-snippet">SourceWatchJuly 24, 2013 — Our purpose is to promote serious scientific interest in UFOs and to serve as an archive for reports, document...</span><span class="citation-popover-meta">Published: July 24, 2013</span></span></span>
+Because UFOCAT attempts to identify source relationships through fields such as LEVEL, PRN, IRN, and X2, researchers can often reconstruct this progression and determine whether several records actually derive from one original report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sourcewatch.org/index.php/Center_for_UFO_Studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sourcewatch.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sourcewatch.org</span><span class="citation-popover-snippet">July 24, 2013 — Our purpose is to promote serious scientific interest in UFOs and to serve as an archive for reports, document...</span><span class="citation-popover-meta">Published: July 24, 2013</span></span></span>
 
 This is especially important when evaluating famous cases. A sighting that appears in ten UFO books may seem strongly supported until source tracing reveals that all ten authors relied on the same newspaper article or investigative summary.
 
@@ -375,8 +371,7 @@ A case with:
 
 may generate numerous catalogue entries while still resting on a single original observation.
 
-The apparent quantity of documentation can therefore be misleading. UFOCAT's structure encourages researchers to distinguish between the number of records and the number of independent sources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sourcewatch.org/index.php/Center_for_UFO_Studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sourcewatch.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sourcewatch.org</span><span class="citation-popover-snippet">SourceWatchJuly 24, 2013 — Our purpose is to promote serious scientific interest in UFOs and to serve as an archive for reports, document...</span><span class="citation-popover-meta">Published: July 24, 2013</span></span></span>
-
+The apparent quantity of documentation can therefore be misleading. UFOCAT's structure encourages researchers to distinguish between the number of records and the number of independent sources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sourcewatch.org/index.php/Center_for_UFO_Studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sourcewatch.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sourcewatch.org</span><span class="citation-popover-snippet">July 24, 2013 — Our purpose is to promote serious scientific interest in UFOs and to serve as an archive for reports, document...</span><span class="citation-popover-meta">Published: July 24, 2013</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WTA-QNOGK1M" title="How to Analyze Primary Sources and Secondary Sources" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WTA-QNOGK1M" target="_blank" rel="noopener noreferrer">How to Analyze Primary Sources and Secondary Sources</a></p><p class="youtube-embed-meta">Channel: Pursuit of History &middot; Views: 93.2K &middot; Uploaded: May 2021 &middot; Length: 4 minutes 43 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WTA-QNOGK1M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WTA-QNOGK1M">Open on YouTube</a></p></div></div></div>
 
@@ -385,7 +380,6 @@ The apparent quantity of documentation can therefore be misleading. UFOCAT's str
 Researchers often use source levels alongside other UFOCAT fields to locate records with greater historical value.
 
 Characteristics that generally strengthen a case include:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -401,7 +395,6 @@ Conversely, caution increases when a report exists only in late secondary compil
 
 The LEVEL field does not make these judgements automatically, but it provides the information needed to make them.
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_source_levels_reliab_582608-Illustration-3-dark.svg" | relative_url }}" alt="Source Reliability illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_source_levels_reliab_582608-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_source_levels_reliab_582608-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Comparing eras of UFO reporting
 
@@ -409,7 +402,7 @@ Source levels also reveal how UFO reporting practices changed over time.
 
 Early twentieth-century reports often survive only through newspapers. Mid-century cases may include military files, civilian investigations, and organisational [archives]({{ 'archives/' | relative_url }}). Later decades increasingly involve database exchanges, catalogue imports, and retrospective compilations.
 
-Without source-level distinctions, these different forms of evidence could appear equivalent inside a large database. UFOCAT preserves those differences, allowing researchers to compare periods while accounting for changes in documentation practices. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sourcewatch.org/index.php/Center_for_UFO_Studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sourcewatch.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sourcewatch.org</span><span class="citation-popover-snippet">SourceWatchJuly 24, 2013 — Our purpose is to promote serious scientific interest in UFOs and to serve as an archive for reports, document...</span><span class="citation-popover-meta">Published: July 24, 2013</span></span></span>
+Without source-level distinctions, these different forms of evidence could appear equivalent inside a large database. UFOCAT preserves those differences, allowing researchers to compare periods while accounting for changes in documentation practices. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sourcewatch.org/index.php/Center_for_UFO_Studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sourcewatch.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sourcewatch.org</span><span class="citation-popover-snippet">July 24, 2013 — Our purpose is to promote serious scientific interest in UFOs and to serve as an archive for reports, document...</span><span class="citation-popover-meta">Published: July 24, 2013</span></span></span>
 
 ## Why LEVEL Is a Reliability Tool Rather Than a Credibility Verdict
 
@@ -417,11 +410,9 @@ The most important point is that UFOCAT's LEVEL field does not determine whether
 
 A newspaper source may contain an accurate report. An investigation file may contain mistakes. A book may preserve details unavailable anywhere else. Reliability emerges from examining the entire source chain rather than assuming that one category is always superior.
 
-What the LEVEL system provides is transparency. Instead of presenting every record as an equivalent data point, UFOCAT exposes the path by which information entered the catalogue. For historians, archivists, and UFO researchers, that transparency is often more valuable than a simple count of sightings because it allows the evidence behind a report to be weighed rather than merely accumulated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sourcewatch.org/index.php/Center_for_UFO_Studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sourcewatch.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sourcewatch.org</span><span class="citation-popover-snippet">SourceWatchJuly 24, 2013 — Our purpose is to promote serious scientific interest in UFOs and to serve as an archive for reports, document...</span><span class="citation-popover-meta">Published: July 24, 2013</span></span></span>
-
+What the LEVEL system provides is transparency. Instead of presenting every record as an equivalent data point, UFOCAT exposes the path by which information entered the catalogue. For historians, archivists, and UFO researchers, that transparency is often more valuable than a simple count of sightings because it allows the evidence behind a report to be weighed rather than merely accumulated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sourcewatch.org/index.php/Center_for_UFO_Studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sourcewatch.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sourcewatch.org</span><span class="citation-popover-snippet">July 24, 2013 — Our purpose is to promote serious scientific interest in UFOs and to serve as an archive for reports, document...</span><span class="citation-popover-meta">Published: July 24, 2013</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NJ4JuA2UYL4" title="Dr. Jacques Vallée: UAP Encounters, Patterns, and the Signals of Intelligence | The Sol Forum #4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NJ4JuA2UYL4" target="_blank" rel="noopener noreferrer">Dr. Jacques Vallée: UAP Encounters, Patterns, and the Signals of Intelligence | The Sol Forum #4</a></p><p class="youtube-embed-meta">Channel: The Sol Foundation &middot; Views: 74.8K &middot; Uploaded: August 2025 &middot; Length: 1 hour 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NJ4JuA2UYL4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NJ4JuA2UYL4">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -820,108 +811,108 @@ What the LEVEL system provides is transparency. Instead of presenting every reco
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Identification studies of UFOs  
-   Link: [https://en.wikipedia.org/wiki/Identification_studies_of_UFOs](https://en.wikipedia.org/wiki/Identification_studies_of_UFOs)  
+   Link: <a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
 
 3. <a id="endnote-3"></a>
    Source: archives.gov  
    Title: UF O and UAP-related Records  
-   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO and UAP-related Records - National ArchivesApril 24, 2025 — NARA has records related to unidentified flying objects (UFO) and unident...</p></details>
    Published: April 24, 2025  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Center for UFO Studies  
-   Link: [https://en.wikipedia.org/wiki/Center_for_UFO_Studies](https://en.wikipedia.org/wiki/Center_for_UFO_Studies)  
+   Link: <a href="https://en.wikipedia.org/wiki/Center_for_UFO_Studies" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Center_for_UFO_Studies</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for UFO Studies - WikipediaThe Center for UFO Studies (CUFOS) is a privately funded UFO research group. The group was founded i...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: cufos.org  
    Title: It is the result of a 30-year effort that  
-   Link: [https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf](https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf)  
+   Link: <a href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for UFO Studies[PDF] UFOCAT 2023 - Center for UFO Studies -June 6, 2024 — UFOCAT 2002 refers to a computer database of over 120,00...</p></details>
    Published: June 6, 2024  
 
 6. <a id="endnote-6"></a>
    Source: cufos.org  
    Title: Center for UFO Studies UFOCAT  
-   Link: [https://cufos.org/cufos-publications-databases/ufocat/](https://cufos.org/cufos-publications-databases/ufocat/)  
+   Link: <a href="https://cufos.org/cufos-publications-databases/ufocat/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/cufos-publications-databases/ufocat/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for UFO StudiesUFOCAT - Center for UFO StudiesUFOCAT is a catalog of published and unpublished UFO sighting reports. It often cont...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sourcewatch.org  
    Title: Center for UFO Studies  
-   Link: [https://www.sourcewatch.org/index.php/Center_for_UFO_Studies](https://www.sourcewatch.org/index.php/Center_for_UFO_Studies)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SourceWatchJuly 24, 2013 — Our purpose is to promote serious scientific interest in UFOs and to serve as an archive for reports, document...</p></details>
+   Link: <a href="https://www.sourcewatch.org/index.php/Center_for_UFO_Studies" target="_blank" rel="noopener noreferrer nofollow">https://www.sourcewatch.org/index.php/Center_for_UFO_Studies</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>July 24, 2013 — Our purpose is to promote serious scientific interest in UFOs and to serve as an archive for reports, document...</p></details>
    Published: July 24, 2013  
 
 8. <a id="endnote-8"></a>
    Source: cufos.org  
-   Link: [https://cufos.org/cufos-publications-databases/books/](https://cufos.org/cufos-publications-databases/books/)  
+   Link: <a href="https://cufos.org/cufos-publications-databases/books/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/cufos-publications-databases/books/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for UFO Studies -Selected books and monographs published by CUFOS over the years are available online: Ted Phillips, comp., Physic...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/books/Behavioral_Scientist/UFO_Phenomena_and_Behavioral_Scientist.pdf](https://www.nicap.org/books/Behavioral_Scientist/UFO_Phenomena_and_Behavioral_Scientist.pdf)  
+   Link: <a href="https://www.nicap.org/books/Behavioral_Scientist/UFO_Phenomena_and_Behavioral_Scientist.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/books/Behavioral_Scientist/UFO_Phenomena_and_Behavioral_Scientist.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Phenomena and the Behavioral ScientistI just hope that this book will help the time come sooner when they will not only understand th...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: amazon.com  
-   Link: [https://www.amazon.com/Grassroots-UFOs-Reports-Studies-Paperback/dp/B0157HNLIS](https://www.amazon.com/Grassroots-UFOs-Reports-Studies-Paperback/dp/B0157HNLIS)  
+   Link: <a href="https://www.amazon.com/Grassroots-UFOs-Reports-Studies-Paperback/dp/B0157HNLIS" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Grassroots-UFOs-Reports-Studies-Paperback/dp/B0157HNLIS</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A collection of nearly 1,200 firsthand UFO sighting testimonies gathered by John Timmerman through CUFOS mall exhibits, documenting encou...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: governmentattic.org  
    Title: [PDF] UFOs and Related Subjects: An Annotated Bibliography, Lynn E  
-   Link: [https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf](https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf)  
+   Link: <a href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction is a brief history of UFO reports and studies and provides some information on scientific observations and analyses; the sec...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: cufos.org  
    Title: Proceedings of the 1976 CUFOS Conference  
-   Link: [https://www.cufos.org/PDFs/books/Proceedings_of_the_1976_CUFOS_Conference.pdf](https://www.cufos.org/PDFs/books/Proceedings_of_the_1976_CUFOS_Conference.pdf)  
+   Link: <a href="https://www.cufos.org/PDFs/books/Proceedings_of_the_1976_CUFOS_Conference.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cufos.org/PDFs/books/Proceedings_of_the_1976_CUFOS_Conference.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PROCEEDINGS 1976 CUFOS CONFERENCE13 Feb 1976 — The papers presented in this volume were delivered or distributed at a conference on UFO r...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: scribd.com  
    Title: Proceedings of the 1976 CUFOS Conference  
-   Link: [https://www.scribd.com/document/398117188/Proceedings-of-the-1976-CUFOS-Conference](https://www.scribd.com/document/398117188/Proceedings-of-the-1976-CUFOS-Conference)  
+   Link: <a href="https://www.scribd.com/document/398117188/Proceedings-of-the-1976-CUFOS-Conference" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/398117188/Proceedings-of-the-1976-CUFOS-Conference</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PDFAttention has focused on the UFO percipient as a source of information. But at the field investigator level little attention has been...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: archive.org  
    Title: Full text of "The Hynek UFO Report"  
-   Link: [https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt](https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt)  
+   Link: <a href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveDr. J. Allen Hynek is Professor of Astronomy at Northwestern University in the United States. He is also head of the Cent...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: newspaceeconomy.ca  
    Title: It combines early historical  
-   Link: [https://newspaceeconomy.ca/2025/07/30/ufocat-the-ufo-sightings-catalog-by-cufos/](https://newspaceeconomy.ca/2025/07/30/ufocat-the-ufo-sightings-catalog-by-cufos/)  
+   Link: <a href="https://newspaceeconomy.ca/2025/07/30/ufocat-the-ufo-sightings-catalog-by-cufos/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/07/30/ufocat-the-ufo-sightings-catalog-by-cufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOCAT: The UFO Sightings Catalog by CUFOSJuly 30, 2025 — UFOCAT remains the largest structured archive of UFO sighting reports ever asse...</p></details>
    Published: July 30, 2025  
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: How to Analyze & Evaluate Historical Documents  
-   Link: [https://www.youtube.com/watch?v=xH8B6MGhzLU](https://www.youtube.com/watch?v=xH8B6MGhzLU)  
+   Link: <a href="https://www.youtube.com/watch?v=xH8B6MGhzLU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xH8B6MGhzLU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP data reliability source evaluation investigative journalism scientific assessment House committee holds UFO hearing Associated Press...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: usabusinessradio.com  
-   Link: [https://usabusinessradio.com/top-ufo-research-websites-to-follow-in-2026/](https://usabusinessradio.com/top-ufo-research-websites-to-follow-in-2026/)  
+   Link: <a href="https://usabusinessradio.com/top-ufo-research-websites-to-follow-in-2026/" target="_blank" rel="noopener noreferrer nofollow">https://usabusinessradio.com/top-ufo-research-websites-to-follow-in-2026/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Top UFO Research Websites To Follow in 202625 Mar 2026 — Aside from UFO sightings, you can also read about alien encounters and abduction...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: projectaquarius.[mufon](&#123;&#123; 'mufon/' | relative_url &#125;&#125;). com  
    Title: December November 1985  
-   Link: [https://projectaquarius.mufon.com/wp-content/uploads/2023/09/December_November_1985.pdf](https://projectaquarius.mufon.com/wp-content/uploads/2023/09/December_November_1985.pdf)  
+   Link: <a href="https://projectaquarius.mufon.com/wp-content/uploads/2023/09/December_November_1985.pdf" target="_blank" rel="noopener noreferrer nofollow">https://projectaquarius.mufon.com/wp-content/uploads/2023/09/December_November_1985.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO JOURNAL6 Dec 1985 —... code book. E) A special section will provide the references for each entry in detail. CRITERIA. The criteria...</p></details>
-   Published: November 1985  
+   Published: November 1985

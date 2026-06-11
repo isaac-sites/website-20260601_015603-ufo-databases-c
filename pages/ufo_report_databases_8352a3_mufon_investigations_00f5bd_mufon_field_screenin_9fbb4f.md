@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /mufon/
 nav_short_title: Field screening
 title: What Happens After a MUFON Report?
-title_full: What Happens After a MUFON Report? | MUFON
+title_full: What Happens After a MUFON Report?
 display_title_short: Field screening
 display_title: Field screening
 heading_title: What Happens After a MUFON Report?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 18:33:17'
-parent_title: How MUFON Turns Sightings Into Cases | UFO Archives
+parent_title: How MUFON Turns Sightings Into Cases
 parent_permalink: /mufon/
 parent_nav_short_title: MUFON
 parent_heading_title: How MUFON Turns Sightings Into Cases
@@ -268,20 +268,18 @@ image: /assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mu
 
 ## Introduction
 
-When a sighting is submitted to the Mutual UFO Network ([MUFON]({{ 'mufon/' | relative_url }})), the report does not automatically become a catalogue entry of an unexplained event. The organisation’s screening process is designed to move a witness account through a structured review that looks for missing details, checks supporting material and, crucially, tests whether the observation can be explained by ordinary causes. According to MUFON’s own investigation procedures, field investigators begin from the assumption that a rational explanation may exist and attempt to determine whether the witness observed something identifiable rather than genuinely unknown. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/the-scientific-method/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">MUFONThe Scientific MethodTrack UFOs · Field Investigator CMS Login · Become a Field Investigator · Report a UFO · Report an Experience ·...</span></span></span>
-
+When a sighting is submitted to the Mutual UFO Network ([MUFON]({{ 'mufon/' | relative_url }})), the report does not automatically become a catalogue entry of an unexplained event. The organisation’s screening process is designed to move a witness account through a structured review that looks for missing details, checks supporting material and, crucially, tests whether the observation can be explained by ordinary causes. According to MUFON’s own investigation procedures, field investigators begin from the assumption that a rational explanation may exist and attempt to determine whether the witness observed something identifiable rather than genuinely unknown. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/the-scientific-method/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">The Scientific MethodTrack UFOs · Field Investigator CMS Login · Become a Field Investigator · Report a UFO · Report an Experience ·...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_field_screenin_9fbb4f-Illustration-1-dark.svg" | relative_url }}" alt="Field screening illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_field_screenin_9fbb4f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_field_screenin_9fbb4f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This screening stage is important because it determines what ultimately enters MUFON’s case-management records. A report may progress from an online form to interviews, measurements, document collection and follow-up research, but many cases are filtered by investigating aircraft, drones, astronomical objects, lanterns, satellites, reflections or other familiar sources before any anomaly classification is considered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/become-a-mufon-field-investigator/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">MUFONBecome a Mufon Field InvestigatorTrack UFOs · Field Investigator CMS Login · Become a Field Investigator · Report a UFO · Report an...</span></span></span>
+This screening stage is important because it determines what ultimately enters MUFON’s case-management records. A report may progress from an online form to interviews, measurements, document collection and follow-up research, but many cases are filtered by investigating aircraft, drones, astronomical objects, lanterns, satellites, reflections or other familiar sources before any anomaly classification is considered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/become-a-mufon-field-investigator/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">Become a Mufon Field InvestigatorTrack UFOs · Field Investigator CMS Login · Become a Field Investigator · Report a UFO · Report an...</span></span></span>
 
 ## What Happens After a MUFON Report?
 
 ### From submission form to case number
 
-The process begins when a witness completes MUFON’s reporting form and uploads any available photographs, videos or documents. The report enters the organisation’s Case Management System and receives a case number. It is then routed through MUFON’s administrative structure, typically involving a state, provincial or national director who decides whether the case should be assigned to a field investigator. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/cms-ifo-info/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">MUFONCMS IFO InfoAll witnesses who attach files to this report must acknowledge that by clicking the CONTINUE WITH REPORT button below, t...</span></span></span>
+The process begins when a witness completes MUFON’s reporting form and uploads any available photographs, videos or documents. The report enters the organisation’s Case Management System and receives a case number. It is then routed through MUFON’s administrative structure, typically involving a state, provincial or national director who decides whether the case should be assigned to a field investigator. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/cms-ifo-info/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">CMS IFO InfoAll witnesses who attach files to this report must acknowledge that by clicking the CONTINUE WITH REPORT button below, t...</span></span></span>
 
 At this stage, the first screening is often administrative rather than analytical. Investigators look for whether the report contains enough information to pursue. Basic factors include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -296,25 +294,23 @@ At this stage, the first screening is often administrative rather than analytica
 
 Reports lacking essential information may be difficult to investigate further, while those with clear witness contact details and supporting material are more likely to receive deeper review. The assignment process also helps prevent duplication when multiple witnesses report the same event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">MUFON Through the AgesTrack UFOs · Field Investigator CMS Login · Become a Field Investigator · Report a UFO · Report an Experience · Don...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JvqoodXDZjE" title="WATCH: Meet the people who research suspected UFO sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JvqoodXDZjE" target="_blank" rel="noopener noreferrer">WATCH: Meet the people who research suspected UFO sightings</a></p><p class="youtube-embed-meta">Channel: KENS 5: Your San Antonio News Source &middot; Views: 10.0K &middot; Uploaded: November 2022 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JvqoodXDZjE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JvqoodXDZjE">Open on YouTube</a></p></div></div></div>
 
 ### Why the witness interview matters
 
-MUFON training materials place heavy emphasis on witness interviewing. The organisation teaches investigators to prepare for interviews, gather complete accounts, assess consistency and seek corroborating information from other sources where possible. Interviewing is treated as a core investigative skill rather than a simple fact-collection exercise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">MUFON: HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other unexp...</span></span></span>
+MUFON training materials place heavy emphasis on witness interviewing. The organisation teaches investigators to prepare for interviews, gather complete accounts, assess consistency and seek corroborating information from other sources where possible. Interviewing is treated as a core investigative skill rather than a simple fact-collection exercise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other unexp...</span></span></span>
 
-A typical interview attempts to reconstruct the event in detail. Investigators ask witnesses to describe what they observed before introducing possible explanations. This approach is intended to reduce the risk of steering the witness toward a particular interpretation. Follow-up questions focus on chronology, viewing conditions, weather, lighting and the witness's location at the time of the observation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/the-scientific-method/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">MUFONThe Scientific MethodTrack UFOs · Field Investigator CMS Login · Become a Field Investigator · Report a UFO · Report an Experience ·...</span></span></span>
+A typical interview attempts to reconstruct the event in detail. Investigators ask witnesses to describe what they observed before introducing possible explanations. This approach is intended to reduce the risk of steering the witness toward a particular interpretation. Follow-up questions focus on chronology, viewing conditions, weather, lighting and the witness's location at the time of the observation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/the-scientific-method/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">The Scientific MethodTrack UFOs · Field Investigator CMS Login · Become a Field Investigator · Report a UFO · Report an Experience ·...</span></span></span>
 
 The goal is not merely to collect a narrative but to convert a subjective experience into information that can be checked against external data.
 
 ## Interviews, Measurements and Supporting Material
 
-Once a case advances beyond the initial review, investigators attempt to gather measurable information. MUFON states that field investigators collect details such as angular size, elevation, azimuth, brightness and estimated distance whenever possible. These measurements help determine whether the sighting is consistent with known aircraft, celestial objects or other conventional phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/become-a-mufon-field-investigator/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">MUFONBecome a Mufon Field InvestigatorTrack UFOs · Field Investigator CMS Login · Become a Field Investigator · Report a UFO · Report an...</span></span></span>
+Once a case advances beyond the initial review, investigators attempt to gather measurable information. MUFON states that field investigators collect details such as angular size, elevation, azimuth, brightness and estimated distance whenever possible. These measurements help determine whether the sighting is consistent with known aircraft, celestial objects or other conventional phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/become-a-mufon-field-investigator/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">Become a Mufon Field InvestigatorTrack UFOs · Field Investigator CMS Login · Become a Field Investigator · Report a UFO · Report an...</span></span></span>
 
-For example, if a witness reports a bright stationary object in the western sky shortly after sunset, measurements of direction and elevation can be compared with astronomical data. If the object's location matches a bright planet or star, the case may be resolved without invoking an unknown explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/cms-ifo-info/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">MUFONCMS IFO InfoAll witnesses who attach files to this report must acknowledge that by clicking the CONTINUE WITH REPORT button below, t...</span></span></span>
+For example, if a witness reports a bright stationary object in the western sky shortly after sunset, measurements of direction and elevation can be compared with astronomical data. If the object's location matches a bright planet or star, the case may be resolved without invoking an unknown explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/cms-ifo-info/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">CMS IFO InfoAll witnesses who attach files to this report must acknowledge that by clicking the CONTINUE WITH REPORT button below, t...</span></span></span>
 
 Investigators also request supporting material such as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -329,11 +325,10 @@ Investigators also request supporting material such as:
 
 The emphasis on supporting material reflects a practical reality of UFO databases: reports containing verifiable information are generally easier to evaluate than narrative-only submissions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">MUFON Through the AgesTrack UFOs · Field Investigator CMS Login · Become a Field Investigator · Report a UFO · Report an Experience · Don...</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_field_screenin_9fbb4f-Illustration-2-dark.svg" | relative_url }}" alt="Field screening illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_field_screenin_9fbb4f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_field_screenin_9fbb4f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Collateral checks and corroboration
 
-MUFON training guidance specifically encourages what it calls collateral contacts. These are external sources used to verify or challenge witness accounts. Examples may include locating additional witnesses, checking local events, confirming flight activity or identifying known sources of confusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">MUFON: HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other unexp...</span></span></span>
+MUFON training guidance specifically encourages what it calls collateral contacts. These are external sources used to verify or challenge witness accounts. Examples may include locating additional witnesses, checking local events, confirming flight activity or identifying known sources of confusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other unexp...</span></span></span>
 
 This part of the screening process aims to answer a simple question: does independent information support what the witness described?
 
@@ -341,10 +336,9 @@ A report that appears unusual in isolation may become less mysterious if multipl
 
 ## How Investigators Test Ordinary Explanations
 
-The most distinctive feature of MUFON's screening process is its explicit attempt to eliminate ordinary explanations before considering a case unresolved. MUFON states that investigators begin with the hypothesis that an event can be explained rationally and then test whether the available evidence supports that conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">MUFON: HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other unexp...</span></span></span>
+The most distinctive feature of MUFON's screening process is its explicit attempt to eliminate ordinary explanations before considering a case unresolved. MUFON states that investigators begin with the hypothesis that an event can be explained rationally and then test whether the available evidence supports that conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other unexp...</span></span></span>
 
 According to MUFON, common sources of misidentification include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -352,34 +346,31 @@ According to MUFON, common sources of misidentification include:
 * Conventional aircraft.
 * Drones.
 * Astronomical objects.
-* Reflections and lighting effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">MUFON: HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other unexp...</span></span></span>
+* Reflections and lighting effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other unexp...</span></span></span>
 
 </div>
 
-In practical terms, this means investigators compare witness descriptions against known characteristics of these objects. A slowly moving light drifting with the wind may suggest a lantern. Flashing navigation lights may indicate an aircraft. Apparently stationary lights may correspond to planets or bright stars. Unusual camera artefacts may originate from reflections, lens effects or image-processing issues. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">MUFON: HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other unexp...</span></span></span>
+In practical terms, this means investigators compare witness descriptions against known characteristics of these objects. A slowly moving light drifting with the wind may suggest a lantern. Flashing navigation lights may indicate an aircraft. Apparently stationary lights may correspond to planets or bright stars. Unusual camera artefacts may originate from reflections, lens effects or image-processing issues. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other unexp...</span></span></span>
 
 The screening process therefore functions as a filter. Many reports enter the system as unexplained sightings but are later classified as identifiable events after additional information is collected.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PSgTuE7HFx0" title="MUFON – The Truth Behind UFOs and Alien Encounters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PSgTuE7HFx0" target="_blank" rel="noopener noreferrer">MUFON – The Truth Behind UFOs and Alien Encounters</a></p><p class="youtube-embed-meta">Channel: J. Horton Films &middot; Views: 48.3K &middot; Uploaded: January 2023 &middot; Length: 50 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PSgTuE7HFx0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PSgTuE7HFx0">Open on YouTube</a></p></div></div></div>
 
 ### Why measurements matter more than impressions
 
-Witnesses often describe objects using terms such as “huge”, “fast” or “close”. Investigators attempt to translate these impressions into measurable quantities because human perception can be unreliable when distance, scale and speed are unknown. Training materials emphasise investigative techniques, optics, celestial objects and related subjects precisely because many apparent anomalies arise from misjudging these factors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">MUFON: HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other unexp...</span></span></span>
+Witnesses often describe objects using terms such as “huge”, “fast” or “close”. Investigators attempt to translate these impressions into measurable quantities because human perception can be unreliable when distance, scale and speed are unknown. Training materials emphasise investigative techniques, optics, celestial objects and related subjects precisely because many apparent anomalies arise from misjudging these factors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other unexp...</span></span></span>
 
 A light that appears enormous may actually be distant. An object that seems to hover may be moving directly toward the observer. A sudden acceleration may reflect a change in viewing angle rather than extraordinary performance. Screening attempts to distinguish between perception and measurable observation before a case is classified.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NzpiekMIYyg" title="Deviation by Azimuth (Sun) | Problem 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NzpiekMIYyg" target="_blank" rel="noopener noreferrer">Deviation by Azimuth (Sun) | Problem 2</a></p><p class="youtube-embed-meta">Channel: US Captain&#x27;s Training &middot; Views: 1.1K &middot; Uploaded: April 2023 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NzpiekMIYyg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NzpiekMIYyg">Open on YouTube</a></p></div></div></div>
 
 ## Strengths and Limits of the Screening Model
 
-MUFON's approach offers a level of follow-up that many public UFO reporting databases do not provide. Rather than simply storing reports, the organisation can assign volunteers, conduct interviews and request evidence. This creates a richer case file than a basic sightings log. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">MUFON: HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other unexp...</span></span></span>
+MUFON's approach offers a level of follow-up that many public UFO reporting databases do not provide. Rather than simply storing reports, the organisation can assign volunteers, conduct interviews and request evidence. This creates a richer case file than a basic sightings log. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other unexp...</span></span></span>
 
-However, the process also depends heavily on volunteer investigators, witness cooperation and the quality of available evidence. Training, manuals and certification requirements are intended to create consistency, and MUFON has maintained investigator training programmes for decades. Nevertheless, investigations are not conducted by a uniform professional forensic service, and outcomes can vary with investigator experience and local resources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">MUFON: HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other unexp...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">MUFON: HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other unexp...</span></span></span>
+However, the process also depends heavily on volunteer investigators, witness cooperation and the quality of available evidence. Training, manuals and certification requirements are intended to create consistency, and MUFON has maintained investigator training programmes for decades. Nevertheless, investigations are not conducted by a uniform professional forensic service, and outcomes can vary with investigator experience and local resources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other unexp...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other unexp...</span></span></span>
 
-For users of [UFO report databases]({{ 'ufo-report-databases-and-catalogues/' | relative_url }}), the key point is that a MUFON case is not merely a witness statement. Before a report reaches its final status, it may pass through interviews, measurements, corroboration checks and attempts to rule out ordinary explanations. The screening mechanism is therefore the organisation’s primary quality-control step, shaping which reports remain unexplained and which are ultimately resolved as conventional events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">MUFON: HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other unexp...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">MUFON: HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other unexp...</span></span></span>
-
+For users of UFO report databases, the key point is that a MUFON case is not merely a witness statement. Before a report reaches its final status, it may pass through interviews, measurements, corroboration checks and attempts to rule out ordinary explanations. The screening mechanism is therefore the organisation’s primary quality-control step, shaping which reports remain unexplained and which are ultimately resolved as conventional events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other unexp...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other unexp...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_field_screenin_9fbb4f-Illustration-3-dark.svg" | relative_url }}" alt="Field screening illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_field_screenin_9fbb4f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_field_screenin_9fbb4f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -779,145 +770,145 @@ For users of [UFO report databases]({{ 'ufo-report-databases-and-catalogues/' | 
 
 1. <a id="endnote-1"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/the-scientific-method/](https://mufon.com/the-scientific-method/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFONThe Scientific MethodTrack UFOs · Field Investigator CMS Login · Become a Field Investigator · Report a UFO · Report an Experience ·...</p></details>
+   Link: <a href="https://mufon.com/the-scientific-method/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/the-scientific-method/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientific MethodTrack UFOs · Field Investigator CMS Login · Become a Field Investigator · Report a UFO · Report an Experience ·...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/become-a-mufon-field-investigator/](https://mufon.com/become-a-mufon-field-investigator/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFONBecome a Mufon Field InvestigatorTrack UFOs · Field Investigator CMS Login · Become a Field Investigator · Report a UFO · Report an...</p></details>
+   Link: <a href="https://mufon.com/become-a-mufon-field-investigator/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/become-a-mufon-field-investigator/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Become a Mufon Field InvestigatorTrack UFOs · Field Investigator CMS Login · Become a Field Investigator · Report a UFO · Report an...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/cms-ifo-info/](https://mufon.com/cms-ifo-info/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFONCMS IFO InfoAll witnesses who attach files to this report must acknowledge that by clicking the CONTINUE WITH REPORT button below, t...</p></details>
+   Link: <a href="https://mufon.com/cms-ifo-info/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/cms-ifo-info/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>CMS IFO InfoAll witnesses who attach files to this report must acknowledge that by clicking the CONTINUE WITH REPORT button below, t...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/history/](https://mufon.com/history/)  
+   Link: <a href="https://mufon.com/history/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/history/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON Through the AgesTrack UFOs · Field Investigator CMS Login · Become a Field Investigator · Report a UFO · Report an Experience · Don...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/](https://mufon.com/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON: HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other unexp...</p></details>
+   Link: <a href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other unexp...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
    Title: WATCH: Meet the people who research suspected UFO sightings  
-   Link: [https://www.youtube.com/watch?v=JvqoodXDZjE](https://www.youtube.com/watch?v=JvqoodXDZjE)  
+   Link: <a href="https://www.youtube.com/watch?v=JvqoodXDZjE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JvqoodXDZjE</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON – The Truth Behind UFOs and Alien Encounters...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
    Title: MUFON – The Truth Behind UFOs and Alien Encounters  
-   Link: [https://www.youtube.com/watch?v=PSgTuE7HFx0](https://www.youtube.com/watch?v=PSgTuE7HFx0)  
+   Link: <a href="https://www.youtube.com/watch?v=PSgTuE7HFx0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PSgTuE7HFx0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Trump admin releases proof of UFOs, UFO files...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: documents.theblackvault.com  
    Title: August 2008  
-   Link: [https://documents.theblackvault.com/documents/MUFON/Journals/2008/August_2008.pdf](https://documents.theblackvault.com/documents/MUFON/Journals/2008/August_2008.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/MUFON/Journals/2008/August_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/MUFON/Journals/2008/August_2008.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON UFO Journal16 Aug 2008 — With Altitude and Azimuth defined we can now identify some techniques that can be used to provide an estim...</p></details>
    Published: August 2008  
 
 9. <a id="endnote-9"></a>
    Source: scribd.com  
    Title: MUFO N Oregon  
-   Link: [https://www.scribd.com/document/658475460/MUFON-Oregon-field-investigators-manual-OMInvestigatorsGuide1-8](https://www.scribd.com/document/658475460/MUFON-Oregon-field-investigators-manual-OMInvestigatorsGuide1-8)  
+   Link: <a href="https://www.scribd.com/document/658475460/MUFON-Oregon-field-investigators-manual-OMInvestigatorsGuide1-8" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/658475460/MUFON-Oregon-field-investigators-manual-OMInvestigatorsGuide1-8</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>• A computer to do research with, prepare reports on, communicate with witnesses, Oregon MUFON, and MUFON headquarters...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/687125160/1933870431](https://www.scribd.com/document/687125160/1933870431)  
+   Link: <a href="https://www.scribd.com/document/687125160/1933870431" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/687125160/1933870431</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON Field Investigator Manual Download | PDFThe network forms volunteers to interview witnesses, perform research and draw conclusions...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: mufonu.com  
-   Link: [https://mufonu.com/](https://mufonu.com/)  
+   Link: <a href="https://mufonu.com/" target="_blank" rel="noopener noreferrer nofollow">https://mufonu.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON University – MUFON Center of ExcellenceTo become a MUFON Field Investigator you must be at least 18-years of age, be able to accept...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: quizlet.com  
-   Link: [https://quizlet.com/572394263/mufon-flash-cards/](https://quizlet.com/572394263/mufon-flash-cards/)  
+   Link: <a href="https://quizlet.com/572394263/mufon-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/572394263/mufon-flash-cards/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nderstanding of the aims of Mufon.Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: dochub.com  
-   Link: [https://www.dochub.com/fillable-form/109085-mufon-field-investigator-manual](https://www.dochub.com/fillable-form/109085-mufon-field-investigator-manual)  
+   Link: <a href="https://www.dochub.com/fillable-form/109085-mufon-field-investigator-manual" target="_blank" rel="noopener noreferrer nofollow">https://www.dochub.com/fillable-form/109085-mufon-field-investigator-manual</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ien UFO Investigations. MUFON Field Investigators are the...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1eh8sah/mufon_investigator_training_manual_table_of/](https://www.reddit.com/r/UFOs/comments/1eh8sah/mufon_investigator_training_manual_table_of/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1eh8sah/mufon_investigator_training_manual_table_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1eh8sah/mufon_investigator_training_manual_table_of/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON Investigator Training Manual, Table of Contents....Why do most UFO/alien incidents seem to come from the US? r/UFOs - Why do most...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: electronicsandbooks.com  
    Title: MUFON UFO Journal December 1979  
-   Link: [https://electronicsandbooks.com/edt/manual/Magazine/M/MUFON%20UFO%20Journal/MUFON%20UFO%20Journal%20-%20December%201979.pdf](https://electronicsandbooks.com/edt/manual/Magazine/M/MUFON%20UFO%20Journal/MUFON%20UFO%20Journal%20-%20December%201979.pdf)  
+   Link: <a href="https://electronicsandbooks.com/edt/manual/Magazine/M/MUFON%20UFO%20Journal/MUFON%20UFO%20Journal%20-%20December%201979.pdf" target="_blank" rel="noopener noreferrer nofollow">https://electronicsandbooks.com/edt/manual/Magazine/M/MUFON%20UFO%20Journal/MUFON%20UFO%20Journal%20-%20December%201979.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The MUFON10 Dec 1979 — The case also was investigated by. MUFON Field Investigator, Arthur. Morros of Zionsville, Indiana. On September 2...</p></details>
    Published: December 1979  
 
 16. <a id="endnote-16"></a>
    Source: electronicsandbooks.com  
-   Link: [https://electronicsandbooks.com/edt/manual/Magazine/M/MUFON%20UFO%20Journal/MUFON%20UFO%20Journal%20-%20March%202004.pdf](https://electronicsandbooks.com/edt/manual/Magazine/M/MUFON%20UFO%20Journal/MUFON%20UFO%20Journal%20-%20March%202004.pdf)  
+   Link: <a href="https://electronicsandbooks.com/edt/manual/Magazine/M/MUFON%20UFO%20Journal/MUFON%20UFO%20Journal%20-%20March%202004.pdf" target="_blank" rel="noopener noreferrer nofollow">https://electronicsandbooks.com/edt/manual/Magazine/M/MUFON%20UFO%20Journal/MUFON%20UFO%20Journal%20-%20March%202004.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: abebooks.co.uk  
-   Link: [https://www.abebooks.co.uk/MUFON-Field-Investigators-Manual-Mutual-UFO/32217016709/bd](https://www.abebooks.co.uk/MUFON-Field-Investigators-Manual-Mutual-UFO/32217016709/bd)  
+   Link: <a href="https://www.abebooks.co.uk/MUFON-Field-Investigators-Manual-Mutual-UFO/32217016709/bd" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/MUFON-Field-Investigators-Manual-Mutual-UFO/32217016709/bd</a>  
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/haynes-ufo-investigations-manual-ufo-investigations-from-1892-to-the-present-day-085733400x-9780857334008.html](https://dokumen.pub/haynes-ufo-investigations-manual-ufo-investigations-from-1892-to-the-present-day-085733400x-9780857334008.html)  
+   Link: <a href="https://dokumen.pub/haynes-ufo-investigations-manual-ufo-investigations-from-1892-to-the-present-day-085733400x-9780857334008.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/haynes-ufo-investigations-manual-ufo-investigations-from-1892-to-the-present-day-085733400x-9780857334008.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Haynes UFO Investigations ManualRIGHT: Chinese lanterns are the curse of ufology. They cause hundreds of UFO sightings every year. Tim Pr...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/377871814_Exploring_Unidentified_Aerospace_Phenomena_through_Instrumented_Field_Studies_Historical_Insights_Current_Challenges_and_Future_Directions](https://www.researchgate.net/publication/377871814_Exploring_Unidentified_Aerospace_Phenomena_through_Instrumented_Field_Studies_Historical_Insights_Current_Challenges_and_Future_Directions)  
+   Link: <a href="https://www.researchgate.net/publication/377871814_Exploring_Unidentified_Aerospace_Phenomena_through_Instrumented_Field_Studies_Historical_Insights_Current_Challenges_and_Future_Directions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377871814_Exploring_Unidentified_Aerospace_Phenomena_through_Instrumented_Field_Studies_Historical_Insights_Current_Challenges_and_Future_Directions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Insights, Current Challenges, and Future DirectionsThe study of Unidentified Aerospace Phenomena (UAP) requires a shift from a...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Mutual_UFO_Network](https://en.wikipedia.org/wiki/Mutual_UFO_Network)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mutual_UFO_Network" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mutual_UFO_Network</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mutual UFO NetworkThe Mutual UFO Network (MUFON) is a US-based non-profit organization composed of civilian volunteers who study repor...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/doc/30141090/11-Physical-Evidence-Related-to-UFO-Reports-Journal-of-Scientific-Exploration](https://www.scribd.com/doc/30141090/11-Physical-Evidence-Related-to-UFO-Reports-Journal-of-Scientific-Exploration)  
+   Link: <a href="https://www.scribd.com/doc/30141090/11-Physical-Evidence-Related-to-UFO-Reports-Journal-of-Scientific-Exploration" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/30141090/11-Physical-Evidence-Related-to-UFO-Reports-Journal-of-Scientific-Exploration</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Physical Evidence Workshop Report | PDFThis document summarizes a workshop where UFO investigators presented physical evidence to a s...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: handprint.com  
-   Link: [https://www.handprint.com/UFO/UFO.html](https://www.handprint.com/UFO/UFO.html)  
+   Link: <a href="https://www.handprint.com/UFO/UFO.html" target="_blank" rel="noopener noreferrer nofollow">https://www.handprint.com/UFO/UFO.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO as wildlifeA detailed analysis of data of the FBI, which was derived from investigations of intrusions of unidentified aerial phenome...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: oregonmufon.com  
-   Link: [https://www.oregonmufon.com/PDFs/OMInvestigatorsGuide.pdf](https://www.oregonmufon.com/PDFs/OMInvestigatorsGuide.pdf)  
+   Link: <a href="https://www.oregonmufon.com/PDFs/OMInvestigatorsGuide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oregonmufon.com/PDFs/OMInvestigatorsGuide.pdf</a>  
 
 24. <a id="endnote-24"></a>
    Source: dafhistory.af.mil  
-   Link: [https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf](https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf)  
+   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: pdffiller.com  
-   Link: [https://www.pdffiller.com/101430199-Form2030-MUFON20Field20Investigators20Reportpdf-mufon-field-investigator-manual-](https://www.pdffiller.com/101430199-Form2030-MUFON20Field20Investigators20Reportpdf-mufon-field-investigator-manual-)  
+   Link: <a href="https://www.pdffiller.com/101430199-Form2030-MUFON20Field20Investigators20Reportpdf-mufon-field-investigator-manual-" target="_blank" rel="noopener noreferrer nofollow">https://www.pdffiller.com/101430199-Form2030-MUFON20Field20Investigators20Reportpdf-mufon-field-investigator-manual-</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2015-2026 MUFON Form 30 Field Investigators Report5 May 2026 — MUFON Form 30 Field Investigators Report is needed by: Field Investigators...</p></details>
    Published: May 2026  
 
 26. <a id="endnote-26"></a>
    Source: scribd.com  
    Title: APRO 1972 Field Investigator Handbook pdf  
-   Link: [https://www.scribd.com/document/452814977/APRO-1972-Field-Investigator-Handbook-pdf](https://www.scribd.com/document/452814977/APRO-1972-Field-Investigator-Handbook-pdf)  
+   Link: <a href="https://www.scribd.com/document/452814977/APRO-1972-Field-Investigator-Handbook-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/452814977/APRO-1972-Field-Investigator-Handbook-pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>APRO (1972) - Field Investigator Handbook PDFMUFON Oregon - Field Investigators Manual - OMInvestigatorsGuide1.8. PDF. No ratings yet. MU...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: academia.edu  
    Title: The [Reliability](&#123;&#123; 'reliability/' | relative_url &#125;&#125;) of UFO Witness Testimony  
-   Link: [https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony](https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony)  
+   Link: <a href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Reliability of UFO Witness Testimony17 May 2023 — What position should the investigator hold during the investigation... azimu...</p></details>
-   Published: May 2023  
+   Published: May 2023

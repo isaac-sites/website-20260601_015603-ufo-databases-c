@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /reliability/
 nav_short_title: Archives vs Apps
 title: Are Archives Better Than UFO Dashboards?
-title_full: Are Archives Better Than UFO Dashboards? | Reliability
+title_full: Are Archives Better Than UFO Dashboards?
 display_title_short: Archives vs Apps
 display_title: Archives vs Apps
 heading_title: Are Archives Better Than UFO Dashboards?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 01:44:11'
-parent_title: Which UFO Databases Are Worth Trusting? | UFO Archives
+parent_title: Which UFO Databases Are Worth Trusting?
 parent_permalink: /reliability/
 parent_nav_short_title: Reliability
 parent_heading_title: Which UFO Databases Are Worth Trusting?
@@ -270,7 +270,6 @@ image: /assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_ar
 
 Official UFO [archives]({{ 'archives/' | relative_url }}) and public UFO dashboards often appear to cover the same subject, but they are built for different purposes. Archives are usually designed to preserve records, document provenance and show how an institution handled a report. Dashboards are designed to make reports searchable, visible and easy to browse. Neither format is automatically more reliable than the other. The key question is what kind of [reliability]({{ 'reliability/' | relative_url }}) a researcher needs.
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_archives_vs_dashboar_bc7b19-Illustration-1-dark.svg" | relative_url }}" alt="Archives vs Apps illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_archives_vs_dashboar_bc7b19-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_archives_vs_dashboar_bc7b19-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 If the goal is to verify that a document exists, trace a case back to an original government file, or understand how an investigation was conducted, official archives usually provide stronger evidence. If the goal is to spot reporting trends, compare witness descriptions across regions, or follow new submissions quickly, public reporting systems often provide better access and speed. The most effective UFO research typically moves between both systems rather than treating one as a replacement for the other. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</span></span></span>
 
@@ -278,7 +277,7 @@ If the goal is to verify that a document exists, trace a case back to an origina
 
 Official archives are strongest when a reader wants to know where a record came from, who created it and how it entered the historical record.
 
-The US [National Archives]({{ 'archives/' | relative_url }})' holdings on Project [Blue Book]({{ 'blue-book/' | relative_url }}) are a clear example. The archive preserves the Air Force records generated during the programme's investigations between the 1950s and 1969. Researchers can examine original documents rather than relying on later summaries, screenshots or retellings. The archive's value lies in provenance: a user can often identify the agency, date, filing structure and administrative context behind a record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</span></span></span>
+The US National Archives' holdings on Project [Blue Book]({{ 'blue-book/' | relative_url }}) are a clear example. The archive preserves the Air Force records generated during the programme's investigations between the 1950s and 1969. Researchers can examine original documents rather than relying on later summaries, screenshots or retellings. The archive's value lies in provenance: a user can often identify the agency, date, filing structure and administrative context behind a record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</span></span></span>
 
 Modern UAP collections at the National Archives extend this principle. The archive now offers bulk downloads containing digitised records alongside JSON metadata files. That means researchers can inspect not only documents but also the catalogue information attached to them. Metadata can reveal when a record was created, which record group it belongs to and whether it is part of a larger collection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</span></span></span>
 
@@ -294,20 +293,19 @@ For example, Project [Blue Book files]({{ 'blue-book-files/' | relative_url }}) 
 
 This is particularly important because some UFO stories circulate online in simplified form. A dashboard entry may present a dramatic summary, while archival records reveal missing witness statements, contradictory testimony or uncertainty in the original investigation.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/93V7pOi-oIQ" title="UFO FILES: 35 minutes of &#x27;never-before-seen&#x27; footage released under Trump" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=93V7pOi-oIQ" target="_blank" rel="noopener noreferrer">UFO FILES: 35 minutes of &#x27;never-before-seen&#x27; footage released under Trump</a></p><p class="youtube-embed-meta">Channel: The National Desk &middot; Views: 203.5K &middot; Uploaded: May 2026 &middot; Length: 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=93V7pOi-oIQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=93V7pOi-oIQ">Open on YouTube</a></p></div></div></div>
 
 ## What public reporting systems do better
 
 Public UFO dashboards solve a different problem: access.
 
-Sites such as the National UFO Reporting Center ([NUFORC]({{ 'nuforc/' | relative_url }})) allow users to browse reports by date, location, shape and other categories. New reports can appear quickly, making these systems valuable for tracking current reporting activity rather than historical government investigations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+Sites such as the National UFO Reporting Center ([NUFORC]({{ 'nuforc/' | relative_url }})) allow users to browse reports by date, location, shape and other categories. New reports can appear quickly, making these systems valuable for tracking current reporting activity rather than historical government investigations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 The scale of these databases is one of their main strengths. NUFORC describes its databank as the largest independently collected UFO reporting archive available online. Researchers can search thousands of reports within seconds, filter by region and compare narratives across decades. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=event" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports by MonthNUFORC. Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search · Menu C...</span></span></span>
 
-Interactive dashboards also make patterns visible. Maps, timelines and searchable fields help users explore questions that would be difficult to answer by manually reading archival boxes or scanned files. A user can quickly examine [clusters]({{ 'clusters/' | relative_url }}) of reports in a particular state, compare reporting rates over time or search for recurring descriptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Browse reports, images, videos, maps and more</span><span class="citation-popover-snippet">National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witn...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports by Location NUFORC Reports by Location; USA</span><span class="citation-popover-snippet">NUFORC Reports by LocationNUFORC Reports by Location; USA - Oregon, 3808; USA - Pennsylvania, 5387; USA - Puerto Rico, 192; USA - Rho...</span></span></span>
+Interactive dashboards also make patterns visible. Maps, timelines and searchable fields help users explore questions that would be difficult to answer by manually reading archival boxes or scanned files. A user can quickly examine [clusters]({{ 'clusters/' | relative_url }}) of reports in a particular state, compare reporting rates over time or search for recurring descriptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Browse reports, images, videos, maps and more</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witn...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports by Location NUFORC Reports by Location; USA</span><span class="citation-popover-snippet">NUFORC Reports by LocationNUFORC Reports by Location; USA - Oregon, 3808; USA - Pennsylvania, 5387; USA - Puerto Rico, 192; USA - Rho...</span></span></span>
 
-Another advantage is public participation. Reporting systems continuously receive new submissions from witnesses. Official archives are often closed collections documenting past investigations, whereas dashboards can function as active intake systems. NUFORC, for example, combines browsing tools with online reporting mechanisms and witness submission channels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">report a ufo</span><span class="citation-popover-snippet">File a UFO Report | NUFORCThe Center&#x27;s hotline at 206-722-3000 is generally reserved for recent UFO reports. However, brief queries may b...</span></span></span>
+Another advantage is public participation. Reporting systems continuously receive new submissions from witnesses. Official archives are often closed collections documenting past investigations, whereas dashboards can function as active intake systems. NUFORC, for example, combines browsing tools with online reporting mechanisms and witness submission channels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">report a ufo</span><span class="citation-popover-snippet">File a UFO Report &#124; NUFORCThe Center&#x27;s hotline at 206-722-3000 is generally reserved for recent UFO reports. However, brief queries may b...</span></span></span>
 
 ### The trade-off behind speed
 
@@ -315,8 +313,7 @@ The same openness that makes dashboards useful also creates reliability challeng
 
 Many public databases depend heavily on self-reported accounts. Reports can vary enormously in detail, accuracy and evidential value. Some include photographs, timestamps and multiple witnesses. Others contain only a brief description. Moderation policies differ from one platform to another, and not every report receives a full investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-Large public datasets also accumulate duplicates. A single event may be reported by multiple witnesses, reposted across platforms or entered into derivative datasets used by researchers and hobbyists. When dashboard data is exported into secondary projects, additional cleaning and verification become necessary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://github.com/timothyrenner/nuforc_sightings_data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-snippet">GitHubtimothyrenner/nuforc_sightings_data: Data collection and...The Nationa UFO Research Center (NUFORC) maintains an online database o...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kaggle.com/datasets/sawradipsaha/ufo-data-national-ufo-reporting-center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kaggle.com">[Kaggle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kaggle.com</span><span class="citation-popover-title">UFO Data</span><span class="citation-popover-snippet">Amarel · 3.5; UFO Report Time Series · Noah Hradek · 8.2; NUFORC UFO Data for English Speaking...Read more...</span></span></span>
-
+Large public datasets also accumulate [duplicates]({{ 'duplicates/' | relative_url }}). A single event may be reported by multiple witnesses, reposted across platforms or entered into derivative datasets used by researchers and hobbyists. When dashboard data is exported into secondary projects, additional cleaning and verification become necessary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://github.com/timothyrenner/nuforc_sightings_data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-snippet">timothyrenner/nuforc_sightings_data: Data collection and...The Nationa UFO Research Center (NUFORC) maintains an online database o...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kaggle.com/datasets/sawradipsaha/ufo-data-national-ufo-reporting-center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kaggle.com">[Kaggle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kaggle.com</span><span class="citation-popover-title">UFO Data</span><span class="citation-popover-snippet">Amarel · 3.5; UFO Report Time Series · Noah Hradek · 8.2; NUFORC UFO Data for English Speaking...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_archives_vs_dashboar_bc7b19-Illustration-2-dark.svg" | relative_url }}" alt="Archives vs Apps illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_archives_vs_dashboar_bc7b19-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_archives_vs_dashboar_bc7b19-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to compare access, speed and provenance
@@ -334,7 +331,7 @@ The easiest way to compare archives and dashboards is to ask three questions.
 
 * Dashboards are generally easier for casual users.
 * Filters, maps and keyword searches reduce the effort required to explore large collections.
-* Archives may require familiarity with catalogue systems, record groups and document references. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+* Archives may require familiarity with catalogue systems, record groups and document references. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 **How strong is the provenance?**
 
@@ -343,7 +340,6 @@ The easiest way to compare archives and dashboards is to ask three questions.
 * Researchers can often identify exactly where a document originated and how it was retained. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</span></span></span>
 
 These strengths and weaknesses mean that a visually impressive dashboard is not necessarily a stronger source than a plain archival catalogue. Likewise, a government archive is not automatically more complete simply because it is official. Archives may exclude records that were never preserved, never released or never collected in the first place.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lfY2f7HaRXg" title="The UAP Enigma: Raw Uncensored Footage Of America&#x27;s UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lfY2f7HaRXg" target="_blank" rel="noopener noreferrer">The UAP Enigma: Raw Uncensored Footage Of America&#x27;s UFOs</a></p><p class="youtube-embed-meta">Channel: Real History &middot; Views: 11.2K &middot; Uploaded: June 2025 &middot; Length: 1 hour 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lfY2f7HaRXg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lfY2f7HaRXg">Open on YouTube</a></p></div></div></div>
 
@@ -357,15 +353,13 @@ Project Blue Book demonstrates this tension. Official summaries reported that mo
 
 This is why experienced researchers often treat archives as source repositories and dashboards as discovery tools. The dashboard helps find a case; the archive helps verify what can actually be documented about it.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ADMcelTgWYo" title="Here are the released videos from Pentagon&#x27;s first batch of UFO files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ADMcelTgWYo" target="_blank" rel="noopener noreferrer">Here are the released videos from Pentagon&#x27;s first batch of UFO files</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 446.4K &middot; Uploaded: May 2026 &middot; Length: 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ADMcelTgWYo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ADMcelTgWYo">Open on YouTube</a></p></div></div></div>
 
 ## Are archives better than UFO dashboards?
 
 Archives are usually better for provenance, document tracing and understanding how an institution handled a report. Public dashboards are usually better for discovering reports, identifying patterns and following ongoing public submissions.
 
-The strongest reliability assessments come from combining both. A dashboard can reveal that hundreds of witnesses reported similar objects in a region. An archive can reveal what investigators concluded, what evidence was collected and whether [original records]({{ 'source-trails/' | relative_url }}) still exist. Used together, they answer different questions about the same phenomenon. Used separately, each leaves important gaps. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</span></span></span>
-
+The strongest reliability assessments come from combining both. A dashboard can reveal that hundreds of witnesses reported similar objects in a region. An archive can reveal what investigators concluded, what evidence was collected and whether original records still exist. Used together, they answer different questions about the same phenomenon. Used separately, each leaves important gaps. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_archives_vs_dashboar_bc7b19-Illustration-3-dark.svg" | relative_url }}" alt="Archives vs Apps illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_archives_vs_dashboar_bc7b19-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_archives_vs_dashboar_bc7b19-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -766,208 +760,208 @@ The strongest reliability assessments come from combining both. A dashboard can 
 1. <a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download](https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download)  
+   Link: <a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesBulk Downloads for Records Related to Unidentified...Digitized and born-digital records related to Unidentified Anomalo...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — NARA has records related to unidentified flyi...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
 6. <a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/ndx/?id=event](https://nuforc.org/ndx/?id=event)  
+   Link: <a href="https://nuforc.org/ndx/?id=event" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=event</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by MonthNUFORC. Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search · Menu C...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
    Title: Browse reports, images, videos, maps and more  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witn...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports by Location NUFORC Reports by Location; USA  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationNUFORC Reports by Location; USA - Oregon, 3808; USA - Pennsylvania, 5387; USA - Puerto Rico, 192; USA - Rho...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nuforc.org  
    Title: report a ufo  
-   Link: [https://nuforc.org/report-a-ufo/](https://nuforc.org/report-a-ufo/)  
+   Link: <a href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/report-a-ufo/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>File a UFO Report | NUFORCThe Center&#x27;s hotline at 206-722-3000 is generally reserved for recent UFO reports. However, brief queries may b...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: github.com  
-   Link: [https://github.com/timothyrenner/nuforc_sightings_data](https://github.com/timothyrenner/nuforc_sightings_data)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GitHubtimothyrenner/nuforc_sightings_data: Data collection and...The Nationa UFO Research Center (NUFORC) maintains an online database o...</p></details>
+   Link: <a href="https://github.com/timothyrenner/nuforc_sightings_data" target="_blank" rel="noopener noreferrer nofollow">https://github.com/timothyrenner/nuforc_sightings_data</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>timothyrenner/nuforc_sightings_data: Data collection and...The Nationa UFO Research Center (NUFORC) maintains an online database o...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: kaggle.com  
    Title: UFO Data  
-   Link: [https://www.kaggle.com/datasets/sawradipsaha/ufo-data-national-ufo-reporting-center](https://www.kaggle.com/datasets/sawradipsaha/ufo-data-national-ufo-reporting-center)  
+   Link: <a href="https://www.kaggle.com/datasets/sawradipsaha/ufo-data-national-ufo-reporting-center" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/sawradipsaha/ufo-data-national-ufo-reporting-center</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Amarel · 3.5; UFO Report Time Series · Noah Hradek · 8.2; NUFORC UFO Data for English Speaking...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: kaggle.com  
-   Link: [https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings](https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings)  
+   Link: <a href="https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO SightingsThe National UFO Research Center (NUFORC) collects and serves over 100,000 reports of UFO sightings. This dataset contains t...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/photographs](https://www.archives.gov/research/topics/uaps/photographs)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The page is organized by record group, with links to...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: archives.gov  
    Title: presidential libraries  
-   Link: [https://www.archives.gov/research/topics/uaps/presidential-libraries](https://www.archives.gov/research/topics/uaps/presidential-libraries)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/presidential-libraries" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/presidential-libraries</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...30 Jan 2026 — This page provides a list of presidential records related to U...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: archives.gov  
    Title: moving images and sound  
-   Link: [https://www.archives.gov/research/topics/uaps/moving-images-and-sound](https://www.archives.gov/research/topics/uaps/moving-images-and-sound)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — This page provides a list of moving images and sound recording...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=all](https://nuforc.org/subndx/?id=all)  
+   Link: <a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
 
 17. <a id="endnote-17"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lON](https://nuforc.org/subndx/?id=lON)  
+   Link: <a href="https://nuforc.org/subndx/?id=lON" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lON</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for State ONNUFORC · Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search · M...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=highlights](https://nuforc.org/subndx/?id=highlights)  
+   Link: <a href="https://nuforc.org/subndx/?id=highlights" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=highlights</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Highlighted NUFORC ReportsNUFORC. Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search · Men...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: kaggle.com  
-   Link: [https://www.kaggle.com/datasets/thedevastator/uncovering-mysterious-unexplained-ufo-sightings](https://www.kaggle.com/datasets/thedevastator/uncovering-mysterious-unexplained-ufo-sightings)  
+   Link: <a href="https://www.kaggle.com/datasets/thedevastator/uncovering-mysterious-unexplained-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/thedevastator/uncovering-mysterious-unexplained-ufo-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings (Location &amp; Time)This vast dataset contains records of reported UFO sightings from North America, including detailed inform...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: af.mil  
    Title: The project, headquartered at Wright-Patterson Air Force  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookFrom 1947 to 1969, the Air Force investigated Unidentified Flying Obj...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOsThis is a brief guide to researching records of UFOs. The surviving records consist mainly of documents relating to official policy...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookProject Blue Book was the code name for the systematic study of unidentified flying objects (UFOs) by the United Stat...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: Wikipedia  
    Title: National UFO Reporting Center  
-   Link: [https://en.wikipedia.org/wiki/National_UFO_Reporting_Center](https://en.wikipedia.org/wiki/National_UFO_Reporting_Center)  
+   Link: <a href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_UFO_Reporting_Center</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting CenterMUFON, the most prominent UFO data collectors in the US, have worked with the National UFO Reporting Cent...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: [https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/](https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/)  
+   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives – UFO files (MoD)No information is available for this page...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: briefing guide 12 07 12  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf](https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>documentanalysis of 12,618 reports collected by the USAF Project Blue Book between 1947 and. 1969 (Blue Book followed Projects Sign and G...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — Project Blue Book, code name for the United States&#x27; longest-running Air Force pro...</p></details>
    Published: May 2026  
 
 28. <a id="endnote-28"></a>
    Source: docsteach.org  
-   Link: [https://docsteach.org/document/project-blue-book-status-report-number-eight/](https://docsteach.org/document/project-blue-book-status-report-number-eight/)  
+   Link: <a href="https://docsteach.org/document/project-blue-book-status-report-number-eight/" target="_blank" rel="noopener noreferrer nofollow">https://docsteach.org/document/project-blue-book-status-report-number-eight/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force&#x27;s investigations into UFOs. Periodically, Project Bluebook staff created...Read more...</p></details>
 
 ### Additional References
 
 29. <a id="endnote-29"></a>
    Source: archivesfoundation.org  
-   Link: [https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/](https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/)  
+   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>50 Years Ago: Government Stops Investigating UFOsTo mark the 50th anniversary of the end of Project Blue Book, the National Archives will...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: reddit.com  
    Title: i analyzed 80000 ufo sightings from the nuforc  
-   Link: [https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/](https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>databaseI analyzed the comments (free text fields) that captured the witness accounts in the NUFORC database of over 80000 sightings.Read...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: cristinaiglesias.com  
-   Link: [https://cristinaiglesias.com/blog/project-blue-book-archives-unlocking-the-pentagons-cold-war-uap-secrets/](https://cristinaiglesias.com/blog/project-blue-book-archives-unlocking-the-pentagons-cold-war-uap-secrets/)  
+   Link: <a href="https://cristinaiglesias.com/blog/project-blue-book-archives-unlocking-the-pentagons-cold-war-uap-secrets/" target="_blank" rel="noopener noreferrer nofollow">https://cristinaiglesias.com/blog/project-blue-book-archives-unlocking-the-pentagons-cold-war-uap-secrets/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>er the Pentagon&#x27;s most chilling Cold War UAP cases that remain unsolved...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: vault.fbi.gov  
    Title: Project Blue Book (UFO)  
-   Link: [https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20](https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20)  
+   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book (UFO)Project Blue Book Originally Project Blue Book was the Air Force name for a project that investigated UFO reports between...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: history.navy.mil  
    Title: u2s ufos and operation blue book  
-   Link: [https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html](https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html)  
+   Link: <a href="https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>U-2s, UFOs, and Operation Blue Book24 Jan 2024 — Based at Wright-Patterson, the operation collected all reports of UFO sightings. Air For...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40pavelzlatnk/when-disclosure-doesnt-mean-disclosure-ebad49d893b9](https://medium.com/%40pavelzlatnk/when-disclosure-doesnt-mean-disclosure-ebad49d893b9)  
+   Link: <a href="https://medium.com/%40pavelzlatnk/when-disclosure-doesnt-mean-disclosure-ebad49d893b9" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40pavelzlatnk/when-disclosure-doesnt-mean-disclosure-ebad49d893b9</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ructure around UAP records. The U.S....Read more...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsMost commonly reported shapes in UFO sightings gathered in the National UFO Reporting Center (NUFORC) On...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: cuny.manifoldapp.org  
-   Link: [https://cuny.manifoldapp.org/read/national-ufo-reporting-center/section/fcbc8a38-68e6-4d00-927c-a9f799775599/resource/3e3a208c-fcc6-4ff4-a8e5-b42d60a7dfa5](https://cuny.manifoldapp.org/read/national-ufo-reporting-center/section/fcbc8a38-68e6-4d00-927c-a9f799775599/resource/3e3a208c-fcc6-4ff4-a8e5-b42d60a7dfa5)  
+   Link: <a href="https://cuny.manifoldapp.org/read/national-ufo-reporting-center/section/fcbc8a38-68e6-4d00-927c-a9f799775599/resource/3e3a208c-fcc6-4ff4-a8e5-b42d60a7dfa5" target="_blank" rel="noopener noreferrer nofollow">https://cuny.manifoldapp.org/read/national-ufo-reporting-center/section/fcbc8a38-68e6-4d00-927c-a9f799775599/resource/3e3a208c-fcc6-4ff4-a8e5-b42d60a7dfa5</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center Home Page14 Apr 2025 — The National UFO Reporting Center (NUFORC) is a text-heavy web-based archive with a...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: youtube.com  
    Title: UFO FILES: 35 minutes of 'never-before-seen' footage released under Trump  
-   Link: [https://www.youtube.com/watch?v=93V7pOi-oIQ](https://www.youtube.com/watch?v=93V7pOi-oIQ)  
+   Link: <a href="https://www.youtube.com/watch?v=93V7pOi-oIQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=93V7pOi-oIQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Releases First Batch of 160+ Declassified Files on UFO Sightings...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: experiments.withgoogle.com  
-   Link: [https://experiments.withgoogle.com/ufo-sightings-around-the-world](https://experiments.withgoogle.com/ufo-sightings-around-the-world)  
+   Link: <a href="https://experiments.withgoogle.com/ufo-sightings-around-the-world" target="_blank" rel="noopener noreferrer nofollow">https://experiments.withgoogle.com/ufo-sightings-around-the-world</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>We built this webpage to host all of the visualizations we created so other people can...Read more...</p></details>

@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /reliability/
 nav_short_title: GEIPAN Model
 title: Why GEIPAN Separates Quality From Strangeness
-title_full: Why GEIPAN Separates Quality From Strangeness | Reliability
+title_full: Why GEIPAN Separates Quality From Strangeness
 display_title_short: GEIPAN Model
 display_title: GEIPAN Model
 heading_title: Why GEIPAN Separates Quality From Strangeness
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 01:44:44'
-parent_title: Which UFO Databases Are Worth Trusting? | UFO Archives
+parent_title: Which UFO Databases Are Worth Trusting?
 parent_permalink: /reliability/
 parent_nav_short_title: Reliability
 parent_heading_title: Which UFO Databases Are Worth Trusting?
@@ -274,24 +274,22 @@ image: /assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_ge
 
 ## Introduction
 
-When comparing the **[reliability]({{ 'reliability/' | relative_url }}) of UFO/UAP databases**, one of the key challenges is distinguishing between *how good the data is* and *how strange or unexplained a case remains after investigation*. France’s official investigative body, the **GEIPAN** (Groupe d’Études et d’Informations sur les Phénomènes Aérospatiaux Non‑identifiés), offers a **well‑documented classification model** that illustrates this distinction in practice. Because its methodology is public and reproducible, GEIPAN’s approach is frequently cited as an example of how to separate **observation quality (data reliability)** from **residual unexplained content (strangeness)** in UFO reporting systems — a valuable lens for judging and comparing [database reliability]({{ 'reliability/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">Classification | GEIPAN</span><span class="citation-popover-snippet">Classification | GEIPAN</span></span></span>
-
+When comparing the **[reliability]({{ 'reliability/' | relative_url }}) of UFO/UAP databases**, one of the key challenges is distinguishing between *how good the data is* and *how strange or unexplained a case remains after investigation*. France’s official investigative body, the **GEIPAN** (Groupe d’Études et d’Informations sur les Phénomènes Aérospatiaux Non‑identifiés), offers a **well‑documented classification model** that illustrates this distinction in practice. Because its methodology is public and reproducible, GEIPAN’s approach is frequently cited as an example of how to separate **observation quality (data reliability)** from **residual unexplained content (strangeness)** in UFO reporting systems — a valuable lens for judging and comparing database reliability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">Classification &#124; GEIPAN</span><span class="citation-popover-snippet">Classification &#124; GEIPAN</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_geipan_reliability_m_6cb14f-Illustration-1-dark.svg" | relative_url }}" alt="GEIPAN Model illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_geipan_reliability_m_6cb14f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_geipan_reliability_m_6cb14f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How GEIPAN Categories Work
 
-At the heart of GEIPAN’s reliability model are **two independent criteria** used to classify every case: **residual strangeness (E)** and **data consistency (C)**. After a report is collected and analysed, these metrics determine its final category. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">Mission &amp; Geipan | GEIPAN</span><span class="citation-popover-snippet">Mission &amp; Geipan | GEIPAN</span></span></span>
+At the heart of GEIPAN’s reliability model are **two independent criteria** used to classify every case: **residual strangeness (E)** and **data consistency (C)**. After a report is collected and analysed, these metrics determine its final category. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">Mission &amp; Geipan &#124; GEIPAN</span><span class="citation-popover-snippet">Mission &amp; Geipan &#124; GEIPAN</span></span></span>
 
 **Residual Strangeness (E)**
 
-This is a quantitative measure of how much of the reported phenomenon cannot be explained by known physical or perceptual hypotheses. Investigators generate and assess possible explanations grounded in current scientific knowledge — such as astronomical objects, atmospheric phenomena or known human‑made artefacts — and then evaluate how much of the witness’s description remains *strange* after this comparison. A higher E score indicates more unexplained content. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/en/node/58792" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">Mission &amp; Geipan | GEIPAN</span><span class="citation-popover-snippet">Mission &amp; Geipan | GEIPAN</span></span></span>
+This is a quantitative measure of how much of the reported phenomenon cannot be explained by known physical or perceptual hypotheses. Investigators generate and assess possible explanations grounded in current scientific knowledge — such as astronomical objects, atmospheric phenomena or known human‑made artefacts — and then evaluate how much of the witness’s description remains *strange* after this comparison. A higher E score indicates more unexplained content. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/en/node/58792" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">Mission &amp; Geipan &#124; GEIPAN</span><span class="citation-popover-snippet">Mission &amp; Geipan &#124; GEIPAN</span></span></span>
 
 **Data Consistency (C)**
 
-This metric reflects the **quality and reliability of the information collected** — the number of independent witnesses, the precision of their responses, the presence of supporting evidence such as photographs or radar, and the overall coherence of the account. GEIPAN uses a specific weighting scheme to quantify this. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/fr/node/58703" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">L E GEIPAN: « LE BUREAU DES OVNIS » OU DES PAN?</span><span class="citation-popover-snippet">| GEIPANJune 28, 2021 — Date de publication 28 juin 2021 LE GEIPAN: « LE BUREAU DES OVNIS » OU DES PAN? Date de publication 28 juin 202...</span><span class="citation-popover-meta">Published: June 28, 2021</span></span></span>
+This metric reflects the **quality and reliability of the information collected** — the number of independent witnesses, the precision of their responses, the presence of supporting evidence such as photographs or radar, and the overall coherence of the account. GEIPAN uses a specific weighting scheme to quantify this. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/fr/node/58703" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">L E GEIPAN: « LE BUREAU DES OVNIS » OU DES PAN?</span><span class="citation-popover-snippet">GEIPANJune 28, 2021 — Date de publication 28 juin 2021 LE GEIPAN: « LE BUREAU DES OVNIS » OU DES PAN? Date de publication 28 juin 202...</span><span class="citation-popover-meta">Published: June 28, 2021</span></span></span>
 
-These two dimensions are deliberately **evaluated separately**: a sighting can be highly strange but poorly supported by reliable data, or strongly consistent yet easily explained. The categories that GEIPAN assigns emerge from the interplay between these axes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/en/node/58788" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">Methodology | GEIPANFAQ GEIPAN 1</span><span class="citation-popover-snippet">What is GEIPAN? * GEIPAN (Group for the Study and Information of Unidentified Aerial/Aerospace Phenomena) is a technical department of th...</span></span></span>
-
+These two dimensions are deliberately **evaluated separately**: a sighting can be highly strange but poorly supported by reliable data, or strongly consistent yet easily explained. The categories that GEIPAN assigns emerge from the interplay between these axes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/en/node/58788" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">Methodology &#124; GEIPANFAQ GEIPAN 1</span><span class="citation-popover-snippet">What is GEIPAN? * GEIPAN (Group for the Study and Information of Unidentified Aerial/Aerospace Phenomena) is a technical department of th...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0hS4OYk_rOU" title="70 Years of UFO-UAP Data: A Scientific Review with Robert Powell (SCU Founder)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0hS4OYk_rOU" target="_blank" rel="noopener noreferrer">70 Years of UFO-UAP Data: A Scientific Review with Robert Powell (SCU Founder)</a></p><p class="youtube-embed-meta">Channel: QOOSP Lab: multidisciplinary research &amp; dialogue &middot; Views: 649 &middot; Uploaded: October 2025 &middot; Length: 1 hour 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0hS4OYk_rOU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0hS4OYk_rOU">Open on YouTube</a></p></div></div></div>
 
@@ -305,16 +303,14 @@ One of the strengths of GEIPAN’s model from a reliability standpoint is its co
 
 In practice, GEIPAN’s categories work like this:
 
-* **Category A**: Explained with high confidence — both low strangeness and adequate consistency. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">Classification | GEIPAN</span><span class="citation-popover-snippet">Classification | GEIPAN</span></span></span>
-* **Category B**: Probably explained — plausible hypotheses but some uncertainties remain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">Mission &amp; Geipan | GEIPAN</span><span class="citation-popover-snippet">Mission &amp; Geipan | GEIPAN</span></span></span>
-* **Category C**: Unresolved due to insufficient or unreliable data, regardless of strangeness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/en/node/58792" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">Mission &amp; Geipan | GEIPAN</span><span class="citation-popover-snippet">Mission &amp; Geipan | GEIPAN</span></span></span>
-* **Category D**: Unexplained after full investigation — where strangeness is significant *and* data consistency is strong. Subdivisions (D1 and D2) can reflect middling versus strong consistency among unexplained cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/fr/node/58703" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">L E GEIPAN: « LE BUREAU DES OVNIS » OU DES PAN?</span><span class="citation-popover-snippet">| GEIPANJune 28, 2021 — Date de publication 28 juin 2021 LE GEIPAN: « LE BUREAU DES OVNIS » OU DES PAN? Date de publication 28 juin 202...</span><span class="citation-popover-meta">Published: June 28, 2021</span></span></span>
+* **Category A**: Explained with high confidence — both low strangeness and adequate consistency. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">Classification &#124; GEIPAN</span><span class="citation-popover-snippet">Classification &#124; GEIPAN</span></span></span>
+* **Category B**: Probably explained — plausible hypotheses but some uncertainties remain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">Mission &amp; Geipan &#124; GEIPAN</span><span class="citation-popover-snippet">Mission &amp; Geipan &#124; GEIPAN</span></span></span>
+* **Category C**: Unresolved due to insufficient or unreliable data, regardless of strangeness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/en/node/58792" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">Mission &amp; Geipan &#124; GEIPAN</span><span class="citation-popover-snippet">Mission &amp; Geipan &#124; GEIPAN</span></span></span>
+* **Category D**: Unexplained after full investigation — where strangeness is significant *and* data consistency is strong. Subdivisions (D1 and D2) can reflect middling versus strong consistency among unexplained cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/fr/node/58703" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">L E GEIPAN: « LE BUREAU DES OVNIS » OU DES PAN?</span><span class="citation-popover-snippet">GEIPANJune 28, 2021 — Date de publication 28 juin 2021 LE GEIPAN: « LE BUREAU DES OVNIS » OU DES PAN? Date de publication 28 juin 202...</span><span class="citation-popover-meta">Published: June 28, 2021</span></span></span>
 
 This dual‑axis logic turns classification into a **reliability model**, where the evidential weight is explicit rather than implicit.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lXi5B0NTwVc" title="France&#x27;s Official UFO Investigation Agency (GEIPAN)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lXi5B0NTwVc" target="_blank" rel="noopener noreferrer">France&#x27;s Official UFO Investigation Agency (GEIPAN)</a></p><p class="youtube-embed-meta">Channel: Kryptoscipher &middot; Views: 108 &middot; Uploaded: February 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lXi5B0NTwVc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lXi5B0NTwVc">Open on YouTube</a></p></div></div></div>
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_geipan_reliability_m_6cb14f-Illustration-3-dark.svg" | relative_url }}" alt="GEIPAN Model illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_geipan_reliability_m_6cb14f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_geipan_reliability_m_6cb14f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -322,7 +318,6 @@ This dual‑axis logic turns classification into a **reliability model**, where 
 ## What Other Databases Can Borrow from the Model
 
 GEIPAN’s approach offers several lessons for other UFO/UAP databases that aim to be reliable reference sources rather than simple crowd‑sourced collections:
-
 
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
@@ -333,11 +328,9 @@ GEIPAN’s approach offers several lessons for other UFO/UAP databases that aim 
 
 </div>
 
-In the broader landscape of UFO report catalogues, GEIPAN’s method stands out because it **makes the reliability model itself visible** rather than leaving users to infer it from opaque labels or aggregated totals. This transparency helps researchers, journalists and the public differentiate between *high‑confidence explanations*, *data limitations*, and *genuinely unresolved phenomena*, which in turn supports more grounded comparisons across international databases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/en/node/58788" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">Methodology | GEIPANFAQ GEIPAN 1</span><span class="citation-popover-snippet">What is GEIPAN? * GEIPAN (Group for the Study and Information of Unidentified Aerial/Aerospace Phenomena) is a technical department of th...</span></span></span>
-
+In the broader landscape of UFO report catalogues, GEIPAN’s method stands out because it **makes the reliability model itself visible** rather than leaving users to infer it from opaque labels or aggregated totals. This transparency helps researchers, journalists and the public differentiate between *high‑confidence explanations*, *data limitations*, and *genuinely unresolved phenomena*, which in turn supports more grounded comparisons across international databases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/en/node/58788" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">Methodology &#124; GEIPANFAQ GEIPAN 1</span><span class="citation-popover-snippet">What is GEIPAN? * GEIPAN (Group for the Study and Information of Unidentified Aerial/Aerospace Phenomena) is a technical department of th...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jdN-BBirSA8" title="CNES&#x27;s UFO Archive!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jdN-BBirSA8" target="_blank" rel="noopener noreferrer">CNES&#x27;s UFO Archive!</a></p><p class="youtube-embed-meta">Channel: Science Of Space &middot; Views: 164 &middot; Uploaded: July 2021 &middot; Length: 2 minutes 24 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jdN-BBirSA8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jdN-BBirSA8">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -736,60 +729,60 @@ In the broader landscape of UFO report catalogues, GEIPAN’s method stands out 
 1. <a id="endnote-1"></a>
    Source: geipan.fr  
    Title: Classification | GEIPAN  
-   Link: [https://www.geipan.fr/en/node/58787](https://www.geipan.fr/en/node/58787)  
+   Link: <a href="https://www.geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/en/node/58787</a>  
 
 2. <a id="endnote-2"></a>
    Source: geipan.fr  
    Title: Mission & Geipan | GEIPAN  
-   Link: [https://geipan.fr/missions-methodes-et-resultats](https://geipan.fr/missions-methodes-et-resultats)  
+   Link: <a href="https://geipan.fr/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://geipan.fr/missions-methodes-et-resultats</a>  
 
 3. <a id="endnote-3"></a>
    Source: geipan.fr  
    Title: Mission & Geipan | GEIPAN  
-   Link: [https://www.geipan.fr/en/node/58792](https://www.geipan.fr/en/node/58792)  
+   Link: <a href="https://www.geipan.fr/en/node/58792" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/en/node/58792</a>  
 
 4. <a id="endnote-4"></a>
    Source: geipan.fr  
    Title: L E GEIPAN: « LE BUREAU DES OVNIS » OU DES PAN?  
-   Link: [https://geipan.fr/fr/node/58703](https://geipan.fr/fr/node/58703)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| GEIPANJune 28, 2021 — Date de publication 28 juin 2021 LE GEIPAN: « LE BUREAU DES OVNIS » OU DES PAN? Date de publication 28 juin 202...</p></details>
+   Link: <a href="https://geipan.fr/fr/node/58703" target="_blank" rel="noopener noreferrer nofollow">https://geipan.fr/fr/node/58703</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPANJune 28, 2021 — Date de publication 28 juin 2021 LE GEIPAN: « LE BUREAU DES OVNIS » OU DES PAN? Date de publication 28 juin 202...</p></details>
    Published: June 28, 2021  
 
 5. <a id="endnote-5"></a>
    Source: geipan.fr  
    Title: Methodology | GEIPANFAQ GEIPAN 1  
-   Link: [https://www.geipan.fr/en/node/58788](https://www.geipan.fr/en/node/58788)  
+   Link: <a href="https://www.geipan.fr/en/node/58788" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/en/node/58788</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is GEIPAN? * GEIPAN (Group for the Study and Information of Unidentified Aerial/Aerospace Phenomena) is a technical department of th...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: geipan.fr  
-   Link: [https://geipan.fr/fr/node/58787](https://geipan.fr/fr/node/58787)  
+   Link: <a href="https://geipan.fr/fr/node/58787" target="_blank" rel="noopener noreferrer nofollow">https://geipan.fr/fr/node/58787</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNE MÉTHODOLOGIE DE CLASSIFICATION CONSOLIDÉE SUR DES DÉCENNIES La classification du GEIPAN (A/B/C/D*) a été...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: geipan.fr  
-   Link: [https://www.geipan.fr/en/node/440](https://www.geipan.fr/en/node/440)  
+   Link: <a href="https://www.geipan.fr/en/node/440" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/en/node/440</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1977 within the CNES: * Provides a public and official feedback to all people’s “liv...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: geipan.fr  
-   Link: [https://www.geipan.fr/index.php/fr/node/58792](https://www.geipan.fr/index.php/fr/node/58792)  
+   Link: <a href="https://www.geipan.fr/index.php/fr/node/58792" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/index.php/fr/node/58792</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>dentifiés) consiste à fournir un service opérationnel basé sur des enquêtes liées aux...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: cnes-geipan.fr  
    Title: Geipan How does GEIPAN classify observation cases? | GEIPAN  
-   Link: [https://www.cnes-geipan.fr/en/node/412](https://www.cnes-geipan.fr/en/node/412)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| GEIPANThe classification process is done according a quantitative and qualitative assessment of two parameters: the consistency (C) of...</p></details>
+   Link: <a href="https://www.cnes-geipan.fr/en/node/412" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/412</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPANThe classification process is done according a quantitative and qualitative assessment of two parameters: the consistency (C) of...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/en/node/58787](https://www.cnes-geipan.fr/en/node/58787)  
+   Link: <a href="https://www.cnes-geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58787</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[Select] [Input] [Input] [Input] Sommaire 1. A classification methodology consolidated over decades 2. St...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: cnes-geipan.fr  
-   Link: [https://cnes-geipan.fr/en/node/58788](https://cnes-geipan.fr/en/node/58788)  
+   Link: <a href="https://cnes-geipan.fr/en/node/58788" target="_blank" rel="noopener noreferrer nofollow">https://cnes-geipan.fr/en/node/58788</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The most difficult phenomenon to explain...</p></details>
 
 ### Additional References
@@ -797,47 +790,47 @@ In the broader landscape of UFO report catalogues, GEIPAN’s method stands out 
 14. <a id="endnote-14"></a>
    Source: cnes-geipan.fr  
    Title: Mission & Geipan | GEIPANSommaire 1  
-   Link: [https://www.cnes-geipan.fr/fr/missions-methodes-et-resultats](https://www.cnes-geipan.fr/fr/missions-methodes-et-resultats)  
+   Link: <a href="https://www.cnes-geipan.fr/fr/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/missions-methodes-et-resultats</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>40 ans de GEIPAN, c&#x27;est d&#x27;abord 40 ans d&#x27;émotions dans le ciel 2. L’étrangeté moderne dans le ciel s’appelle Soucoupe ou OVNI depuis 1947...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: cnes-geipan.fr  
    Title: It is based on 2 main crite  
-   Link: [https://www.cnes-geipan.fr/en/missions-methodes-et-resultats](https://www.cnes-geipan.fr/en/missions-methodes-et-resultats)  
+   Link: <a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mission &amp; Geipan | GEIPANA CLASSIFICATION METHODOLOGY CONSOLIDATED OVER DECADES Image: Consistance Cas Geipan Since 2008, a more detailed...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: 70 Years of UFO-UAP Data: A Scientific Review with Robert Powell (SCU Founder)  
-   Link: [http://www.youtube.com/watch?v=0hS4OYk_rOU](http://www.youtube.com/watch?v=0hS4OYk_rOU)  
+   Link: <a href="http://www.youtube.com/watch?v=0hS4OYk_rOU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=0hS4OYk_rOU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I Analyzed 173,747 UFO Reports… Here’s What I Found...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: CNES's UFO Archive!  
-   Link: [http://www.youtube.com/watch?v=jdN-BBirSA8](http://www.youtube.com/watch?v=jdN-BBirSA8)  
+   Link: <a href="http://www.youtube.com/watch?v=jdN-BBirSA8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=jdN-BBirSA8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPAN UAP UFO investigation classification GEIPAN: Everything You Need to Know About UFOs and Aerial Phenomena Science And Life...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: France's Official UFO Investigation Agency (GEIPAN)  
-   Link: [http://www.youtube.com/watch?v=lXi5B0NTwVc](http://www.youtube.com/watch?v=lXi5B0NTwVc)  
+   Link: <a href="http://www.youtube.com/watch?v=lXi5B0NTwVc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=lXi5B0NTwVc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>70 Years of UFO-UAP Data: A Scientific Review with Robert Powell (SCU Founder)...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: GEIPAN: Everything You Need to Know About UFOs and Aerial Phenomena  
-   Link: [http://www.youtube.com/watch?v=K-dgmfIOYBE](http://www.youtube.com/watch?v=K-dgmfIOYBE)  
+   Link: <a href="http://www.youtube.com/watch?v=K-dgmfIOYBE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=K-dgmfIOYBE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>France&#x27;s Official UFO Investigation Agency (GEIPAN)...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/fr/node/25](https://www.cnes-geipan.fr/fr/node/25)  
+   Link: <a href="https://www.cnes-geipan.fr/fr/node/25" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/node/25</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>La méthodologie de classification au GEIPAN | GEIPANFebruary 26, 2021 — Date de publication 26 Février 2021 LA MÉTHODOLOGIE DE CLASSIFICA...</p></details>
    Published: February 26, 2021  
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: I Analyzed 173,747 UFO Reports… Here’s What I Found  
-   Link: [http://www.youtube.com/watch?v=dnQU6Rj1fD8](http://www.youtube.com/watch?v=dnQU6Rj1fD8)  
+   Link: <a href="http://www.youtube.com/watch?v=dnQU6Rj1fD8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=dnQU6Rj1fD8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CNES&#x27;s UFO Archive...</p></details>

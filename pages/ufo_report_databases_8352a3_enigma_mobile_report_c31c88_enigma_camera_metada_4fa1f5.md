@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /enigma/
 nav_short_title: Camera Metadata
 title: How Enigma Captures Location and Angle Metadata
-title_full: How Enigma Captures Location and Angle Metadata | Enigma
+title_full: How Enigma Captures Location and Angle Metadata
 display_title_short: Camera Metadata
 display_title: Camera Metadata
 heading_title: How Enigma Captures Location and Angle Metadata
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 19:20:11'
-parent_title: Can a UFO App Fix Old Data Problems? | UFO Archives
+parent_title: Can a UFO App Fix Old Data Problems?
 parent_permalink: /enigma/
 parent_nav_short_title: Enigma
 parent_heading_title: Can a UFO App Fix Old Data Problems?
@@ -274,20 +274,18 @@ image: /assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_en
 
 ## Introduction
 
-[Enigma]({{ 'enigma/' | relative_url }}) Labs’ mobile reporting system is built around a simple idea: a UFO video becomes more useful when the phone records not only the image, but also the circumstances of the recording. Rather than treating a sighting as a standalone clip, the Enigma app attempts to capture location, orientation and timing data alongside the footage itself. The company presents this as a way to reduce one of the oldest problems in UFO databases: videos that cannot be meaningfully analysed because investigators do not know exactly where the witness was, which direction they were facing, or how the camera moved during filming. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
-
+[Enigma]({{ 'enigma/' | relative_url }}) Labs’ mobile reporting system is built around a simple idea: a UFO video becomes more useful when the phone records not only the image, but also the circumstances of the recording. Rather than treating a sighting as a standalone clip, the Enigma app attempts to capture location, orientation and timing data alongside the footage itself. The company presents this as a way to reduce one of the oldest problems in UFO databases: videos that cannot be meaningfully analysed because investigators do not know exactly where the witness was, which direction they were facing, or how the camera moved during filming. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_camera_metada_4fa1f5-Illustration-1-dark.svg" | relative_url }}" alt="Camera Metadata illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_camera_metada_4fa1f5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_camera_metada_4fa1f5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within Enigma’s broader UFO reporting platform, camera metadata is not a side feature. It is a core mechanism intended to make reports easier to compare, verify and contextualise. The system combines frame-level recording data with an augmented-reality identification tool designed to rule out ordinary objects before a report is even submitted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/the-new-enigma-camera-optimizing-metadata-for-uap-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[2Enigma Labs | Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">the new enigma camera optimizing metadata for uap sightings</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingThe New Enigma Camera — Optimizing Metadata for UAP...25 Aug 2023 — The new Enigma Native Camera lets...</span></span></span>
+Within Enigma’s broader UFO reporting platform, camera metadata is not a side feature. It is a core mechanism intended to make reports easier to compare, verify and contextualise. The system combines frame-level recording data with an augmented-reality identification tool designed to rule out ordinary objects before a report is even submitted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/the-new-enigma-camera-optimizing-metadata-for-uap-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[2Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">the new enigma camera optimizing metadata for uap sightings</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingThe New Enigma Camera — Optimizing Metadata for UAP...25 Aug 2023 — The new Enigma Native Camera lets...</span></span></span>
 
 ## How Enigma Captures Location and Angle Metadata
 
-Most smartphone photos and videos already contain metadata such as the time, date and GPS coordinates of the recording. Enigma argues that this standard approach is insufficient for analysing unusual aerial sightings because conventional metadata is usually attached at the beginning of a recording session rather than continuously throughout the clip. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
+Most smartphone photos and videos already contain metadata such as the time, date and GPS coordinates of the recording. Enigma argues that this standard approach is insufficient for analysing unusual aerial sightings because conventional metadata is usually attached at the beginning of a recording session rather than continuously throughout the clip. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
 
-According to Enigma, this creates a practical problem when a witness is moving. A person may walk, drive or rotate while recording an object in the sky. If the device only records its position at the start of filming, later frames may no longer reflect the actual viewing geometry. That can distort attempts to estimate an object's path, speed or apparent movement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
+According to Enigma, this creates a practical problem when a witness is moving. A person may walk, drive or rotate while recording an object in the sky. If the device only records its position at the start of filming, later frames may no longer reflect the actual viewing geometry. That can distort attempts to estimate an object's path, speed or apparent movement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
 
 To address that issue, Enigma developed an in-app camera that records metadata throughout the video. The company states that each frame can be associated with information including:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -298,20 +296,19 @@ To address that issue, Enigma developed an in-app camera that records metadata t
 
 </div>
 
-The goal is to preserve a changing record of how the witness and device moved during the observation rather than treating the entire video as a single fixed observation point. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
+The goal is to preserve a changing record of how the witness and device moved during the observation rather than treating the entire video as a single fixed observation point. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
 
 ### Frame-by-Frame Metadata Collection
 
-Enigma repeatedly describes its camera as capturing metadata “frame-by-frame”. In practical terms, this means that every stage of a recording can be tied to a specific set of sensor readings rather than relying on a single timestamp and location entry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
+Enigma repeatedly describes its camera as capturing metadata “frame-by-frame”. In practical terms, this means that every stage of a recording can be tied to a specific set of sensor readings rather than relying on a single timestamp and location entry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
 
 The company claims that this allows analysts to reconstruct aspects of a sighting more accurately. For example:
 
 * A witness walking down a street can generate a changing location trail rather than a single GPS point.
 * A witness turning their phone can generate a changing orientation record rather than one assumed viewing direction.
-* Multiple recordings from different users can potentially be compared against one another using synchronised timing and positional information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
+* Multiple recordings from different users can potentially be compared against one another using synchronised timing and positional information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
 
-Enigma has specifically argued that this approach helps reduce errors when estimating the path or apparent speed of a reported object. If the witness is moving while filming, distinguishing camera motion from object motion becomes a critical challenge. Continuous metadata is intended to make that distinction easier. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
-
+Enigma has specifically argued that this approach helps reduce errors when estimating the path or apparent speed of a reported object. If the witness is moving while filming, distinguishing camera motion from object motion becomes a critical challenge. Continuous metadata is intended to make that distinction easier. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FqXg8EbbXZU" title="Something in the Sky? Something in the Water hosts app launch for UFO sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FqXg8EbbXZU" target="_blank" rel="noopener noreferrer">Something in the Sky? Something in the Water hosts app launch for UFO sightings</a></p><p class="youtube-embed-meta">Channel: 13News Now &middot; Views: 373 &middot; Uploaded: April 2023 &middot; Length: 2 minutes 45 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FqXg8EbbXZU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FqXg8EbbXZU">Open on YouTube</a></p></div></div></div>
 
@@ -319,10 +316,9 @@ Enigma has specifically argued that this approach helps reduce errors when estim
 
 The angle of a recording is often more important than casual observers realise. A bright object filmed near the horizon can appear dramatically different from the same object viewed overhead. Likewise, aircraft lights, satellites and planets can seem to change behaviour depending on the observer's position and movement.
 
-By recording device orientation, Enigma attempts to preserve information about where the camera was pointed at any given moment. The company has described this orientation data as part of the evidence package attached to a sighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/enigmalabsuap_the-new-enigma-camera-optimizing-metadata-activity-7100940949890994177-XpVd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-title">Linked In Enigma Labs&#x27; Post</span><span class="citation-popover-snippet">LinkedInEnigma Labs&#x27; Post - Optimizing Metadata for UAP SightingsThe New Enigma Camera - Optimizing Metadata for UAP Sightings The Native...</span></span></span>
+By recording device orientation, Enigma attempts to preserve information about where the camera was pointed at any given moment. The company has described this orientation data as part of the evidence package attached to a sighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/enigmalabsuap_the-new-enigma-camera-optimizing-metadata-activity-7100940949890994177-XpVd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-title">Linked In Enigma Labs&#x27; Post</span><span class="citation-popover-snippet">Enigma Labs&#x27; Post - Optimizing Metadata for UAP SightingsThe New Enigma Camera - Optimizing Metadata for UAP Sightings The Native...</span></span></span>
 
 This matters because later reviewers may want to compare a report against:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -334,43 +330,39 @@ This matters because later reviewers may want to compare a report against:
 
 </div>
 
-Without orientation information, a video often becomes little more than a bright point against a dark sky. With orientation and location data, analysts can at least attempt geometric reconstruction and comparison. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
+Without orientation information, a video often becomes little more than a bright point against a dark sky. With orientation and location data, analysts can at least attempt geometric reconstruction and comparison. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
 
 The New Yorker described the system as recording uncompressed video with embedded metadata including filming location and angle, specifically for later verification and description of reported phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/2024/01/29/the-truth-is-out-there-on-an-app" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">the truth is out there on an app</span><span class="citation-popover-snippet">The New YorkerThe Truth Is Out There, on an App22 Jan 2024 — An augmented-reality lens lets users point a phone upward, and then displays...</span></span></span>
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_camera_metada_4fa1f5-Illustration-2-dark.svg" | relative_url }}" alt="Camera Metadata illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_camera_metada_4fa1f5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_camera_metada_4fa1f5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Identify Lens and Real-Time Deconfliction
 
-Enigma's metadata strategy is closely connected to its augmented-reality “Identify Lens”. The company describes the feature as a real-time tool for identifying known objects before they are mistakenly reported as UFOs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
+Enigma's metadata strategy is closely connected to its augmented-reality “Identify Lens”. The company describes the feature as a real-time tool for identifying known objects before they are mistakenly reported as UFOs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
 
 ### How the AR Lens Works
 
 The Identify Lens overlays information onto the phone's camera view. According to Enigma, the system combines:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * Smartphone sensor data
 * Position and orientation information from the device
 * External tracking data for known objects
-* Augmented-reality rendering software <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/announcing-the-enigma-ar-lens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[enigmalabs.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">announcing the enigma ar lens</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingShazam for the Skies26 Jul 2023 — Announcing the Enigma Augmented Reality Lens, helping identify objec...</span></span></span>
+* Augmented-reality rendering software <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/announcing-the-enigma-ar-lens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[enigmalabs.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">announcing the enigma ar lens</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingShazam for the Skies26 Jul 2023 — Announcing the Enigma Augmented Reality Lens, helping identify objec...</span></span></span>
 
 </div>
 
-The app then attempts to place labels or graphical markers over objects that already have known identities. Early versions focused heavily on satellites, with later plans including aircraft, planets, stars, helicopters, drones and rocket launches. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
+The app then attempts to place labels or graphical markers over objects that already have known identities. Early versions focused heavily on satellites, with later plans including aircraft, planets, stars, helicopters, drones and rocket launches. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
 
-A commonly cited example is the appearance of Starlink satellite trains. What might initially look unusual to a witness can often be recognised immediately through the AR overlay if the software matches the observed position with known satellite telemetry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
-
+A commonly cited example is the appearance of Starlink satellite trains. What might initially look unusual to a witness can often be recognised immediately through the AR overlay if the software matches the observed position with known satellite telemetry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/onSVgu0bhO0" title="New app tracks UFO sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=onSVgu0bhO0" target="_blank" rel="noopener noreferrer">New app tracks UFO sightings</a></p><p class="youtube-embed-meta">Channel: 13News Now &middot; Views: 27.7K &middot; Uploaded: May 2023 &middot; Length: 1 minute 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=onSVgu0bhO0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=onSVgu0bhO0">Open on YouTube</a></p></div></div></div>
 
 ### Why Enigma Calls It a Noise-Reduction Tool
 
-One of Enigma's recurring arguments is that most submitted sightings eventually prove identifiable. Because of that, the company frames the AR lens as a filtering mechanism rather than a discovery mechanism. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
+One of Enigma's recurring arguments is that most submitted sightings eventually prove identifiable. Because of that, the company frames the AR lens as a filtering mechanism rather than a discovery mechanism. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
 
 The intended workflow is:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -381,8 +373,7 @@ The intended workflow is:
 
 </div>
 
-Enigma has explicitly described the feature as a way to reduce “noise” in its reporting database and improve the quality of incoming cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
-
+Enigma has explicitly described the feature as a way to reduce “noise” in its reporting database and improve the quality of incoming cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fVuO_yu1eWk" title="Enigma UFO Tracker: Recent UAP Sightings &amp; Congressional Hearings Explained | Talking Strange" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fVuO_yu1eWk" target="_blank" rel="noopener noreferrer">Enigma UFO Tracker: Recent UAP Sightings &amp; Congressional Hearings Explained | Talking Strange</a></p><p class="youtube-embed-meta">Channel: Talking Strange &middot; Views: 141 &middot; Uploaded: December 2024 &middot; Length: 55 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fVuO_yu1eWk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fVuO_yu1eWk">Open on YouTube</a></p></div></div></div>
 
@@ -390,10 +381,9 @@ Enigma has explicitly described the feature as a way to reduce “noise” in it
 
 The practical value of metadata emerges after the recording has been uploaded.
 
-Enigma maintains a large database of historical and contemporary reports, and the company has stated that detailed metadata helps investigators compare separate submissions that may describe the same event. If multiple users record an object from different locations at approximately the same time, timestamped positional information can help determine whether they were observing a common target. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
+Enigma maintains a large database of historical and contemporary reports, and the company has stated that detailed metadata helps investigators compare separate submissions that may describe the same event. If multiple users record an object from different locations at approximately the same time, timestamped positional information can help determine whether they were observing a common target. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
 
 Metadata also supports several forms of verification that are difficult with ordinary social-media videos:
-
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -401,23 +391,22 @@ Metadata also supports several forms of verification that are difficult with ord
 * Comparing independent witness recordings
 * Reconstructing viewing geometry
 * Estimating whether apparent motion came from the object or the camera
-* Organising sightings by precise time and location rather than narrative description alone <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
+* Organising sightings by precise time and location rather than narrative description alone <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
 
 </div>
 
-This reflects a broader shift in UFO databases from anecdotal [archives]({{ 'archives/' | relative_url }}) towards structured observational records. The footage itself remains important, but Enigma's design treats the surrounding sensor data as part of the evidence rather than as background information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/spotted-a-ufo-theres-an-app-for-that/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Spotted a UFO? There&#x27;s an App for That</span><span class="citation-popover-snippet">WIREDSpotted a UFO? There&#x27;s an App for ThatJanuary 31, 2023 — 31 Jan 2023 — Enigma Labs launches a project to crowdsource and quantify da...</span><span class="citation-popover-meta">Published: January 31, 2023</span></span></span>
-
+This reflects a broader shift in UFO databases from anecdotal [archives]({{ 'archives/' | relative_url }}) towards structured observational records. The footage itself remains important, but Enigma's design treats the surrounding sensor data as part of the evidence rather than as background information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/spotted-a-ufo-theres-an-app-for-that/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Spotted a UFO? There&#x27;s an App for That</span><span class="citation-popover-snippet">Spotted a UFO? There&#x27;s an App for ThatJanuary 31, 2023 — 31 Jan 2023 — Enigma Labs launches a project to crowdsource and quantify da...</span><span class="citation-popover-meta">Published: January 31, 2023</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_camera_metada_4fa1f5-Illustration-3-dark.svg" | relative_url }}" alt="Camera Metadata illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_camera_metada_4fa1f5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_camera_metada_4fa1f5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Metadata Can and Cannot Prove
 
 The presence of detailed metadata does not automatically validate a UFO claim. A video can contain accurate location and orientation information while still depicting a conventional aircraft, a satellite, a drone or a visual misinterpretation.
 
-Enigma itself presents the metadata system primarily as a tool for improving data quality rather than proving extraordinary conclusions. Better timestamps, geolocation records and orientation tracking make reports easier to analyse, but they do not eliminate the need for independent investigation and comparison with external datasets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
+Enigma itself presents the metadata system primarily as a tool for improving data quality rather than proving extraordinary conclusions. Better timestamps, geolocation records and orientation tracking make reports easier to analyse, but they do not eliminate the need for independent investigation and comparison with external datasets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
 
-There are also practical limitations. Smartphone sensors have accuracy constraints, GPS readings can drift, and environmental conditions can affect measurements. In addition, much of Enigma's analytical workflow remains proprietary, meaning outside researchers cannot fully evaluate how metadata is processed after submission. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
+There are also practical limitations. Smartphone sensors have accuracy constraints, GPS readings can drift, and environmental conditions can affect measurements. In addition, much of Enigma's analytical workflow remains proprietary, meaning outside researchers cannot fully evaluate how metadata is processed after submission. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
 
-Even so, the camera system represents a notable departure from traditional UFO reporting forms. Instead of asking witnesses to remember where they stood and which direction they looked, Enigma attempts to record those details directly from the device at the moment of observation. That shift—from recollected context to sensor-captured context—is the central reason the app's camera metadata system occupies such an important place in Enigma's approach to UFO sighting databases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
+Even so, the camera system represents a notable departure from traditional UFO reporting forms. Instead of asking witnesses to remember where they stood and which direction they looked, Enigma attempts to record those details directly from the device at the moment of observation. That shift—from recollected context to sensor-captured context—is the central reason the app's camera metadata system occupies such an important place in Enigma's approach to UFO sighting databases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -816,63 +805,63 @@ Even so, the camera system represents a notable departure from traditional UFO r
 1. <a id="endnote-1"></a>
    Source: enigmalabs.io  
    Title: the new enigma camera optimizing metadata for uap sightings  
-   Link: [https://enigmalabs.io/blog/the-new-enigma-camera-optimizing-metadata-for-uap-sightings](https://enigmalabs.io/blog/the-new-enigma-camera-optimizing-metadata-for-uap-sightings)  
+   Link: <a href="https://enigmalabs.io/blog/the-new-enigma-camera-optimizing-metadata-for-uap-sightings" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/blog/the-new-enigma-camera-optimizing-metadata-for-uap-sightings</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | Report a UFO sightingThe New Enigma Camera — Optimizing Metadata for UAP...25 Aug 2023 — The new Enigma Native Camera lets...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: enigmalabs.io  
    Title: announcing the enigma ar lens  
-   Link: [https://enigmalabs.io/blog/announcing-the-enigma-ar-lens](https://enigmalabs.io/blog/announcing-the-enigma-ar-lens)  
+   Link: <a href="https://enigmalabs.io/blog/announcing-the-enigma-ar-lens" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/blog/announcing-the-enigma-ar-lens</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | Report a UFO sightingShazam for the Skies26 Jul 2023 — Announcing the Enigma Augmented Reality Lens, helping identify objec...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: linkedin.com  
    Title: Linked In Enigma Labs' Post  
-   Link: [https://www.linkedin.com/posts/enigmalabsuap_the-new-enigma-camera-optimizing-metadata-activity-7100940949890994177-XpVd](https://www.linkedin.com/posts/enigmalabsuap_the-new-enigma-camera-optimizing-metadata-activity-7100940949890994177-XpVd)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LinkedInEnigma Labs&#x27; Post - Optimizing Metadata for UAP SightingsThe New Enigma Camera - Optimizing Metadata for UAP Sightings The Native...</p></details>
+   Link: <a href="https://www.linkedin.com/posts/enigmalabsuap_the-new-enigma-camera-optimizing-metadata-activity-7100940949890994177-XpVd" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/enigmalabsuap_the-new-enigma-camera-optimizing-metadata-activity-7100940949890994177-XpVd</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs&#x27; Post - Optimizing Metadata for UAP SightingsThe New Enigma Camera - Optimizing Metadata for UAP Sightings The Native...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/](https://enigmalabs.io/)  
+   Link: <a href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: wired.com  
    Title: Spotted a UFO? There's an App for That  
-   Link: [https://www.wired.com/story/spotted-a-ufo-theres-an-app-for-that/](https://www.wired.com/story/spotted-a-ufo-theres-an-app-for-that/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WIREDSpotted a UFO? There&#x27;s an App for ThatJanuary 31, 2023 — 31 Jan 2023 — Enigma Labs launches a project to crowdsource and quantify da...</p></details>
+   Link: <a href="https://www.wired.com/story/spotted-a-ufo-theres-an-app-for-that/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/spotted-a-ufo-theres-an-app-for-that/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotted a UFO? There&#x27;s an App for ThatJanuary 31, 2023 — 31 Jan 2023 — Enigma Labs launches a project to crowdsource and quantify da...</p></details>
    Published: January 31, 2023  
 
 6. <a id="endnote-6"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/blog/25k-sightings](https://enigmalabs.io/blog/25k-sightings)  
+   Link: <a href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/blog/25k-sightings</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | Report a UFO sighting25K Sightings &amp; Counting31 Oct 2024 — To quantify the anomalous nature of sightings, Enigma applies a...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: newyorker.com  
    Title: the truth is out there on an app  
-   Link: [https://www.newyorker.com/magazine/2024/01/29/the-truth-is-out-there-on-an-app](https://www.newyorker.com/magazine/2024/01/29/the-truth-is-out-there-on-an-app)  
+   Link: <a href="https://www.newyorker.com/magazine/2024/01/29/the-truth-is-out-there-on-an-app" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2024/01/29/the-truth-is-out-there-on-an-app</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The New YorkerThe Truth Is Out There, on an App22 Jan 2024 — An augmented-reality lens lets users point a phone upward, and then displays...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: play.google.com  
-   Link: [https://play.google.com/store/apps/details?hl=en_GB&id=com.enigma.mobile](https://play.google.com/store/apps/details?hl=en_GB&id=com.enigma.mobile)  
+   Link: <a href="https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.enigma.mobile" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.enigma.mobile</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>google.comEnigma: What&#x27;s that in the Sky – Apps on...Seen something unusual in the sky? Share your UFO sighting story and read accounts...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/faq](https://enigmalabs.io/faq)  
+   Link: <a href="https://enigmalabs.io/faq" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/faq</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frequently Asked QuestionsAnswers to common questions about Enigma Labs — how to submit UAP sightings, use the platform, and join the res...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/19cuje5/the_new_yorker_the_truth_is_out_there_on_an_app/](https://www.reddit.com/r/UFOs/comments/19cuje5/the_new_yorker_the_truth_is_out_there_on_an_app/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/19cuje5/the_new_yorker_the_truth_is_out_there_on_an_app/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/19cuje5/the_new_yorker_the_truth_is_out_there_on_an_app/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The New Yorker: The Truth Is Out There, on an App: r/UFOsAn augmented-reality lens lets users point a phone upward, and then displays an...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: substack.com  
    Title: identify known objects such as planets, stars, satellites and planes.Read more  
-   Link: [https://substack.com/home/post/p-151487185](https://substack.com/home/post/p-151487185)  
+   Link: <a href="https://substack.com/home/post/p-151487185" target="_blank" rel="noopener noreferrer nofollow">https://substack.com/home/post/p-151487185</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs - The Largest Queryable UAP Sightings...11 Nov 2024 — EL: The Enigma Identify Lens is an aspect of our Camera that...</p></details>
 
 ### Additional References
@@ -880,55 +869,55 @@ Even so, the camera system represents a notable departure from traditional UFO r
 12. <a id="endnote-12"></a>
    Source: apps.apple.com  
    Title: App Store Enigma: What's that in the Sky  
-   Link: [https://apps.apple.com/gb/app/enigma-whats-that-in-the-sky/id1548371173](https://apps.apple.com/gb/app/enigma-whats-that-in-the-sky/id1548371173)  
+   Link: <a href="https://apps.apple.com/gb/app/enigma-whats-that-in-the-sky/id1548371173" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/gb/app/enigma-whats-that-in-the-sky/id1548371173</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>App StoreEnigma: What&#x27;s that in the Sky - App Store - AppleInstantly identify known objects such as satellites, planes, stars, planets an...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/14fbm6n/we_are_enigma_labs_we_have_created_an_app_for_uap/](https://www.reddit.com/r/UFOs/comments/14fbm6n/we_are_enigma_labs_we_have_created_an_app_for_uap/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/14fbm6n/we_are_enigma_labs_we_have_created_an_app_for_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/14fbm6n/we_are_enigma_labs_we_have_created_an_app_for_uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and the largest queryable UAP database in the world.Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/posts/a-video-sharing-platform-run-by-enigma-labs-is-storing-images-of-unidentified-an/873015845105434/](https://www.facebook.com/NewsNationNow/posts/a-video-sharing-platform-run-by-enigma-labs-is-storing-images-of-unidentified-an/873015845105434/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/a-video-sharing-platform-run-by-enigma-labs-is-storing-images-of-unidentified-an/873015845105434/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-video-sharing-platform-run-by-enigma-labs-is-storing-images-of-unidentified-an/873015845105434/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anomalous Phenomena” as they are photographed, in real time...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: mwm.ai  
    Title: Enigma: What's that in the Sky  
-   Link: [https://mwm.ai/apps/enigma-what-s-that-in-the-sky/1548371173](https://mwm.ai/apps/enigma-what-s-that-in-the-sky/1548371173)  
+   Link: <a href="https://mwm.ai/apps/enigma-what-s-that-in-the-sky/1548371173" target="_blank" rel="noopener noreferrer nofollow">https://mwm.ai/apps/enigma-what-s-that-in-the-sky/1548371173</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>News AppIt allows users to explore over 200,000 recent and historical UFO, drone, and other aerial sightings on an interactive map, provi...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: Enigma UFO Tracker: Recent UAP Sightings & Congressional Hearings Explained  
-   Link: [https://www.youtube.com/watch?v=fVuO_yu1eWk](https://www.youtube.com/watch?v=fVuO_yu1eWk)  
+   Link: <a href="https://www.youtube.com/watch?v=fVuO_yu1eWk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fVuO_yu1eWk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Something in the Sky? Something in the Water hosts app launch...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: play.google.com  
-   Link: [https://play.google.com/store/apps/details?id=com.enigma.mobile](https://play.google.com/store/apps/details?id=com.enigma.mobile)  
+   Link: <a href="https://play.google.com/store/apps/details?id=com.enigma.mobile" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?id=com.enigma.mobile</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>google.comEnigma: What&#x27;s that in the Sky - Apps on Google PlayFinally, the #1 mobile app for UFO sightings and alerts is now available on...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: appranks.app  
    Title: Enigma: What's that in the Sky  
-   Link: [https://appranks.app/app/enigma-whats-that-in-the-sky-1548371173](https://appranks.app/app/enigma-whats-that-in-the-sky-1548371173)  
+   Link: <a href="https://appranks.app/app/enigma-whats-that-in-the-sky-1548371173" target="_blank" rel="noopener noreferrer nofollow">https://appranks.app/app/enigma-whats-that-in-the-sky-1548371173</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Every day, thousands of people see something they can&#x27;t explain in the skies. Seen...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Something in the Sky? Something in the Water hosts app launch  
-   Link: [https://www.youtube.com/watch?v=FqXg8EbbXZU](https://www.youtube.com/watch?v=FqXg8EbbXZU)  
+   Link: <a href="https://www.youtube.com/watch?v=FqXg8EbbXZU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FqXg8EbbXZU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Governments Using AI To Decode Massive UFO Databases | WION Podcast...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: apps.apple.com  
-   Link: [https://apps.apple.com/cg/app/enigma-whats-that-in-the-sky/id1548371173](https://apps.apple.com/cg/app/enigma-whats-that-in-the-sky/id1548371173)  
+   Link: <a href="https://apps.apple.com/cg/app/enigma-whats-that-in-the-sky/id1548371173" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/cg/app/enigma-whats-that-in-the-sky/id1548371173</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>apple.comEnigma: What&#x27;s that in the Sky - App Store - Apple18 May 2026 — Instantly identify known objects such as satellites, planes, sta...</p></details>
    Published: May 2026  
 
 21. <a id="endnote-21"></a>
    Source: apps.apple.com  
-   Link: [https://apps.apple.com/de/app/enigma-whats-that-in-the-sky/id1548371173](https://apps.apple.com/de/app/enigma-whats-that-in-the-sky/id1548371173)  
+   Link: <a href="https://apps.apple.com/de/app/enigma-whats-that-in-the-sky/id1548371173" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/de/app/enigma-whats-that-in-the-sky/id1548371173</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>apple.comEnigma: What&#x27;s that in the Sky - App Store - AppleInstantly identify known objects such as satellites, planes, stars, planets an...</p></details>

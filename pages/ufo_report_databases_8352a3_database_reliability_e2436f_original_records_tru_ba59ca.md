@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /reliability/
 nav_short_title: Source Trails
 title: Can You Trace the UFO Report Back?
-title_full: Can You Trace the UFO Report Back? | Reliability
+title_full: Can You Trace the UFO Report Back?
 display_title_short: Source Trails
 display_title: Source Trails
 heading_title: Can You Trace the UFO Report Back?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 01:44:52'
-parent_title: Which UFO Databases Are Worth Trusting? | UFO Archives
+parent_title: Which UFO Databases Are Worth Trusting?
 parent_permalink: /reliability/
 parent_nav_short_title: Reliability
 parent_heading_title: Which UFO Databases Are Worth Trusting?
@@ -268,12 +268,10 @@ image: /assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_or
 
 ## Introduction
 
-When comparing the reliability of [UFO report databases]({{ 'ufo-report-databases-and-catalogues/' | relative_url }}), one of the most concrete trust signals is whether an entry can be traced right back to its **original records** — the documents, sightings forms, investigation notes, images, transcripts or archival files that were first created at the time of the reported event. Unlike summary fields or secondary digests, original source material embodies **provenance** — a core archival concept meaning the documented origin and custody trail of a record — which is essential for evaluating authenticity and credibility in any historical or research context. In archival science, establishing and documenting provenance and original order (the context of creation and storage) is a basic precondition for reliable [research use]({{ 'research-use/' | relative_url }}), because gaps or uncertain chains of custody degrade authority and invite misinterpretation.[Wikipedia]
-
+When comparing the [reliability]({{ 'reliability/' | relative_url }}) of UFO report databases, one of the most concrete trust signals is whether an entry can be traced right back to its **original records** — the documents, sightings forms, investigation notes, images, transcripts or archival files that were first created at the time of the reported event. Unlike summary fields or secondary digests, original source material embodies **provenance** — a core archival concept meaning the documented origin and custody trail of a record — which is essential for evaluating authenticity and credibility in any historical or research context. In archival science, establishing and documenting provenance and original order (the context of creation and storage) is a basic precondition for reliable [research use]({{ 'research-use/' | relative_url }}), because gaps or uncertain chains of custody degrade authority and invite misinterpretation.[Wikipedia]
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_original_records_tru_ba59ca-Illustration-1-dark.svg" | relative_url }}" alt="Source Trails illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_original_records_tru_ba59ca-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_original_records_tru_ba59ca-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Beyond academic practice, in practical UFO research this principle plays out in how databases handle and cite underlying evidence. Some catalogues provide direct access to witness reports, military [case files]({{ 'case-files/' | relative_url }}) or agency microfilm scans, while others rely on extracted summaries or unattributed narratives. The former approach — showing original records or clear citations to them — gives users the ability to **verify, contextualise and re-analyse** individual entries, whereas the latter leaves the credibility of the summary dependent on unverified editorial choices.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JHeZjJgO9Ns" title="UFO Project Blue Book at National Archives Museum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer">UFO Project Blue Book at National Archives Museum</a></p><p class="youtube-embed-meta">Channel: US National Archives &middot; Views: 352.6K &middot; Uploaded: December 2019 &middot; Length: 2 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JHeZjJgO9Ns">Open on YouTube</a></p></div></div></div>
 
@@ -281,20 +279,18 @@ Beyond academic practice, in practical UFO research this principle plays out in 
 
 At its most literal, an original source is **material created contemporaneously with a sighting or investigation** and preserved in a way that preserves its context and metadata:
 
-* **Official case files and agency documents** — for example, the U.S. Air Force’s *Project [Blue Book]({{ 'blue-book/' | relative_url }})* records now held at the U.S. [National Archives]({{ 'archives/' | relative_url }}). These comprise microfilm reels of the original sighting reports, investigation notes and administrative files from 1947–1969.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">UFOS This is a brief guide to researching records of UFOs. The surviving records consist mainly of documents relating to official policy...</span></span></span>
-* **Witness report forms and correspondence** — formal sighting submissions made by individuals at the time of observation, whether to civilian centres like the National UFO Reporting Center (NUFORC) or to government or defence departments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsSeptember 6, 2021...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span>
-* **Archival catalogues of public records** — collections such as Canada’s Library and Archives UFO documents, which preserve letters, memos and sighting forms from multiple federal agencies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">CanadaCanada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
+* **Official case files and agency documents** — for example, the U.S. Air Force’s *Project [Blue Book]({{ 'blue-book/' | relative_url }})* records now held at the U.S. National [Archives]({{ 'archives/' | relative_url }}). These comprise microfilm reels of the original sighting reports, investigation notes and administrative files from 1947–1969.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">UFOS This is a brief guide to researching records of UFOs. The surviving records consist mainly of documents relating to official policy...</span></span></span>
+* **Witness report forms and correspondence** — formal sighting submissions made by individuals at the time of observation, whether to civilian centres like the National UFO Reporting Center (NUFORC) or to government or defence departments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsSeptember 6, 2021...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span>
+* **Archival catalogues of public records** — collections such as Canada’s Library and Archives UFO documents, which preserve letters, memos and sighting forms from multiple federal agencies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
 * **Published archival collections** — curated sets of scanned originals, whether field reports, images, interview transcripts or other primary materials made available by researchers or archive projects like *Archives of the Impossible*.[Wikipedia]
 
 In every case, traceability is enhanced when the database entry includes explicit references to **where** the original source lives (agency archive ID, collection name, microfilm roll, catalogue number, page image) rather than simply summarising the narrative.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MEeG81arab0" title="National archives digitizes once-secret UFO records | Elizabeth Vargas Reports" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MEeG81arab0" target="_blank" rel="noopener noreferrer">National archives digitizes once-secret UFO records | Elizabeth Vargas Reports</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 65.7K &middot; Uploaded: September 2023 &middot; Length: 3 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MEeG81arab0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MEeG81arab0">Open on YouTube</a></p></div></div></div>
 
 ## How Summaries Can Change a Case
 
 Summaries, by definition, compress and interpret. In UFO databases, this process typically involves extracting witness narratives, classifying object types, assigning dates and locations, and possibly labelling explanations. Any such processing step introduces interpretive layers that can diverge from the raw record:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -305,7 +301,6 @@ Summaries, by definition, compress and interpret. In UFO databases, this process
 </div>
 
 From an evidence standpoint, entries with **direct links to original reports or scans** allow users to judge for themselves how much the summary aligns with the source; entries lacking those links force an a priori trust in how the summariser interpreted the material.
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_original_records_tru_ba59ca-Illustration-2-dark.svg" | relative_url }}" alt="Source Trails illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_original_records_tru_ba59ca-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_original_records_tru_ba59ca-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Red Flags in Source‑Free Entries
@@ -319,13 +314,11 @@ Certain database practices can indicate a weak trust signal around original reco
 
 The archival principle of provenance — ensuring that records are kept and described according to their origins and original context — emphasises that **uncertain or fragmented record trails weaken trust** and must be treated with caution.[Wikipedia]
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TTL2lLAV8JQ" title="Mystery of Missing UFO Files After Disclosure Order | WION Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TTL2lLAV8JQ" target="_blank" rel="noopener noreferrer">Mystery of Missing UFO Files After Disclosure Order | WION Podcast</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 3.5K &middot; Uploaded: February 2026 &middot; Length: 3 minutes 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TTL2lLAV8JQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TTL2lLAV8JQ">Open on YouTube</a></p></div></div></div>
 
 ## Practical Value of Traceability for Users
 
 For users comparing UFO databases, the presence of original records or **clear source trails** serves multiple evaluative functions:
-
 
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
@@ -337,7 +330,6 @@ For users comparing UFO databases, the presence of original records or **clear s
 </div>
 
 In short, a UFO database that embeds or cites original records — with archive identifiers, images, scan links or clearly documented custodial history — provides a stronger foundation for credible use than one that presents disassociated summaries without a traceable evidence trail.
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_original_records_tru_ba59ca-Illustration-3-dark.svg" | relative_url }}" alt="Source Trails illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_original_records_tru_ba59ca-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_original_records_tru_ba59ca-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -737,155 +729,155 @@ In short, a UFO database that embeds or cites original records — with archive 
 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Provenance](https://en.wikipedia.org/wiki/Provenance)  
+   Link: <a href="https://en.wikipedia.org/wiki/Provenance" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Provenance</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Original order  
-   Link: [https://en.wikipedia.org/wiki/Original_order](https://en.wikipedia.org/wiki/Original_order)  
+   Link: <a href="https://en.wikipedia.org/wiki/Original_order" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Original_order</a>  
 
 3. <a id="endnote-3"></a>
-   Source: [archives](&#123;&#123; 'archives/' | relative_url &#125;&#125;). gov  
+   Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying Objects | National ArchivesJune 25, 2024...</p></details>
    Published: June 25, 2024  
 
 4. <a id="endnote-4"></a>
    Source: [nuforc](&#123;&#123; 'nuforc/' | relative_url &#125;&#125;). org  
    Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Latest UFO SightingsSeptember 6, 2021...</p></details>
    Published: September 6, 2021  
 
 5. <a id="endnote-5"></a>
    Source: canada.ca  
-   Link: [https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html](https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CanadaCanada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</p></details>
+   Link: <a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Archives of the Impossible  
-   Link: [https://en.wikipedia.org/wiki/Archives_of_the_Impossible](https://en.wikipedia.org/wiki/Archives_of_the_Impossible)  
+   Link: <a href="https://en.wikipedia.org/wiki/Archives_of_the_Impossible" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Archives_of_the_Impossible</a>  
 
 7. <a id="endnote-7"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/rg-collections](https://www.archives.gov/research/topics/uaps/rg-collections)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ecord Group or Collection | National ArchivesDecember 12, 2025 — RECORDS RELATED TO UNIDENTIFIED FLYING OBJECTS (UFOS) AND UNIDENTIFIED A...</p></details>
    Published: December 12, 2025  
 
 8. <a id="endnote-8"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/textual-and-microfilm](https://www.archives.gov/research/topics/uaps/textual-and-microfilm)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/textual-and-microfilm" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/textual-and-microfilm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>icrofilm | National ArchivesApril 24, 2025 — RECORDS RELATED TO UNIDENTIFIED FLYING OBJECTS (UFOS) AND UNIDENTIFIED ANOMALOUS PHENOMENA (...</p></details>
    Published: April 24, 2025  
 
 9. <a id="endnote-9"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/news/topics/ufos](https://www.archives.gov/news/topics/ufos)  
+   Link: <a href="https://www.archives.gov/news/topics/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/topics/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>hivesApril 24, 2025 — RECORDS RELATED TO UNIDENTIFIED FLYING OBJECTS (UFOS) AND UNIDENTIFIED ANOMALOUS PHENOMENA (UAPS) AT THE NATIONAL A...</p></details>
    Published: April 24, 2025  
 
 10. <a id="endnote-10"></a>
    Source: archives.gov  
    Title: Do Records Show Proof of UFOs?  
-   Link: [https://www.archives.gov/news/articles/do-records-show-proof-of-ufos](https://www.archives.gov/news/articles/do-records-show-proof-of-ufos)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| National ArchivesJuly 24, 2023 — DO RECORDS SHOW PROOF OF UFOS? En Español Image: UFO graphic banner By Kerri Lawrence | National Archi...</p></details>
+   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesJuly 24, 2023 — DO RECORDS SHOW PROOF OF UFOS? En Español Image: UFO graphic banner By Kerri Lawrence | National Archi...</p></details>
    Published: July 24, 2023  
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Identification studies of UFOs  
-   Link: [https://en.wikipedia.org/wiki/Identification_studies_of_UFOs](https://en.wikipedia.org/wiki/Identification_studies_of_UFOs)  
+   Link: <a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Identification studies of UFOsIdentifying unidentified flying objects (UFOs) is a difficult task due to the normally poor quality of t...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Investigation of UFO reports by the United States government  
-   Link: [https://en.wikipedia.org/wiki/Investigation_of_UFO_reports_by_the_United_States_government](https://en.wikipedia.org/wiki/Investigation_of_UFO_reports_by_the_United_States_government)  
+   Link: <a href="https://en.wikipedia.org/wiki/Investigation_of_UFO_reports_by_the_United_States_government" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Investigation_of_UFO_reports_by_the_United_States_government</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>kuow... &quot;CIA&#x27;s Role in the Study of UFOs, 1947–90&quot;. Central Intelligence Agency...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: UFO Project Blue Book at National Archives Museum  
-   Link: [https://www.youtube.com/watch?v=JHeZjJgO9Ns](https://www.youtube.com/watch?v=JHeZjJgO9Ns)  
+   Link: <a href="https://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JHeZjJgO9Ns</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National archives digitizes once-secret UFO records | Elizabeth Vargas Reports...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: National archives digitizes once-secret UFO records | Elizabeth Vargas Reports  
-   Link: [https://www.youtube.com/watch?v=MEeG81arab0](https://www.youtube.com/watch?v=MEeG81arab0)  
+   Link: <a href="https://www.youtube.com/watch?v=MEeG81arab0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MEeG81arab0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Here are the released videos from Pentagon&#x27;s first batch of UFO files...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: uapradar.com  
    Title: National Archives publishes guide to UFO and UAP  
-   Link: [https://www.uapradar.com/articles/generated/national-archives-publishes-guide-to-ufo-and-uap-record-groups](https://www.uapradar.com/articles/generated/national-archives-publishes-guide-to-ufo-and-uap-record-groups)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| UAP RadarJanuary 10, 2026 — Official New Government Release NATIONAL ARCHIVES PUBLISHES GUIDE TO UFO AND [UAP RECORD GROUPS](&amp;#123;&amp;#123; &#x27;record-group-context/&#x27; | relative_url &amp;#125;&amp;#125;) NARA maintai...</p></details>
+   Link: <a href="https://www.uapradar.com/articles/generated/national-archives-publishes-guide-to-ufo-and-uap-record-groups" target="_blank" rel="noopener noreferrer nofollow">https://www.uapradar.com/articles/generated/national-archives-publishes-guide-to-ufo-and-uap-record-groups</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP RadarJanuary 10, 2026 — Official New Government Release NATIONAL ARCHIVES PUBLISHES GUIDE TO UFO AND UAP RECORD GROUPS NARA maintai...</p></details>
    Published: January 10, 2026  
 
 16. <a id="endnote-16"></a>
    Source: cufos.org  
    Title: Project Blue Book  
-   Link: [https://cufos.org/resources/project-blue-book/](https://cufos.org/resources/project-blue-book/)  
+   Link: <a href="https://cufos.org/resources/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/resources/project-blue-book/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>14, as edited by Leon Davidson, July 1966The United States Air Force managed three UFO projects, from 1948 to 1969. The first w...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOS This is a brief guide to researching records of UFOs. The surviving records consist mainly of documents relating to official policy...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/320593846_A_Literature_Review_of_Authenticity_of_Records_in_Digital_Systems_From_%27Machine-Readable%27_to_Records_in_the_Cloud](https://www.researchgate.net/publication/320593846_A_Literature_Review_of_Authenticity_of_Records_in_Digital_Systems_From_%27Machine-Readable%27_to_Records_in_the_Cloud)  
+   Link: <a href="https://www.researchgate.net/publication/320593846_A_Literature_Review_of_Authenticity_of_Records_in_Digital_Systems_From_%27Machine-Readable%27_to_Records_in_the_Cloud" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/320593846_A_Literature_Review_of_Authenticity_of_Records_in_Digital_Systems_From_%27Machine-Readable%27_to_Records_in_the_Cloud</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A Literature Review of Authenticity of Records in...24 Oct 2017 — This paper presents a review of the literature about authenticit...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: hi-storylessons.eu  
-   Link: [https://hi-storylessons.eu/wp-content/uploads/2021/02/8a_L.Kaminski_How-Historians-Verify-Information_EN.pdf](https://hi-storylessons.eu/wp-content/uploads/2021/02/8a_L.Kaminski_How-Historians-Verify-Information_EN.pdf)  
+   Link: <a href="https://hi-storylessons.eu/wp-content/uploads/2021/02/8a_L.Kaminski_How-Historians-Verify-Information_EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hi-storylessons.eu/wp-content/uploads/2021/02/8a_L.Kaminski_How-Historians-Verify-Information_EN.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Historians Verify InformationThe aim of these processes is to verify the authenticity of the source as well as to determine its credi...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: uapradar.com  
-   Link: [https://uapradar.com/methodology](https://uapradar.com/methodology)  
+   Link: <a href="https://uapradar.com/methodology" target="_blank" rel="noopener noreferrer nofollow">https://uapradar.com/methodology</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Source Policy &amp; Methodology | UAP RadarSource Policy &amp; Methodology HOW UAP RADAR LABELS, SEPARATES, AND FRAMES INFORMATION UAP Radar is d...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: aliencatalog.com  
-   Link: [https://www.aliencatalog.com/](https://www.aliencatalog.com/)  
+   Link: <a href="https://www.aliencatalog.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.aliencatalog.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Catalog | AlienCatalog.com Official UFO and UAP RecordsLegally public records from official sources ALIEN CATALOG AlienCatalog.com...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: taylorresearchgroup.com  
-   Link: [https://taylorresearchgroup.com/news/provenance-and-certification-how-to-show-that-your-historical-documentation-is-authentic/](https://taylorresearchgroup.com/news/provenance-and-certification-how-to-show-that-your-historical-documentation-is-authentic/)  
+   Link: <a href="https://taylorresearchgroup.com/news/provenance-and-certification-how-to-show-that-your-historical-documentation-is-authentic/" target="_blank" rel="noopener noreferrer nofollow">https://taylorresearchgroup.com/news/provenance-and-certification-how-to-show-that-your-historical-documentation-is-authentic/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to show that your historical documentation is authentic24 Jul 2025 — With every project, we diligently record the original location o...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/AskHistorians/comments/1809hc/wednesday_ama_i_research_the_history_of_ufo/](https://www.reddit.com/r/AskHistorians/comments/1809hc/wednesday_ama_i_research_the_history_of_ufo/)  
+   Link: <a href="https://www.reddit.com/r/AskHistorians/comments/1809hc/wednesday_ama_i_research_the_history_of_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskHistorians/comments/1809hc/wednesday_ama_i_research_the_history_of_ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I was asked to do an AMA, so here I am. Thanks to the moderation team in advance for allowing me to do this. To prime the discussion...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: We believe the root cause is trust rather than truth  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12173498/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12173498/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12173498/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12173498/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>trustworthy information: countering disinformation...by M Boumans · 2025 · Cited by 7 — We argue that countering misinformation requires...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: tvi.show  
-   Link: [https://www.tvi.show/skywatch-files/how-ufo-sightings-are-archived-in-national-libraries](https://www.tvi.show/skywatch-files/how-ufo-sightings-are-archived-in-national-libraries)  
+   Link: <a href="https://www.tvi.show/skywatch-files/how-ufo-sightings-are-archived-in-national-libraries" target="_blank" rel="noopener noreferrer nofollow">https://www.tvi.show/skywatch-files/how-ufo-sightings-are-archived-in-national-libraries</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This includes authenticating documents and obtaining clear transfer or copyright rights to ensur...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: uaparchive.it  
    Title: Documenti governativi, testimonianze militari, studi sci  
-   Link: [https://www.uaparchive.it/](https://www.uaparchive.it/)  
+   Link: <a href="https://www.uaparchive.it/" target="_blank" rel="noopener noreferrer nofollow">https://www.uaparchive.it/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP//ARCHIVE — Archivio Documenti UAP/UFOYesterday — UAP//ARCHIVE AGGR La piattaforma open-source per aggregare, catalogare e discutere d...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: apus.libguides.com  
    Title: UAP History Research Strategies and Primary Sources  
-   Link: [https://apus.libguides.com/apusuahome/blog/UFO/UAP-History-Research-Strategies-and-Primary-Sources](https://apus.libguides.com/apusuahome/blog/UFO/UAP-History-Research-Strategies-and-Primary-Sources)  
+   Link: <a href="https://apus.libguides.com/apusuahome/blog/UFO/UAP-History-Research-Strategies-and-Primary-Sources" target="_blank" rel="noopener noreferrer nofollow">https://apus.libguides.com/apusuahome/blog/UFO/UAP-History-Research-Strategies-and-Primary-Sources</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>libguides.comUFO/UAP History, Research Strategies, and Primary Sources6 Mar 2025 — From the past to the present, a wide variety of online...</p></details>

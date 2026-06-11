@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /geipan/
 nav_short_title: Case Statistics
 title: Understanding GEIPAN's Public UFO Case Statistics
-title_full: Understanding GEIPAN's Public UFO Case Statistics | GEIPAN
+title_full: Understanding GEIPAN's Public UFO Case Statistics
 display_title_short: Case Statistics
 display_title: Case Statistics
 heading_title: Understanding GEIPAN's Public UFO Case Statistics
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 22:16:45'
-parent_title: How France Classifies Public UAP Cases | UFO Archives
+parent_title: How France Classifies Public UAP Cases
 parent_permalink: /geipan/
 parent_nav_short_title: GEIPAN
 parent_heading_title: How France Classifies Public UAP Cases
@@ -276,10 +276,8 @@ image: /assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_ge
 
 GEIPAN’s public statistics are one of the most distinctive features of any government-linked UFO database. Rather than simply listing sightings, the French agency publishes outcome data showing how reported phenomena are classified after review. The figures reveal that most investigated cases eventually receive ordinary explanations, a substantial share cannot be assessed because the evidence is too limited, and only a small minority remain unexplained after investigation. These statistics matter because they provide a measurable picture of case resolution rather than relying on anecdotal accounts or selective examples. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapedia.ai/wiki/geipan-frances-official-uap-unit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-snippet">GEIPAN: France&#x27;s Official UAP UnitThe agency uses a structured classification system (A/B/C/D1/D2) based on weirdness and consistency, wi...</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_public_statis_c9d595-Illustration-1-dark.svg" | relative_url }}" alt="Case Statistics illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_public_statis_c9d595-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_public_statis_c9d595-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within GEIPAN’s classification system, cases are assigned to categories A, B, C or D. The published statistics allow researchers and the public to see how those categories are distributed across thousands of reports and how that distribution changes as older cases are re-examined and new reports enter the database. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapedia.ai/wiki/geipan-frances-official-uap-unit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-snippet">GEIPAN: France&#x27;s Official UAP UnitThe agency uses a structured classification system (A/B/C/D1/D2) based on weirdness and consistency, wi...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hn2xTieploU" title="GEIPAN : dans les coulisses de l’organisme qui étudie les phénomènes aérospatiaux non identifiés" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hn2xTieploU" target="_blank" rel="noopener noreferrer">GEIPAN : dans les coulisses de l’organisme qui étudie les phénomènes aérospatiaux non identifiés</a></p><p class="youtube-embed-meta">Channel: france tv &middot; Views: 4.6K &middot; Uploaded: May 2026 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hn2xTieploU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hn2xTieploU">Open on YouTube</a></p></div></div></div>
 
@@ -289,20 +287,18 @@ GEIPAN’s current public statistics are presented as “dynamic” figures calc
 
 The pattern is significant because it shows that:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **A cases** are fully identified phenomena.
 * **B cases** are probably identified phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.connexionfrance.com/news/inside-frances-ufo-bureau-we-explain-what-people-have-seen/189460" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connexionfrance.com">[connexionfrance.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connexionfrance.com</span><span class="citation-popover-title">inside frances ufo bureau we explain what people have seen</span><span class="citation-popover-snippet">Inside France&#x27;s &#x27;UFO Bureau&#x27;: &#x27;we explain what people...7 Feb 2023 — B (1,197 or 40.2%) are phenomena that are most probably identified...</span></span></span>
 * **C cases** lack sufficient information for a reliable conclusion.
-* **D cases** remain unexplained after investigation. Geipan <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">GeipanMission &amp; Geipan | GEIPANAround 7 % of the sightings remain unexplained. Over the last decade, the rate of unexplained cases droppe...</span></span></span>
+* **D cases** remain unexplained after investigation. Geipan <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">GeipanMission &amp; Geipan &#124; GEIPANAround 7 % of the sightings remain unexplained. Over the last decade, the rate of unexplained cases droppe...</span></span></span>
 
 </div>
 
 Combining A and B categories shows that roughly two-thirds of classified reports ultimately receive either a confirmed or probable explanation. The largest identified sources include astronomical objects, aircraft, satellites, [balloons]({{ 'balloons/' | relative_url }}), atmospheric effects and perception errors. GEIPAN has repeatedly highlighted that misidentification and observational mistakes account for a large proportion of resolved cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapedia.ai/wiki/geipan-frances-official-uap-unit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-snippet">GEIPAN: France&#x27;s Official UAP UnitThe agency uses a structured classification system (A/B/C/D1/D2) based on weirdness and consistency, wi...</span></span></span>
 
 The remaining third is largely composed of Category C reports. These are not mysteries in the same sense as D cases; instead, they are investigations that cannot reach a conclusion because the available information is incomplete, contradictory or too limited for analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapedia.ai/wiki/geipan-frances-official-uap-unit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-snippet">GEIPAN: France&#x27;s Official UAP UnitThe agency uses a structured classification system (A/B/C/D1/D2) based on weirdness and consistency, wi...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LlfX_4KVX_4" title="Wyniki największych analiz i badan UFO (Ponad 20 000 incydentów z UFO sumarycznie)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LlfX_4KVX_4" target="_blank" rel="noopener noreferrer">Wyniki największych analiz i badan UFO (Ponad 20 000 incydentów z UFO sumarycznie)</a></p><p class="youtube-embed-meta">Channel: Smartgasm &middot; Views: 115.6K &middot; Uploaded: June 2021 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LlfX_4KVX_4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LlfX_4KVX_4">Open on YouTube</a></p></div></div></div>
 
@@ -315,7 +311,6 @@ This means readers may encounter different percentages in publications from diff
 GEIPAN also notes that unexplained-case rates have declined over time. According to the agency, the proportion of unexplained cases has fallen in the last decade, in part because of stricter standards for assigning D classifications, improved digital investigative tools and the increasing volume of reports involving easily identifiable objects such as satellites and aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapedia.ai/wiki/geipan-frances-official-uap-unit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-snippet">GEIPAN: France&#x27;s Official UAP UnitThe agency uses a structured classification system (A/B/C/D1/D2) based on weirdness and consistency, wi...</span></span></span>
 
 A notable example of this reassessment process occurred when dozens of previously unexplained cases were re-examined and subsequently explained through renewed investigation. This illustrates why the database should be viewed as an evolving catalogue rather than a static archive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapedia.ai/wiki/geipan-frances-official-uap-unit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-snippet">GEIPAN: France&#x27;s Official UAP UnitThe agency uses a structured classification system (A/B/C/D1/D2) based on weirdness and consistency, wi...</span></span></span>
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_public_statis_c9d595-Illustration-2-dark.svg" | relative_url }}" alt="Case Statistics illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_public_statis_c9d595-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_public_statis_c9d595-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Small D Percentage Attracts Attention
@@ -331,7 +326,6 @@ The small size of the D category is often interpreted in two different ways:
 
 The statistics themselves do not resolve that debate, but they provide a transparent numerical framework within which it can be discussed.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ygb1vphH1q0" title="Le bureau des ovnis • FRANCE 24" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ygb1vphH1q0" target="_blank" rel="noopener noreferrer">Le bureau des ovnis • FRANCE 24</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 &middot; Views: 30.1K &middot; Uploaded: October 2024 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ygb1vphH1q0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ygb1vphH1q0">Open on YouTube</a></p></div></div></div>
 
 ## Insights for UFO Research
@@ -339,7 +333,6 @@ The statistics themselves do not resolve that debate, but they provide a transpa
 GEIPAN’s outcome statistics are valuable because they quantify uncertainty rather than hiding it. Instead of presenting all reports as equally significant, the database separates identified cases, probable identifications, insufficient-data cases and unresolved investigations. This allows researchers to analyse the characteristics of each category independently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapedia.ai/wiki/geipan-frances-official-uap-unit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-snippet">GEIPAN: France&#x27;s Official UAP UnitThe agency uses a structured classification system (A/B/C/D1/D2) based on weirdness and consistency, wi...</span></span></span>
 
 Several broader lessons emerge from the published figures:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -351,7 +344,6 @@ Several broader lessons emerge from the published figures:
 </div>
 
 For anyone using [UFO report databases and catalogues]({{ 'ufo-report-databases-and-catalogues/' | relative_url }}), these statistics demonstrate why outcome categories matter as much as the raw number of reports. A database containing thousands of sightings may appear impressive, but GEIPAN’s published figures show that the evidential value of those sightings varies dramatically depending on whether they are identified, probably identified, insufficiently documented or still unexplained after investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapedia.ai/wiki/geipan-frances-official-uap-unit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-snippet">GEIPAN: France&#x27;s Official UAP UnitThe agency uses a structured classification system (A/B/C/D1/D2) based on weirdness and consistency, wi...</span></span></span>
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_public_statis_c9d595-Illustration-3-dark.svg" | relative_url }}" alt="Case Statistics illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_public_statis_c9d595-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_public_statis_c9d595-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -751,122 +743,122 @@ For anyone using [UFO report databases and catalogues]({{ 'ufo-report-databases-
 
 1. <a id="endnote-1"></a>
    Source: portal.hr  
-   Link: [https://www.portal.hr/en/novosti/hr/78513-francuski-znanstvenici-demistificiraju-fenomen-nlo-a](https://www.portal.hr/en/novosti/hr/78513-francuski-znanstvenici-demistificiraju-fenomen-nlo-a)  
+   Link: <a href="https://www.portal.hr/en/novosti/hr/78513-francuski-znanstvenici-demistificiraju-fenomen-nlo-a" target="_blank" rel="noopener noreferrer nofollow">https://www.portal.hr/en/novosti/hr/78513-francuski-znanstvenici-demistificiraju-fenomen-nlo-a</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO: Out of 3037 cases, only about a hundred are unsolvedFeb 18, 2024 — Since its inception nearly 50 years ago, Geipan has examined 3037...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: connexionfrance.com  
    Title: inside frances ufo bureau we explain what people have seen  
-   Link: [https://www.connexionfrance.com/news/inside-frances-ufo-bureau-we-explain-what-people-have-seen/189460](https://www.connexionfrance.com/news/inside-frances-ufo-bureau-we-explain-what-people-have-seen/189460)  
+   Link: <a href="https://www.connexionfrance.com/news/inside-frances-ufo-bureau-we-explain-what-people-have-seen/189460" target="_blank" rel="noopener noreferrer nofollow">https://www.connexionfrance.com/news/inside-frances-ufo-bureau-we-explain-what-people-have-seen/189460</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside France&#x27;s &#x27;UFO Bureau&#x27;: &#x27;we explain what people...7 Feb 2023 — B (1,197 or 40.2%) are phenomena that are most probably identified...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com](https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com)  
+   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>An Assessment of Thirty Years of Official Studies in FranceA detailed, critical re-examination of the main cases in three decades of &#x27;off...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=hn2xTieploU](https://www.youtube.com/watch?v=hn2xTieploU)  
+   Link: <a href="https://www.youtube.com/watch?v=hn2xTieploU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hn2xTieploU</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Office • FRANCE 24...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/en/stats](https://www.cnes-geipan.fr/en/stats)  
+   Link: <a href="https://www.cnes-geipan.fr/en/stats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/stats</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>GeipanStatisticsSince 2016 the GEIPAN uses &quot;dynamic&quot; statistics. They are calculated with the data related to classified cases that are p...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/en/missions-methodes-et-resultats](https://www.cnes-geipan.fr/en/missions-methodes-et-resultats)  
+   Link: <a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>GeipanMission &amp; Geipan | GEIPANAround 7 % of the sightings remain unexplained. Over the last decade, the rate of unexplained cases droppe...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/en/node/412](https://www.cnes-geipan.fr/en/node/412)  
+   Link: <a href="https://www.cnes-geipan.fr/en/node/412" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/412</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>· Classification B: Phenomenon probably identified after investigation. · Classification C:...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/en/node/58787](https://www.cnes-geipan.fr/en/node/58787)  
+   Link: <a href="https://www.cnes-geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58787</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>GeipanClassificationA more detailed classification (A/B/C/D1/D2) has been used by the GEIPAN. It is based on 2 main criteria: the weirdne...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/GEIPAN](https://en.wikipedia.org/wiki/GEIPAN)  
+   Link: <a href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEIPAN</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPANGEIPAN is clearly focused on UFO study, but UAP (PAN in French) is meant to cover a much broader area than UFO (OVNI in French)...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: cnes.fr  
-   Link: [https://cnes.fr/en/projects/geipan](https://cnes.fr/en/projects/geipan)  
+   Link: <a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Jul 2025 — Key figures · 24.6% of phenomena clearly identified · 39.7% of phenomena probably identified · 32.4% of phenomena unidentifi...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
    Title: (PDF) A global picture of unidentified anomalous phenomena  
-   Link: [https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue](https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue)  
+   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPAN (Unidentified Aerial Phenomena Study &amp; Information Group), with over 2,900. cases investigated, of which 99 are deemed highly stra...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: academieairespace.com  
    Title: GEIPA N studies UAPs/UFOs  
-   Link: [https://academieairespace.com/event/geipan-studies-uaps-ufos/?lang=en](https://academieairespace.com/event/geipan-studies-uaps-ufos/?lang=en)  
+   Link: <a href="https://academieairespace.com/event/geipan-studies-uaps-ufos/?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://academieairespace.com/event/geipan-studies-uaps-ufos/?lang=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPAN studies UAPs/UFOs - AAEGEIPAN studies aerospace observations, unexplained phenomena observed in the sky, that have been reported t...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: uapedia.ai  
-   Link: [https://uapedia.ai/wiki/geipan-frances-official-uap-unit/](https://uapedia.ai/wiki/geipan-frances-official-uap-unit/)  
+   Link: <a href="https://uapedia.ai/wiki/geipan-frances-official-uap-unit/" target="_blank" rel="noopener noreferrer nofollow">https://uapedia.ai/wiki/geipan-frances-official-uap-unit/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPAN: France&#x27;s Official UAP UnitThe agency uses a structured classification system (A/B/C/D1/D2) based on weirdness and consistency, wi...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TheFrenchHistoryPodcast/posts/a-drawing-from-the-files-at-the-french-ufo-department/1337099231754482/](https://www.facebook.com/TheFrenchHistoryPodcast/posts/a-drawing-from-the-files-at-the-french-ufo-department/1337099231754482/)  
+   Link: <a href="https://www.facebook.com/TheFrenchHistoryPodcast/posts/a-drawing-from-the-files-at-the-french-ufo-department/1337099231754482/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheFrenchHistoryPodcast/posts/a-drawing-from-the-files-at-the-french-ufo-department/1337099231754482/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A drawing from the files at the French UFO departmentThe case has been classified as a &#x27;Class D&#x27; case, which are the unexplained cases in...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: strangemag.com  
-   Link: [https://www.strangemag.com/recentadditions/onlinefrenchufoarchive.html](https://www.strangemag.com/recentadditions/onlinefrenchufoarchive.html)  
+   Link: <a href="https://www.strangemag.com/recentadditions/onlinefrenchufoarchive.html" target="_blank" rel="noopener noreferrer nofollow">https://www.strangemag.com/recentadditions/onlinefrenchufoarchive.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Online French UFO ArchiveThe collation of the sightings and field investigations was the longtime work of the CNES&#x27;s UFO unit GEIPAN (lat...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: 3af.fr  
-   Link: [https://www.3af.fr/en/groupe/sigma2-unidentified-aerospace-phenomena-43](https://www.3af.fr/en/groupe/sigma2-unidentified-aerospace-phenomena-43)  
+   Link: <a href="https://www.3af.fr/en/groupe/sigma2-unidentified-aerospace-phenomena-43" target="_blank" rel="noopener noreferrer nofollow">https://www.3af.fr/en/groupe/sigma2-unidentified-aerospace-phenomena-43</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SIGMA2 (Unidentified Aerospace Phenomena)A number of cases were examined in greater depth, both from the GEIPAN database and from foreign...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: en.clickpetroleoegas.com.br  
-   Link: [https://en.clickpetroleoegas.com.br/desde-os-anos-1970-a-franca-mantem-um-arquivo-oficial-que-investigou-e-catalogou-centenas-de-encontros-com-ovnis-tornou-relatorios-publicos-vml97/](https://en.clickpetroleoegas.com.br/desde-os-anos-1970-a-franca-mantem-um-arquivo-oficial-que-investigou-e-catalogou-centenas-de-encontros-com-ovnis-tornou-relatorios-publicos-vml97/)  
+   Link: <a href="https://en.clickpetroleoegas.com.br/desde-os-anos-1970-a-franca-mantem-um-arquivo-oficial-que-investigou-e-catalogou-centenas-de-encontros-com-ovnis-tornou-relatorios-publicos-vml97/" target="_blank" rel="noopener noreferrer nofollow">https://en.clickpetroleoegas.com.br/desde-os-anos-1970-a-franca-mantem-um-arquivo-oficial-que-investigou-e-catalogou-centenas-de-encontros-com-ovnis-tornou-relatorios-publicos-vml97/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>people know, but since the 1970s, France has...Feb 11, 2026 — GEIPAN, an agency of CNES (France), has investigated and published hundred...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: jmss.org  
-   Link: [https://jmss.org/article/download/74704/55613/225743](https://jmss.org/article/download/74704/55613/225743)  
+   Link: <a href="https://jmss.org/article/download/74704/55613/225743" target="_blank" rel="noopener noreferrer nofollow">https://jmss.org/article/download/74704/55613/225743</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>velopments and classified programs by US entities,” though such an explanation.Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: cnes-geipan.fr  
    Title: Each UAP is located at the centroid of the commune where the UAP was.Read more  
-   Link: [https://www.cnes-geipan.fr/sites/default/files/2015-09-01_Spatial_Point_Pattern_Analysis_of_the_Unidentified.pdf](https://www.cnes-geipan.fr/sites/default/files/2015-09-01_Spatial_Point_Pattern_Analysis_of_the_Unidentified.pdf)  
+   Link: <a href="https://www.cnes-geipan.fr/sites/default/files/2015-09-01_Spatial_Point_Pattern_Analysis_of_the_Unidentified.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/2015-09-01_Spatial_Point_Pattern_Analysis_of_the_Unidentified.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spatial Point Pattern Analysis of the Unidentified Aerial...by T Laurent · 2015 · Cited by 2 — Figure 3: Locations of the UAPs according...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
    Title: til that france has a dedicated unit to finding  
-   Link: [https://www.reddit.com/r/todayilearned/comments/1qa0lyb/til_that_france_has_a_dedicated_unit_to_finding/](https://www.reddit.com/r/todayilearned/comments/1qa0lyb/til_that_france_has_a_dedicated_unit_to_finding/)  
+   Link: <a href="https://www.reddit.com/r/todayilearned/comments/1qa0lyb/til_that_france_has_a_dedicated_unit_to_finding/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/1qa0lyb/til_that_france_has_a_dedicated_unit_to_finding/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO&#x27;s. The...Perfectly identified: 27.5% (904 cases) · Probably identified: 38.7% (1273 cases) · Unidentified, despite investigation: 3...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/15w9ndj/why_is_no_one_talking_about_the_french_ufo/](https://www.reddit.com/r/UFOs/comments/15w9ndj/why_is_no_one_talking_about_the_french_ufo/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/15w9ndj/why_is_no_one_talking_about_the_french_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15w9ndj/why_is_no_one_talking_about_the_french_ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>udies carried out by the group during the first part of 1978.Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/southwestfrance/posts/1342464920438589/](https://www.facebook.com/groups/southwestfrance/posts/1342464920438589/)  
+   Link: <a href="https://www.facebook.com/groups/southwestfrance/posts/1342464920438589/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/southwestfrance/posts/1342464920438589/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>out 25% of these cases remain unexplained.&quot; •. &quot;The full report and...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/bbcindia/posts/american-authorities-have-examined-around-800-mysterious-reports-of-unidentified/6608211255889848/](https://www.facebook.com/bbcindia/posts/american-authorities-have-examined-around-800-mysterious-reports-of-unidentified/6608211255889848/)  
+   Link: <a href="https://www.facebook.com/bbcindia/posts/american-authorities-have-examined-around-800-mysterious-reports-of-unidentified/6608211255889848/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcindia/posts/american-authorities-have-examined-around-800-mysterious-reports-of-unidentified/6608211255889848/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>on the cases in recent years.... GEIPAN Data bases.Read more...</p></details>

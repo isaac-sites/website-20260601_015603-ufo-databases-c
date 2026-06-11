@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /aaro/
 nav_short_title: FAA Logs
 title: Why AARO's Numbers Suddenly Grew
-title_full: Why AARO's Numbers Suddenly Grew | AARO
+title_full: Why AARO's Numbers Suddenly Grew
 display_title_short: FAA Logs
 display_title: FAA Logs
 heading_title: Why AARO's Numbers Suddenly Grew
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 22:17:19'
-parent_title: Why AARO Cases Remain Unresolved | UFO Archives
+parent_title: Why AARO Cases Remain Unresolved
 parent_permalink: /aaro/
 parent_nav_short_title: AARO
 parent_heading_title: Why AARO Cases Remain Unresolved
@@ -276,7 +276,6 @@ image: /assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_fa
 
 In the Fiscal Year 2024 consolidated annual report, the **All‑domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }}))** logged a significant jump in its Unidentified Anomalous Phenomena (UAP) tally. That surge — from hundreds of reports in earlier years to over 1,600 total records — partly reflects not a sudden flood of “strange events” but a change in **how the office counts sightings**, especially through the integration of **Federal Aviation Administration (FAA) civil and commercial aviation logs**. Understanding this change matters for anyone comparing annual UAP counts across years or trying to interpret what AARO’s numbers say about trends in anomalous reporting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">DOD AARO Consolidated Annual Report on UAP Nov2024</span><span class="citation-popover-snippet">Director of National IntelligenceUNCLASSIFIEDApril 20, 2026...</span><span class="citation-popover-meta">Published: April 20, 2026</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_faa_logs_report_tota_d53399-Illustration-1-dark.svg" | relative_url }}" alt="FAA Logs illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_faa_logs_report_tota_d53399-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_faa_logs_report_tota_d53399-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What FAA Logs Added to the Catalogue
 
@@ -289,7 +288,6 @@ This change reflects **two linked developments**:
 * The FAA’s logs are now a **formal source** for AARO, delivered on a recurring basis; and
 * AARO’s reporting practice for FY 2024 deliberately **back‑filled** several years’ worth of FAA data into its annual count rather than limiting totals to in‑period reports only. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">U.S. Department of WarUNCLASSIFIEDMay 8, 2026...</span><span class="citation-popover-meta">Published: May 8, 2026</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4ckCzwhk784" title="BREAKING: Trump releases UFO, alien life files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4ckCzwhk784" target="_blank" rel="noopener noreferrer">BREAKING: Trump releases UFO, alien life files</a></p><p class="youtube-embed-meta">Channel: Fox News &middot; Views: 2.6M &middot; Uploaded: May 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4ckCzwhk784" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4ckCzwhk784">Open on YouTube</a></p></div></div></div>
 
 ## Why Backlogs Distort Annual Comparisons
@@ -297,13 +295,11 @@ This change reflects **two linked developments**:
 At first glance, a tally of 757 reports in one year might suggest a dramatic rise in UAP activity. But much of that increase owes to **dataset imports and deferred report processing**, not new phenomena. Two aspects illustrate why:
 
 * **Historical FAA reports:** Many of the FAA reports included in the FY 2024 total occurred in 2021–2022 but were not previously transmitted to or logged by AARO before this reporting cycle. Their arrival in FY 2024 artificially “front‑loads” older incidents into the latest total instead of spreading them across the years in which they occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://newparadigminstitute.org/learn/library/aaro-fy24-consolidated-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newparadigminstitute.org">[New Paradigm Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newparadigminstitute.org</span><span class="citation-popover-title">New Paradigm Instituteaaro fy24 consolidated report – New Paradigm Institute</span><span class="citation-popover-snippet">November 14, 2024...</span><span class="citation-popover-meta">Published: November 14, 2024</span></span></span>
-* **Expanded reporting channels:** The inclusion of civil and commercial aviation logs — a far wider net than AARO’s traditionally military‑centric reporting streams — increases overall counts even when underlying reporting rates remain stable. [Air traffic]({{ 'air-traffic/' | relative_url }}) controllers and pilots now have a formal FAA process that feeds directly into AARO’s database, contributing reports that historically might never have entered the DoD’s catalogue. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/794668613/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">ScribdFY 2024 UAP Annual Report Summary | PDF | Unidentified Flying Object | National Reconnaissance OfficeOctober 24, 2024...</span><span class="citation-popover-meta">Published: October 24, 2024</span></span></span>
+* **Expanded reporting channels:** The inclusion of civil and commercial aviation logs — a far wider net than AARO’s traditionally military‑centric reporting streams — increases overall counts even when underlying reporting rates remain stable. [Air traffic]({{ 'air-traffic/' | relative_url }}) controllers and pilots now have a formal FAA process that feeds directly into AARO’s database, contributing reports that historically might never have entered the DoD’s catalogue. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/794668613/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">FY 2024 UAP Annual Report Summary &#124; PDF &#124; Unidentified Flying Object &#124; National Reconnaissance OfficeOctober 24, 2024...</span><span class="citation-popover-meta">Published: October 24, 2024</span></span></span>
 
 For analysts and database users, this means that **year‑to‑year totals are not strictly comparable** without accounting for changes in reporting sources and backlog processing.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9RQOEmHfYBQ" title="WATCH: New UFO files released by Pentagon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9RQOEmHfYBQ" target="_blank" rel="noopener noreferrer">WATCH: New UFO files released by Pentagon</a></p><p class="youtube-embed-meta">Channel: MS NOW &middot; Views: 232.8K &middot; Uploaded: May 2026 &middot; Length: 48 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9RQOEmHfYBQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9RQOEmHfYBQ">Open on YouTube</a></p></div></div></div>
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_faa_logs_report_tota_d53399-Illustration-3-dark.svg" | relative_url }}" alt="FAA Logs illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_faa_logs_report_tota_d53399-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_faa_logs_report_tota_d53399-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -314,13 +310,11 @@ When interpreting AARO’s annual counts, especially in the context of UFO/UAP d
 
 * **Separate in‑period reports from backlog adds:** AARO’s FY 2024 report distinguishes reports by when they *occurred* versus when they were *received*. Comparing these sub‑counts makes clearer whether a rise in totals reflects new sightings or previously unlogged records being imported. <span class="citation-chip-wrap"><a class="citation-chip" href="https://newparadigminstitute.org/learn/library/aaro-fy24-consolidated-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newparadigminstitute.org">[New Paradigm Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newparadigminstitute.org</span><span class="citation-popover-title">New Paradigm Instituteaaro fy24 consolidated report – New Paradigm Institute</span><span class="citation-popover-snippet">November 14, 2024...</span><span class="citation-popover-meta">Published: November 14, 2024</span></span></span>
 * **Understand the source mix:** Military, intelligence, and FAA civil aviation logs all feed into AARO’s dataset. Growth in one source — such as the FAA’s logs — can inflate totals even if other sources are stable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">U.S. Department of WarUNCLASSIFIEDMay 8, 2026...</span><span class="citation-popover-meta">Published: May 8, 2026</span></span></span>
-* **Expect evolving reporting infrastructure:** The FAA and AARO are still refining their information‑sharing protocols, meaning future reports may again shift how total counts are assembled or presented. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/825619489/AARO-Annual-Report-on-UAP-FY2024-Ft-AsTech" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">AARO Annual Report on UAP FY2024 Ft AsTech</span><span class="citation-popover-snippet">AARO-Annual Report On UAP-FY2024 - Ft-AsTechR | PDF | Unidentified Flying Object | National Reconnaissance OfficeJune 1, 2024 — 388 views...</span><span class="citation-popover-meta">Published: June 1, 2024</span></span></span>
+* **Expect evolving reporting infrastructure:** The FAA and AARO are still refining their information‑sharing protocols, meaning future reports may again shift how total counts are assembled or presented. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/825619489/AARO-Annual-Report-on-UAP-FY2024-Ft-AsTech" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">AARO Annual Report on UAP FY2024 Ft AsTech</span><span class="citation-popover-snippet">AARO-Annual Report On UAP-FY2024 - Ft-AsTechR &#124; PDF &#124; Unidentified Flying Object &#124; National Reconnaissance OfficeJune 1, 2024 — 388 views...</span><span class="citation-popover-meta">Published: June 1, 2024</span></span></span>
 
 Seen through this lens, the FY 2024 jump in AARO reports reflects not only data about unusual airspace observations but also the **institutional maturation of UAP logging systems**. Rather than signalling a sudden surge in unexplained phenomena, the totals capture a moment when a major new stream — civil aviation reports from the FAA — was folded into a central UAP catalogue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">DOD AARO Consolidated Annual Report on UAP Nov2024</span><span class="citation-popover-snippet">Director of National IntelligenceUNCLASSIFIEDApril 20, 2026...</span><span class="citation-popover-meta">Published: April 20, 2026</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9ZnjykfVYaE" title="The Pentagon Releases UFO Files | Mystery Wire EXTRA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9ZnjykfVYaE" target="_blank" rel="noopener noreferrer">The Pentagon Releases UFO Files | Mystery Wire EXTRA</a></p><p class="youtube-embed-meta">Channel: 8 News Now — Las Vegas &middot; Views: 106.7K &middot; Uploaded: May 2026 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9ZnjykfVYaE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9ZnjykfVYaE">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -703,47 +697,47 @@ Seen through this lens, the FY 2024 jump in AARO reports reflects not only dat
 1. <a id="endnote-1"></a>
    Source: scribd.com  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: [https://www.scribd.com/document/794668613/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508](https://www.scribd.com/document/794668613/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScribdFY 2024 UAP Annual Report Summary | PDF | Unidentified Flying Object | National Reconnaissance OfficeOctober 24, 2024...</p></details>
+   Link: <a href="https://www.scribd.com/document/794668613/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/794668613/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>FY 2024 UAP Annual Report Summary | PDF | Unidentified Flying Object | National Reconnaissance OfficeOctober 24, 2024...</p></details>
    Published: October 24, 2024  
 
 2. <a id="endnote-2"></a>
    Source: scribd.com  
    Title: AARO Annual Report on UAP FY2024 Ft AsTech  
-   Link: [https://www.scribd.com/document/825619489/AARO-Annual-Report-on-UAP-FY2024-Ft-AsTech](https://www.scribd.com/document/825619489/AARO-Annual-Report-on-UAP-FY2024-Ft-AsTech)  
+   Link: <a href="https://www.scribd.com/document/825619489/AARO-Annual-Report-on-UAP-FY2024-Ft-AsTech" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/825619489/AARO-Annual-Report-on-UAP-FY2024-Ft-AsTech</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO-Annual Report On UAP-FY2024 - Ft-AsTechR | PDF | Unidentified Flying Object | National Reconnaissance OfficeJune 1, 2024 — 388 views...</p></details>
    Published: June 1, 2024  
 
 3. <a id="endnote-3"></a>
    Source: scribd.com  
    Title: AARO Annual Report on UAP FY2024 Ft AsTechR  
-   Link: [https://www.scribd.com/document/825619489/AARO-Annual-Report-on-UAP-FY2024-Ft-AsTechR](https://www.scribd.com/document/825619489/AARO-Annual-Report-on-UAP-FY2024-Ft-AsTechR)  
+   Link: <a href="https://www.scribd.com/document/825619489/AARO-Annual-Report-on-UAP-FY2024-Ft-AsTechR" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/825619489/AARO-Annual-Report-on-UAP-FY2024-Ft-AsTechR</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO 2024 Annual UAP Report Summary | PDF | Unidentified Flying Object | National Reconnaissance OfficeJune 1, 2024 — AARO 2024 Annual UA...</p></details>
    Published: June 1, 2024  
 
 4. <a id="endnote-4"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/4/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/4/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/4/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/4/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP ImageryUAP IMAGERY Click here for more information on the use of DoW Visual Imagery NEW VIDEOS Title Date Added PR-013, Unresolv...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: dni.gov  
    Title: DOD AARO Consolidated Annual Report on UAP Nov2024  
-   Link: [https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf](https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf)  
+   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Director of National IntelligenceUNCLASSIFIEDApril 20, 2026...</p></details>
    Published: April 20, 2026  
 
 6. <a id="endnote-6"></a>
    Source: newparadigminstitute.org  
    Title: New Paradigm Instituteaaro fy24 consolidated report – New Paradigm Institute  
-   Link: [https://newparadigminstitute.org/learn/library/aaro-fy24-consolidated-report](https://newparadigminstitute.org/learn/library/aaro-fy24-consolidated-report)  
+   Link: <a href="https://newparadigminstitute.org/learn/library/aaro-fy24-consolidated-report" target="_blank" rel="noopener noreferrer nofollow">https://newparadigminstitute.org/learn/library/aaro-fy24-consolidated-report</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>November 14, 2024...</p></details>
    Published: November 14, 2024  
 
 7. <a id="endnote-7"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: [https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF](https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarUNCLASSIFIEDMay 8, 2026...</p></details>
    Published: May 8, 2026  
 
@@ -751,68 +745,68 @@ Seen through this lens, the FY 2024 jump in AARO reports reflects not only dat
 
 8. <a id="endnote-8"></a>
    Source: newspaceeconomy.ca  
-   Link: [https://newspaceeconomy.ca/2024/11/14/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena-uap/](https://newspaceeconomy.ca/2024/11/14/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena-uap/)  
+   Link: <a href="https://newspaceeconomy.ca/2024/11/14/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2024/11/14/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena-uap/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fiscal Year 2024 Consolidated Annual Report on Unidentified Anomalous Phenomena (UAP) - New Space EconomyNovember 14, 2024 — FISCAL YEAR...</p></details>
    Published: November 14, 2024  
 
 9. <a id="endnote-9"></a>
    Source: defense.gov  
    Title: DO D Examining Unidentified Anomalous Phenomena > U.S  
-   Link: [https://www.defense.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.defense.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.defense.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.defense.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense &gt; Defense Department NewsNovember 14, 2024 — DOD EXAMINING UNIDENTIFIED ANOMALOUS PHENOMENA Nov. 14, 2024 | By Davi...</p></details>
    Published: November 14, 2024  
 
 10. <a id="endnote-10"></a>
    Source: ufouap.com  
    Title: El Pentágono registró 757 informes de OVNIs en un año  
-   Link: [https://www.ufouap.com/es/articles/aaro-2024-annual-report-757-cases/](https://www.ufouap.com/es/articles/aaro-2024-annual-report-757-cases/)  
+   Link: <a href="https://www.ufouap.com/es/articles/aaro-2024-annual-report-757-cases/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufouap.com/es/articles/aaro-2024-annual-report-757-cases/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Esto es lo que encontró. — UFOUAPNovember 14, 2024 — 14 de noviembre de 2024 · UFOUAP EL PENTÁGONO REGISTRÓ 757 INFORMES DE OVNIS EN UN A...</p></details>
    Published: November 14, 2024  
 
 11. <a id="endnote-11"></a>
    Source: ufouap.com  
    Title: The Pentagon Logged 757 UFO Reports in One Year  
-   Link: [https://www.ufouap.com/articles/aaro-2024-annual-report-757-cases](https://www.ufouap.com/articles/aaro-2024-annual-report-757-cases)  
+   Link: <a href="https://www.ufouap.com/articles/aaro-2024-annual-report-757-cases" target="_blank" rel="noopener noreferrer nofollow">https://www.ufouap.com/articles/aaro-2024-annual-report-757-cases</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s What It Found. — UFOUAPNovember 14, 2024 — November 14, 2024 · UFOUAP THE PENTAGON LOGGED 757 UFO REPORTS IN ONE YEAR. HERE&#x27;S WHAT...</p></details>
    Published: November 14, 2024  
 
 12. <a id="endnote-12"></a>
    Source: uapedia.ai  
    Title: AAR O, by design: A permanent UAP office  
-   Link: [https://uapedia.ai/wiki/aaro-by-design-a-permanent-uap-office/](https://uapedia.ai/wiki/aaro-by-design-a-permanent-uap-office/)  
+   Link: <a href="https://uapedia.ai/wiki/aaro-by-design-a-permanent-uap-office/" target="_blank" rel="noopener noreferrer nofollow">https://uapedia.ai/wiki/aaro-by-design-a-permanent-uap-office/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO, by design: A permanent UAP office - UAPediaDecember 6, 2025 — WHAT THE DATA SAYS SO FAR AARO’s FY 2024 unclassified annual report o...</p></details>
    Published: December 6, 2025  
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: FAA: UAP’S Are Real  
-   Link: [http://www.youtube.com/watch?v=qCJGoO8DBv4](http://www.youtube.com/watch?v=qCJGoO8DBv4)  
+   Link: <a href="http://www.youtube.com/watch?v=qCJGoO8DBv4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=qCJGoO8DBv4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Declassified UFO Incidents 2025: Pentagon UAP Sightings &amp; Whistleblower Secrets Factopia · 13 views FULL Senate Hearing | Dr. Jon...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: videoovni.fr  
    Title: aaro rapport fy2024 757 signalements  
-   Link: [https://videoovni.fr/en/articles/aaro-rapport-fy2024-757-signalements.html](https://videoovni.fr/en/articles/aaro-rapport-fy2024-757-signalements.html)  
+   Link: <a href="https://videoovni.fr/en/articles/aaro-rapport-fy2024-757-signalements.html" target="_blank" rel="noopener noreferrer nofollow">https://videoovni.fr/en/articles/aaro-rapport-fy2024-757-signalements.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO FY2024: 757 UAP reports, 49 resolved – the… | VIDEO OVNIMay 23, 2026 — 🛡️ Official report 📊 AARO FY2024 May 23, 2026 AARO FY2024: 75...</p></details>
    Published: May 23, 2026  
 
 15. <a id="endnote-15"></a>
    Source: uapedia.ai  
    Title: AAR O and Disinformation  
-   Link: [https://www.uapedia.ai/wiki/aaro-and-disinformation/](https://www.uapedia.ai/wiki/aaro-and-disinformation/)  
+   Link: <a href="https://www.uapedia.ai/wiki/aaro-and-disinformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapedia.ai/wiki/aaro-and-disinformation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO and Disinformation - UAPediaOctober 13, 2025 — THE DATA: WHAT AARO’S OPERATIONAL REPORTING SHOWS AARO’s FY2024 Consolidated Annual R...</p></details>
    Published: October 13, 2025  
 
 16. <a id="endnote-16"></a>
    Source: ufocosmos.com  
    Title: aaro annual report 2024  
-   Link: [https://www.ufocosmos.com/news/aaro-annual-report-2024](https://www.ufocosmos.com/news/aaro-annual-report-2024)  
+   Link: <a href="https://www.ufocosmos.com/news/aaro-annual-report-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocosmos.com/news/aaro-annual-report-2024</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO 2024 Report: 1,600+ UAP Cases, 21 Flagged for Further Analysis · UFOCosmosNovember 22, 2024 — AARO 2024 REPORT: 1,600+ UAP CASES, 21...</p></details>
    Published: November 22, 2024  
 
 17. <a id="endnote-17"></a>
    Source: disclosuremonitor.com  
    Title: government investigatio  
-   Link: [https://disclosuremonitor.com/documents/aaro-annual-report-2024](https://disclosuremonitor.com/documents/aaro-annual-report-2024)  
+   Link: <a href="https://disclosuremonitor.com/documents/aaro-annual-report-2024" target="_blank" rel="noopener noreferrer nofollow">https://disclosuremonitor.com/documents/aaro-annual-report-2024</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Annual Report on Unidentified Anomalous Phenomena (2024) | Disclosure MonitorJune 1, 2024 — AARO ANNUAL REPORT ON UNIDENTIFIED ANOMA...</p></details>
-   Published: June 1, 2024  
+   Published: June 1, 2024

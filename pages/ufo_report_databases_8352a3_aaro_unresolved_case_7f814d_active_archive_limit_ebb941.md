@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /aaro/
 nav_short_title: Active Archive
 title: What AARO's Active Archive Really Means
-title_full: What AARO's Active Archive Really Means | AARO
+title_full: What AARO's Active Archive Really Means
 display_title_short: Active Archive
 display_title: Active Archive
 heading_title: What AARO's Active Archive Really Means
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 22:17:15'
-parent_title: Why AARO Cases Remain Unresolved | UFO Archives
+parent_title: Why AARO Cases Remain Unresolved
 parent_permalink: /aaro/
 parent_nav_short_title: AARO
 parent_heading_title: Why AARO Cases Remain Unresolved
@@ -270,14 +270,12 @@ image: /assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_ac
 
 A common misunderstanding in UFO databases is the assumption that an unresolved case is automatically evidence of something extraordinary. [AARO]({{ 'aaro/' | relative_url }})'s “Active Archive” category shows why that assumption is often wrong. In AARO's reporting system, many cases remain open not because investigators have confirmed anomalous performance, but because the underlying evidence is too limited, incomplete, degraded or fragmentary to support a reliable conclusion. The archive functions as a holding area for unresolved reports that may become analysable later if additional information appears. It is therefore better understood as a data-quality category than as a catalogue of confirmed mysteries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[dni.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">DOD AARO Consolidated Annual Report on UAP Nov2024</span><span class="citation-popover-snippet">All-domain Anomaly Resolution Office FY 2024...The remaining 444 cases lacked sufficient data to facilitate analysis and were placed in...</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_active_archive_limit_ebb941-Illustration-1-dark.svg" | relative_url }}" alt="Active Archive illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_active_archive_limit_ebb941-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_active_archive_limit_ebb941-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction matters when readers encounter UFO databases that count [unresolved cases]({{ 'unresolved-cases/' | relative_url }}) as if they all represented unexplained technology. AARO's own reports repeatedly separate genuinely interesting cases from a much larger pool of reports that simply lack enough information for confident identification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[dni.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">4020 uap 2024</span><span class="citation-popover-snippet">2024 Consolidated Annual Report on Unidentified...14 Nov 2024 — The classified report has been submitted to Congress, and the unclassifi...</span></span></span>
 
 ## What the Active Archive category includes
 
-The clearest description comes from AARO's FY2024 consolidated report. Out of 757 reports received during the reporting period, 444 were placed into the Active Archive because they “lacked sufficient data to facilitate analysis”. The office stated that these records would be retained for trend analysis and could be re-examined if new information became available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/825619489/AARO-Annual-Report-on-UAP-FY2024-Ft-AsTechR" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">AARO Annual Report on UAP FY2024 Ft AsTechR</span><span class="citation-popover-snippet">AARO 2024 Annual UAP Report Summary | PDFThe remaining 444 cases lacked sufficient data to facilitate analysis and were placed in the Act...</span></span></span> This means Active Archive cases are not a special class of highly anomalous sightings. They are often reports where investigators cannot confidently reconstruct what happened because critical information is absent. Missing elements may include:
-
+The clearest description comes from AARO's FY2024 consolidated report. Out of 757 reports received during the reporting period, 444 were placed into the Active Archive because they “lacked sufficient data to facilitate analysis”. The office stated that these records would be retained for trend analysis and could be re-examined if new information became available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/825619489/AARO-Annual-Report-on-UAP-FY2024-Ft-AsTechR" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">AARO Annual Report on UAP FY2024 Ft AsTechR</span><span class="citation-popover-snippet">AARO 2024 Annual UAP Report Summary &#124; PDFThe remaining 444 cases lacked sufficient data to facilitate analysis and were placed in the Act...</span></span></span> This means Active Archive cases are not a special class of highly anomalous sightings. They are often reports where investigators cannot confidently reconstruct what happened because critical information is absent. Missing elements may include:
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -291,7 +289,7 @@ The clearest description comes from AARO's FY2024 consolidated report. Out of 75
 
 </div>
 
-Without those elements, even a striking image or video can remain unresolved for purely evidential reasons. AARO has repeatedly stated that archived cases may later be reopened and resolved if better supporting information emerges. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[dni.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">DOD AARO Consolidated Annual Report on UAP Nov2024</span><span class="citation-popover-snippet">All-domain Anomaly Resolution Office FY 2024...The remaining 444 cases lacked sufficient data to facilitate analysis and were placed in...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dr jon kosloski director aaro media roundtable on the fy24 consolidated annual</span><span class="citation-popover-snippet">Department of WarDr. Jon Kosloski, Director, AARO, Media Roundtable on the...14 Nov 2024 — Meanwhile, over 900 reports lack sufficient d...</span></span></span>
+Without those elements, even a striking image or video can remain unresolved for purely evidential reasons. AARO has repeatedly stated that archived cases may later be reopened and resolved if better supporting information emerges. [dni.gov+2U.S. Department of War]
 
 The category therefore resembles an evidence backlog more than a collection of confirmed anomalies.
 
@@ -305,13 +303,11 @@ Many military and aviation reports depend on infrared cameras, targeting systems
 
 AARO has published examples in which available imagery showed an apparent object or heat signature, yet analysts could not determine whether the effect represented a physical object, a sensor artefact, a reflection, an environmental phenomenon or another explanation. In several public case releases, the office explicitly stated that available data were insufficient to evaluate performance characteristics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=rhP8VdCIz9A" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">You Tube UAP FILES</span><span class="citation-popover-snippet">UAP FILES - Visual Evidence from 3 Cases over Africa (2022...The available data is insufficient to evaluate the phenomenon&#x27;s...</span></span></span> DVIDS This is an important distinction. An inability to determine what a sensor recorded is not the same thing as evidence that the object displaye <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[dvidshub.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">Video - PR-017, Unresolved UAP Report, Europe 2024This unresolved report contributes to AARO&#x27;s historical and locational trend analyses...</span></span></span> d impossible behaviour.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mvsU4p0Gsas" title="Breaking Down UAP Footage with the Head of The Pentagon’s UAP Taskforce, Dr. Jon Kosloski" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mvsU4p0Gsas" target="_blank" rel="noopener noreferrer">Breaking Down UAP Footage with the Head of The Pentagon’s UAP Taskforce, Dr. Jon Kosloski</a></p><p class="youtube-embed-meta">Channel: StarTalk &middot; Views: 1.5M &middot; Uploaded: August 2025 &middot; Length: 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mvsU4p0Gsas" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mvsU4p0Gsas">Open on YouTube</a></p></div></div></div>
 
 ### Short clips often remove crucial context
 
 A dramatic few seconds of footage may omit the information needed for analysis. Investigators typically want:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -334,7 +330,6 @@ Pilot and observer reports are valuable because they alert investigators to unus
 
 A witness may accurately report seeing something unusual while still lacking the information needed to determine what the object was. In database terms, that can produce a legitimate report that remains unresolved without implying a confirmed anomaly.
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_active_archive_limit_ebb941-Illustration-2-dark.svg" | relative_url }}" alt="Active Archive illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_active_archive_limit_ebb941-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_active_archive_limit_ebb941-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The difference between archived cases and genuinely anomalous cases
 
@@ -350,7 +345,6 @@ CategoryMain reason for statusResolved caseEvidence supports a conventional expl
 
 An archived report may ultimately turn out to involve a balloon, drone, aircraft, sensor effect or something genuinely unusual. The archive designation alone does not tell readers which outcome is more likely. It only indicates that investigators currently lack sufficient information.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lppkvUH19b8" title="Pentagon Reveals 757 UAP Sightings With Near Miss Safety Concerns" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lppkvUH19b8" target="_blank" rel="noopener noreferrer">Pentagon Reveals 757 UAP Sightings With Near Miss Safety Concerns</a></p><p class="youtube-embed-meta">Channel: electron media group, inc. &middot; Views: 6.8K &middot; Uploaded: November 2024 &middot; Length: 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lppkvUH19b8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lppkvUH19b8">Open on YouTube</a></p></div></div></div>
 
 ## How archive status can be misread in UFO databases
@@ -358,7 +352,6 @@ An archived report may ultimately turn out to involve a balloon, drone, aircraft
 Many UFO catalogues combine reports from military files, civilian sightings, historical [archives]({{ 'archives/' | relative_url }}) and media accounts. In such databases, unresolved often becomes a catch-all label.
 
 That can create a misleading impression when readers scan case totals. A database may contain hundreds of unresolved reports, yet the reasons for non-resolution can vary dramatically:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -372,18 +365,16 @@ That can create a misleading impression when readers scan case totals. A databas
 
 </div>
 
-AARO's Active Archive highlights this problem because it explicitly identifies insufficient data as the reason many reports remain open. The office's own language cautions against treating all unresolved cases as evidence of extraordinary objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[dni.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">4020 uap 2024</span><span class="citation-popover-snippet">2024 Consolidated Annual Report on Unidentified...14 Nov 2024 — The classified report has been submitted to Congress, and the unclassifi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dr jon kosloski director aaro media roundtable on the fy24 consolidated annual</span><span class="citation-popover-snippet">Department of WarDr. Jon Kosloski, Director, AARO, Media Roundtable on the...14 Nov 2024 — Meanwhile, over 900 reports lack sufficient d...</span></span></span>
+AARO's Active Archive highlights this problem because it explicitly identifies insufficient data as the reason many reports remain open. The office's own language cautions against treating all unresolved cases as evidence of extraordinary objects. [dni.gov+2U.S. Department of War]
 
 The misunderstanding becomes especially pronounced online, where unresolved case counts are sometimes presented as if they represent confirmed unexplained phenomena. In reality, an unresolved category often measures the limits of available information rather than the strength of evidence for an exotic explanation.
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_active_archive_limit_ebb941-Illustration-3-dark.svg" | relative_url }}" alt="Active Archive illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_active_archive_limit_ebb941-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_active_archive_limit_ebb941-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the archive still matters
 
 Recognising that Active Archive cases are not confirmed anomalies does not make them unimportant.
 
-Large archives can reveal reporting patterns, geographic [clusters]({{ 'clusters/' | relative_url }}), recurring sensor issues and emerging trends that are not obvious from individual incidents. AARO has stated that archived reports are retained for pattern-of-life and trend analysis and may be revisited if additional data become available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/825619489/AARO-Annual-Report-on-UAP-FY2024-Ft-AsTechR" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">AARO Annual Report on UAP FY2024 Ft AsTechR</span><span class="citation-popover-snippet">AARO 2024 Annual UAP Report Summary | PDFThe remaining 444 cases lacked sufficient data to facilitate analysis and were placed in the Act...</span></span></span> This is a common practice in intelligence and aviation investigations. Cases that cannot be solved today may become clearer when:
-
+Large archives can reveal reporting patterns, geographic [clusters]({{ 'clusters/' | relative_url }}), recurring sensor issues and emerging trends that are not obvious from individual incidents. AARO has stated that archived reports are retained for pattern-of-life and trend analysis and may be revisited if additional data become available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/825619489/AARO-Annual-Report-on-UAP-FY2024-Ft-AsTechR" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">AARO Annual Report on UAP FY2024 Ft AsTechR</span><span class="citation-popover-snippet">AARO 2024 Annual UAP Report Summary &#124; PDFThe remaining 444 cases lacked sufficient data to facilitate analysis and were placed in the Act...</span></span></span> This is a common practice in intelligence and aviation investigations. Cases that cannot be solved today may become clearer when:
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -397,12 +388,11 @@ Large archives can reveal reporting patterns, geographic [clusters]({{ 'clusters
 
 The archive therefore serves as a research resource rather than a list of confirmed unknown craft.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rhP8VdCIz9A" title="UAP FILES - Visual Evidence from 3 Cases over Africa (2022-2024)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rhP8VdCIz9A" target="_blank" rel="noopener noreferrer">UAP FILES - Visual Evidence from 3 Cases over Africa (2022-2024)</a></p><p class="youtube-embed-meta">Channel: Media Magik Entertainment &middot; Views: 1.3K &middot; Uploaded: August 2025 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rhP8VdCIz9A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rhP8VdCIz9A">Open on YouTube</a></p></div></div></div>
 
 ## The key lesson for UFO catalogue readers
 
-AARO's Active Archive is best understood as a reminder that unresolved does not automatically mean anomalous. The category primarily reflects evidential limits: reports where investigators cannot confidently determine what happened because the record is incomplete. Official statistics show a clear distinction between cases lacking sufficient data and the much smaller number flagged for deeper analysis because of reported unusual characteristics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[dni.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">4020 uap 2024</span><span class="citation-popover-snippet">2024 Consolidated Annual Report on Unidentified...14 Nov 2024 — The classified report has been submitted to Congress, and the unclassifi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dr jon kosloski director aaro media roundtable on the fy24 consolidated annual</span><span class="citation-popover-snippet">Department of WarDr. Jon Kosloski, Director, AARO, Media Roundtable on the...14 Nov 2024 — Meanwhile, over 900 reports lack sufficient d...</span></span></span>
+AARO's Active Archive is best understood as a reminder that unresolved does not automatically mean anomalous. The category primarily reflects evidential limits: reports where investigators cannot confidently determine what happened because the record is incomplete. Official statistics show a clear distinction between cases lacking sufficient data and the much smaller number flagged for deeper analysis because of reported unusual characteristics. [dni.gov+2U.S. Department of War]
 
 For anyone using [UFO report databases and catalogues]({{ 'ufo-report-databases-and-catalogues/' | relative_url }}), that distinction is crucial. A large unresolved count may indicate gaps in observation, documentation and sensor coverage rather than a large inventory of confirmed extraordinary events. The Active Archive category exists precisely because uncertainty is not the same thing as evidence.
 
@@ -803,115 +793,115 @@ For anyone using [UFO report databases and catalogues]({{ 'ufo-report-databases-
 1. <a id="endnote-1"></a>
    Source: dni.gov  
    Title: DOD AARO Consolidated Annual Report on UAP Nov2024  
-   Link: [https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf](https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf)  
+   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution Office FY 2024...The remaining 444 cases lacked sufficient data to facilitate analysis and were placed in...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: war.gov  
    Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/](https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDr. Jon Kosloski, Director, AARO, Media Roundtable on the...14 Nov 2024 — Meanwhile, over 900 reports lack sufficient d...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: scribd.com  
    Title: AARO Annual Report on UAP FY2024 Ft AsTechR  
-   Link: [https://www.scribd.com/document/825619489/AARO-Annual-Report-on-UAP-FY2024-Ft-AsTechR](https://www.scribd.com/document/825619489/AARO-Annual-Report-on-UAP-FY2024-Ft-AsTechR)  
+   Link: <a href="https://www.scribd.com/document/825619489/AARO-Annual-Report-on-UAP-FY2024-Ft-AsTechR" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/825619489/AARO-Annual-Report-on-UAP-FY2024-Ft-AsTechR</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO 2024 Annual UAP Report Summary | PDFThe remaining 444 cases lacked sufficient data to facilitate analysis and were placed in the Act...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: dni.gov  
    Title: 4020 uap 2024  
-   Link: [https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024](https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024)  
+   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>2024 Consolidated Annual Report on Unidentified...14 Nov 2024 — The classified report has been submitted to Congress, and the unclassifi...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: youtube.com  
    Title: You Tube UAP FILES  
-   Link: [https://www.youtube.com/watch?v=rhP8VdCIz9A](https://www.youtube.com/watch?v=rhP8VdCIz9A)  
+   Link: <a href="https://www.youtube.com/watch?v=rhP8VdCIz9A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rhP8VdCIz9A</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP FILES - Visual Evidence from 3 Cases over Africa (2022...The available data is insufficient to evaluate the phenomenon&#x27;s...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024](https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024)  
+   Link: <a href="https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Video - PR-017, Unresolved UAP Report, Europe 2024This unresolved report contributes to AARO&#x27;s historical and locational trend analyses...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/988676/pr-018-unresolved-uap-report-europe-2024](https://www.dvidshub.net/video/988676/pr-018-unresolved-uap-report-europe-2024)  
+   Link: <a href="https://www.dvidshub.net/video/988676/pr-018-unresolved-uap-report-europe-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/988676/pr-018-unresolved-uap-report-europe-2024</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Video - PR-018, Unresolved UAP Report, Europe 2024This unresolved report contributes to AARO&#x27;s historical and locational trend analyses...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryAARO will continue to investigate this case should further information become available to enable a more conclusive attributio...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeThe official website for the All-domain Anomaly Resolution Office (AARO)... Anomalous Phenomena Reporting and Material Disposit...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>14 Nov 2024 — Over 900 reports lack sufficient scientific data for analysis and are retained in an active archive. These cases may be reo...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/](https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anomaly Resolution Office&#x27;s Annual Report on Unidentified Anomalous Phenomena... AARO has been reviewing to over 1,600 as of June 1, 202...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: GOV.UK  
    Title: annual report 1 april 2024 to 31 march 2025  
-   Link: [https://www.gov.uk/government/publications/independent-examiner-of-complaints-annual-report-2024-to-2025/annual-report-1-april-2024-to-31-march-2025](https://www.gov.uk/government/publications/independent-examiner-of-complaints-annual-report-2024-to-2025/annual-report-1-april-2024-to-31-march-2025)  
+   Link: <a href="https://www.gov.uk/government/publications/independent-examiner-of-complaints-annual-report-2024-to-2025/annual-report-1-april-2024-to-31-march-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/independent-examiner-of-complaints-annual-report-2024-to-2025/annual-report-1-april-2024-to-31-march-2025</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In the case of UKVI the most common complaint categories were delay, failure...Read more...</p></details>
    Published: april 2024  
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: SASC Hearing on AARO & UAPs — Dr. Jon Kosloski Testimony (  
-   Link: [http://www.youtube.com/watch?v=u64qdq251rE](http://www.youtube.com/watch?v=u64qdq251rE)  
+   Link: <a href="http://www.youtube.com/watch?v=u64qdq251rE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=u64qdq251rE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FULL Senate Hearing | Dr. Jon T. Kosloski Testifies UAPs Armed Services Subcommittee (Nov. 19, 2024)...</p></details>
    Published: November 19, 2024  
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=rMnvrmZf2Mc](http://www.youtube.com/watch?v=rMnvrmZf2Mc)  
+   Link: <a href="http://www.youtube.com/watch?v=rMnvrmZf2Mc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=rMnvrmZf2Mc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Breaking Down UAP Footage with the Head of The Pentagon’s UAP Taskforce, Dr. Jon Kosloski...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=mvsU4p0Gsas](http://www.youtube.com/watch?v=mvsU4p0Gsas)  
+   Link: <a href="http://www.youtube.com/watch?v=mvsU4p0Gsas" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=mvsU4p0Gsas</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Reveals 757 UAP Sightings With Near Miss Safety Concerns...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: Pentagon Reveals 757 UAP Sightings With Near Miss Safety Concerns  
-   Link: [http://www.youtube.com/watch?v=lppkvUH19b8](http://www.youtube.com/watch?v=lppkvUH19b8)  
+   Link: <a href="http://www.youtube.com/watch?v=lppkvUH19b8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=lppkvUH19b8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DOD’s 2024 UAP Report. Me &amp; Avi Loeb LIVE Saturday 1-3 PM EDT #UAP #Interstellar #timetravel...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=p0xD3P8IWM4](http://www.youtube.com/watch?v=p0xD3P8IWM4)  
+   Link: <a href="http://www.youtube.com/watch?v=p0xD3P8IWM4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=p0xD3P8IWM4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PR-018: Unresolved UAP Report | Europe 2024 (Official Footage)...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=dJoS6UsvO0g](http://www.youtube.com/watch?v=dJoS6UsvO0g)  
+   Link: <a href="http://www.youtube.com/watch?v=dJoS6UsvO0g" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=dJoS6UsvO0g</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>162 UFO Files Declassified — Every Single Case: Unresolved...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: 162 UFO Files Declassified — Every Single Case: Unresolved  
-   Link: [http://www.youtube.com/watch?v=gnaFFO9je8U](http://www.youtube.com/watch?v=gnaFFO9je8U)  
+   Link: <a href="http://www.youtube.com/watch?v=gnaFFO9je8U" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=gnaFFO9je8U</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Jon Kosloski&quot; AARO Senate Hearing UAP 2024 Hearing on Unidentified Anomalous/UFO Phenomena 11.12.2024 Galactic Reconnaissance...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: nypost.com  
    Title: pentagon says nearly two dozen ufo sightings cant be explained true anomalies  
-   Link: [https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/](https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/)  
+   Link: <a href="https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anomaly Resolution Office (AARO) website. AARO / SWNS... merit further analysis based on reported anomalous characteristics and/or behav...</p></details>
 
 ### Additional References
@@ -919,59 +909,59 @@ For anyone using [UFO report databases and catalogues]({{ 'ufo-report-databases-
 21. <a id="endnote-21"></a>
    Source: facebook.com  
    Title: the latest aaro report on uaps which was released in late 2024 touched on hundre  
-   Link: [https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/](https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/)  
+   Link: <a href="https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The latest AARO report on UAPs, which was released in...The latest AARO report on UAPs, which was released in late 2024, touched on hund...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Record Report Volume 18 Mar 2024 — All-domain Anomaly Resolution Office (AARO) (Established July 15... potentially anomalous...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: newspaceeconomy.ca  
-   Link: [https://newspaceeconomy.ca/2024/11/14/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena-uap/](https://newspaceeconomy.ca/2024/11/14/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena-uap/)  
+   Link: <a href="https://newspaceeconomy.ca/2024/11/14/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2024/11/14/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena-uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>For cases that cannot be conclusively analyzed, AARO uses an “Active Archive” system to store incomplete reports...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: cepr.net  
    Title: preying on the dying private equity gets rich in hospice care  
-   Link: [https://cepr.net/publications/preying-on-the-dying-private-equity-gets-rich-in-hospice-care/](https://cepr.net/publications/preying-on-the-dying-private-equity-gets-rich-in-hospice-care/)  
+   Link: <a href="https://cepr.net/publications/preying-on-the-dying-private-equity-gets-rich-in-hospice-care/" target="_blank" rel="noopener noreferrer nofollow">https://cepr.net/publications/preying-on-the-dying-private-equity-gets-rich-in-hospice-care/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Preying on the Dying: Private Equity Gets Rich in Hospice...25 Apr 2023 — The report concluded that inadequate licensing and investigati...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: dataprotection.ie  
    Title: data protection commission publishes 2024 annual report  
-   Link: [https://www.dataprotection.ie/en/data-protection-commission-publishes-2024-annual-report](https://www.dataprotection.ie/en/data-protection-commission-publishes-2024-annual-report)  
+   Link: <a href="https://www.dataprotection.ie/en/data-protection-commission-publishes-2024-annual-report" target="_blank" rel="noopener noreferrer nofollow">https://www.dataprotection.ie/en/data-protection-commission-publishes-2024-annual-report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>19 Jun 2025 — The Data Protection Commission has today launched its Annual Report for 2024 and released the results of its first Public A...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: csiro.au  
    Title: 25 00169 CORP REPORT AnnualReport2024 25 WEB 251022  
-   Link: [https://www.csiro.au/-/media/About/AnnualReport/Files/2024-25/25-00169_CORP_REPORT_AnnualReport2024-25_WEB_251022.pdf](https://www.csiro.au/-/media/About/AnnualReport/Files/2024-25/25-00169_CORP_REPORT_AnnualReport2024-25_WEB_251022.pdf)  
+   Link: <a href="https://www.csiro.au/-/media/About/AnnualReport/Files/2024-25/25-00169_CORP_REPORT_AnnualReport2024-25_WEB_251022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.csiro.au/-/media/About/AnnualReport/Files/2024-25/25-00169_CORP_REPORT_AnnualReport2024-25_WEB_251022.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report 2024-2524 Sept 2025 — Our 2024–25 Annual Report provides a summary of our activities and performance for the financial year...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: uscc.gov  
    Title: 2024 Annual Report to Congress  
-   Link: [https://www.uscc.gov/sites/default/files/2024-11/2024_Annual_Report_to_Congress.pdf](https://www.uscc.gov/sites/default/files/2024-11/2024_Annual_Report_to_Congress.pdf)  
+   Link: <a href="https://www.uscc.gov/sites/default/files/2024-11/2024_Annual_Report_to_Congress.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uscc.gov/sites/default/files/2024-11/2024_Annual_Report_to_Congress.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>19 Nov 2024 — The Commission was created on October 30, 2000 by the Floyd D. Spence Na- tional Defense Authorization Act for Fiscal Year...</p></details>
    Published: October 30, 2000  
 
 28. <a id="endnote-28"></a>
    Source: sec.gov  
-   Link: [https://www.sec.gov/Archives/edgar/data/1583708/000158370824000033/sentineloneincfy2024annual.pdf](https://www.sec.gov/Archives/edgar/data/1583708/000158370824000033/sentineloneincfy2024annual.pdf)  
+   Link: <a href="https://www.sec.gov/Archives/edgar/data/1583708/000158370824000033/sentineloneincfy2024annual.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1583708/000158370824000033/sentineloneincfy2024annual.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FY2024 Annual Report27 Mar 2024 — The aggregate market value of voting stock held by non-affiliates of the registrant on July 31, 2023, b...</p></details>
    Published: July 31, 2023  
 
 29. <a id="endnote-29"></a>
    Source: reddit.com  
    Title: This report remains unresolved due to lack of technical data.Read more  
-   Link: [https://www.reddit.com/r/UFOs/comments/1ko9q2o/aaro_has_posted_another_unresolved_case_video/](https://www.reddit.com/r/UFOs/comments/1ko9q2o/aaro_has_posted_another_unresolved_case_video/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ko9q2o/aaro_has_posted_another_unresolved_case_video/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ko9q2o/aaro_has_posted_another_unresolved_case_video/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO has posted another unresolved case (video): &quot;This...This footage, captured by an infrared sensor in 2024, was later reported to AAR...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: federalreserve.gov  
    Title: 2024 annual report  
-   Link: [https://www.federalreserve.gov/publications/files/2024-annual-report.pdf](https://www.federalreserve.gov/publications/files/2024-annual-report.pdf)  
+   Link: <a href="https://www.federalreserve.gov/publications/files/2024-annual-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.federalreserve.gov/publications/files/2024-annual-report.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2024-annual-report.pdf15 Mar 2020 — The Federal Reserve conducts the nation&#x27;s monetary policy to promote maximum employment, stable price...</p></details>

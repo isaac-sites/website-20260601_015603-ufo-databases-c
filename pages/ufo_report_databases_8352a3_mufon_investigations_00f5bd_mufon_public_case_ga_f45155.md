@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /mufon/
 nav_short_title: Public gaps
 title: Why Public UFO Snippets Are Not Enough
-title_full: Why Public UFO Snippets Are Not Enough | MUFON
+title_full: Why Public UFO Snippets Are Not Enough
 display_title_short: Public gaps
 display_title: Public gaps
 heading_title: Why Public UFO Snippets Are Not Enough
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 18:33:34'
-parent_title: How MUFON Turns Sightings Into Cases | UFO Archives
+parent_title: How MUFON Turns Sightings Into Cases
 parent_permalink: /mufon/
 parent_nav_short_title: MUFON
 parent_heading_title: How MUFON Turns Sightings Into Cases
@@ -274,14 +274,12 @@ image: /assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mu
 
 ## Introduction
 
-Public [MUFON]({{ 'mufon/' | relative_url }}) case listings are useful, but they are only the visible tip of a much larger case record. A typical public snippet may provide a date, location, object description and a short witness narrative. What it usually does not show is the investigative work that determines whether a sighting remains unexplained, was misidentified, lacks sufficient evidence, or contains contradictions that emerged during follow-up. Understanding that gap is essential when using UFO databases as research tools. Public entries can help identify leads and patterns, but they rarely provide enough information to evaluate a case's evidential strength on their own. MUFON's own systems are designed to collect far more information than appears in short public summaries, and much of that material remains within its Case Management System (CMS) or investigator files. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">MUFONMufon&#x27;s Ufo, Et Research Tracking ToolsThe MUFON Case Management System (CMS) is a powerful tool designed to help researchers, inves...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/the-scientific-method/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">MUFONThe Scientific MethodAmong the parameters collected on UFO reports include: date, time, latitude, longitude, witness report, witness...</span></span></span>
-
+Public [MUFON]({{ 'mufon/' | relative_url }}) case listings are useful, but they are only the visible tip of a much larger case record. A typical public snippet may provide a date, location, object description and a short witness narrative. What it usually does not show is the investigative work that determines whether a sighting remains unexplained, was misidentified, lacks sufficient evidence, or contains contradictions that emerged during follow-up. Understanding that gap is essential when using UFO databases as research tools. Public entries can help identify leads and patterns, but they rarely provide enough information to evaluate a case's evidential strength on their own. MUFON's own systems are designed to collect far more information than appears in short public summaries, and much of that material remains within its Case Management System (CMS) or investigator files. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">Mufon&#x27;s Ufo, Et Research Tracking ToolsThe MUFON Case Management System (CMS) is a powerful tool designed to help researchers, inves...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/the-scientific-method/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">The Scientific MethodAmong the parameters collected on UFO reports include: date, time, latitude, longitude, witness report, witness...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_public_case_ga_f45155-Illustration-1-dark.svg" | relative_url }}" alt="Public gaps illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_public_case_ga_f45155-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_public_case_ga_f45155-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What public listings usually show
 
 A public MUFON entry generally functions as an intake record rather than a complete investigation. The information most commonly visible includes:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -293,9 +291,9 @@ A public MUFON entry generally functions as an intake record rather than a compl
 
 </div>
 
-These fields help researchers identify potentially interesting reports and compare them with known astronomical, aviation or environmental events. They also make it possible to track broad reporting trends across time and geography. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/search_database-terms-and-conditions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">MUFONSearch Database Terms and ConditionsThe Mutual UFO Network (MUFON) allows active members to access certain parts of our Case Managem...</span></span></span>
+These fields help researchers identify potentially interesting reports and compare them with known astronomical, aviation or environmental events. They also make it possible to track broad reporting trends across time and geography. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/search_database-terms-and-conditions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">Search Database Terms and ConditionsThe Mutual UFO Network (MUFON) allows active members to access certain parts of our Case Managem...</span></span></span>
 
-The problem is that a witness's initial description is often the least reliable stage of an investigation. MUFON itself states that reports collect much more detailed information, including directional data, witness background information, timing, brightness, location coordinates and other observational parameters intended to support later analysis. Those details are not necessarily visible in a public summary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/become-a-mufon-field-investigator/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">MUFONBecome a Mufon Field InvestigatorTrack UFOs · Field Investigator CMS Login · Become a Field Investigator · Report a UFO · Report an...</span></span></span>
+The problem is that a witness's initial description is often the least reliable stage of an investigation. MUFON itself states that reports collect much more detailed information, including directional data, witness background information, timing, brightness, location coordinates and other observational parameters intended to support later analysis. Those details are not necessarily visible in a public summary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/become-a-mufon-field-investigator/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">Become a Mufon Field InvestigatorTrack UFOs · Field Investigator CMS Login · Become a Field Investigator · Report a UFO · Report an...</span></span></span>
 
 As a result, two public snippets may look equally compelling even though one later proved to be a satellite flare, aircraft, drone or astronomical object while the other resisted straightforward explanation. The public view often does not reveal which path the investigation ultimately followed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/cms-ifo-info/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">CMS IFO InfoAll witnesses who attach files to this report must acknowledge that by clicking the CONTINUE WITH REPORT button below, that t...</span></span></span>
 
@@ -303,15 +301,13 @@ As a result, two public snippets may look equally compelling even though one lat
 
 The largest gap between a public snippet and a full MUFON case is the investigative record.
 
-MUFON's CMS was built not only as a repository for witness narratives but also for investigation reports, photographs, videos, sketches, documents and supporting materials associated with a case. Investigators can attach their findings directly to the case record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slideserve.com/alcina/mufon-case-management-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slideserve.com">[SlideServe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slideserve.com</span><span class="citation-popover-title">mufon case management system</span><span class="citation-popover-snippet">SlideServeMUFON Case Management System5 Sept 2014 — Allows a witness to easily REPORT their UFO Sighting to MUFON via the Internet • A RE...</span></span></span>
-
+MUFON's CMS was built not only as a repository for witness narratives but also for investigation reports, photographs, videos, sketches, documents and supporting materials associated with a case. Investigators can attach their findings directly to the case record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slideserve.com/alcina/mufon-case-management-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slideserve.com">[SlideServe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slideserve.com</span><span class="citation-popover-title">mufon case management system</span><span class="citation-popover-snippet">MUFON Case Management System5 Sept 2014 — Allows a witness to easily REPORT their UFO Sighting to MUFON via the Internet • A RE...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6u0F2_k2o4o" title="America’s Most Mysterious UFO Cases | Expedition Unknown: Hunt For Extraterrestrials S1E4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6u0F2_k2o4o" target="_blank" rel="noopener noreferrer">America’s Most Mysterious UFO Cases | Expedition Unknown: Hunt For Extraterrestrials S1E4</a></p><p class="youtube-embed-meta">Channel: DiscoveryChannelInd &middot; Views: 29.3K &middot; Uploaded: January 2026 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6u0F2_k2o4o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6u0F2_k2o4o">Open on YouTube</a></p></div></div></div>
 
 ### Witness interviews and clarification
 
 Initial reports are often incomplete. Investigators may contact witnesses to clarify:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -323,14 +319,13 @@ Initial reports are often incomplete. Investigators may contact witnesses to cla
 
 </div>
 
-These follow-up conversations can significantly alter the interpretation of an event. A dramatic narrative may become more mundane after clarification, while an initially vague report may gain credibility through consistent testimony and additional corroboration. MUFON's investigator training specifically emphasises interview procedures and investigative methods. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">MUFON: HomeRead and Search MUFON Case Management System Reports; Monthly MUFON e-Journal with Exclusive UFO Coverage; Access to The Obser...</span></span></span>
+These follow-up conversations can significantly alter the interpretation of an event. A dramatic narrative may become more mundane after clarification, while an initially vague report may gain credibility through consistent testimony and additional corroboration. MUFON's investigator training specifically emphasises interview procedures and investigative methods. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">HomeRead and Search MUFON Case Management System Reports; Monthly MUFON e-Journal with Exclusive UFO Coverage; Access to The Obser...</span></span></span>
 
 ### Media analysis
 
 Public snippets may mention photos or videos without showing the analysis performed on them.
 
 Investigator files can include examinations of image metadata, comparisons with known aircraft routes, satellite passes, astronomical objects, weather conditions and other possible explanations. In some cases, attached files themselves are not publicly available even though they exist within the case record. MUFON's database terms explicitly reference access to narratives, photographs, videos, documents and PDFs as a membership privilege rather than fully open public material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/historical/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">Famous UFO CasesWe invite you to read more about seven of the most famous UFO cases in recorded history. For each, MUFON has compiled cas...</span></span></span>
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_public_case_ga_f45155-Illustration-2-dark.svg" | relative_url }}" alt="Public gaps illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_public_case_ga_f45155-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_public_case_ga_f45155-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Dispositions and alternative explanations
@@ -341,7 +336,6 @@ MUFON describes its investigative approach as attempting to identify ordinary ex
 
 This matters because reports entering a database and reports surviving investigation are not the same thing. MUFON officials have acknowledged that many incoming reports are eventually identified or judged insufficiently unusual. Astronomy reporting on MUFON's case-processing experience has similarly noted that a substantial proportion of reports are considered identifiable after investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astronomy.com/science/reports-of-rising-ufo-sightings-are-greatly-exaggerated/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomy.com">[Astronomy Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomy.com</span><span class="citation-popover-title">reports of rising ufo sightings are greatly exaggerated</span><span class="citation-popover-snippet">Astronomy MagazineReports of rising UFO sightings are greatly exaggerated2 Oct 2020 — Around 2012, Hudgeons says that MUFON started to no...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NJdt9Dxvfvo" title="MUFON Unmasks the Truth! | UFO&#x27;s Over Earth | Discovery Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NJdt9Dxvfvo" target="_blank" rel="noopener noreferrer">MUFON Unmasks the Truth! | UFO&#x27;s Over Earth | Discovery Channel</a></p><p class="youtube-embed-meta">Channel: DiscoveryChannelInd &middot; Views: 539.8K &middot; Uploaded: May 2025 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NJdt9Dxvfvo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NJdt9Dxvfvo">Open on YouTube</a></p></div></div></div>
 
 ## Why missing context can change a case's meaning
@@ -349,7 +343,6 @@ This matters because reports entering a database and reports surviving investiga
 A reader encountering a public UFO report often sees only the witness's account. What remains hidden may be the very information needed to assess credibility.
 
 Consider a hypothetical public entry describing a silent light that hovered for several minutes. The missing investigator file could contain:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -363,8 +356,7 @@ Consider a hypothetical public entry describing a silent light that hovered for 
 
 Any one of those findings could substantially alter how the report should be interpreted.
 
-The reverse can also occur. Some public snippets appear ordinary until investigators uncover multiple witnesses, supporting media or corroborating observations from different locations. Without access to the follow-up record, researchers cannot easily distinguish between those scenarios. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slideserve.com/alcina/mufon-case-management-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slideserve.com">[SlideServe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slideserve.com</span><span class="citation-popover-title">mufon case management system</span><span class="citation-popover-snippet">SlideServeMUFON Case Management System5 Sept 2014 — Allows a witness to easily REPORT their UFO Sighting to MUFON via the Internet • A RE...</span></span></span>
-
+The reverse can also occur. Some public snippets appear ordinary until investigators uncover multiple witnesses, supporting media or corroborating observations from different locations. Without access to the follow-up record, researchers cannot easily distinguish between those scenarios. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slideserve.com/alcina/mufon-case-management-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slideserve.com">[SlideServe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slideserve.com</span><span class="citation-popover-title">mufon case management system</span><span class="citation-popover-snippet">MUFON Case Management System5 Sept 2014 — Allows a witness to easily REPORT their UFO Sighting to MUFON via the Internet • A RE...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nrBhhUzwgMk" title="What It Takes To Be A MUFON Investigator - We Are Not Alone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nrBhhUzwgMk" target="_blank" rel="noopener noreferrer">What It Takes To Be A MUFON Investigator - We Are Not Alone</a></p><p class="youtube-embed-meta">Channel: Queen City News &middot; Views: 1.0K &middot; Uploaded: October 2025 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nrBhhUzwgMk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nrBhhUzwgMk">Open on YouTube</a></p></div></div></div>
 
@@ -374,7 +366,6 @@ The most productive way to use public MUFON listings is as lead-generation tools
 
 A public entry becomes more valuable when it allows researchers to connect it with external information such as:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * Historical weather records.
@@ -382,14 +373,13 @@ A public entry becomes more valuable when it allows researchers to connect it wi
 * Satellite and space-object tracking.
 * Aviation data.
 * Contemporary news reports.
-* Other independent witness reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mufon.com/the-scientific-method/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[mufon.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">MUFONThe Scientific MethodAmong the parameters collected on UFO reports include: date, time, latitude, longitude, witness report, witness...</span></span></span>
+* Other independent witness reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mufon.com/the-scientific-method/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[mufon.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">The Scientific MethodAmong the parameters collected on UFO reports include: date, time, latitude, longitude, witness report, witness...</span></span></span>
 
 </div>
 
-Researchers have demonstrated the value of this approach in some cases by combining reported observations with external technical datasets to identify likely explanations. The key point is that the public snippet serves as a starting point, not the final analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivenhancing space situational awareness to mitigate riskMarch 13, 2024 — by DJ Buettner · 2024 — Here we provide the raw observations...</span><span class="citation-popover-meta">Published: March 13, 2024</span></span></span>
+Researchers have demonstrated the value of this approach in some cases by combining reported observations with external technical datasets to identify likely explanations. The key point is that the public snippet serves as a starting point, not the final analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">enhancing space situational awareness to mitigate riskMarch 13, 2024 — by DJ Buettner · 2024 — Here we provide the raw observations...</span><span class="citation-popover-meta">Published: March 13, 2024</span></span></span>
 
-For catalogue users, the practical question is not whether a report exists but whether enough supporting information survives to evaluate it. A short narrative can identify a potentially interesting event. Judging the event's significance usually requires access to the investigative material, corroborating evidence and analytical work that public listings often leave out. MUFON <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slideserve.com/alcina/mufon-case-management-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slideserve.com">[SlideServe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slideserve.com</span><span class="citation-popover-title">mufon case management system</span><span class="citation-popover-snippet">SlideServeMUFON Case Management System5 Sept 2014 — Allows a witness to easily REPORT their UFO Sighting to MUFON via the Internet • A RE...</span></span></span>
-
+For catalogue users, the practical question is not whether a report exists but whether enough supporting information survives to evaluate it. A short narrative can identify a potentially interesting event. Judging the event's significance usually requires access to the investigative material, corroborating evidence and analytical work that public listings often leave out. MUFON <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slideserve.com/alcina/mufon-case-management-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slideserve.com">[SlideServe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slideserve.com</span><span class="citation-popover-title">mufon case management system</span><span class="citation-popover-snippet">MUFON Case Management System5 Sept 2014 — Allows a witness to easily REPORT their UFO Sighting to MUFON via the Internet • A RE...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_public_case_ga_f45155-Illustration-3-dark.svg" | relative_url }}" alt="Public gaps illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_public_case_ga_f45155-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_public_case_ga_f45155-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -789,242 +779,242 @@ For catalogue users, the practical question is not whether a report exists but w
 
 1. <a id="endnote-1"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/research/](https://mufon.com/research/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFONMufon&#x27;s Ufo, Et Research Tracking ToolsThe MUFON Case Management System (CMS) is a powerful tool designed to help researchers, inves...</p></details>
+   Link: <a href="https://mufon.com/research/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/research/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mufon&#x27;s Ufo, Et Research Tracking ToolsThe MUFON Case Management System (CMS) is a powerful tool designed to help researchers, inves...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/the-scientific-method/](https://mufon.com/the-scientific-method/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFONThe Scientific MethodAmong the parameters collected on UFO reports include: date, time, latitude, longitude, witness report, witness...</p></details>
+   Link: <a href="https://mufon.com/the-scientific-method/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/the-scientific-method/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientific MethodAmong the parameters collected on UFO reports include: date, time, latitude, longitude, witness report, witness...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: slideserve.com  
    Title: mufon case management system  
-   Link: [https://www.slideserve.com/alcina/mufon-case-management-system](https://www.slideserve.com/alcina/mufon-case-management-system)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SlideServeMUFON Case Management System5 Sept 2014 — Allows a witness to easily REPORT their UFO Sighting to MUFON via the Internet • A RE...</p></details>
+   Link: <a href="https://www.slideserve.com/alcina/mufon-case-management-system" target="_blank" rel="noopener noreferrer nofollow">https://www.slideserve.com/alcina/mufon-case-management-system</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON Case Management System5 Sept 2014 — Allows a witness to easily REPORT their UFO Sighting to MUFON via the Internet • A RE...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: astronomy.com  
    Title: reports of rising ufo sightings are greatly exaggerated  
-   Link: [https://www.astronomy.com/science/reports-of-rising-ufo-sightings-are-greatly-exaggerated/](https://www.astronomy.com/science/reports-of-rising-ufo-sightings-are-greatly-exaggerated/)  
+   Link: <a href="https://www.astronomy.com/science/reports-of-rising-ufo-sightings-are-greatly-exaggerated/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/science/reports-of-rising-ufo-sightings-are-greatly-exaggerated/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomy MagazineReports of rising UFO sightings are greatly exaggerated2 Oct 2020 — Around 2012, Hudgeons says that MUFON started to no...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/search_database-terms-and-conditions/](https://mufon.com/search_database-terms-and-conditions/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFONSearch Database Terms and ConditionsThe Mutual UFO Network (MUFON) allows active members to access certain parts of our Case Managem...</p></details>
+   Link: <a href="https://mufon.com/search_database-terms-and-conditions/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/search_database-terms-and-conditions/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Search Database Terms and ConditionsThe Mutual UFO Network (MUFON) allows active members to access certain parts of our Case Managem...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/become-a-mufon-field-investigator/](https://mufon.com/become-a-mufon-field-investigator/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFONBecome a Mufon Field InvestigatorTrack UFOs · Field Investigator CMS Login · Become a Field Investigator · Report a UFO · Report an...</p></details>
+   Link: <a href="https://mufon.com/become-a-mufon-field-investigator/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/become-a-mufon-field-investigator/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Become a Mufon Field InvestigatorTrack UFOs · Field Investigator CMS Login · Become a Field Investigator · Report a UFO · Report an...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2403.08155](https://arxiv.org/pdf/2403.08155)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivenhancing space situational awareness to mitigate riskMarch 13, 2024 — by DJ Buettner · 2024 — Here we provide the raw observations...</p></details>
+   Link: <a href="https://arxiv.org/pdf/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2403.08155</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>enhancing space situational awareness to mitigate riskMarch 13, 2024 — by DJ Buettner · 2024 — Here we provide the raw observations...</p></details>
    Published: March 13, 2024  
 
 8. <a id="endnote-8"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/cms-ifo-info/](https://mufon.com/cms-ifo-info/)  
+   Link: <a href="https://mufon.com/cms-ifo-info/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/cms-ifo-info/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CMS IFO InfoAll witnesses who attach files to this report must acknowledge that by clicking the CONTINUE WITH REPORT button below, that t...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/](https://mufon.com/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON: HomeRead and Search MUFON Case Management System Reports; Monthly MUFON e-Journal with Exclusive UFO Coverage; Access to The Obser...</p></details>
+   Link: <a href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>HomeRead and Search MUFON Case Management System Reports; Monthly MUFON e-Journal with Exclusive UFO Coverage; Access to The Obser...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/historical/](https://mufon.com/historical/)  
+   Link: <a href="https://mufon.com/historical/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/historical/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Famous UFO CasesWe invite you to read more about seven of the most famous UFO cases in recorded history. For each, MUFON has compiled cas...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: mufon.com  
    Title: mufon cms statistics for 2025 the first seven months  
-   Link: [https://mufon.com/2025/09/10/mufon-cms-statistics-for-2025-the-first-seven-months/](https://mufon.com/2025/09/10/mufon-cms-statistics-for-2025-the-first-seven-months/)  
+   Link: <a href="https://mufon.com/2025/09/10/mufon-cms-statistics-for-2025-the-first-seven-months/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/2025/09/10/mufon-cms-statistics-for-2025-the-first-seven-months/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON CMS Statistics for 2025: The First Seven Months...10 Sept 2025 — Happily gone, one will note, are the three dispiriting months of...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/experiencer-resource-team-ert/](https://mufon.com/experiencer-resource-team-ert/)  
+   Link: <a href="https://mufon.com/experiencer-resource-team-ert/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/experiencer-resource-team-ert/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>g the following short Experiencer Questionnaire!Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/join/](https://mufon.com/join/)  
+   Link: <a href="https://mufon.com/join/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/join/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>or undertaking with costs...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/history/](https://mufon.com/history/)  
+   Link: <a href="https://mufon.com/history/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/history/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON Through the AgesThe MUFON Case Management System (CMS) now holds over 140,000 witness submitted cases! 2024. The MUFON Symposium re...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: mufon.com  
    Title: Mufon April 2023 Journal  
-   Link: [https://mufon.com/wp-content/uploads/2023/04/Mufon-April-2023-Journal.pdf](https://mufon.com/wp-content/uploads/2023/04/Mufon-April-2023-Journal.pdf)  
+   Link: <a href="https://mufon.com/wp-content/uploads/2023/04/Mufon-April-2023-Journal.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/wp-content/uploads/2023/04/Mufon-April-2023-Journal.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO PERSPECTIVESApr 1, 2023 — The reporting witness&#x27;s description of the incident in Form. 1 succinctly notes: “Lighted object moving slo...</p></details>
    Published: April 2023  
 
 16. <a id="endnote-16"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/contact/](https://mufon.com/contact/)  
+   Link: <a href="https://mufon.com/contact/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/contact/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ContactTo ensure your report is properly tracked and investigated, please submit your sighting directly through our website by clicking o...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: mufon.com  
    Title: Past Articles  
-   Link: [https://mufon.com/past-articles/page/2/](https://mufon.com/past-articles/page/2/)  
+   Link: <a href="https://mufon.com/past-articles/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/past-articles/page/2/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Page 2 of 15MUFON Case #134791, July 23,2023, Ulster County, New York Disposition: Unknown by Bob Spearing · The 3I Atlas [Enigma](&amp;#123;&amp;#123; &#x27;enigma/&#x27; | relative_url &amp;#125;&amp;#125;): A Psych...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/ertbio/](https://mufon.com/ertbio/)  
+   Link: <a href="https://mufon.com/ertbio/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/ertbio/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A certified field investigator with MUFON since 2019 and is currently Assistant National Director for Ireland.Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/history-2/](https://mufon.com/history-2/)  
+   Link: <a href="https://mufon.com/history-2/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/history-2/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Brief History of MufonHas a computerized UFO Case Management System (CMS) with over 139,000UFO cases; Has a structured Field Investigat...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/ufo-news/](https://mufon.com/ufo-news/)  
+   Link: <a href="https://mufon.com/ufo-news/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/ufo-news/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON NewsRecent reporting indicates that the Trump White House has taken an unusually direct role in pushing for expanded congressional...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: cms.gov  
    Title: public reporting background  
-   Link: [https://www.cms.gov/medicare/quality/physician-compare-initiative/public-reporting-background](https://www.cms.gov/medicare/quality/physician-compare-initiative/public-reporting-background)  
+   Link: <a href="https://www.cms.gov/medicare/quality/physician-compare-initiative/public-reporting-background" target="_blank" rel="noopener noreferrer nofollow">https://www.cms.gov/medicare/quality/physician-compare-initiative/public-reporting-background</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sep 10, 2024 — This section provides background information about the public reporting of performance information for Medicare doctors, c...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: What It Takes To Be A MUFON Investigator  
-   Link: [https://www.youtube.com/watch?v=nrBhhUzwgMk](https://www.youtube.com/watch?v=nrBhhUzwgMk)  
+   Link: <a href="https://www.youtube.com/watch?v=nrBhhUzwgMk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nrBhhUzwgMk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON – The Truth Behind UFOs and Alien Encounters...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: MUFON – The Truth Behind UFOs and Alien Encounters  
-   Link: [https://www.youtube.com/watch?v=PSgTuE7HFx0](https://www.youtube.com/watch?v=PSgTuE7HFx0)  
+   Link: <a href="https://www.youtube.com/watch?v=PSgTuE7HFx0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PSgTuE7HFx0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON Unmasks the Truth! | UFO&#x27;s Over Earth | Discovery Channel...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: MUFON Unmasks the Truth! | UFO's Over Earth | Discovery Channel  
-   Link: [https://www.youtube.com/watch?v=NJdt9Dxvfvo](https://www.youtube.com/watch?v=NJdt9Dxvfvo)  
+   Link: <a href="https://www.youtube.com/watch?v=NJdt9Dxvfvo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NJdt9Dxvfvo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>America&#x27;s Most Mysterious UFO Cases | Expedition Unknown: Hunt For Extraterrestrials S1E4...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: mufonu.com  
-   Link: [https://mufonu.com/](https://mufonu.com/)  
+   Link: <a href="https://mufonu.com/" target="_blank" rel="noopener noreferrer nofollow">https://mufonu.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON University – MUFON Center of ExcellenceTo become a MUFON Field Investigator you must be at least 18-years of age, be able to accept...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/687125160/1933870431](https://www.scribd.com/document/687125160/1933870431)  
+   Link: <a href="https://www.scribd.com/document/687125160/1933870431" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/687125160/1933870431</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON Field Investigator Manual Download | PDFOver Earth The 2008 History Channel series UFO Hunters The X-Files series The History Chann...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
    Title: The World's Largest UFO Network  
-   Link: [https://www.facebook.com/qcyfromabove/posts/the-worlds-largest-ufo-network-mufon-mutual-ufo-network-founded-in-quincy-illino/1508826181250774/](https://www.facebook.com/qcyfromabove/posts/the-worlds-largest-ufo-network-mufon-mutual-ufo-network-founded-in-quincy-illino/1508826181250774/)  
+   Link: <a href="https://www.facebook.com/qcyfromabove/posts/the-worlds-largest-ufo-network-mufon-mutual-ufo-network-founded-in-quincy-illino/1508826181250774/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/qcyfromabove/posts/the-worlds-largest-ufo-network-mufon-mutual-ufo-network-founded-in-quincy-illino/1508826181250774/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON... MUFON Director of International Development Did you know that MUFON holds over 145,000 UFO sighting reports in its Case Manageme...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: myemail.constantcontact.com  
    Title: MUFON Newsletter December 2018  
-   Link: [https://myemail.constantcontact.com/MUFON-Newsletter---December-2018.html?aid=nqrqKtFyPZM&soid=1103452603797](https://myemail.constantcontact.com/MUFON-Newsletter---December-2018.html?aid=nqrqKtFyPZM&soid=1103452603797)  
+   Link: <a href="https://myemail.constantcontact.com/MUFON-Newsletter---December-2018.html?aid=nqrqKtFyPZM&amp;soid=1103452603797" target="_blank" rel="noopener noreferrer nofollow">https://myemail.constantcontact.com/MUFON-Newsletter---December-2018.html?aid=nqrqKtFyPZM&amp;soid=1103452603797</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Newsletter - December 2018Dec 19, 2018 — As you know, CMS is our Case Management System we use to collect. UFO sighting reports from the...</p></details>
    Published: December 2018  
 
 29. <a id="endnote-29"></a>
    Source: quizlet.com  
-   Link: [https://quizlet.com/572394263/mufon-flash-cards/](https://quizlet.com/572394263/mufon-flash-cards/)  
+   Link: <a href="https://quizlet.com/572394263/mufon-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/572394263/mufon-flash-cards/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nderstanding of the aims of Mufon.Read more...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/10l1vy3/mufon_acknowledged_as_official_government_source/](https://www.reddit.com/r/UFOs/comments/10l1vy3/mufon_acknowledged_as_official_government_source/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/10l1vy3/mufon_acknowledged_as_official_government_source/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/10l1vy3/mufon_acknowledged_as_official_government_source/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON acknowledged as official government sourceMUFON being recognized by the United States Government as a leader in UFO/UAP investigati...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: reddit.com  
    Title: MUFO N is under a major hack right now  
-   Link: [https://www.reddit.com/r/UFOs/comments/1akv3lu/mufon_is_under_a_major_hack_right_now_sources/](https://www.reddit.com/r/UFOs/comments/1akv3lu/mufon_is_under_a_major_hack_right_now_sources/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1akv3lu/mufon_is_under_a_major_hack_right_now_sources/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1akv3lu/mufon_is_under_a_major_hack_right_now_sources/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sources indicate...MUFON locked down their reports database, so I can no longer research my own case.... location, date, duration, desc...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: dochub.com  
    Title: Use our platform's text fields for easy  
-   Link: [https://www.dochub.com/fillable-form/109085-mufon-field-investigator-manual](https://www.dochub.com/fillable-form/109085-mufon-field-investigator-manual)  
+   Link: <a href="https://www.dochub.com/fillable-form/109085-mufon-field-investigator-manual" target="_blank" rel="noopener noreferrer nofollow">https://www.dochub.com/fillable-form/109085-mufon-field-investigator-manual</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mufon field investigator manual pdf: Fill out &amp; sign onlineComplete the sighting details, including SIGHTING DATE, TIME OF SIGHTING, DURA...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DROZLpjkYBR/](https://www.instagram.com/p/DROZLpjkYBR/)  
+   Link: <a href="https://www.instagram.com/p/DROZLpjkYBR/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DROZLpjkYBR/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON CASE OF THE WEEK FOR NOVEMBER 15, 2025...If you see something, report it to [https://mufon.com/cms-ifo-info/](https://mufon.com/cms-ifo-info/) Witness states, “For a...</p></details>
    Published: November 15, 2025  
 
 34. <a id="endnote-34"></a>
    Source: davekreiter.com  
    Title: MUFO N /UFO Cases  
-   Link: [https://davekreiter.com/mufon/mycases.html](https://davekreiter.com/mufon/mycases.html)  
+   Link: <a href="https://davekreiter.com/mufon/mycases.html" target="_blank" rel="noopener noreferrer nofollow">https://davekreiter.com/mufon/mycases.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON /UFO Cases - DaveKreiter.comAs a result of my investigation this case received a disposition of Unknown-UAV. Fairfield, Iowa July 1...</p></details>
 
 ### Additional References
 
 35. <a id="endnote-35"></a>
    Source: [archives](&#123;&#123; 'archives/' | relative_url &#125;&#125;). gov  
-   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...NARA has records related to unidentified flying objects (UFO) and unidentifi...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: oregonmufon.com  
-   Link: [https://www.oregonmufon.com/PDFs/OMInvestigatorsGuide.pdf](https://www.oregonmufon.com/PDFs/OMInvestigatorsGuide.pdf)  
+   Link: <a href="https://www.oregonmufon.com/PDFs/OMInvestigatorsGuide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oregonmufon.com/PDFs/OMInvestigatorsGuide.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Oregon MUFON Investigator&#x27;s GuideThis document is intended for all UFO investigators new to Ore- gon MUFON, either new to Oregon from out...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/haynes-ufo-investigations-manual-ufo-investigations-from-1892-to-the-present-day-085733400x-9780857334008.html](https://dokumen.pub/haynes-ufo-investigations-manual-ufo-investigations-from-1892-to-the-present-day-085733400x-9780857334008.html)  
+   Link: <a href="https://dokumen.pub/haynes-ufo-investigations-manual-ufo-investigations-from-1892-to-the-present-day-085733400x-9780857334008.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/haynes-ufo-investigations-manual-ufo-investigations-from-1892-to-the-present-day-085733400x-9780857334008.html</a>  
 
 38. <a id="endnote-38"></a>
    Source: pdffiller.com  
-   Link: [https://www.pdffiller.com/101430199-Form2030-MUFON20Field20Investigators20Reportpdf-mufon-field-investigator-manual-](https://www.pdffiller.com/101430199-Form2030-MUFON20Field20Investigators20Reportpdf-mufon-field-investigator-manual-)  
+   Link: <a href="https://www.pdffiller.com/101430199-Form2030-MUFON20Field20Investigators20Reportpdf-mufon-field-investigator-manual-" target="_blank" rel="noopener noreferrer nofollow">https://www.pdffiller.com/101430199-Form2030-MUFON20Field20Investigators20Reportpdf-mufon-field-investigator-manual-</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2015-2026 MUFON Form 30 Field Investigators Report5 May 2026 — MUFON Form 30 Field Investigators Report is needed by: Field Investigators...</p></details>
    Published: May 2026  
 
 39. <a id="endnote-39"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/fernandapiresucesso/posts/accessing-the-mufon-cms-discover-the-worlds-largest-ufo-databaseby-bob-spearing-/10166141365482506/](https://www.facebook.com/fernandapiresucesso/posts/accessing-the-mufon-cms-discover-the-worlds-largest-ufo-databaseby-bob-spearing-/10166141365482506/)  
+   Link: <a href="https://www.facebook.com/fernandapiresucesso/posts/accessing-the-mufon-cms-discover-the-worlds-largest-ufo-databaseby-bob-spearing-/10166141365482506/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fernandapiresucesso/posts/accessing-the-mufon-cms-discover-the-worlds-largest-ufo-databaseby-bob-spearing-/10166141365482506/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ven keywords like “bedroom orb” or “when I was a child.” Bob also...Read more...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/FOX2Now/posts/data-encompasses-all-reports-of-ufo-sightings-dating-back-to-1995-sightings-with/1246651517051476/](https://www.facebook.com/FOX2Now/posts/data-encompasses-all-reports-of-ufo-sightings-dating-back-to-1995-sightings-with/1246651517051476/)  
+   Link: <a href="https://www.facebook.com/FOX2Now/posts/data-encompasses-all-reports-of-ufo-sightings-dating-back-to-1995-sightings-with/1246651517051476/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FOX2Now/posts/data-encompasses-all-reports-of-ufo-sightings-dating-back-to-1995-sightings-with/1246651517051476/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sightings with locations listed across multiple cities were not included in...Read more...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/adecor/for_those_that_have_submitted_a_sighting_to_mufon/](https://www.reddit.com/r/UFOs/comments/adecor/for_those_that_have_submitted_a_sighting_to_mufon/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/adecor/for_those_that_have_submitted_a_sighting_to_mufon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/adecor/for_those_that_have_submitted_a_sighting_to_mufon/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>like to report to MUFON? What kind of information do they gather? How...</p></details>
 
 42. <a id="endnote-42"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1051tci/where_would_you_recommend_people_report_their/](https://www.reddit.com/r/UFOs/comments/1051tci/where_would_you_recommend_people_report_their/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1051tci/where_would_you_recommend_people_report_their/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1051tci/where_would_you_recommend_people_report_their/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ng to do so? This post is part of the our Common Question Series...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: scribd.com  
    Title: Exeter Part 1 MUFON Case File  
-   Link: [https://www.scribd.com/document/30873703/Exeter-Part-1-MUFON-Case-File](https://www.scribd.com/document/30873703/Exeter-Part-1-MUFON-Case-File)  
+   Link: <a href="https://www.scribd.com/document/30873703/Exeter-Part-1-MUFON-Case-File" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/30873703/Exeter-Part-1-MUFON-Case-File</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New UFO Photos UFOs PANIC POLICE. Prove Genuine MOTORISTS New photographs proving UFO reality, analyzed by experts, In the last...Read...</p></details>
 
 44. <a id="endnote-44"></a>
    Source: Wikipedia  
    Title: Mutual UFO Network  
-   Link: [https://en.wikipedia.org/wiki/Mutual_UFO_Network](https://en.wikipedia.org/wiki/Mutual_UFO_Network)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mutual_UFO_Network" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mutual_UFO_Network</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mutual UFO NetworkMutual UFO Network; Nonprofit organization · &quot;The Scientific Study of UFOs for the Benefit of Humanity&quot; · Cincinnat...</p></details>

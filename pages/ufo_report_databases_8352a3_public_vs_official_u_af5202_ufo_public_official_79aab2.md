@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /public-vs-official/
 nav_short_title: Cross Checks
 title: How serious UFO research uses both sides
-title_full: How serious UFO research uses both sides | Public vs Official
+title_full: How serious UFO research uses both sides
 display_title_short: Cross Checks
 display_title: Cross Checks
 heading_title: How serious UFO research uses both sides
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 01:42:32'
-parent_title: Public UFO Reports or Official UAP Records? | UFO Archives
+parent_title: Public UFO Reports or Official UAP Records?
 parent_permalink: /public-vs-official/
 parent_nav_short_title: Public vs Official
 parent_heading_title: Public UFO Reports or Official UAP Records?
@@ -276,49 +276,43 @@ image: /assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202_uf
 
 Public sightings of unidentified aerial phenomena (UAP), sometimes called UFOs, form a vast and culturally visible set of narratives about what people observe in the sky. However, for these sightings to advance beyond anecdote and contribute to serious research — whether scientific, safety‑oriented, or policy‑relevant — they need to be anchored in official records and corroborated with systematic data from trained observers and sensors. Researchers increasingly treat public reports as one layer of evidence among many, where official datasets and archival records provide essential context, cross‑checks, and metadata needed for credible analysis. This page examines why serious research into public sightings depends on official records in addition to civilian reports.
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202_ufo_public_official_79aab2-Illustration-1-dark.svg" | relative_url }}" alt="Cross Checks illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202_ufo_public_official_79aab2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202_ufo_public_official_79aab2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Starting with Public Witness Narratives
 
-Public reporting systems — such as the **[NUFORC]({{ 'nuforc/' | relative_url }}) Databank**, which collects civilian witness accounts — offer breadth and immediacy by capturing large numbers of individual observations from diverse locations and times. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">NUFORCData Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span> These narratives can highlight patterns, unusual [clusters]({{ 'clusters/' | relative_url }}) of reports, or recurrent motifs that might otherwise go unnoticed. They are valuable for historians, journalists, and researchers seeking to map what people *believe* they have seen.
+Public reporting systems — such as the **[NUFORC]({{ 'nuforc/' | relative_url }}) Databank**, which collects civilian witness accounts — offer breadth and immediacy by capturing large numbers of individual observations from diverse locations and times. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsSeptember 6, 2021...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span> These narratives can highlight patterns, unusual [clusters]({{ 'clusters/' | relative_url }}) of reports, or recurrent motifs that might otherwise go unnoticed. They are valuable for historians, journalists, and researchers seeking to map what people *believe* they have seen.
 
-Yet first‑hand testimonies have limitations that make them insufficient on their own for rigorous scientific or policy research. Witness perceptions vary widely, and without technical calibration — including time stamps, precise locations, and instrument readings — raw narratives cannot be easily validated or compared across cases. This “signal” of genuine anomalies can be swamped by “noise” arising from human factors, environmental misperception, atmospheric optics, or everyday objects such as aircraft and satellites. Researchers caution that treating all self‑reported accounts as equally reliable can create misleading patterns rather than actionable evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapradar.com/methodology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapradar.com">[UAP Radar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapradar.com</span><span class="citation-popover-title">UAP Radar Source Policy &amp; Methodology | UAP Radar</span><span class="citation-popover-snippet">UAP Radar Source Policy &amp; Methodology | UAP Radar</span></span></span>
-
+Yet first‑hand testimonies have limitations that make them insufficient on their own for rigorous scientific or policy research. Witness perceptions vary widely, and without technical calibration — including time stamps, precise locations, and instrument readings — raw narratives cannot be easily validated or compared across cases. This “signal” of genuine anomalies can be swamped by “noise” arising from human factors, environmental misperception, atmospheric optics, or everyday objects such as aircraft and satellites. Researchers caution that treating all self‑reported accounts as equally reliable can create misleading patterns rather than actionable evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapradar.com/methodology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapradar.com">[UAP Radar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapradar.com</span><span class="citation-popover-title">UAP Radar Source Policy &amp; Methodology &#124; UAP Radar</span><span class="citation-popover-snippet">UAP Radar Source Policy &amp; Methodology &#124; UAP Radar</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VRAAZUTJ2qA" title="LIVE: NASA UFO Research Group Briefs the Public Ahead of Final Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VRAAZUTJ2qA" target="_blank" rel="noopener noreferrer">LIVE: NASA UFO Research Group Briefs the Public Ahead of Final Report</a></p><p class="youtube-embed-meta">Channel: NTD &middot; Views: 4.4K &middot; Uploaded: May 2023 &middot; Length: 4 hours 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VRAAZUTJ2qA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VRAAZUTJ2qA">Open on YouTube</a></p></div></div></div>
 
 ## Checking Aviation, Astronomy and Official Records
 
-Official records serve as a grounding mechanism that augments and refines public sightings. These include data from governmental reporting systems, air‑traffic management, military sensor logs, aerospace datasets, and archival bodies such as [national archives]({{ 'archives/' | relative_url }}). For decades, governments have maintained their own sighting and investigation records — for example, Project [Blue Book]({{ 'blue-book/' | relative_url }}) in the US, now preserved in **The National Archives** — alongside correspondence and technical logs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects | National Archives...</span></span></span>
+Official records serve as a grounding mechanism that augments and refines public sightings. These include data from governmental reporting systems, air‑traffic management, military sensor logs, aerospace datasets, and archival bodies such as national [archives]({{ 'archives/' | relative_url }}). For decades, governments have maintained their own sighting and investigation records — for example, Project [Blue Book]({{ 'blue-book/' | relative_url }}) in the US, now preserved in **The National Archives** — alongside correspondence and technical logs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National Archives...</span></span></span>
 
 These official sources are crucial for cross‑checking because they often incorporate high‑fidelity sensor data, such as radar tracks, electro‑optical recordings, flight plans, and atmospheric measurements that civilian observers cannot access. Institutions like NASA’s UAP study explicitly focus on integrating scientific datasets collected by civilian and government sources to improve understanding of UAP phenomena and reject or confirm conventional explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP</span><span class="citation-popover-snippet">NASA ScienceUAP - NASA ScienceFebruary 23, 2026...</span><span class="citation-popover-meta">Published: February 23, 2026</span></span></span>
 
 For scientific or policy analysis, the presence of official contextual data can validate a sighting’s timing, location, and physical characteristics. A civilian report that aligns with radar tracks or satellite passes can be flagged for detailed study, while mismatches can help rule out misidentifications. Without these official anchors, many public narratives remain isolated observations lacking the metadata needed to assess credibility and causality.
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202_ufo_public_official_79aab2-Illustration-2-dark.svg" | relative_url }}" alt="Cross Checks illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202_ufo_public_official_79aab2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202_ufo_public_official_79aab2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Avoiding Duplicate and Misidentified Events
 
 One practical challenge in cataloguing and researching UAP is the risk of duplicate, mislocated, or misidentified events. Civilian reporting databases collect submissions from individuals whose descriptions may be subjective, incomplete, or conceptually inconsistent. In contrast, official records with precise classification protocols reduce duplicate counting and help separate known phenomena from genuinely [unresolved cases]({{ 'unresolved-cases/' | relative_url }}).
 
-Researchers addressing evidence quality — such as those proposing [reliability]({{ 'reliability/' | relative_url }}) scales for UAP assessments — place emphasis on whether sightings have been subjected to expert analysis or correlated with established records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2218-1997/11/10/326" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">MDPIToward a Reliability Scale for Assessing Reports of Unidentified Anomalous Phenomena (UAP)September 25, 2025...</span><span class="citation-popover-meta">Published: September 25, 2025</span></span></span> This approach recognises that public narratives can help identify *candidate* cases for deeper inquiry, but they rarely provide sufficient evidence on their own for scientific conclusions.
+Researchers addressing evidence quality — such as those proposing [reliability]({{ 'reliability/' | relative_url }}) scales for UAP assessments — place emphasis on whether sightings have been subjected to expert analysis or correlated with established records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2218-1997/11/10/326" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Toward a Reliability Scale for Assessing Reports of Unidentified Anomalous Phenomena (UAP)September 25, 2025...</span><span class="citation-popover-meta">Published: September 25, 2025</span></span></span> This approach recognises that public narratives can help identify *candidate* cases for deeper inquiry, but they rarely provide sufficient evidence on their own for scientific conclusions.
 
-Another incentive for official checks is to address publication bias and the “file‑drawer problem”: without access to comprehensive [archives]({{ 'archives/' | relative_url }}) that include both resolved and unresolved cases, researchers risk overestimating the significance of outliers. Official repositories — such as the emerging **Unidentified Anomalous Phenomena Records Collection** mandated by the US National Archives and Records Administration — aim to preserve both government and government‑funded records in a single accessible corpus. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National ArchivesUFO reports - The National Archives...</span></span></span>
+Another incentive for official checks is to address publication bias and the “file‑drawer problem”: without access to comprehensive archives that include both resolved and unresolved cases, researchers risk overestimating the significance of outliers. Official repositories — such as the emerging **Unidentified Anomalous Phenomena Records Collection** mandated by the US National Archives and Records Administration — aim to preserve both government and government‑funded records in a single accessible corpus. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National ArchivesUFO reports - The National Archives...</span></span></span>
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TrzUIrAkrTI" title="SCU Conference 2026 - Chris Rutkowski, BSc, MEd" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TrzUIrAkrTI" target="_blank" rel="noopener noreferrer">SCU Conference 2026 - Chris Rutkowski, BSc, MEd</a></p><p class="youtube-embed-meta">Channel: Scientific Coalition for UAP Studies &middot; Views: 292 &middot; Uploaded: May 2026 &middot; Length: 1 minute 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TrzUIrAkrTI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TrzUIrAkrTI">Open on YouTube</a></p></div></div></div>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BOSE60MN5vw" title="SCU Conference 2026 - Prof. Doug Buettner" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BOSE60MN5vw" target="_blank" rel="noopener noreferrer">SCU Conference 2026 - Prof. Doug Buettner</a></p><p class="youtube-embed-meta">Channel: Scientific Coalition for UAP Studies &middot; Views: 262 &middot; Uploaded: May 2026 &middot; Length: 2 minutes 8 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BOSE60MN5vw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BOSE60MN5vw">Open on YouTube</a></p></div></div></div>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yADLnhfvVg4" title="Analyzing Unidentified Aerial Phenomena" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yADLnhfvVg4" target="_blank" rel="noopener noreferrer">Analyzing Unidentified Aerial Phenomena</a></p><p class="youtube-embed-meta">Channel: Emerging Technologies Institute &middot; Views: 9.8K &middot; Uploaded: March 2025 &middot; Length: 39 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yADLnhfvVg4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yADLnhfvVg4">Open on YouTube</a></p></div></div></div>
 
 ## Why Both Sides Are Needed in Serious Research
 
 Serious research treats public eyewitness reports and official records not as rivals but as complementary evidence streams. Public reports excel at capturing the *experience* — the human observation — and often motivate where deeper scrutiny should occur. Official datasets supply the technical context, calibrated measurements, and archival continuity required for scientific, safety, or policy inquiries.
 
-By systematically cross‑referencing civilian sightings with official data — from radar logs and atmospheric science to archival case files and aviation records — researchers can filter out common misperceptions, identify coincident phenomena, and isolate cases that genuinely resist conventional explanation. This integrated approach elevates the evidential quality beyond what either source could provide in isolation, supporting more reliable categorisation and interpretation of UAP events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP</span><span class="citation-popover-snippet">NASA ScienceUAP - NASA ScienceFebruary 23, 2026...</span><span class="citation-popover-meta">Published: February 23, 2026</span></span></span>
+By systematically cross‑referencing civilian sightings with official data — from radar logs and atmospheric science to archival [case files]({{ 'case-files/' | relative_url }}) and aviation records — researchers can filter out common misperceptions, identify coincident phenomena, and isolate cases that genuinely resist conventional explanation. This integrated approach elevates the evidential quality beyond what either source could provide in isolation, supporting more reliable categorisation and interpretation of UAP events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP</span><span class="citation-popover-snippet">NASA ScienceUAP - NASA ScienceFebruary 23, 2026...</span><span class="citation-popover-meta">Published: February 23, 2026</span></span></span>
 
 In short, public sightings illuminate the landscape of human observation; official records structure that landscape with objective data and context. Only when both are brought together can serious research move beyond anecdote toward rigorous analysis.
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202_ufo_public_official_79aab2-Illustration-3-dark.svg" | relative_url }}" alt="Cross Checks illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202_ufo_public_official_79aab2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202_ufo_public_official_79aab2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -719,132 +713,132 @@ In short, public sightings illuminate the landscape of human observation; offici
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCData Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021...</p></details>
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021...</p></details>
    Published: September 6, 2021  
 
 2. <a id="endnote-2"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying Objects | National Archives...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: science.nasa.gov  
    Title: Science UAP  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP - NASA ScienceFebruary 23, 2026...</p></details>
    Published: February 23, 2026  
 
 4. <a id="endnote-4"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2218-1997/11/10/326](https://www.mdpi.com/2218-1997/11/10/326)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MDPIToward a Reliability Scale for Assessing Reports of Unidentified Anomalous Phenomena (UAP)September 25, 2025...</p></details>
+   Link: <a href="https://www.mdpi.com/2218-1997/11/10/326" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2218-1997/11/10/326</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Toward a Reliability Scale for Assessing Reports of Unidentified Anomalous Phenomena (UAP)September 25, 2025...</p></details>
    Published: September 25, 2025  
 
 5. <a id="endnote-5"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/records-mgmt/uap-guidance](https://www.archives.gov/records-mgmt/uap-guidance)  
+   Link: <a href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/uap-guidance</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesGuidance to Federal Agencies on Unidentified Anomalous Phenomena Records Collection | National ArchivesMay 8, 2024...</p></details>
    Published: May 8, 2024  
 
 6. <a id="endnote-6"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/faqs](https://www.archives.gov/research/topics/uaps/faqs)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/faqs</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Records Collection: Frequently Asked Questions | National ArchivesApril 24, 2025 — UNIDENTIFIED ANOMALOU...</p></details>
    Published: April 24, 2025  
 
 7. <a id="endnote-7"></a>
    Source: archives.gov  
    Title: Do Records Show Proof of UFOs?  
-   Link: [https://www.archives.gov/news/articles/do-records-show-proof-of-ufos](https://www.archives.gov/news/articles/do-records-show-proof-of-ufos)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| National ArchivesJuly 24, 2023 — DO RECORDS SHOW PROOF OF UFOS? En Español Image: UFO graphic banner By Kerri Lawrence | National Archi...</p></details>
+   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesJuly 24, 2023 — DO RECORDS SHOW PROOF OF UFOS? En Español Image: UFO graphic banner By Kerri Lawrence | National Archi...</p></details>
    Published: July 24, 2023  
 
 8. <a id="endnote-8"></a>
    Source: uapradar.com  
    Title: UAP Radar Source Policy & Methodology | UAP Radar  
-   Link: [https://uapradar.com/methodology](https://uapradar.com/methodology)  
+   Link: <a href="https://uapradar.com/methodology" target="_blank" rel="noopener noreferrer nofollow">https://uapradar.com/methodology</a>  
 
 9. <a id="endnote-9"></a>
    Source: nationalarchives.gov.uk  
    Title: The National Archives UFO reports  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reports - The National Archives...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: uapedia.ai  
-   Link: [https://www.uapedia.ai/wiki/nuforc-[mufon](https://www.uapedia.ai/wiki/nuforc-[mufon)  
+   Link: <a href="https://www.uapedia.ai/wiki/nuforc-[mufon" target="_blank" rel="noopener noreferrer nofollow">https://www.uapedia.ai/wiki/nuforc-[mufon</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC &amp; MUFON: Civilian Data Sources - UAPediaNovember 7, 2025 — NUFORC &amp; MUFON: CIVILIAN DATA SOURCES Civilian reporting pipelines are...</p></details>
    Published: November 7, 2025  
 
 11. <a id="endnote-11"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOS This is a brief guide to researching records of UFOs. The surviving records consist mainly of documents relating to official policy...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>environmental analysis of public UAP sightings and sky view potential - PMCDecember 14, 2023 — INTRODUCTION There has been growing intere...</p></details>
    Published: December 14, 2023  
 
 13. <a id="endnote-13"></a>
    Source: ufomagazine.net  
-   Link: [https://www.ufomagazine.net/](https://www.ufomagazine.net/)  
+   Link: <a href="https://www.ufomagazine.net/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomagazine.net/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Research | Evidence-Aware FrameworkSingle-Page Briefing UAP Research Framework Evidence-aware design brief DEFINING THE UAP/UFO PHENO...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: ufotransparency.com  
-   Link: [https://ufotransparency.com/files/decade-2020s-nasa-uap-independent-study-report-2023-uap-independent-study-team-final-report](https://ufotransparency.com/files/decade-2020s-nasa-uap-independent-study-report-2023-uap-independent-study-team-final-report)  
+   Link: <a href="https://ufotransparency.com/files/decade-2020s-nasa-uap-independent-study-report-2023-uap-independent-study-team-final-report" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-nasa-uap-independent-study-report-2023-uap-independent-study-team-final-report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Independent UAP Study Final Report, NASA · 2023 · UFO TransparencySeptember 14, 2023 — NASA INDEPENDENT UAP STUDY FINAL REPORT NASA...</p></details>
    Published: September 14, 2023  
 
 15. <a id="endnote-15"></a>
    Source: scientificamerican.com  
-   Link: [https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/](https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/)  
+   Link: <a href="https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>June 9, 2023 — June 9, 2023 7 min read Add Us On GoogleAdd SciAm Bad Data, Not Aliens, May Be behind UFO Surge, NASA Team Says More and b...</p></details>
    Published: June 9, 2023  
 
 16. <a id="endnote-16"></a>
    Source: sciencedirect.com  
    Title: The new science of Unidentified Aerospace-Undersea Phenomena (UAP)  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0376042125000235](https://www.sciencedirect.com/science/article/pii/S0376042125000235)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectJune 1, 2025 — PROGRESS IN AEROSPACE SCIENCES Volume 156, 1 June 2025, 101097 THE NEW SCIENCE OF UNIDENTIFIED AEROSPACE-UNDE...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0376042125000235" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0376042125000235</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 1, 2025 — PROGRESS IN AEROSPACE SCIENCES Volume 156, 1 June 2025, 101097 THE NEW SCIENCE OF UNIDENTIFIED AEROSPACE-UNDE...</p></details>
    Published: June 1, 2025  
 
 17. <a id="endnote-17"></a>
    Source: simpli.com  
    Title: Assessing Recent UAP Reports: Evidence, Channels, and Credibility  
-   Link: [https://www.simpli.com/people/assessing-recent-uap-reports-evidence-channels-credibility](https://www.simpli.com/people/assessing-recent-uap-reports-evidence-channels-credibility)  
+   Link: <a href="https://www.simpli.com/people/assessing-recent-uap-reports-evidence-channels-credibility" target="_blank" rel="noopener noreferrer nofollow">https://www.simpli.com/people/assessing-recent-uap-reports-evidence-channels-credibility</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>24, 2026 — ASSESSING RECENT UAP REPORTS: EVIDENCE, CHANNELS, AND CREDIBILITY By Lily Park Last Updated March 24, 2026 Follow Us: Recent s...</p></details>
    Published: March 24, 2026  
 
 18. <a id="endnote-18"></a>
    Source: scientificamerican.com  
    Title: advanced technology programs, the forth  
-   Link: [https://www.scientificamerican.com/article/experts-weigh-in-on-pentagon-ufo-report/](https://www.scientificamerican.com/article/experts-weigh-in-on-pentagon-ufo-report/)  
+   Link: <a href="https://www.scientificamerican.com/article/experts-weigh-in-on-pentagon-ufo-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/experts-weigh-in-on-pentagon-ufo-report/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Experts Weigh In on Pentagon UFO Report | Scientific AmericanJune 8, 2021 — June 8, 2021 9 min read Add Us On GoogleAdd SciAm Experts Wei...</p></details>
    Published: June 8, 2021  
 
 19. <a id="endnote-19"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-023-49527-x](https://www.nature.com/articles/s41598-023-49527-x)  
+   Link: <a href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-49527-x</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>An environmental analysis of public UAP sightings and sky view potential | Scientific ReportsDecember 14, 2023 — DATA AVAILABILITY The da...</p></details>
    Published: December 14, 2023  
 
 20. <a id="endnote-20"></a>
    Source: canada.ca  
    Title: 's UFOs: The search for the unknown  
-   Link: [https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html](https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html)  
+   Link: <a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown - Canada.caMarch 2, 2026 — CANADA&#x27;S UFOS: THE SEARCH FOR THE UNKNOWN The Library and Archives C...</p></details>
    Published: March 2, 2026  
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: UAP Independent Study Event Post-Meeting Media Teleconference (  
-   Link: [https://www.youtube.com/watch?v=C3uXUfgSadU](https://www.youtube.com/watch?v=C3uXUfgSadU)  
+   Link: <a href="https://www.youtube.com/watch?v=C3uXUfgSadU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C3uXUfgSadU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SCU Conference 2026 - Prof. Doug Buettner...</p></details>
-   Published: May 31, 2023  
+   Published: May 31, 2023

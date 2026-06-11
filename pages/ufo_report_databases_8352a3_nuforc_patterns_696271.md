@@ -40,7 +40,7 @@ sidebar_expanded_urls:
 - /ufo-report-databases-and-catalogues/
 nav_short_title: NUFORC
 title: What NUFORC Reports Can Really Tell You
-title_full: What NUFORC Reports Can Really Tell You | UFO Archives
+title_full: What NUFORC Reports Can Really Tell You
 display_title_short: NUFORC
 display_title: NUFORC
 heading_title: What NUFORC Reports Can Really Tell You
@@ -354,20 +354,18 @@ image: /assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271-overvie
 
 NUFORC, the National UFO Reporting Center, is one of the most useful public UFO/UAP sighting databases because it gives researchers a large, browsable record of what people say they saw, where they were, when it happened, and how they described it. Its value is not that every entry is a confirmed anomaly. Its value is scale: thousands of first-hand public reports can reveal reporting habits, regional concentrations, misidentification waves, and changes in public attention. Used carelessly, the same scale can create false confidence. A spike in “lights”, a cluster near a state border, or a sudden rise in one month may reflect Starlink satellites, aircraft, military training, media coverage, memory rounding, or the reporting form itself rather than a new class of phenomenon. NUFORC is therefore best read as a rich witness-report dataset, not a direct count of unexplained craft.
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271-overview.webp" | relative_url }}" alt="Overview image for NUFORC" loading="eager" decoding="sync" fetchpriority="high">
 ## What NUFORC Collects
 
-NUFORC describes its databank as the largest independently collected set of UFO/UAP sighting reports available online, with reports open to the public through indexes by event date, location, shape and posting date. The site says staff review reports and now grade newer reports into tiers: the most dramatic close-range or highly anomalous sightings, reports with unusual characteristics such as extreme speed or non-inertial turns, and other reports that cannot be easily explained. NUFORC also notes an important limitation: reports received before March 2023 have not yet been graded under that system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">Latest UFO Sightings...</span></span></span>
+NUFORC describes its databank as the largest independently collected set of UFO/UAP sighting reports available online, with reports open to the public through indexes by event date, location, shape and posting date. The site says staff review reports and now grade newer reports into tiers: the most dramatic close-range or highly anomalous sightings, reports with unusual characteristics such as extreme speed or non-inertial turns, and other reports that cannot be easily explained. NUFORC also notes an important limitation: reports received before March 2023 have not yet been graded under that system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Latest UFO Sightings...</span></span></span>
 
-The reporting form shows the kind of structured information NUFORC tries to capture. Witnesses are asked to mark the sighting location as precisely as possible, describe whether they were on land, in a boat or in an aircraft, and add location details. The form also asks for the shape of the craft, colour, number of craft, number of witnesses and a sighting summary, while warning witnesses not to include personally identifying details in the public description. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/reportform-wp/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">UF O Sighting Report Form | NUFORC</span><span class="citation-popover-snippet">UF O Sighting Report Form | NUFORC</span></span></span>
+The reporting form shows the kind of structured information NUFORC tries to capture. Witnesses are asked to mark the sighting location as precisely as possible, describe whether they were on land, in a boat or in an aircraft, and add location details. The form also asks for the shape of the craft, colour, number of craft, number of witnesses and a sighting summary, while warning witnesses not to include personally identifying details in the public description. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/reportform-wp/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">UF O Sighting Report Form &#124; NUFORC</span><span class="citation-popover-snippet">UF O Sighting Report Form &#124; NUFORC</span></span></span>
 
 That mix of structured fields and free-text narrative is what makes NUFORC useful. A structured field such as “shape” lets people sort reports into broad categories such as orb, triangle, disk, fireball or formation. A narrative field can preserve details that do not fit a drop-down menu: whether an object changed direction, whether it was silent, whether aircraft were nearby, or whether the witness later checked a satellite tracker. For pattern research, both layers matter. The coded fields allow large-scale analysis; the text helps reveal whether the coded label means the same thing across reports.
 
 A concrete example is NUFORC’s monthly index. It shows month-by-month report counts, such as 987 reports for December 2024, 582 for January 2025 and lower totals in many surrounding months. Such numbers are useful for spotting possible waves, but they are only the start of analysis. A month with more reports might reflect a genuine increase in observations, a highly visible satellite or rocket event, a media-driven reporting surge, a backlog of postings, or old sightings being submitted later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=event" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports by Month</span><span class="citation-popover-snippet">NUFOR C Reports by Month</span></span></span>
 
-NUFORC itself gives a warning against over-reading raw entries. In a 2023 update, it said it had begun adding explanation fields to some reports, including categories such as aircraft, balloon, bird, camera anomaly, drone, meteor, planet/star, satellite, Starlink and hoax. It also stated that the most common misidentifications were Starlink satellites and camera anomalies such as lens flares or reflections, and added that untagged reports should not be treated as genuine extraterrestrial craft because most reported sightings turn out to have prosaic terrestrial explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/722-new-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">722 New UFO Reports Posted | NUFORC</span><span class="citation-popover-snippet">722 New UFO Reports Posted | NUFORC</span></span></span>
-
+NUFORC itself gives a warning against over-reading raw entries. In a 2023 update, it said it had begun adding explanation fields to some reports, including categories such as aircraft, balloon, bird, camera anomaly, drone, meteor, planet/star, satellite, Starlink and hoax. It also stated that the most common misidentifications were Starlink satellites and camera anomalies such as lens flares or reflections, and added that untagged reports should not be treated as genuine extraterrestrial craft because most reported sightings turn out to have prosaic terrestrial explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/722-new-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">722 New UFO Reports Posted &#124; NUFORC</span><span class="citation-popover-snippet">722 New UFO Reports Posted &#124; NUFORC</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271-Illustration-1-dark.svg" | relative_url }}" alt="NUFORC illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Useful Fields and Common Gaps
@@ -384,7 +382,6 @@ A second gap is reporting lag. NUFORC may receive a report long after the event,
 
 A third gap is location precision. NUFORC now asks witnesses to mark exact locations and offers privacy options, but many public analyses use city-level locations or geocoded centroids. That is useful for broad mapping, yet it can blur the relationship between a report and a nearby airport, military operations area, launch site, coastline or dark-sky region. RAND’s 2023 study, for example, analysed 101,151 NUFORC reports across 12,783 US census designated places and explicitly warned that its analysis should not be read as an endorsement of individual NUFORC reports or of the database’s overall accuracy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LPSKB6ZZQm0" title="Data drives disclosure: Creating a civilian UFO reporting network | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LPSKB6ZZQm0" target="_blank" rel="noopener noreferrer">Data drives disclosure: Creating a civilian UFO reporting network | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 160.7K &middot; Uploaded: March 2026 &middot; Length: 1 hour 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LPSKB6ZZQm0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LPSKB6ZZQm0">Open on YouTube</a></p></div></div></div>
 
 ## How False Patterns Appear
@@ -400,7 +397,6 @@ A third pitfall is assuming that a geographic hotspot is inherently anomalous. R
 That result is important because it cuts against a simplistic reading of maps. A cluster near military airspace could interest defence analysts, but it might also be exactly where unusual-looking training flights, flares, aircraft lighting patterns or restricted-area activity are more likely. The same cluster can therefore support two modest questions — “what ordinary activities are nearby?” and “are any reports still unexplained after checking those activities?” — but not the stronger claim that the cluster proves extraordinary craft.
 
 A fourth pitfall is shape inflation. Labels such as “triangle”, “orb”, “formation” or “fireball” feel precise, but witnesses may use them differently. A triangular object could be a structured craft, three lights on separate aircraft, a single aircraft seen at an angle, a drone formation, or a perceived outline between lights. “Orb” can mean a glowing sphere, an out-of-focus light, a camera artefact or a distant aircraft light. Shape is a useful sorting field, but it is not a physical classification unless corroborated by stronger context.
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271-Illustration-2-dark.svg" | relative_url }}" alt="NUFORC illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Researchers Avoid False Patterns
@@ -421,9 +417,7 @@ Another useful safeguard is to treat missing explanations conservatively. NUFORC
 
 Finally, serious pattern work should preserve the link back to individual cases. Aggregation is useful, but it can hide heterogeneity. A thousand “light” reports may include satellites, aircraft, meteors, drones, planets, lanterns, camera reflections and a few genuinely puzzling observations. The best use of NUFORC moves back and forth between the map and the report text: patterns suggest where to look, while case details determine whether the pattern survives scrutiny.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Yjk4B4FMunM" title="UFOs have gone Mainstream! Eyewitness Reports - Peter Davenport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Yjk4B4FMunM" target="_blank" rel="noopener noreferrer">UFOs have gone Mainstream! Eyewitness Reports - Peter Davenport</a></p><p class="youtube-embed-meta">Channel: Cuyamungue Institute &middot; Views: 1.1K &middot; Uploaded: October 2023 &middot; Length: 1 hour 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Yjk4B4FMunM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Yjk4B4FMunM">Open on YouTube</a></p></div></div></div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/d_ILkT94FoU" title="Washington man spent last 25 years running National UFO Reporting Center" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=d_ILkT94FoU" target="_blank" rel="noopener noreferrer">Washington man spent last 25 years running National UFO Reporting Center</a></p><p class="youtube-embed-meta">Channel: KREM 2 News &middot; Views: 6.3K &middot; Uploaded: February 2019 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=d_ILkT94FoU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=d_ILkT94FoU">Open on YouTube</a></p></div></div></div>
 
@@ -433,8 +427,7 @@ NUFORC can tell readers where and when people reported unusual aerial experience
 
 It cannot, by itself, tell readers how many extraordinary objects crossed the sky. It cannot turn a witness estimate of speed into a measured speed unless distance and geometry are known. It cannot make a hotspot anomalous without checking ordinary local causes. It cannot remove [media effects]({{ 'media-effects/' | relative_url }}), satellite effects, memory rounding or reporting lag unless analysts deliberately test for them.
 
-That is not a weakness unique to NUFORC; it is the central challenge of open [UFO report databases]({{ 'ufo-report-databases-and-catalogues/' | relative_url }}). Their public accessibility is exactly what makes them valuable, but openness brings uneven reports, self-selection, missing metadata and ordinary sky traffic mixed with the genuinely puzzling. The best conclusion is not that NUFORC should be dismissed. It is that NUFORC should be handled like a serious but noisy evidence source: excellent for finding patterns, poor for proving them without corroboration, and most informative when its gaps are treated as part of the data rather than ignored.
-
+That is not a weakness unique to NUFORC; it is the central challenge of open UFO report databases. Their public accessibility is exactly what makes them valuable, but openness brings uneven reports, self-selection, missing metadata and ordinary sky traffic mixed with the genuinely puzzling. The best conclusion is not that NUFORC should be dismissed. It is that NUFORC should be handled like a serious but noisy evidence source: excellent for finding patterns, poor for proving them without corroboration, and most informative when its gaps are treated as part of the data rather than ignored.
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271-Illustration-3-dark.svg" | relative_url }}" alt="NUFORC illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -835,176 +828,176 @@ That is not a weakness unique to NUFORC; it is the central challenge of open [UF
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Latest UFO Sightings...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
    Title: UF O Sighting Report Form | NUFORC  
-   Link: [https://nuforc.org/reportform-wp/](https://nuforc.org/reportform-wp/)  
+   Link: <a href="https://nuforc.org/reportform-wp/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/reportform-wp/</a>  
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports by Month  
-   Link: [https://nuforc.org/ndx/?id=event](https://nuforc.org/ndx/?id=event)  
+   Link: <a href="https://nuforc.org/ndx/?id=event" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=event</a>  
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
    Title: 722 New UFO Reports Posted | NUFORC  
-   Link: [https://nuforc.org/722-new-ufo-reports/](https://nuforc.org/722-new-ufo-reports/)  
+   Link: <a href="https://nuforc.org/722-new-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/722-new-ufo-reports/</a>  
 
 5. <a id="endnote-5"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-023-49527-x](https://www.nature.com/articles/s41598-023-49527-x)  
+   Link: <a href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-49527-x</a>  
 
 6. <a id="endnote-6"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: rand.org  
-   Link: [https://www.rand.org/pubs/research_reports/RRA2475-1.html](https://www.rand.org/pubs/research_reports/RRA2475-1.html)  
+   Link: <a href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/research_reports/RRA2475-1.html</a>  
 
 8. <a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/368458403_Social_factors_and_UFO_reports_was_the_SARS-CoV-2_pandemic_associated_with_an_increase_in_UFO_reporting](https://www.researchgate.net/publication/368458403_Social_factors_and_UFO_reports_was_the_SARS-CoV-2_pandemic_associated_with_an_increase_in_UFO_reporting)  
+   Link: <a href="https://www.researchgate.net/publication/368458403_Social_factors_and_UFO_reports_was_the_SARS-CoV-2_pandemic_associated_with_an_increase_in_UFO_reporting" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/368458403_Social_factors_and_UFO_reports_was_the_SARS-CoV-2_pandemic_associated_with_an_increase_in_UFO_reporting</a>  
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect On the dynamics of reporting data: A case study of UFO sightings  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295](https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295</a>  
 
 10. <a id="endnote-10"></a>
    Source: faa.gov  
    Title: Section 8. Unidentified Anomalous Phenomena (UAP) Reports  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html](https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html</a>  
 
 11. <a id="endnote-11"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports by Location NUFORC Reports by Location; USA  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 12. <a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
 13. <a id="endnote-13"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/reportform/](https://nuforc.org/reportform/)  
+   Link: <a href="https://nuforc.org/reportform/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/reportform/</a>  
 
 14. <a id="endnote-14"></a>
    Source: nuforc.org  
    Title: report a ufo  
-   Link: [https://nuforc.org/report-a-ufo/](https://nuforc.org/report-a-ufo/)  
+   Link: <a href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/report-a-ufo/</a>  
 
 15. <a id="endnote-15"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
 16. <a id="endnote-16"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=all](https://nuforc.org/subndx/?id=all)  
+   Link: <a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
 
 17. <a id="endnote-17"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=highlights](https://nuforc.org/subndx/?id=highlights)  
+   Link: <a href="https://nuforc.org/subndx/?id=highlights" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=highlights</a>  
 
 18. <a id="endnote-18"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/terms/](https://nuforc.org/terms/)  
+   Link: <a href="https://nuforc.org/terms/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/terms/</a>  
 
 19. <a id="endnote-19"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/univutahstudy/](https://nuforc.org/univutahstudy/)  
+   Link: <a href="https://nuforc.org/univutahstudy/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/univutahstudy/</a>  
 
 20. <a id="endnote-20"></a>
    Source: faa.gov  
    Title: 2025 09 12 Notice N7110.800 Unidentied Anomalous Phenomena (UAP) Reports FINAL  
-   Link: [https://www.faa.gov/documentLibrary/media/Notice/2025-09-12_Notice_N7110.800_Unidentied_Anomalous_Phenomena_%28UAP%29_Reports_FINAL.pdf](https://www.faa.gov/documentLibrary/media/Notice/2025-09-12_Notice_N7110.800_Unidentied_Anomalous_Phenomena_%28UAP%29_Reports_FINAL.pdf)  
+   Link: <a href="https://www.faa.gov/documentLibrary/media/Notice/2025-09-12_Notice_N7110.800_Unidentied_Anomalous_Phenomena_%28UAP%29_Reports_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/documentLibrary/media/Notice/2025-09-12_Notice_N7110.800_Unidentied_Anomalous_Phenomena_%28UAP%29_Reports_FINAL.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 22. <a id="endnote-22"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41599-024-04182-z](https://www.nature.com/articles/s41599-024-04182-z)  
+   Link: <a href="https://www.nature.com/articles/s41599-024-04182-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-024-04182-z</a>  
 
 23. <a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/376519968_An_environmental_analysis_of_public_UAP_sightings_and_sky_view_potential](https://www.researchgate.net/publication/376519968_An_environmental_analysis_of_public_UAP_sightings_and_sky_view_potential)  
+   Link: <a href="https://www.researchgate.net/publication/376519968_An_environmental_analysis_of_public_UAP_sightings_and_sky_view_potential" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376519968_An_environmental_analysis_of_public_UAP_sightings_and_sky_view_potential</a>  
 
 24. <a id="endnote-24"></a>
    Source: rand.org  
    Title: RAND RRA2475 1  
-   Link: [https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf](https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf)  
+   Link: <a href="https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf</a>  
 
 25. <a id="endnote-25"></a>
    Source: rand.org  
    Title: ufos are not the only potential threat in american  
-   Link: [https://www.rand.org/pubs/commentary/2023/07/ufos-are-not-the-only-potential-threat-in-american.html](https://www.rand.org/pubs/commentary/2023/07/ufos-are-not-the-only-potential-threat-in-american.html)  
+   Link: <a href="https://www.rand.org/pubs/commentary/2023/07/ufos-are-not-the-only-potential-threat-in-american.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/commentary/2023/07/ufos-are-not-the-only-potential-threat-in-american.html</a>  
 
 26. <a id="endnote-26"></a>
    Source: rand.org  
    Title: not the x files  
-   Link: [https://www.rand.org/nsrd/news/nsrd-upfront/2023/12/not-the-x-files.html](https://www.rand.org/nsrd/news/nsrd-upfront/2023/12/not-the-x-files.html)  
+   Link: <a href="https://www.rand.org/nsrd/news/nsrd-upfront/2023/12/not-the-x-files.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/nsrd/news/nsrd-upfront/2023/12/not-the-x-files.html</a>  
 
 27. <a id="endnote-27"></a>
    Source: Wikipedia  
    Title: National UFO Reporting Center  
-   Link: [https://en.wikipedia.org/wiki/National_UFO_Reporting_Center](https://en.wikipedia.org/wiki/National_UFO_Reporting_Center)  
+   Link: <a href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_UFO_Reporting_Center</a>  
 
 28. <a id="endnote-28"></a>
    Source: zenodo.org  
-   Link: [https://zenodo.org/records/1205624](https://zenodo.org/records/1205624)  
+   Link: <a href="https://zenodo.org/records/1205624" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/1205624</a>  
 
 29. <a id="endnote-29"></a>
    Source: cuny.manifoldapp.org  
    Title: national ufo reporting center  
-   Link: [https://cuny.manifoldapp.org/read/national-ufo-reporting-center](https://cuny.manifoldapp.org/read/national-ufo-reporting-center)  
+   Link: <a href="https://cuny.manifoldapp.org/read/national-ufo-reporting-center" target="_blank" rel="noopener noreferrer nofollow">https://cuny.manifoldapp.org/read/national-ufo-reporting-center</a>  
 
 ### Additional References
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=nraHhvzdZAQ](https://www.youtube.com/watch?v=nraHhvzdZAQ)  
+   Link: <a href="https://www.youtube.com/watch?v=nraHhvzdZAQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nraHhvzdZAQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs have gone Mainstream! Eyewitness Reports - Peter Davenport...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=LPSKB6ZZQm0](https://www.youtube.com/watch?v=LPSKB6ZZQm0)  
+   Link: <a href="https://www.youtube.com/watch?v=LPSKB6ZZQm0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LPSKB6ZZQm0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Washington man spent last 25 years running National UFO Reporting Center...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
    Title: UFOs have gone Mainstream! Eyewitness Reports  
-   Link: [https://www.youtube.com/watch?v=Yjk4B4FMunM](https://www.youtube.com/watch?v=Yjk4B4FMunM)  
+   Link: <a href="https://www.youtube.com/watch?v=Yjk4B4FMunM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Yjk4B4FMunM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Data drives disclosure: Creating a civilian UFO reporting network | Reality Check...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/](https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/)  
+   Link: <a href="https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/</a>  
 
 34. <a id="endnote-34"></a>
    Source: aiaa.org  
-   Link: [https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf](https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf)  
+   Link: <a href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf</a>  
 
 35. <a id="endnote-35"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database](https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database)  
+   Link: <a href="https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database</a>  
 
 36. <a id="endnote-36"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/psmgz1/applied_datascience_to_nuforc_database_some/](https://www.reddit.com/r/UFOs/comments/psmgz1/applied_datascience_to_nuforc_database_some/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/psmgz1/applied_datascience_to_nuforc_database_some/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/psmgz1/applied_datascience_to_nuforc_database_some/</a>  
 
 37. <a id="endnote-37"></a>
    Source: medium.com  
-   Link: [https://medium.com/data-science/are-we-alone-in-the-universe-data-analysis-and-data-visualization-of-ufo-sightings-with-r-42d0798679c3](https://medium.com/data-science/are-we-alone-in-the-universe-data-analysis-and-data-visualization-of-ufo-sightings-with-r-42d0798679c3)  
+   Link: <a href="https://medium.com/data-science/are-we-alone-in-the-universe-data-analysis-and-data-visualization-of-ufo-sightings-with-r-42d0798679c3" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/data-science/are-we-alone-in-the-universe-data-analysis-and-data-visualization-of-ufo-sightings-with-r-42d0798679c3</a>  
 
 38. <a id="endnote-38"></a>
    Source: medium.com  
-   Link: [https://medium.com/data-science/data-analysis-everything-youve-ever-wanted-to-know-about-ufo-sightings-e16f2ed34151](https://medium.com/data-science/data-analysis-everything-youve-ever-wanted-to-know-about-ufo-sightings-e16f2ed34151)  
+   Link: <a href="https://medium.com/data-science/data-analysis-everything-youve-ever-wanted-to-know-about-ufo-sightings-e16f2ed34151" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/data-science/data-analysis-everything-youve-ever-wanted-to-know-about-ufo-sightings-e16f2ed34151</a>  
 
 39. <a id="endnote-39"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/18ift62/dr_sean_kirkpatrick_publishes_an_environmental/](https://www.reddit.com/r/UFOs/comments/18ift62/dr_sean_kirkpatrick_publishes_an_environmental/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/18ift62/dr_sean_kirkpatrick_publishes_an_environmental/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/18ift62/dr_sean_kirkpatrick_publishes_an_environmental/</a>

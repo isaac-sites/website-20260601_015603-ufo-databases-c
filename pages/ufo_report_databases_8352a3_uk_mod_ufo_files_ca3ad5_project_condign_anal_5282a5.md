@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /uk-files/
 nav_short_title: Project Condign
 title: How Project Condign Assessed UK UFO Phenomena
-title_full: How Project Condign Assessed UK UFO Phenomena | UK Files
+title_full: How Project Condign Assessed UK UFO Phenomena
 display_title_short: Project Condign
 display_title: Project Condign
 heading_title: How Project Condign Assessed UK UFO Phenomena
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 21:07:07'
-parent_title: What the UK UFO Files Actually Show | UFO Archives
+parent_title: What the UK UFO Files Actually Show
 parent_permalink: /uk-files/
 parent_nav_short_title: UK Files
 parent_heading_title: What the UK UFO Files Actually Show
@@ -274,8 +274,7 @@ image: /assets/images/ufo_report_databases_8352a3_uk_mod_ufo_files_ca3ad5_projec
 
 ## Introduction
 
-Project Condign was the UK Ministry of Defence’s most substantial internal study of unidentified aerial phenomena (UAP), the term its authors preferred to “UFOs”. Conducted by the Defence Intelligence Staff between 1997 and 2000, the classified assessment examined patterns drawn from roughly 10,000 reports accumulated over several decades, including sightings made by military personnel, police officers, pilots and members of the public. Rather than searching for evidence of extraterrestrial spacecraft, the study asked a narrower defence question: did these reports reveal a threat to UK airspace or national security? The resulting analysis became one of the most detailed official attempts to evaluate a large UFO-report database within the British government. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Could we have hitched a ride on UFOs?</span><span class="citation-popover-snippet">| Science22 Feb 2007 —... Project Condign report which analysed more than 10,000 possible UFO sightings collected over several decades...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Could we have hitched a ride on UFOs?</span><span class="citation-popover-snippet">| Science22 Feb 2007 —... Project Condign report which analysed more than 10,000 possible UFO sightings collected over several decades...</span></span></span>
-
+Project Condign was the UK Ministry of Defence’s most substantial internal study of unidentified aerial phenomena (UAP), the term its authors preferred to “UFOs”. Conducted by the Defence Intelligence Staff between 1997 and 2000, the classified assessment examined patterns drawn from roughly 10,000 reports accumulated over several decades, including sightings made by military personnel, police officers, pilots and members of the public. Rather than searching for evidence of extraterrestrial spacecraft, the study asked a narrower defence question: did these reports reveal a threat to UK airspace or national security? The resulting analysis became one of the most detailed official attempts to evaluate a large UFO-report database within the British government. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Could we have hitched a ride on UFOs?</span><span class="citation-popover-snippet">Science22 Feb 2007 —... Project Condign report which analysed more than 10,000 possible UFO sightings collected over several decades...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Could we have hitched a ride on UFOs?</span><span class="citation-popover-snippet">Science22 Feb 2007 —... Project Condign report which analysed more than 10,000 possible UFO sightings collected over several decades...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_uk_mod_ufo_files_ca3ad5_project_condign_anal_5282a5-Illustration-1-dark.svg" | relative_url }}" alt="Project Condign illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_uk_mod_ufo_files_ca3ad5_project_condign_anal_5282a5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_uk_mod_ufo_files_ca3ad5_project_condign_anal_5282a5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Unlike the broader Ministry of Defence UFO files, which contain correspondence, sighting logs and administrative records, Project Condign was a technical intelligence assessment intended for internal circulation. Its significance lies in how it analysed a large body of reports, what explanations it favoured, and how its conclusions influenced official thinking about UFO reports in the United Kingdom. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nickpope.net/wpte19/project-condign/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nickpope.net">[Nick Pope]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nickpope.net</span><span class="citation-popover-snippet">Conscious Plasmas &amp; UFO Coverups: The Hidden Truth in Project Condign (Pt. 1</span></span></span>
@@ -295,19 +294,17 @@ The study argued that some reports came from reliable witnesses who sincerely ob
 
 The database-driven approach also sought common physical characteristics across reports. Analysts examined descriptions of luminous objects, apparent manoeuvres, changes in colour, sudden accelerations, silent movement and visual effects reported under different environmental conditions. Rather than treating each sighting as an isolated mystery, the study looked for recurring patterns across thousands of cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bahaistudies.net/asma/condign_report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bahaistudies.net">[Baha&#x27;i Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bahaistudies.net</span><span class="citation-popover-snippet">A relational database has been designed to study the pattern...Read more...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/meIvNtoZqFo" title="Nick Pope: Project Condign on UFO Secrecy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=meIvNtoZqFo" target="_blank" rel="noopener noreferrer">Nick Pope: Project Condign on UFO Secrecy</a></p><p class="youtube-embed-meta">Channel: The Vortex &middot; Views: 2.9K &middot; Uploaded: November 2015 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=meIvNtoZqFo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=meIvNtoZqFo">Open on YouTube</a></p></div></div></div>
 
 ## Why the Study Focused on Atmospheric Phenomena
 
 One of Condign’s most distinctive conclusions was that at least some reports described genuine physical phenomena, but not necessarily vehicles or craft. The report proposed that many otherwise unexplained sightings could result from poorly understood atmospheric plasma effects.
 
-According to the assessment, certain atmospheric and electrical conditions might create transient luminous phenomena capable of appearing as structured objects, producing unusual colours, seeming to hover or manoeuvre, and creating misleading perceptions of distance, size and speed. Analysts linked this possibility to rare electrical and meteorological processes, including phenomena related to ball lightning and other plasma-like effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Could we have hitched a ride on UFOs?</span><span class="citation-popover-snippet">| Science22 Feb 2007 —... Project Condign report which analysed more than 10,000 possible UFO sightings collected over several decades...</span></span></span>
+According to the assessment, certain atmospheric and electrical conditions might create transient luminous phenomena capable of appearing as structured objects, producing unusual colours, seeming to hover or manoeuvre, and creating misleading perceptions of distance, size and speed. Analysts linked this possibility to rare electrical and meteorological processes, including phenomena related to ball lightning and other plasma-like effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Could we have hitched a ride on UFOs?</span><span class="citation-popover-snippet">Science22 Feb 2007 —... Project Condign report which analysed more than 10,000 possible UFO sightings collected over several decades...</span></span></span>
 
-This explanation represented a middle position between two common extremes. Condign did not conclude that all reports were mistakes, nor did it argue that they represented extraterrestrial technology. Instead, it suggested that some sightings reflected real but poorly understood atmospheric events that observers interpreted as structured aerial objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Could we have hitched a ride on UFOs?</span><span class="citation-popover-snippet">| Science22 Feb 2007 —... Project Condign report which analysed more than 10,000 possible UFO sightings collected over several decades...</span></span></span>
+This explanation represented a middle position between two common extremes. Condign did not conclude that all reports were mistakes, nor did it argue that they represented extraterrestrial technology. Instead, it suggested that some sightings reflected real but poorly understood atmospheric events that observers interpreted as structured aerial objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Could we have hitched a ride on UFOs?</span><span class="citation-popover-snippet">Science22 Feb 2007 —... Project Condign report which analysed more than 10,000 possible UFO sightings collected over several decades...</span></span></span>
 
 The report therefore treated many UFO reports as observations of unusual environmental phenomena rather than encounters with unknown aircraft. Analysts believed this interpretation better matched the overall pattern seen across thousands of reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bahaistudies.net/asma/condign_report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bahaistudies.net">[Baha&#x27;i Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bahaistudies.net</span><span class="citation-popover-snippet">A relational database has been designed to study the pattern...Read more...</span></span></span>
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_uk_mod_ufo_files_ca3ad5_project_condign_anal_5282a5-Illustration-2-dark.svg" | relative_url }}" alt="Project Condign illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_uk_mod_ufo_files_ca3ad5_project_condign_anal_5282a5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_uk_mod_ufo_files_ca3ad5_project_condign_anal_5282a5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Condign Explained Reported Performance Characteristics
@@ -320,7 +317,6 @@ The report also suggested that electromagnetic and optical effects might contrib
 
 This emphasis on observational limitations was important because it allowed the Defence Intelligence Staff to explain many seemingly remarkable reports without dismissing the witnesses themselves as unreliable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bahaistudies.net/asma/condign_report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bahaistudies.net">[Baha&#x27;i Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bahaistudies.net</span><span class="citation-popover-snippet">A relational database has been designed to study the pattern...Read more...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EV9fpCebc2A" title="Calvine UFO, FOIA &amp; UK UFOs | UAP Files Podcast S3E1 | Dr. David Clarke" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EV9fpCebc2A" target="_blank" rel="noopener noreferrer">Calvine UFO, FOIA &amp; UK UFOs | UAP Files Podcast S3E1 | Dr. David Clarke</a></p><p class="youtube-embed-meta">Channel: UAP Files Podcast 🛸 &middot; Views: 8.8K &middot; Uploaded: January 2025 &middot; Length: 1 hour 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EV9fpCebc2A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EV9fpCebc2A">Open on YouTube</a></p></div></div></div>
 
 ## Defence Relevance and Air Safety Concerns
@@ -331,22 +327,20 @@ Analysts considered the possibility that pilots encountering unexpected luminous
 
 The study's findings also supported the long-standing MOD position that UFO reports had not produced evidence of a direct threat to the United Kingdom. While some cases remained unexplained, analysts found no indication of hostile intent or technologically superior intrusions into British airspace. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/intl-uk-project-condign-volume-1-uap-vol1-annex-atod" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-title">intl uk project condign volume 1 uap vol1 annex atod</span><span class="citation-popover-snippet">UFO TransparencyUnidentified Aerial Phenomena in the UK Air Defence Region...18 May 2026 — Project Condign is a 400-page classified UK M...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MN4g2aEBxdQ" title="UFO file release February 2010" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MN4g2aEBxdQ" target="_blank" rel="noopener noreferrer">UFO file release February 2010</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 454.7K &middot; Uploaded: February 2010 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MN4g2aEBxdQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MN4g2aEBxdQ">Open on YouTube</a></p></div></div></div>
 
 ## Internal Circulation and Later Release
 
-Project Condign was completed around 2000 and circulated within parts of the Ministry of Defence and Defence Intelligence community. For several years its existence remained largely unknown outside government. The report became publicly known only after Freedom of Information requests led to its release in 2006. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Could we have hitched a ride on UFOs?</span><span class="citation-popover-snippet">| Science22 Feb 2007 —... Project Condign report which analysed more than 10,000 possible UFO sightings collected over several decades...</span></span></span>
+Project Condign was completed around 2000 and circulated within parts of the Ministry of Defence and Defence Intelligence community. For several years its existence remained largely unknown outside government. The report became publicly known only after Freedom of Information requests led to its release in 2006. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Could we have hitched a ride on UFOs?</span><span class="citation-popover-snippet">Science22 Feb 2007 —... Project Condign report which analysed more than 10,000 possible UFO sightings collected over several decades...</span></span></span>
 
-The declassification attracted considerable attention because it revealed that the MOD had conducted a lengthy intelligence study despite publicly maintaining that UFO reports had little defence significance. Critics argued that the existence of a detailed classified assessment appeared inconsistent with official statements that the subject was not a priority. Supporters of the MOD position responded that the report ultimately reinforced the conclusion that no national-security threat had been identified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Could we have hitched a ride on UFOs?</span><span class="citation-popover-snippet">| Science22 Feb 2007 —... Project Condign report which analysed more than 10,000 possible UFO sightings collected over several decades...</span></span></span>
+The declassification attracted considerable attention because it revealed that the MOD had conducted a lengthy intelligence study despite publicly maintaining that UFO reports had little defence significance. Critics argued that the existence of a detailed classified assessment appeared inconsistent with official statements that the subject was not a priority. Supporters of the MOD position responded that the report ultimately reinforced the conclusion that no national-security threat had been identified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Could we have hitched a ride on UFOs?</span><span class="citation-popover-snippet">Science22 Feb 2007 —... Project Condign report which analysed more than 10,000 possible UFO sightings collected over several decades...</span></span></span>
 
 The report also introduced many readers to the MOD’s preferred term, “unidentified aerial phenomena”, reflecting an effort to move away from the cultural baggage associated with the term “UFO”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/2012/08/17/seeing-sprites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[drdavidclarke.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Seeing Sprites</span><span class="citation-popover-snippet">Dr David Clarke17 Aug 2012 — The study, codenamed &#x27;Project Condign&#x27;, concluded that UAPs – as the MoD&#x27;s Defence Intelligence Staff prefer...</span></span></span>
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_uk_mod_ufo_files_ca3ad5_project_condign_anal_5282a5-Illustration-3-dark.svg" | relative_url }}" alt="Project Condign illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_uk_mod_ufo_files_ca3ad5_project_condign_anal_5282a5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_uk_mod_ufo_files_ca3ad5_project_condign_anal_5282a5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Project Condign Contributed to the UK UFO Record
 
-Within the wider collection of Ministry of Defence UFO files, Project Condign stands out because it transformed a large archive of reports into a systematic intelligence assessment. Rather than focusing on famous individual incidents, it attempted to identify recurring characteristics across approximately 10,000 sightings and evaluate them through a defence and technical lens. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Could we have hitched a ride on UFOs?</span><span class="citation-popover-snippet">| Science22 Feb 2007 —... Project Condign report which analysed more than 10,000 possible UFO sightings collected over several decades...</span></span></span>
+Within the wider collection of Ministry of Defence UFO files, Project Condign stands out because it transformed a large archive of reports into a systematic intelligence assessment. Rather than focusing on famous individual incidents, it attempted to identify recurring characteristics across approximately 10,000 sightings and evaluate them through a defence and technical lens. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Could we have hitched a ride on UFOs?</span><span class="citation-popover-snippet">Science22 Feb 2007 —... Project Condign report which analysed more than 10,000 possible UFO sightings collected over several decades...</span></span></span>
 
 Its enduring importance is not that it solved every unexplained case. Instead, it demonstrated how British defence analysts approached a large UFO-report dataset: by assessing witness quality, searching for recurring patterns, considering atmospheric and physical explanations, and asking whether any reports indicated a threat to national security. The study concluded that unusual aerial observations were real experiences for witnesses, but that the available evidence pointed toward rare atmospheric phenomena and perceptual effects rather than hostile craft or extraterrestrial vehicles. UFO Transparency <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bahaistudies.net/asma/condign_report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bahaistudies.net">[Baha&#x27;i Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bahaistudies.net</span><span class="citation-popover-snippet">A relational database has been designed to study the pattern...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/science/2006/may/08/freedomofinformation.politics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianUFO sightings caused by freak weather, says MoD report8 May 2006 — The four-year Ministry of Defence study, codenamed Project...</span><span class="citation-popover-meta">Published: May 2006</span></span></span>
 
@@ -747,137 +741,137 @@ Its enduring importance is not that it solved every unexplained case. Instead, i
 1. <a id="endnote-1"></a>
    Source: drdavidclarke.co.uk  
    Title: Seeing Sprites  
-   Link: [https://drdavidclarke.co.uk/2012/08/17/seeing-sprites/](https://drdavidclarke.co.uk/2012/08/17/seeing-sprites/)  
+   Link: <a href="https://drdavidclarke.co.uk/2012/08/17/seeing-sprites/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2012/08/17/seeing-sprites/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr David Clarke17 Aug 2012 — The study, codenamed &#x27;Project Condign&#x27;, concluded that UAPs – as the MoD&#x27;s Defence Intelligence Staff prefer...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: archive.org  
    Title: condign vol 2 1 258  
-   Link: [https://archive.org/details/condign-vol-2-1-258](https://archive.org/details/condign-vol-2-1-258)  
+   Link: <a href="https://archive.org/details/condign-vol-2-1-258" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/condign-vol-2-1-258</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveProject Condign: Unidentified Aerial Phenomena in the UK...15 Sept 2023 — Project Condign: Unidentified Aerial Phenomena...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: archive.org  
    Title: 396201 defe 24 2090 1 djvu.txt  
-   Link: [https://archive.org/stream/396201-defe-24-2090-1/396201-defe-24-2090-1_djvu.txt](https://archive.org/stream/396201-defe-24-2090-1/396201-defe-24-2090-1_djvu.txt)  
+   Link: <a href="https://archive.org/stream/396201-defe-24-2090-1/396201-defe-24-2090-1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/396201-defe-24-2090-1/396201-defe-24-2090-1_djvu.txt</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;Project Condign&quot;During a policy review in 2000, DIS wished to establish once and for all the potential value, if any, of UF...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: drdavidclarke.co.uk  
    Title: ndign report  
-   Link: [https://drdavidclarke.co.uk/tag/condign-report/](https://drdavidclarke.co.uk/tag/condign-report/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Condign report | - Dr David Clarke2 Jul 2017 — UFO files released by The [National Archives](&amp;#123;&amp;#123; &#x27;archives/&#x27; | relative_url &amp;#125;&amp;#125;) in 2010 revealed how the UFO desk contacted th...</p></details>
+   Link: <a href="https://drdavidclarke.co.uk/tag/condign-report/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/tag/condign-report/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ndign report | - Dr David Clarke2 Jul 2017 — UFO files released by The National [Archives](&amp;#123;&amp;#123; &#x27;archives/&#x27; | relative_url &amp;#125;&amp;#125;) in 2010 revealed how the UFO desk contacted th...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: youtube.com  
    Title: Nick Pope: Project Condign on UFO Secrecy  
-   Link: [https://www.youtube.com/watch?v=meIvNtoZqFo](https://www.youtube.com/watch?v=meIvNtoZqFo)  
+   Link: <a href="https://www.youtube.com/watch?v=meIvNtoZqFo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=meIvNtoZqFo</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Conscious Plasmas &amp; UFO Coverups: The Hidden Truth in Project Condign (Pt. 1)...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: theguardian.com  
    Title: The Guardian Could we have hitched a ride on UFOs?  
-   Link: [https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it](https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| Science22 Feb 2007 —... Project Condign report which analysed more than 10,000 possible UFO sightings collected over several decades...</p></details>
+   Link: <a href="https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2007/feb/22/freedomofinformation.it</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Science22 Feb 2007 —... Project Condign report which analysed more than 10,000 possible UFO sightings collected over several decades...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/science/2006/may/08/freedomofinformation.politics](https://www.theguardian.com/science/2006/may/08/freedomofinformation.politics)  
+   Link: <a href="https://www.theguardian.com/science/2006/may/08/freedomofinformation.politics" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2006/may/08/freedomofinformation.politics</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianUFO sightings caused by freak weather, says MoD report8 May 2006 — The four-year Ministry of Defence study, codenamed Project...</p></details>
    Published: May 2006  
 
 8. <a id="endnote-8"></a>
    Source: nickpope.net  
-   Link: [https://nickpope.net/wpte19/project-condign/](https://nickpope.net/wpte19/project-condign/)  
+   Link: <a href="https://nickpope.net/wpte19/project-condign/" target="_blank" rel="noopener noreferrer nofollow">https://nickpope.net/wpte19/project-condign/</a>  
 
 9. <a id="endnote-9"></a>
    Source: bahaistudies.net  
-   Link: [https://www.bahaistudies.net/asma/condign_report.pdf](https://www.bahaistudies.net/asma/condign_report.pdf)  
+   Link: <a href="https://www.bahaistudies.net/asma/condign_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bahaistudies.net/asma/condign_report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A relational database has been designed to study the pattern...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: ufotransparency.com  
    Title: intl uk project condign volume 1 uap vol1 annex atod  
-   Link: [https://ufotransparency.com/files/intl-uk-project-condign-volume-1-uap-vol1-annex-atod](https://ufotransparency.com/files/intl-uk-project-condign-volume-1-uap-vol1-annex-atod)  
+   Link: <a href="https://ufotransparency.com/files/intl-uk-project-condign-volume-1-uap-vol1-annex-atod" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-uk-project-condign-volume-1-uap-vol1-annex-atod</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO TransparencyUnidentified Aerial Phenomena in the UK Air Defence Region...18 May 2026 — Project Condign is a 400-page classified UK M...</p></details>
    Published: May 2026  
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Project Condign  
-   Link: [https://en.wikipedia.org/wiki/Project_Condign](https://en.wikipedia.org/wiki/Project_Condign)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Condign</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project CondignJump up to: 1 2 3 4 5 6 7 Simpson, Mark (2006-05-07) &quot;UFO study finds no sign of aliens&quot;, BBC News · Jump up to: 1 2 3...</p></details>
    Published: May 7, 2006  
 
 12. <a id="endnote-12"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports, correspondence and parliamentary business (1950-1995). Search Discovery, our catalogue in DEFE, AIR, FCO and BJ for records...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
    Title: Project Condign  
-   Link: [https://www.reddit.com/r/ufo/comments/k2393g/project_condign_the_full_condign_report/](https://www.reddit.com/r/ufo/comments/k2393g/project_condign_the_full_condign_report/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/k2393g/project_condign_the_full_condign_report/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/k2393g/project_condign_the_full_condign_report/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Full Condign Report: r/ufoUS uses aliens and UFOs &#x27;to cover up own spycraft&#x27; · r/ufo - US uses aliens and UFOs &#x27;to cover up own spyc...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: ufotransparency.com  
    Title: Unidentified Aerial Phenomena in the UK Air Defence Region  
-   Link: [https://ufotransparency.com/files/intl-uk-project-condign-volume-1-uap-vol1-annex-dtof](https://ufotransparency.com/files/intl-uk-project-condign-volume-1-uap-vol1-annex-dtof)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 20, 2026 — The UK National [Archives](&amp;#123;&amp;#123; &#x27;archives/&#x27; | relative_url &amp;#125;&amp;#125;) at Kew holds the DEFE 24 series, roughly 60,000 pages of declassified MoD UFO desk files covering...</p></details>
+   Link: <a href="https://ufotransparency.com/files/intl-uk-project-condign-volume-1-uap-vol1-annex-dtof" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-uk-project-condign-volume-1-uap-vol1-annex-dtof</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 20, 2026 — The UK National Archives at Kew holds the DEFE 24 series, roughly 60,000 pages of declassified MoD UFO desk files covering...</p></details>
    Published: May 20, 2026  
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/17az93j/lost_and_found_project_condign_the_uk_mods_secret/](https://www.reddit.com/r/UFOs/comments/17az93j/lost_and_found_project_condign_the_uk_mods_secret/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/17az93j/lost_and_found_project_condign_the_uk_mods_secret/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/17az93j/lost_and_found_project_condign_the_uk_mods_secret/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Condign: The UK MoD&#x27;s Secret UFO studyUFO Disclosure appears to have a new psychological reaction from society that is fascinatin...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/r0ivee/uk_mod_report_exceptional_ufos_with_aerodynamic/](https://www.reddit.com/r/UFOs/comments/r0ivee/uk_mod_report_exceptional_ufos_with_aerodynamic/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/r0ivee/uk_mod_report_exceptional_ufos_with_aerodynamic/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/r0ivee/uk_mod_report_exceptional_ufos_with_aerodynamic/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UK MoD Report: “Exceptional” UFOs With “Aerodynamic...With respect to the possibility of the use of plasmas for military applications… t...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsEarly letters regarding UFO sightings · Correspondence on the [Rendlesham Forest](&amp;#123;&amp;#123; &#x27;rendlesham-forest/&#x27; | relative_url &amp;#125;&amp;#125;) incident · Documents on UFO policy and communi...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: discovered.ed.ac.uk  
-   Link: [https://discovered.ed.ac.uk/discovery/fulldisplay?context=L&docid=alma9924432585002466&lang=en&query=sub%2Cexact%2CIntention+%28Logic%29&tab=Everything&vid=44UOE_INST%3A44UOE_VU2](https://discovered.ed.ac.uk/discovery/fulldisplay?context=L&docid=alma9924432585002466&lang=en&query=sub%2Cexact%2CIntention+%28Logic%29&tab=Everything&vid=44UOE_INST%3A44UOE_VU2)  
+   Link: <a href="https://discovered.ed.ac.uk/discovery/fulldisplay?context=L&amp;docid=alma9924432585002466&amp;lang=en&amp;query=sub%2Cexact%2CIntention+%28Logic%29&amp;tab=Everything&amp;vid=44UOE_INST%3A44UOE_VU2" target="_blank" rel="noopener noreferrer nofollow">https://discovered.ed.ac.uk/discovery/fulldisplay?context=L&amp;docid=alma9924432585002466&amp;lang=en&amp;query=sub%2Cexact%2CIntention+%28Logic%29&amp;tab=Everything&amp;vid=44UOE_INST%3A44UOE_VU2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files: the inside story of real-life sightings-- 4 Close Encounters -- UFO FILE: A Visit from the Men in Black -- 5 Crop Circles and...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: csmonitor.com  
    Title: UFO Britain releases documents explaining closure of military UFO desk  
-   Link: [https://www.csmonitor.com/Science/2013/0621/UFO-Britain-releases-documents-explaining-closure-of-military-UFO-desk](https://www.csmonitor.com/Science/2013/0621/UFO-Britain-releases-documents-explaining-closure-of-military-UFO-desk)  
+   Link: <a href="https://www.csmonitor.com/Science/2013/0621/UFO-Britain-releases-documents-explaining-closure-of-military-UFO-desk" target="_blank" rel="noopener noreferrer nofollow">https://www.csmonitor.com/Science/2013/0621/UFO-Britain-releases-documents-explaining-closure-of-military-UFO-desk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO: Britain releases documents explaining closure of...Jun 21, 2013 — Newly declassified files from Britain&#x27;s Ministry of Defense shed...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: phys.org  
    Title: Classified Mo D report reveals the secrets behind UFOs  
-   Link: [https://phys.org/news/2006-05-mod-reveals-secrets-ufos.html](https://phys.org/news/2006-05-mod-reveals-secrets-ufos.html)  
+   Link: <a href="https://phys.org/news/2006-05-mod-reveals-secrets-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2006-05-mod-reveals-secrets-ufos.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO found in the UK. “The fact remains that people are fascinated by the subject of UFOs and the MoD should have learned that 50 years of...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOscience/comments/s3a5my/the_ultimate_dirty_secret_about_ufos_according_to/](https://www.reddit.com/r/UFOscience/comments/s3a5my/the_ultimate_dirty_secret_about_ufos_according_to/)  
+   Link: <a href="https://www.reddit.com/r/UFOscience/comments/s3a5my/the_ultimate_dirty_secret_about_ufos_according_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOscience/comments/s3a5my/the_ultimate_dirty_secret_about_ufos_according_to/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>trials, he has found cases in the MoD&#x27;s files that left him stumped...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOscience/comments/qzvwxg/declassified_uk_ministry_of_defence_report_says/](https://www.reddit.com/r/UFOscience/comments/qzvwxg/declassified_uk_ministry_of_defence_report_says/)  
+   Link: <a href="https://www.reddit.com/r/UFOscience/comments/qzvwxg/declassified_uk_ministry_of_defence_report_says/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOscience/comments/qzvwxg/declassified_uk_ministry_of_defence_report_says/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>We err on the side of skepticism and science when possible but we...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: [https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/](https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/)  
+   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives – UFO files (MoD)No information is available for this page...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: academia.edu  
    Title: The British Mod Study Project Condign  
-   Link: [https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign](https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign)  
+   Link: <a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The British Mod Study: Project Condign29 Nov 2024 — For any defense or intelligence implications of UFO sightings at years, letters...</p></details>

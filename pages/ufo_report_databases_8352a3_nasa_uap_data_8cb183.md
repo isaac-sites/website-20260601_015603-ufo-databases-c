@@ -40,7 +40,7 @@ sidebar_expanded_urls:
 - /ufo-report-databases-and-catalogues/
 nav_short_title: NASA UAP
 title: Why NASA Wants Better UAP Data
-title_full: Why NASA Wants Better UAP Data | UFO Archives
+title_full: Why NASA Wants Better UAP Data
 display_title_short: NASA UAP
 display_title: NASA UAP
 heading_title: Why NASA Wants Better UAP Data
@@ -354,9 +354,8 @@ image: /assets/images/ufo_report_databases_8352a3_nasa_uap_data_8cb183-overview-
 
 NASA’s UAP study matters to [UFO report databases and catalogues]({{ 'ufo-report-databases-and-catalogues/' | relative_url }}) because it shifts the question from “how many sightings are listed?” to “what kind of data would let anyone test what was seen?” The 2023 NASA-commissioned independent study did not present a new catalogue of solved UFO cases. It argued that current UAP evidence is usually too thin for strong scientific conclusions because reports often lack calibrated sensors, multiple simultaneous measurements, baseline data and contextual metadata. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_nasa_uap_data_8cb183-overview.webp" | relative_url }}" alt="Overview image for NASA UAP" loading="eager" decoding="sync" fetchpriority="high">
-That makes NASA’s contribution less dramatic but more important: it treats UAP reporting as a data-quality problem. A useful UAP database should not merely store narratives, shapes and dates. It should preserve the conditions under which an observation was made, the instruments involved, their limitations, the local environment, possible known objects in the area, and the uncertainty attached to each interpretation. For readers comparing [UFO report databases]({{ 'ufo-report-databases-and-catalogues/' | relative_url }}), NASA’s work is a reminder that scientific value comes from repeatability, calibration and context, not from large [sighting counts]({{ 'sighting-counts/' | relative_url }}) alone.
+That makes NASA’s contribution less dramatic but more important: it treats UAP reporting as a data-quality problem. A useful UAP database should not merely store narratives, shapes and dates. It should preserve the conditions under which an observation was made, the instruments involved, their limitations, the local environment, possible known objects in the area, and the uncertainty attached to each interpretation. For readers comparing UFO report databases, NASA’s work is a reminder that scientific value comes from repeatability, calibration and context, not from large [sighting counts]({{ 'sighting-counts/' | relative_url }}) alone.
 
 ## Why NASA’s UAP study was really about evidence quality
 
@@ -364,7 +363,7 @@ NASA announced its UAP independent study in 2022 as a way to examine unidentifie
 
 The final report’s central finding was not that existing UAP catalogues contain a hidden answer. It was that existing records are often not the right kind of evidence. The report says that despite many accounts and images, the absence of “consistent, detailed, and curated observations” means there is not yet a sufficient body of data for definitive scientific conclusions. It also states that NASA’s independent study was a roadmap for future usable data, not a re-investigation of past incidents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
 
-This is a crucial distinction for UFO databases. A civilian database such as NUFORC can be valuable as a public reporting archive, and NUFORC describes its databank as the largest independently collected online set of UFO/UAP sighting reports. But a large public archive is not the same thing as a calibrated scientific dataset. NUFORC-style records can show patterns in public reporting, but they often cannot establish distance, speed, size, sensor [reliability]({{ 'reliability/' | relative_url }}) or whether a known object was present at the same time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">Data Bank | NUFORC</span></span></span>
+This is a crucial distinction for UFO databases. A civilian database such as [NUFORC]({{ 'nuforc/' | relative_url }}) can be valuable as a public reporting archive, and NUFORC describes its databank as the largest independently collected online set of UFO/UAP sighting reports. But a large public archive is not the same thing as a calibrated scientific dataset. NUFORC-style records can show patterns in public reporting, but they often cannot establish distance, speed, size, sensor [reliability]({{ 'reliability/' | relative_url }}) or whether a known object was present at the same time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC</span></span></span>
 
 NASA’s standard is closer to the one used in mature observational sciences: preserve the original measurement, document the instrument, record the context, compare with known baselines, and make uncertainty visible. In UAP work, that means a report should ideally connect witness testimony with time-synchronised optical, infrared, radar or other sensor data, plus aircraft tracks, satellite positions, weather, astronomical conditions and instrument settings. Without that supporting context, “unidentified” may simply mean “insufficiently documented”.
 
@@ -373,7 +372,6 @@ NASA’s standard is closer to the one used in mature observational sciences: pr
 NASA’s report repeatedly points to one practical principle: a UAP observation becomes more scientifically useful when it is measured in several ways at once. A single blurry image, a short narrative report or an isolated radar return may still be worth preserving, but it is hard to analyse in isolation. The report says the importance of detecting UAP with multiple, well-calibrated sensors is “paramount”, and specifically mentions the potential value of multispectral or hyperspectral data as part of a rigorous acquisition campaign. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
 
 For a UFO database or catalogue, that implies a hierarchy of evidential value:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -387,7 +385,6 @@ For a UFO database or catalogue, that implies a hierarchy of evidential value:
 NASA’s report also explains why artificial intelligence and machine learning are not shortcuts around bad evidence. It says AI and machine learning can help identify rare occurrences in very large datasets, but only when the data are well-characterised and collected to strong standards. At present, the report says UAP analysis is more limited by data quality than by a shortage of analysis techniques. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
 
 That matters because it undercuts a common misconception about UFO catalogues: that enough reports will automatically reveal the truth. Machine learning can find patterns, but it can also learn the biases of the reporting system. If a database is dominated by military training ranges, urban night-time sightings, publicity-driven reporting spikes or vague civilian submissions, an algorithm may discover the structure of the archive rather than the nature of the phenomenon.
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_nasa_uap_data_8cb183-Illustration-1-dark.svg" | relative_url }}" alt="NASA UAP illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_nasa_uap_data_8cb183-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_nasa_uap_data_8cb183-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The sensor problem: why cameras and radar are not automatically decisive
@@ -414,7 +411,6 @@ A 2024 study of a commercial aviation sighting over the Pacific gives a useful e
 
 For UAP databases, this means the most useful future records will not simply say “object observed”. They will also say what ordinary explanations were checked, what reference catalogues were consulted, and how strongly each explanation fits. The absence of a prosaic explanation should be treated as a documented analytic state, not as a dramatic conclusion.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nuBMnluJfs0" title="Replay! NASA&#x27;s Release of the Unidentified Anomalous Phenomena Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer">Replay! NASA&#x27;s Release of the Unidentified Anomalous Phenomena Report</a></p><p class="youtube-embed-meta">Channel: VideoFromSpace &middot; Views: 71.9K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nuBMnluJfs0">Open on YouTube</a></p></div></div></div>
 
 ## NASA’s role: not the UFO police, but a standards builder
@@ -433,10 +429,9 @@ NASA’s report identifies a major weakness in civilian UAP reporting: there is 
 
 This would be a different kind of database from a traditional witness-submission catalogue. A scientifically useful reporting system would ask for structured information and capture device data automatically where possible. It would not rely only on a witness remembering the direction, time, elevation, motion and duration after the event. A smartphone-based system could potentially record timestamp, GPS location, compass direction, camera settings and sensor motion, although privacy, data integrity and false-positive filtering would need careful design.
 
-NASA also pointed to the Aviation Safety Reporting System, or ASRS, which it administers for the US Federal Aviation Administration. ASRS is a confidential, voluntary and non-punitive aviation safety reporting system that captures reports and analyses safety data for the aviation community. NASA’s report says ASRS receives about 100,000 reports per year and could be better harnessed for commercial [pilot UAP reporting]({{ 'pilot-reports/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
+NASA also pointed to the Aviation Safety Reporting System, or ASRS, which it administers for the US Federal Aviation Administration. ASRS is a confidential, voluntary and non-punitive aviation safety reporting system that captures reports and analyses safety data for the aviation community. NASA’s report says ASRS receives about 100,000 reports per year and could be better harnessed for commercial pilot UAP reporting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
 
-The appeal of ASRS is not that pilot reports are automatically correct. It is that aviation already has a safety-reporting culture with structured submission channels, confidentiality protections and operational context. UAP reporting can be improved by borrowing from safety systems: reduce stigma, collect timely information, protect reporters from ridicule or punishment, and focus on hazard identification rather than spectacle.
-
+The appeal of ASRS is not that [pilot reports]({{ 'pilot-reports/' | relative_url }}) are automatically correct. It is that aviation already has a safety-reporting culture with structured submission channels, confidentiality protections and operational context. UAP reporting can be improved by borrowing from safety systems: reduce stigma, collect timely information, protect reporters from ridicule or punishment, and focus on hazard identification rather than spectacle.
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_nasa_uap_data_8cb183-Illustration-2-dark.svg" | relative_url }}" alt="NASA UAP illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_nasa_uap_data_8cb183-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_nasa_uap_data_8cb183-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What a NASA-influenced UAP record would include
@@ -444,7 +439,6 @@ The appeal of ASRS is not that pilot reports are automatically correct. It is th
 A NASA-style UAP entry would look less like a dramatic sighting story and more like an observational packet. It would still include human testimony, but the testimony would sit inside a wider evidence structure.
 
 A strong record would include:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -460,12 +454,11 @@ A strong record would include:
 
 The most important change is that uncertainty becomes part of the record. Instead of a binary choice between “explained” and “mysterious”, a scientific catalogue can distinguish cases that are probably aircraft, probably satellites, unresolved because of insufficient data, unresolved despite good data, or genuinely interesting because they appear to exceed known performance after distance and sensor issues have been constrained.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/C3uXUfgSadU" title="UAP Independent Study Event Post-Meeting Media Teleconference (May 31, 2023)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=C3uXUfgSadU" target="_blank" rel="noopener noreferrer">UAP Independent Study Event Post-Meeting Media Teleconference (May 31, 2023)</a></p><p class="youtube-embed-meta">Channel: NASA Video &middot; Views: 30.3K &middot; Uploaded: May 2023 &middot; Length: 1 hour 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=C3uXUfgSadU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=C3uXUfgSadU">Open on YouTube</a></p></div></div></div>
 
 ## Why sighting counts can mislead
 
-NASA’s approach also challenges the way UFO databases are often discussed in public. A database with tens of thousands of entries can look more persuasive than a smaller curated archive, but sighting counts are not evidence counts. They are shaped by reporting culture, [population density]({{ 'population-density/' | relative_url }}), media attention, aircraft traffic, satellite visibility, weather, smartphone use and the design of the reporting form.
+NASA’s approach also challenges the way UFO databases are often discussed in public. A database with tens of thousands of entries can look more persuasive than a smaller curated archive, but sighting counts are not evidence counts. They are shaped by reporting culture, population density, media attention, aircraft traffic, satellite visibility, weather, smartphone use and the design of the reporting form.
 
 Research using NUFORC data illustrates this caution. A 2023 environmental analysis of public UAP sightings used NUFORC reports to examine how local environmental and sky-viewing conditions relate to reports. Such work shows the value of large public datasets, but it also treats the reports as observations of reporting behaviour and environmental association, not as a simple inventory of anomalous objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -473,17 +466,15 @@ AARO’s reporting also shows why counts need context. Its FY2023 annual report 
 
 The lesson for UFO catalogues is direct: a good database should show where reports come from, who is likely to report, what sensors were available, what areas are overrepresented, and what kinds of events are easier or harder to capture. Without that, a map of sightings may partly be a map of people, flight routes, military sensors, publicity and database access.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YXBsIOGsZE0" title="REPLAY! NASA Unidentified Anomalous Phenomena Independent Study Report Update" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YXBsIOGsZE0" target="_blank" rel="noopener noreferrer">REPLAY! NASA Unidentified Anomalous Phenomena Independent Study Report Update</a></p><p class="youtube-embed-meta">Channel: The Launch Pad &middot; Views: 6.2K &middot; Uploaded: September 2023 &middot; Length: 1 hour 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YXBsIOGsZE0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YXBsIOGsZE0">Open on YouTube</a></p></div></div></div>
 
 ## The practical standard: make reports testable
 
 NASA’s UAP study does not settle the UFO question. Its value is that it gives databases and catalogues a better yardstick. A report is stronger when another analyst can test it against independent data. It is weaker when the original observation cannot be reconstructed, the sensor cannot be characterised, the range is unknown, or normal comparison objects were never checked.
 
-For UAP databases, the scientific direction is clear. Preserve original reports, but do not treat every entry as equal. Separate raw witness submissions from curated cases. Record missing data explicitly. Link cases to environmental, aviation and space-object datasets. Use confidence levels rather than sensational labels. Prioritise multi-sensor and multi-observer cases. Build baseline libraries of ordinary objects. Make metadata as important as the sighting description.
+For UAP databases, the scientific direction is clear. Preserve original reports, but do not treat every entry as equal. Separate raw witness submissions from curated cases. Record [missing data]({{ 'missing-data/' | relative_url }}) explicitly. Link cases to environmental, aviation and space-object datasets. Use confidence levels rather than sensational labels. Prioritise multi-sensor and multi-observer cases. Build baseline libraries of ordinary objects. Make metadata as important as the sighting description.
 
 That approach may reduce the number of dramatic “unknowns”, because many entries will become explainable or too incomplete to support strong claims. But it would increase the value of the remaining cases. In the long run, NASA’s contribution to UAP research may be less about finding a spectacular object than about changing what a serious UFO database is expected to prove.
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_nasa_uap_data_8cb183-Illustration-3-dark.svg" | relative_url }}" alt="NASA UAP illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_nasa_uap_data_8cb183-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_nasa_uap_data_8cb183-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -883,134 +874,134 @@ That approach may reduce the number of dramatic “unknowns”, because many ent
 
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Science...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: [https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/](https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAUPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</p></details>
+   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAPJune 16, 2022 — 9 Jun 2022 — The UAP Independent Study shall report on the following questions: What types of scientific d...</p></details>
    Published: June 16, 2022  
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/</a>  
 
 6. <a id="endnote-6"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf](https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2403.08155](https://arxiv.org/abs/2403.08155)  
+   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
 
 8. <a id="endnote-8"></a>
    Source: asrs.arc.nasa.gov  
-   Link: [https://asrs.arc.nasa.gov/](https://asrs.arc.nasa.gov/)  
+   Link: <a href="https://asrs.arc.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://asrs.arc.nasa.gov/</a>  
 
 9. <a id="endnote-9"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
 10. <a id="endnote-10"></a>
    Source: nasa.gov  
    Title: to release discuss unidentified anomalous phenomena report  
-   Link: [https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/](https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/)  
+   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
 
 11. <a id="endnote-11"></a>
    Source: nasa.gov  
    Title: public participation in machine learning bolsters extraterrestrial research  
-   Link: [https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/public-participation-in-machine-learning-bolsters-extraterrestrial-research/](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/public-participation-in-machine-learning-bolsters-extraterrestrial-research/)  
+   Link: <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/public-participation-in-machine-learning-bolsters-extraterrestrial-research/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/public-participation-in-machine-learning-bolsters-extraterrestrial-research/</a>  
 
 12. <a id="endnote-12"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: [https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed](https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed)  
+   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
 
 13. <a id="endnote-13"></a>
    Source: space.com  
    Title: nasa names head of uap research  
-   Link: [https://www.space.com/nasa-names-head-of-uap-research](https://www.space.com/nasa-names-head-of-uap-research)  
+   Link: <a href="https://www.space.com/nasa-names-head-of-uap-research" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-names-head-of-uap-research</a>  
 
 14. <a id="endnote-14"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/d41586-023-02893-y](https://www.nature.com/articles/d41586-023-02893-y)  
+   Link: <a href="https://www.nature.com/articles/d41586-023-02893-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-023-02893-y</a>  
 
 15. <a id="endnote-15"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41599-024-04182-z](https://www.nature.com/articles/s41599-024-04182-z)  
+   Link: <a href="https://www.nature.com/articles/s41599-024-04182-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-024-04182-z</a>  
 
 16. <a id="endnote-16"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2403.15368](https://arxiv.org/pdf/2403.15368)  
+   Link: <a href="https://arxiv.org/pdf/2403.15368" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2403.15368</a>  
 
 17. <a id="endnote-17"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2411.02401v1](https://arxiv.org/html/2411.02401v1)  
+   Link: <a href="https://arxiv.org/html/2411.02401v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.02401v1</a>  
 
 18. <a id="endnote-18"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2506.00125v1](https://arxiv.org/html/2506.00125v1)  
+   Link: <a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Replay! NASA's Release of the Unidentified Anomalous Phenomena Report  
-   Link: [https://www.youtube.com/watch?v=nuBMnluJfs0](https://www.youtube.com/watch?v=nuBMnluJfs0)  
+   Link: <a href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nuBMnluJfs0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Event Post-Meeting Media Teleconference (May 31, 2023)...</p></details>
    Published: May 31, 2023  
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)  
-   Link: [https://www.youtube.com/watch?v=bQo08JRY0iM](https://www.youtube.com/watch?v=bQo08JRY0iM)  
+   Link: <a href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bQo08JRY0iM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study Report...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: UAP Independent Study Event Post-Meeting Media Teleconference (  
-   Link: [https://www.youtube.com/watch?v=C3uXUfgSadU](https://www.youtube.com/watch?v=C3uXUfgSadU)  
+   Link: <a href="https://www.youtube.com/watch?v=C3uXUfgSadU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C3uXUfgSadU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA releases independent report on UAPS...</p></details>
    Published: May 31, 2023  
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Unidentified Anomalous Phenomena Independent Study Report  
-   Link: [https://www.youtube.com/watch?v=TQcqOW39ksk](https://www.youtube.com/watch?v=TQcqOW39ksk)  
+   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Replay! NASA&#x27;s Release of the Unidentified Anomalous Phenomena Report...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/thesocialctv/posts/nasa-has-released-a-report-detailing-how-it-tracks-unidentified-anomalous-phenom/850192826467495/](https://www.facebook.com/thesocialctv/posts/nasa-has-released-a-report-detailing-how-it-tracks-unidentified-anomalous-phenom/850192826467495/)  
+   Link: <a href="https://www.facebook.com/thesocialctv/posts/nasa-has-released-a-report-detailing-how-it-tracks-unidentified-anomalous-phenom/850192826467495/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thesocialctv/posts/nasa-has-released-a-report-detailing-how-it-tracks-unidentified-anomalous-phenom/850192826467495/</a>  
 
 24. <a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/391817538_Initial_results_from_the_first_field_expedition_of_UAPx_to_study_unidentified_anomalous_phenomena](https://www.researchgate.net/publication/391817538_Initial_results_from_the_first_field_expedition_of_UAPx_to_study_unidentified_anomalous_phenomena)  
+   Link: <a href="https://www.researchgate.net/publication/391817538_Initial_results_from_the_first_field_expedition_of_UAPx_to_study_unidentified_anomalous_phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391817538_Initial_results_from_the_first_field_expedition_of_UAPx_to_study_unidentified_anomalous_phenomena</a>  
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/posts/a-video-sharing-platform-run-by-[enigma](https://www.facebook.com/NewsNationNow/posts/a-video-sharing-platform-run-by-[enigma)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/a-video-sharing-platform-run-by-[enigma" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-video-sharing-platform-run-by-[enigma</a>  
 
 26. <a id="endnote-26"></a>
    Source: aiaa.org  
-   Link: [https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf](https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf)  
+   Link: <a href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf</a>  
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/cnnnews18/posts/if-you-have-ever-wondered-what-the-pentagon-actually-knows-about-unidentified-an/1601269648709339/](https://www.facebook.com/cnnnews18/posts/if-you-have-ever-wondered-what-the-pentagon-actually-knows-about-unidentified-an/1601269648709339/)  
+   Link: <a href="https://www.facebook.com/cnnnews18/posts/if-you-have-ever-wondered-what-the-pentagon-actually-knows-about-unidentified-an/1601269648709339/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnnnews18/posts/if-you-have-ever-wondered-what-the-pentagon-actually-knows-about-unidentified-an/1601269648709339/</a>  
 
 28. <a id="endnote-28"></a>
    Source: science.gc.ca  
-   Link: [https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada](https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada)  
+   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>

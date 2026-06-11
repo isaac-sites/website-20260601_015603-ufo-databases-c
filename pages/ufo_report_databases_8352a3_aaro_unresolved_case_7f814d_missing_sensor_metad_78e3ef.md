@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /aaro/
 nav_short_title: Missing Data
 title: The Missing Data Behind Unresolved UAP Cases
-title_full: The Missing Data Behind Unresolved UAP Cases | AARO
+title_full: The Missing Data Behind Unresolved UAP Cases
 display_title_short: Missing Data
 display_title: Missing Data
 heading_title: The Missing Data Behind Unresolved UAP Cases
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 22:17:25'
-parent_title: Why AARO Cases Remain Unresolved | UFO Archives
+parent_title: Why AARO Cases Remain Unresolved
 parent_permalink: /aaro/
 parent_nav_short_title: AARO
 parent_heading_title: Why AARO Cases Remain Unresolved
@@ -274,8 +274,7 @@ image: /assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_mi
 
 ## Introduction
 
-Many of the most famous UAP videos look compelling because they appear to show unusual speed, acceleration, hovering, or abrupt changes in direction. Yet [AARO]({{ 'aaro/' | relative_url }}), NASA and other analysts repeatedly point to a less dramatic problem: the missing data behind the image. A striking clip can remain unresolved not because it shows something extraordinary, but because investigators lack the [sensor metadata]({{ 'sensor-metadata/' | relative_url }}) needed to reconstruct what actually happened. Without information about range, viewing angle, platform motion, sensor settings, timing and file history, analysts often cannot distinguish between a genuinely unusual object and an ordinary object viewed under unusual conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">WikisourcePage:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sensor c...</span></span></span>
-
+Many of the most famous UAP videos look compelling because they appear to show unusual speed, acceleration, hovering, or abrupt changes in direction. Yet [AARO]({{ 'aaro/' | relative_url }}), NASA and other analysts repeatedly point to a less dramatic problem: the missing data behind the image. A striking clip can remain unresolved not because it shows something extraordinary, but because investigators lack the [sensor metadata]({{ 'sensor-metadata/' | relative_url }}) needed to reconstruct what actually happened. Without information about range, viewing angle, platform motion, sensor settings, timing and file history, analysts often cannot distinguish between a genuinely unusual object and an ordinary object viewed under unusual conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Page:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sensor c...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_missing_sensor_metad_78e3ef-Illustration-1-dark.svg" | relative_url }}" alt="Missing Data illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_missing_sensor_metad_78e3ef-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_missing_sensor_metad_78e3ef-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This is one reason large numbers of UAP cases remain open in official databases. In AARO reporting, many [unresolved cases]({{ 'unresolved-cases/' | relative_url }}) are not classified as mysterious craft. They are cases where the available record is too incomplete to support a reliable identification. The missing information prevents investigators from testing competing explanations rather than proving that any extraordinary explanation is correct. U.S. Department of War <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">The &quot;all-domain anomaly resolution office&quot; (AARO) identified 21 reports as &quot;true anomalies&quot; needing further investigation. Most sightings...</span></span></span>
@@ -285,7 +284,6 @@ This is one reason large numbers of UAP cases remain open in official databases.
 A video file is only one layer of evidence. To analyse a reported UAP properly, investigators typically need contextual information that is often absent from publicly released clips.
 
 Key data points include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -299,7 +297,7 @@ Key data points include:
 
 </div>
 
-NASA's Independent Study Team identified several recurring obstacles in UAP analysis: poor sensor calibration, missing metadata, lack of multiple measurements and inadequate baseline information about observing conditions. Without those elements, analysts cannot reliably calculate an object's trajectory, size or speed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">WikisourceNASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — The panel notes that, at present, gathering data on UAP is...</span></span></span>
+NASA's Independent Study Team identified several recurring obstacles in UAP analysis: poor sensor calibration, missing metadata, lack of multiple measurements and inadequate baseline information about observing conditions. Without those elements, analysts cannot reliably calculate an object's trajectory, size or speed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">NASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — The panel notes that, at present, gathering data on UAP is...</span></span></span>
 
 This explains why official investigators often ask for the complete sensor package rather than a short excerpt. A one-minute clip shared publicly may omit the information that determines whether an object was ten kilometres away or one hundred kilometres away. That difference can completely change the interpretation.
 
@@ -311,7 +309,6 @@ A camera records how an object moves across a sensor's field of view. To determi
 
 Consider a targeting camera mounted on a fast military aircraft. If the aircraft turns while tracking an object, the object may appear to dart sideways across the screen. Without platform-motion data, viewers may interpret the movement as extreme acceleration. With the aircraft's position, heading and speed included, the same motion may be explained by geometry and perspective.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/H4Y18rd8ENU" title="UAP hearing: AARO has not found links to extraterrestrial life" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=H4Y18rd8ENU" target="_blank" rel="noopener noreferrer">UAP hearing: AARO has not found links to extraterrestrial life</a></p><p class="youtube-embed-meta">Channel: 6abc Philadelphia &middot; Views: 853 &middot; Uploaded: November 2024 &middot; Length: 48 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=H4Y18rd8ENU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=H4Y18rd8ENU">Open on YouTube</a></p></div></div></div>
 
 ### Why range is often the critical missing variable
@@ -319,7 +316,6 @@ Consider a targeting camera mounted on a fast military aircraft. If the aircraft
 Range data is especially important because speed estimates depend heavily on distance.
 
 If an object crosses a camera frame in two seconds:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -339,7 +335,6 @@ Metadata also reveals how a sensor was operating.
 
 For example:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A sudden zoom change can make an object appear to accelerate.
@@ -353,7 +348,6 @@ When those settings are unknown, investigators may be unable to determine whethe
 
 This issue appears repeatedly in military UAP footage, where targeting systems switch between viewing modes, magnification levels and tracking states. Analysts often need the underlying technical logs to reconstruct what the sensor was doing at each moment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/977839/pr-008-unresolved-uap-report-europe-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">PR-008, Unresolved UAP Report, Europe 2022The United States European Command submitted a report of an unidentified anomalous phenomenon t...</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_missing_sensor_metad_78e3ef-Illustration-2-dark.svg" | relative_url }}" alt="Missing Data illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_missing_sensor_metad_78e3ef-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_missing_sensor_metad_78e3ef-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why a vivid clip can still be weak evidence
 
@@ -362,7 +356,6 @@ Public discussion often treats visual clarity as equivalent to evidential streng
 A blurry infrared recording accompanied by radar tracks, telemetry and precise timing can sometimes be analysed more rigorously than a sharp video with no context.
 
 Investigators generally ask several questions:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -379,7 +372,6 @@ If most of those questions cannot be answered, the case may remain unresolved re
 
 NASA's study team noted that many reported UAP encounters involve only brief observations and limited documentation, leaving too little information for definitive scientific conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">NASA Didn&#x27;t Find Aliens-but if You See Any UFOs, Holler</span><span class="citation-popover-snippet">The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">nasas unidentified anomalous phenomena report key takeaways</span><span class="citation-popover-snippet">NASA&#x27;s Unidentified Anomalous Phenomena Report14 Sept 2023 — “Most UAP sightings result in very limited data,” Nelson said, noting that t...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rhP8VdCIz9A" title="UAP FILES - Visual Evidence from 3 Cases over Africa (2022-2024)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rhP8VdCIz9A" target="_blank" rel="noopener noreferrer">UAP FILES - Visual Evidence from 3 Cases over Africa (2022-2024)</a></p><p class="youtube-embed-meta">Channel: Media Magik Entertainment &middot; Views: 1.3K &middot; Uploaded: August 2025 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rhP8VdCIz9A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rhP8VdCIz9A">Open on YouTube</a></p></div></div></div>
 
 ### Cropped and redistributed footage creates additional problems
@@ -387,7 +379,6 @@ NASA's study team noted that many reported UAP encounters involve only brief obs
 Many well-known UAP clips reach the public after passing through several layers of redistribution.
 
 By the time a video appears online:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -402,7 +393,6 @@ By the time a video appears online:
 From an investigative perspective, this can turn potentially useful evidence into a largely untestable visual fragment.
 
 The distinction matters because scientific analysis depends on reproducibility. If analysts cannot verify how a file was generated or altered, confidence in any conclusion decreases.
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_missing_sensor_metad_78e3ef-Illustration-3-dark.svg" | relative_url }}" alt="Missing Data illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_missing_sensor_metad_78e3ef-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_missing_sensor_metad_78e3ef-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why so many AARO cases enter the active archive
@@ -419,7 +409,6 @@ This creates an important distinction within [UFO report databases and catalogue
 
 AARO's own historical review similarly argued that many unsolved reports could likely be identified if better-quality data were available. The report emphasised that visual observations and sensors are imperfect and that many cases lack actionable information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • Although many UAP/UFO cases remain unsolved, based on the lack of e...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">AARO&#x27;s Historical UAP Report</span><span class="citation-popover-snippet">Volume 19 Mar 2024 — Although many UAP reports remain unsolved or unidentified, AARO assesses that if more and better quality data were a...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/H6eK1VbrHPY" title="How Military Sensors Proved UFO Craft Were Physically Real | WION Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=H6eK1VbrHPY" target="_blank" rel="noopener noreferrer">How Military Sensors Proved UFO Craft Were Physically Real | WION Podcast</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 2.2K &middot; Uploaded: May 2026 &middot; Length: 2 minutes 16 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=H6eK1VbrHPY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=H6eK1VbrHPY">Open on YouTube</a></p></div></div></div>
 
 ## The difference between mystery and missing information
@@ -428,7 +417,7 @@ The public often interprets "unidentified" as meaning that an object defied expl
 
 That distinction is central to understanding modern UAP databases. A case can remain unresolved for years while containing very little usable evidence. Conversely, a case can appear mundane but become highly valuable if it includes calibrated sensor data, multiple observation modes and a complete chain of custody.
 
-For investigators, metadata is not a bureaucratic detail attached to the evidence. It is part of the evidence itself. Without it, even the most memorable UAP footage may never progress beyond the category of unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">WikisourcePage:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sensor c...</span></span></span>
+For investigators, metadata is not a bureaucratic detail attached to the evidence. It is part of the evidence itself. Without it, even the most memorable UAP footage may never progress beyond the category of unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Page:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sensor c...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -826,187 +815,187 @@ For investigators, metadata is not a bureaucratic detail attached to the evidenc
 
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: en.wikisource.org  
-   Link: [https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5](https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WikisourcePage:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sensor c...</p></details>
+   Link: <a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sensor c...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — Over 900 reports lack sufficient scientific data for analysi...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: metabunk.org  
    Title: AARO's Historical UAP Report  
-   Link: [https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/](https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/)  
+   Link: <a href="https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Volume 19 Mar 2024 — Although many UAP reports remain unsolved or unidentified, AARO assesses that if more and better quality data were a...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: en.wikisource.org  
-   Link: [https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task](https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WikisourceNASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — The panel notes that, at present, gathering data on UAP is...</p></details>
+   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — The panel notes that, at present, gathering data on UAP is...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: science.thewire.in  
    Title: nasa report finds no evidence that ufos are extraterrestrial  
-   Link: [https://science.thewire.in/the-sciences/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/](https://science.thewire.in/the-sciences/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/)  
+   Link: <a href="https://science.thewire.in/the-sciences/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://science.thewire.in/the-sciences/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Report Finds No Evidence That UFOs Are...19 Sept 2023 — Most of the UAP data considered by the study team comes from US military aircraf...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/977839/pr-008-unresolved-uap-report-europe-2022](https://www.dvidshub.net/video/977839/pr-008-unresolved-uap-report-europe-2022)  
+   Link: <a href="https://www.dvidshub.net/video/977839/pr-008-unresolved-uap-report-europe-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/977839/pr-008-unresolved-uap-report-europe-2022</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PR-008, Unresolved UAP Report, Europe 2022The United States European Command submitted a report of an unidentified anomalous phenomenon t...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryAARO will continue to investigate this case should further information become available to enable a more conclusive attributio...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: wired.com  
    Title: NASA Didn't Find Aliens-but if You See Any UFOs, Holler  
-   Link: [https://www.wired.com/story/nasa-ufos-aliens-report-2023](https://www.wired.com/story/nasa-ufos-aliens-report-2023)  
+   Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • Although many UAP/UFO cases remain unsolved, based on the lack of e...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>/Information Papers13 Feb 2026 — In August 2025, AARO sponsored a workshop on UAP Narrative Data, Infrastructures, and Analysis in partne...</p></details>
    Published: August 2025  
 
 12. <a id="endnote-12"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeOur team of experts leads the U.S. government&#x27;s efforts to address Unidentified Anomalous Phenomena (UAP) using a rigorous scien...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO and the Declassification ProcessAARO is committed to facilitating the declassification and public release of as much. UAP-related in...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: [https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed](https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed)  
+   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor sensor cal...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: [https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology](https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology)  
+   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The AARO report points out that UAP sightings and beliefs tha...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: metabunk.org  
    Title: should aaro be releasing non anomalous videos as uap.14204  
-   Link: [https://www.metabunk.org/threads/should-aaro-be-releasing-non-anomalous-videos-as-uap.14204/](https://www.metabunk.org/threads/should-aaro-be-releasing-non-anomalous-videos-as-uap.14204/)  
+   Link: <a href="https://www.metabunk.org/threads/should-aaro-be-releasing-non-anomalous-videos-as-uap.14204/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/should-aaro-be-releasing-non-anomalous-videos-as-uap.14204/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP video that is mysterious because of insufficient data&quot; is not helpful. There is nothing particularly anomalous about this image, it i...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: war.gov  
    Title: dod working to better understand resolve anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DOD Working to Better Understand, Resolve Anomalous...19 Apr 2023 — AARO team scientists have taken important steps to improve UAP data...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of events in the sky that...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: nypost.com  
-   Link: [https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/](https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/)  
+   Link: <a href="https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;all-domain anomaly resolution office&quot; (AARO) identified 21 reports as &quot;true anomalies&quot; needing further investigation. Most sightings...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: thedebrief.org  
    Title: nasas unidentified anomalous phenomena report key takeaways  
-   Link: [https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/](https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/)  
+   Link: <a href="https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s Unidentified Anomalous Phenomena Report14 Sept 2023 — “Most UAP sightings result in very limited data,” Nelson said, noting that t...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: thedebrief.org  
    Title: New U.S  
-   Link: [https://thedebrief.org/new-u-s-government-report-details-latest-findings-in-the-pentagons-investigations-of-unidentified-anomalous-phenomena/](https://thedebrief.org/new-u-s-government-report-details-latest-findings-in-the-pentagons-investigations-of-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://thedebrief.org/new-u-s-government-report-details-latest-findings-in-the-pentagons-investigations-of-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/new-u-s-government-report-details-latest-findings-in-the-pentagons-investigations-of-unidentified-anomalous-phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Government Report Details Latest Findings in the...18 Oct 2023 — Better Data is Needed. Insufficient data from various sensors and other...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: pwkinternational.com  
    Title: UAP | Unidentified Anomaly or Demand Signal?  
-   Link: [https://pwkinternational.com/2025/11/11/uap-unidentified-anomaly-or-demand-signal/](https://pwkinternational.com/2025/11/11/uap-unidentified-anomaly-or-demand-signal/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>|11 Nov 2025 — AARO&#x27;s S&amp;T planning explicitly calls out the lack of high-quality sensor data as a major barrier to resolution — vendors w...</p></details>
+   Link: <a href="https://pwkinternational.com/2025/11/11/uap-unidentified-anomaly-or-demand-signal/" target="_blank" rel="noopener noreferrer nofollow">https://pwkinternational.com/2025/11/11/uap-unidentified-anomaly-or-demand-signal/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>11 Nov 2025 — AARO&#x27;s S&amp;T planning explicitly calls out the lack of high-quality sensor data as a major barrier to resolution — vendors w...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024](https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024)  
+   Link: <a href="https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PR-017, Unresolved UAP Report, Europe 2024This unresolved report contributes to AARO&#x27;s historical and locational trend analyses. VIDEO IN...</p></details>
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/foia/electronic_reading_room/logs/afn-afn-20250801-fy25-jan25-mar25.xlsx](https://www.faa.gov/foia/electronic_reading_room/logs/afn-afn-20250801-fy25-jan25-mar25.xlsx)  
+   Link: <a href="https://www.faa.gov/foia/electronic_reading_room/logs/afn-afn-20250801-fy25-jan25-mar25.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/foia/electronic_reading_room/logs/afn-afn-20250801-fy25-jan25-mar25.xlsx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FY25 Q2All radar, radio-transmission, and ADS-B data and recordings for any FAA facility interacting with this flight on 11/5/24, whether...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: energy.gov  
-   Link: [https://www.energy.gov/sites/default/files/2025-11/89303322DEM000073_MOD-P00002.pdf](https://www.energy.gov/sites/default/files/2025-11/89303322DEM000073_MOD-P00002.pdf)  
+   Link: <a href="https://www.energy.gov/sites/default/files/2025-11/89303322DEM000073_MOD-P00002.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/sites/default/files/2025-11/89303322DEM000073_MOD-P00002.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>INFORMATION COPY(4) Failure to report required data accurately and within required timeframes (e.g., within 24 hours of incident). B.10 P...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/](https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/)  
+   Link: <a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...The evidence of aliens that NASA will find is going to be &quot;We&#x27;ve detected animal farts on...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: studocu.com  
-   Link: [https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671](https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671)  
+   Link: <a href="https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[NASA UAP](&amp;#123;&amp;#123; &#x27;nasa-uap/&#x27; | relative_url &amp;#125;&amp;#125;) Independent Study Team Final ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the. lack of multipl...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens](https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens)  
+   Link: <a href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Conducted by the All-Domain Anomaly Resolution Office (AARO), the investigation reviewed historical data and conducted interviews with of...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: thebaynet.com  
    Title: pentagons latest uap report sheds light on anomalies but questions remain  
-   Link: [https://thebaynet.com/pentagons-latest-uap-report-sheds-light-on-anomalies-but-questions-remain/](https://thebaynet.com/pentagons-latest-uap-report-sheds-light-on-anomalies-but-questions-remain/)  
+   Link: <a href="https://thebaynet.com/pentagons-latest-uap-report-sheds-light-on-anomalies-but-questions-remain/" target="_blank" rel="noopener noreferrer nofollow">https://thebaynet.com/pentagons-latest-uap-report-sheds-light-on-anomalies-but-questions-remain/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s Latest UAP Report Sheds Light On Anomalies...20 Nov 2024 — AARO&#x27;s ability to resolve cases is often constrained by the lack o...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: skyandtelescope.org  
    Title: nasa finds no evidence ufos are extraterrestrial promises further study  
-   Link: [https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/](https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/)  
+   Link: <a href="https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP reports are typically single sightings and lack multiple measurements. Those individual reports also often lack sensor metadata, such as...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: federalregister.gov  
    Title: Provisions Pertaining to Preventing Access to U.S  
-   Link: [https://www.federalregister.gov/documents/2024/10/29/2024-24582/provisions-pertaining-to-preventing-access-to-us-sensitive-personal-data-and-government-related-data?et_cid=5420359&et_rid=35386254](https://www.federalregister.gov/documents/2024/10/29/2024-24582/provisions-pertaining-to-preventing-access-to-us-sensitive-personal-data-and-government-related-data?et_cid=5420359&et_rid=35386254)  
+   Link: <a href="https://www.federalregister.gov/documents/2024/10/29/2024-24582/provisions-pertaining-to-preventing-access-to-us-sensitive-personal-data-and-government-related-data?et_cid=5420359&amp;et_rid=35386254" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2024/10/29/2024-24582/provisions-pertaining-to-preventing-access-to-us-sensitive-personal-data-and-government-related-data?et_cid=5420359&amp;et_rid=35386254</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>29 Oct 2024 — The Department of Justice proposes a rule to implement Executive Order 14117 of February 28, 2024 (Preventing Access to Ame...</p></details>
    Published: February 28, 2024  
 
 33. <a id="endnote-33"></a>
    Source: meritalk.com  
    Title: aaro director calls for ongoing support to investigate uaps  
-   Link: [https://www.meritalk.com/articles/aaro-director-calls-for-ongoing-support-to-investigate-uaps/](https://www.meritalk.com/articles/aaro-director-calls-for-ongoing-support-to-investigate-uaps/)  
+   Link: <a href="https://www.meritalk.com/articles/aaro-director-calls-for-ongoing-support-to-investigate-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/aaro-director-calls-for-ongoing-support-to-investigate-uaps/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>20 Nov 2024 — The DoD – and more specifically the AARO – has faced criticism for its lack of transparency on UAP findings, especially tho...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: scientificamerican.com  
    Title: bad data not aliens may be behind ufo surge nasa team says  
-   Link: [https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/](https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/)  
+   Link: <a href="https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bad Data, Not Aliens, May Be behind UFO Surge, NASA...9 Jun 2023 — Gaining any new clarity about surging reports of unidentified anomalo...</p></details>

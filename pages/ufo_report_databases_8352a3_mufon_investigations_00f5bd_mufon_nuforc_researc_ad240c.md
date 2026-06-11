@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /mufon/
 nav_short_title: MUFON vs NUFORC
 title: Which UFO Database Can Researchers Check?
-title_full: Which UFO Database Can Researchers Check? | MUFON
+title_full: Which UFO Database Can Researchers Check?
 display_title_short: MUFON vs NUFORC
 display_title: MUFON vs NUFORC
 heading_title: Which UFO Database Can Researchers Check?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 18:33:39'
-parent_title: How MUFON Turns Sightings Into Cases | UFO Archives
+parent_title: How MUFON Turns Sightings Into Cases
 parent_permalink: /mufon/
 parent_nav_short_title: MUFON
 parent_heading_title: How MUFON Turns Sightings Into Cases
@@ -274,22 +274,20 @@ image: /assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mu
 
 ## Introduction
 
-For researchers comparing [UFO report databases]({{ 'ufo-report-databases-and-catalogues/' | relative_url }}), the key difference between MUFON and [NUFORC]({{ 'nuforc/' | relative_url }}) is not simply the number of reports they contain. It is the way each organisation handles access, investigation and transparency. Both collect witness accounts of unusual aerial phenomena, but they create different evidence trails. MUFON operates through a case-management and investigation system in which reports may be reviewed by volunteer field investigators, while much of the detailed material remains behind membership-based access controls. NUFORC, by contrast, has traditionally functioned as a largely public reporting archive, allowing researchers to browse large numbers of reports directly through its online databank. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">NUFORCData Bank | NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">MUFONMufon&#x27;s Ufo, Et Research Tracking ToolsSEARCH THE UFO DATABASE. The MUFON Case Management System (CMS) is a powerful tool designed t...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/search_database-terms-and-conditions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">MUFONSearch Database Terms and ConditionsThe Mutual UFO Network (MUFON) allows active members to access certain parts of our Case Managem...</span></span></span>
-
+For researchers comparing UFO report databases, the key difference between [MUFON]({{ 'mufon/' | relative_url }}) and [NUFORC]({{ 'nuforc/' | relative_url }}) is not simply the number of reports they contain. It is the way each organisation handles access, investigation and transparency. Both collect witness accounts of unusual aerial phenomena, but they create different evidence trails. MUFON operates through a case-management and investigation system in which reports may be reviewed by volunteer field investigators, while much of the detailed material remains behind membership-based access controls. NUFORC, by contrast, has traditionally functioned as a largely public reporting archive, allowing researchers to browse large numbers of reports directly through its online databank. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">Mufon&#x27;s Ufo, Et Research Tracking ToolsSEARCH THE UFO DATABASE. The MUFON Case Management System (CMS) is a powerful tool designed t...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/search_database-terms-and-conditions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">Search Database Terms and ConditionsThe Mutual UFO Network (MUFON) allows active members to access certain parts of our Case Managem...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_nuforc_researc_ad240c-Illustration-1-dark.svg" | relative_url }}" alt="MUFON vs NUFORC illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_nuforc_researc_ad240c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_nuforc_researc_ad240c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For anyone studying UFO catalogues, the practical question is not which database is “better”, but which questions each database can answer. The answer often depends on how much of the underlying record can be independently checked.
 
 ## Investigation-Led Archive Versus Public Ledger
 
-[MUFON]({{ 'mufon/' | relative_url }}) and NUFORC were built around different priorities.
+MUFON and NUFORC were built around different priorities.
 
-MUFON's reporting system is designed to support case management and investigation. Witness submissions enter the Case Management System (CMS), where they can be reviewed, assigned to investigators and supplemented with interviews, photographs, videos and other materials. MUFON presents the CMS as a research and investigative tool and highlights its field-investigation structure as a core part of its mission. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">MUFON Through the AgesOne of the best improvements in MUFON&#x27;s handling of UFO reports during this era was the development of the computer...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">MUFON: HomeRead and Search MUFON Case Management System Reports; Monthly MUFON e-Journal with Exclusive UFO Coverage; Access to The Obser...</span></span></span>
+MUFON's reporting system is designed to support case management and investigation. Witness submissions enter the Case Management System (CMS), where they can be reviewed, assigned to investigators and supplemented with interviews, photographs, videos and other materials. MUFON presents the CMS as a research and investigative tool and highlights its field-investigation structure as a core part of its mission. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">MUFON Through the AgesOne of the best improvements in MUFON&#x27;s handling of UFO reports during this era was the development of the computer...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">HomeRead and Search MUFON Case Management System Reports; Monthly MUFON e-Journal with Exclusive UFO Coverage; Access to The Obser...</span></span></span>
 
-NUFORC developed in a different direction. Its databank is intended as a publicly accessible repository of witness reports. The organisation describes its archive as one of the largest independent collections of UFO sighting reports available online and makes extensive report indexes searchable by location, date, shape and other categories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNational UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location NUFORC Reports by Location; USA</span><span class="citation-popover-snippet">NUFORC Reports by LocationNUFORC Reports by Location; USA - Unspecified, 118; USA - Alaska, 672; USA - Alabama, 1515; USA - Arkansas...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=shape" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports by ShapeNUFORC Reports by Shape; Cylinder, 2783; Diamond, 2309; Disk, 9430; Egg, 1391.Read more...</span></span></span>
+NUFORC developed in a different direction. Its databank is intended as a publicly accessible repository of witness reports. The organisation describes its archive as one of the largest independent collections of UFO sighting reports available online and makes extensive report indexes searchable by location, date, shape and other categories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location NUFORC Reports by Location; USA</span><span class="citation-popover-snippet">NUFORC Reports by LocationNUFORC Reports by Location; USA - Unspecified, 118; USA - Alaska, 672; USA - Alabama, 1515; USA - Arkansas...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=shape" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports by ShapeNUFORC Reports by Shape; Cylinder, 2783; Diamond, 2309; Disk, 9430; Egg, 1391.Read more...</span></span></span>
 
 This distinction creates different research strengths:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -301,7 +299,6 @@ This distinction creates different research strengths:
 </div>
 
 In practice, MUFON behaves more like an investigative archive, while NUFORC functions more like a public sightings ledger.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mzhYDo1SCXU" title="Full interview: UFO investigator reacts to congressional hearing about &#x27;unknown&#x27; phenomenon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mzhYDo1SCXU" target="_blank" rel="noopener noreferrer">Full interview: UFO investigator reacts to congressional hearing about &#x27;unknown&#x27; phenomenon</a></p><p class="youtube-embed-meta">Channel: 9NEWS &middot; Views: 14.5K &middot; Uploaded: May 2022 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mzhYDo1SCXU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mzhYDo1SCXU">Open on YouTube</a></p></div></div></div>
 
@@ -319,18 +316,16 @@ Research QuestionMUFONNUFORCCan I see large numbers of reports quickly?Sometimes
 
 For academic-style analysis, transparency often matters as much as data volume. A smaller public dataset can sometimes be easier to verify than a larger archive whose supporting material is inaccessible.
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_nuforc_researc_ad240c-Illustration-2-dark.svg" | relative_url }}" alt="MUFON vs NUFORC illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_nuforc_researc_ad240c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_nuforc_researc_ad240c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Same Sighting May Leave Different Evidence Trails
 
 A useful way to understand the contrast is to imagine a witness reporting a triangular object.
 
-If submitted to NUFORC, the result may be a publicly searchable narrative that includes date, location, shape category and the witness description. Other researchers can immediately compare it with nearby reports, astronomical events or aviation activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/recent-investigation-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">recent investigation reports</span><span class="citation-popover-snippet">NUFORC11 Jan 2025 — NUFORC investigators dug into several of our best cases from 2024, performing witness interviews and contacting offic...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/mufon2022/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">UFO Hotline, which have given rise to rise to in excess of 136,000 written reports posted to the NUFORC website, www.ufocenter.com. II...</span></span></span>
+If submitted to NUFORC, the result may be a publicly searchable narrative that includes date, location, shape category and the witness description. Other researchers can immediately compare it with nearby reports, astronomical events or aviation activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/recent-investigation-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">recent investigation reports</span><span class="citation-popover-snippet">11 Jan 2025 — NUFORC investigators dug into several of our best cases from 2024, performing witness interviews and contacting offic...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/mufon2022/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">UFO Hotline, which have given rise to rise to in excess of 136,000 written reports posted to the NUFORC website, www.ufocenter.com. II...</span></span></span>
 
 If submitted to MUFON, the same event might generate a richer internal file. An investigator could interview the witness, request original photographs, evaluate possible conventional explanations and record additional observations. However, outside researchers may only see part of that process unless they have access to the CMS. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/ufo-news/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">MUFON NewsA MUFON PHOTO ANALYSIS: Is This Green Orb Communicating? A Forensic Image Analysis of a Viral UAP Claim By Seth H. Feinstein MU...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/history-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">A Brief History of MufonOne of the best improvements in MUFON&#x27;s handling of UFO reports during this era was the development of the comput...</span></span></span>
 
 This creates a recurring trade-off:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -342,7 +337,6 @@ This creates a recurring trade-off:
 </div>
 
 Researchers often value both, but rarely receive both from the same report.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/d_ILkT94FoU" title="Washington man spent last 25 years running National UFO Reporting Center" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=d_ILkT94FoU" target="_blank" rel="noopener noreferrer">Washington man spent last 25 years running National UFO Reporting Center</a></p><p class="youtube-embed-meta">Channel: KREM 2 News &middot; Views: 6.3K &middot; Uploaded: February 2019 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=d_ILkT94FoU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=d_ILkT94FoU">Open on YouTube</a></p></div></div></div>
 
@@ -356,7 +350,6 @@ MUFON's investigative structure can potentially improve data quality by introduc
 
 NUFORC's transparency makes independent review easier, but openness alone does not guarantee accuracy. A public archive can contain mistaken observations, hoaxes or incomplete information. NUFORC itself notes that reports are reviewed and categorised, and the organisation has increasingly published investigation reports for selected cases, but most entries remain witness-centred records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ada-nuforc-analysis.github.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ada-nuforc-analysis.github.io">[ada-nuforc-analysis.github.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ada-nuforc-analysis.github.io</span><span class="citation-popover-snippet">NUFORC Report AnalysisThe NUFORC checks each reports for fakes or hoax and comments them accordingly. The reports are classified by their...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=post" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports by Date PostedData Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search... NUFORC Reports...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HhLI6W15nQU" title="UFOs In American Culture: A History Of Intrigue And Denial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HhLI6W15nQU" target="_blank" rel="noopener noreferrer">UFOs In American Culture: A History Of Intrigue And Denial</a></p><p class="youtube-embed-meta">Channel: Connecticut Public Podcasts &middot; Views: 78 &middot; Uploaded: September 2024 &middot; Length: 49 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HhLI6W15nQU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HhLI6W15nQU">Open on YouTube</a></p></div></div></div>
 
 ## How to Use Both Databases Cautiously
@@ -369,6 +362,11 @@ A cautious workflow might involve:
 2. **Check MUFON records when available** to see whether a reported event generated additional investigation, interviews or supporting material.
 3. **Look for overlap between databases.** A sighting reported independently to both organisations can sometimes provide additional context or reveal discrepancies.
 4. **Compare with external sources** such as aviation records, satellite passes, astronomical events, weather data and local news coverage.
+5. **Avoid treating report counts as direct evidence.** Reporting behaviour is influenced by publicity, media attention, reporting convenience and cultural factors as well as by what witnesses actually observed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sharonahill.com/ufo-reports-declining-several-social-factors-involved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sharonahill.com">[Sharon A. Hill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sharonahill.com</span><span class="citation-popover-snippet">HillUFO reports declining: Several social factors involved2 Jul 2018 — As such, UFO sightings decline when the society changes. That is...</span></span></span>
+
+The central lesson is simple: NUFORC is often easier to inspect, while MUFON may contain richer investigative material. For researchers concerned with verification and reproducibility, access rules matter as much as the reports themselves. The choice between the two databases is therefore less about which archive contains the most sightings and more about which evidence trail can actually be examined.
+
+<img src="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_nuforc_researc_ad240c-Illustration-3-dark.svg" | relative_url }}" alt="MUFON vs NUFORC illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_nuforc_researc_ad240c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_nuforc_researc_ad240c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -762,261 +760,255 @@ A cautious workflow might involve:
 </script>
 </section>
 
-5. **Avoid treating report counts as direct evidence.** Reporting behaviour is influenced by publicity, media attention, reporting convenience and cultural factors as well as by what witnesses actually observed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sharonahill.com/ufo-reports-declining-several-social-factors-involved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sharonahill.com">[Sharon A. Hill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sharonahill.com</span><span class="citation-popover-snippet">HillUFO reports declining: Several social factors involved2 Jul 2018 — As such, UFO sightings decline when the society changes. That is...</span></span></span>
-
-The central lesson is simple: NUFORC is often easier to inspect, while MUFON may contain richer investigative material. For researchers concerned with verification and reproducibility, access rules matter as much as the reports themselves. The choice between the two databases is therefore less about which archive contains the most sightings and more about which evidence trail can actually be examined.
-
-
-<img src="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_nuforc_researc_ad240c-Illustration-3-dark.svg" | relative_url }}" alt="MUFON vs NUFORC illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_nuforc_researc_ad240c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_nuforc_researc_ad240c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/research/](https://mufon.com/research/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFONMufon&#x27;s Ufo, Et Research Tracking ToolsSEARCH THE UFO DATABASE. The MUFON Case Management System (CMS) is a powerful tool designed t...</p></details>
+   Link: <a href="https://mufon.com/research/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/research/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mufon&#x27;s Ufo, Et Research Tracking ToolsSEARCH THE UFO DATABASE. The MUFON Case Management System (CMS) is a powerful tool designed t...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/search_database-terms-and-conditions/](https://mufon.com/search_database-terms-and-conditions/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFONSearch Database Terms and ConditionsThe Mutual UFO Network (MUFON) allows active members to access certain parts of our Case Managem...</p></details>
+   Link: <a href="https://mufon.com/search_database-terms-and-conditions/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/search_database-terms-and-conditions/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Search Database Terms and ConditionsThe Mutual UFO Network (MUFON) allows active members to access certain parts of our Case Managem...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCData Bank | NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</p></details>
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNational UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/history/](https://mufon.com/history/)  
+   Link: <a href="https://mufon.com/history/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/history/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON Through the AgesOne of the best improvements in MUFON&#x27;s handling of UFO reports during this era was the development of the computer...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/](https://mufon.com/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON: HomeRead and Search MUFON Case Management System Reports; Monthly MUFON e-Journal with Exclusive UFO Coverage; Access to The Obser...</p></details>
+   Link: <a href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>HomeRead and Search MUFON Case Management System Reports; Monthly MUFON e-Journal with Exclusive UFO Coverage; Access to The Obser...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
    Title: Reports by Location NUFORC Reports by Location; USA  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationNUFORC Reports by Location; USA - Unspecified, 118; USA - Alaska, 672; USA - Alabama, 1515; USA - Arkansas...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/ndx/?id=shape](https://nuforc.org/ndx/?id=shape)  
+   Link: <a href="https://nuforc.org/ndx/?id=shape" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=shape</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by ShapeNUFORC Reports by Shape; Cylinder, 2783; Diamond, 2309; Disk, 9430; Egg, 1391.Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=all](https://nuforc.org/subndx/?id=all)  
+   Link: <a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>All NUFORC ReportsAll NUFORC Reports.; Open, 03/02/2026 18:15, Folsom; Open, 03/02/2026 14:25, Solana Beach; Open, 03/02/2026 07:30, D...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: github.com  
-   Link: [https://github.com/timothyrenner/nuforc_sightings_data](https://github.com/timothyrenner/nuforc_sightings_data)  
+   Link: <a href="https://github.com/timothyrenner/nuforc_sightings_data" target="_blank" rel="noopener noreferrer nofollow">https://github.com/timothyrenner/nuforc_sightings_data</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>timothyrenner/nuforc_sightings_data: Data collection and...The Nationa UFO Research Center (NUFORC) maintains an online database of over...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: kaggle.com  
-   Link: [https://www.kaggle.com/datasets/thedevastator/uncovering-mysterious-unexplained-ufo-sightings](https://www.kaggle.com/datasets/thedevastator/uncovering-mysterious-unexplained-ufo-sightings)  
+   Link: <a href="https://www.kaggle.com/datasets/thedevastator/uncovering-mysterious-unexplained-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/thedevastator/uncovering-mysterious-unexplained-ufo-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ation about the time, location, duration, shape and...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=highlights](https://nuforc.org/subndx/?id=highlights)  
+   Link: <a href="https://nuforc.org/subndx/?id=highlights" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=highlights</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Highlighted NUFORC ReportsLink, Occurred, City, State, Country, Shape. Open! 02/16/2026 08:46, Odessa, TX, USA, Triangle. Open! 02/07/2...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: sharonahill.com  
-   Link: [https://sharonahill.com/ufo-reports-declining-several-social-factors-involved/](https://sharonahill.com/ufo-reports-declining-several-social-factors-involved/)  
+   Link: <a href="https://sharonahill.com/ufo-reports-declining-several-social-factors-involved/" target="_blank" rel="noopener noreferrer nofollow">https://sharonahill.com/ufo-reports-declining-several-social-factors-involved/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HillUFO reports declining: Several social factors involved2 Jul 2018 — As such, UFO sightings decline when the society changes. That is...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
    Title: National UFO Reporting Center  
-   Link: [https://en.wikipedia.org/wiki/National_UFO_Reporting_Center](https://en.wikipedia.org/wiki/National_UFO_Reporting_Center)  
+   Link: <a href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_UFO_Reporting_Center</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting CenterMUFON, the most prominent UFO data collectors in the US, have worked with the National UFO Reporting Cent...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Mutual UFO Network  
-   Link: [https://en.wikipedia.org/wiki/Mutual_UFO_Network](https://en.wikipedia.org/wiki/Mutual_UFO_Network)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mutual_UFO_Network" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mutual_UFO_Network</a>  
 
 16. <a id="endnote-16"></a>
    Source: ada-nuforc-analysis.github.io  
-   Link: [https://ada-nuforc-analysis.github.io/](https://ada-nuforc-analysis.github.io/)  
+   Link: <a href="https://ada-nuforc-analysis.github.io/" target="_blank" rel="noopener noreferrer nofollow">https://ada-nuforc-analysis.github.io/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Report AnalysisThe NUFORC checks each reports for fakes or hoax and comments them accordingly. The reports are classified by their...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: nuforc.org  
    Title: recent investigation reports  
-   Link: [https://nuforc.org/recent-investigation-reports/](https://nuforc.org/recent-investigation-reports/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC11 Jan 2025 — NUFORC investigators dug into several of our best cases from 2024, performing witness interviews and contacting offic...</p></details>
+   Link: <a href="https://nuforc.org/recent-investigation-reports/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/recent-investigation-reports/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>11 Jan 2025 — NUFORC investigators dug into several of our best cases from 2024, performing witness interviews and contacting offic...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/mufon2022/](https://nuforc.org/mufon2022/)  
+   Link: <a href="https://nuforc.org/mufon2022/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/mufon2022/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Hotline, which have given rise to rise to in excess of 136,000 written reports posted to the NUFORC website, www.ufocenter.com. II...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/ndx/?id=post](https://nuforc.org/ndx/?id=post)  
+   Link: <a href="https://nuforc.org/ndx/?id=post" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=post</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by Date PostedData Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search... NUFORC Reports...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lCO](https://nuforc.org/subndx/?id=lCO)  
+   Link: <a href="https://nuforc.org/subndx/?id=lCO" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lCO</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for State CONUFORC Reports for State CO.; Open, 03/03/2026 21:15, Wheat Ridge; Open, 02/20/2026 21:00, Mead; Open, 02/1...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
 22. <a id="endnote-22"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lSC](https://nuforc.org/subndx/?id=lSC)  
+   Link: <a href="https://nuforc.org/subndx/?id=lSC" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lSC</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for State SCNUFORC Reports for State SC.; Open, 02/13/2026 21:13, Ladson; Open, 01/20/2026 06:58, Lexington; Open, 01/1...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lAZ](https://nuforc.org/subndx/?id=lAZ)  
+   Link: <a href="https://nuforc.org/subndx/?id=lAZ" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lAZ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for State AZNUFORC. Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search · Me...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: nuforc.org  
    Title: about us  
-   Link: [https://nuforc.org/about-us/](https://nuforc.org/about-us/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCChristian Stepien has had a life long interest in UFOs and is an avid student of the phenomenon. Since 1994, he has served as the d...</p></details>
+   Link: <a href="https://nuforc.org/about-us/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/about-us/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Christian Stepien has had a life long interest in UFOs and is an avid student of the phenomenon. Since 1994, he has served as the d...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/cms-ifo-info/](https://mufon.com/cms-ifo-info/)  
+   Link: <a href="https://mufon.com/cms-ifo-info/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/cms-ifo-info/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CMS IFO InfoKeep all personal information limited to your report narrative and contact details. Upon the submission of this report, the r...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/join/](https://mufon.com/join/)  
+   Link: <a href="https://mufon.com/join/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/join/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>stigator · Report a UFO...Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/ufo-news/](https://mufon.com/ufo-news/)  
+   Link: <a href="https://mufon.com/ufo-news/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/ufo-news/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON NewsA MUFON PHOTO ANALYSIS: Is This Green Orb Communicating? A Forensic Image Analysis of a Viral UAP Claim By Seth H. Feinstein MU...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/history-2/](https://mufon.com/history-2/)  
+   Link: <a href="https://mufon.com/history-2/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/history-2/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Brief History of MufonOne of the best improvements in MUFON&#x27;s handling of UFO reports during this era was the development of the comput...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/contact/](https://mufon.com/contact/)  
+   Link: <a href="https://mufon.com/contact/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/contact/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ContactOnce submitted, your report will be assigned a unique MUFON Case number and forwarded to your State Director, who will assign it t...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: helpdesk.mufon.com  
-   Link: [https://helpdesk.mufon.com/](https://helpdesk.mufon.com/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Helpdesk: HomeMUFON Helpdesk. A place for all MUFON Members, Field Investigators, Directors, and Management to submit requests for MUFON...</p></details>
+   Link: <a href="https://helpdesk.mufon.com/" target="_blank" rel="noopener noreferrer nofollow">https://helpdesk.mufon.com/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>HomeMUFON Helpdesk. A place for all MUFON Members, Field Investigators, Directors, and Management to submit requests for MUFON...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsHe also said that he was confined within a small round room where he was compelled to have sex with a fo...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: kaggle.com  
-   Link: [https://www.kaggle.com/datasets/bitterfq/nufroc-ufo-sightings](https://www.kaggle.com/datasets/bitterfq/nufroc-ufo-sightings)  
+   Link: <a href="https://www.kaggle.com/datasets/bitterfq/nufroc-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/bitterfq/nufroc-ufo-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFROC UFO SIGHTINGSThis CSV dataset contains detailed information scraped from the National UFO Reporting Center website, including repo...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: kaggle.com  
-   Link: [https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings](https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings)  
+   Link: <a href="https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO SightingsThe National UFO Research Center (NUFORC) collects and serves over 100,000 reports of UFO sightings. This dataset contains t...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — NARA has records related to unidentified flying objects (UFO)...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1oz3i0h/im_releasing_a_cleaned_enriched_ufo_dataset_327k/](https://www.reddit.com/r/UFOs/comments/1oz3i0h/im_releasing_a_cleaned_enriched_ufo_dataset_327k/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1oz3i0h/im_releasing_a_cleaned_enriched_ufo_dataset_327k/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1oz3i0h/im_releasing_a_cleaned_enriched_ufo_dataset_327k/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON/Open, Kaggle scrapes, and others). Each sighting has...Read more...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: reddit.com  
    Title: mufon is under a major hack right now sources  
-   Link: [https://www.reddit.com/r/UFOs/comments/1akv3lu/mufon_is_under_a_major_hack_right_now_sources/](https://www.reddit.com/r/UFOs/comments/1akv3lu/mufon_is_under_a_major_hack_right_now_sources/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1akv3lu/mufon_is_under_a_major_hack_right_now_sources/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1akv3lu/mufon_is_under_a_major_hack_right_now_sources/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON is under a major hack right now. Sources indicate...MUFON is under a major hack right now. Sources indicate the hacker has taken o...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: slideserve.com  
    Title: mufon case management system  
-   Link: [https://www.slideserve.com/alcina/mufon-case-management-system](https://www.slideserve.com/alcina/mufon-case-management-system)  
+   Link: <a href="https://www.slideserve.com/alcina/mufon-case-management-system" target="_blank" rel="noopener noreferrer nofollow">https://www.slideserve.com/alcina/mufon-case-management-system</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Sept 2014 — Provides an Easy way to SEARCH the MUFON CMS database... reported to MUFON into CMS • Make CMS your Website&#x27;s ONLY UFO Rep...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: washingtonpost.com  
    Title: ufo conspiracy theorist  
-   Link: [https://www.washingtonpost.com/nation/interactive/2021/ufo-conspiracy-theorist/](https://www.washingtonpost.com/nation/interactive/2021/ufo-conspiracy-theorist/)  
+   Link: <a href="https://www.washingtonpost.com/nation/interactive/2021/ufo-conspiracy-theorist/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/nation/interactive/2021/ufo-conspiracy-theorist/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON field investigators: learning the organization&#x27;s case management system, or CMS. When reports came in through MUFON&#x27;s online...Rea...</p></details>
 
 ### Additional References
 
 39. <a id="endnote-39"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/368458403_Social_factors_and_UFO_reports_was_the_SARS-CoV-2_pandemic_associated_with_an_increase_in_UFO_reporting](https://www.researchgate.net/publication/368458403_Social_factors_and_UFO_reports_was_the_SARS-CoV-2_pandemic_associated_with_an_increase_in_UFO_reporting)  
+   Link: <a href="https://www.researchgate.net/publication/368458403_Social_factors_and_UFO_reports_was_the_SARS-CoV-2_pandemic_associated_with_an_increase_in_UFO_reporting" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/368458403_Social_factors_and_UFO_reports_was_the_SARS-CoV-2_pandemic_associated_with_an_increase_in_UFO_reporting</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Social factors and UFO reports: was the SARS-CoV...To measure UFO reports we utilized two public databases of UFO reports for sigh...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: resdac.org  
-   Link: [https://resdac.org/cms-public-use-files-for-researcher-use](https://resdac.org/cms-public-use-files-for-researcher-use)  
+   Link: <a href="https://resdac.org/cms-public-use-files-for-researcher-use" target="_blank" rel="noopener noreferrer nofollow">https://resdac.org/cms-public-use-files-for-researcher-use</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CMS Public Use Files for Researcher UseBelow are a few CMS public use files that researchers who use RIF data may find useful: Synthetic...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DVorasBEcS5/](https://www.instagram.com/p/DVorasBEcS5/)  
+   Link: <a href="https://www.instagram.com/p/DVorasBEcS5/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVorasBEcS5/</a>  
 
 42. <a id="endnote-42"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DQ79ivTDAse/](https://www.instagram.com/p/DQ79ivTDAse/)  
+   Link: <a href="https://www.instagram.com/p/DQ79ivTDAse/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DQ79ivTDAse/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Accessing the MUFON CMS – Discover the World&#x27;s Largest UFO...Did you know that MUFON holds over 145,000 UFO sighting reports in its Case...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TheNewsPress/posts/the-us-government-released-new-files-on-unidentified-anomalous-phenomena-uap-flo/1389041366593103/](https://www.facebook.com/TheNewsPress/posts/the-us-government-released-new-files-on-unidentified-anomalous-phenomena-uap-flo/1389041366593103/)  
+   Link: <a href="https://www.facebook.com/TheNewsPress/posts/the-us-government-released-new-files-on-unidentified-anomalous-phenomena-uap-flo/1389041366593103/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheNewsPress/posts/the-us-government-released-new-files-on-unidentified-anomalous-phenomena-uap-flo/1389041366593103/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings. David Garrison ▻ Area51 - AIC - Alien Investigation Center. 11y · Public · Double UFO Sightings on...Read more...</p></details>
 
 44. <a id="endnote-44"></a>
    Source: reddit.com  
    Title: i analyzed 80000 ufo sightings from the nuforc  
-   Link: [https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/](https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>databaseI analyzed the comments (free text fields) that captured the witness accounts in the NUFORC database of over 80000 sightings.Read...</p></details>
 
 45. <a id="endnote-45"></a>
    Source: [aaro](&#123;&#123; 'aaro/' | relative_url &#125;&#125;). mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2025 UAP Workshop: Narrative Data, Infrastructures, and...Additionally, LLMs are already biased by UFO-related cultural content, potenti...</p></details>
 
 46. <a id="endnote-46"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/RoswellUFOmuseum/posts/have-you-seen-a-ufo-report-it-to-mufon/1392217882945208/](https://www.facebook.com/RoswellUFOmuseum/posts/have-you-seen-a-ufo-report-it-to-mufon/1392217882945208/)  
+   Link: <a href="https://www.facebook.com/RoswellUFOmuseum/posts/have-you-seen-a-ufo-report-it-to-mufon/1392217882945208/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RoswellUFOmuseum/posts/have-you-seen-a-ufo-report-it-to-mufon/1392217882945208/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>tes to your favorites. For detailed...Read more...</p></details>
 
 47. <a id="endnote-47"></a>
    Source: attheu.utah.edu  
    Title: the west is best to spot ufos  
-   Link: [https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/](https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/)  
+   Link: <a href="https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Research Center reported sightings from 2001 to... UFO, UFO sightings, Unidentified Autonomous Phenomena, Where can I see U...</p></details>
 
 48. <a id="endnote-48"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=nraHhvzdZAQ](https://www.youtube.com/watch?v=nraHhvzdZAQ)  
+   Link: <a href="https://www.youtube.com/watch?v=nraHhvzdZAQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nraHhvzdZAQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs have gone Mainstream! Eyewitness Reports - Peter Davenport...</p></details>

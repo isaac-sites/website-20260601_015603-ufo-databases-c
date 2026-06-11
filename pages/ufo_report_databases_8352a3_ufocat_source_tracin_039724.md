@@ -40,7 +40,7 @@ sidebar_expanded_urls:
 - /ufo-report-databases-and-catalogues/
 nav_short_title: UFOCAT
 title: Why UFOCAT Is Not Just a Sighting Count
-title_full: Why UFOCAT Is Not Just a Sighting Count | UFO Archives
+title_full: Why UFOCAT Is Not Just a Sighting Count
 display_title_short: UFOCAT
 display_title: UFOCAT
 heading_title: Why UFOCAT Is Not Just a Sighting Count
@@ -354,7 +354,6 @@ image: /assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724-ov
 
 UFOCAT is best understood as a source-tracing catalogue, not a clean counter of unique UFO incidents. Its value is that it tries to tell researchers where a report came from: an original investigation file, a newspaper item, a UFO periodical, a book, a database listing, or another secondary reference. That same strength creates its central trap. Because one sighting can appear in several sources, UFOCAT may hold several records for the same underlying event, so a raw record count can overstate the number of actual sightings. CUFOS, which maintains UFOCAT, explicitly warns that the catalogue often contains multiple entries for the same sighting and that simple case counts can over-count cases unless users filter for primary entries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724-overview.webp" | relative_url }}" alt="Overview image for UFOCAT" loading="eager" decoding="sync" fetchpriority="high">
 For historical UFO research, this is not a defect to be ignored. It is the main reason UFOCAT matters. The catalogue preserves trails through a messy literature in which one witness report might travel from a local newspaper to an investigator’s file, then to a periodical, then to a book, with small changes at each stage.
 
@@ -390,7 +389,6 @@ The practical effect is that UFOCAT can preserve several versions of the same ca
 
 This is valuable because UFO literature is often cumulative. A dramatic case may be repeated for decades, but later retellings may compress witness numbers, alter dates, simplify locations, or omit failed explanations. UFOCAT’s source fields help researchers avoid treating the most famous version as automatically the best version.
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724-Illustration-1-dark.svg" | relative_url }}" alt="UFOCAT illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Duplicate Entries Happen
 
@@ -410,7 +408,6 @@ The codebook explains this in database terms. Typically, each record reflects on
 
 The key point is that duplication is partly intentional. UFOCAT tries to preserve source richness before imposing a single cleaned narrative.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pSZUBulON6I" title="UFO &amp; UAP &#x27;Need to Know&#x27; News Documentary with Coulthart &amp; Zabel | 7NEWS Spotlight" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pSZUBulON6I" target="_blank" rel="noopener noreferrer">UFO &amp; UAP &#x27;Need to Know&#x27; News Documentary with Coulthart &amp; Zabel | 7NEWS Spotlight</a></p><p class="youtube-embed-meta">Channel: 7 News Spotlight &middot; Views: 3.2M &middot; Uploaded: August 2022 &middot; Length: 1 hour 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pSZUBulON6I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pSZUBulON6I">Open on YouTube</a></p></div></div></div>
 
 ## The X2 Field: The Reader’s First Guard Against Over-Counting
@@ -428,7 +425,6 @@ The duplicate-record problem is not a modern criticism imposed from outside. Dav
 Even then, the counting method had to be constrained. The analysis counted no more than one event per county per day for the main UFO-reporting measure, choosing the entry with the highest type code where multiple countable entries existed. Saunders explained that this avoided a larger problem caused by differences in reporting practices among the sources underlying UFOCAT: some sources detailed [clusters]({{ 'clusters/' | relative_url }}) of reports from one county on one date, while others did not. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/saundersefur.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This example shows why UFOCAT should not be treated as a neutral pile of equal observations. Its entries are shaped by the habits of newspapers, investigators, UFO groups, book authors and database compilers. A county with active newspapers or active investigators may produce more records, not necessarily more anomalous events.
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724-Illustration-2-dark.svg" | relative_url }}" alt="UFOCAT illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Source Levels Reveal About Reliability
@@ -449,7 +445,6 @@ That choice makes sense for a historical source catalogue. If a newspaper got th
 
 The downside is obvious. A casual spreadsheet user may see several entries with slightly different dates, spellings or locations and treat them as separate sightings. A careful researcher treats those differences as clues. They may indicate duplicate versions, uncertain dating, translation issues, changes from local to national reporting, or real separate events that need to be distinguished.
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724-Illustration-3-dark.svg" | relative_url }}" alt="UFOCAT illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Best Uses for Historical Research
 
@@ -468,7 +463,6 @@ Its best uses include:
 **Identifying archival targets.** A UFOCAT record may not contain everything needed to evaluate a case, but it can tell a researcher which newspaper, organisation, book or file trail to pursue.
 
 The catalogue is least suitable for simple claims such as “UFOCAT proves there were X sightings” or “this many reports means this many anomalous objects”. CUFOS itself warns that using only UFOCAT risks losing the distinction between poorly investigated reports and exhaustively studied sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Center_for_UFO_Studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8R34a9_sRKQ" title="Persistent Detection of Non-Participating Aircraft by USN Tactical Aircraft Ryan Graves, AIAA AV21" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8R34a9_sRKQ" target="_blank" rel="noopener noreferrer">Persistent Detection of Non-Participating Aircraft by USN Tactical Aircraft Ryan Graves, AIAA AV21</a></p><p class="youtube-embed-meta">Channel: NARCAP &middot; Views: 5.3K &middot; Uploaded: August 2021 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8R34a9_sRKQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8R34a9_sRKQ">Open on YouTube</a></p></div></div></div>
 
@@ -889,127 +883,127 @@ The proper takeaway is therefore restrained but important: UFOCAT should not be 
 1. <a id="endnote-1"></a>
    Source: cufos.org  
    Title: Center for UFO Studies UFOCAT  
-   Link: [https://cufos.org/cufos-publications-databases/ufocat/](https://cufos.org/cufos-publications-databases/ufocat/)  
+   Link: <a href="https://cufos.org/cufos-publications-databases/ufocat/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/cufos-publications-databases/ufocat/</a>  
 
 2. <a id="endnote-2"></a>
    Source: cufos.org  
    Title: Center for UFO Studies  
-   Link: [https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf](https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf)  
+   Link: <a href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf</a>  
 
 3. <a id="endnote-3"></a>
    Source: cufos.org  
    Title: Center for UFO Studies  
-   Link: [https://cufos.org/PDFs/pdfs/UFOCAT%20fields.pdf](https://cufos.org/PDFs/pdfs/UFOCAT%20fields.pdf)  
+   Link: <a href="https://cufos.org/PDFs/pdfs/UFOCAT%20fields.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/pdfs/UFOCAT%20fields.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: cnes-geipan.fr  
    Title: 15 VALLEE full  
-   Link: [https://www.cnes-geipan.fr/sites/default/files/15_VALLEE_full.pdf](https://www.cnes-geipan.fr/sites/default/files/15_VALLEE_full.pdf)  
+   Link: <a href="https://www.cnes-geipan.fr/sites/default/files/15_VALLEE_full.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/15_VALLEE_full.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: cufos.org  
-   Link: [https://cufos.org/resources/ufo-catalogues/](https://cufos.org/resources/ufo-catalogues/)  
+   Link: <a href="https://cufos.org/resources/ufo-catalogues/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/resources/ufo-catalogues/</a>  
 
 6. <a id="endnote-6"></a>
    Source: cufos.org  
-   Link: [https://cufos.org/PDFs/books/UFO_REPORTS_INVOLVING_VEHICLE_INTERFERENCE.pdf](https://cufos.org/PDFs/books/UFO_REPORTS_INVOLVING_VEHICLE_INTERFERENCE.pdf)  
+   Link: <a href="https://cufos.org/PDFs/books/UFO_REPORTS_INVOLVING_VEHICLE_INTERFERENCE.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/books/UFO_REPORTS_INVOLVING_VEHICLE_INTERFERENCE.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: cufos.org  
-   Link: [https://cufos.org/PDFs/CUFOS_Associate_Newsletter/AN1_1.pdf](https://cufos.org/PDFs/CUFOS_Associate_Newsletter/AN1_1.pdf)  
+   Link: <a href="https://cufos.org/PDFs/CUFOS_Associate_Newsletter/AN1_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/CUFOS_Associate_Newsletter/AN1_1.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: cufos.org  
-   Link: [https://cufos.org/PDFs/JUFOS/1980_OS_vol2_JUFOS.pdf](https://cufos.org/PDFs/JUFOS/1980_OS_vol2_JUFOS.pdf)  
+   Link: <a href="https://cufos.org/PDFs/JUFOS/1980_OS_vol2_JUFOS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/JUFOS/1980_OS_vol2_JUFOS.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: ufocat.com  
-   Link: [https://ufocat.com/](https://ufocat.com/)  
+   Link: <a href="https://ufocat.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufocat.com/</a>  
 
 10. <a id="endnote-10"></a>
    Source: colorado.edu  
-   Link: [https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study](https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study)  
+   Link: <a href="https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study" target="_blank" rel="noopener noreferrer nofollow">https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study</a>  
 
 11. <a id="endnote-11"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/sites/default/files/UFO_Waves.__An_International_Bibliography__November__1___2015.pdf](https://www.cnes-geipan.fr/sites/default/files/UFO_Waves.__An_International_Bibliography__November__1___2015.pdf)  
+   Link: <a href="https://www.cnes-geipan.fr/sites/default/files/UFO_Waves.__An_International_Bibliography__November__1___2015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/UFO_Waves.__An_International_Bibliography__November__1___2015.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/htm/saundersefur.htm](https://ufologie.patrickgross.org/htm/saundersefur.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/htm/saundersefur.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/saundersefur.htm</a>  
 
 13. <a id="endnote-13"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/bio/saunders.htm](https://ufologie.patrickgross.org/bio/saunders.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/bio/saunders.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/bio/saunders.htm</a>  
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Center for UFO Studies  
-   Link: [https://en.wikipedia.org/wiki/Center_for_UFO_Studies](https://en.wikipedia.org/wiki/Center_for_UFO_Studies)  
+   Link: <a href="https://en.wikipedia.org/wiki/Center_for_UFO_Studies" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Center_for_UFO_Studies</a>  
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Condon Committee  
-   Link: [https://en.wikipedia.org/wiki/Condon_Committee](https://en.wikipedia.org/wiki/Condon_Committee)  
+   Link: <a href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Condon_Committee</a>  
 
 16. <a id="endnote-16"></a>
    Source: jstor.org  
-   Link: [https://www.jstor.org/stable/1296963](https://www.jstor.org/stable/1296963)  
+   Link: <a href="https://www.jstor.org/stable/1296963" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/1296963</a>  
 
 17. <a id="endnote-17"></a>
    Source: jstor.org  
-   Link: [https://www.jstor.org/stable/1725090](https://www.jstor.org/stable/1725090)  
+   Link: <a href="https://www.jstor.org/stable/1725090" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/1725090</a>  
 
 18. <a id="endnote-18"></a>
    Source: encyclopedia.com  
-   Link: [https://www.encyclopedia.com/science-and-technology/technology/aviation-general/ufo](https://www.encyclopedia.com/science-and-technology/technology/aviation-general/ufo)  
+   Link: <a href="https://www.encyclopedia.com/science-and-technology/technology/aviation-general/ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science-and-technology/technology/aviation-general/ufo</a>  
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: UFO & UAP “Need to Know” News Documentary with Coulthart & Zabel  
-   Link: [https://www.youtube.com/watch?v=pSZUBulON6I](https://www.youtube.com/watch?v=pSZUBulON6I)  
+   Link: <a href="https://www.youtube.com/watch?v=pSZUBulON6I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pSZUBulON6I</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. David Saunders and the University of Colorado UFO Project History...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Dr. David Saunders and the University of Colorado UFO Project History  
-   Link: [https://www.youtube.com/watch?v=8R34a9_sRKQ](https://www.youtube.com/watch?v=8R34a9_sRKQ)  
+   Link: <a href="https://www.youtube.com/watch?v=8R34a9_sRKQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8R34a9_sRKQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project [Blue Book](&amp;#123;&amp;#123; &#x27;blue-book/&#x27; | relative_url &amp;#125;&amp;#125;) Archive Files and Database Anomalies...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010008-3.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010008-3.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010008-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010008-3.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/DOC_0000042346.pdf](https://www.cia.gov/readingroom/docs/DOC_0000042346.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0000042346.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000042346.pdf</a>  
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: Exploring the Center for UFO Studies Historical Records  
-   Link: [https://www.youtube.com/watch?v=E-b0LwW0I6Q](https://www.youtube.com/watch?v=E-b0LwW0I6Q)  
+   Link: <a href="https://www.youtube.com/watch?v=E-b0LwW0I6Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E-b0LwW0I6Q</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific Principles of UAP Data Collection and Duplicate Traps...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: Project Blue Book Archive Files and Database Anomalies  
-   Link: [https://www.youtube.com/watch?v=k_F9RscL25o](https://www.youtube.com/watch?v=k_F9RscL25o)  
+   Link: <a href="https://www.youtube.com/watch?v=k_F9RscL25o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k_F9RscL25o</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the Center for UFO Studies Historical Records...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories](https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories)  
+   Link: <a href="https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories</a>  
 
 26. <a id="endnote-26"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography](https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography)  
+   Link: <a href="https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography</a>  
 
 27. <a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/252518312_Time-Series_Analysis_of_a_Catalog_of_UFO_Events_Evidence_of_a_Local-Sidereal-Time_Modulation](https://www.researchgate.net/publication/252518312_Time-Series_Analysis_of_a_Catalog_of_UFO_Events_Evidence_of_a_Local-Sidereal-Time_Modulation)  
+   Link: <a href="https://www.researchgate.net/publication/252518312_Time-Series_Analysis_of_a_Catalog_of_UFO_Events_Evidence_of_a_Local-Sidereal-Time_Modulation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/252518312_Time-Series_Analysis_of_a_Catalog_of_UFO_Events_Evidence_of_a_Local-Sidereal-Time_Modulation</a>  
 
 28. <a id="endnote-28"></a>
    Source: ufo-com.net  
-   Link: [https://www.ufo-com.net/_pics/vik_gajd/vallee_sysclassif.pdf](https://www.ufo-com.net/_pics/vik_gajd/vallee_sysclassif.pdf)  
+   Link: <a href="https://www.ufo-com.net/_pics/vik_gajd/vallee_sysclassif.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/_pics/vik_gajd/vallee_sysclassif.pdf</a>

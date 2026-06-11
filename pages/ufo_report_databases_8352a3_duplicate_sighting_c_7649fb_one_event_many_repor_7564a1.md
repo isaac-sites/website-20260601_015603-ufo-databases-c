@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /duplicates/
 nav_short_title: Report Chains
 title: How One Sighting Turns Into Many Records
-title_full: How One Sighting Turns Into Many Records | Duplicates
+title_full: How One Sighting Turns Into Many Records
 display_title_short: Report Chains
 display_title: Report Chains
 heading_title: How One Sighting Turns Into Many Records
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 00:18:13'
-parent_title: How One UFO Sighting Becomes Many Records | UFO Archives
+parent_title: How One UFO Sighting Becomes Many Records
 parent_permalink: /duplicates/
 parent_nav_short_title: Duplicates
 parent_heading_title: How One UFO Sighting Becomes Many Records
@@ -276,7 +276,6 @@ image: /assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb_on
 
 A UFO database can contain several records for what was, in reality, a single sighting. That multiplication happens because databases often preserve every witness statement, newspaper article, investigator summary and later catalogue entry connected to an incident. The result is a chain of reports rather than a clean count of unique events.
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb_one_event_many_repor_7564a1-Illustration-1-dark.svg" | relative_url }}" alt="Report Chains illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb_one_event_many_repor_7564a1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb_one_event_many_repor_7564a1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction matters whenever people cite large UFO totals. A database may contain tens of thousands of records, but those records do not necessarily represent tens of thousands of separate aerial incidents. In many catalogues, the basic unit being stored is the report itself, not a fully deduplicated event. The Centre for UFO Studies (CUFOS) has explicitly acknowledged this issue in its [UFOCAT]({{ 'ufocat/' | relative_url }}) system, noting that records often reflect a witness or group of witnesses reporting one event through one source, while witnesses, events and sources are not always cleanly separable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">UFOCAT Codebook 2023</span><span class="citation-popover-snippet">Center for UFO StudiesUFOCAT 2023June 6, 2024 — Typically, each record for a UFO event reflects the input of one witness or group of witn...</span><span class="citation-popover-meta">Published: June 6, 2024</span></span></span>
 
@@ -295,7 +294,6 @@ CUFOS's UFOCAT was designed with this problem in mind. Its documentation explain
 Keeping witness accounts separate is not necessarily a mistake.
 
 Different witnesses may:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -317,7 +315,6 @@ Duplication does not require multiple observers.
 
 A single witness may submit:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * An initial online report.
@@ -332,8 +329,7 @@ Each submission can enter a different archive.
 
 The problem becomes even harder when details change slightly between versions. A witness may initially estimate a sighting at 9:00 pm and later revise it to 9:15 pm. A location may be described as a nearby city in one account and a specific suburb in another. Automated systems often struggle to recognise that both records refer to the same occurrence.
 
-Modern reporting databases such as NUFORC maintain large archives of witness submissions organised by date, location and other categories. Those archives are valuable resources, but their size alone does not prove that every record represents a unique event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">NUFORCData Bank | NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</span></span></span>
-
+Modern reporting databases such as NUFORC maintain large archives of witness submissions organised by date, location and other categories. Those archives are valuable resources, but their size alone does not prove that every record represents a unique event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sLChKGmOF-U" title="6 videos that stood out in the Pentagon&#x27;s new UFO drop" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sLChKGmOF-U" target="_blank" rel="noopener noreferrer">6 videos that stood out in the Pentagon&#x27;s new UFO drop</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 289.3K &middot; Uploaded: May 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sLChKGmOF-U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sLChKGmOF-U">Open on YouTube</a></p></div></div></div>
 
@@ -359,7 +355,6 @@ A typical chain can look like this:
 If each stage becomes its own record, one event acquires a long documentary trail.
 
 For historians, that trail is useful because it reveals how information spread. For statistical counting, however, it can be misleading. Ten records may represent one incident reported ten different ways rather than ten separate sightings.
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb_one_event_many_repor_7564a1-Illustration-2-dark.svg" | relative_url }}" alt="Report Chains illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb_one_event_many_repor_7564a1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb_one_event_many_repor_7564a1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When Databases Import Other Databases
@@ -397,7 +392,6 @@ Project [Blue Book]({{ 'blue-book/' | relative_url }}) illustrates how large inv
 
 The more famous a case becomes, the more records it tends to generate. That growth often reflects attention and documentation rather than an increase in the number of objects seen.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Y7RZACW31tI" title="Latest UFO file dump ‘barely scratches surface’ of evidence: Filmmaker | Elizabeth Vargas Reports" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Y7RZACW31tI" target="_blank" rel="noopener noreferrer">Latest UFO file dump ‘barely scratches surface’ of evidence: Filmmaker | Elizabeth Vargas Reports</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 178.1K &middot; Uploaded: May 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Y7RZACW31tI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Y7RZACW31tI">Open on YouTube</a></p></div></div></div>
 
 ## Why Row Counts Can Exaggerate Event Frequency
@@ -418,14 +412,12 @@ A database containing 100,000 records does not automatically represent 100,000 u
 
 CUFOS recognised this issue by including methods for linking related records and identifying connections between entries that refer to the same incident. The system was designed as a research catalogue that preserves provenance rather than as a perfectly deduplicated event list. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">UFOCAT Codebook 2023</span><span class="citation-popover-snippet">Center for UFO StudiesUFOCAT 2023June 6, 2024 — Typically, each record for a UFO event reflects the input of one witness or group of witn...</span><span class="citation-popover-meta">Published: June 6, 2024</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb_one_event_many_repor_7564a1-Illustration-3-dark.svg" | relative_url }}" alt="Report Chains illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb_one_event_many_repor_7564a1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb_one_event_many_repor_7564a1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why Researchers Often Keep the Duplicates
 
 The obvious solution might seem to be deleting duplicates. In practice, that can damage the historical record.
 
 Removing all apparent duplicates risks losing:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -439,7 +431,6 @@ Removing all apparent duplicates risks losing:
 Many catalogues therefore preserve the full reporting chain while relying on researchers to distinguish between source records and underlying events.
 
 That design choice is useful for archival work but creates a recurring problem in public discussions. Large UFO databases are often cited as if every row represents a separate unexplained object in the sky. In reality, part of the total may simply reflect how many times the same sighting was recorded, copied, investigated and catalogued.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aO5ZAyeQ4co" title="UFO Files Explained: What’s Really Inside? ft. Pragati | Jist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aO5ZAyeQ4co" target="_blank" rel="noopener noreferrer">UFO Files Explained: What’s Really Inside? ft. Pragati | Jist</a></p><p class="youtube-embed-meta">Channel: Jist &middot; Views: 77.1K &middot; Uploaded: May 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aO5ZAyeQ4co" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aO5ZAyeQ4co">Open on YouTube</a></p></div></div></div>
 
@@ -846,151 +837,151 @@ A catalogue may be doing exactly what it was designed to do: preserving every av
 1. <a id="endnote-1"></a>
    Source: cufos.org  
    Title: UFOCAT Codebook 2023  
-   Link: [https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf](https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf)  
+   Link: <a href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for UFO StudiesUFOCAT 2023June 6, 2024 — Typically, each record for a UFO event reflects the input of one witness or group of witn...</p></details>
    Published: June 6, 2024  
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCData Bank | NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</p></details>
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
    Title: Reports by Location NUFORC Reports by Location; USA  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationNUFORC Reports by Location; USA - Alabama, 1529; USA - Arkansas, 1367; USA - Arizona, 5349; USA - Californi...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
    Title: I'm releasing a cleaned + enriched UFO dataset (327k  
-   Link: [https://www.reddit.com/r/UFOs/comments/1oz3i0h/im_releasing_a_cleaned_enriched_ufo_dataset_327k/](https://www.reddit.com/r/UFOs/comments/1oz3i0h/im_releasing_a_cleaned_enriched_ufo_dataset_327k/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1oz3i0h/im_releasing_a_cleaned_enriched_ufo_dataset_327k/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1oz3i0h/im_releasing_a_cleaned_enriched_ufo_dataset_327k/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What this is: It&#x27;s a 327,000-row dataset of UFO sightings from multiple public sources...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: af.mil  
    Title: unidentified flying objects and air force project blue book  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: archives.gov  
-   Title: [National Archives](&#123;&#123; 'archives/' | relative_url &#125;&#125;) Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Title: National Archives Project BLUE BOOK  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsProject BLUE BOOK has been declassified and the records are available for...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/ndx/?id=shape](https://nuforc.org/ndx/?id=shape)  
+   Link: <a href="https://nuforc.org/ndx/?id=shape" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=shape</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by ShapeNUFORC Reports by Shape; Chevron, 1911; Cigar, 4164; Circle, 15854; Cone, 675.Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/ndx/?id=event](https://nuforc.org/ndx/?id=event)  
+   Link: <a href="https://nuforc.org/ndx/?id=event" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=event</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by MonthSIGHTING YEAR/MONTH, REPORT COUNT. 2026/05, 160. 2026/04, 212. 2026/03, 200. 2026/02, 178. 2026/01, 283. 2025/12...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nuforc.org  
    Title: Browse reports, images, videos, maps and more  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witn...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: archives.gov  
    Title: do records show proof of ufos  
-   Link: [https://www.archives.gov/news/articles/do-records-show-proof-of-ufos](https://www.archives.gov/news/articles/do-records-show-proof-of-ufos)  
+   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>?Feb 9, 2018 — According to a U.S. Air Force Fact Sheet, a total of 12,618 sightings were reported to Project Blue Book during this time...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/](https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I analyzed 80000 UFO sightings from the NUFORC databaseIt is the NUFORC database. I realized I needed to find a stable population since s...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
    Title: i analyzed 80000 ufo sightings from the nuforc  
-   Link: [https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/](https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>databaseI analyzed the comments (free text fields) that captured the witness accounts in the NUFORC database of over 80000 sightings...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: archive.org  
-   Link: [https://archive.org/download/UFO_Commentary_vol_2_no_4/UFO_Commentary_vol_2_no_4.pdf](https://archive.org/download/UFO_Commentary_vol_2_no_4/UFO_Commentary_vol_2_no_4.pdf)  
+   Link: <a href="https://archive.org/download/UFO_Commentary_vol_2_no_4/UFO_Commentary_vol_2_no_4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/UFO_Commentary_vol_2_no_4/UFO_Commentary_vol_2_no_4.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: ada-nuforc-analysis.github.io  
-   Link: [https://ada-nuforc-analysis.github.io/](https://ada-nuforc-analysis.github.io/)  
+   Link: <a href="https://ada-nuforc-analysis.github.io/" target="_blank" rel="noopener noreferrer nofollow">https://ada-nuforc-analysis.github.io/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Report AnalysisThe NUFORC checks each reports for fakes or hoax and comments them accordingly. The reports are classified by their...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookBy the time Project Blue Book ended, it had collected 12,618 UFO reports, and concluded that most of them were miside...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book | Definition, History, Aliens, UFOs, &amp; Facts4 days ago — From 1947 to 1969, 12,618 sightings were recorded; of these, 7...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: metabunk.org  
    Title: Reporting UFOs  
-   Link: [https://www.metabunk.org/threads/nuforc-sightings-categorized-by-decade-and-shape.14610/](https://www.metabunk.org/threads/nuforc-sightings-categorized-by-decade-and-shape.14610/)  
+   Link: <a href="https://www.metabunk.org/threads/nuforc-sightings-categorized-by-decade-and-shape.14610/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/nuforc-sightings-categorized-by-decade-and-shape.14610/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC sightings categorized by decade and shape1 Dec 2025 — The NUFORC database is completely based on self-reporting, and sighting records...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: neurosciarchive.byethost12.com  
-   Link: [https://neurosciarchive.byethost12.com/1984-Persinger-and-Derr-PMS-Geophysical-variables-and-human-behavior--XIX-strong-temporal-relationships-between-inclusive-seismic-meas.pdf](https://neurosciarchive.byethost12.com/1984-Persinger-and-Derr-PMS-Geophysical-variables-and-human-behavior--XIX-strong-temporal-relationships-between-inclusive-seismic-meas.pdf)  
+   Link: <a href="https://neurosciarchive.byethost12.com/1984-Persinger-and-Derr-PMS-Geophysical-variables-and-human-behavior--XIX-strong-temporal-relationships-between-inclusive-seismic-meas.pdf" target="_blank" rel="noopener noreferrer nofollow">https://neurosciarchive.byethost12.com/1984-Persinger-and-Derr-PMS-Geophysical-variables-and-human-behavior--XIX-strong-temporal-relationships-between-inclusive-seismic-meas.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>VARIABLES AND HUMAN BEHAVIOR: XIX.They in- cluded the following perceptual characteristics: &quot;the UFO moved in a non- continuous trajector...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: observablehq.com  
-   Link: [https://observablehq.com/%407a596ea349ab5d1c/ufo-sightings](https://observablehq.com/%407a596ea349ab5d1c/ufo-sightings)  
+   Link: <a href="https://observablehq.com/%407a596ea349ab5d1c/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://observablehq.com/%407a596ea349ab5d1c/ufo-sightings</a>  
 
 20. <a id="endnote-20"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book, 701 remained &quot;unidentified.&quot; The decision to discontinue UFO investigations was based on an...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: abc30.com  
    Title: the black vault project blue book declassified freedom of information act  
-   Link: [https://abc30.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/](https://abc30.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/)  
+   Link: <a href="https://abc30.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/" target="_blank" rel="noopener noreferrer nofollow">https://abc30.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO enthusiast releases 130K pages of Air Force docs...20 Jan 2015 — According to the National Archives, 12,618 UFO sightings were repor...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: abc7ny.com  
    Title: the black vault project blue book declassified freedom of information act  
-   Link: [https://abc7ny.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/](https://abc7ny.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/)  
+   Link: <a href="https://abc7ny.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/" target="_blank" rel="noopener noreferrer nofollow">https://abc7ny.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO enthusiast releases 130K pages of Air Force docs...20 Jan 2015 — According to the National Archives, 12,618 UFO sightings were repor...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: esd.whs.mil  
-   Link: [https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/2d_af_1.pdf](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/2d_af_1.pdf)  
+   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/2d_af_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/2d_af_1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force investigation of UFO&#x27;s began in 1948 and...Between 1948 and 1969 we investi- gated 12,618 reported sightings...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/44630124/A_SEARCH_FOR_POSSIBLE_CAUSAL_ASSOCIATIONS_BETWEEN_UFOs_and_PERTURBATIONS_IN_RECORDED_GEOPHYSICAL_DATA](https://www.academia.edu/44630124/A_SEARCH_FOR_POSSIBLE_CAUSAL_ASSOCIATIONS_BETWEEN_UFOs_and_PERTURBATIONS_IN_RECORDED_GEOPHYSICAL_DATA)  
+   Link: <a href="https://www.academia.edu/44630124/A_SEARCH_FOR_POSSIBLE_CAUSAL_ASSOCIATIONS_BETWEEN_UFOs_and_PERTURBATIONS_IN_RECORDED_GEOPHYSICAL_DATA" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/44630124/A_SEARCH_FOR_POSSIBLE_CAUSAL_ASSOCIATIONS_BETWEEN_UFOs_and_PERTURBATIONS_IN_RECORDED_GEOPHYSICAL_DATA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A SEARCH FOR POSSIBLE CAUSAL ASSOCIATIONS...29 Nov 2024 — The number of witnesses to UFOCAT type 5 and largest number for any one month...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: rotel.pressbooks.pub  
    Title: pub Principle: Consider Context – The Data Renaissance  
-   Link: [https://rotel.pressbooks.pub/datarenaissance1/chapter/principle-consider-context/](https://rotel.pressbooks.pub/datarenaissance1/chapter/principle-consider-context/)  
+   Link: <a href="https://rotel.pressbooks.pub/datarenaissance1/chapter/principle-consider-context/" target="_blank" rel="noopener noreferrer nofollow">https://rotel.pressbooks.pub/datarenaissance1/chapter/principle-consider-context/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>pressbooks.pubPrinciple: Consider Context – The Data Renaissance - rotelIt collects news reports about events around the world and parses...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: github.com  
-   Link: [https://github.com/timothyrenner/nuforc_sightings_data](https://github.com/timothyrenner/nuforc_sightings_data)  
+   Link: <a href="https://github.com/timothyrenner/nuforc_sightings_data" target="_blank" rel="noopener noreferrer nofollow">https://github.com/timothyrenner/nuforc_sightings_data</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>100,000 UFO sightings including city, shape, and a text description.Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: medium.com  
    Title: the ufo uap report for february 2026 1957560a454f  
-   Link: [https://medium.com/%40pauljones_85805/the-ufo-uap-report-for-february-2026-1957560a454f](https://medium.com/%40pauljones_85805/the-ufo-uap-report-for-february-2026-1957560a454f)  
+   Link: <a href="https://medium.com/%40pauljones_85805/the-ufo-uap-report-for-february-2026-1957560a454f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40pauljones_85805/the-ufo-uap-report-for-february-2026-1957560a454f</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO/UAP report for February 2026 | by Paul Jones - MediumMarch 1, 2026 — The National UFO Reporting Center (NUFORC) logged 68 sightin...</p></details>
-   Published: february 2026  
+   Published: february 2026

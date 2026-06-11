@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /clusters/
 nav_short_title: Air Traffic
 title: How Air Traffic and Military Zones Affect UFO Clustering
-title_full: How Air Traffic and Military Zones Affect UFO Clustering | Clusters
+title_full: How Air Traffic and Military Zones Affect UFO Clustering
 display_title_short: Air Traffic
 display_title: Air Traffic
 heading_title: How Air Traffic and Military Zones Affect UFO Clustering
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 00:20:49'
-parent_title: Why UFO Sightings Cluster on the Map | UFO Archives
+parent_title: Why UFO Sightings Cluster on the Map
 parent_permalink: /clusters/
 parent_nav_short_title: Clusters
 parent_heading_title: Why UFO Sightings Cluster on the Map
@@ -268,8 +268,7 @@ image: /assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_ai
 
 ## Introduction
 
-Maps of UFO and UAP reports rarely distribute sightings evenly across a country. One of the most consistent findings in modern database analysis is that reports tend to increase near busy air corridors, airports, military training ranges and defence installations. That pattern does not necessarily indicate anomalous craft. Instead, it often reflects a simple mechanism: areas with more aircraft, more aerial testing and more observers looking at the sky generate more opportunities for unusual objects to be seen, misidentified and reported. Recent statistical studies using large public databases such as the National UFO Reporting Center ([NUFORC]({{ 'nuforc/' | relative_url }})) archive have strengthened the case that air traffic and military activity are major environmental factors behind many [sighting clusters]({{ 'clusters/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureAn environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 22 — This analysis is one of few invest...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">RANDNot the X-Files: Mapping Public Reports of Unidentified...25 Jul 2023 — In this report, RAND researchers present a geographic analys...</span></span></span>
-
+Maps of UFO and UAP reports rarely distribute sightings evenly across a country. One of the most consistent findings in modern database analysis is that reports tend to increase near busy air corridors, airports, military training ranges and defence installations. That pattern does not necessarily indicate anomalous craft. Instead, it often reflects a simple mechanism: areas with more aircraft, more aerial testing and more observers looking at the sky generate more opportunities for unusual objects to be seen, misidentified and reported. Recent statistical studies using large public databases such as the National UFO Reporting Center ([NUFORC]({{ 'nuforc/' | relative_url }})) archive have strengthened the case that air traffic and military activity are major environmental factors behind many sighting [clusters]({{ 'clusters/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 22 — This analysis is one of few invest...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">Not the X-Files: Mapping Public Reports of Unidentified...25 Jul 2023 — In this report, RAND researchers present a geographic analys...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_air_traffic_military_1ffa2d-Illustration-1-dark.svg" | relative_url }}" alt="Air Traffic illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_air_traffic_military_1ffa2d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_air_traffic_military_1ffa2d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Understanding this relationship is important when interpreting UFO catalogues. A hotspot on a map may reveal an area with unusually high aerial activity rather than an area with uniquely unexplained phenomena.
@@ -278,12 +277,11 @@ Understanding this relationship is important when interpreting UFO catalogues. A
 
 Large-scale studies increasingly treat UFO reports as a geographical data problem. Instead of examining individual cases in isolation, researchers compare sighting locations with known environmental variables, including proximity to airports, military facilities and designated training airspace.
 
-A 2023 study published in *Scientific Reports* analysed roughly 98,000 public UAP reports from the continental United States between 2001 and 2020. The researchers tested whether reports were associated with factors that increase sky visibility and factors that increase the number of objects in the sky. Their model included distance from airports and military installations. The results suggested that sightings become more common in areas closer to those facilities, supporting the idea that conventional aircraft and military activity contribute to report frequency. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureAn environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 22 — This analysis is one of few invest...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — This analysis is one of few investigations...</span></span></span>
+A 2023 study published in *Scientific Reports* analysed roughly 98,000 public UAP reports from the continental United States between 2001 and 2020. The researchers tested whether reports were associated with factors that increase sky visibility and factors that increase the number of objects in the sky. Their model included distance from airports and military installations. The results suggested that sightings become more common in areas closer to those facilities, supporting the idea that conventional aircraft and military activity contribute to report frequency. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 22 — This analysis is one of few invest...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — This analysis is one of few investigations...</span></span></span>
 
 The same pattern appeared in a RAND geographic analysis of more than 100,000 public UAP reports. Researchers found elevated reporting rates near Military Operations Areas, the large blocks of airspace reserved for military exercises. According to reporting on the study, the rate of sightings was approximately 1.2 times higher within about 18 miles of such areas than farther away. RAND <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.militarytimes.com/news/your-military/2023/07/25/ufo-sightings-linked-to-military-training-locations-report-finds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: militarytimes.com">[Military Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">militarytimes.com</span><span class="citation-popover-title">ufo sightings linked to military training locations report finds</span><span class="citation-popover-snippet">UFO sightings linked to military training locations, report finds25 Jul 2023 — In their report, RAND researchers found the rate of UAP si...</span></span></span>
 
 These findings matter because military training zones frequently contain:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -302,7 +300,6 @@ From the perspective of a civilian observer, many of these operations can appear
 
 Military installations create conditions that naturally generate UFO reports even when no genuinely unknown object is present.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/M6Wmap12xm0" title="Pentagon shares newly-declassified UFO videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=M6Wmap12xm0" target="_blank" rel="noopener noreferrer">Pentagon shares newly-declassified UFO videos</a></p><p class="youtube-embed-meta">Channel: FOX 5 New York &middot; Views: 1.5M &middot; Uploaded: April 2023 &middot; Length: 3 minutes 4 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=M6Wmap12xm0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=M6Wmap12xm0">Open on YouTube</a></p></div></div></div>
 
 ### Unusual Aircraft Behaviour
@@ -319,7 +316,6 @@ Historically, advanced aerospace projects have repeatedly generated UFO reports.
 
 Examples often cited by aviation historians include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The U-2 reconnaissance aircraft in the 1950s.
@@ -333,7 +329,6 @@ When aircraft are flying at altitudes, speeds or configurations unfamiliar to th
 
 This mechanism does not explain every report, but it demonstrates how military secrecy can create long-lasting UFO narratives around particular regions.
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_air_traffic_military_1ffa2d-Illustration-2-dark.svg" | relative_url }}" alt="Air Traffic illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_air_traffic_military_1ffa2d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_air_traffic_military_1ffa2d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Misidentification of Conventional Aircraft
 
@@ -342,7 +337,6 @@ The strongest practical explanation for many airport and military-base correlati
 Human observers frequently estimate distance, speed and size poorly when viewing bright objects against a dark sky. Aircraft approaching head-on are especially prone to misinterpretation because their forward lights can appear stationary for extended periods before suddenly seeming to accelerate.
 
 Common sources of confusion include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -358,8 +352,7 @@ Common sources of confusion include:
 
 The FAA's guidance for air traffic personnel reflects the reality that unusual aerial reports occur in busy aviation environments and require systematic evaluation rather than immediate extraordinary conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Section 8</span><span class="citation-popover-snippet">Unidentified Anomalous Phenomena (UAP...GENERAL. Inform the operations supervisor/CIC of any reported or observed unidentified anomalous...</span></span></span>
 
-Several widely discussed [pilot sightings]({{ 'pilot-sightings/' | relative_url }}) have emerged from regions where civilian and military traffic overlap. In many cases, investigators ultimately consider aircraft, [balloons]({{ 'balloons/' | relative_url }}), drones or atmospheric effects among the most plausible explanations, even when witnesses initially describe something extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">Preliminary Assessment: Unidentified Aerial Phenomena</span><span class="citation-popover-snippet">DNIPreliminary Assessment: Unidentified Aerial Phenomena...June 25, 2021 — 25 Jun 2021 — This report provides an overview for policymake...</span><span class="citation-popover-meta">Published: June 25, 2021</span></span></span>
-
+Several widely discussed [pilot sightings]({{ 'pilot-sightings/' | relative_url }}) have emerged from regions where civilian and military traffic overlap. In many cases, investigators ultimately consider aircraft, [balloons]({{ 'balloons/' | relative_url }}), drones or atmospheric effects among the most plausible explanations, even when witnesses initially describe something extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">Preliminary Assessment: Unidentified Aerial Phenomena</span><span class="citation-popover-snippet">Preliminary Assessment: Unidentified Aerial Phenomena...June 25, 2021 — 25 Jun 2021 — This report provides an overview for policymake...</span><span class="citation-popover-meta">Published: June 25, 2021</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eJJCHOMajGo" title="‘Good Luck With Aliens’: Pilot-ATC Conversation After &#x27;UFO&#x27;-Aircraft Encounter Over Rhode Island" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eJJCHOMajGo" target="_blank" rel="noopener noreferrer">‘Good Luck With Aliens’: Pilot-ATC Conversation After &#x27;UFO&#x27;-Aircraft Encounter Over Rhode Island</a></p><p class="youtube-embed-meta">Channel: Times Of India &middot; Views: 8.4K &middot; Uploaded: December 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eJJCHOMajGo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eJJCHOMajGo">Open on YouTube</a></p></div></div></div>
 
@@ -367,10 +360,9 @@ Several widely discussed [pilot sightings]({{ 'pilot-sightings/' | relative_url 
 
 Comparing regions with similar populations but different aviation environments helps clarify the relationship between air activity and reporting rates.
 
-The Utah-led environmental study found that report frequency is influenced by both sky-view conditions and the likelihood that objects are actually present overhead. Areas with open skies and nearby aviation infrastructure tended to produce more reports than heavily obstructed landscapes with less aerial activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureAn environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 22 — This analysis is one of few invest...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eurekalert.org/news-releases/1035879" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurekalert.org">[2EurekAlert!]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurekalert.org</span><span class="citation-popover-title">news releases</span><span class="citation-popover-snippet">The West is best to spot UFOs27 Feb 2024 — For each county in the contiguous U.S., the researchers analyzed two conditions: Sky view pote...</span></span></span>
+The Utah-led environmental study found that report frequency is influenced by both sky-view conditions and the likelihood that objects are actually present overhead. Areas with open skies and nearby aviation infrastructure tended to produce more reports than heavily obstructed landscapes with less aerial activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 22 — This analysis is one of few invest...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eurekalert.org/news-releases/1035879" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurekalert.org">[2EurekAlert!]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurekalert.org</span><span class="citation-popover-title">news releases</span><span class="citation-popover-snippet">The West is best to spot UFOs27 Feb 2024 — For each county in the contiguous U.S., the researchers analyzed two conditions: Sky view pote...</span></span></span>
 
 This finding helps explain why many well-known UFO hotspots overlap with:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -384,8 +376,7 @@ This finding helps explain why many well-known UFO hotspots overlap with:
 
 The effect is cumulative. A region may have excellent viewing conditions, substantial military activity and relatively low cloud cover. Together these factors increase the probability that residents will notice and report unusual aerial events.
 
-Researchers therefore caution against interpreting raw sighting density as evidence of anomalous activity without controlling for aviation exposure and environmental visibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureAn environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 22 — This analysis is one of few invest...</span></span></span>
-
+Researchers therefore caution against interpreting raw sighting density as evidence of anomalous activity without controlling for aviation exposure and environmental visibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 22 — This analysis is one of few invest...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_air_traffic_military_1ffa2d-Illustration-3-dark.svg" | relative_url }}" alt="Air Traffic illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_air_traffic_military_1ffa2d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_air_traffic_military_1ffa2d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Collection Bias Around Sensitive Sites
@@ -394,7 +385,7 @@ A second mechanism involves reporting and detection rather than observation.
 
 Military facilities, nuclear sites and training ranges often have more sensors, more surveillance and more formal reporting channels than ordinary locations. As a result, unusual events are more likely to be documented.
 
-The U.S. intelligence community acknowledged this possibility in its 2021 preliminary UAP assessment. The report noted that sightings tended to cluster around military training and testing grounds but stated that this could reflect collection bias arising from concentrated sensor coverage, operational focus and reporting guidance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">Preliminary Assessment: Unidentified Aerial Phenomena</span><span class="citation-popover-snippet">DNIPreliminary Assessment: Unidentified Aerial Phenomena...June 25, 2021 — 25 Jun 2021 — This report provides an overview for policymake...</span><span class="citation-popover-meta">Published: June 25, 2021</span></span></span>
+The U.S. intelligence community acknowledged this possibility in its 2021 preliminary UAP assessment. The report noted that sightings tended to cluster around military training and testing grounds but stated that this could reflect collection bias arising from concentrated sensor coverage, operational focus and reporting guidance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">Preliminary Assessment: Unidentified Aerial Phenomena</span><span class="citation-popover-snippet">Preliminary Assessment: Unidentified Aerial Phenomena...June 25, 2021 — 25 Jun 2021 — This report provides an overview for policymake...</span><span class="citation-popover-meta">Published: June 25, 2021</span></span></span>
 
 Former All-domain Anomaly Resolution Office officials have made similar observations, arguing that many reports originate where advanced military sensors already exist. If an unusual object appears near a heavily monitored range, it is more likely to be detected and entered into a database than an equivalent object appearing over an unmonitored rural area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and atomic sites</span><span class="citation-popover-snippet">UFO reports and atomic sites</span></span></span>
 
@@ -402,13 +393,11 @@ This distinction is crucial. A hotspot may indicate where observers and sensors 
 
 ## The Balance Between Explanation and Uncertainty
 
-The correlation between UFO reports, air traffic and military installations is one of the strongest environmental patterns identified in modern database studies. Multiple analyses have found that sightings become more common near airports, military facilities and operational airspace. The most straightforward explanation is that these regions contain more aircraft, more unusual flight activity and more opportunities for misidentification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencenews.org/article/scientists-serious-ufo-uap-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencenews.org">[Science News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencenews.org</span><span class="citation-popover-title">Science News Scientists are getting serious about UFOs</span><span class="citation-popover-snippet">Here&#x27;s why7 Aug 2024 — One factor that appears to boost the number of UAP sightings is proximity to an airport or military installation...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureAn environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 22 — This analysis is one of few invest...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-title">12,783 U.S. Census Bureau census designated places.Read more</span><span class="citation-popover-snippet">Mapping Public Reports of Unidentified Aerial Phenomena...by MN POSARD · 2023 · Cited by 4 — This report presents a geographic analysis...</span></span></span>
+The correlation between UFO reports, air traffic and military installations is one of the strongest environmental patterns identified in modern database studies. Multiple analyses have found that sightings become more common near airports, military facilities and operational airspace. The most straightforward explanation is that these regions contain more aircraft, more unusual flight activity and more opportunities for misidentification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencenews.org/article/scientists-serious-ufo-uap-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencenews.org">[Science News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencenews.org</span><span class="citation-popover-title">Science News Scientists are getting serious about UFOs</span><span class="citation-popover-snippet">Here&#x27;s why7 Aug 2024 — One factor that appears to boost the number of UAP sightings is proximity to an airport or military installation...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 22 — This analysis is one of few invest...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-title">12,783 U.S. Census Bureau census designated places.Read more</span><span class="citation-popover-snippet">Mapping Public Reports of Unidentified Aerial Phenomena...by MN POSARD · 2023 · Cited by 4 — This report presents a geographic analysis...</span></span></span>
 
-At the same time, correlation does not automatically resolve every case. Some reports remain unexplained after investigation, and defence agencies continue to collect data on incidents that cannot be immediately identified. However, when researchers examine large UFO catalogues statistically rather than case by case, proximity to aviation infrastructure consistently emerges as a major factor shaping where reports cluster. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">Preliminary Assessment: Unidentified Aerial Phenomena</span><span class="citation-popover-snippet">DNIPreliminary Assessment: Unidentified Aerial Phenomena...June 25, 2021 — 25 Jun 2021 — This report provides an overview for policymake...</span><span class="citation-popover-meta">Published: June 25, 2021</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureAn environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 22 — This analysis is one of few invest...</span></span></span> For anyone interpreting UFO databases, this means that flight corridors, military training zones and defence installations should be treated not as neutral background features but as important variables that can significantly influence where sightings are reported and how those [clusters]({{ 'clusters/' | relative_url }}) appear on a map.
-
+At the same time, correlation does not automatically resolve every case. Some reports remain unexplained after investigation, and defence agencies continue to collect data on incidents that cannot be immediately identified. However, when researchers examine large UFO catalogues statistically rather than case by case, proximity to aviation infrastructure consistently emerges as a major factor shaping where reports cluster. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">Preliminary Assessment: Unidentified Aerial Phenomena</span><span class="citation-popover-snippet">Preliminary Assessment: Unidentified Aerial Phenomena...June 25, 2021 — 25 Jun 2021 — This report provides an overview for policymake...</span><span class="citation-popover-meta">Published: June 25, 2021</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 22 — This analysis is one of few invest...</span></span></span> For anyone interpreting UFO databases, this means that flight corridors, military training zones and defence installations should be treated not as neutral background features but as important variables that can significantly influence where sightings are reported and how those clusters appear on a map.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9k82mjcfGag" title="UFO Hearing LIVE | Pentagon Stumped by 21 Sightings, 700+ New Cases | US News | UFO News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9k82mjcfGag" target="_blank" rel="noopener noreferrer">UFO Hearing LIVE | Pentagon Stumped by 21 Sightings, 700+ New Cases | US News | UFO News</a></p><p class="youtube-embed-meta">Channel: Hindustan Times &middot; Views: 5.3K &middot; Uploaded: November 2024 &middot; Length: 9 hours 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9k82mjcfGag" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9k82mjcfGag">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -806,113 +795,113 @@ At the same time, correlation does not automatically resolve every case. Some re
 
 1. <a id="endnote-1"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-023-49527-x](https://www.nature.com/articles/s41598-023-49527-x)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureAn environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 22 — This analysis is one of few invest...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-49527-x</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 22 — This analysis is one of few invest...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: rand.org  
-   Link: [https://www.rand.org/pubs/research_reports/RRA2475-1.html](https://www.rand.org/pubs/research_reports/RRA2475-1.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RANDNot the X-Files: Mapping Public Reports of Unidentified...25 Jul 2023 — In this report, RAND researchers present a geographic analys...</p></details>
+   Link: <a href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/research_reports/RRA2475-1.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Not the X-Files: Mapping Public Reports of Unidentified...25 Jul 2023 — In this report, RAND researchers present a geographic analys...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — This analysis is one of few investigations...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration Section 8  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html](https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena (UAP...GENERAL. Inform the operations supervisor/CIC of any reported or observed unidentified anomalous...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: dni.gov  
    Title: Preliminary Assessment: Unidentified Aerial Phenomena  
-   Link: [https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf](https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DNIPreliminary Assessment: Unidentified Aerial Phenomena...June 25, 2021 — 25 Jun 2021 — This report provides an overview for policymake...</p></details>
+   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Preliminary Assessment: Unidentified Aerial Phenomena...June 25, 2021 — 25 Jun 2021 — This report provides an overview for policymake...</p></details>
    Published: June 25, 2021  
 
 6. <a id="endnote-6"></a>
    Source: eurekalert.org  
    Title: news releases  
-   Link: [https://www.eurekalert.org/news-releases/1035879](https://www.eurekalert.org/news-releases/1035879)  
+   Link: <a href="https://www.eurekalert.org/news-releases/1035879" target="_blank" rel="noopener noreferrer nofollow">https://www.eurekalert.org/news-releases/1035879</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The West is best to spot UFOs27 Feb 2024 — For each county in the contiguous U.S., the researchers analyzed two conditions: Sky view pote...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: UFO reports and atomic sites  
-   Link: [https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites](https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites</a>  
 
 8. <a id="endnote-8"></a>
    Source: rand.org  
    Title: 12,783 U.S. Census Bureau census designated places.Read more  
-   Link: [https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf](https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf)  
+   Link: <a href="https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mapping Public Reports of Unidentified Aerial Phenomena...by MN POSARD · 2023 · Cited by 4 — This report presents a geographic analysis...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: militarytimes.com  
    Title: ufo sightings linked to military training locations report finds  
-   Link: [https://www.militarytimes.com/news/your-military/2023/07/25/ufo-sightings-linked-to-military-training-locations-report-finds/](https://www.militarytimes.com/news/your-military/2023/07/25/ufo-sightings-linked-to-military-training-locations-report-finds/)  
+   Link: <a href="https://www.militarytimes.com/news/your-military/2023/07/25/ufo-sightings-linked-to-military-training-locations-report-finds/" target="_blank" rel="noopener noreferrer nofollow">https://www.militarytimes.com/news/your-military/2023/07/25/ufo-sightings-linked-to-military-training-locations-report-finds/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings linked to military training locations, report finds25 Jul 2023 — In their report, RAND researchers found the rate of UAP si...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sciencenews.org  
    Title: Science News Scientists are getting serious about UFOs  
-   Link: [https://www.sciencenews.org/article/scientists-serious-ufo-uap-security](https://www.sciencenews.org/article/scientists-serious-ufo-uap-security)  
+   Link: <a href="https://www.sciencenews.org/article/scientists-serious-ufo-uap-security" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencenews.org/article/scientists-serious-ufo-uap-security</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s why7 Aug 2024 — One factor that appears to boost the number of UAP sightings is proximity to an airport or military installation...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...Upon completion of my flight an unidentified flying object report was completed, at which tim...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: ouci.dntb.gov.ua  
-   Link: [https://ouci.dntb.gov.ua/en/works/4EweyOK9/](https://ouci.dntb.gov.ua/en/works/4EweyOK9/)  
+   Link: <a href="https://ouci.dntb.gov.ua/en/works/4EweyOK9/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/4EweyOK9/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>environmental analysis of public UAP sightings and sky...Using a Bayesian regression method, we test hypotheses based on variables repre...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: consensus.app  
-   Link: [https://consensus.app/search/id-like-to-learn-about-the-latest-advances-in-rese/joQWZvTwRBuAeKTm0nfrzQ/](https://consensus.app/search/id-like-to-learn-about-the-latest-advances-in-rese/joQWZvTwRBuAeKTm0nfrzQ/)  
+   Link: <a href="https://consensus.app/search/id-like-to-learn-about-the-latest-advances-in-rese/joQWZvTwRBuAeKTm0nfrzQ/" target="_blank" rel="noopener noreferrer nofollow">https://consensus.app/search/id-like-to-learn-about-the-latest-advances-in-rese/joQWZvTwRBuAeKTm0nfrzQ/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Increased Scientific Legitimacy and Institutional Involvement. The study of UFOs, now more commonly termed Unidentified...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/376519968_An_environmental_analysis_of_public_UAP_sightings_and_sky_view_potential](https://www.researchgate.net/publication/376519968_An_environmental_analysis_of_public_UAP_sightings_and_sky_view_potential)  
+   Link: <a href="https://www.researchgate.net/publication/376519968_An_environmental_analysis_of_public_UAP_sightings_and_sky_view_potential" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376519968_An_environmental_analysis_of_public_UAP_sightings_and_sky_view_potential</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>An environmental analysis of public UAP sightings and sky...8 Dec 2023 — This analysis is one of few investigations of UAP sighting repo...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/MadieMovies.Hai/posts/-faa-ufo-reports-unexplained-sightings-in-american-airspaceevery-year-pilots-and/953071467673746/](https://www.facebook.com/MadieMovies.Hai/posts/-faa-ufo-reports-unexplained-sightings-in-american-airspaceevery-year-pilots-and/953071467673746/)  
+   Link: <a href="https://www.facebook.com/MadieMovies.Hai/posts/-faa-ufo-reports-unexplained-sightings-in-american-airspaceevery-year-pilots-and/953071467673746/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MadieMovies.Hai/posts/-faa-ufo-reports-unexplained-sightings-in-american-airspaceevery-year-pilots-and/953071467673746/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA UFO Reports: Unexplained Sightings in American...26 Mar 2026 — FAA UFO Reports: Unexplained Sightings in American Airspace Every yea...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: sciencealert.com  
    Title: scientists say theyve found the best place to spot a ufo in the us  
-   Link: [https://www.sciencealert.com/scientists-say-theyve-found-the-best-place-to-spot-a-ufo-in-the-us](https://www.sciencealert.com/scientists-say-theyve-found-the-best-place-to-spot-a-ufo-in-the-us)  
+   Link: <a href="https://www.sciencealert.com/scientists-say-theyve-found-the-best-place-to-spot-a-ufo-in-the-us" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencealert.com/scientists-say-theyve-found-the-best-place-to-spot-a-ufo-in-the-us</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists Say They&#x27;ve Found The Best Place to Spot a...22 Mar 2024 — Two conditions were assessed for each sighting: sky view potential...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: nasa.gov  
    Title: announces unidentified aerial phenomena study team members  
-   Link: [https://www.nasa.gov/general/nasa-announces-unidentified-aerial-phenomena-study-team-members/](https://www.nasa.gov/general/nasa-announces-unidentified-aerial-phenomena-study-team-members/)  
+   Link: <a href="https://www.nasa.gov/general/nasa-announces-unidentified-aerial-phenomena-study-team-members/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/general/nasa-announces-unidentified-aerial-phenomena-study-team-members/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A full report containing the team&#x27;s findings will be released to the public in mid-2023. “...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/18i7r8r/an_environmental_analysis_of_public_uap_sightings/](https://www.reddit.com/r/UFOs/comments/18i7r8r/an_environmental_analysis_of_public_uap_sightings/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/18i7r8r/an_environmental_analysis_of_public_uap_sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/18i7r8r/an_environmental_analysis_of_public_uap_sightings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>presenting sky view potential ([light pollution](&amp;#123;&amp;#123; &#x27;light-pollution/&#x27; | relative_url &amp;#125;&amp;#125;), [tree canopy](&amp;#123;&amp;#123; &#x27;tree-canopy/&#x27; | relative_url &amp;#125;&amp;#125;), and...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: safeaerospace.org  
    Title: the faa quietly updated its uap reporting policy  
-   Link: [https://www.safeaerospace.org/news/the-faa-quietly-updated-its-uap-reporting-policy](https://www.safeaerospace.org/news/the-faa-quietly-updated-its-uap-reporting-policy)  
+   Link: <a href="https://www.safeaerospace.org/news/the-faa-quietly-updated-its-uap-reporting-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.safeaerospace.org/news/the-faa-quietly-updated-its-uap-reporting-policy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Nov 2025 — The new policy replaces the outdated “UFO” terminology and instructs air traffic controllers to report UAP observations thro...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: fliegerfaust.com  
    Title: uap ufo aviation safety pilot reporting data  
-   Link: [https://www.fliegerfaust.com/uap-ufo-aviation-safety-pilot-reporting-data/](https://www.fliegerfaust.com/uap-ufo-aviation-safety-pilot-reporting-data/)  
+   Link: <a href="https://www.fliegerfaust.com/uap-ufo-aviation-safety-pilot-reporting-data/" target="_blank" rel="noopener noreferrer nofollow">https://www.fliegerfaust.com/uap-ufo-aviation-safety-pilot-reporting-data/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP UFO aviation safety: what pilots and ATC need in 202628 Dec 2025 — UAP/UFO aviation safety: Rhode Island ATC audio, Fox documentary c...</p></details>

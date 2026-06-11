@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /aaro/
 nav_short_title: Go Fast
 title: Was Go Fast Really Moving That Fast?
-title_full: Was Go Fast Really Moving That Fast? | AARO
+title_full: Was Go Fast Really Moving That Fast?
 display_title_short: Go Fast
 display_title: Go Fast
 heading_title: Was Go Fast Really Moving That Fast?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 22:17:44'
-parent_title: Why AARO Cases Remain Unresolved | UFO Archives
+parent_title: Why AARO Cases Remain Unresolved
 parent_permalink: /aaro/
 parent_nav_short_title: AARO
 parent_heading_title: Why AARO Cases Remain Unresolved
@@ -276,7 +276,6 @@ image: /assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_go
 
 The Navy’s 2015 “GoFast” video became one of the most famous entries in modern UFO and UAP databases because it appeared to show a small object racing just above the ocean at extraordinary speed. For years, the clip circulated as apparent evidence that military sensors had captured something beyond conventional aircraft performance. Yet the longer analysts examined the footage, the more the case became a lesson in geometry rather than propulsion.
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_gofast_motion_parall_80b7dc-Illustration-1-dark.svg" | relative_url }}" alt="Go Fast illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_gofast_motion_parall_80b7dc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_gofast_motion_parall_80b7dc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The significance of GoFast is not that everyone now agrees on what the object was. The object itself remains unidentified. The more important point is that analysts found no convincing evidence that it was moving in the extraordinary way many viewers initially assumed. By reconstructing viewing angles, aircraft motion and line-of-sight geometry, investigators concluded that the apparent high speed was largely an effect of motion parallax: a visual illusion created when a fast-moving observer tracks a distant object. [AARO]({{ 'aaro/' | relative_url }}) <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/pentagon-releases-aaro-report-on-go-fast-video-analysis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">The Black VaultPentagon Releases AARO Report on &#x27;Go Fast&#x27; Video...10 Feb 2025 — “AARO assesses with high confidence that the object did...</span></span></span>
 
@@ -290,7 +289,6 @@ To many viewers, the scene looked straightforward. A dark object appeared to ski
 
 Several features made the footage especially persuasive:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The object appeared to move laterally across the ocean at high speed.
@@ -302,7 +300,6 @@ Several features made the footage especially persuasive:
 
 Taken at face value, the video looked like evidence of a craft performing beyond conventional expectations. That perception helped make GoFast one of the most cited entries in modern UAP discussions and databases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mick_West" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mick West</span><span class="citation-popover-snippet">Mick WestMick West (born 1967) is an American science writer, debunker and retired video game programmer. He is the creator of the web...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-3NYowlCoDc" title="GOFAST UFO Analysis (yeah no, probably just a balloon)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-3NYowlCoDc" target="_blank" rel="noopener noreferrer">GOFAST UFO Analysis (yeah no, probably just a balloon)</a></p><p class="youtube-embed-meta">Channel: EdwardCurrent &middot; Views: 6.5K &middot; Uploaded: June 2021 &middot; Length: 4 minutes 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-3NYowlCoDc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-3NYowlCoDc">Open on YouTube</a></p></div></div></div>
 
 ## How motion parallax changed the interpretation
@@ -311,7 +308,7 @@ The debate shifted when independent analysts and later government investigators 
 
 Motion parallax occurs when an observer is moving rapidly while viewing an object at a different distance than the background. Nearby objects seem to move quickly relative to distant scenery, even when their actual speed is modest. People experience the effect routinely from car windows, where roadside signs appear to rush past while distant hills barely seem to move.
 
-The GoFast analysis applied the same principle to an aircraft travelling at high speed while tracking an object from miles away. Researchers examined the range information, viewing angles and aircraft motion shown on the display. Their reconstruction suggested that much of the apparent velocity came from the jet's own movement rather than from extreme motion by the target itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">the skeptics guide to the pentagons ufo videos</span><span class="citation-popover-snippet">VICEThe Skeptic&#x27;s Guide to the Pentagon&#x27;s UFO Videos6 May 2020 — West thinks GOFAST is a balloon tracked by a camera and given unnatural...</span><span class="citation-popover-meta">Published: May 2020</span></span></span> Metabunk AARO eventually presented a similar conclusion. In public briefings and later documentation <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[metabunk.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">nasa panel analyzes go fast.13174</span><span class="citation-popover-snippet">NASA panel analyzes GO FAST19 Sept 2023 — The main point of the NASA analysis is that the GO FAST object looks fast because of parallax—b...</span></span></span>, the office stated that detailed geospatial analysis indicated the object was much higher than many viewers assumed. Rather than skimming just above the waves, it was assessed as being around 13,000 feet in altitude. According to AARO, the object's apparent speed resulted from motion parallax and did not demonstrate anomalous performance. AARO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">pentagon ufo chief tells senate very anomalous objects need careful study video</span><span class="citation-popover-snippet">SpacePentagon UFO chief tells Senate &#x27;very anomalous objects&#x27;...19 Nov 2024 — In that case, the object&#x27;s apparent speed in the video was...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/pentagon-solves-1-ufo-mystery-still-probing-other-cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">pentagon solves 1 ufo mystery still probing other cases</span><span class="citation-popover-snippet">CBS NewsPentagon solves 1 UFO mystery but still probing cases of &quot;...Nov 20, 2024 — The &quot;GOFAST&quot; video was recorded by a fighter jet fro...</span></span></span>
+The GoFast analysis applied the same principle to an aircraft travelling at high speed while tracking an object from miles away. Researchers examined the range information, viewing angles and aircraft motion shown on the display. Their reconstruction suggested that much of the apparent velocity came from the jet's own movement rather than from extreme motion by the target itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">the skeptics guide to the pentagons ufo videos</span><span class="citation-popover-snippet">The Skeptic&#x27;s Guide to the Pentagon&#x27;s UFO Videos6 May 2020 — West thinks GOFAST is a balloon tracked by a camera and given unnatural...</span><span class="citation-popover-meta">Published: May 2020</span></span></span> Metabunk AARO eventually presented a similar conclusion. In public briefings and later documentation <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[metabunk.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">nasa panel analyzes go fast.13174</span><span class="citation-popover-snippet">NASA panel analyzes GO FAST19 Sept 2023 — The main point of the NASA analysis is that the GO FAST object looks fast because of parallax—b...</span></span></span>, the office stated that detailed geospatial analysis indicated the object was much higher than many viewers assumed. Rather than skimming just above the waves, it was assessed as being around 13,000 feet in altitude. According to AARO, the object's apparent speed resulted from motion parallax and did not demonstrate anomalous performance. AARO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">pentagon ufo chief tells senate very anomalous objects need careful study video</span><span class="citation-popover-snippet">Pentagon UFO chief tells Senate &#x27;very anomalous objects&#x27;...19 Nov 2024 — In that case, the object&#x27;s apparent speed in the video was...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/pentagon-solves-1-ufo-mystery-still-probing-other-cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">pentagon solves 1 ufo mystery still probing other cases</span><span class="citation-popover-snippet">CBS NewsPentagon solves 1 UFO mystery but still probing cases of &quot;...Nov 20, 2024 — The &quot;GOFAST&quot; video was recorded by a fighter jet fro...</span></span></span>
 
 The office's formal assessment stated that the object's apparent high speed was attributable to motion parallax and that analysts found no evidence of anomalous velocity. AARO's review relied on video analysis, pixel examination, three-dimensional modelling and geometric reconstruction techniques. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/pentagon-releases-aaro-report-on-go-fast-video-analysis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">The Black VaultPentagon Releases AARO Report on &#x27;Go Fast&#x27; Video...10 Feb 2025 — “AARO assesses with high confidence that the object did...</span></span></span> [3AARO 3AARO]
 
@@ -323,8 +320,7 @@ First, viewers naturally interpreted the ocean surface as a fixed reference fram
 
 Second, the sensor view compressed distance information. A two-dimensional video frame makes it difficult to judge how far away a target actually is.
 
-Third, the aircraft carrying the camera was moving at hundreds of miles per hour. Any line-of-sight changes caused by the jet's motion could create substantial apparent motion in the image even if the target was drifting slowly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">the skeptics guide to the pentagons ufo videos</span><span class="citation-popover-snippet">VICEThe Skeptic&#x27;s Guide to the Pentagon&#x27;s UFO Videos6 May 2020 — West thinks GOFAST is a balloon tracked by a camera and given unnatural...</span><span class="citation-popover-meta">Published: May 2020</span></span></span> Metabunk The result was a case in which intuition and geometry pointed in different directions. The video looked extraordinary before measurement <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[metabunk.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">nasa panel analyzes go fast.13174</span><span class="citation-popover-snippet">NASA panel analyzes GO FAST19 Sept 2023 — The main point of the NASA analysis is that the GO FAST object looks fast because of parallax—b...</span></span></span>, but much less so after reconstruction.
-
+Third, the aircraft carrying the camera was moving at hundreds of miles per hour. Any line-of-sight changes caused by the jet's motion could create substantial apparent motion in the image even if the target was drifting slowly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">the skeptics guide to the pentagons ufo videos</span><span class="citation-popover-snippet">The Skeptic&#x27;s Guide to the Pentagon&#x27;s UFO Videos6 May 2020 — West thinks GOFAST is a balloon tracked by a camera and given unnatural...</span><span class="citation-popover-meta">Published: May 2020</span></span></span> Metabunk The result was a case in which intuition and geometry pointed in different directions. The video looked extraordinary before measurement <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[metabunk.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">nasa panel analyzes go fast.13174</span><span class="citation-popover-snippet">NASA panel analyzes GO FAST19 Sept 2023 — The main point of the NASA analysis is that the GO FAST object looks fast because of parallax—b...</span></span></span>, but much less so after reconstruction.
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_gofast_motion_parall_80b7dc-Illustration-2-dark.svg" | relative_url }}" alt="Go Fast illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_gofast_motion_parall_80b7dc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_gofast_motion_parall_80b7dc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the case remained important even after the speed claim weakened
@@ -338,10 +334,9 @@ The case also highlighted the difference between two separate questions:
 1. What was the object?
 2. How was the object moving?
 
-AARO's analysis primarily addressed the second question. Investigators argued that the object was not displaying extraordinary velocity. That finding reduced one of the strongest claims attached to the footage. It did not necessarily identify the object itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AAROAARO GoFast Case Resolution6 Feb 2025 — AARO manually extracted data from a publicly available video of the “Go Fast” event as the so...</span></span></span>
+AARO's analysis primarily addressed the second question. Investigators argued that the object was not displaying extraordinary velocity. That finding reduced one of the strongest claims attached to the footage. It did not necessarily identify the object itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AARO GoFast Case Resolution6 Feb 2025 — AARO manually extracted data from a publicly available video of the “Go Fast” event as the so...</span></span></span>
 
 For catalogue users, that distinction matters. A report can remain partially unresolved while still losing its strongest anomalous feature.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Jq0QIBREnyo" title="Nick Pope EXPOSES the Truth About AARO and GoFast UFO Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Jq0QIBREnyo" target="_blank" rel="noopener noreferrer">Nick Pope EXPOSES the Truth About AARO and GoFast UFO Video</a></p><p class="youtube-embed-meta">Channel: THE HANNIBAL TV &middot; Views: 3.1K &middot; Uploaded: December 2024 &middot; Length: 1 minute 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Jq0QIBREnyo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Jq0QIBREnyo">Open on YouTube</a></p></div></div></div>
 
@@ -352,7 +347,6 @@ Even after extensive analysis, GoFast illustrates the limits of retrospective in
 AARO's 2025 case-resolution material noted that its work relied on data manually extracted from a publicly available version of the video. The office reconstructed the event from the available imagery rather than from a complete original sensor package. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryAARO employed full-motion video analysis and pixel examination techniques to inform its assessment.... NAVAIR - FOIA: Case: &quot;...</span></span></span>
 
 That limitation matters because modern military targeting systems generate far more information than appears in a compressed public clip. Analysts ideally want:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -365,10 +359,9 @@ That limitation matters because modern military targeting systems generate far m
 
 </div>
 
-Without the complete data environment, some questions remain difficult to answer definitively. Even if the apparent speed can be explained, the object's exact nature may remain uncertain. The public video alone cannot supply every missing variable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AAROAARO GoFast Case Resolution6 Feb 2025 — AARO manually extracted data from a publicly available video of the “Go Fast” event as the so...</span></span></span>
+Without the complete data environment, some questions remain difficult to answer definitively. Even if the apparent speed can be explained, the object's exact nature may remain uncertain. The public video alone cannot supply every missing variable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AARO GoFast Case Resolution6 Feb 2025 — AARO manually extracted data from a publicly available video of the “Go Fast” event as the so...</span></span></span>
 
 This is one reason many official UAP cases remain in unresolved or archived categories. The problem is often not a lack of theories but a lack of complete data.
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_gofast_motion_parall_80b7dc-Illustration-3-dark.svg" | relative_url }}" alt="Go Fast illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_gofast_motion_parall_80b7dc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_gofast_motion_parall_80b7dc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What GoFast changed for UAP evidence analysis
@@ -379,11 +372,9 @@ For years, the clip was cited as evidence that military sensors had captured an 
 
 That does not mean every UAP report has a mundane explanation, nor does it mean every analyst agrees on every detail of the case. What GoFast demonstrated is that sensor videos can create persuasive but misleading impressions when viewed without full contextual data.
 
-Within the broader world of [UFO report databases]({{ 'ufo-report-databases-and-catalogues/' | relative_url }}) and catalogues, GoFast therefore stands as a cautionary example. An object may remain unidentified, yet the evidence for extraordinary behaviour can weaken dramatically once viewing geometry, observer motion and sensor limitations are analysed carefully. The case became less a story about a mysterious craft and more a lesson in how easily motion parallax can transform an ordinary object into an apparently extraordinary one.
-
+Within the broader world of UFO report databases and catalogues, GoFast therefore stands as a cautionary example. An object may remain unidentified, yet the evidence for extraordinary behaviour can weaken dramatically once viewing geometry, observer motion and sensor limitations are analysed carefully. The case became less a story about a mysterious craft and more a lesson in how easily motion parallax can transform an ordinary object into an apparently extraordinary one.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Le7Fqbsrrm8" title="Breakdown of the Pentagon UFO videos with Mick West" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Le7Fqbsrrm8" target="_blank" rel="noopener noreferrer">Breakdown of the Pentagon UFO videos with Mick West</a></p><p class="youtube-embed-meta">Channel: Cool Worlds &middot; Views: 365.2K &middot; Uploaded: April 2020 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Le7Fqbsrrm8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Le7Fqbsrrm8">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -782,129 +773,129 @@ Within the broader world of [UFO report databases]({{ 'ufo-report-databases-and-
 1. <a id="endnote-1"></a>
    Source: aaro.mil  
    Title: Go Fast Case Resolution Card Methodology Final  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf](https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROAARO GoFast Case Resolution6 Feb 2025 — AARO manually extracted data from a publicly available video of the “Go Fast” event as the so...</p></details>
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO GoFast Case Resolution6 Feb 2025 — AARO manually extracted data from a publicly available video of the “Go Fast” event as the so...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: space.com  
    Title: pentagon ufo chief tells senate very anomalous objects need careful study video  
-   Link: [https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video](https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpacePentagon UFO chief tells Senate &#x27;very anomalous objects&#x27;...19 Nov 2024 — In that case, the object&#x27;s apparent speed in the video was...</p></details>
+   Link: <a href="https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO chief tells Senate &#x27;very anomalous objects&#x27;...19 Nov 2024 — In that case, the object&#x27;s apparent speed in the video was...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Pentagon UFO videos  
-   Link: [https://en.wikipedia.org/wiki/Pentagon_UFO_videos](https://en.wikipedia.org/wiki/Pentagon_UFO_videos)  
+   Link: <a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
 
 4. <a id="endnote-4"></a>
    Source: vice.com  
    Title: the skeptics guide to the pentagons ufo videos  
-   Link: [https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/](https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>VICEThe Skeptic&#x27;s Guide to the Pentagon&#x27;s UFO Videos6 May 2020 — West thinks GOFAST is a balloon tracked by a camera and given unnatural...</p></details>
+   Link: <a href="https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Skeptic&#x27;s Guide to the Pentagon&#x27;s UFO Videos6 May 2020 — West thinks GOFAST is a balloon tracked by a camera and given unnatural...</p></details>
    Published: May 2020  
 
 5. <a id="endnote-5"></a>
    Source: metabunk.org  
    Title: nasa panel analyzes go fast.13174  
-   Link: [https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/](https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/)  
+   Link: <a href="https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA panel analyzes GO FAST19 Sept 2023 — The main point of the NASA analysis is that the GO FAST object looks fast because of parallax—b...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryAARO employed full-motion video analysis and pixel examination techniques to inform its assessment.... NAVAIR - FOIA: Case: &quot;...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Mick](https://en.wikipedia.org/wiki/Mick)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mick" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mick</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MickMick is a masculine given name or nickname. It is often short for Michael. Because of its popularity in Ireland, it is often used...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Mick West  
-   Link: [https://en.wikipedia.org/wiki/Mick_West](https://en.wikipedia.org/wiki/Mick_West)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mick_West" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mick_West</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mick WestMick West (born 1967) is an American science writer, debunker and retired video game programmer. He is the creator of the web...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: The Mick (TV series)  
-   Link: [https://en.wikipedia.org/wiki/The_Mick_%28TV_series%29](https://en.wikipedia.org/wiki/The_Mick_%28TV_series%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Mick_%28TV_series%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Mick_%28TV_series%29</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mick (TV series)The Mick is an American television sitcom broadcast on Fox. Created by Dave Chernin and John Chernin, the series s...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: gofast.com  
-   Link: [https://gofast.com/](https://gofast.com/)  
+   Link: <a href="https://gofast.com/" target="_blank" rel="noopener noreferrer nofollow">https://gofast.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GOFAST!® ENERGY | DESIGNED TO KEEP YOU IN THE...GOFAST!® Energy hits harder when the world gets faster. Fueled by bold flavor and built...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: metabunk.org  
    Title: New AARO video "UAP Video  
-   Link: [https://www.metabunk.org/threads/new-aaro-video-uap-video-middle-east-red-balloon-2024.14243/](https://www.metabunk.org/threads/new-aaro-video-uap-video-middle-east-red-balloon-2024.14243/)  
+   Link: <a href="https://www.metabunk.org/threads/new-aaro-video-uap-video-middle-east-red-balloon-2024.14243/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/new-aaro-video-uap-video-middle-east-red-balloon-2024.14243/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Middle East Red Balloon...3 Jun 2025 — AARO assesses, with high confidence, that the object depicted in the video is almost certainly (≥...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: theblackvault.com  
-   Link: [https://www.theblackvault.com/documentarchive/pentagon-releases-aaro-report-on-go-fast-video-analysis/](https://www.theblackvault.com/documentarchive/pentagon-releases-aaro-report-on-go-fast-video-analysis/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/pentagon-releases-aaro-report-on-go-fast-video-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/pentagon-releases-aaro-report-on-go-fast-video-analysis/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultPentagon Releases AARO Report on &#x27;Go Fast&#x27; Video...10 Feb 2025 — “AARO assesses with high confidence that the object did...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: cbsnews.com  
    Title: pentagon solves 1 ufo mystery still probing other cases  
-   Link: [https://www.cbsnews.com/news/pentagon-solves-1-ufo-mystery-still-probing-other-cases/](https://www.cbsnews.com/news/pentagon-solves-1-ufo-mystery-still-probing-other-cases/)  
+   Link: <a href="https://www.cbsnews.com/news/pentagon-solves-1-ufo-mystery-still-probing-other-cases/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/pentagon-solves-1-ufo-mystery-still-probing-other-cases/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsPentagon solves 1 UFO mystery but still probing cases of &quot;...Nov 20, 2024 — The &quot;GOFAST&quot; video was recorded by a fighter jet fro...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: armed-services.senate.gov  
    Title: aaro slides 112124  
-   Link: [https://www.armed-services.senate.gov/download/aaro-slides-112124](https://www.armed-services.senate.gov/download/aaro-slides-112124)  
+   Link: <a href="https://www.armed-services.senate.gov/download/aaro-slides-112124" target="_blank" rel="noopener noreferrer nofollow">https://www.armed-services.senate.gov/download/aaro-slides-112124</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Armed Services CommitteeAARO Open Hearing Case Slides10 Oct 2024 — Analytic Factors: Coordinated analysis employed full-motion video anal...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: pbs.org  
-   Link: [https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos](https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos)  
+   Link: <a href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3 ways scientists use math to help debunk UFO videosSemeter helped analyze one particular video called &quot;GO FAST,&quot; where an object seen an...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/](https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO has resolved the &quot;Go Fast&quot; UAP: r/UFOsGo Fast explanation: paralax Object altitude 13.000 ft, speed 45mph / 39 knots. Wind speed at...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/](https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>According to AARO&#x27;s new website, the FLIR, Gimbal and...According to AARO, the FLIR (Tic Tac UAP), Gimbal, and GoFast videos are “unreso...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/](https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>For those who don&#x27;t know, the Gimbal and GoFast videos...Gimbal is allegedly just a distant jet and GoFast is just a balloon seen with p...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: netflix.com  
-   Link: [https://www.netflix.com/title/80157082](https://www.netflix.com/title/80157082)  
+   Link: <a href="https://www.netflix.com/title/80157082" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/title/80157082</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch The MickWhen her wealthy sister gets arrested, irresponsible grifter Mickey winds up in charge of three spoiled children and a pala...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: en.wiktionary.org  
-   Link: [https://en.wiktionary.org/wiki/mick](https://en.wiktionary.org/wiki/mick)  
+   Link: <a href="https://en.wiktionary.org/wiki/mick" target="_blank" rel="noopener noreferrer nofollow">https://en.wiktionary.org/wiki/mick</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>also: Mick. English. Pronunciation. IPA: /mɪk/. Audio (General Australian): Duration: 1 second.0:01, (file). Rhymes: -ɪk. Etymology 1.Rea...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: rottentomatoes.com  
-   Link: [https://www.rottentomatoes.com/tv/the_mick](https://www.rottentomatoes.com/tv/the_mick)  
+   Link: <a href="https://www.rottentomatoes.com/tv/the_mick" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/tv/the_mick</a>  
 
 22. <a id="endnote-22"></a>
    Source: hulu.com  
-   Link: [https://www.hulu.com/series/the-mick-1ad6f863-b760-4842-bee7-43059eae0fa2](https://www.hulu.com/series/the-mick-1ad6f863-b760-4842-bee7-43059eae0fa2)  
+   Link: <a href="https://www.hulu.com/series/the-mick-1ad6f863-b760-4842-bee7-43059eae0fa2" target="_blank" rel="noopener noreferrer nofollow">https://www.hulu.com/series/the-mick-1ad6f863-b760-4842-bee7-43059eae0fa2</a>  
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Le7Fqbsrrm8](https://www.youtube.com/watch?v=Le7Fqbsrrm8)  
+   Link: <a href="https://www.youtube.com/watch?v=Le7Fqbsrrm8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Le7Fqbsrrm8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Breakdown of the Pentagon UFO videos with Mick WestThe Pentagon have officially released three videos of unidentified aerial phenomena wh...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=-3NYowlCoDc](https://www.youtube.com/watch?v=-3NYowlCoDc)  
+   Link: <a href="https://www.youtube.com/watch?v=-3NYowlCoDc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-3NYowlCoDc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GOFAST UFO Analysis (yeah no, probably just a balloon)Skeptic investigator Mick West used the range data on the &quot;GOFAST&quot; UFO video to det...</p></details>

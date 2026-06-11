@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /ufocat/
 nav_short_title: Duplicate Case Studies
 title: Historical UFOCAT Case Studies Addressing Duplicate Entries
-title_full: Historical UFOCAT Case Studies Addressing Duplicate Entries | UFOCAT
+title_full: Historical UFOCAT Case Studies Addressing Duplicate Entries
 display_title_short: Duplicate Case Studies
 display_title: Duplicate Case Studies
 heading_title: Historical UFOCAT Case Studies Addressing Duplicate Entries
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 20:16:05'
-parent_title: Why UFOCAT Is Not Just a Sighting Count | UFO Archives
+parent_title: Why UFOCAT Is Not Just a Sighting Count
 parent_permalink: /ufocat/
 parent_nav_short_title: UFOCAT
 parent_heading_title: Why UFOCAT Is Not Just a Sighting Count
@@ -270,7 +270,6 @@ image: /assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_hi
 
 Historical UFO catalogues quickly ran into a problem that still affects modern databases: the same sighting often appeared multiple times under different sources, investigators, publications or witness accounts. [UFOCAT]({{ 'ufocat/' | relative_url }}), the long-running catalogue developed by Dr. David R. Saunders and later maintained by the Center for UFO Studies (CUFOS), became one of the earliest large-scale attempts to manage that problem systematically. Rather than deleting overlapping reports, UFOCAT preserved them while creating mechanisms to identify which record was closest to the original source and which entries were derivative versions of the same event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">UFOCAT Codebook 2023</span><span class="citation-popover-snippet">Center for UFO StudiesUFOCAT 2023June 6, 2024 — David R. Saunders, who at the time was a co-Principal Investigator on the. Colorado UFO s...</span><span class="citation-popover-meta">Published: June 6, 2024</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_historical_duplicate_d0e733-Illustration-1-dark.svg" | relative_url }}" alt="Duplicate Case Studies illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_historical_duplicate_d0e733-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_historical_duplicate_d0e733-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The result was a series of practical historical [case studies]({{ 'case-studies/' | relative_url }}) in duplicate control. Researchers working with UFOCAT learned that raw case totals could be misleading unless duplicate reports were identified, linked and analysed. Those lessons emerged from specific investigations, statistical studies and catalogue redesign efforts rather than from abstract database theory alone.
 
@@ -283,7 +282,6 @@ That conclusion sounds straightforward, but it depended heavily on controlling f
 The issue became particularly visible when comparing heavily investigated regions with areas that had fewer active UFO organisations. Places with strong local investigative networks often produced multiple records for the same incident because witness statements, newspaper reports, investigator files and later book summaries all entered the documentary chain. Without source tracing, statistical maps risked measuring reporting activity rather than underlying events.
 
 Hynek's discussion of Saunders' findings also showed an important methodological shift. Researchers increasingly recognised that a UFO catalogue should not be treated as a simple count of incidents. Instead, it functioned as a record of information transmission, requiring analysis of how reports moved through the literature before numerical conclusions could be trusted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;The Hynek UFO Report&quot;David Saunders of the Center for UFO Studies. Dr. Saunders examined the cases in the C...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/avCDzCxjPEM" title="The First Scientific Results From UAPx" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=avCDzCxjPEM" target="_blank" rel="noopener noreferrer">The First Scientific Results From UAPx</a></p><p class="youtube-embed-meta">Channel: Scientific Coalition for UAP Studies &middot; Views: 70.0K &middot; Uploaded: November 2022 &middot; Length: 2 hours 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=avCDzCxjPEM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=avCDzCxjPEM">Open on YouTube</a></p></div></div></div>
 
@@ -303,7 +301,6 @@ Historically, this represented a compromise between two competing goals. Elimina
 
 This approach reflected the reality of UFO research literature. A witness account might first appear in a local newspaper, later in a civilian investigation file, then in a national UFO magazine and eventually in a catalogue or book. Each version could contain unique details, omissions or errors. Keeping all versions allowed historians to reconstruct transmission chains while still identifying the underlying event as a single occurrence.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pxKOdtmHTSo" title="A Scheduled Contact in the Atacama Desert | with Ricardo González (español/English)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pxKOdtmHTSo" target="_blank" rel="noopener noreferrer">A Scheduled Contact in the Atacama Desert | with Ricardo González (español/English)</a></p><p class="youtube-embed-meta">Channel: Rob Freeman UFO World Explorer &middot; Views: 4.9K &middot; Uploaded: October 2019 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pxKOdtmHTSo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pxKOdtmHTSo">Open on YouTube</a></p></div></div></div>
 
 ## Project Blue Book Records as a Deduplication Challenge
@@ -313,7 +310,6 @@ The integration of Project [Blue Book]({{ 'blue-book/' | relative_url }}) materi
 Historical reviews of Blue Book catalogues noted that many files contained multiple reports bundled together under a single case designation. In other situations, the same incident appeared repeatedly across different collections and publications. Brad Sparks, discussing Blue Book-derived catalogues and UFOCAT holdings, observed that duplicate entries within the broader Blue Book record system were difficult and time-consuming to identify and remove. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;The Hynek UFO Report&quot;David Saunders of the Center for UFO Studies. Dr. Saunders examined the cases in the C...</span></span></span>
 
 The problem worked in both directions:
-
 
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
@@ -326,7 +322,6 @@ The problem worked in both directions:
 This historical experience helped establish an important lesson for later researchers: deduplication is not merely a technical exercise. It requires interpretive decisions about witness location, timing, source independence and event boundaries.
 
 For example, several witnesses observing the same object from different locations may produce multiple legitimate reports. A catalogue must decide whether those records represent one sighting event, several observational perspectives on the same event, or separate incidents. UFOCAT's linking system allowed researchers to preserve those distinctions without forcing a single answer.
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_historical_duplicate_d0e733-Illustration-2-dark.svg" | relative_url }}" alt="Duplicate Case Studies illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_historical_duplicate_d0e733-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_historical_duplicate_d0e733-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Case Chains and Source Lineages
@@ -353,7 +348,6 @@ UFOCAT's historical value lay partly in exposing these chains. By preserving sou
 
 That philosophy distinguished UFOCAT from many later public reporting databases, where duplicate detection often focused primarily on keeping counts clean. UFOCAT treated duplication as evidence about the history of a report.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WWqwB52wnuI" title="Case of the Flying Saucer with Edward R. Murrow - UFOs - FREE MOVIE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WWqwB52wnuI" target="_blank" rel="noopener noreferrer">Case of the Flying Saucer with Edward R. Murrow - UFOs - FREE MOVIE</a></p><p class="youtube-embed-meta">Channel: ParanormalX &middot; Views: 25.8K &middot; Uploaded: April 2012 &middot; Length: 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WWqwB52wnuI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WWqwB52wnuI">Open on YouTube</a></p></div></div></div>
 
 ## Lessons for Modern Researchers
@@ -373,7 +367,6 @@ Several enduring lessons emerged from the catalogue's duplicate-control efforts:
 **Database transparency improves credibility.** UFOCAT's use of primary-record indicators and source-ranking fields allowed later researchers to inspect the catalogue's assumptions instead of accepting invisible editorial decisions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">UFOCAT Codebook 2023</span><span class="citation-popover-snippet">Center for UFO StudiesUFOCAT 2023June 6, 2024 — David R. Saunders, who at the time was a co-Principal Investigator on the. Colorado UFO s...</span><span class="citation-popover-meta">Published: June 6, 2024</span></span></span>
 
 The broader historical significance of these case studies is that they transformed duplication from a hidden bookkeeping problem into an explicit research topic. UFOCAT's designers recognised that the history of a UFO report often matters as much as the reported event itself. By documenting relationships among records rather than simply counting them, the catalogue provided a framework that later database projects could adapt when confronting the same challenge on a larger digital scale.
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_historical_duplicate_d0e733-Illustration-3-dark.svg" | relative_url }}" alt="Duplicate Case Studies illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_historical_duplicate_d0e733-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_historical_duplicate_d0e733-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -774,71 +767,71 @@ The broader historical significance of these case studies is that they transform
 1. <a id="endnote-1"></a>
    Source: cufos.org  
    Title: UFOCAT Codebook 2023  
-   Link: [https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf](https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf)  
+   Link: <a href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for UFO StudiesUFOCAT 2023June 6, 2024 — David R. Saunders, who at the time was a co-Principal Investigator on the. Colorado UFO s...</p></details>
    Published: June 6, 2024  
 
 2. <a id="endnote-2"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt](https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt)  
+   Link: <a href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveFull text of &quot;The Hynek UFO Report&quot;David Saunders of the Center for UFO Studies. Dr. Saunders examined the cases in the C...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: [https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf](https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf)  
+   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Page 2. entries cataloged by former Condon Committee scientist David Saunders, has...Read more...</p></details>
 
 ### Additional References
 
 4. <a id="endnote-4"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/download/ufos-and-close-encounters-1502968088-9781502968081.html](https://dokumen.pub/download/ufos-and-close-encounters-1502968088-9781502968081.html)  
+   Link: <a href="https://dokumen.pub/download/ufos-and-close-encounters-1502968088-9781502968081.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/ufos-and-close-encounters-1502968088-9781502968081.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The first step is to compile a computer catalog of sightings—the Ufocat now has...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/69518005/Proceedings_of_the_Sign_Historical_Group_UFO_History_Workshop](https://www.academia.edu/69518005/Proceedings_of_the_Sign_Historical_Group_UFO_History_Workshop)  
+   Link: <a href="https://www.academia.edu/69518005/Proceedings_of_the_Sign_Historical_Group_UFO_History_Workshop" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/69518005/Proceedings_of_the_Sign_Historical_Group_UFO_History_Workshop</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ence, less well known, stretching back to the sixteenth century.Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database](https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database)  
+   Link: <a href="https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>tself later became the term for this research, UFOlogy.Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: newspaceeconomy.ca  
    Title: ufocat the ufo sightings catalog by cufos  
-   Link: [https://newspaceeconomy.ca/2025/07/30/ufocat-the-ufo-sightings-catalog-by-cufos/](https://newspaceeconomy.ca/2025/07/30/ufocat-the-ufo-sightings-catalog-by-cufos/)  
+   Link: <a href="https://newspaceeconomy.ca/2025/07/30/ufocat-the-ufo-sightings-catalog-by-cufos/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/07/30/ufocat-the-ufo-sightings-catalog-by-cufos/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOCAT: The UFO Sightings Catalog by CUFOS30 Jul 2025 — UFOCAT is an electronic database of UFO sightings maintained by the Center for UF...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=avCDzCxjPEM](https://www.youtube.com/watch?v=avCDzCxjPEM)  
+   Link: <a href="https://www.youtube.com/watch?v=avCDzCxjPEM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=avCDzCxjPEM</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientific Traceability Matrix: Replicating and Validating Historical Aerial Reports...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=pxKOdtmHTSo](https://www.youtube.com/watch?v=pxKOdtmHTSo)  
+   Link: <a href="https://www.youtube.com/watch?v=pxKOdtmHTSo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pxKOdtmHTSo</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Algorithmic Data Processing and Local Tools for Eliminating Redundant System Inputs...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=8R34a9_sRKQ](https://www.youtube.com/watch?v=8R34a9_sRKQ)  
+   Link: <a href="https://www.youtube.com/watch?v=8R34a9_sRKQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8R34a9_sRKQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book and the History of Archival Record De-duplication...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: Project Blue Book and the History of Archival Record De-duplication  
-   Link: [https://www.youtube.com/watch?v=WWqwB52wnuI](https://www.youtube.com/watch?v=WWqwB52wnuI)  
+   Link: <a href="https://www.youtube.com/watch?v=WWqwB52wnuI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WWqwB52wnuI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Analyzing Ethnographic Data and Regional Trends in Anomalous Phenomenon Catalogues...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/150258691719744/posts/8468799559865574/](https://www.facebook.com/groups/150258691719744/posts/8468799559865574/)  
+   Link: <a href="https://www.facebook.com/groups/150258691719744/posts/8468799559865574/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/150258691719744/posts/8468799559865574/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting File Unit # **Mineral Wells**, Texas...The Levelland Sightings.....on November 2nd of 1957, a series of UFO occurrences in...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2305.18566](https://arxiv.org/pdf/2305.18566)  
+   Link: <a href="https://arxiv.org/pdf/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2305.18566</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This necessitated mapping the [NUFORC](&amp;#123;&amp;#123; &#x27;nuforc/&#x27; | relative_url &amp;#125;&amp;#125;) counts from city- to county-level.Read more...</p></details>

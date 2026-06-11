@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /blue-book/
 nav_short_title: Case Files
 title: How Individual UFO Case Files Were Recorded and Evaluated
-title_full: How Individual UFO Case Files Were Recorded and Evaluated | Blue Book
+title_full: How Individual UFO Case Files Were Recorded and Evaluated
 display_title_short: Case Files
 display_title: Case Files
 heading_title: How Individual UFO Case Files Were Recorded and Evaluated
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 20:16:18'
-parent_title: What Project Blue Book Records Still Reveal | UFO Archives
+parent_title: What Project Blue Book Records Still Reveal
 parent_permalink: /blue-book/
 parent_nav_short_title: Blue Book
 parent_heading_title: What Project Blue Book Records Still Reveal
@@ -274,20 +274,18 @@ image: /assets/images/ufo_report_databases_8352a3_project_blue_book_re_ad1d41_uf
 
 ## Introduction
 
-Project Blue Book’s surviving case files are among the richest primary‑source records for understanding how the U.S. Air Force documented and evaluated individual UFO reports from 1947 through the late 1960s. Rather than abstract summaries, these files preserve **witness‑generated descriptions, contemporaneous correspondence, press clippings, internal [control sheets]({{ 'control-sheets/' | relative_url }}), and official evaluation notes** that show how individual sightings were recorded, contextualised, and concluded by investigators. Accessed today through declassified microfilm held by the U.S. [National Archives]({{ 'archives/' | relative_url }}) and mirrored in several public archives, these case files reveal both the substance and limits of Cold War‑era UFO documentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects | National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
-
+Project [Blue Book]({{ 'blue-book/' | relative_url }})’s surviving case files are among the richest primary‑source records for understanding how the U.S. Air Force documented and evaluated individual UFO reports from 1947 through the late 1960s. Rather than abstract summaries, these files preserve **witness‑generated descriptions, contemporaneous correspondence, press clippings, internal [control sheets]({{ 'control-sheets/' | relative_url }}), and official evaluation notes** that show how individual sightings were recorded, contextualised, and concluded by investigators. Accessed today through declassified microfilm held by the U.S. National Archives and mirrored in several public archives, these case files reveal both the substance and limits of Cold War‑era UFO documentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_project_blue_book_re_ad1d41_ufo_case_file_analys_bff342-Illustration-1-dark.svg" | relative_url }}" alt="Case Files illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_project_blue_book_re_ad1d41_ufo_case_file_analys_bff342-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_project_blue_book_re_ad1d41_ufo_case_file_analys_bff342-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Structure of Individual Case Files
 
-Each Project [Blue Book]({{ 'blue-book/' | relative_url }}) case file generally corresponds to a **single reported sighting or cluster of related reports**, and the way these files were organised reflects standard Air Force reporting practice of the period:
+Each Project Blue Book case file generally corresponds to a **single reported sighting or cluster of related reports**, and the way these files were organised reflects standard Air Force reporting practice of the period:
 
-* **Control sheets** summarise the basic facts of the sighting — date, time, location, type of observation — and carry the final **Air Force explanation and classification** assigned after investigation. These sheets served as the official metadata for each case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects | National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
+* **Control sheets** summarise the basic facts of the sighting — date, time, location, type of observation — and carry the final **Air Force explanation and classification** assigned after investigation. These sheets served as the official metadata for each case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
 * **Witness submissions** are often preserved in their original form: letters, telegrams or specially formatted questionnaires completed by observers containing first‑hand descriptions of what was seen, sometimes with sketches or diagrams added by the witness. These submissions record how the incident was described at the moment of reporting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/Category%3AUS_National_Archives_series%3A_Sanitized_Version_of_Project_Blue_Book_Case_Files_on_Sightings_of_Unidentified_Flying_Objects%2C_1947_-_1969" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia CommonsCategory:US National Archives series: Sanitized Version of Project Blue Book Case Files on Sightings of Unidentified Fly...</span></span></span>
-* **Correspondence with the Air Force** includes letters between observers and Project personnel, clarifying details or requesting further information. This correspondence provides context on how the investigation unfolded in each instance and how investigative officers solicited or responded to further data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects | National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
+* **Correspondence with the Air Force** includes letters between observers and Project personnel, clarifying details or requesting further information. This correspondence provides context on how the investigation unfolded in each instance and how investigative officers solicited or responded to further data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
 
 This structural mix — raw witness text, administrative summary, and follow‑up correspondence — meant that case files serve as **both a record of public reports and an internal investigative trail**.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/S4vvZ4uyIyI" title="J. Allen Hynek: the Man behind UFO &quot;Project Blue Book&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=S4vvZ4uyIyI" target="_blank" rel="noopener noreferrer">J. Allen Hynek: the Man behind UFO &quot;Project Blue Book&quot;</a></p><p class="youtube-embed-meta">Channel: Think Anomalous &middot; Views: 138.2K &middot; Uploaded: November 2017 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=S4vvZ4uyIyI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=S4vvZ4uyIyI">Open on YouTube</a></p></div></div></div>
 
@@ -295,13 +293,12 @@ This structural mix — raw witness text, administrative summary, and follow‑u
 
 Beyond the narrative elements, many files contain illustrative and contextual artefacts:
 
-* **Press clippings and magazine excerpts** documenting media coverage of the sighting event. These were frequently included as part of the file to show how the report was publicly represented and sometimes to cross‑check claims with published accounts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects | National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
-* **Photographs and analysed imagery** when available, especially in cases where observers had captured images. The files sometimes include both the original prints and internal examination reports prepared by specialists. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects | National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
+* **Press clippings and magazine excerpts** documenting media coverage of the sighting event. These were frequently included as part of the file to show how the report was publicly represented and sometimes to cross‑check claims with published accounts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
+* **Photographs and analysed imagery** when available, especially in cases where observers had captured images. The files sometimes include both the original prints and internal examination reports prepared by specialists. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
 * **Photographic/physical analysis reports** produced by Air Force labs or consulting investigators. For sightings involving images or purported physical effects, investigators often appended technical assessments of the evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/Category%3AUS_National_Archives_series%3A_Sanitized_Version_of_Project_Blue_Book_Case_Files_on_Sightings_of_Unidentified_Flying_Objects%2C_1947_-_1969" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia CommonsCategory:US National Archives series: Sanitized Version of Project Blue Book Case Files on Sightings of Unidentified Fly...</span></span></span>
 * **Redacted personal data**: names and addresses were typically removed or obscured in archival releases to protect witness privacy, leaving de‑identifiable content but preserving the observational and investigatory information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/Category%3AUS_National_Archives_series%3A_Sanitized_Version_of_Project_Blue_Book_Case_Files_on_Sightings_of_Unidentified_Flying_Objects%2C_1947_-_1969" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia CommonsCategory:US National Archives series: Sanitized Version of Project Blue Book Case Files on Sightings of Unidentified Fly...</span></span></span>
 
 Together, these supporting materials make individual case files **semi‑self‑contained dossiers of witness evidence, public context, and investigative response**.
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_project_blue_book_re_ad1d41_ufo_case_file_analys_bff342-Illustration-2-dark.svg" | relative_url }}" alt="Case Files illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_project_blue_book_re_ad1d41_ufo_case_file_analys_bff342-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_project_blue_book_re_ad1d41_ufo_case_file_analys_bff342-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Investigator Evaluation Notes
@@ -310,10 +307,9 @@ A defining component of each case file is the **investigator’s evaluation and 
 
 * Compare the sighting against known atmospheric, astronomical, military, or civilian aerial phenomena.
 * Document explanatory hypotheses and the reasoning behind them, often directly on control sheets or in narrative forms appended to files.
-* **Classify the case** into categories ranging from identified explanations to undetermined outcomes. If a case remained unexplained after all leads were exhausted, it was marked as “unknown” in the official count. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects | National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
+* **Classify the case** into categories ranging from identified explanations to undetermined outcomes. If a case remained unexplained after all leads were exhausted, it was marked as “unknown” in the official count. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
 
 The thoroughness of these evaluation notes could vary widely. In straightforward identifications — for example, misidentified planets or weather [balloons]({{ 'balloons/' | relative_url }}) — the notes are brief and conclusive. In well‑documented but [unresolved cases]({{ 'unresolved-cases/' | relative_url }}), evaluations may include extended commentary on **why common explanations failed to account for the observed features**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/Category%3AUS_National_Archives_series%3A_Sanitized_Version_of_Project_Blue_Book_Case_Files_on_Sightings_of_Unidentified_Flying_Objects%2C_1947_-_1969" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia CommonsCategory:US National Archives series: Sanitized Version of Project Blue Book Case Files on Sightings of Unidentified Fly...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/H_OuoDNbjj8" title="Project Blue Book - Dr. J. Allen Hynek Interviewed on WINS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=H_OuoDNbjj8" target="_blank" rel="noopener noreferrer">Project Blue Book - Dr. J. Allen Hynek Interviewed on WINS</a></p><p class="youtube-embed-meta">Channel: UFO Archives &middot; Views: 3.5K &middot; Uploaded: June 2014 &middot; Length: 44 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=H_OuoDNbjj8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=H_OuoDNbjj8">Open on YouTube</a></p></div></div></div>
 
@@ -322,10 +318,9 @@ The thoroughness of these evaluation notes could vary widely. In straightforward
 Researchers today browsing the Blue Book archive — whether through National [Archives]({{ 'archives/' | relative_url }}) microfilm or volunteer‑hosted digital collections — can see **the diversity of case file content**:
 
 * Some files resemble **carefully annotated dossiers**, with detailed witness narratives, multiple press cuttings, and laboratory photo analysis.
-* Others consist of a **brief questionnaire and a control sheet** with minimal follow‑up, especially when the sighting was quickly identified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects | National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
+* Others consist of a **brief questionnaire and a control sheet** with minimal follow‑up, especially when the sighting was quickly identified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
 
 The variation reflects both the nature of the sighting and the resources the Air Force chose to allocate to it.
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_project_blue_book_re_ad1d41_ufo_case_file_analys_bff342-Illustration-3-dark.svg" | relative_url }}" alt="Case Files illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_project_blue_book_re_ad1d41_ufo_case_file_analys_bff342-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_project_blue_book_re_ad1d41_ufo_case_file_analys_bff342-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Researchers Access and Interpret These Files Today
@@ -336,11 +331,9 @@ Scholars and enthusiasts use these files not just to revisit famous incidents, b
 
 ## Why Individual Case Files Matter
 
-While broad statistical summaries and final conclusion totals tell one part of the Blue Book story, the granularity of individual case files reveals **how evidence was collected and weighed in real time**. They show the lived experience of witnesses and the procedural mechanisms investigators used, making these files invaluable for historical evidence studies of UFO reporting and official analysis in the Cold War era. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects | National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
-
+While broad statistical summaries and final conclusion totals tell one part of the Blue Book story, the granularity of individual case files reveals **how evidence was collected and weighed in real time**. They show the lived experience of witnesses and the procedural mechanisms investigators used, making these files invaluable for historical evidence studies of UFO reporting and official analysis in the Cold War era. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xBytbIzJMiU" title="Ep. 6: Blue Book: The Rise | Ruppelt, Battelle, and the Washington UFO Wave of 1952" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xBytbIzJMiU" target="_blank" rel="noopener noreferrer">Ep. 6: Blue Book: The Rise | Ruppelt, Battelle, and the Washington UFO Wave of 1952</a></p><p class="youtube-embed-meta">Channel: UnresolvedSignals &middot; Views: 13 &middot; Uploaded: April 2026 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xBytbIzJMiU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xBytbIzJMiU">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -739,137 +732,137 @@ While broad statistical summaries and final conclusion totals tell one part of t
 1. <a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying Objects | National ArchivesJune 25, 2024...</p></details>
    Published: June 25, 2024  
 
 2. <a id="endnote-2"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
+   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
 3. <a id="endnote-3"></a>
    Source: commons.wikimedia.org  
-   Link: [https://commons.wikimedia.org/wiki/Category%3AUS_National_Archives_series%3A_Sanitized_Version_of_Project_Blue_Book_Case_Files_on_Sightings_of_Unidentified_Flying_Objects%2C_1947_-_1969](https://commons.wikimedia.org/wiki/Category%3AUS_National_Archives_series%3A_Sanitized_Version_of_Project_Blue_Book_Case_Files_on_Sightings_of_Unidentified_Flying_Objects%2C_1947_-_1969)  
+   Link: <a href="https://commons.wikimedia.org/wiki/Category%3AUS_National_Archives_series%3A_Sanitized_Version_of_Project_Blue_Book_Case_Files_on_Sightings_of_Unidentified_Flying_Objects%2C_1947_-_1969" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AUS_National_Archives_series%3A_Sanitized_Version_of_Project_Blue_Book_Case_Files_on_Sightings_of_Unidentified_Flying_Objects%2C_1947_-_1969</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsCategory:US National Archives series: Sanitized Version of Project Blue Book Case Files on Sightings of Unidentified Fly...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/textual-and-microfilm](https://www.archives.gov/research/topics/uaps/textual-and-microfilm)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/textual-and-microfilm" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/textual-and-microfilm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>icrofilm | National ArchivesApril 24, 2025 — RECORDS RELATED TO UNIDENTIFIED FLYING OBJECTS (UFOS) AND UNIDENTIFIED ANOMALOUS PHENOMENA (...</p></details>
    Published: April 24, 2025  
 
 5. <a id="endnote-5"></a>
    Source: archives.gov  
    Title: Do Records Show Proof of UFOs?  
-   Link: [https://www.archives.gov/news/articles/do-records-show-proof-of-ufos](https://www.archives.gov/news/articles/do-records-show-proof-of-ufos)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| National ArchivesJuly 24, 2023 — DO RECORDS SHOW PROOF OF UFOS? En Español Image: UFO graphic banner By Kerri Lawrence | National Archi...</p></details>
+   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesJuly 24, 2023 — DO RECORDS SHOW PROOF OF UFOS? En Español Image: UFO graphic banner By Kerri Lawrence | National Archi...</p></details>
    Published: July 24, 2023  
 
 6. <a id="endnote-6"></a>
    Source: theblackvault.com  
    Title: desks project blue book complete case listing 1947 1958  
-   Link: [https://www.theblackvault.com/casefiles/desks-project-blue-book-complete-case-listing-1947-1958/](https://www.theblackvault.com/casefiles/desks-project-blue-book-complete-case-listing-1947-1958/)  
+   Link: <a href="https://www.theblackvault.com/casefiles/desks-project-blue-book-complete-case-listing-1947-1958/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/desks-project-blue-book-complete-case-listing-1947-1958/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>From the Desks of Project Blue Book: Complete Case Listing, 1947-1958 - The Black Vault Case FilesFebruary 1, 2018 — FROM THE DESKS OF PR...</p></details>
    Published: February 1, 2018  
 
 7. <a id="endnote-7"></a>
    Source: archives.gov  
    Title: Please update your links and bookmarks. C  
-   Link: [https://www.archives.gov/foia/ufos.html](https://www.archives.gov/foia/ufos.html)  
+   Link: <a href="https://www.archives.gov/foia/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/foia/ufos.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project BLUE BOOK - Unidentified Flying Objects | National ArchivesAugust 15, 2016 — PROJECT BLUE BOOK - UNIDENTIFIED FLYING OBJECTS THIS...</p></details>
    Published: August 15, 2016  
 
 8. <a id="endnote-8"></a>
    Source: commons.wikimedia.org  
    Title: File:Project Blue Book report 1952 08 8756976 Case Files of Individual Sightings  
-   Link: [https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1952-08-8756976-Case_Files_of_Individual_Sightings.pdf](https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1952-08-8756976-Case_Files_of_Individual_Sightings.pdf)  
+   Link: <a href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1952-08-8756976-Case_Files_of_Individual_Sightings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1952-08-8756976-Case_Files_of_Individual_Sightings.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Project Blue Book report - 1952-08-8756976-Case Files of Individual Sightings.pdf - Wikimedia CommonsAugust 1, 1952 — F...</p></details>
    Published: August 1, 1952  
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: J. Allen Hynek: the Man behind UFO "Project Blue Book"  
-   Link: [https://www.youtube.com/watch?v=S4vvZ4uyIyI](https://www.youtube.com/watch?v=S4vvZ4uyIyI)  
+   Link: <a href="https://www.youtube.com/watch?v=S4vvZ4uyIyI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S4vvZ4uyIyI</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book - Dr. J. Allen Hynek Interviewed on WINS...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Project Blue Book  
-   Link: [https://www.youtube.com/watch?v=H_OuoDNbjj8](https://www.youtube.com/watch?v=H_OuoDNbjj8)  
+   Link: <a href="https://www.youtube.com/watch?v=H_OuoDNbjj8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H_OuoDNbjj8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>case files analysis Project Blue Book: CIA MK Ultra Program (Season 2) | History HISTORY...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: theprojectbluebookarchive.org  
-   Link: [https://theprojectbluebookarchive.org/](https://theprojectbluebookarchive.org/)  
+   Link: <a href="https://theprojectbluebookarchive.org/" target="_blank" rel="noopener noreferrer nofollow">https://theprojectbluebookarchive.org/</a>  
 
 12. <a id="endnote-12"></a>
    Source: cufos.org  
    Title: Project Blue Book  
-   Link: [https://cufos.org/resources/project-blue-book/](https://cufos.org/resources/project-blue-book/)  
+   Link: <a href="https://cufos.org/resources/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/resources/project-blue-book/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>14, as edited by Leon Davidson, July 1966The United States Air Force managed three UFO projects, from 1948 to 1969. The first w...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: theprojectbluebookarchive.org  
-   Link: [https://theprojectbluebookarchive.org/archive/Project%20Blue%20Book%20Case%20Files%20on%20Sightings%20of%20Unidentified%20Flying%20Objects%20%28UFOs%29-%20June%201947%E2%80%93December%201969/](https://theprojectbluebookarchive.org/archive/Project%20Blue%20Book%20Case%20Files%20on%20Sightings%20of%20Unidentified%20Flying%20Objects%20%28UFOs%29-%20June%201947%E2%80%93December%201969/)  
+   Link: <a href="https://theprojectbluebookarchive.org/archive/Project%20Blue%20Book%20Case%20Files%20on%20Sightings%20of%20Unidentified%20Flying%20Objects%20%28UFOs%29-%20June%201947%E2%80%93December%201969/" target="_blank" rel="noopener noreferrer nofollow">https://theprojectbluebookarchive.org/archive/Project%20Blue%20Book%20Case%20Files%20on%20Sightings%20of%20Unidentified%20Flying%20Objects%20%28UFOs%29-%20June%201947%E2%80%93December%201969/</a>  
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: bluebook.one  
-   Link: [https://www.bluebook.one/](https://www.bluebook.one/)  
+   Link: <a href="https://www.bluebook.one/" target="_blank" rel="noopener noreferrer nofollow">https://www.bluebook.one/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BlueBook CasefilesMay 8, 2026 — PURSUE CORPUS Browse 120 source records across 7 case files, including text documents, photographs, video...</p></details>
    Published: May 8, 2026  
 
 15. <a id="endnote-15"></a>
    Source: theblackvault.com  
    Title: desks project blue book complete case listing 1959 1965  
-   Link: [https://www.theblackvault.com/casefiles/desks-project-blue-book-complete-case-listing-1959-1965/](https://www.theblackvault.com/casefiles/desks-project-blue-book-complete-case-listing-1959-1965/)  
+   Link: <a href="https://www.theblackvault.com/casefiles/desks-project-blue-book-complete-case-listing-1959-1965/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/desks-project-blue-book-complete-case-listing-1959-1965/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>From the Desks of Project Blue Book: Complete Case Listing, 1959-1965 - The Black Vault Case FilesFebruary 1, 2018 — FROM THE DESKS OF PR...</p></details>
    Published: February 1, 2018  
 
 16. <a id="endnote-16"></a>
    Source: ufologie.patrickgross.org  
    Title: For the US Air Force who conducted Project  
-   Link: [https://ufologie.patrickgross.org/htm/bluebooku51.htm](https://ufologie.patrickgross.org/htm/bluebooku51.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/htm/bluebooku51.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/bluebooku51.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at close sight: Project Blue Book unexplained cases summaries with witnesses names, 1951PROJECT BLUE BOOK UNEXPLAINED CASES SUMMARIE...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: theblackvault.com  
    Title: From the Desks of Project Blue Book  
-   Link: [https://www.theblackvault.com/casefiles/desks-project-blue-book/](https://www.theblackvault.com/casefiles/desks-project-blue-book/)  
+   Link: <a href="https://www.theblackvault.com/casefiles/desks-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/desks-project-blue-book/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vault Case FilesDecember 15, 2017 — INDIVIDUAL CASE FILES * Atlanta, Georgia, 6 November 1957 * Columbus, Indiana, 9 July 1959...</p></details>
    Published: December 15, 2017  
 
 18. <a id="endnote-18"></a>
    Source: theblackvault.com  
    Title: 2:30 p.m. EDT. Witness: astronomer  
-   Link: [https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/](https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/)  
+   Link: <a href="https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book Unknown Case Files, Complete List - The Black Vault Case FilesApril 27, 2015 — PROJECT BLUE BOOK UNKNOWN CASE FILES, CO...</p></details>
    Published: April 27, 2015  
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=xBytbIzJMiU](https://www.youtube.com/watch?v=xBytbIzJMiU)  
+   Link: <a href="https://www.youtube.com/watch?v=xBytbIzJMiU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xBytbIzJMiU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: Declassified - The True Story of the D.C. UFO Sightings | History...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=CnsjolMBOoA](https://www.youtube.com/watch?v=CnsjolMBOoA)  
+   Link: <a href="https://www.youtube.com/watch?v=CnsjolMBOoA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CnsjolMBOoA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ep. 6: Blue Book: The Rise | Ruppelt, Battelle, and the Washington UFO Wave of 1952...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: casefiles.space  
-   Link: [https://www.casefiles.space/cases](https://www.casefiles.space/cases)  
+   Link: <a href="https://www.casefiles.space/cases" target="_blank" rel="noopener noreferrer nofollow">https://www.casefiles.space/cases</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>global monitoring [Input: Search cases, witnesses, evidence, documents...] PRESS...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Project Blue Book: Declassified  
-   Link: [https://www.youtube.com/watch?v=UKzI3uu_oTQ](https://www.youtube.com/watch?v=UKzI3uu_oTQ)  
+   Link: <a href="https://www.youtube.com/watch?v=UKzI3uu_oTQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UKzI3uu_oTQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>J. Allen Hynek: the Man behind UFO &quot;Project Blue Book&quot;...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: bluebookfiles.org  
    Title: Text ha  
-   Link: [https://bluebookfiles.org/doc/17637](https://bluebookfiles.org/doc/17637)  
+   Link: <a href="https://bluebookfiles.org/doc/17637" target="_blank" rel="noopener noreferrer nofollow">https://bluebookfiles.org/doc/17637</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book Archive — Declassified UFO Documents 1947-1969PROJECT BLUE BOOK ARCHIVE — Declassified UFO Documents &amp; Records Search M...</p></details>

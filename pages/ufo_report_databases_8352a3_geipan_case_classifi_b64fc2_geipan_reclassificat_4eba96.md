@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /geipan/
 nav_short_title: Reclassified Cases
 title: How GEIPAN Revises UFO Case Classifications Over Time
-title_full: How GEIPAN Revises UFO Case Classifications Over Time | GEIPAN
+title_full: How GEIPAN Revises UFO Case Classifications Over Time
 display_title_short: Reclassified Cases
 display_title: Reclassified Cases
 heading_title: How GEIPAN Revises UFO Case Classifications Over Time
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 22:16:29'
-parent_title: How France Classifies Public UAP Cases | UFO Archives
+parent_title: How France Classifies Public UAP Cases
 parent_permalink: /geipan/
 parent_nav_short_title: GEIPAN
 parent_heading_title: How France Classifies Public UAP Cases
@@ -268,22 +268,20 @@ image: /assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_ge
 
 ## Introduction
 
-In the context of official unidentified aerospace phenomena records, **case reclassification in the Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non‑identifiés (GEIPAN) database** refers to the ongoing process by which previously investigated cases can be reassessed and assigned a different resolution category when new data, analytic tools, or expertise becomes available. This mechanism ensures that the database remains a living resource rather than a static archive of first impressions. Reclassification affects how cases are understood publicly and statistically, as well as the trustworthiness of the catalogue for long‑term research and trend analysis. GEIPAN’s approach reflects a deliberate balance between rigorous evidential standards and a commitment to updating judgements when warranted by new information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/fr/node/58787" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">Classification | GEIPAN</span><span class="citation-popover-snippet">GeipanClassification | GEIPAN...</span></span></span>
-
+In the context of official unidentified aerospace phenomena records, **case reclassification in the Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non‑identifiés (GEIPAN) database** refers to the ongoing process by which previously investigated cases can be reassessed and assigned a different resolution category when new data, analytic tools, or expertise becomes available. This mechanism ensures that the database remains a living resource rather than a static archive of first impressions. Reclassification affects how cases are understood publicly and statistically, as well as the trustworthiness of the catalogue for long‑term research and trend analysis. GEIPAN’s approach reflects a deliberate balance between rigorous evidential standards and a commitment to updating judgements when warranted by new information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/fr/node/58787" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">Classification &#124; GEIPAN</span><span class="citation-popover-snippet">Classification &#124; GEIPAN...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_reclassificat_4eba96-Illustration-1-dark.svg" | relative_url }}" alt="Reclassified Cases illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_reclassificat_4eba96-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_reclassificat_4eba96-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How GEIPAN Revisits and Revises Case Classifications
 
-At the heart of GEIPAN’s database is its **classification methodology**, which assigns each reported observation to one of several categories: A (identification achieved), B (probable identification), C (insufficient data), and D (unexplained after investigation) — with sub‑categories D1 and D2 used for unexplained phenomena of varying consistency and strangeness. The original classification rests on two key analytic dimensions: the **residual strangeness** of the observation after comparison with known explanatory hypotheses, and the **consistency** of the data — how many reliable data points exist and how coherent they are. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">Classification | GEIPAN</span><span class="citation-popover-snippet">GeipanClassification | GEIPAN...</span></span></span>
+At the heart of GEIPAN’s database is its **classification methodology**, which assigns each reported observation to one of several categories: A (identification achieved), B (probable identification), C (insufficient data), and D (unexplained after investigation) — with sub‑categories D1 and D2 used for unexplained phenomena of varying consistency and strangeness. The original classification rests on two key analytic dimensions: the **residual strangeness** of the observation after comparison with known explanatory hypotheses, and the **consistency** of the data — how many reliable data points exist and how coherent they are. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">Classification &#124; GEIPAN</span><span class="citation-popover-snippet">Classification &#124; GEIPAN...</span></span></span>
 
-Reclassification occurs when **new information or analysis alters those two parameters** in a way that materially changes the initial judgement. This might include additional witness testimony, better photographic evidence, radar data, meteorological context, or technological tools that enable the resolution of ambiguities. GEIPAN’s documentation states explicitly that “a revisit, or a new analysis, of cases C and D may be conducted if new information related to these cases is communicated to GEIPAN after the initial investigation,” and that “D cases need periodical re‑evaluation.” This denotes an institutional mechanism for updating case status beyond the initial closing of an investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/en/stats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">GeipanStatistics | GEIPANJanuary 27, 2026...</span><span class="citation-popover-meta">Published: January 27, 2026</span></span></span>
+Reclassification occurs when **new information or analysis alters those two parameters** in a way that materially changes the initial judgement. This might include additional witness testimony, better photographic evidence, radar data, meteorological context, or technological tools that enable the resolution of ambiguities. GEIPAN’s documentation states explicitly that “a revisit, or a new analysis, of cases C and D may be conducted if new information related to these cases is communicated to GEIPAN after the initial investigation,” and that “D cases need periodical re‑evaluation.” This denotes an institutional mechanism for updating case status beyond the initial closing of an investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/en/stats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Statistics &#124; GEIPANJanuary 27, 2026...</span><span class="citation-popover-meta">Published: January 27, 2026</span></span></span>
 
 Operationally, **reclassification can follow both structured checks and ad hoc triggers**:
 
 * **Triggered by new witness input or evidence**: if witnesses supply additional photos, videos, or clarification that were not available initially, a case once deemed insufficient or unexplained can be analysed again.
 * **Methodology improvements**: advances in analytical methods — for example radar interpretation, atmospheric modelling, or cognitive interviewing for witness [reliability]({{ 'reliability/' | relative_url }}) — strengthen the evidential basis and sometimes resolve what was previously ambiguous.
 * **Periodic systematic review**: certain unexplained (D) cases are flagged for reassessment on a scheduled basis, helping to incorporate broader contextual knowledge gained over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/fr/actualites/deux-nouveaux-cas-d1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">deux nouveaux cas d1</span><span class="citation-popover-snippet">Date de publication 18 décembre 2014 DEUX NOUVEAUX CAS RÉCENTS D&#x27;OBSERVATION CLASSÉS &quot;D1&quot; Date de publicati...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ygb1vphH1q0" title="Le bureau des ovnis • FRANCE 24" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ygb1vphH1q0" target="_blank" rel="noopener noreferrer">Le bureau des ovnis • FRANCE 24</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 &middot; Views: 30.1K &middot; Uploaded: October 2024 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ygb1vphH1q0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ygb1vphH1q0">Open on YouTube</a></p></div></div></div>
 
@@ -296,9 +294,7 @@ Although GEIPAN does not routinely publish exhaustive lists of reclassification 
 
 Cases initially tagged as D or C can, upon re‑examination, be found consistent with mundane explanations — for example misidentified aircraft, atmospheric phenomena, or celestial bodies — and be updated accordingly. Conversely, in rare situations, new evidence could potentially increase a case’s strangeness score, though such upwards reclassification is much less common in GEIPAN’s practice.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hn2xTieploU" title="GEIPAN : dans les coulisses de l’organisme qui étudie les phénomènes aérospatiaux non identifiés" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hn2xTieploU" target="_blank" rel="noopener noreferrer">GEIPAN : dans les coulisses de l’organisme qui étudie les phénomènes aérospatiaux non identifiés</a></p><p class="youtube-embed-meta">Channel: france tv &middot; Views: 4.6K &middot; Uploaded: May 2026 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hn2xTieploU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hn2xTieploU">Open on YouTube</a></p></div></div></div>
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_reclassificat_4eba96-Illustration-3-dark.svg" | relative_url }}" alt="Reclassified Cases illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_reclassificat_4eba96-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_reclassificat_4eba96-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -308,14 +304,12 @@ Cases initially tagged as D or C can, upon re‑examination, be found consistent
 Reclassification has **three major effects** on both the internal statistics of the GEIPAN database and its external perception:
 
 * **Improved Accuracy of the Archive**: Regularly updating case status ensures that statistical breakdowns (percentages of A, B, C, D cases) reflect current understanding rather than historical inertia. This makes the database more reliable for researchers seeking temporal or comparative trends in unidentified aerospace phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/fr/recherche/cas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Select] [Input] [Input] [Input] RECHERCHE DE CAS + Mots Clefs [Input] Classification [Select] [Input]0...</span></span></span>
-* **Public Trust and Transparency**: GEIPAN’s willingness to revisit and revise classifications reinforces its public credibility. Explaining that a previously “unidentified” case is now “identified” under new evidence demonstrates a commitment to evidence‑based judgements rather than dogmatic classification. From a public standpoint, this transparency reduces speculation and emphasises the role of empirical evidence in understanding UAP reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.connexionfrance.com/news/inside-frances-ufo-bureau-we-explain-what-people-have-seen/189460" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connexionfrance.com">[connexionfrance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connexionfrance.com</span><span class="citation-popover-title">Not that it is</span><span class="citation-popover-snippet">connexionfranceInside France&#x27;s &#x27;UFO Bureau&#x27;: &#x27;we explain what people...February 7, 2023 — 7 Feb 2023 — D, the highest rank (99 cases or...</span><span class="citation-popover-meta">Published: February 7, 2023</span></span></span>
+* **Public Trust and Transparency**: GEIPAN’s willingness to revisit and revise classifications reinforces its public credibility. Explaining that a previously “unidentified” case is now “identified” under new evidence demonstrates a commitment to evidence‑based judgements rather than dogmatic classification. From a public standpoint, this transparency reduces speculation and emphasises the role of empirical evidence in understanding UAP reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.connexionfrance.com/news/inside-frances-ufo-bureau-we-explain-what-people-have-seen/189460" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connexionfrance.com">[connexionfrance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connexionfrance.com</span><span class="citation-popover-title">Not that it is</span><span class="citation-popover-snippet">Inside France&#x27;s &#x27;UFO Bureau&#x27;: &#x27;we explain what people...February 7, 2023 — 7 Feb 2023 — D, the highest rank (99 cases or...</span><span class="citation-popover-meta">Published: February 7, 2023</span></span></span>
 * **Contextualising Unexplained Cases**: By actively refining categorizations, GEIPAN avoids indefinite classification of poorly documented reports as “unexplained.” Instead, it distinguishes between genuinely ambiguous phenomena and those that lack sufficient evidence — a distinction that is significant for both scientists and interested members of the public evaluating the database’s unexplained subset. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/en/node/440" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">The most difficult phenomenon to explain...</span></span></span>
 
 In sum, GEIPAN’s reclassification process functions as a form of quality control and scientific reassessment. It reflects a broader trend in UFO/UAP catalogues toward dynamic, evidence‑responsive records, demonstrating that unresolved cases are not end points but stages in an evolving understanding of aerial phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/fr/recherche/cas?page=%2C0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">RECHERCHE DE CAS LISTE DES CAS 12/01/2026 PAPEETE (987) 12.01.2026 Classification: A Département: Polynés...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/d1Olr4FyNbs" title="Ovnis, extraterrestres : pourquoi Trump déclassifie - C dans l’air - 25.04.2026" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=d1Olr4FyNbs" target="_blank" rel="noopener noreferrer">Ovnis, extraterrestres : pourquoi Trump déclassifie - C dans l’air - 25.04.2026</a></p><p class="youtube-embed-meta">Channel: C dans l&#x27;air - France Télévisions &middot; Views: 125.9K &middot; Uploaded: May 2026 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=d1Olr4FyNbs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=d1Olr4FyNbs">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -723,167 +717,167 @@ In sum, GEIPAN’s reclassification process functions as a form of quality contr
 1. <a id="endnote-1"></a>
    Source: geipan.fr  
    Title: Classification | GEIPAN  
-   Link: [https://geipan.fr/fr/node/58787](https://geipan.fr/fr/node/58787)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GeipanClassification | GEIPAN...</p></details>
+   Link: <a href="https://geipan.fr/fr/node/58787" target="_blank" rel="noopener noreferrer nofollow">https://geipan.fr/fr/node/58787</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Classification | GEIPAN...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: geipan.fr  
    Title: Classification | GEIPAN  
-   Link: [https://www.geipan.fr/en/node/58787](https://www.geipan.fr/en/node/58787)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GeipanClassification | GEIPAN...</p></details>
+   Link: <a href="https://www.geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/en/node/58787</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Classification | GEIPAN...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: geipan.fr  
-   Link: [https://www.geipan.fr/en/stats](https://www.geipan.fr/en/stats)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GeipanStatistics | GEIPANJanuary 27, 2026...</p></details>
+   Link: <a href="https://www.geipan.fr/en/stats" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/en/stats</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Statistics | GEIPANJanuary 27, 2026...</p></details>
    Published: January 27, 2026  
 
 4. <a id="endnote-4"></a>
    Source: connexionfrance.com  
    Title: Not that it is  
-   Link: [https://www.connexionfrance.com/news/inside-frances-ufo-bureau-we-explain-what-people-have-seen/189460](https://www.connexionfrance.com/news/inside-frances-ufo-bureau-we-explain-what-people-have-seen/189460)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>connexionfranceInside France&#x27;s &#x27;UFO Bureau&#x27;: &#x27;we explain what people...February 7, 2023 — 7 Feb 2023 — D, the highest rank (99 cases or...</p></details>
+   Link: <a href="https://www.connexionfrance.com/news/inside-frances-ufo-bureau-we-explain-what-people-have-seen/189460" target="_blank" rel="noopener noreferrer nofollow">https://www.connexionfrance.com/news/inside-frances-ufo-bureau-we-explain-what-people-have-seen/189460</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside France&#x27;s &#x27;UFO Bureau&#x27;: &#x27;we explain what people...February 7, 2023 — 7 Feb 2023 — D, the highest rank (99 cases or...</p></details>
    Published: February 7, 2023  
 
 6. <a id="endnote-6"></a>
    Source: geipan.fr  
    Title: deux nouveaux cas d1  
-   Link: [https://www.geipan.fr/fr/actualites/deux-nouveaux-cas-d1](https://www.geipan.fr/fr/actualites/deux-nouveaux-cas-d1)  
+   Link: <a href="https://www.geipan.fr/fr/actualites/deux-nouveaux-cas-d1" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/fr/actualites/deux-nouveaux-cas-d1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Date de publication 18 décembre 2014 DEUX NOUVEAUX CAS RÉCENTS D&#x27;OBSERVATION CLASSÉS &quot;D1&quot; Date de publicati...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: geipan.fr  
-   Link: [https://www.geipan.fr/en/search/cas](https://www.geipan.fr/en/search/cas)  
+   Link: <a href="https://www.geipan.fr/en/search/cas" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/en/search/cas</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CASE SEARCH + Keywords [Input] Classification [Select] [Input]0 [Input]Select all * * * * [Input]A * [...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: geipan.fr  
-   Link: [https://www.geipan.fr/en/search/cas?page=%2C0&undefined=](https://www.geipan.fr/en/search/cas?page=%2C0&undefined=)  
+   Link: <a href="https://www.geipan.fr/en/search/cas?page=%2C0&amp;undefined=" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/en/search/cas?page=%2C0&amp;undefined=</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CASE SEARCH Image: blue arrow swipe Nouveaux CAS (15) Revised cases (228) [Select] CASE LIST 12/01/2026 PA...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: geipan.fr  
-   Link: [https://www.geipan.fr/fr/recherche/cas](https://www.geipan.fr/fr/recherche/cas)  
+   Link: <a href="https://www.geipan.fr/fr/recherche/cas" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/fr/recherche/cas</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[Select] [Input] [Input] [Input] RECHERCHE DE CAS + Mots Clefs [Input] Classification [Select] [Input]0...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: geipan.fr  
-   Link: [https://www.geipan.fr/en/node/440](https://www.geipan.fr/en/node/440)  
+   Link: <a href="https://www.geipan.fr/en/node/440" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/en/node/440</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The most difficult phenomenon to explain...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: geipan.fr  
-   Link: [https://geipan.fr/fr/recherche/cas?page=%2C0](https://geipan.fr/fr/recherche/cas?page=%2C0)  
+   Link: <a href="https://geipan.fr/fr/recherche/cas?page=%2C0" target="_blank" rel="noopener noreferrer nofollow">https://geipan.fr/fr/recherche/cas?page=%2C0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RECHERCHE DE CAS LISTE DES CAS 12/01/2026 PAPEETE (987) 12.01.2026 Classification: A Département: Polynés...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: geipan.fr  
-   Link: [https://www.geipan.fr/en/node/](https://www.geipan.fr/en/node/)  
+   Link: <a href="https://www.geipan.fr/en/node/" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/en/node/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPAN* No. GEIPAN does not involve in a security topic nor a sky and space awareness or alert service. * For any questions or alertsrega...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: geipan.fr  
-   Link: [https://geipan.fr/en/search/cas?page=%2C13](https://geipan.fr/en/search/cas?page=%2C13)  
+   Link: <a href="https://geipan.fr/en/search/cas?page=%2C13" target="_blank" rel="noopener noreferrer nofollow">https://geipan.fr/en/search/cas?page=%2C13</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CASE SEARCH CASE LIST 03/09/2024 QUIEVY (59) 03.09.2024 Classification: B Department: Nord Date of update...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: geipan.fr  
-   Link: [https://www.geipan.fr/en/recherche/cas/tab?field_classification_des_cas_target_id%5B0%5D=14&field_classification_des_cas_target_id%5B1%5D=15&field_classification_des_cas_target_id%5B2%5D=16&field_document_existe_ou_pas_value=All&field_type_de_cas_target_id=All&order=field_classification_des_cas&page=5&select-category-export=nothing&sort=asc](https://www.geipan.fr/en/recherche/cas/tab?field_classification_des_cas_target_id%5B0%5D=14&field_classification_des_cas_target_id%5B1%5D=15&field_classification_des_cas_target_id%5B2%5D=16&field_document_existe_ou_pas_value=All&field_type_de_cas_target_id=All&order=field_classification_des_cas&page=5&select-category-export=nothing&sort=asc)  
+   Link: <a href="https://www.geipan.fr/en/recherche/cas/tab?field_classification_des_cas_target_id%5B0%5D=14&amp;field_classification_des_cas_target_id%5B1%5D=15&amp;field_classification_des_cas_target_id%5B2%5D=16&amp;field_document_existe_ou_pas_value=All&amp;field_type_de_cas_target_id=All&amp;order=field_classification_des_cas&amp;page=5&amp;select-category-export=nothing&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/en/recherche/cas/tab?field_classification_des_cas_target_id%5B0%5D=14&amp;field_classification_des_cas_target_id%5B1%5D=15&amp;field_classification_des_cas_target_id%5B2%5D=16&amp;field_document_existe_ou_pas_value=All&amp;field_type_de_cas_target_id=All&amp;order=field_classification_des_cas&amp;page=5&amp;select-category-export=nothing&amp;sort=asc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CASE SEARCH + Keywords [Input] Classification [Select] Department [Input] [Input] Advanced search Obser...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com](https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com)  
+   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>An Assessment of Thirty Years of Official Studies in FranceA detailed, critical re-examination of the main cases in three decades of &#x27;off...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=hn2xTieploU](https://www.youtube.com/watch?v=hn2xTieploU)  
+   Link: <a href="https://www.youtube.com/watch?v=hn2xTieploU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hn2xTieploU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Office • FRANCE 24...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/en/node/58787](https://www.cnes-geipan.fr/en/node/58787)  
+   Link: <a href="https://www.cnes-geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58787</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GeipanClassificationToday, the GEIPAN has sped up the reappraisal of old D cases with 50 of them re-investigated and explained in 2017...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/index.php/en/stats](https://www.cnes-geipan.fr/index.php/en/stats)  
+   Link: <a href="https://www.cnes-geipan.fr/index.php/en/stats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/index.php/en/stats</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Statistics | GEIPANOctober 21, 2025 — By Classification By Year of Observation By Region By Department Par Phénomène Distribution of Obse...</p></details>
    Published: October 21, 2025  
 
 21. <a id="endnote-21"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/GEIPAN](https://en.wikipedia.org/wiki/GEIPAN)  
+   Link: <a href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEIPAN</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPANGEIPAN is clearly focused on UFO study, but UAP (PAN in French) is meant to cover a much broader area than UFO (OVNI in French)...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: cnes-geipan.fr  
    Title: How does GEIPAN classify observation cases?  
-   Link: [https://www.cnes-geipan.fr/en/node/412](https://www.cnes-geipan.fr/en/node/412)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| GEIPANThe classification process is done according a quantitative and qualitative assessment of two parameters: the consistency (C) of...</p></details>
+   Link: <a href="https://www.cnes-geipan.fr/en/node/412" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/412</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPANThe classification process is done according a quantitative and qualitative assessment of two parameters: the consistency (C) of...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: cnes.fr  
-   Link: [https://cnes.fr/en/projects/geipan](https://cnes.fr/en/projects/geipan)  
+   Link: <a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Jul 2025 — GEIPAN, the French UAP research and information group created by CNES in 1977, collects, analyses and [archives](&amp;#123;&amp;#123; &#x27;archives/&#x27; | relative_url &amp;#125;&amp;#125;) information o...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: newspaceeconomy.ca  
-   Link: [https://newspaceeconomy.ca/2025/07/29/geipan-frances-uap-investigation-unit/](https://newspaceeconomy.ca/2025/07/29/geipan-frances-uap-investigation-unit/)  
+   Link: <a href="https://newspaceeconomy.ca/2025/07/29/geipan-frances-uap-investigation-unit/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/07/29/geipan-frances-uap-investigation-unit/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPAN: Frances UAP Investigation Unit - New Space Economy29 Jul 2025 — Many older D cases have been re‑examined and explained over time...</p></details>
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TheFrenchHistoryPodcast/posts/a-drawing-from-the-files-at-the-french-ufo-department/1337099231754482/](https://www.facebook.com/TheFrenchHistoryPodcast/posts/a-drawing-from-the-files-at-the-french-ufo-department/1337099231754482/)  
+   Link: <a href="https://www.facebook.com/TheFrenchHistoryPodcast/posts/a-drawing-from-the-files-at-the-french-ufo-department/1337099231754482/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheFrenchHistoryPodcast/posts/a-drawing-from-the-files-at-the-french-ufo-department/1337099231754482/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A drawing from the files at the French UFO departmentThe case has been classified as a &#x27;Class D&#x27; case, which are the unexplained cases in...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/todayilearned/comments/1qa0lyb/til_that_france_has_a_dedicated_unit_to_finding/](https://www.reddit.com/r/todayilearned/comments/1qa0lyb/til_that_france_has_a_dedicated_unit_to_finding/)  
+   Link: <a href="https://www.reddit.com/r/todayilearned/comments/1qa0lyb/til_that_france_has_a_dedicated_unit_to_finding/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/1qa0lyb/til_that_france_has_a_dedicated_unit_to_finding/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TIL that France has a dedicated unit to finding UFO&#x27;s. The...The explained UFOs are broken down such as: Airplanes, helicopters and bli...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/en/missions-methodes-et-resultats](https://www.cnes-geipan.fr/en/missions-methodes-et-resultats)  
+   Link: <a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EN-OUCHE (27) 23.02.2016, involves four witnesses, three of them in a car driving on...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/nxkne3/france_ufo_situation_classification_and_list_of/](https://www.reddit.com/r/UFOs/comments/nxkne3/france_ufo_situation_classification_and_list_of/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/nxkne3/france_ufo_situation_classification_and_list_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/nxkne3/france_ufo_situation_classification_and_list_of/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>France: UFO situation, classification and list of sightings.11 Jun 2021 — In 2007 after 30 years of collecting reports on UAPs, GEIPAN de...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/209times/posts/the-war-department-releases-additional-classified-ufo-files-the-war-department-f/1422472709921650/](https://www.facebook.com/209times/posts/the-war-department-releases-additional-classified-ufo-files-the-war-department-f/1422472709921650/)  
+   Link: <a href="https://www.facebook.com/209times/posts/the-war-department-releases-additional-classified-ufo-files-the-war-department-f/1422472709921650/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/209times/posts/the-war-department-releases-additional-classified-ufo-files-the-war-department-f/1422472709921650/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The shocking videos include a recent...Read more...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
    Title: Governments Using AI To Decode Massive UFO Databases | WION Podcast  
-   Link: [https://www.youtube.com/watch?v=adCsqd_-M94](https://www.youtube.com/watch?v=adCsqd_-M94)  
+   Link: <a href="https://www.youtube.com/watch?v=adCsqd_-M94" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=adCsqd_-M94</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP data released: Astrophysicist Avi Loeb breaks down declassified records | FOX 10 Talks...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: cnes-geipan.fr  
    Title: evolution classification des cas  
-   Link: [https://www.cnes-geipan.fr/fr/actualites/evolution-classification-des-cas](https://www.cnes-geipan.fr/fr/actualites/evolution-classification-des-cas)  
+   Link: <a href="https://www.cnes-geipan.fr/fr/actualites/evolution-classification-des-cas" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/actualites/evolution-classification-des-cas</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[Select] [Input] [Input] [Input] Date de publication 10 décembre 2008 EVOLUTION DE LA CLASSIFICATION DES C...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
    Title: UFOs, aliens: why is Trump declassifying?  
-   Link: [https://www.youtube.com/watch?v=d1Olr4FyNbs](https://www.youtube.com/watch?v=d1Olr4FyNbs)  
+   Link: <a href="https://www.youtube.com/watch?v=d1Olr4FyNbs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d1Olr4FyNbs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Governments Using AI To Decode Massive UFO Databases | WION Podcast...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: youtube.com  
    Title: The UFO Office • FRANCE 24  
-   Link: [https://www.youtube.com/watch?v=Ygb1vphH1q0](https://www.youtube.com/watch?v=Ygb1vphH1q0)  
+   Link: <a href="https://www.youtube.com/watch?v=Ygb1vphH1q0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ygb1vphH1q0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, aliens: why is Trump declassifying? - C dans l&#x27;air - 04/25/2026...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=ur0QX1eGCQI](https://www.youtube.com/watch?v=ur0QX1eGCQI)  
+   Link: <a href="https://www.youtube.com/watch?v=ur0QX1eGCQI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ur0QX1eGCQI</a>

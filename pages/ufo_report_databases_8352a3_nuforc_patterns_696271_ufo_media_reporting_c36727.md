@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /nuforc/
 nav_short_title: Media Effects
 title: How Media Coverage Drives UFO Sighting Clusters
-title_full: How Media Coverage Drives UFO Sighting Clusters | NUFORC
+title_full: How Media Coverage Drives UFO Sighting Clusters
 display_title_short: Media Effects
 display_title: Media Effects
 heading_title: How Media Coverage Drives UFO Sighting Clusters
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 18:33:07'
-parent_title: What NUFORC Reports Can Really Tell You | UFO Archives
+parent_title: What NUFORC Reports Can Really Tell You
 parent_permalink: /nuforc/
 parent_nav_short_title: NUFORC
 parent_heading_title: What NUFORC Reports Can Really Tell You
@@ -274,8 +274,7 @@ image: /assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271_ufo_med
 
 ## Introduction
 
-One of the most persistent pitfalls in interpreting [NUFORC]({{ 'nuforc/' | relative_url }}) and similar UFO databases is assuming that a surge in reports reflects a surge in unusual aerial events. In many cases, reporting activity appears to be influenced not only by what people observe but also by what they have recently seen in the news, on television, or across social media. Researchers who study UFO reporting patterns have repeatedly noted that publicity can increase both public attention and the willingness of witnesses to file reports, creating [clusters]({{ 'clusters/' | relative_url }}) that may be partly social phenomena rather than independent observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectOn the dynamics of reporting data: A case study of UFO...by FJ Antonio · 2022 · Cited by 7 — In this study, we used data fr...</span></span></span>
-
+One of the most persistent pitfalls in interpreting [NUFORC]({{ 'nuforc/' | relative_url }}) and similar UFO databases is assuming that a surge in reports reflects a surge in unusual aerial events. In many cases, reporting activity appears to be influenced not only by what people observe but also by what they have recently seen in the news, on television, or across social media. Researchers who study UFO reporting patterns have repeatedly noted that publicity can increase both public attention and the willingness of witnesses to file reports, creating [clusters]({{ 'clusters/' | relative_url }}) that may be partly social phenomena rather than independent observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">On the dynamics of reporting data: A case study of UFO...by FJ Antonio · 2022 · Cited by 7 — In this study, we used data fr...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271_ufo_media_reporting_c36727-Illustration-1-dark.svg" | relative_url }}" alt="Media Effects illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271_ufo_media_reporting_c36727-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271_ufo_media_reporting_c36727-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This does not mean that all reports generated during a wave are false. Rather, it means that report counts alone are an imperfect measure of underlying events. For anyone using NUFORC data to identify trends, hotspots, or apparent UFO “flaps”, understanding media influence is essential.
@@ -284,10 +283,9 @@ This does not mean that all reports generated during a wave are false. Rather, i
 
 The relationship between publicity and reporting has been recognised for decades in UFO research. Historical studies of major UFO waves show a recurring pattern: a widely publicised sighting receives newspaper or broadcast attention, after which additional witnesses begin coming forward with similar stories. In some cases, reports emerge from areas far removed from the original event. Researchers have described these episodes as sighting waves, in which media coverage and witness reporting expand together. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/334042053_UFO_Research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">334042053 UFO Research</span><span class="citation-popover-snippet">ResearchGate(PDF) UFO Research17 Oct 2023 —... clusters. of sightings and corresponding media reports are called sighting waves or UFO s...</span></span></span>
 
-Modern statistical research has found evidence consistent with this mechanism. A study examining more than 80,000 UFO reports concluded that reporting behaviour is sensitive to media broadcasting, indicating that public attention affects when and how people submit reports. The authors explicitly framed UFO databases as useful tools for studying human reporting behaviour rather than simply cataloguing unexplained objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectOn the dynamics of reporting data: A case study of UFO...by FJ Antonio · 2022 · Cited by 7 — In this study, we used data fr...</span></span></span>
+Modern statistical research has found evidence consistent with this mechanism. A study examining more than 80,000 UFO reports concluded that reporting behaviour is sensitive to media broadcasting, indicating that public attention affects when and how people submit reports. The authors explicitly framed UFO databases as useful tools for studying human reporting behaviour rather than simply cataloguing unexplained objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">On the dynamics of reporting data: A case study of UFO...by FJ Antonio · 2022 · Cited by 7 — In this study, we used data fr...</span></span></span>
 
 The effect can operate through several pathways:
-
 
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
@@ -295,12 +293,11 @@ The effect can operate through several pathways:
 * Witnesses who previously dismissed an observation decide it is worth reporting.
 * Older sightings are submitted after renewed public interest.
 * Ambiguous objects are interpreted through the lens of current media narratives.
-* Existing reports become more visible and encourage additional submissions from others with similar experiences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectOn the dynamics of reporting data: A case study of UFO...by FJ Antonio · 2022 · Cited by 7 — In this study, we used data fr...</span></span></span>
+* Existing reports become more visible and encourage additional submissions from others with similar experiences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">On the dynamics of reporting data: A case study of UFO...by FJ Antonio · 2022 · Cited by 7 — In this study, we used data fr...</span></span></span>
 
 </div>
 
 For database users, the important point is that a reporting wave may measure heightened attention as much as heightened activity in the sky.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qsEjV8DdSbs" title="Gimbal UFO - A New Analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qsEjV8DdSbs" target="_blank" rel="noopener noreferrer">Gimbal UFO - A New Analysis</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 203.9K &middot; Uploaded: March 2022 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qsEjV8DdSbs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qsEjV8DdSbs">Open on YouTube</a></p></div></div></div>
 
@@ -318,7 +315,7 @@ This mechanism resembles effects seen in other domains. Public awareness campaig
 
 The influence of attention is visible not only in media-driven waves but also in broader reporting patterns.
 
-The large-scale reporting study that analysed tens of thousands of UFO cases found that report submissions were sensitive to daytime human activity patterns as well as media exposure. This suggests that databases reflect when people are paying attention and engaging with reporting systems, not merely when observations occur. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectOn the dynamics of reporting data: A case study of UFO...by FJ Antonio · 2022 · Cited by 7 — In this study, we used data fr...</span></span></span>
+The large-scale reporting study that analysed tens of thousands of UFO cases found that report submissions were sensitive to daytime human activity patterns as well as media exposure. This suggests that databases reflect when people are paying attention and engaging with reporting systems, not merely when observations occur. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">On the dynamics of reporting data: A case study of UFO...by FJ Antonio · 2022 · Cited by 7 — In this study, we used data fr...</span></span></span>
 
 Social factors can amplify this effect:
 
@@ -329,7 +326,6 @@ Social factors can amplify this effect:
 * Online communities make reporting easier and more socially acceptable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cjr.org/the_media_today/ufo-coverage-journalisms-limits.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cjr.org">[cjr.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cjr.org</span><span class="citation-popover-title">ufo coverage journalisms limits</span><span class="citation-popover-snippet">UFO coverage and journalism&#x27;s limitsJun 11, 2021 — Forbes wrote, “The Media is taking UFOs seriously. Should we?” Much... The recent spa...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencenews.org/article/scientists-serious-ufo-uap-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencenews.org">[Science News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencenews.org</span><span class="citation-popover-title">Science News Scientists are getting serious about UFOs</span><span class="citation-popover-snippet">Here&#x27;s whyAug 7, 2024 — UFOs have been rebranded as UAPs (unidentified anomalous phenomena). Probably not aliens, they might impact natio...</span></span></span>
 
 Researchers have also noted that UFO reporting can be influenced by cultural expectations. Descriptions often evolve alongside changing technologies, popular imagery, and public concerns. What witnesses report may therefore reflect both what they observed and the interpretive framework available at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsMost commonly reported shapes in UFO sightings gathered in the National UFO Reporting Center (NUFORC) On...</span></span></span>
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271_ufo_media_reporting_c36727-Illustration-2-dark.svg" | relative_url }}" alt="Media Effects illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271_ufo_media_reporting_c36727-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271_ufo_media_reporting_c36727-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A Useful Example: Anticipated Reporting Waves
@@ -346,8 +342,7 @@ Large UFO databases often display dramatic monthly or yearly fluctuations. At fi
 
 ### Report Volume Is Not Event Volume
 
-A sudden increase from hundreds to thousands of reports does not automatically imply a proportional increase in unusual aerial events. Reporting rates can change independently of observation rates because public awareness fluctuates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectOn the dynamics of reporting data: A case study of UFO...by FJ Antonio · 2022 · Cited by 7 — In this study, we used data fr...</span></span></span>
-
+A sudden increase from hundreds to thousands of reports does not automatically imply a proportional increase in unusual aerial events. Reporting rates can change independently of observation rates because public awareness fluctuates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">On the dynamics of reporting data: A case study of UFO...by FJ Antonio · 2022 · Cited by 7 — In this study, we used data fr...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/08Of8uTAZBo" title="Neil deGrasse Tyson: On Aliens, Artificial Intelligence, &amp; The Future of Civilization." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=08Of8uTAZBo" target="_blank" rel="noopener noreferrer">Neil deGrasse Tyson: On Aliens, Artificial Intelligence, &amp; The Future of Civilization.</a></p><p class="youtube-embed-meta">Channel: Through Conversations Podcast &middot; Views: 82.5K &middot; Uploaded: June 2023 &middot; Length: 1 hour 3 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=08Of8uTAZBo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=08Of8uTAZBo">Open on YouTube</a></p></div></div></div>
 
@@ -357,14 +352,13 @@ A cluster of reports around a city or region may emerge because local news outle
 
 ### Retrospective Reporting Can Distort Timelines
 
-When media attention rises, witnesses often submit reports about events that occurred weeks, months, or even years earlier. This can create apparent waves in submission data that do not correspond to the actual dates of observation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectOn the dynamics of reporting data: A case study of UFO...by FJ Antonio · 2022 · Cited by 7 — In this study, we used data fr...</span></span></span>
-
+When media attention rises, witnesses often submit reports about events that occurred weeks, months, or even years earlier. This can create apparent waves in submission data that do not correspond to the actual dates of observation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">On the dynamics of reporting data: A case study of UFO...by FJ Antonio · 2022 · Cited by 7 — In this study, we used data fr...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AvhMMhW-JN0" title="Some Thoughts on David Grusch - Alien Whistleblower" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AvhMMhW-JN0" target="_blank" rel="noopener noreferrer">Some Thoughts on David Grusch - Alien Whistleblower</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 108.7K &middot; Uploaded: June 2023 &middot; Length: 46 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AvhMMhW-JN0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AvhMMhW-JN0">Open on YouTube</a></p></div></div></div>
 
 ## Reading NUFORC Data More Carefully
 
-Because NUFORC contains a vast archive of public reports, it remains valuable for identifying patterns and generating research questions. The challenge is distinguishing between changes in observation and changes in reporting behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">NUFORCData Bank | NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</span></span></span>
+Because NUFORC contains a vast archive of public reports, it remains valuable for identifying patterns and generating research questions. The challenge is distinguishing between changes in observation and changes in reporting behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</span></span></span>
 
 When evaluating a surge in reports, researchers often ask several additional questions:
 
@@ -372,17 +366,16 @@ When evaluating a surge in reports, researchers often ask several additional que
 * Were government announcements, hearings, or document releases in the news?
 * Did social media circulate a widely viewed video during the same period?
 * Are reports concentrated around a single highly publicised event?
-* Do sighting dates match reporting dates, or were many reports submitted retrospectively? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectOn the dynamics of reporting data: A case study of UFO...by FJ Antonio · 2022 · Cited by 7 — In this study, we used data fr...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cjr.org/the_media_today/ufo-coverage-journalisms-limits.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cjr.org">[2cjr.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cjr.org</span><span class="citation-popover-title">ufo coverage journalisms limits</span><span class="citation-popover-snippet">UFO coverage and journalism&#x27;s limitsJun 11, 2021 — Forbes wrote, “The Media is taking UFOs seriously. Should we?” Much... The recent spa...</span></span></span>
+* Do sighting dates match reporting dates, or were many reports submitted retrospectively? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">On the dynamics of reporting data: A case study of UFO...by FJ Antonio · 2022 · Cited by 7 — In this study, we used data fr...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cjr.org/the_media_today/ufo-coverage-journalisms-limits.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cjr.org">[2cjr.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cjr.org</span><span class="citation-popover-title">ufo coverage journalisms limits</span><span class="citation-popover-snippet">UFO coverage and journalism&#x27;s limitsJun 11, 2021 — Forbes wrote, “The Media is taking UFOs seriously. Should we?” Much... The recent spa...</span></span></span>
 
 Answering these questions helps prevent a common mistake: treating a reporting wave as direct evidence of a wave of unexplained aerial phenomena.
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271_ufo_media_reporting_c36727-Illustration-3-dark.svg" | relative_url }}" alt="Media Effects illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271_ufo_media_reporting_c36727-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271_ufo_media_reporting_c36727-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Media Effects Matter for Database Interpretation
 
 The existence of media-driven clustering does not invalidate UFO databases. Instead, it changes how they should be used. NUFORC and similar catalogues are simultaneously records of reported observations and records of public attention. Their value lies partly in revealing how people respond to unusual experiences, cultural narratives, and periods of heightened interest.
 
-For analysts, the safest approach is to view sudden spikes with caution. A cluster of reports may indicate an important event, but it may also reflect a feedback loop in which publicity encourages observation, observation encourages reporting, and reporting generates still more publicity. Understanding that mechanism is essential when interpreting apparent UFO waves in large public databases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectOn the dynamics of reporting data: A case study of UFO...by FJ Antonio · 2022 · Cited by 7 — In this study, we used data fr...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/334042053_UFO_Research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">334042053 UFO Research</span><span class="citation-popover-snippet">ResearchGate(PDF) UFO Research17 Oct 2023 —... clusters. of sightings and corresponding media reports are called sighting waves or UFO s...</span></span></span>
+For analysts, the safest approach is to view sudden spikes with caution. A cluster of reports may indicate an important event, but it may also reflect a feedback loop in which publicity encourages observation, observation encourages reporting, and reporting generates still more publicity. Understanding that mechanism is essential when interpreting apparent UFO waves in large public databases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">On the dynamics of reporting data: A case study of UFO...by FJ Antonio · 2022 · Cited by 7 — In this study, we used data fr...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/334042053_UFO_Research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">334042053 UFO Research</span><span class="citation-popover-snippet">ResearchGate(PDF) UFO Research17 Oct 2023 —... clusters. of sightings and corresponding media reports are called sighting waves or UFO s...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -780,138 +773,138 @@ For analysts, the safest approach is to view sudden spikes with caution. A clust
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295](https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectOn the dynamics of reporting data: A case study of UFO...by FJ Antonio · 2022 · Cited by 7 — In this study, we used data fr...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>On the dynamics of reporting data: A case study of UFO...by FJ Antonio · 2022 · Cited by 7 — In this study, we used data fr...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: researchgate.net  
    Title: 334042053 UFO Research  
-   Link: [https://www.researchgate.net/publication/334042053_UFO_Research](https://www.researchgate.net/publication/334042053_UFO_Research)  
+   Link: <a href="https://www.researchgate.net/publication/334042053_UFO_Research" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/334042053_UFO_Research</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) UFO Research17 Oct 2023 —... clusters. of sightings and corresponding media reports are called sighting waves or UFO s...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Identification_studies_of_UFOs](https://en.wikipedia.org/wiki/Identification_studies_of_UFOs)  
+   Link: <a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Identification studies of UFOsKlapp treated UFO phenomena, especially widespread sightings by many witnesses, as manifestations of mass h...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Psychosocial_UFO_hypothesis](https://en.wikipedia.org/wiki/Psychosocial_UFO_hypothesis)  
+   Link: <a href="https://en.wikipedia.org/wiki/Psychosocial_UFO_hypothesis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Psychosocial_UFO_hypothesis</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychosocial UFO hypothesisIn ufology, the psychosocial hypothesis (PSH), argues that at least some UFO reports are best explained by...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: cjr.org  
    Title: ufo coverage journalisms limits  
-   Link: [https://www.cjr.org/the_media_today/ufo-coverage-journalisms-limits.php](https://www.cjr.org/the_media_today/ufo-coverage-journalisms-limits.php)  
+   Link: <a href="https://www.cjr.org/the_media_today/ufo-coverage-journalisms-limits.php" target="_blank" rel="noopener noreferrer nofollow">https://www.cjr.org/the_media_today/ufo-coverage-journalisms-limits.php</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO coverage and journalism&#x27;s limitsJun 11, 2021 — Forbes wrote, “The Media is taking UFOs seriously. Should we?” Much... The recent spa...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCData Bank | NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</p></details>
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNational UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsMost commonly reported shapes in UFO sightings gathered in the National UFO Reporting Center (NUFORC) On...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: UFO reports and atomic sites  
-   Link: [https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites](https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports and atomic sitesBy 1947, US national security concerns led to unprecedented scrutiny of airspace near US atomic sites and...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/ndx/?id=event](https://nuforc.org/ndx/?id=event)  
+   Link: <a href="https://nuforc.org/ndx/?id=event" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=event</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by MonthNUFORC · Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search · Menu...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/category/ufo/](https://nuforc.org/category/ufo/)  
+   Link: <a href="https://nuforc.org/category/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/category/ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO | NUFORCThe National UFO Reporting Center was recently featured on ABC News Live&#x27;s 50 states in 50 weeks series to discuss Nevada, an...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/report-a-ufo/](https://nuforc.org/report-a-ufo/)  
+   Link: <a href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/report-a-ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>agency for reporting UFO/UAP related events...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: sciencenews.org  
    Title: Science News Scientists are getting serious about UFOs  
-   Link: [https://www.sciencenews.org/article/scientists-serious-ufo-uap-security](https://www.sciencenews.org/article/scientists-serious-ufo-uap-security)  
+   Link: <a href="https://www.sciencenews.org/article/scientists-serious-ufo-uap-security" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencenews.org/article/scientists-serious-ufo-uap-security</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s whyAug 7, 2024 — UFOs have been rebranded as UAPs (unidentified anomalous phenomena). Probably not aliens, they might impact natio...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: theguardian.com  
    Title: prepare for wave of extraterrestrial sightings in uk say ufo experts  
-   Link: [https://www.theguardian.com/world/2023/feb/14/prepare-for-wave-of-extraterrestrial-sightings-in-uk-say-ufo-experts](https://www.theguardian.com/world/2023/feb/14/prepare-for-wave-of-extraterrestrial-sightings-in-uk-say-ufo-experts)  
+   Link: <a href="https://www.theguardian.com/world/2023/feb/14/prepare-for-wave-of-extraterrestrial-sightings-in-uk-say-ufo-experts" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/feb/14/prepare-for-wave-of-extraterrestrial-sightings-in-uk-say-ufo-experts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianPrepare for wave of extraterrestrial sightings in UK, say...Feb 14, 2023 — The British UFO Research Association told the Gua...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/visual-arts/ufo-evidence-and-censorship](https://www.ebsco.com/research-starters/visual-arts/ufo-evidence-and-censorship)  
+   Link: <a href="https://www.ebsco.com/research-starters/visual-arts/ufo-evidence-and-censorship" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/visual-arts/ufo-evidence-and-censorship</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Evidence and Censorship | Visual Arts&quot;US Intelligence Report on UFOs: No Aliens, But Government Transparency and Desire for Better Da...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: foxnews.com  
-   Link: [https://www.foxnews.com/us/over-60-ufo-sightings-reported-whizzing-across-state-first-half-2025-national-tracking-group-says](https://www.foxnews.com/us/over-60-ufo-sightings-reported-whizzing-across-state-first-half-2025-national-tracking-group-says)  
+   Link: <a href="https://www.foxnews.com/us/over-60-ufo-sightings-reported-whizzing-across-state-first-half-2025-national-tracking-group-says" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/us/over-60-ufo-sightings-reported-whizzing-across-state-first-half-2025-national-tracking-group-says</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>report from the National UFO Reporting Center (NUFORC). With 66... alien invasion, explains UFO expert Video · CLICK HERE TO GET THE FOX...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
    Title: for whatever reason 2025 has yielded more ufo sightings than previous years does  
-   Link: [https://www.facebook.com/cracked/posts/for-whatever-reason-2025-has-yielded-more-ufo-sightings-than-previous-years-does/1410846577369143/](https://www.facebook.com/cracked/posts/for-whatever-reason-2025-has-yielded-more-ufo-sightings-than-previous-years-does/1410846577369143/)  
+   Link: <a href="https://www.facebook.com/cracked/posts/for-whatever-reason-2025-has-yielded-more-ufo-sightings-than-previous-years-does/1410846577369143/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cracked/posts/for-whatever-reason-2025-has-yielded-more-ufo-sightings-than-previous-years-does/1410846577369143/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>For whatever reason, 2025 has yielded more UFO...8/12 - NASA says it&#x27;s a comet. The scientist says aliens. 8/21 - Still the same situati...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
    Title: over 2000 ufo sightings already logged in 2025 the national ufo reporting cente  
-   Link: [https://www.facebook.com/Abovethenormnews/videos/-over-2000-ufo-sightings-already-logged-in-2025-the-national-ufo-reporting-cente/1101159045223898/](https://www.facebook.com/Abovethenormnews/videos/-over-2000-ufo-sightings-already-logged-in-2025-the-national-ufo-reporting-cente/1101159045223898/)  
+   Link: <a href="https://www.facebook.com/Abovethenormnews/videos/-over-2000-ufo-sightings-already-logged-in-2025-the-national-ufo-reporting-cente/1101159045223898/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Abovethenormnews/videos/-over-2000-ufo-sightings-already-logged-in-2025-the-national-ufo-reporting-cente/1101159045223898/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>🚨 Over 2,000 UFO Sightings Already Logged in 2025 🚨 The...Over 2000 UFO Sightings Already Logged in 2025 The National UFO Reporting Cent...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: The UFO experiences of Ss in the intense group were more  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/8282933/](https://pubmed.ncbi.nlm.nih.gov/8282933/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/8282933/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/8282933/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>encounters: an examination of UFO experiencesby NP Spanos · 1993 · Cited by 238 — However, Ss in the UFO groups believed more strongly in...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: news.asu.edu  
    Title: 20210928 global engagement effects ufo sightings national security  
-   Link: [https://news.asu.edu/20210928-global-engagement-effects-ufo-sightings-national-security](https://news.asu.edu/20210928-global-engagement-effects-ufo-sightings-national-security)  
+   Link: <a href="https://news.asu.edu/20210928-global-engagement-effects-ufo-sightings-national-security" target="_blank" rel="noopener noreferrer nofollow">https://news.asu.edu/20210928-global-engagement-effects-ufo-sightings-national-security</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>effects of UFO sightings on national security | ASU NewsSep 28, 2021 — “The sort of cynical answer is well, lots of people are interested...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/](https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/)  
+   Link: <a href="https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>due to the region&#x27;s physical geography—lots of wide-open spaces and dark skies. UAP-...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: bu.edu  
-   Link: [https://www.bu.edu/articles/2025/ufo-news-government-cover-up/](https://www.bu.edu/articles/2025/ufo-news-government-cover-up/)  
+   Link: <a href="https://www.bu.edu/articles/2025/ufo-news-government-cover-up/" target="_blank" rel="noopener noreferrer nofollow">https://www.bu.edu/articles/2025/ufo-news-government-cover-up/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 24, 2025 — A film awaiting distribution alleges an 80-year coverup of UFO evidence by the government, but BU&#x27;s Joshua Semeter, who...</p></details>
    Published: March 24, 2025  
 
 23. <a id="endnote-23"></a>
    Source: discovermagazine.com  
    Title: But the public is growing increasingly confused by ordinary  
-   Link: [https://www.discovermagazine.com/reports-of-rising-ufo-sightings-are-greatly-exaggerated-41864](https://www.discovermagazine.com/reports-of-rising-ufo-sightings-are-greatly-exaggerated-41864)  
+   Link: <a href="https://www.discovermagazine.com/reports-of-rising-ufo-sightings-are-greatly-exaggerated-41864" target="_blank" rel="noopener noreferrer nofollow">https://www.discovermagazine.com/reports-of-rising-ufo-sightings-are-greatly-exaggerated-41864</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reports of Rising UFO Sightings are Greatly ExaggeratedOctober 3, 2020 — The pandemic has not sparked a shocking rise in UFO sightings, e...</p></details>
    Published: October 3, 2020  
 
 24. <a id="endnote-24"></a>
    Source: medium.com  
    Title: the ufo uap report for february 2026 1957560a454f  
-   Link: [https://medium.com/%40pauljones_85805/the-ufo-uap-report-for-february-2026-1957560a454f](https://medium.com/%40pauljones_85805/the-ufo-uap-report-for-february-2026-1957560a454f)  
+   Link: <a href="https://medium.com/%40pauljones_85805/the-ufo-uap-report-for-february-2026-1957560a454f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40pauljones_85805/the-ufo-uap-report-for-february-2026-1957560a454f</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO/UAP report for February 2026 | by Paul JonesUFO and UAP activity in February 2026 formed a mixed picture: numerically fewer forma...</p></details>
-   Published: february 2026  
+   Published: february 2026

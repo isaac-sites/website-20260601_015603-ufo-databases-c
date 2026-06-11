@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /geipan/
 nav_short_title: C Cases
 title: Why Some UFO Reports Remain Unidentified Due to Insufficient Data
-title_full: Why Some UFO Reports Remain Unidentified Due to Insufficient Data | GEIPAN
+title_full: Why Some UFO Reports Remain Unidentified Due to Insufficient Data
 display_title_short: C Cases
 display_title: C Cases
 heading_title: Why Some UFO Reports Remain Unidentified Due to Insufficient Data
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 22:16:26'
-parent_title: How France Classifies Public UAP Cases | UFO Archives
+parent_title: How France Classifies Public UAP Cases
 parent_permalink: /geipan/
 parent_nav_short_title: GEIPAN
 parent_heading_title: How France Classifies Public UAP Cases
@@ -274,8 +274,7 @@ image: /assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_ge
 
 ## Introduction
 
-France’s official space agency unit **GEIPAN (Groupe d’Études et d’Informations sur les Phénomènes Aérospatiaux Non Identifiés)** organises reported sightings into resolution categories that reflect the quality of evidence and the outcome of investigation, not merely their “mystery value.” Among its four main categories — A, B, C and D — **Category C** has a distinct role: it flags cases that **cannot be meaningfully analysed because the available data or information is too weak or incomplete to support a reliable identification or explanation**. This is not the same as a definitive unresolved “unknown”; it’s a judgement that the record is too sparse or inconsistent to reach a conclusion either way. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/en/stats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">GeipanStatistics | GEIPANApril 28, 2026...</span><span class="citation-popover-meta">Published: April 28, 2026</span></span></span>
-
+France’s official space agency unit **GEIPAN (Groupe d’Études et d’Informations sur les Phénomènes Aérospatiaux Non Identifiés)** organises reported sightings into resolution categories that reflect the quality of evidence and the outcome of investigation, not merely their “mystery value.” Among its four main categories — A, B, C and D — **Category C** has a distinct role: it flags cases that **cannot be meaningfully analysed because the available data or information is too weak or incomplete to support a reliable identification or explanation**. This is not the same as a definitive unresolved “unknown”; it’s a judgement that the record is too sparse or inconsistent to reach a conclusion either way. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/en/stats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Statistics &#124; GEIPANApril 28, 2026...</span><span class="citation-popover-meta">Published: April 28, 2026</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_c_category_8d1a4c-Illustration-1-dark.svg" | relative_url }}" alt="C Cases illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_c_category_8d1a4c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_c_category_8d1a4c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Criteria for C Classification
@@ -283,12 +282,11 @@ France’s official space agency unit **GEIPAN (Groupe d’Études et d’Inform
 GEIPAN’s categorisation process pivots on two core measures assessed for every sighting report:
 
 * **Residual strangeness (E):** how far the reported observation remains from known, plausible explanations after considering all reasonable hypotheses.
-* **Consistency (C):** how complete, coherent and reliable the information is — including witness numbers, detail in responses, presence of photos or videos, independent confirmations, and links between witnesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/en/actualites/methodologie-classification-geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">methodologie classification geipan</span><span class="citation-popover-snippet">La méthodologie de classification au GEIPAN | GEIPANFebruary 26, 2021 — Publication date 26 February 2021 LA MÉTHODOLOGIE DE CLASSIFICATI...</span><span class="citation-popover-meta">Published: February 26, 2021</span></span></span>
+* **Consistency (C):** how complete, coherent and reliable the information is — including witness numbers, detail in responses, presence of photos or videos, independent confirmations, and links between witnesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/en/actualites/methodologie-classification-geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">methodologie classification geipan</span><span class="citation-popover-snippet">La méthodologie de classification au GEIPAN &#124; GEIPANFebruary 26, 2021 — Publication date 26 February 2021 LA MÉTHODOLOGIE DE CLASSIFICATI...</span><span class="citation-popover-meta">Published: February 26, 2021</span></span></span>
 
 For most sightings, analysts search for and evaluate hypotheses based on physical phenomena (astronomical objects, aircraft, meteorological effects) or perceptual/psychological factors, quantify how well the best hypothesis fits (yielding a strangeness score), and weigh this against the **consistency** of the dataset. When the data are both rich and internally consistent, the phenomenon can be classified as identified (A), probably identified (B), or — if unresolved despite strong data — a genuine “unexplained” (D). If, **however, the information is too sparse or unreliable to support either explanation or meaningful residual strangeness assessment**, the case is assigned **Category C**. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/fr/node/58787" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">UNE MÉTHODOLOGIE DE CLASSIFICATION CONSOLIDÉE SUR DES DÉCENNIES La classification du GEIPAN (A/B/C/D*) a été...</span></span></span>
 
-The French glossary makes this distinction explicit: C cases are fundamentally “**non‑analysable faute d’informations**” — not analysed because of missing or insufficient information — and are categorically separate from A, B, and D cases which are backed by sufficient data to support a judgement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/fr/histoire-du-geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">Son histoire | GEIPANQU&#x27;EST-CE QUE LE GEIPAN?</span><span class="citation-popover-snippet">Le GEIPAN, Groupe d’Études et d’Information sur les Phénomènes Aérospatiaux Non Identifiés fait partie intégrante des missions du Centre...</span></span></span>
-
+The French glossary makes this distinction explicit: C cases are fundamentally “**non‑analysable faute d’informations**” — not analysed because of missing or insufficient information — and are categorically separate from A, B, and D cases which are backed by sufficient data to support a judgement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/fr/histoire-du-geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">Son histoire &#124; GEIPANQU&#x27;EST-CE QUE LE GEIPAN?</span><span class="citation-popover-snippet">Le GEIPAN, Groupe d’Études et d’Information sur les Phénomènes Aérospatiaux Non Identifiés fait partie intégrante des missions du Centre...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ur0QX1eGCQI" title="UAP data released: Astrophysicist Avi Loeb breaks down declassified records | FOX 10 Talks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ur0QX1eGCQI" target="_blank" rel="noopener noreferrer">UAP data released: Astrophysicist Avi Loeb breaks down declassified records | FOX 10 Talks</a></p><p class="youtube-embed-meta">Channel: FOX 10 Phoenix &middot; Views: 29.1K &middot; Uploaded: May 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ur0QX1eGCQI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ur0QX1eGCQI">Open on YouTube</a></p></div></div></div>
 
@@ -299,10 +297,9 @@ In practice, a Category C designation can arise when one or more of the followin
 * **Single, uncorroborated witness:** only one person reports an event, and no additional objective evidence like photos or radar data exists.
 * **Vague or inconsistent testimony:** key descriptive details are missing, contradictory, or ambiguous, preventing confident correlation with known phenomena.
 * **Lack of supporting media:** without photographs, video, or instrument records, there is no material basis for further analytical steps.
-* **Unquantifiable conditions:** the report lacks information on timing, location, motion, or environmental context needed to test explanatory hypotheses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">Classification | GEIPANFAQ GEIPAN 1</span><span class="citation-popover-snippet">What is GEIPAN? * GEIPAN (Group for the Study and Information of Unidentified Aerial/Aerospace Phenomena) is a technical department of th...</span></span></span>
+* **Unquantifiable conditions:** the report lacks information on timing, location, motion, or environmental context needed to test explanatory hypotheses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">Classification &#124; GEIPANFAQ GEIPAN 1</span><span class="citation-popover-snippet">What is GEIPAN? * GEIPAN (Group for the Study and Information of Unidentified Aerial/Aerospace Phenomena) is a technical department of th...</span></span></span>
 
 GEIPAN’s own method emphasises that higher strangeness (E) demands higher consistency (C) before a case can be flagged as truly unexplained; where consistency is weak, the default categorisation is **C due to lack of reliable data** rather than prematurely elevating the case to “unexplained.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/index.php/en/node/58787" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">A CLASSIFICATION METHODOLOGY CONSOLIDATED OVER DECADES Since 2008, a more detailed classification (A/B/C/D1/D...</span></span></span>
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_c_category_8d1a4c-Illustration-2-dark.svg" | relative_url }}" alt="C Cases illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_c_category_8d1a4c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_c_category_8d1a4c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Examples of Low‑Consistency Cases
@@ -313,13 +310,11 @@ Typical low‑consistency patterns seen across these reports include:
 
 * Reports with minimal or inconsistent witness responses to the technical questionnaire, leaving crucial parameters undefined.
 * Sightings lacking any material evidence — no images, recordings, radar signatures or corroboration — that could anchor hypotheses or rule out mundane explanations.
-* Ambiguous descriptions that might encompass many ordinary environmental or aerial phenomena but cannot be tied to specific known causes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/fr/node/406" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">OVN I, UFO, PAN: QUELLE DIFFÉRENCE?</span><span class="citation-popover-snippet">| GEIPANL&#x27;acronyme (Objet Volant Non Identifié) est la traduction du terme anglais UFO (Unidentified Flying Object). L&#x27;examen des témoign...</span></span></span>
+* Ambiguous descriptions that might encompass many ordinary environmental or aerial phenomena but cannot be tied to specific known causes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/fr/node/406" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">OVN I, UFO, PAN: QUELLE DIFFÉRENCE?</span><span class="citation-popover-snippet">GEIPANL&#x27;acronyme (Objet Volant Non Identifié) est la traduction du terme anglais UFO (Unidentified Flying Object). L&#x27;examen des témoign...</span></span></span>
 
 In some archived cases visible on the GEIPAN site, insufficient details such as imprecise timing, vague positional information or absence of corroborating data constrain any deeper analysis, leaving GEIPAN unable to advance beyond a Category C label.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/adCsqd_-M94" title="Governments Using AI To Decode Massive UFO Databases | WION Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=adCsqd_-M94" target="_blank" rel="noopener noreferrer">Governments Using AI To Decode Massive UFO Databases | WION Podcast</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 326 &middot; Uploaded: May 2026 &middot; Length: 2 minutes 14 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=adCsqd_-M94" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=adCsqd_-M94">Open on YouTube</a></p></div></div></div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/d1Olr4FyNbs" title="Ovnis, extraterrestres : pourquoi Trump déclassifie - C dans l’air - 25.04.2026" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=d1Olr4FyNbs" target="_blank" rel="noopener noreferrer">Ovnis, extraterrestres : pourquoi Trump déclassifie - C dans l’air - 25.04.2026</a></p><p class="youtube-embed-meta">Channel: C dans l&#x27;air - France Télévisions &middot; Views: 125.9K &middot; Uploaded: May 2026 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=d1Olr4FyNbs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=d1Olr4FyNbs">Open on YouTube</a></p></div></div></div>
 
@@ -329,19 +324,17 @@ Understanding the C category is crucial when interpreting GEIPAN’s public stat
 
 Consequently:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * **Category A and B** dominate the database, representing cases explained or very likely explained based on adequate information.
 * **Category C** reflects where the data were insufficient for analysis; these are not treated as mysteries but as cases that have not yielded enough evidence for conclusion.
-* **Category D** — especially subcategories D1 and D2 — represents the genuine residual subset where a case remains unexplained despite robust and consistent data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/en/stats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">GeipanStatistics | GEIPANApril 28, 2026...</span><span class="citation-popover-meta">Published: April 28, 2026</span></span></span>
+* **Category D** — especially subcategories D1 and D2 — represents the genuine residual subset where a case remains unexplained despite robust and consistent data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/en/stats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Statistics &#124; GEIPANApril 28, 2026...</span><span class="citation-popover-meta">Published: April 28, 2026</span></span></span>
 
 </div>
 
-This distinction shapes public understanding: roughly one‑third of cases fall into C due to data issues, while only a small minority remain as solidly unexplained after investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/en/actualites/methodologie-classification-geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">methodologie classification geipan</span><span class="citation-popover-snippet">La méthodologie de classification au GEIPAN | GEIPANFebruary 26, 2021 — Publication date 26 February 2021 LA MÉTHODOLOGIE DE CLASSIFICATI...</span><span class="citation-popover-meta">Published: February 26, 2021</span></span></span>
+This distinction shapes public understanding: roughly one‑third of cases fall into C due to data issues, while only a small minority remain as solidly unexplained after investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/en/actualites/methodologie-classification-geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">methodologie classification geipan</span><span class="citation-popover-snippet">La méthodologie de classification au GEIPAN &#124; GEIPANFebruary 26, 2021 — Publication date 26 February 2021 LA MÉTHODOLOGIE DE CLASSIFICATI...</span><span class="citation-popover-meta">Published: February 26, 2021</span></span></span>
 
 By distinguishing **insufficient data from unresolved mystery**, the GEIPAN framework aims to make its public database both scientifically credible and transparent about the limits of what the evidence supports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/fr/node/58787" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">UNE MÉTHODOLOGIE DE CLASSIFICATION CONSOLIDÉE SUR DES DÉCENNIES La classification du GEIPAN (A/B/C/D*) a été...</span></span></span>
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_c_category_8d1a4c-Illustration-3-dark.svg" | relative_url }}" alt="C Cases illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_c_category_8d1a4c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_c_category_8d1a4c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -741,124 +734,124 @@ By distinguishing **insufficient data from unresolved mystery**, the GEIPAN fram
 
 1. <a id="endnote-1"></a>
    Source: geipan.fr  
-   Link: [https://geipan.fr/en/stats](https://geipan.fr/en/stats)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GeipanStatistics | GEIPANApril 28, 2026...</p></details>
+   Link: <a href="https://geipan.fr/en/stats" target="_blank" rel="noopener noreferrer nofollow">https://geipan.fr/en/stats</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Statistics | GEIPANApril 28, 2026...</p></details>
    Published: April 28, 2026  
 
 2. <a id="endnote-2"></a>
    Source: geipan.fr  
    Title: methodologie classification geipan  
-   Link: [https://geipan.fr/en/actualites/methodologie-classification-geipan](https://geipan.fr/en/actualites/methodologie-classification-geipan)  
+   Link: <a href="https://geipan.fr/en/actualites/methodologie-classification-geipan" target="_blank" rel="noopener noreferrer nofollow">https://geipan.fr/en/actualites/methodologie-classification-geipan</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>La méthodologie de classification au GEIPAN | GEIPANFebruary 26, 2021 — Publication date 26 February 2021 LA MÉTHODOLOGIE DE CLASSIFICATI...</p></details>
    Published: February 26, 2021  
 
 3. <a id="endnote-3"></a>
    Source: geipan.fr  
-   Link: [https://geipan.fr/fr/node/58787](https://geipan.fr/fr/node/58787)  
+   Link: <a href="https://geipan.fr/fr/node/58787" target="_blank" rel="noopener noreferrer nofollow">https://geipan.fr/fr/node/58787</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNE MÉTHODOLOGIE DE CLASSIFICATION CONSOLIDÉE SUR DES DÉCENNIES La classification du GEIPAN (A/B/C/D*) a été...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: geipan.fr  
    Title: Son histoire | GEIPANQU'EST-CE QUE LE GEIPAN?  
-   Link: [https://geipan.fr/fr/histoire-du-geipan](https://geipan.fr/fr/histoire-du-geipan)  
+   Link: <a href="https://geipan.fr/fr/histoire-du-geipan" target="_blank" rel="noopener noreferrer nofollow">https://geipan.fr/fr/histoire-du-geipan</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Le GEIPAN, Groupe d’Études et d’Information sur les Phénomènes Aérospatiaux Non Identifiés fait partie intégrante des missions du Centre...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: geipan.fr  
    Title: Classification | GEIPANFAQ GEIPAN 1  
-   Link: [https://www.geipan.fr/en/node/58787](https://www.geipan.fr/en/node/58787)  
+   Link: <a href="https://www.geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/en/node/58787</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is GEIPAN? * GEIPAN (Group for the Study and Information of Unidentified Aerial/Aerospace Phenomena) is a technical department of th...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: geipan.fr  
-   Link: [https://geipan.fr/index.php/en/node/58787](https://geipan.fr/index.php/en/node/58787)  
+   Link: <a href="https://geipan.fr/index.php/en/node/58787" target="_blank" rel="noopener noreferrer nofollow">https://geipan.fr/index.php/en/node/58787</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A CLASSIFICATION METHODOLOGY CONSOLIDATED OVER DECADES Since 2008, a more detailed classification (A/B/C/D1/D...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: geipan.fr  
-   Link: [https://www.geipan.fr/index.php/fr/node/58792](https://www.geipan.fr/index.php/fr/node/58792)  
+   Link: <a href="https://www.geipan.fr/index.php/fr/node/58792" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/index.php/fr/node/58792</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>dentifiés) consiste à fournir un service opérationnel basé sur des enquêtes liées aux...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: geipan.fr  
    Title: OVN I, UFO, PAN: QUELLE DIFFÉRENCE?  
-   Link: [https://www.geipan.fr/fr/node/406](https://www.geipan.fr/fr/node/406)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| GEIPANL&#x27;acronyme (Objet Volant Non Identifié) est la traduction du terme anglais UFO (Unidentified Flying Object). L&#x27;examen des témoign...</p></details>
+   Link: <a href="https://www.geipan.fr/fr/node/406" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/fr/node/406</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPANL&#x27;acronyme (Objet Volant Non Identifié) est la traduction du terme anglais UFO (Unidentified Flying Object). L&#x27;examen des témoign...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: geipan.fr  
-   Link: [https://www.geipan.fr/en/node/440](https://www.geipan.fr/en/node/440)  
+   Link: <a href="https://www.geipan.fr/en/node/440" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/en/node/440</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1977 within the CNES: * Provides a public and official feedback to all people’s “liv...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=hn2xTieploU](https://www.youtube.com/watch?v=hn2xTieploU)  
+   Link: <a href="https://www.youtube.com/watch?v=hn2xTieploU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hn2xTieploU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, aliens: why is Trump declassifying? - C dans l&#x27;air - 04/25/2026...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: UFOs, aliens: why is Trump declassifying?  
-   Link: [https://www.youtube.com/watch?v=d1Olr4FyNbs](https://www.youtube.com/watch?v=d1Olr4FyNbs)  
+   Link: <a href="https://www.youtube.com/watch?v=d1Olr4FyNbs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d1Olr4FyNbs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Geipan: France is also interested in UFOs...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Geipan: France is also interested in UFOs  
-   Link: [https://www.youtube.com/watch?v=OLXDikL331Y](https://www.youtube.com/watch?v=OLXDikL331Y)  
+   Link: <a href="https://www.youtube.com/watch?v=OLXDikL331Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OLXDikL331Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Governments Using AI To Decode Massive UFO Databases | WION Podcast...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: cnes-geipan.fr  
    Title: Geipan Classification | GEIPAN  
-   Link: [https://www.cnes-geipan.fr/en/node/58787](https://www.cnes-geipan.fr/en/node/58787)  
+   Link: <a href="https://www.cnes-geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58787</a>  
 
 15. <a id="endnote-15"></a>
    Source: cnes-geipan.fr  
    Title: Geipan Le glossaire du Geipan | GEIPAN  
-   Link: [https://www.cnes-geipan.fr/fr/glossaire](https://www.cnes-geipan.fr/fr/glossaire)  
+   Link: <a href="https://www.cnes-geipan.fr/fr/glossaire" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/glossaire</a>  
 
 16. <a id="endnote-16"></a>
    Source: cnes-geipan.fr  
    Title: L E GEIPAN: « LE BUREAU DES OVNIS » OU DES PAN?  
-   Link: [https://www.cnes-geipan.fr/fr/node/58703](https://www.cnes-geipan.fr/fr/node/58703)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| GEIPANJune 28, 2021 — Date de publication 28 juin 2021 LE GEIPAN: « LE BUREAU DES OVNIS » OU DES PAN? Date de publication 28 juin 202...</p></details>
+   Link: <a href="https://www.cnes-geipan.fr/fr/node/58703" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/node/58703</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPANJune 28, 2021 — Date de publication 28 juin 2021 LE GEIPAN: « LE BUREAU DES OVNIS » OU DES PAN? Date de publication 28 juin 202...</p></details>
    Published: June 28, 2021  
 
 17. <a id="endnote-17"></a>
    Source: cnes-geipan.fr  
    Title: Comment le GEIPAN classe-t-il les cas d’observations?  
-   Link: [https://www.cnes-geipan.fr/fr/node/412](https://www.cnes-geipan.fr/fr/node/412)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| GEIPAN* La classification repose sur une évaluation quantitative et qualitative de deux paramètres: la consistance (C) de l’observatio...</p></details>
+   Link: <a href="https://www.cnes-geipan.fr/fr/node/412" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/node/412</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPAN* La classification repose sur une évaluation quantitative et qualitative de deux paramètres: la consistance (C) de l’observatio...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: cnes-geipan.fr  
    Title: How does GEIPAN classify observation cases?  
-   Link: [https://www.cnes-geipan.fr/en/node/412](https://www.cnes-geipan.fr/en/node/412)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| GEIPANThe classification process is done according a quantitative and qualitative assessment of two parameters: the consistency (C) of...</p></details>
+   Link: <a href="https://www.cnes-geipan.fr/en/node/412" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/412</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPANThe classification process is done according a quantitative and qualitative assessment of two parameters: the consistency (C) of...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/fr/faq-page](https://www.cnes-geipan.fr/fr/faq-page)  
+   Link: <a href="https://www.cnes-geipan.fr/fr/faq-page" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/faq-page</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>L’espace FAQ vous offre un accès rapide aux réponses aux questions les plus courantes concernant le rôle, les...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/fr/node/58791](https://www.cnes-geipan.fr/fr/node/58791)  
+   Link: <a href="https://www.cnes-geipan.fr/fr/node/58791" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/node/58791</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[Select] [Input] [Input] [Input] Sommaire 1. Du GEPAN au GEIPAN 2. FAQ GEIPAN DU GEPAN AU GEIPAN D’aussi...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/fr/missions-methodes-et-resultats](https://www.cnes-geipan.fr/fr/missions-methodes-et-resultats)  
+   Link: <a href="https://www.cnes-geipan.fr/fr/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/missions-methodes-et-resultats</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e PAN où la présence d&#x27;un objet physique, pouvant avoir des caractéristiques de vol, e...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Governments Using AI To Decode Massive UFO Databases | WION Podcast  
-   Link: [https://www.youtube.com/watch?v=adCsqd_-M94](https://www.youtube.com/watch?v=adCsqd_-M94)  
+   Link: <a href="https://www.youtube.com/watch?v=adCsqd_-M94" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=adCsqd_-M94</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP data released: Astrophysicist Avi Loeb breaks down declassified records | FOX 10 Talks...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=ur0QX1eGCQI](https://www.youtube.com/watch?v=ur0QX1eGCQI)  
+   Link: <a href="https://www.youtube.com/watch?v=ur0QX1eGCQI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ur0QX1eGCQI</a>

@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /blue-book/
 nav_short_title: Control Sheets
 title: How Control Sheets Structured UFO Sightings and Classifications
-title_full: How Control Sheets Structured UFO Sightings and Classifications | Blue Book
+title_full: How Control Sheets Structured UFO Sightings and Classifications
 display_title_short: Control Sheets
 display_title: Control Sheets
 heading_title: How Control Sheets Structured UFO Sightings and Classifications
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 20:16:28'
-parent_title: What Project Blue Book Records Still Reveal | UFO Archives
+parent_title: What Project Blue Book Records Still Reveal
 parent_permalink: /blue-book/
 parent_nav_short_title: Blue Book
 parent_heading_title: What Project Blue Book Records Still Reveal
@@ -274,18 +274,16 @@ image: /assets/images/ufo_report_databases_8352a3_project_blue_book_re_ad1d41_co
 
 ## Introduction
 
-Project [Blue Book]({{ 'blue-book/' | relative_url }})’s control sheets were the administrative backbone of the Air Force UFO investigation system. While witness letters, questionnaires, photographs and intelligence reports often receive the most attention, the control sheet was the document that translated a sighting into a standardised record. It condensed a case into categories, conclusions and searchable metadata, allowing investigators to compare reports across years and produce statistical summaries of thousands of sightings. In practice, these forms functioned as an early UFO database structure: they imposed consistent classifications, recorded investigative outcomes and created the numerical record that later appeared in Air Force reports and public fact sheets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://docsteach.org/document/ufo-sighting-newark/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docsteach.org">[DocsTeach]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docsteach.org</span><span class="citation-popover-snippet">DocsTeachNewark, New Jersey - Date: July 1962 - Incident NumberEach case file relates to one sighting or to a group of closely related si...</span><span class="citation-popover-meta">Published: July 1962</span></span></span>
-
+Project [Blue Book]({{ 'blue-book/' | relative_url }})’s control sheets were the administrative backbone of the Air Force UFO investigation system. While witness letters, questionnaires, photographs and intelligence reports often receive the most attention, the control sheet was the document that translated a sighting into a standardised record. It condensed a case into categories, conclusions and searchable metadata, allowing investigators to compare reports across years and produce statistical summaries of thousands of sightings. In practice, these forms functioned as an early UFO database structure: they imposed consistent classifications, recorded investigative outcomes and created the numerical record that later appeared in Air Force reports and public fact sheets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://docsteach.org/document/ufo-sighting-newark/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docsteach.org">[DocsTeach]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docsteach.org</span><span class="citation-popover-snippet">Newark, New Jersey - Date: July 1962 - Incident NumberEach case file relates to one sighting or to a group of closely related si...</span><span class="citation-popover-meta">Published: July 1962</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_project_blue_book_re_ad1d41_control_sheets_class_84d1ce-Illustration-1-dark.svg" | relative_url }}" alt="Control Sheets illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_project_blue_book_re_ad1d41_control_sheets_class_84d1ce-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_project_blue_book_re_ad1d41_control_sheets_class_84d1ce-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For historians, the importance of the control sheet is not simply bureaucratic. It reveals how the Air Force decided what counted as an identified object, what remained unexplained, and which reports lacked sufficient evidence for a conclusion. The classification mechanisms preserved in these records provide a direct view into the logic used to transform raw witness testimony into official findings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://docsteach.org/document/ufo-sighting-newark/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docsteach.org">[DocsTeach]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docsteach.org</span><span class="citation-popover-snippet">DocsTeachNewark, New Jersey - Date: July 1962 - Incident NumberEach case file relates to one sighting or to a group of closely related si...</span><span class="citation-popover-meta">Published: July 1962</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[WHS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">WHS ESDProject Blue BookThe Air Force groups its evaluations of UFO reports under three general headings: (1) identified. (2) insufficie...</span></span></span>
+For historians, the importance of the control sheet is not simply bureaucratic. It reveals how the Air Force decided what counted as an identified object, what remained unexplained, and which reports lacked sufficient evidence for a conclusion. The classification mechanisms preserved in these records provide a direct view into the logic used to transform raw witness testimony into official findings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://docsteach.org/document/ufo-sighting-newark/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docsteach.org">[DocsTeach]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docsteach.org</span><span class="citation-popover-snippet">Newark, New Jersey - Date: July 1962 - Incident NumberEach case file relates to one sighting or to a group of closely related si...</span><span class="citation-popover-meta">Published: July 1962</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[WHS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">WHS ESDProject Blue BookThe Air Force groups its evaluations of UFO reports under three general headings: (1) identified. (2) insufficie...</span></span></span>
 
 ## Purpose of the Control Sheet
 
-Every Blue Book case file was designed to accumulate diverse materials: witness statements, military correspondence, newspaper clippings, radar information, photographs and investigative notes. The control sheet sat at the front of that file and acted as a summary page. Researchers examining [National Archives]({{ 'archives/' | relative_url }}) holdings frequently encounter it first because it provides a concise overview of the case and the Air Force's final judgement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://docsteach.org/document/ufo-sighting-newark/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docsteach.org">[DocsTeach]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docsteach.org</span><span class="citation-popover-snippet">DocsTeachNewark, New Jersey - Date: July 1962 - Incident NumberEach case file relates to one sighting or to a group of closely related si...</span><span class="citation-popover-meta">Published: July 1962</span></span></span>
+Every Blue Book case file was designed to accumulate diverse materials: witness statements, military correspondence, newspaper clippings, radar information, photographs and investigative notes. The control sheet sat at the front of that file and acted as a summary page. Researchers examining National [Archives]({{ 'archives/' | relative_url }}) holdings frequently encounter it first because it provides a concise overview of the case and the Air Force's final judgement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://docsteach.org/document/ufo-sighting-newark/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docsteach.org">[DocsTeach]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docsteach.org</span><span class="citation-popover-snippet">Newark, New Jersey - Date: July 1962 - Incident NumberEach case file relates to one sighting or to a group of closely related si...</span><span class="citation-popover-meta">Published: July 1962</span></span></span>
 
 The form served several practical purposes:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -293,16 +291,15 @@ The form served several practical purposes:
 * It recorded key details such as date, location and witness information.
 * It documented the identification assigned by investigators.
 * It preserved the official conclusion even when supporting documents were extensive or contradictory.
-* It enabled statistical tabulation of case outcomes across the entire project. <span class="citation-chip-wrap"><a class="citation-chip" href="https://docsteach.org/document/ufo-sighting-newark/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docsteach.org">[DocsTeach]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docsteach.org</span><span class="citation-popover-snippet">DocsTeachNewark, New Jersey - Date: July 1962 - Incident NumberEach case file relates to one sighting or to a group of closely related si...</span><span class="citation-popover-meta">Published: July 1962</span></span></span>
+* It enabled statistical tabulation of case outcomes across the entire project. <span class="citation-chip-wrap"><a class="citation-chip" href="https://docsteach.org/document/ufo-sighting-newark/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docsteach.org">[DocsTeach]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docsteach.org</span><span class="citation-popover-snippet">Newark, New Jersey - Date: July 1962 - Incident NumberEach case file relates to one sighting or to a group of closely related si...</span><span class="citation-popover-meta">Published: July 1962</span></span></span>
 
 </div>
 
-Without these sheets, Blue Book would have consisted largely of individual narrative reports. The control sheet transformed those narratives into comparable data points. This was essential for an organisation attempting to track patterns over more than two decades and more than 12,000 reported sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Encyclopedia BritannicaProject Blue Book | Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — From 1952 to 1969 Project Blue Book co...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+Without these sheets, Blue Book would have consisted largely of individual narrative reports. The control sheet transformed those narratives into comparable data points. This was essential for an organisation attempting to track patterns over more than two decades and more than 12,000 reported sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Encyclopedia BritannicaProject Blue Book &#124; Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — From 1952 to 1969 Project Blue Book co...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 ## How Blue Book Turned Sightings into Categories
 
-The classification process reflected the Air Force's effort to move from description to explanation. Investigators compared witness accounts with known aircraft operations, astronomical observations, weather conditions and other available information. Once an explanation appeared satisfactory, a category was assigned. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.studocu.com/en-za/document/university-of-the-witwatersrand-johannesburg/physics-for-scientists-engineers-i/ufo-documents-and-information/120714874" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studocu.com">[Studocu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studocu.com</span><span class="citation-popover-snippet">StudocuUFO Investigations Under Project Blue Book (Feb 1966)The Air Force groups its evaluations of UFO reports under three general headi...</span></span></span>
-
+The classification process reflected the Air Force's effort to move from description to explanation. Investigators compared witness accounts with known aircraft operations, astronomical observations, weather conditions and other available information. Once an explanation appeared satisfactory, a category was assigned. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.studocu.com/en-za/document/university-of-the-witwatersrand-johannesburg/physics-for-scientists-engineers-i/ufo-documents-and-information/120714874" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studocu.com">[Studocu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studocu.com</span><span class="citation-popover-snippet">UFO Investigations Under Project Blue Book (Feb 1966)The Air Force groups its evaluations of UFO reports under three general headi...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/L7wVNu0fP28" title="Project Blue Book: Declassified – The True Story of The Scoutmaster | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=L7wVNu0fP28" target="_blank" rel="noopener noreferrer">Project Blue Book: Declassified – The True Story of The Scoutmaster | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 40.5K &middot; Uploaded: March 2019 &middot; Length: 2 minutes 38 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=L7wVNu0fP28" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=L7wVNu0fP28">Open on YouTube</a></p></div></div></div>
 
@@ -311,6 +308,80 @@ The classification process reflected the Air Force's effort to move from descrip
 By the 1960s, Air Force documentation commonly grouped cases under three broad conclusions:
 
 1. **Identified**
+2. **Insufficient Data** <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Page%3AProject_Blue_Book%2C_complete_status_reports.pdf/333" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[en.wikisource.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:Project Blue Book, complete status reports</span><span class="citation-popover-snippet">Insufficient Data, 3, 18.8. Other *, 1, 6.2. Unknown, 2, 12.5. Total, 16, 100.0. May:- Astronomical, 1, 7.1. Balloon, 5, 35.8...</span></span></span>
+3. **Unidentified** WHS ESD <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.studocu.com/en-za/document/university-of-the-witwatersrand-johannesburg/physics-for-scientists-engineers-i/ufo-documents-and-information/120714874" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studocu.com">[studocu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studocu.com</span><span class="citation-popover-snippet">UFO Investigations Under Project Blue Book (Feb 1966)The Air Force groups its evaluations of UFO reports under three general headi...</span></span></span> An identified case was one in which investigators believed the object or phenomenon had been successfully explained. Insufficient-data caseslacked enough reliable information for a confident judgement. Unidentified cases remained unresolved after investigation and comparison with known explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[WHS ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">WHS ESDProject Blue BookThe Air Force groups its evaluations of UFO reports under three general headings: (1) identified. (2) insufficie...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prologue.blogs.archives.gov">[Pieces of History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prologue.blogs.archives.gov</span><span class="citation-popover-snippet">Pieces of HistoryUFOs: Natural Explanations - Pieces of History16 Apr 2018 — After investigating a case, the Air Force placed it into one...</span></span></span>
+
+This structure appears simple, but it represented an important filtering mechanism. A witness might describe a highly unusual object, yet if investigators concluded it was a balloon or planet, the case entered the identified category. Conversely, an apparently mundane report could remain unidentified if available evidence did not support a specific explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Identification studies of UFOs</span><span class="citation-popover-snippet">Identification studies of UFOs</span></span></span>
+
+### Identification Subcategories
+
+Within the identified group, Blue Book employed more specific classifications. Surviving statistical summaries and status reports show recurring categories such as:
+
+* Astronomical objects
+* Aircraft
+* Balloons <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.studocu.com/en-za/document/university-of-the-witwatersrand-johannesburg/physics-for-scientists-engineers-i/ufo-documents-and-information/120714874" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studocu.com">[studocu.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studocu.com</span><span class="citation-popover-snippet">UFO Investigations Under Project Blue Book (Feb 1966)The Air Force groups its evaluations of UFO reports under three general headi...</span></span></span>
+* Meteorological phenomena
+* Other conventional explanations
+* Miscellaneous causes <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Page%3AProject_Blue_Book%2C_complete_status_reports.pdf/333" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:Project Blue Book, complete status reports</span><span class="citation-popover-snippet">Insufficient Data, 3, 18.8. Other *, 1, 6.2. Unknown, 2, 12.5. Total, 16, 100.0. May:- Astronomical, 1, 7.1. Balloon, 5, 35.8...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.studocu.com/en-za/document/university-of-the-witwatersrand-johannesburg/physics-for-scientists-engineers-i/ufo-documents-and-information/120714874" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studocu.com">[studocu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studocu.com</span><span class="citation-popover-snippet">UFO Investigations Under Project Blue Book (Feb 1966)The Air Force groups its evaluations of UFO reports under three general headi...</span></span></span> Air Force publications repeatedly noted that many sightings were eventually traced to planets, stars, meteors, weather [balloons]({{ 'balloons/' | relative_url }}), aircraft lights, condensation trails and atmospheric effects. These categories became standard entries in Blue Book's records and allowed analysts to calculate annual trends. U.S. Air Force <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.studocu.com/en-za/document/university-of-the-witwatersrand-johannesburg/physics-for-scientists-engineers-i/ufo-documents-and-information/120714874" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studocu.com">[Studocu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studocu.com</span><span class="citation-popover-snippet">UFO Investigations Under Project Blue Book (Feb 1966)The Air Force groups its evaluations of UFO reports under three general headi...</span></span></span>
+
+## What Information the Sheets Captured
+
+The value of the control sheet lies in its compression of a complex investigation into a structured summary. Although formats evolved during the life of the project, most sheets recorded a common set of elements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://docsteach.org/document/ufo-sighting-newark/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docsteach.org">[DocsTeach]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docsteach.org</span><span class="citation-popover-snippet">Newark, New Jersey - Date: July 1962 - Incident NumberEach case file relates to one sighting or to a group of closely related si...</span><span class="citation-popover-meta">Published: July 1962</span></span></span>
+
+<img src="{{ "/assets/images/ufo_report_databases_8352a3_project_blue_book_re_ad1d41_control_sheets_class_84d1ce-Illustration-2-dark.svg" | relative_url }}" alt="Control Sheets illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_project_blue_book_re_ad1d41_control_sheets_class_84d1ce-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_project_blue_book_re_ad1d41_control_sheets_class_84d1ce-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+### Core Metadata
+
+Typical entries included:
+
+* Date and time of sighting
+* Geographic location
+* Number and type of witnesses
+* Duration of observation
+* Description of the reported object
+* Investigating office or personnel
+* Final identification category
+* Summary conclusion DocsTeach <span class="citation-chip-wrap"><a class="citation-chip" href="https://docsteach.org/document/ufo-sighting-newark/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docsteach.org">[docsteach.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docsteach.org</span><span class="citation-popover-snippet">Newark, New Jersey - Date: July 1962 - Incident NumberEach case file relates to one sighting or to a group of closely related si...</span><span class="citation-popover-meta">Published: July 1962</span></span></span>
+
+This metadata made the files useful far beyond their original investigative purpose. Modern researchers can sort reports by year, region, witness type or conclusion because Blue Book imposed a consistent recording structure. The control sheet effectively functioned as an index record attached to every case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://docsteach.org/document/ufo-sighting-newark/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docsteach.org">[DocsTeach]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docsteach.org</span><span class="citation-popover-snippet">Newark, New Jersey - Date: July 1962 - Incident NumberEach case file relates to one sighting or to a group of closely related si...</span><span class="citation-popover-meta">Published: July 1962</span></span></span>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UKzI3uu_oTQ" title="Project Blue Book: Declassified - The True Story of the D.C. UFO Sightings | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UKzI3uu_oTQ" target="_blank" rel="noopener noreferrer">Project Blue Book: Declassified - The True Story of the D.C. UFO Sightings | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 393.5K &middot; Uploaded: March 2019 &middot; Length: 2 minutes 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UKzI3uu_oTQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UKzI3uu_oTQ">Open on YouTube</a></p></div></div></div>
+
+### Summary Conclusions
+
+One of the most revealing sections was the final conclusion field. Here investigators distilled often lengthy [case files]({{ 'case-files/' | relative_url }}) into a short explanatory judgement.
+
+For example, a report involving unusual lights might ultimately be marked as an astronomical observation. A daylight disc report might be classified as a balloon. A radar-visual event that resisted explanation could receive an unidentified designation. The conclusion field therefore exposes the decision-making endpoint of the investigative process. Pieces of History <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.studocu.com/en-za/document/university-of-the-witwatersrand-johannesburg/physics-for-scientists-engineers-i/ufo-documents-and-information/120714874" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studocu.com">[Studocu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studocu.com</span><span class="citation-popover-snippet">UFO Investigations Under Project Blue Book (Feb 1966)The Air Force groups its evaluations of UFO reports under three general headi...</span></span></span>
+
+## Why the Classification System Matters as Historical Evidence
+
+The control-sheet mechanism is historically significant because it allows researchers to study not just UFO reports but the institutional behaviour of the investigators themselves.
+
+A witness statement shows what a person claimed to see. The control sheet shows how the Air Force interpreted that claim. The difference between those two records is often where the most important historical questions emerge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://docsteach.org/document/ufo-sighting-newark/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docsteach.org">[DocsTeach]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docsteach.org</span><span class="citation-popover-snippet">Newark, New Jersey - Date: July 1962 - Incident NumberEach case file relates to one sighting or to a group of closely related si...</span><span class="citation-popover-meta">Published: July 1962</span></span></span>
+
+Historians examining Blue Book records can therefore ask:
+
+* Which explanations were assigned most frequently?
+* How often were cases left unresolved?
+* Did classification practices change over time?
+* Were certain categories favoured during particular periods?
+* How consistently were similar reports classified? <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Page%3AProject_Blue_Book%2C_complete_status_reports.pdf/333" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:Project Blue Book, complete status reports</span><span class="citation-popover-snippet">Insufficient Data, 3, 18.8. Other *, 1, 6.2. Unknown, 2, 12.5. Total, 16, 100.0. May:- Astronomical, 1, 7.1. Balloon, 5, 35.8...</span></span></span> Wikipedia Because the control sheets preserved these decisions systematically <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Identification studies of UFOs</span><span class="citation-popover-snippet">Identification studies of UFOs</span></span></span>, they created an auditable record of official judgement rather than merely a collection of anecdotes.
+
+<img src="{{ "/assets/images/ufo_report_databases_8352a3_project_blue_book_re_ad1d41_control_sheets_class_84d1ce-Illustration-3-dark.svg" | relative_url }}" alt="Control Sheets illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_project_blue_book_re_ad1d41_control_sheets_class_84d1ce-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_project_blue_book_re_ad1d41_control_sheets_class_84d1ce-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Tensions and Criticism Within the Classification Process
+
+The classification mechanism was never free from controversy. Critics argued that Blue Book sometimes prioritised reducing the number of unidentified cases. Accounts from former participants and later researchers suggest that categories could shift as investigators searched for conventional explanations. Some reports that might initially have been considered uncertain were eventually reassigned to known categories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
+
+The issue became especially visible in discussions surrounding statistical studies such as *Project Blue Book Special Report No. 14*. Analysts distinguished between identified cases, unidentified cases and reports with insufficient information, but debate continued over how consistently those labels were applied. The report's methodology required agreement among analysts before a case could receive a definitive identification, illustrating the importance attached to classification decisions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">ProjectA project is a type of assignment, typically involving research or design, that is carefully planned to achieve a specific obje...</span></span></span>
+
+For modern researchers, these debates do not diminish the value of the control sheets. Instead, they make them more informative. The forms preserve both the classification outcome and the institutional assumptions behind that outcome, allowing later investigators to reassess decisions using the original records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Identification studies of UFOs</span><span class="citation-popover-snippet">Identification studies of UFOs</span></span></span>
+
+## From Filing Form to Searchable Dataset
+
+The enduring importance of Blue Book's control sheets is that they converted scattered witness reports into a structured information system. What began as paperwork for Air Force investigators became the framework for one of the largest historical UFO databases ever assembled. Through standard categories, metadata fields and summary conclusions, the control-sheet system enabled thousands of sightings to be indexed, compared and statistically analysed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://docsteach.org/document/ufo-sighting-newark/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docsteach.org">[DocsTeach]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docsteach.org</span><span class="citation-popover-snippet">Newark, New Jersey - Date: July 1962 - Incident NumberEach case file relates to one sighting or to a group of closely related si...</span><span class="citation-popover-meta">Published: July 1962</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Encyclopedia BritannicaProject Blue Book &#124; Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — From 1952 to 1969 Project Blue Book co...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+
+Today, when researchers browse digitised Blue Book archives or National Archives collections, they are often navigating data structures originally created by those control sheets. The forms remain one of the clearest windows into how Project Blue Book organised evidence, imposed classifications and produced the official record that continues to shape debates about unidentified aerial phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://docsteach.org/document/ufo-sighting-newark/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docsteach.org">[DocsTeach]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docsteach.org</span><span class="citation-popover-snippet">Newark, New Jersey - Date: July 1962 - Incident NumberEach case file relates to one sighting or to a group of closely related si...</span><span class="citation-popover-meta">Published: July 1962</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The project closed in 1969 and we have no...Read more</span></span></span>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7HT36QfjWeA" title="Ep. 8: Blue Book: The Decline | The master of the possible. A cop on a mesa. A joke on Michigan." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7HT36QfjWeA" target="_blank" rel="noopener noreferrer">Ep. 8: Blue Book: The Decline | The master of the possible. A cop on a mesa. A joke on Michigan.</a></p><p class="youtube-embed-meta">Channel: UnresolvedSignals &middot; Views: 2 &middot; Uploaded: April 2026 &middot; Length: 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7HT36QfjWeA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7HT36QfjWeA">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -704,216 +775,137 @@ By the 1960s, Air Force documentation commonly grouped cases under three broad c
 </script>
 </section>
 
-2. **Insufficient Data** <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Page%3AProject_Blue_Book%2C_complete_status_reports.pdf/333" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[en.wikisource.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:Project Blue Book, complete status reports</span><span class="citation-popover-snippet">Insufficient Data, 3, 18.8. Other *, 1, 6.2. Unknown, 2, 12.5. Total, 16, 100.0. May:- Astronomical, 1, 7.1. Balloon, 5, 35.8...</span></span></span>
-3. **Unidentified** WHS ESD <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.studocu.com/en-za/document/university-of-the-witwatersrand-johannesburg/physics-for-scientists-engineers-i/ufo-documents-and-information/120714874" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studocu.com">[studocu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studocu.com</span><span class="citation-popover-snippet">StudocuUFO Investigations Under Project Blue Book (Feb 1966)The Air Force groups its evaluations of UFO reports under three general headi...</span></span></span> An identified case was one in which investigators believed the object or phenomenon had been successfully explained. Insufficient-data caseslacked enough reliable information for a confident judgement. Unidentified cases remained unresolved after investigation and comparison with known explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[WHS ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">WHS ESDProject Blue BookThe Air Force groups its evaluations of UFO reports under three general headings: (1) identified. (2) insufficie...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prologue.blogs.archives.gov">[Pieces of History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prologue.blogs.archives.gov</span><span class="citation-popover-snippet">Pieces of HistoryUFOs: Natural Explanations - Pieces of History16 Apr 2018 — After investigating a case, the Air Force placed it into one...</span></span></span>
-
-This structure appears simple, but it represented an important filtering mechanism. A witness might describe a highly unusual object, yet if investigators concluded it was a balloon or planet, the case entered the identified category. Conversely, an apparently mundane report could remain unidentified if available evidence did not support a specific explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Identification studies of UFOs</span><span class="citation-popover-snippet">Identification studies of UFOs</span></span></span>
-
-### Identification Subcategories
-
-Within the identified group, Blue Book employed more specific classifications. Surviving statistical summaries and status reports show recurring categories such as:
-
-* Astronomical objects
-* Aircraft
-* Balloons <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.studocu.com/en-za/document/university-of-the-witwatersrand-johannesburg/physics-for-scientists-engineers-i/ufo-documents-and-information/120714874" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studocu.com">[studocu.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studocu.com</span><span class="citation-popover-snippet">StudocuUFO Investigations Under Project Blue Book (Feb 1966)The Air Force groups its evaluations of UFO reports under three general headi...</span></span></span>
-* Meteorological phenomena
-* Other conventional explanations
-* Miscellaneous causes <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Page%3AProject_Blue_Book%2C_complete_status_reports.pdf/333" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:Project Blue Book, complete status reports</span><span class="citation-popover-snippet">Insufficient Data, 3, 18.8. Other *, 1, 6.2. Unknown, 2, 12.5. Total, 16, 100.0. May:- Astronomical, 1, 7.1. Balloon, 5, 35.8...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.studocu.com/en-za/document/university-of-the-witwatersrand-johannesburg/physics-for-scientists-engineers-i/ufo-documents-and-information/120714874" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studocu.com">[studocu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studocu.com</span><span class="citation-popover-snippet">StudocuUFO Investigations Under Project Blue Book (Feb 1966)The Air Force groups its evaluations of UFO reports under three general headi...</span></span></span> Air Force publications repeatedly noted that many sightings were eventually traced to planets, stars, meteors, weather [balloons]({{ 'balloons/' | relative_url }}), aircraft lights, condensation trails and atmospheric effects. These categories became standard entries in Blue Book's records and allowed analysts to calculate annual trends. U.S. Air Force <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.studocu.com/en-za/document/university-of-the-witwatersrand-johannesburg/physics-for-scientists-engineers-i/ufo-documents-and-information/120714874" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studocu.com">[Studocu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studocu.com</span><span class="citation-popover-snippet">StudocuUFO Investigations Under Project Blue Book (Feb 1966)The Air Force groups its evaluations of UFO reports under three general headi...</span></span></span>
-
-## What Information the Sheets Captured
-
-The value of the control sheet lies in its compression of a complex investigation into a structured summary. Although formats evolved during the life of the project, most sheets recorded a common set of elements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://docsteach.org/document/ufo-sighting-newark/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docsteach.org">[DocsTeach]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docsteach.org</span><span class="citation-popover-snippet">DocsTeachNewark, New Jersey - Date: July 1962 - Incident NumberEach case file relates to one sighting or to a group of closely related si...</span><span class="citation-popover-meta">Published: July 1962</span></span></span>
-
-
-<img src="{{ "/assets/images/ufo_report_databases_8352a3_project_blue_book_re_ad1d41_control_sheets_class_84d1ce-Illustration-2-dark.svg" | relative_url }}" alt="Control Sheets illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_project_blue_book_re_ad1d41_control_sheets_class_84d1ce-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_project_blue_book_re_ad1d41_control_sheets_class_84d1ce-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-### Core Metadata
-
-Typical entries included:
-
-* Date and time of sighting
-* Geographic location
-* Number and type of witnesses
-* Duration of observation
-* Description of the reported object
-* Investigating office or personnel
-* Final identification category
-* Summary conclusion DocsTeach <span class="citation-chip-wrap"><a class="citation-chip" href="https://docsteach.org/document/ufo-sighting-newark/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docsteach.org">[docsteach.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docsteach.org</span><span class="citation-popover-snippet">DocsTeachNewark, New Jersey - Date: July 1962 - Incident NumberEach case file relates to one sighting or to a group of closely related si...</span><span class="citation-popover-meta">Published: July 1962</span></span></span>
-
-This metadata made the files useful far beyond their original investigative purpose. Modern researchers can sort reports by year, region, witness type or conclusion because Blue Book imposed a consistent recording structure. The control sheet effectively functioned as an index record attached to every case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://docsteach.org/document/ufo-sighting-newark/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docsteach.org">[DocsTeach]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docsteach.org</span><span class="citation-popover-snippet">DocsTeachNewark, New Jersey - Date: July 1962 - Incident NumberEach case file relates to one sighting or to a group of closely related si...</span><span class="citation-popover-meta">Published: July 1962</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UKzI3uu_oTQ" title="Project Blue Book: Declassified - The True Story of the D.C. UFO Sightings | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UKzI3uu_oTQ" target="_blank" rel="noopener noreferrer">Project Blue Book: Declassified - The True Story of the D.C. UFO Sightings | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 393.5K &middot; Uploaded: March 2019 &middot; Length: 2 minutes 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UKzI3uu_oTQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UKzI3uu_oTQ">Open on YouTube</a></p></div></div></div>
-
-### Summary Conclusions
-
-One of the most revealing sections was the final conclusion field. Here investigators distilled often lengthy [case files]({{ 'case-files/' | relative_url }}) into a short explanatory judgement.
-
-For example, a report involving unusual lights might ultimately be marked as an astronomical observation. A daylight disc report might be classified as a balloon. A radar-visual event that resisted explanation could receive an unidentified designation. The conclusion field therefore exposes the decision-making endpoint of the investigative process. Pieces of History <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.studocu.com/en-za/document/university-of-the-witwatersrand-johannesburg/physics-for-scientists-engineers-i/ufo-documents-and-information/120714874" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studocu.com">[Studocu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studocu.com</span><span class="citation-popover-snippet">StudocuUFO Investigations Under Project Blue Book (Feb 1966)The Air Force groups its evaluations of UFO reports under three general headi...</span></span></span>
-
-## Why the Classification System Matters as Historical Evidence
-
-The control-sheet mechanism is historically significant because it allows researchers to study not just UFO reports but the institutional behaviour of the investigators themselves.
-
-A witness statement shows what a person claimed to see. The control sheet shows how the Air Force interpreted that claim. The difference between those two records is often where the most important historical questions emerge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://docsteach.org/document/ufo-sighting-newark/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docsteach.org">[DocsTeach]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docsteach.org</span><span class="citation-popover-snippet">DocsTeachNewark, New Jersey - Date: July 1962 - Incident NumberEach case file relates to one sighting or to a group of closely related si...</span><span class="citation-popover-meta">Published: July 1962</span></span></span>
-
-Historians examining Blue Book records can therefore ask:
-
-* Which explanations were assigned most frequently?
-* How often were cases left unresolved?
-* Did classification practices change over time?
-* Were certain categories favoured during particular periods?
-* How consistently were similar reports classified? <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Page%3AProject_Blue_Book%2C_complete_status_reports.pdf/333" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:Project Blue Book, complete status reports</span><span class="citation-popover-snippet">Insufficient Data, 3, 18.8. Other *, 1, 6.2. Unknown, 2, 12.5. Total, 16, 100.0. May:- Astronomical, 1, 7.1. Balloon, 5, 35.8...</span></span></span> Wikipedia Because the control sheets preserved these decisions systematically <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Identification studies of UFOs</span><span class="citation-popover-snippet">Identification studies of UFOs</span></span></span>, they created an auditable record of official judgement rather than merely a collection of anecdotes.
-
-
-<img src="{{ "/assets/images/ufo_report_databases_8352a3_project_blue_book_re_ad1d41_control_sheets_class_84d1ce-Illustration-3-dark.svg" | relative_url }}" alt="Control Sheets illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_project_blue_book_re_ad1d41_control_sheets_class_84d1ce-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_project_blue_book_re_ad1d41_control_sheets_class_84d1ce-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## Tensions and Criticism Within the Classification Process
-
-The classification mechanism was never free from controversy. Critics argued that Blue Book sometimes prioritised reducing the number of unidentified cases. Accounts from former participants and later researchers suggest that categories could shift as investigators searched for conventional explanations. Some reports that might initially have been considered uncertain were eventually reassigned to known categories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
-
-The issue became especially visible in discussions surrounding statistical studies such as *Project Blue Book Special Report No. 14*. Analysts distinguished between identified cases, unidentified cases and reports with insufficient information, but debate continued over how consistently those labels were applied. The report's methodology required agreement among analysts before a case could receive a definitive identification, illustrating the importance attached to classification decisions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">ProjectA project is a type of assignment, typically involving research or design, that is carefully planned to achieve a specific obje...</span></span></span>
-
-For modern researchers, these debates do not diminish the value of the control sheets. Instead, they make them more informative. The forms preserve both the classification outcome and the institutional assumptions behind that outcome, allowing later investigators to reassess decisions using the [original records]({{ 'source-trails/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Identification studies of UFOs</span><span class="citation-popover-snippet">Identification studies of UFOs</span></span></span>
-
-## From Filing Form to Searchable Dataset
-
-The enduring importance of Blue Book's control sheets is that they converted scattered witness reports into a structured information system. What began as paperwork for Air Force investigators became the framework for one of the largest historical UFO databases ever assembled. Through standard categories, metadata fields and summary conclusions, the control-sheet system enabled thousands of sightings to be indexed, compared and statistically analysed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://docsteach.org/document/ufo-sighting-newark/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docsteach.org">[DocsTeach]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docsteach.org</span><span class="citation-popover-snippet">DocsTeachNewark, New Jersey - Date: July 1962 - Incident NumberEach case file relates to one sighting or to a group of closely related si...</span><span class="citation-popover-meta">Published: July 1962</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Encyclopedia BritannicaProject Blue Book | Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — From 1952 to 1969 Project Blue Book co...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
-
-Today, when researchers browse digitised Blue Book [archives]({{ 'archives/' | relative_url }}) or National Archives collections, they are often navigating data structures originally created by those control sheets. The forms remain one of the clearest windows into how Project Blue Book organised evidence, imposed classifications and produced the official record that continues to shape debates about unidentified aerial phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://docsteach.org/document/ufo-sighting-newark/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docsteach.org">[DocsTeach]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docsteach.org</span><span class="citation-popover-snippet">DocsTeachNewark, New Jersey - Date: July 1962 - Incident NumberEach case file relates to one sighting or to a group of closely related si...</span><span class="citation-popover-meta">Published: July 1962</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The project closed in 1969 and we have no...Read more</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7HT36QfjWeA" title="Ep. 8: Blue Book: The Decline | The master of the possible. A cop on a mesa. A joke on Michigan." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7HT36QfjWeA" target="_blank" rel="noopener noreferrer">Ep. 8: Blue Book: The Decline | The master of the possible. A cop on a mesa. A joke on Michigan.</a></p><p class="youtube-embed-meta">Channel: UnresolvedSignals &middot; Views: 2 &middot; Uploaded: April 2026 &middot; Length: 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7HT36QfjWeA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7HT36QfjWeA">Open on YouTube</a></p></div></div></div>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: docsteach.org  
-   Link: [https://docsteach.org/document/ufo-sighting-newark/](https://docsteach.org/document/ufo-sighting-newark/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DocsTeachNewark, New Jersey - Date: July 1962 - Incident NumberEach case file relates to one sighting or to a group of closely related si...</p></details>
+   Link: <a href="https://docsteach.org/document/ufo-sighting-newark/" target="_blank" rel="noopener noreferrer nofollow">https://docsteach.org/document/ufo-sighting-newark/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Newark, New Jersey - Date: July 1962 - Incident NumberEach case file relates to one sighting or to a group of closely related si...</p></details>
    Published: July 1962  
 
 2. <a id="endnote-2"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: esd.whs.mil  
-   Link: [https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837)  
+   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>WHS ESDProject Blue BookThe Air Force groups its evaluations of UFO reports under three general headings: (1) identified. (2) insufficie...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: prologue.blogs.archives.gov  
-   Link: [https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/](https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/)  
+   Link: <a href="https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pieces of HistoryUFOs: Natural Explanations - Pieces of History16 Apr 2018 — After investigating a case, the Air Force placed it into one...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
+   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The files contain reports from UFO observers, correspondence...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: en.wikisource.org  
    Title: Page:Project Blue Book, complete status reports  
-   Link: [https://en.wikisource.org/wiki/Page%3AProject_Blue_Book%2C_complete_status_reports.pdf/333](https://en.wikisource.org/wiki/Page%3AProject_Blue_Book%2C_complete_status_reports.pdf/333)  
+   Link: <a href="https://en.wikisource.org/wiki/Page%3AProject_Blue_Book%2C_complete_status_reports.pdf/333" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AProject_Blue_Book%2C_complete_status_reports.pdf/333</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Insufficient Data, 3, 18.8. Other *, 1, 6.2. Unknown, 2, 12.5. Total, 16, 100.0. May:- Astronomical, 1, 7.1. Balloon, 5, 35.8...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaProject Blue Book | Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — From 1952 to 1969 Project Blue Book co...</p></details>
    Published: May 2026  
 
 8. <a id="endnote-8"></a>
    Source: af.mil  
    Title: unidentified flying objects and air force project blue book  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookWith the termination of Project Blue Book, the Air Force regulation e...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: studocu.com  
-   Link: [https://www.studocu.com/en-za/document/university-of-the-witwatersrand-johannesburg/physics-for-scientists-engineers-i/ufo-documents-and-information/120714874](https://www.studocu.com/en-za/document/university-of-the-witwatersrand-johannesburg/physics-for-scientists-engineers-i/ufo-documents-and-information/120714874)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>StudocuUFO Investigations Under Project Blue Book (Feb 1966)The Air Force groups its evaluations of UFO reports under three general headi...</p></details>
+   Link: <a href="https://www.studocu.com/en-za/document/university-of-the-witwatersrand-johannesburg/physics-for-scientists-engineers-i/ufo-documents-and-information/120714874" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-za/document/university-of-the-witwatersrand-johannesburg/physics-for-scientists-engineers-i/ufo-documents-and-information/120714874</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Investigations Under Project Blue Book (Feb 1966)The Air Force groups its evaluations of UFO reports under three general headi...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Identification studies of UFOs  
-   Link: [https://en.wikipedia.org/wiki/Identification_studies_of_UFOs](https://en.wikipedia.org/wiki/Identification_studies_of_UFOs)  
+   Link: <a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
 
 11. <a id="endnote-11"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download](https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download)  
+   Link: <a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesBulk Downloads for Records Related to Unidentified...Digitized and born-digital records related to Unidentified Anomalo...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 13. <a id="endnote-13"></a>
    Source: archives.gov  
    Title: do records show proof of ufos  
-   Link: [https://www.archives.gov/news/articles/do-records-show-proof-of-ufos](https://www.archives.gov/news/articles/do-records-show-proof-of-ufos)  
+   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>?9 Feb 2018 — All of Project Blue Book documentation is available on 94 rolls of microfilm (T1206) with the case files and the administra...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: archives.gov  
    Title: moving images and sound  
-   Link: [https://www.archives.gov/research/topics/uaps/moving-images-and-sound](https://www.archives.gov/research/topics/uaps/moving-images-and-sound)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — This page provides a list of moving images and sound recording...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/photographs](https://www.archives.gov/research/topics/uaps/photographs)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The page is organized by record group, with links to...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Project](https://en.wikipedia.org/wiki/Project)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ProjectA project is a type of assignment, typically involving research or design, that is carefully planned to achieve a specific obje...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: history.com  
    Title: Project Blue Book  
-   Link: [https://www.history.com/articles/project-blue-book](https://www.history.com/articles/project-blue-book)  
+   Link: <a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien, Definition &amp; Files22 Feb 2010 — The remaining 700 incidents remained “unidentified”; these included cases in which there was insuf...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/project](https://dictionary.cambridge.org/dictionary/english/project)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| English meaning - Cambridge Dictionarya piece of planned work or an activity which is done over a period of time and intended to achiev...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/project" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/project</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarya piece of planned work or an activity which is done over a period of time and intended to achiev...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
 20. <a id="endnote-20"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsEarly letters regarding UFO sightings · Correspondence on the [Rendlesham Forest](&amp;#123;&amp;#123; &#x27;rendlesham-forest/&#x27; | relative_url &amp;#125;&amp;#125;) incident · Documents on UFO policy and communi...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: documents.theblackvault.com  
    Title: projectbluebook report8  
-   Link: [https://documents.theblackvault.com/documents/ufos/projectbluebook-report8.pdf](https://documents.theblackvault.com/documents/ufos/projectbluebook-report8.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/ufos/projectbluebook-report8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/projectbluebook-report8.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book - Report No. 8The proce- dure of listing all reported sightings will al so be eliminated in this repor~ since gg6 reports were...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: journals.ala.org  
-   Link: [https://journals.ala.org/index.php/dttp/article/view/6568/8762](https://journals.ala.org/index.php/dttp/article/view/6568/8762)  
+   Link: <a href="https://journals.ala.org/index.php/dttp/article/view/6568/8762" target="_blank" rel="noopener noreferrer nofollow">https://journals.ala.org/index.php/dttp/article/view/6568/8762</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ala.orgUFO&#x27;s and Government Disclosure—A Brief Look into...by R Dzakovic · 2017 · Cited by 1 — This paper explores one facet of governme...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: bahaistudies.net  
    Title: project blue book  
-   Link: [https://www.bahaistudies.net/asma/project_blue_book.pdf](https://www.bahaistudies.net/asma/project_blue_book.pdf)  
+   Link: <a href="https://www.bahaistudies.net/asma/project_blue_book.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bahaistudies.net/asma/project_blue_book.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>29 Sept 2012 — The Air Force groups its evaluations of UFO reports under three general headings: (1) identified. (2) insufficient data...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: en.wiktionary.org  
-   Link: [https://en.wiktionary.org/wiki/project](https://en.wiktionary.org/wiki/project)  
+   Link: <a href="https://en.wiktionary.org/wiki/project" target="_blank" rel="noopener noreferrer nofollow">https://en.wiktionary.org/wiki/project</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>page was last edited on 2 May 2026, at 17:14. Definitions and other content are available under CC BY-SA 4.0 unless otherwise noted.Read...</p></details>
    Published: May 2026  
 
@@ -921,54 +913,54 @@ Today, when researchers browse digitised Blue Book [archives]({{ 'archives/' | r
 
 25. <a id="endnote-25"></a>
    Source: archivesfoundation.org  
-   Link: [https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/](https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/)  
+   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>50 Years Ago: Government Stops Investigating UFOsTo mark the 50th anniversary of the end of Project Blue Book, the National Archives will...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/project](https://www.merriam-webster.com/dictionary/project)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/project" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/project</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PROJECT Definition &amp; Meaning1. a: to devise in the mind: design b: to plan, figure, or estimate for the future 2. to throw or cast for...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: knowledgetrain.co.uk  
-   Link: [https://www.knowledgetrain.co.uk/project-management/projects?srsltid=AfmBOorwPj4vU-jh9uVTiIS0tjIH6Ou4sgJ81kU56AkDH_ejOLHj7WKl](https://www.knowledgetrain.co.uk/project-management/projects?srsltid=AfmBOorwPj4vU-jh9uVTiIS0tjIH6Ou4sgJ81kU56AkDH_ejOLHj7WKl)  
+   Link: <a href="https://www.knowledgetrain.co.uk/project-management/projects?srsltid=AfmBOorwPj4vU-jh9uVTiIS0tjIH6Ou4sgJ81kU56AkDH_ejOLHj7WKl" target="_blank" rel="noopener noreferrer nofollow">https://www.knowledgetrain.co.uk/project-management/projects?srsltid=AfmBOorwPj4vU-jh9uVTiIS0tjIH6Ou4sgJ81kU56AkDH_ejOLHj7WKl</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Projects | Definition of a ProjectProjects are more than just temporary endeavours; they are the lifeblood of organizations, driving stra...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: pmi.org  
-   Link: [https://www.pmi.org/about/what-is-a-project](https://www.pmi.org/about/what-is-a-project)  
+   Link: <a href="https://www.pmi.org/about/what-is-a-project" target="_blank" rel="noopener noreferrer nofollow">https://www.pmi.org/about/what-is-a-project</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What is a Project, Examples and the Project LifecycleA project is a series of structured tasks, activities, and deliverables that are car...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: blaze.tv  
-   Link: [https://www.blaze.tv/series/quick-history-us-governments-secret-ufo-project-blue-book](https://www.blaze.tv/series/quick-history-us-governments-secret-ufo-project-blue-book)  
+   Link: <a href="https://www.blaze.tv/series/quick-history-us-governments-secret-ufo-project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.blaze.tv/series/quick-history-us-governments-secret-ufo-project-blue-book</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A quick history of the US government&#x27;s secret UFO project &#x27;...Project Blue Book was set up to be much more in-depth, robust and open-minded...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
    Title: Project Blue Book: Declassified – The True Story of The Scoutmaster | History  
-   Link: [https://www.youtube.com/watch?v=L7wVNu0fP28](https://www.youtube.com/watch?v=L7wVNu0fP28)  
+   Link: <a href="https://www.youtube.com/watch?v=L7wVNu0fP28" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=L7wVNu0fP28</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book how cases were investigated and classified Project Blue Book: Declassified - The True Story of the D.C. UFO Sightings |...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: abc7ny.com  
    Title: All of these files relating to UFO sightings have been  
-   Link: [https://abc7ny.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/](https://abc7ny.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/)  
+   Link: <a href="https://abc7ny.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/" target="_blank" rel="noopener noreferrer nofollow">https://abc7ny.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO enthusiast releases 130K pages of Air Force docs on UFOs to...January 20, 2015 — Project Blue Book&#x27;s files were declassified after t...</p></details>
    Published: January 20, 2015  
 
 32. <a id="endnote-32"></a>
    Source: medium.com  
-   Link: [https://medium.com/illumination/project-blue-book-unidentified-unexplained-or-misunderstood-0a9524ba3664](https://medium.com/illumination/project-blue-book-unidentified-unexplained-or-misunderstood-0a9524ba3664)  
+   Link: <a href="https://medium.com/illumination/project-blue-book-unidentified-unexplained-or-misunderstood-0a9524ba3664" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/illumination/project-blue-book-unidentified-unexplained-or-misunderstood-0a9524ba3664</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>es Air Force (USAF), started in 1952 and continuing until the end of 1969.Read more...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: uk.forceswarrecords.com  
    Title: us project blue book ufo investigations 1947 1969  
-   Link: [https://uk.forceswarrecords.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969](https://uk.forceswarrecords.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969)  
+   Link: <a href="https://uk.forceswarrecords.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969" target="_blank" rel="noopener noreferrer nofollow">https://uk.forceswarrecords.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>forceswarrecords.comUS, Project Blue Book - UFO Investigations, 1947-196926 Feb 2007 — NARA T1206. Records and case files relating to inv...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/798530947/T206](https://www.scribd.com/document/798530947/T206)  
+   Link: <a href="https://www.scribd.com/document/798530947/T206" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/798530947/T206</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>n a structured manner, categorized into administrative files...Read more...</p></details>

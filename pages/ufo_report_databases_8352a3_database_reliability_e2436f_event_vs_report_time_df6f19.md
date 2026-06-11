@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /reliability/
 nav_short_title: Report Timing
 title: Are UFO Spikes Events or Reporting Surges?
-title_full: Are UFO Spikes Events or Reporting Surges? | Reliability
+title_full: Are UFO Spikes Events or Reporting Surges?
 display_title_short: Report Timing
 display_title: Report Timing
 heading_title: Are UFO Spikes Events or Reporting Surges?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 01:44:35'
-parent_title: Which UFO Databases Are Worth Trusting? | UFO Archives
+parent_title: Which UFO Databases Are Worth Trusting?
 parent_permalink: /reliability/
 parent_nav_short_title: Reliability
 parent_heading_title: Which UFO Databases Are Worth Trusting?
@@ -276,7 +276,6 @@ image: /assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_ev
 
 When analysing large catalogues of UFO reports, one pattern that often attracts attention is a **spike**—a period when many sightings appear to cluster in time. But in UFO databases, a rise in the *number of reports* does **not necessarily mean more unusual sky events actually occurred at that moment**. A fundamental distinction in any catalogue between **event time** (when the sighting actually happened) and **report time** (when it was filed or entered) profoundly affects how we interpret spikes in the data. Misunderstanding this can lead researchers or the public to misread reporting behaviour as evidence of anomalous phenomena.
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_event_vs_report_time_df6f19-Illustration-1-dark.svg" | relative_url }}" alt="Report Timing illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_event_vs_report_time_df6f19-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_event_vs_report_time_df6f19-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Event Dates and Report Dates Can Diverge
 
@@ -287,14 +286,13 @@ A UFO database often has at least two relevant time fields:
 
 These can diverge for several reasons:
 
-**Reporting Lag:** Many witnesses do not submit their sightings immediately. A statistical study of 80,000+ UFO reports from the National UFO Reporting Center ([NUFORC]({{ 'nuforc/' | relative_url }})) database found that the **time lag between sighting and reporting varies widely** and shows behavioural patterns among reporters, including a detectable tendency to report within a certain window of time after the sighting rather than immediately. The research identified a sort of “critical reporting lag” around tens of days after the contact, suggesting non‑random delays in when people choose to report what they saw. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect On the dynamics of reporting data: A case study of UFO sightings</span><span class="citation-popover-snippet">ScienceDirectOn the dynamics of reporting data: A case study of UFO sightings - ScienceDirectOctober 1, 2022...</span><span class="citation-popover-meta">Published: October 1, 2022</span></span></span>
+**Reporting Lag:** Many witnesses do not submit their sightings immediately. A statistical study of 80,000+ UFO reports from the National UFO Reporting Center ([NUFORC]({{ 'nuforc/' | relative_url }})) database found that the **time lag between sighting and reporting varies widely** and shows behavioural patterns among reporters, including a detectable tendency to report within a certain window of time after the sighting rather than immediately. The research identified a sort of “critical reporting lag” around tens of days after the contact, suggesting non‑random delays in when people choose to report what they saw. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect On the dynamics of reporting data: A case study of UFO sightings</span><span class="citation-popover-snippet">On the dynamics of reporting data: A case study of UFO sightings - ScienceDirectOctober 1, 2022...</span><span class="citation-popover-meta">Published: October 1, 2022</span></span></span>
 
-**Date Rounding and Memory Biases:** Human memory and reporting habits shape dates in catalogues. The same study noted that observers often prefer “round” times and dates in their accounts—such as on the hour or on round calendar dates—rather than the exact minute they recall. This indicates some entries are shaped by recall bias rather than precise event timing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect On the dynamics of reporting data: A case study of UFO sightings</span><span class="citation-popover-snippet">ScienceDirectOn the dynamics of reporting data: A case study of UFO sightings - ScienceDirectOctober 1, 2022...</span><span class="citation-popover-meta">Published: October 1, 2022</span></span></span>
+**Date Rounding and Memory Biases:** Human memory and reporting habits shape dates in catalogues. The same study noted that observers often prefer “round” times and dates in their accounts—such as on the hour or on round calendar dates—rather than the exact minute they recall. This indicates some entries are shaped by recall bias rather than precise event timing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect On the dynamics of reporting data: A case study of UFO sightings</span><span class="citation-popover-snippet">On the dynamics of reporting data: A case study of UFO sightings - ScienceDirectOctober 1, 2022...</span><span class="citation-popover-meta">Published: October 1, 2022</span></span></span>
 
 **Data Publication Delay:** Even after submission, some datasets may not be uploaded or posted until later, leading to artificial clustering on publication dates (for instance, when a backlog is processed), which further separates public “report time” from event time.
 
 When researchers plot **report frequency by report date**, these lags and biases can create **apparent spikes** that are actually driven by **reporting behaviour** rather than [clusters]({{ 'clusters/' | relative_url }}) of genuine sky phenomena.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/K4SiqjS28ZE" title="Let&#x27;s Talk About the New UFO Files Released by The Government" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=K4SiqjS28ZE" target="_blank" rel="noopener noreferrer">Let&#x27;s Talk About the New UFO Files Released by The Government</a></p><p class="youtube-embed-meta">Channel: Anton Petrov &middot; Views: 153.8K &middot; Uploaded: May 2026 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=K4SiqjS28ZE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=K4SiqjS28ZE">Open on YouTube</a></p></div></div></div>
 
@@ -302,12 +300,11 @@ When researchers plot **report frequency by report date**, these lags and biases
 
 Human behaviour around reporting is highly sensitive to **external triggers**:
 
-**Media Influence:** Sightings and reporting rates often increase around periods of intense media coverage. A study focusing on UFO report dynamics noted that the number of new report submissions shows sensitivity to broadcasting events: when UFO news or discussions are prominent in media, people are more likely to notice and then submit reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect On the dynamics of reporting data: A case study of UFO sightings</span><span class="citation-popover-snippet">ScienceDirectOn the dynamics of reporting data: A case study of UFO sightings - ScienceDirectOctober 1, 2022...</span><span class="citation-popover-meta">Published: October 1, 2022</span></span></span>
+**Media Influence:** Sightings and reporting rates often increase around periods of intense media coverage. A study focusing on UFO report dynamics noted that the number of new report submissions shows sensitivity to broadcasting events: when UFO news or discussions are prominent in media, people are more likely to notice and then submit reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect On the dynamics of reporting data: A case study of UFO sightings</span><span class="citation-popover-snippet">On the dynamics of reporting data: A case study of UFO sightings - ScienceDirectOctober 1, 2022...</span><span class="citation-popover-meta">Published: October 1, 2022</span></span></span>
 
 This pattern isn’t unique to UFO reports. Epidemiology studies, for example, show that disease reports peak when awareness campaigns run—even if the underlying incidence doesn’t change—because more people seek diagnosis or file reports. The same mechanism applies to UFO data: heightened publicity *primes* observers to look at the sky and then to report what they see, inflating counts around the period of media attention.
 
 **Daylight and Leisure Time:** In addition to media, basic social patterns influence reporting. Analyses of public UFO sightings show that most reports cluster during evening and nighttime hours—when people are free from work and more likely to look up at the sky—and during weekends and summer months, when outdoor activity is more common. These patterns track human visibility and leisure behaviour rather than fluctuations in actual aerial phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://newspaceeconomy.ca/2025/09/24/the-uap-phenomenon-a-statistical-inquiry/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newspaceeconomy.ca">[New Space Economy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newspaceeconomy.ca</span><span class="citation-popover-title">New Space Economy The UAP Phenomenon: A Statistical Inquiry</span><span class="citation-popover-snippet">New Space EconomyThe UAP Phenomenon: A Statistical Inquiry - New Space EconomyMay 22, 2026...</span><span class="citation-popover-meta">Published: May 22, 2026</span></span></span>
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_event_vs_report_time_df6f19-Illustration-2-dark.svg" | relative_url }}" alt="Report Timing illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_event_vs_report_time_df6f19-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_event_vs_report_time_df6f19-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Practical Implications for Data Quality
@@ -320,16 +317,13 @@ Awareness of event time versus report time has direct consequences for how UFO d
 
 **3. Use External Anchors:** When possible, anchor sightings to independent data—such as instrumental records, radar tracks, or astronomical events—to validate the event timing. Reported clusters without external corroboration are inherently less reliable as evidence of actual phenomena.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2Lb-STlkIkI" title="UFO Sightings Data &amp; Trends [Python Data Visualization Project]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2Lb-STlkIkI" target="_blank" rel="noopener noreferrer">UFO Sightings Data &amp; Trends [Python Data Visualization Project]</a></p><p class="youtube-embed-meta">Channel: CodingNomads &middot; Views: 1.2K &middot; Uploaded: August 2022 &middot; Length: 1 hour 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2Lb-STlkIkI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2Lb-STlkIkI">Open on YouTube</a></p></div></div></div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qMp6jlxC238" title="Understanding Probabilistic Data Structures with 112,092 UFO Sightings By Guy Royse" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qMp6jlxC238" target="_blank" rel="noopener noreferrer">Understanding Probabilistic Data Structures with 112,092 UFO Sightings By Guy Royse</a></p><p class="youtube-embed-meta">Channel: Devoxx &middot; Views: 655 &middot; Uploaded: October 2023 &middot; Length: 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qMp6jlxC238" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qMp6jlxC238">Open on YouTube</a></p></div></div></div>
 
 ## Takeaway
 
 A spike in UFO reports **often reflects reporting behaviour** as much as, or more than, **a true increase in aerial events**. Distinguishing between **when a sighting happened** and **when it was reported** is essential for responsible interpretation of UFO databases. Without this nuance, analyses can mistake social, cognitive and administrative rhythms for physical phenomena, leading to misleading conclusions about patterns in the sky.
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_event_vs_report_time_df6f19-Illustration-3-dark.svg" | relative_url }}" alt="Report Timing illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_event_vs_report_time_df6f19-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_event_vs_report_time_df6f19-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -730,21 +724,21 @@ A spike in UFO reports **often reflects reporting behaviour** as much as, or mor
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect On the dynamics of reporting data: A case study of UFO sightings  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295](https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectOn the dynamics of reporting data: A case study of UFO sightings - ScienceDirectOctober 1, 2022...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>On the dynamics of reporting data: A case study of UFO sightings - ScienceDirectOctober 1, 2022...</p></details>
    Published: October 1, 2022  
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
    Title: On the dynamics of reporting data: A case study of UFO sightings  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0378437122005295](https://www.sciencedirect.com/science/article/pii/S0378437122005295)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectOctober 1, 2022 — PHYSICA A: STATISTICAL MECHANICS AND ITS APPLICATIONS Volume 603, 1 October 2022, 127807 ON THE DYNAMICS O...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0378437122005295</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>October 1, 2022 — PHYSICA A: STATISTICAL MECHANICS AND ITS APPLICATIONS Volume 603, 1 October 2022, 127807 ON THE DYNAMICS O...</p></details>
    Published: October 1, 2022  
 
 3. <a id="endnote-3"></a>
    Source: newspaceeconomy.ca  
    Title: New Space Economy The UAP Phenomenon: A Statistical Inquiry  
-   Link: [https://newspaceeconomy.ca/2025/09/24/the-uap-phenomenon-a-statistical-inquiry/](https://newspaceeconomy.ca/2025/09/24/the-uap-phenomenon-a-statistical-inquiry/)  
+   Link: <a href="https://newspaceeconomy.ca/2025/09/24/the-uap-phenomenon-a-statistical-inquiry/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/09/24/the-uap-phenomenon-a-statistical-inquiry/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Space EconomyThe UAP Phenomenon: A Statistical Inquiry - New Space EconomyMay 22, 2026...</p></details>
    Published: May 22, 2026  
 
@@ -752,60 +746,60 @@ A spike in UFO reports **often reflects reporting behaviour** as much as, or mor
 
 4. <a id="endnote-4"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-023-49527-x](https://www.nature.com/articles/s41598-023-49527-x)  
+   Link: <a href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-49527-x</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 14, 2023 — An environmental analysis of public UAP sightings and sky view potential Download PDF Download PDF * Article * Open a...</p></details>
    Published: December 14, 2023  
 
 5. <a id="endnote-5"></a>
    Source: ada-nuforc-analysis.github.io  
-   Link: [https://ada-nuforc-analysis.github.io/UFO.html](https://ada-nuforc-analysis.github.io/UFO.html)  
+   Link: <a href="https://ada-nuforc-analysis.github.io/UFO.html" target="_blank" rel="noopener noreferrer nofollow">https://ada-nuforc-analysis.github.io/UFO.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOANALYSIS¶ TIME OF OCCURRENCE¶ CAN THE REPORTS BE EXPLAINED?¶ A reports submission splits into three parts, &#x27;Occurred&#x27; when the UFO sig...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: complex.pfi.uem.br  
-   Link: [https://complex.pfi.uem.br/publication/2022/on-the-dynamics-of-reporting-data-a-case-study-of-ufo-sightings/](https://complex.pfi.uem.br/publication/2022/on-the-dynamics-of-reporting-data-a-case-study-of-ufo-sightings/)  
+   Link: <a href="https://complex.pfi.uem.br/publication/2022/on-the-dynamics-of-reporting-data-a-case-study-of-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://complex.pfi.uem.br/publication/2022/on-the-dynamics-of-reporting-data-a-case-study-of-ufo-sightings/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>J. Antonio, A. S. Itami, F. F. Dalmedico, F. S. Mendes, Physica A 603, 127807 (2022). PDF Cite DOI Image ABSTRACT There are a...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: astronomy.com  
    Title: But the public is growing increasingly confused by ordinary object  
-   Link: [https://www.astronomy.com/science/reports-of-rising-ufo-sightings-are-greatly-exaggerated/](https://www.astronomy.com/science/reports-of-rising-ufo-sightings-are-greatly-exaggerated/)  
+   Link: <a href="https://www.astronomy.com/science/reports-of-rising-ufo-sightings-are-greatly-exaggerated/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/science/reports-of-rising-ufo-sightings-are-greatly-exaggerated/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reports of rising UFO sightings are greatly exaggeratedOctober 2, 2020 — REPORTS OF RISING UFO SIGHTINGS ARE GREATLY EXAGGERATED The pand...</p></details>
    Published: October 2, 2020  
 
 8. <a id="endnote-8"></a>
    Source: journalofscientificexploration.org  
    Title: Modeling the Law of Times | Journal of Scientific Exploration  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/797](https://journalofscientificexploration.org/index.php/jse/article/view/797)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/797" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/797</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>29 No. 2, Research Articles Vol. 29 No. 2 MODELING THE LAW OF TIMES Research Articles Published 2015-06-06 * Julio Plaza del Olmo Julio P...</p></details>
    Published: June 6, 2015  
 
 9. <a id="endnote-9"></a>
    Source: ovniteca.net  
    Title: dynamics reporting data case study ufo sightings  
-   Link: [https://www.ovniteca.net/bibliografia/dynamics-reporting-data-case-study-ufo-sightings](https://www.ovniteca.net/bibliografia/dynamics-reporting-data-case-study-ufo-sightings)  
+   Link: <a href="https://www.ovniteca.net/bibliografia/dynamics-reporting-data-case-study-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.ovniteca.net/bibliografia/dynamics-reporting-data-case-study-ufo-sightings</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>On the dynamics of reporting data: A case study of UFO sightings | OvnitecaOvniteca Historia y actualidad de los ovnis ON THE DYNAMICS OF...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: philpapers.org  
    Title: Julio Plaza del Olmo, Modeling the Law of Times  
-   Link: [https://philpapers.org/rec/OLMMTL](https://philpapers.org/rec/OLMMTL)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PhilPapersMODELING THE LAW OF TIMES Julio Plaza del Olmo Journal of Scientific Exploration 29 (2) (2015) Copy B IB T_{E}X ABSTRACT The La...</p></details>
+   Link: <a href="https://philpapers.org/rec/OLMMTL" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/OLMMTL</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>MODELING THE LAW OF TIMES Julio Plaza del Olmo Journal of Scientific Exploration 29 (2) (2015) Copy B IB T_{E}X ABSTRACT The La...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: cbsnews.com  
    Title: UF O reports spiked over the summer  
-   Link: [https://www.cbsnews.com/news/ufo-reports-spiked-over-the-summer/](https://www.cbsnews.com/news/ufo-reports-spiked-over-the-summer/)  
+   Link: <a href="https://www.cbsnews.com/news/ufo-reports-spiked-over-the-summer/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/ufo-reports-spiked-over-the-summer/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports spiked over the summer - CBS NewsSeptember 19, 2011 — UFO REPORTS SPIKED OVER THE SUMMER By Benjamin Radford September 19, 20...</p></details>
    Published: September 19, 2011  
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Let's Talk About the New UFO Files Released by The Government  
-   Link: [http://www.youtube.com/watch?v=K4SiqjS28ZE](http://www.youtube.com/watch?v=K4SiqjS28ZE)  
+   Link: <a href="http://www.youtube.com/watch?v=K4SiqjS28ZE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=K4SiqjS28ZE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Ufo sightings&quot; data analysis time series UFO Data Mining, Part 1: Time Series Models Cache Lack Stats...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=qMp6jlxC238](http://www.youtube.com/watch?v=qMp6jlxC238)  
+   Link: <a href="http://www.youtube.com/watch?v=qMp6jlxC238" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=qMp6jlxC238</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I Analyzed 173,747 UFO Reports… Here’s What I Found...</p></details>

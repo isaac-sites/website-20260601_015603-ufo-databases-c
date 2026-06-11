@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /aaro/
 nav_short_title: Wake Artefacts
 title: When UAP Propulsion Signs Are Sensor Artefacts
-title_full: When UAP Propulsion Signs Are Sensor Artefacts | AARO
+title_full: When UAP Propulsion Signs Are Sensor Artefacts
 display_title_short: Wake Artefacts
 display_title: Wake Artefacts
 heading_title: When UAP Propulsion Signs Are Sensor Artefacts
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 22:17:50'
-parent_title: Why AARO Cases Remain Unresolved | UFO Archives
+parent_title: Why AARO Cases Remain Unresolved
 parent_permalink: /aaro/
 parent_nav_short_title: AARO
 parent_heading_title: Why AARO Cases Remain Unresolved
@@ -268,18 +268,16 @@ image: /assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_at
 
 ## Introduction
 
-One of the most revealing lessons from the All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) is that a striking visual signature is not the same thing as evidence of unusual propulsion. Several widely discussed UAP videos appeared to show objects producing atmospheric wakes, cavitation trails, or other effects that suggested extraordinary movement through the air. After deeper analysis, however, AARO and its technical partners concluded that the apparent wakes were artefacts created by the sensor system rather than physical disturbances in the atmosphere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Atmospheric_Wakes_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROCase Resolution of &#x27;Atmospheric Wakes&#x27;February 26, 2024 — (U) AARO&#x27;s Intelligence partners assess with high confidence that the “atmo...</span><span class="citation-popover-meta">Published: February 26, 2024</span></span></span>
-
+One of the most revealing lessons from the All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) is that a striking visual signature is not the same thing as evidence of unusual propulsion. Several widely discussed UAP videos appeared to show objects producing atmospheric wakes, cavitation trails, or other effects that suggested extraordinary movement through the air. After deeper analysis, however, AARO and its technical partners concluded that the apparent wakes were artefacts created by the sensor system rather than physical disturbances in the atmosphere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Atmospheric_Wakes_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Case Resolution of &#x27;Atmospheric Wakes&#x27;February 26, 2024 — (U) AARO&#x27;s Intelligence partners assess with high confidence that the “atmo...</span><span class="citation-popover-meta">Published: February 26, 2024</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_atmospheric_wake_art_c32c45-Illustration-1-dark.svg" | relative_url }}" alt="Wake Artefacts illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_atmospheric_wake_art_c32c45-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_atmospheric_wake_art_c32c45-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-These cases matter because they show how an investigation can remove specific extraordinary claims without fully identifying the object itself. An object may remain unidentified because available data are incomplete, yet analysts can still determine that the video does not show impossible acceleration, exotic propulsion, or a genuine atmospheric disturbance. That distinction is central to understanding how modern UAP databases classify reports and why unresolved does not automatically mean anomalous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Imagery Atmospheric Wakes Case Resolution. Atmospheric Wake</span><span class="citation-popover-snippet">AAROUAP ImageryAtmospheric Wakes Case Resolution. Atmospheric Wake - South Asian Object (Sensor #2), UAP Video: Atmospheric Wake - South...</span></span></span>
+These cases matter because they show how an investigation can remove specific extraordinary claims without fully identifying the object itself. An object may remain unidentified because available data are incomplete, yet analysts can still determine that the video does not show impossible acceleration, exotic propulsion, or a genuine atmospheric disturbance. That distinction is central to understanding how modern UAP databases classify reports and why unresolved does not automatically mean anomalous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Imagery Atmospheric Wakes Case Resolution. Atmospheric Wake</span><span class="citation-popover-snippet">UAP ImageryAtmospheric Wakes Case Resolution. Atmospheric Wake - South Asian Object (Sensor #2), UAP Video: Atmospheric Wake - South...</span></span></span>
 
 ## What the atmospheric wake videos seemed to show
 
 The most prominent examples came from MQ-9 Reaper drone infrared footage discussed publicly by AARO during congressional and public briefings. In the videos, small airborne objects appeared to move across the field of view while a bright trail stretched behind them. To many viewers, the effect resembled a wake left by a fast-moving vehicle or a form of aerodynamic cavitation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.106rqw.ang.af.mil/News/Video/videoid/880271/dvpTag/Objectives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 106rqw.ang.af.mil">[106rqw.ang.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">106rqw.ang.af.mil</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The visual impression was powerful for several reasons:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -294,15 +292,13 @@ When AARO director Sean Kirkpatrick presented one of the videos in 2023, he expl
 
 The South Asia recordings became especially notable because two different sensor views existed. The first view encouraged interpretations involving a fast-moving object leaving a disturbance behind it. The second view, obtained with a longer focal length and additional contextual information, changed the picture considerably. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information_for_UAP_Analysis-20240125.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">About the PhenomenonSensors that detected the phenomenon (e.g., visual, radar). •. Submit all sensor data (still images, video, sound rec...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oER70vPK1aU" title="Top Declassified UFO Videos Released by the Pentagon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oER70vPK1aU" target="_blank" rel="noopener noreferrer">Top Declassified UFO Videos Released by the Pentagon</a></p><p class="youtube-embed-meta">Channel: The Navy Channel &middot; Views: 8.6K &middot; Uploaded: June 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oER70vPK1aU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oER70vPK1aU">Open on YouTube</a></p></div></div></div>
 
 ## How sensor anomalies changed the assessment
 
-AARO's published case-resolution material states that intelligence and science-and-technology partners assessed with high confidence that the apparent atmospheric wakes were sensor anomalies rather than real aerodynamic effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Atmospheric_Wakes_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROCase Resolution of &#x27;Atmospheric Wakes&#x27;February 26, 2024 — (U) AARO&#x27;s Intelligence partners assess with high confidence that the “atmo...</span><span class="citation-popover-meta">Published: February 26, 2024</span></span></span>
+AARO's published case-resolution material states that intelligence and science-and-technology partners assessed with high confidence that the apparent atmospheric wakes were sensor anomalies rather than real aerodynamic effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Atmospheric_Wakes_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Case Resolution of &#x27;Atmospheric Wakes&#x27;February 26, 2024 — (U) AARO&#x27;s Intelligence partners assess with high confidence that the “atmo...</span><span class="citation-popover-meta">Published: February 26, 2024</span></span></span>
 
 The key shift came from examining more than the single dramatic clip that circulated publicly. Analysts incorporated:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -310,7 +306,7 @@ The key shift came from examining more than the single dramatic clip that circul
 * Additional sensor footage from different optical settings.
 * Commercial and military flight data.
 * Line-of-sight analysis.
-* Photogrammetry, which estimates object size and position from imagery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Imagery Atmospheric Wakes Case Resolution. Atmospheric Wake</span><span class="citation-popover-snippet">AAROUAP ImageryAtmospheric Wakes Case Resolution. Atmospheric Wake - South Asian Object (Sensor #2), UAP Video: Atmospheric Wake - South...</span></span></span>
+* Photogrammetry, which estimates object size and position from imagery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Imagery Atmospheric Wakes Case Resolution. Atmospheric Wake</span><span class="citation-popover-snippet">UAP ImageryAtmospheric Wakes Case Resolution. Atmospheric Wake - South Asian Object (Sensor #2), UAP Video: Atmospheric Wake - South...</span></span></span>
 
 </div>
 
@@ -319,7 +315,6 @@ For the South Asia footage, AARO concluded that the trailing effect was likely c
 This is an important investigative pattern. Modern military imaging systems do not simply record a scene in a straightforward way. Infrared sensors, zoom systems, stabilisation software, compression algorithms and transmission links all affect the final image. A visual feature that appears physically attached to an object may actually originate in the processing pipeline. NASA's independent UAP study panel highlighted a related problem when it noted that sensor limitations and classification restrictions often complicate interpretation of UAP imagery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popsci.com/science/nasa-unidentified-anomalous-phenomena-panel/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popsci.com">[Popular Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popsci.com</span><span class="citation-popover-snippet">Popular ScienceUFO data is honestly a mess, NASA panel saysJune 1, 2023 — 31 May 2023 — “Unidentified anomalous phenomena sightings thems...</span><span class="citation-popover-meta">Published: June 1, 2023</span></span></span>
 
 The atmospheric wake cases also demonstrated why investigators place heavy emphasis on corroborating data. A dramatic visual claim becomes much weaker when radar tracks, flight records, geometry calculations and additional sensor views point toward an ordinary aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information_for_UAP_Analysis-20240125.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">About the PhenomenonSensors that detected the phenomenon (e.g., visual, radar). •. Submit all sensor data (still images, video, sound rec...</span></span></span>
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_atmospheric_wake_art_c32c45-Illustration-2-dark.svg" | relative_url }}" alt="Wake Artefacts illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_atmospheric_wake_art_c32c45-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_atmospheric_wake_art_c32c45-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why one object can remain unidentified but not anomalous
@@ -338,7 +333,6 @@ Assessment questionPossible outcomeIs the object identified?Not necessarilyIs th
 
 This separation is crucial for interpreting official UAP databases. An unresolved identity does not automatically imply unresolved behaviour.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kbL1yuMykZo" title="DECLASSIFIED VIDEO: UFO FILES - South Asian Object 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kbL1yuMykZo" target="_blank" rel="noopener noreferrer">DECLASSIFIED VIDEO: UFO FILES - South Asian Object 1</a></p><p class="youtube-embed-meta">Channel: Media Magik Entertainment &middot; Views: 43.2K &middot; Uploaded: April 2023 &middot; Length: 10 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kbL1yuMykZo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kbL1yuMykZo">Open on YouTube</a></p></div></div></div>
 
 ## The role of aircraft tracking and geometry
@@ -351,7 +345,6 @@ These findings matter because they replace speculation with measurable constrain
 
 AARO's official imagery archive repeatedly shows this pattern. Cases that initially appear unusual often become less mysterious when sensor perspective, tracking data and known flight activity are analysed together. The office's explanations for several publicly released videos rely on distant aircraft, viewing geometry and imaging effects rather than exotic objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information_for_UAP_Analysis-20240125.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">About the PhenomenonSensors that detected the phenomenon (e.g., visual, radar). •. Submit all sensor data (still images, video, sound rec...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eI2XAkp0pyw" title="UFO video captured by the U.S. military on January 15, 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eI2XAkp0pyw" target="_blank" rel="noopener noreferrer">UFO video captured by the U.S. military on January 15, 2023</a></p><p class="youtube-embed-meta">Channel: Matt Novak &middot; Views: 979 &middot; Uploaded: April 2023 &middot; Length: 2 minutes 11 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eI2XAkp0pyw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eI2XAkp0pyw">Open on YouTube</a></p></div></div></div>
 
 ## What the wake artefact cases reveal about UAP databases
@@ -361,7 +354,6 @@ The atmospheric wake investigations provide a useful caution for anyone browsing
 A database entry may preserve the original report exactly as it was perceived by the observer. In that original report, an object might appear to leave a strange trail. Later analysis may determine that the trail never existed outside the sensor system. Yet the case can still remain partially unresolved because investigators cannot establish the precise identity of the object in the frame. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information_for_UAP_Analysis-20240125.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">About the PhenomenonSensors that detected the phenomenon (e.g., visual, radar). •. Submit all sensor data (still images, video, sound rec...</span></span></span>
 
 This means a single case can simultaneously contain:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -373,7 +365,6 @@ This means a single case can simultaneously contain:
 </div>
 
 That layered outcome is less dramatic than claims of advanced craft, but it is arguably more informative. The atmospheric wake cases show how modern UAP investigations often narrow a mystery rather than eliminate it entirely. By identifying sensor artefacts, analysts can rule out some of the strongest anomalous interpretations while still acknowledging that the available data may not support a complete identification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information_for_UAP_Analysis-20240125.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">About the PhenomenonSensors that detected the phenomenon (e.g., visual, radar). •. Submit all sensor data (still images, video, sound rec...</span></span></span>
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_atmospheric_wake_art_c32c45-Illustration-3-dark.svg" | relative_url }}" alt="Wake Artefacts illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_atmospheric_wake_art_c32c45-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_atmospheric_wake_art_c32c45-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -773,34 +764,34 @@ That layered outcome is less dramatic than claims of advanced craft, but it is a
 
 1. <a id="endnote-1"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Atmospheric_Wakes_508-02262024.pdf](https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Atmospheric_Wakes_508-02262024.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROCase Resolution of &#x27;Atmospheric Wakes&#x27;February 26, 2024 — (U) AARO&#x27;s Intelligence partners assess with high confidence that the “atmo...</p></details>
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Atmospheric_Wakes_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Atmospheric_Wakes_508-02262024.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Case Resolution of &#x27;Atmospheric Wakes&#x27;February 26, 2024 — (U) AARO&#x27;s Intelligence partners assess with high confidence that the “atmo...</p></details>
    Published: February 26, 2024  
 
 2. <a id="endnote-2"></a>
    Source: aaro.mil  
    Title: UAP Imagery Atmospheric Wakes Case Resolution. Atmospheric Wake  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROUAP ImageryAtmospheric Wakes Case Resolution. Atmospheric Wake - South Asian Object (Sensor #2), UAP Video: Atmospheric Wake - South...</p></details>
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryAtmospheric Wakes Case Resolution. Atmospheric Wake - South Asian Object (Sensor #2), UAP Video: Atmospheric Wake - South...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: 106rqw.ang.af.mil  
-   Link: [https://www.106rqw.ang.af.mil/News/Video/videoid/880271/dvpTag/Objectives/](https://www.106rqw.ang.af.mil/News/Video/videoid/880271/dvpTag/Objectives/)  
+   Link: <a href="https://www.106rqw.ang.af.mil/News/Video/videoid/880271/dvpTag/Objectives/" target="_blank" rel="noopener noreferrer nofollow">https://www.106rqw.ang.af.mil/News/Video/videoid/880271/dvpTag/Objectives/</a>  
 
 4. <a id="endnote-4"></a>
    Source: airbornescience.nasa.gov  
    Title: ASP FY24 Annual Report  
-   Link: [https://airbornescience.nasa.gov/sites/default/files/documents/2025-12/ASP%20FY24%20Annual%20Report.pdf](https://airbornescience.nasa.gov/sites/default/files/documents/2025-12/ASP%20FY24%20Annual%20Report.pdf)  
+   Link: <a href="https://airbornescience.nasa.gov/sites/default/files/documents/2025-12/ASP%20FY24%20Annual%20Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://airbornescience.nasa.gov/sites/default/files/documents/2025-12/ASP%20FY24%20Annual%20Report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.gov2024 - Annual Reportatmosphere. ER-2 sensors acquiring earth imagery or conducting atmospheric sounding replicate spatial, spectr...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information_for_UAP_Analysis-20240125.pdf](https://www.aaro.mil/Portals/136/PDFs/Information_for_UAP_Analysis-20240125.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information_for_UAP_Analysis-20240125.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information_for_UAP_Analysis-20240125.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>About the PhenomenonSensors that detected the phenomenon (e.g., visual, radar). •. Submit all sensor data (still images, video, sound rec...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: popsci.com  
-   Link: [https://www.popsci.com/science/nasa-unidentified-anomalous-phenomena-panel/](https://www.popsci.com/science/nasa-unidentified-anomalous-phenomena-panel/)  
+   Link: <a href="https://www.popsci.com/science/nasa-unidentified-anomalous-phenomena-panel/" target="_blank" rel="noopener noreferrer nofollow">https://www.popsci.com/science/nasa-unidentified-anomalous-phenomena-panel/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Popular ScienceUFO data is honestly a mess, NASA panel saysJune 1, 2023 — 31 May 2023 — “Unidentified anomalous phenomena sightings thems...</p></details>
    Published: June 1, 2023  
 
@@ -808,55 +799,55 @@ That layered outcome is less dramatic than claims of advanced craft, but it is a
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1kipbic/aaro_releases_video_of_an_unresolved_uap_case_in/](https://www.reddit.com/r/UFOs/comments/1kipbic/aaro_releases_video_of_an_unresolved_uap_case_in/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1kipbic/aaro_releases_video_of_an_unresolved_uap_case_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1kipbic/aaro_releases_video_of_an_unresolved_uap_case_in/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO releases video of an unresolved UAP case in...They can show us their own controlled inventions guised as anomalous. The buzz is rea...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: read-me.org  
    Title: fiscal year 2024 consolidated annual report on unidentified anomalous phenomena  
-   Link: [https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena](https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena)  
+   Link: <a href="https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fiscal Year 2024 Consolidated Annual Report on...21 Dec 2024 — This report covers unidentified anomalous phenomena (UAP) reports from Ma...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
    Title: the video caught by an infrared camera aboard the platform in 2013 was reported  
-   Link: [https://www.facebook.com/WDTV5News/posts/the-video-caught-by-an-infrared-camera-aboard-the-platform-in-2013-was-reported-/1401468618694557/](https://www.facebook.com/WDTV5News/posts/the-video-caught-by-an-infrared-camera-aboard-the-platform-in-2013-was-reported-/1401468618694557/)  
+   Link: <a href="https://www.facebook.com/WDTV5News/posts/the-video-caught-by-an-infrared-camera-aboard-the-platform-in-2013-was-reported-/1401468618694557/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WDTV5News/posts/the-video-caught-by-an-infrared-camera-aboard-the-platform-in-2013-was-reported-/1401468618694557/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The video, caught by an infrared camera aboard...The video, caught by an infrared camera aboard the platform in 2013, was reported by th...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1124888441912090/posts/1283666016034331/](https://www.facebook.com/groups/1124888441912090/posts/1283666016034331/)  
+   Link: <a href="https://www.facebook.com/groups/1124888441912090/posts/1283666016034331/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1124888441912090/posts/1283666016034331/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AATIP was headed by Luis Elizondo, who resigned from the Pentagon in October 2017 to...Read more...</p></details>
    Published: October 2017  
 
 11. <a id="endnote-11"></a>
    Source: newspaceeconomy.ca  
    Title: UAP Declassified: An Objective Look at the U.S  
-   Link: [https://newspaceeconomy.ca/2025/09/23/uap-declassified-an-objective-look-at-the-u-s-governments-official-data-from-aaro/](https://newspaceeconomy.ca/2025/09/23/uap-declassified-an-objective-look-at-the-u-s-governments-official-data-from-aaro/)  
+   Link: <a href="https://newspaceeconomy.ca/2025/09/23/uap-declassified-an-objective-look-at-the-u-s-governments-official-data-from-aaro/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/09/23/uap-declassified-an-objective-look-at-the-u-s-governments-official-data-from-aaro/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Government&#x27;s...23 Sept 2025 — The work of AARO, as presented in its official reports and data, provides the first clear, government-sanc...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
    Title: This report remains unresolved due to lack of technical data.Read more  
-   Link: [https://www.reddit.com/r/UFOs/comments/1ko9q2o/aaro_has_posted_another_unresolved_case_video/](https://www.reddit.com/r/UFOs/comments/1ko9q2o/aaro_has_posted_another_unresolved_case_video/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ko9q2o/aaro_has_posted_another_unresolved_case_video/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ko9q2o/aaro_has_posted_another_unresolved_case_video/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO has posted another unresolved case (video): &quot;This...This footage, captured by an infrared sensor in 2024, was later reported to AAR...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/newshour/posts/boston-university-space-physicist-joshua-semeter-was-part-of-an-independent-pane/1143879570940621/](https://www.facebook.com/newshour/posts/boston-university-space-physicist-joshua-semeter-was-part-of-an-independent-pane/1143879570940621/)  
+   Link: <a href="https://www.facebook.com/newshour/posts/boston-university-space-physicist-joshua-semeter-was-part-of-an-independent-pane/1143879570940621/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newshour/posts/boston-university-space-physicist-joshua-semeter-was-part-of-an-independent-pane/1143879570940621/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A convened in 2022 to study data related to UFOs, now...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: amacad.org  
-   Link: [https://www.amacad.org/sites/default/files/publication/downloads/daedalus_fa25_war-and-american-democracy_0.pdf](https://www.amacad.org/sites/default/files/publication/downloads/daedalus_fa25_war-and-american-democracy_0.pdf)  
+   Link: <a href="https://www.amacad.org/sites/default/files/publication/downloads/daedalus_fa25_war-and-american-democracy_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.amacad.org/sites/default/files/publication/downloads/daedalus_fa25_war-and-american-democracy_0.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ged white soldiers participated in organized violence...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/fox29philadelphia/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1444190187743439/](https://www.facebook.com/fox29philadelphia/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1444190187743439/)  
+   Link: <a href="https://www.facebook.com/fox29philadelphia/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1444190187743439/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox29philadelphia/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1444190187743439/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>be a weather balloon shot down – moments before a bright white...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/StarTalk/posts/is-motion-parallax-the-reason-many-believe-this-to-be-a-uap-turns-out-we-can-cal/1313924630366593/](https://www.facebook.com/StarTalk/posts/is-motion-parallax-the-reason-many-believe-this-to-be-a-uap-turns-out-we-can-cal/1313924630366593/)  
+   Link: <a href="https://www.facebook.com/StarTalk/posts/is-motion-parallax-the-reason-many-believe-this-to-be-a-uap-turns-out-we-can-cal/1313924630366593/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/StarTalk/posts/is-motion-parallax-the-reason-many-believe-this-to-be-a-uap-turns-out-we-can-cal/1313924630366593/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the map, then zoom in closer, and it looks like it&#x27;s moving...</p></details>

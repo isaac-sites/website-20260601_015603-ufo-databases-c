@@ -40,7 +40,7 @@ sidebar_expanded_urls:
 - /ufo-report-databases-and-catalogues/
 nav_short_title: Public vs Official
 title: Public UFO Reports or Official UAP Records?
-title_full: Public UFO Reports or Official UAP Records? | UFO Archives
+title_full: Public UFO Reports or Official UAP Records?
 display_title_short: Public vs Official
 display_title: Public vs Official
 heading_title: Public UFO Reports or Official UAP Records?
@@ -354,20 +354,18 @@ image: /assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202-ov
 
 Public UFO reports and official UAP records are not rival versions of the same database. They are different reporting systems built for different jobs. Civilian databases such as [NUFORC]({{ 'nuforc/' | relative_url }}), MUFON and [Enigma]({{ 'enigma/' | relative_url }}) are designed to receive large numbers of witness accounts from the public, often quickly and openly. Official UAP systems such as AARO, FAA reporting channels, GEIPAN and NASA-linked work are designed around aviation safety, national-security review, technical investigation, archival accountability or scientific data standards. Treating them as interchangeable leads to bad conclusions: a public sighting count is not the same thing as a government case file, and a government summary is not a full map of what the public has seen.
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202-overview.webp" | relative_url }}" alt="Overview image for Public vs Official" loading="eager" decoding="sync" fetchpriority="high">
 For [UFO report databases and catalogues]({{ 'ufo-report-databases-and-catalogues/' | relative_url }}), the practical lesson is simple: public systems are usually better for breadth, immediacy and social reporting patterns, while official systems are usually better for chain of custody, [sensor context]({{ 'sensor-context/' | relative_url }}), classification decisions and policy relevance. Serious case research often needs both.
 
 ## Different Reporting Pipelines
 
-A public UFO database usually begins with a witness. Someone sees a light, object, formation, apparent manoeuvre or unusual event, then submits a report through a website or app. NUFORC, for example, describes its databank as the largest independently collected set of UFO or UAP sighting reports available on the internet, freely browsable by the public through indexes. Its online report form presents NUFORC as a long-running central agency for UFO and UAP-related events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Data Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021 — The NUFORC Databank is the largest independently collected set of UFO / UAP...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span>
+A public UFO database usually begins with a witness. Someone sees a light, object, formation, apparent manoeuvre or unusual event, then submits a report through a website or app. NUFORC, for example, describes its databank as the largest independently collected set of UFO or UAP sighting reports available on the internet, freely browsable by the public through indexes. Its online report form presents NUFORC as a long-running central agency for UFO and UAP-related events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsSeptember 6, 2021 — The NUFORC Databank is the largest independently collected set of UFO / UAP...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span>
 
-That makes public systems broad and accessible, but it also means they are shaped by who chooses to report. The same aircraft, satellite train or re-entry may generate [multiple witness]({{ 'witness-clusters/' | relative_url }}) accounts across different counties or states. Some reports include photographs, video, direction, duration and witness detail; others are short, emotional or vague. Enigma’s newer app-based model tries to improve this by using mobile capture, media, location data and review steps, and has described a combination of human review and algorithmic scoring before reports are published or ranked. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/12000-uap-sightings-and-counting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sighting12000 UAP Sightings and Counting14 Dec 2023 — Every sighting is reviewed carefully by a member of our...</span></span></span> | Report a UFO sighting
+That makes public systems broad and accessible, but it also means they are shaped by who chooses to report. The same aircraft, satellite train or re-entry may generate [multiple witness]({{ 'witness-clusters/' | relative_url }}) accounts across different counties or states. Some reports include photographs, video, direction, duration and witness detail; others are short, emotional or vague. Enigma’s newer app-based model tries to improve this by using mobile capture, media, location data and review steps, and has described a combination of human review and algorithmic scoring before reports are published or ranked. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/12000-uap-sightings-and-counting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting12000 UAP Sightings and Counting14 Dec 2023 — Every sighting is reviewed carefully by a member of our...</span></span></span> | Report a UFO sighting
 
-Official systems usually start from a different trigger. In the United States, AARO directs military and Department of War civilian personnel to report through command or service channels, while civilian pilots are encouraged to report UAP sightings to air traffic control; AARO says it receives UAP-related [pilot reports]({{ 'pilot-reports/' | relative_url }}) from the Federal Aviation Administration and will announce when a public reporting mechanism is available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span> The FAA’s Aeronautical Information Manual still points people who want to report UFO or unexplained phenomena activity towards data collection centres such as NUFORC, while instructing that concerns about danger to life or property should go to local law enforcement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/aim/aim0706.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Official systems usually start from a different trigger. In the United States, AARO directs military and Department of War civilian personnel to report through command or service channels, while civilian pilots are encouraged to report UAP sightings to [air traffic]({{ 'air-traffic/' | relative_url }}) control; AARO says it receives UAP-related [pilot reports]({{ 'pilot-reports/' | relative_url }}) from the Federal Aviation Administration and will announce when a public reporting mechanism is available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span> The FAA’s Aeronautical Information Manual still points people who want to report UFO or unexplained phenomena activity towards data collection centres such as NUFORC, while instructing that concerns about danger to life or property should go to local law enforcement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/aim/aim0706.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 France’s GEIPAN offers a useful contrast because it is both official and public-facing. It is a technical department of the French space agency CNES, with a mission to collect, analyse, investigate, publish and archive UAP sighting reports, and to provide information and data to the public. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In other words, not every official system is closed, and not every public-facing system is civilian. The key difference is not “open versus secret”; it is the purpose, authority and evidential chain behind the record.
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202-Illustration-1-dark.svg" | relative_url }}" alt="Public vs Official illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Public Databases Are Good At
@@ -378,8 +376,7 @@ Their scale also makes them useful for pattern analysis. RAND analysed 101,151 p
 
 Public systems are also often faster. A local fireball, Starlink satellite train or drone cluster may appear in public databases before any official release exists. NUFORC’s location index, for example, makes it easy to see high-reporting states such as California, Florida and Arizona, but those counts should be read as reporting volume, not direct evidence of more anomalous activity in those places. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">agency for reporting UFO/UAP related events.Read more...</span></span></span>
 
-The main blind spot is verification. Public reports usually begin as claims by observers. Some are careful and useful; others are duplicates, misidentifications or incomplete descriptions. MUFON adds an investigator network and a Case Management System, but access to parts of that database is tied to membership and media rights remain with MUFON and submitting parties, which affects transparency and reuse. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">Open source on mufon.com.</span></span></span> Enigma’s scoring and app-based capture may improve triage, but its own material describes the score as proprietary and evolving, so readers should treat it as a filtering tool rather than an independent scientific classification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/12000-uap-sightings-and-counting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sighting12000 UAP Sightings and Counting14 Dec 2023 — Every sighting is reviewed carefully by a member of our...</span></span></span> | Report a UFO sighting
-
+The main blind spot is verification. Public reports usually begin as claims by observers. Some are careful and useful; others are duplicates, misidentifications or incomplete descriptions. MUFON adds an investigator network and a Case Management System, but access to parts of that database is tied to membership and media rights remain with MUFON and submitting parties, which affects transparency and reuse. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">Open source on mufon.com.</span></span></span> Enigma’s scoring and app-based capture may improve triage, but its own material describes the score as proprietary and evolving, so readers should treat it as a filtering tool rather than an independent scientific classification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/12000-uap-sightings-and-counting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting12000 UAP Sightings and Counting14 Dec 2023 — Every sighting is reviewed carefully by a member of our...</span></span></span> | Report a UFO sighting
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/o-gDG07GoJA" title="Pentagon&#x27;s AARO Director: &#x27;UAP are real&#x27; | Reality Check with Ross Coulthart" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=o-gDG07GoJA" target="_blank" rel="noopener noreferrer">Pentagon&#x27;s AARO Director: &#x27;UAP are real&#x27; | Reality Check with Ross Coulthart</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 268.3K &middot; Uploaded: November 2024 &middot; Length: 53 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=o-gDG07GoJA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=o-gDG07GoJA">Open on YouTube</a></p></div></div></div>
 
@@ -392,7 +389,6 @@ The official record is especially important where sensor data and operational co
 Those numbers are not directly comparable with NUFORC or Enigma totals. Official cases are filtered through institutional pathways and may prioritise military, pilot or sensitive-airspace events. Public databases are self-selected by witnesses and may include anything from a garden light in a suburban sky to a pilot’s multi-witness report. The same underlying event could appear in both worlds, but with different metadata, different redactions and different investigative value.
 
 Official systems also have a built-in public communication problem. AARO can publish annual reports and selected imagery, but some data may be classified, operationally sensitive, technically restricted or too sparse to release usefully. NASA’s independent UAP study made a related point from a scientific angle: many existing UAP reports lack the consistent, calibrated, repeatable data needed for robust analysis, and NASA’s role is best understood as helping define better data collection and scientific methods rather than simply collecting anecdotes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202-Illustration-2-dark.svg" | relative_url }}" alt="Public vs Official illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Strengths and Blind Spots Side by Side
@@ -422,7 +418,6 @@ For a serious case file, the best approach is usually layered:
 
 </div>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AqkwnxHLoBs" title="Pentagon releases declassified UFO files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AqkwnxHLoBs" target="_blank" rel="noopener noreferrer">Pentagon releases declassified UFO files</a></p><p class="youtube-embed-meta">Channel: NBC News &middot; Views: 115.8K &middot; Uploaded: May 2026 &middot; Length: 2 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AqkwnxHLoBs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AqkwnxHLoBs">Open on YouTube</a></p></div></div></div>
 
 ## Why the Distinction Changes the Interpretation
@@ -433,7 +428,6 @@ This matters because UFO catalogues are often used to make claims about frequenc
 
 The most reliable reading is therefore comparative rather than tribal. Public systems are not “just anecdotes”; they are large, searchable records of human observation and reporting behaviour. Official systems are not “the complete truth”; they are institutional records shaped by jurisdiction, secrecy, safety priorities and data availability. Used together, they help researchers distinguish a local story from a multi-witness cluster, a social reporting wave from an aviation hazard, and an unexplained record from a well-supported anomaly.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TQcqOW39ksk" title="Unidentified Anomalous Phenomena Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Independent Study Report</a></p><p class="youtube-embed-meta">Channel: NASA &middot; Views: 107.3K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TQcqOW39ksk">Open on YouTube</a></p></div></div></div>
 
 ## A Practical Rule for UFO Report Catalogues
@@ -441,7 +435,6 @@ The most reliable reading is therefore comparative rather than tribal. Public sy
 For readers using UFO report databases and catalogues, the safest rule is to match the source to the question. Public databases answer population-level and witness-level questions: who reported what, where, when and in what words. Official UAP systems answer institutional questions: what entered an accountable reporting channel, what evidence accompanied it, what classification or resolution followed, and whether safety or security concerns were raised.
 
 Neither source type should be used alone to declare a case solved, extraordinary or worthless. A strong public report still needs corroboration. A terse official entry may hide useful sensor context or may simply reflect poor data. The best catalogue work happens in the overlap: public reports provide breadth and leads; official records provide provenance, constraints and investigative status. That overlap is where UFO report databases become useful research tools rather than just lists of strange things people said they saw.
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202-Illustration-3-dark.svg" | relative_url }}" alt="Public vs Official illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -841,305 +834,305 @@ Neither source type should be used alone to declare a case solved, extraordinary
 
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021 — The NUFORC Databank is the largest independently collected set of UFO / UAP...</p></details>
    Published: September 6, 2021  
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/report-a-ufo/](https://nuforc.org/report-a-ufo/)  
+   Link: <a href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/report-a-ufo/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>agency for reporting UFO/UAP related events.Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/blog/12000-uap-sightings-and-counting](https://enigmalabs.io/blog/12000-uap-sightings-and-counting)  
+   Link: <a href="https://enigmalabs.io/blog/12000-uap-sightings-and-counting" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/blog/12000-uap-sightings-and-counting</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | Report a UFO sighting12000 UAP Sightings and Counting14 Dec 2023 — Every sighting is reviewed carefully by a member of our...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: enigmalabs.io  
    Title: 25k sightings  
-   Link: [https://enigmalabs.io/blog/25k-sightings](https://enigmalabs.io/blog/25k-sightings)  
+   Link: <a href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/blog/25k-sightings</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The higher the score, the higher both the...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Submit-A-Report/](https://www.aaro.mil/Submit-A-Report/)  
+   Link: <a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
 
 6. <a id="endnote-6"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/aim/aim0706.html](https://www.faa.gov/air_traffic/publications/atpubs/aim/aim0706.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aim/aim0706.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim/aim0706.html</a>  
 
 7. <a id="endnote-7"></a>
    Source: cnes.fr  
-   Link: [https://cnes.fr/en/projects/geipan](https://cnes.fr/en/projects/geipan)  
+   Link: <a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
 
 8. <a id="endnote-8"></a>
    Source: rand.org  
    Title: RRA2475 1  
-   Link: [https://www.rand.org/pubs/research_reports/RRA2475-1.html](https://www.rand.org/pubs/research_reports/RRA2475-1.html)  
+   Link: <a href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/research_reports/RRA2475-1.html</a>  
 
 9. <a id="endnote-9"></a>
    Source: rand.org  
    Title: RAND RRA2475 1  
-   Link: [https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf](https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf)  
+   Link: <a href="https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/</a>  
 
 11. <a id="endnote-11"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports by Location  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 12. <a id="endnote-12"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/research/](https://mufon.com/research/)  
+   Link: <a href="https://mufon.com/research/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/research/</a>  
 
 13. <a id="endnote-13"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/search_database-terms-and-conditions/](https://mufon.com/search_database-terms-and-conditions/)  
+   Link: <a href="https://mufon.com/search_database-terms-and-conditions/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/search_database-terms-and-conditions/</a>  
 
 14. <a id="endnote-14"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/collection/d5adf125-7bd3-436a-9014-c99290398363](https://enigmalabs.io/collection/d5adf125-7bd3-436a-9014-c99290398363)  
+   Link: <a href="https://enigmalabs.io/collection/d5adf125-7bd3-436a-9014-c99290398363" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/collection/d5adf125-7bd3-436a-9014-c99290398363</a>  
 
 15. <a id="endnote-15"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 16. <a id="endnote-16"></a>
    Source: aaro.mil  
    Title: UAP Imagery  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 17. <a id="endnote-17"></a>
    Source: dni.gov  
    Title: Unclassified 2022 Annual Report UAP  
-   Link: [https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf](https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf)  
+   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: dni.gov  
    Title: 3667 2022 annual report on unidentified aerial phenomena  
-   Link: [https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3667-2022-annual-report-on-unidentified-aerial-phenomena](https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3667-2022-annual-report-on-unidentified-aerial-phenomena)  
+   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3667-2022-annual-report-on-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3667-2022-annual-report-on-unidentified-aerial-phenomena</a>  
 
 19. <a id="endnote-19"></a>
    Source: dni.gov  
    Title: 4020 uap 2024  
-   Link: [https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024](https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024)  
+   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024</a>  
 
 20. <a id="endnote-20"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/](https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
 21. <a id="endnote-21"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 23. <a id="endnote-23"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/](https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/)  
+   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
 
 24. <a id="endnote-24"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2403.08155](https://arxiv.org/abs/2403.08155)  
+   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
 
 25. <a id="endnote-25"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/](https://enigmalabs.io/)  
+   Link: <a href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/</a>  
 
 26. <a id="endnote-26"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html](https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html</a>  
 
 27. <a id="endnote-27"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/](https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/)  
+   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
 
 28. <a id="endnote-28"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/](https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
 
 29. <a id="endnote-29"></a>
    Source: aaro.mil  
    Title: Case Resolution of Eglin UAP 2 508  
-   Link: [https://www.aaro.mil/portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf](https://www.aaro.mil/portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf)  
+   Link: <a href="https://www.aaro.mil/portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf</a>  
 
 30. <a id="endnote-30"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
 31. <a id="endnote-31"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/](https://mufon.com/)  
+   Link: <a href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/</a>  
 
 32. <a id="endnote-32"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/cms-ifo-info/](https://mufon.com/cms-ifo-info/)  
+   Link: <a href="https://mufon.com/cms-ifo-info/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/cms-ifo-info/</a>  
 
 33. <a id="endnote-33"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/join/](https://mufon.com/join/)  
+   Link: <a href="https://mufon.com/join/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/join/</a>  
 
 34. <a id="endnote-34"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/historical/](https://mufon.com/historical/)  
+   Link: <a href="https://mufon.com/historical/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/historical/</a>  
 
 35. <a id="endnote-35"></a>
    Source: faa.gov  
    Title: document ID  
-   Link: [https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044304](https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044304)  
+   Link: <a href="https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044304" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044304</a>  
 
 36. <a id="endnote-36"></a>
    Source: faa.gov  
    Title: aim chg1  
-   Link: [https://www.faa.gov/air_traffic/publications/media/aim_chg1.pdf](https://www.faa.gov/air_traffic/publications/media/aim_chg1.pdf)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/media/aim_chg1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/media/aim_chg1.pdf</a>  
 
 37. <a id="endnote-37"></a>
    Source: faa.gov  
    Title: document ID  
-   Link: [https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044303](https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044303)  
+   Link: <a href="https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044303" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044303</a>  
 
 38. <a id="endnote-38"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
 39. <a id="endnote-39"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/UFO/](https://www.war.gov/UFO/)  
+   Link: <a href="https://www.war.gov/UFO/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/UFO/</a>  
 
 40. <a id="endnote-40"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
 41. <a id="endnote-41"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/](https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
 
 42. <a id="endnote-42"></a>
    Source: war.gov  
    Title: department of war releases unidentified anomalous phenomena files in historic t  
-   Link: [https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/](https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
 
 43. <a id="endnote-43"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/ufo/?releaseDate=Release](https://www.war.gov/ufo/?releaseDate=Release)  
+   Link: <a href="https://www.war.gov/ufo/?releaseDate=Release" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/?releaseDate=Release</a>  
 
 44. <a id="endnote-44"></a>
    Source: dni.gov  
    Title: Prelimary Assessment UAP 20210625  
-   Link: [https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf](https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf)  
+   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
 
 45. <a id="endnote-45"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
 46. <a id="endnote-46"></a>
    Source: space.com  
    Title: nasa ufo study group better data needed  
-   Link: [https://www.space.com/nasa-ufo-study-group-better-data-needed](https://www.space.com/nasa-ufo-study-group-better-data-needed)  
+   Link: <a href="https://www.space.com/nasa-ufo-study-group-better-data-needed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-study-group-better-data-needed</a>  
 
 47. <a id="endnote-47"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: [https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology](https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology)  
+   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
 
 48. <a id="endnote-48"></a>
    Source: space.com  
    Title: pentagon ufo office new website report sighting  
-   Link: [https://www.space.com/pentagon-ufo-office-new-website-report-sighting](https://www.space.com/pentagon-ufo-office-new-website-report-sighting)  
+   Link: <a href="https://www.space.com/pentagon-ufo-office-new-website-report-sighting" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-new-website-report-sighting</a>  
 
 49. <a id="endnote-49"></a>
    Source: space.com  
    Title: pentagon 2022 ufo uap report  
-   Link: [https://www.space.com/pentagon-2022-ufo-uap-report](https://www.space.com/pentagon-2022-ufo-uap-report)  
+   Link: <a href="https://www.space.com/pentagon-2022-ufo-uap-report" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-2022-ufo-uap-report</a>  
 
 50. <a id="endnote-50"></a>
-   Source: [archives](&#123;&#123; 'archives/' | relative_url &#125;&#125;). gov  
-   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+   Source: archives.gov  
+   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
 51. <a id="endnote-51"></a>
    Source: astronomy.com  
    Title: reports of rising ufo sightings are greatly exaggerated  
-   Link: [https://www.astronomy.com/science/reports-of-rising-ufo-sightings-are-greatly-exaggerated/](https://www.astronomy.com/science/reports-of-rising-ufo-sightings-are-greatly-exaggerated/)  
+   Link: <a href="https://www.astronomy.com/science/reports-of-rising-ufo-sightings-are-greatly-exaggerated/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/science/reports-of-rising-ufo-sightings-are-greatly-exaggerated/</a>  
 
 52. <a id="endnote-52"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2403.15368](https://arxiv.org/pdf/2403.15368)  
+   Link: <a href="https://arxiv.org/pdf/2403.15368" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2403.15368</a>  
 
 53. <a id="endnote-53"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2411.02401v1](https://arxiv.org/html/2411.02401v1)  
+   Link: <a href="https://arxiv.org/html/2411.02401v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.02401v1</a>  
 
 54. <a id="endnote-54"></a>
    Source: news.sky.com  
-   Link: [https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933](https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933)  
+   Link: <a href="https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933</a>  
 
 55. <a id="endnote-55"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/en/node/58787](https://www.cnes-geipan.fr/en/node/58787)  
+   Link: <a href="https://www.cnes-geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58787</a>  
 
 56. <a id="endnote-56"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1akv3lu/mufon_is_under_a_major_hack_right_now_sources/](https://www.reddit.com/r/UFOs/comments/1akv3lu/mufon_is_under_a_major_hack_right_now_sources/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1akv3lu/mufon_is_under_a_major_hack_right_now_sources/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1akv3lu/mufon_is_under_a_major_hack_right_now_sources/</a>  
 
 57. <a id="endnote-57"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/](https://www.cnes-geipan.fr/)  
+   Link: <a href="https://www.cnes-geipan.fr/" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/</a>  
 
 58. <a id="endnote-58"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/posts/enigma-labs-collects-videos-submitted-by-people-who-have-seen-ufos/873020898438262/](https://www.facebook.com/NewsNationNow/posts/enigma-labs-collects-videos-submitted-by-people-who-have-seen-ufos/873020898438262/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/enigma-labs-collects-videos-submitted-by-people-who-have-seen-ufos/873020898438262/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/enigma-labs-collects-videos-submitted-by-people-who-have-seen-ufos/873020898438262/</a>  
 
 ### Additional References
 
 59. <a id="endnote-59"></a>
    Source: youtube.com  
    Title: Pentagon's AARO Director: 'UAP are real' | Reality Check with Ross Coulthart  
-   Link: [https://www.youtube.com/watch?v=o-gDG07GoJA](https://www.youtube.com/watch?v=o-gDG07GoJA)  
+   Link: <a href="https://www.youtube.com/watch?v=o-gDG07GoJA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=o-gDG07GoJA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US News LIVE | New UFO Files Go Public | Pentagon UAP Documents Explained...</p></details>
 
 60. <a id="endnote-60"></a>
    Source: energy.gov  
-   Link: [https://www.energy.gov/nnsa/uapufo-resources-and-documents](https://www.energy.gov/nnsa/uapufo-resources-and-documents)  
+   Link: <a href="https://www.energy.gov/nnsa/uapufo-resources-and-documents" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/nnsa/uapufo-resources-and-documents</a>  
 
 61. <a id="endnote-61"></a>
    Source: youtube.com  
    Title: Pentagon releases declassified UFO files  
-   Link: [https://www.youtube.com/watch?v=AqkwnxHLoBs](https://www.youtube.com/watch?v=AqkwnxHLoBs)  
+   Link: <a href="https://www.youtube.com/watch?v=AqkwnxHLoBs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AqkwnxHLoBs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s AARO Director: &#x27;UAP are real&#x27; | Reality Check with Ross Coulthart...</p></details>
 
 62. <a id="endnote-62"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/368458403_Social_factors_and_UFO_reports_was_the_SARS-CoV-2_pandemic_associated_with_an_increase_in_UFO_reporting](https://www.researchgate.net/publication/368458403_Social_factors_and_UFO_reports_was_the_SARS-CoV-2_pandemic_associated_with_an_increase_in_UFO_reporting)  
+   Link: <a href="https://www.researchgate.net/publication/368458403_Social_factors_and_UFO_reports_was_the_SARS-CoV-2_pandemic_associated_with_an_increase_in_UFO_reporting" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/368458403_Social_factors_and_UFO_reports_was_the_SARS-CoV-2_pandemic_associated_with_an_increase_in_UFO_reporting</a>  
 
 63. <a id="endnote-63"></a>
    Source: aui.edu  
-   Link: [https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/](https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/)  
+   Link: <a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
 
 64. <a id="endnote-64"></a>
    Source: aiaa.org  
-   Link: [https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf](https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf)  
+   Link: <a href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf</a>  
 
 65. <a id="endnote-65"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/GeographicEnigma/posts/countries-that-have-a-ufoalien-research-department/845842931898316/](https://www.facebook.com/GeographicEnigma/posts/countries-that-have-a-ufoalien-research-department/845842931898316/)  
+   Link: <a href="https://www.facebook.com/GeographicEnigma/posts/countries-that-have-a-ufoalien-research-department/845842931898316/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GeographicEnigma/posts/countries-that-have-a-ufoalien-research-department/845842931898316/</a>  
 
 66. <a id="endnote-66"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1ftu6kg/did_anybody_else_get_contacted_by_enigma_labs_for/](https://www.reddit.com/r/UFOs/comments/1ftu6kg/did_anybody_else_get_contacted_by_enigma_labs_for/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ftu6kg/did_anybody_else_get_contacted_by_enigma_labs_for/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ftu6kg/did_anybody_else_get_contacted_by_enigma_labs_for/</a>  
 
 67. <a id="endnote-67"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/793593508/FAA-UFO-Manuals-1](https://www.scribd.com/document/793593508/FAA-UFO-Manuals-1)  
+   Link: <a href="https://www.scribd.com/document/793593508/FAA-UFO-Manuals-1" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/793593508/FAA-UFO-Manuals-1</a>  
 
 68. <a id="endnote-68"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/15d7zmj/how_can_a_professional_debunker_fail_so_hard_the/](https://www.reddit.com/r/HighStrangeness/comments/15d7zmj/how_can_a_professional_debunker_fail_so_hard_the/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/15d7zmj/how_can_a_professional_debunker_fail_so_hard_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/15d7zmj/how_can_a_professional_debunker_fail_so_hard_the/</a>

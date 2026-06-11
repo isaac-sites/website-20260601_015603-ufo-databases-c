@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /public-vs-official/
 nav_short_title: Pilot Reports
 title: Where pilot UAP reports really go
-title_full: Where pilot UAP reports really go | Public vs Official
+title_full: Where pilot UAP reports really go
 display_title_short: Pilot Reports
 display_title: Pilot Reports
 heading_title: Where pilot UAP reports really go
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 01:42:20'
-parent_title: Public UFO Reports or Official UAP Records? | UFO Archives
+parent_title: Public UFO Reports or Official UAP Records?
 parent_permalink: /public-vs-official/
 parent_nav_short_title: Public vs Official
 parent_heading_title: Public UFO Reports or Official UAP Records?
@@ -276,7 +276,6 @@ image: /assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202_pi
 
 [Pilot sightings]({{ 'pilot-sightings/' | relative_url }}) of unidentified aerial phenomena (UAP) enter official channels through formal aviation safety and government reporting pathways that differ markedly from public UFO databases. Unlike civilian witness submissions, pilot reports can trigger aviation safety protocols, regulatory filings within [air traffic]({{ 'air-traffic/' | relative_url }}) control (ATC), and inter‑agency data sharing with bodies such as the U.S. Federal Aviation Administration (FAA) and the Department of Defence’s All‑domain Anomaly Resolution Office (AARO). Understanding these routes explains why some sightings appear in official UAP case files while others remain outside government archives (often in public databases instead).[AARO]
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202_pilot_uap_reporting_812f07-Illustration-1-dark.svg" | relative_url }}" alt="Pilot Reports illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202_pilot_uap_reporting_812f07-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202_pilot_uap_reporting_812f07-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Civilian Pilot Reporting Through Air Traffic Control
 
@@ -285,7 +284,6 @@ For civilian and commercial pilots, the primary official mechanism for reporting
 The FAA’s Orders JO 7210.3 and related notices have formalised this route, mandating that air traffic staff handle UAP reports with the same procedural discipline as other safety‑significant events. The obligations include recording positional data, flight direction, and radar evidence where available, and referring members of the public or other non‑aviation witnesses to appropriate government resources such as [AARO]({{ 'aaro/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/documentLibrary/media/Notice/2025-09-25_Notice_N7210.970_Unidentied_Anomalous_Phenomena_%28UAP%29_Activity_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration NOTICE</span><span class="citation-popover-snippet">U.S. DEPARTMENT OF TRANSPORTATION N 7210...</span></span></span> This shift reflects a broader recognition that unidentified phenomena observed in controlled airspace intersect with aviation safety and security responsibilities.
 
 Importantly, this channel does not currently allow civilian pilots to submit UAP sightings directly to AARO themselves; rather, the FAA acts as a funnel. Civilian pilots must report first to ATC, and then relevant [FAA logs]({{ 'faa-logs/' | relative_url }}) are passed on to AARO under inter‑agency mandates established by recent U.S. legislation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/documentLibrary/media/Notice/2025-09-25_Notice_N7210.970_Unidentied_Anomalous_Phenomena_%28UAP%29_Activity_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration NOTICE</span><span class="citation-popover-snippet">U.S. DEPARTMENT OF TRANSPORTATION N 7210...</span></span></span>
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202_pilot_uap_reporting_812f07-Illustration-2-dark.svg" | relative_url }}" alt="Pilot Reports illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202_pilot_uap_reporting_812f07-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202_pilot_uap_reporting_812f07-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Military and Government Reporting Pathways
@@ -296,7 +294,6 @@ For current and former government personnel, AARO also provides an official repo
 
 Official records show that AARO has received significant volumes of UAP data from FAA civilian aviation logs and military operational channels alike; these inputs contribute to periodic reporting required by law and shape the office’s [case files]({{ 'case-files/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">U.S. Department of WarUNCLASSIFIEDMay 8, 2026...</span><span class="citation-popover-meta">Published: May 8, 2026</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lTGJt7Gho0w" title="Inside the Data: What 1,000+ Pilot Reports Reveal About UAP | iConnections Webinar with Ryan Graves" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer">Inside the Data: What 1,000+ Pilot Reports Reveal About UAP | iConnections Webinar with Ryan Graves</a></p><p class="youtube-embed-meta">Channel: iConnections &middot; Views: 262 &middot; Uploaded: April 2026 &middot; Length: 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lTGJt7Gho0w">Open on YouTube</a></p></div></div></div>
 
 ## Why Aviation‑Safety Records Differ from Witness Websites
@@ -306,7 +303,6 @@ The routes by which pilot sightings enter official UAP channels differ fundament
 These distinctions matter because aviation safety pathways are structured to prioritise flight safety and airspace security, with clear protocols and responsibilities. In contrast, public databases provide open, first‑hand accounts but are not systematically integrated into official investigative or regulatory systems. As a result, many pilot sightings — especially historically — have been underrepresented in formal [archives]({{ 'archives/' | relative_url }}) because of stigma, lack of an obvious reporting channel, or concerns about professional consequences. Recent procedural reforms aim to reduce these obstacles by standardising reporting within aviation safety frameworks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nowdeclassified.com/guides/uap-pilot-safety-reporting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nowdeclassified.com">[Now Declassified]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nowdeclassified.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 In summary, pilot sightings enter official UAP channels through formal aviation safety reporting to air traffic control and onward transmission to government bodies like AARO, or through internal defence reporting processes for military aviators. These pathways ensure that reports from trained observers are preserved within official records, distinct from the civilian databases that collect broader public sightings.[AARO]
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202_pilot_uap_reporting_812f07-Illustration-3-dark.svg" | relative_url }}" alt="Pilot Reports illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202_pilot_uap_reporting_812f07-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202_pilot_uap_reporting_812f07-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -706,122 +702,122 @@ In summary, pilot sightings enter official UAP channels through formal aviation 
 
 1. <a id="endnote-1"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/FAQ/](https://www.aaro.mil/FAQ/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROAARO FAQ...</p></details>
+   Link: <a href="https://www.aaro.mil/FAQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/FAQ/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO FAQ...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration NOTICE  
-   Link: [https://www.faa.gov/documentLibrary/media/Notice/2025-09-25_Notice_N7210.970_Unidentied_Anomalous_Phenomena_%28UAP%29_Activity_FINAL.pdf](https://www.faa.gov/documentLibrary/media/Notice/2025-09-25_Notice_N7210.970_Unidentied_Anomalous_Phenomena_%28UAP%29_Activity_FINAL.pdf)  
+   Link: <a href="https://www.faa.gov/documentLibrary/media/Notice/2025-09-25_Notice_N7210.970_Unidentied_Anomalous_Phenomena_%28UAP%29_Activity_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/documentLibrary/media/Notice/2025-09-25_Notice_N7210.970_Unidentied_Anomalous_Phenomena_%28UAP%29_Activity_FINAL.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. DEPARTMENT OF TRANSPORTATION N 7210...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration CHANGE  
-   Link: [https://www.faa.gov/documentLibrary/media/Order/7210.3EE_Chg_2_dtd_1-22-26_Final.pdf](https://www.faa.gov/documentLibrary/media/Order/7210.3EE_Chg_2_dtd_1-22-26_Final.pdf)  
+   Link: <a href="https://www.faa.gov/documentLibrary/media/Order/7210.3EE_Chg_2_dtd_1-22-26_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/documentLibrary/media/Order/7210.3EE_Chg_2_dtd_1-22-26_Final.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. DEPARTMENT OF TRANSPORTATION JO 72April 14, 2026...</p></details>
    Published: April 14, 2026  
 
 4. <a id="endnote-4"></a>
    Source: aaro.mil  
    Title: Submit A Report  
-   Link: [https://www.aaro.mil/Submit-A-Report/](https://www.aaro.mil/Submit-A-Report/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROAARO Submit A Report...</p></details>
+   Link: <a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Submit A Report...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeAll-domain Anomaly Resolution Office Welcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of exp...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: faa.gov  
    Title: Section 7  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap4_section_7.html](https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap4_section_7.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap4_section_7.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap4_section_7.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ReportsSECTION 7. REPORTS 4-7-1. MONTHLY REPORTS Facilities must submit monthly reports to the appropriate Service Area office by the 5th...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: faa.gov  
    Title: Section 7  
-   Link: [https://www.faa.gov/air_traffic/publications/ATpubs/AIM_html/chap7_section_7.html](https://www.faa.gov/air_traffic/publications/ATpubs/AIM_html/chap7_section_7.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/ATpubs/AIM_html/chap7_section_7.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/ATpubs/AIM_html/chap7_section_7.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Safety, Accident, and Hazard Reports7-7-4. UNIDENTIFIED ANOMALOUS PHENOMENA (UAP) REPORTS 1. Persons wanting to report UAP/unexplained ph...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: [https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF](https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarUNCLASSIFIEDMay 8, 2026...</p></details>
    Published: May 8, 2026  
 
 9. <a id="endnote-9"></a>
    Source: nowdeclassified.com  
-   Link: [https://www.nowdeclassified.com/guides/uap-pilot-safety-reporting](https://www.nowdeclassified.com/guides/uap-pilot-safety-reporting)  
+   Link: <a href="https://www.nowdeclassified.com/guides/uap-pilot-safety-reporting" target="_blank" rel="noopener noreferrer nofollow">https://www.nowdeclassified.com/guides/uap-pilot-safety-reporting</a>  
 
 10. <a id="endnote-10"></a>
    Source: nowdeclassified.com  
-   Link: [https://www.nowdeclassified.com/guides/how-to-report-uap-sighting](https://www.nowdeclassified.com/guides/how-to-report-uap-sighting)  
+   Link: <a href="https://www.nowdeclassified.com/guides/how-to-report-uap-sighting" target="_blank" rel="noopener noreferrer nofollow">https://www.nowdeclassified.com/guides/how-to-report-uap-sighting</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>government body for receiving UAP reports from current and former government...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: tvi.show  
-   Link: [https://www.tvi.show/skywatch-files/how-ufo-sightings-are-investigated-by-the-faa](https://www.tvi.show/skywatch-files/how-ufo-sightings-are-investigated-by-the-faa)  
+   Link: <a href="https://www.tvi.show/skywatch-files/how-ufo-sightings-are-investigated-by-the-faa" target="_blank" rel="noopener noreferrer nofollow">https://www.tvi.show/skywatch-files/how-ufo-sightings-are-investigated-by-the-faa</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How the FAA Investigates UFO Sightings: Reporting Procedures &amp; Safety StandardsHOW UFO SIGHTINGS ARE INVESTIGATED BY THE FAA 1 May Writte...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: uapcheck.com  
-   Link: [https://www.uapcheck.com/news/id/2023-10-31-the-pentagon-launches-a-secure-mechanism-for-authorized-reporting-of-unidentified-anomalous-phenomena/](https://www.uapcheck.com/news/id/2023-10-31-the-pentagon-launches-a-secure-mechanism-for-authorized-reporting-of-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.uapcheck.com/news/id/2023-10-31-the-pentagon-launches-a-secure-mechanism-for-authorized-reporting-of-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapcheck.com/news/id/2023-10-31-the-pentagon-launches-a-secure-mechanism-for-authorized-reporting-of-unidentified-anomalous-phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP CheckOctober 31, 2023 — THE PENTAGON LAUNCHES A “SECURE MECHANISM FOR AUTHORIZED REPORTING OF UNIDENTIFIED ANOMALOUS PHENOMENA” THE U.S...</p></details>
    Published: October 31, 2023  
 
 13. <a id="endnote-13"></a>
    Source: ufotransparency.com  
    Title: decade 2020s odni uap annual report fy2022 unclassified 2022 annual report uap  
-   Link: [https://ufotransparency.com/files/decade-2020s-odni-uap-annual-report-fy2022-unclassified-2022-annual-report-uap](https://ufotransparency.com/files/decade-2020s-odni-uap-annual-report-fy2022-unclassified-2022-annual-report-uap)  
+   Link: <a href="https://ufotransparency.com/files/decade-2020s-odni-uap-annual-report-fy2022-unclassified-2022-annual-report-uap" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-odni-uap-annual-report-fy2022-unclassified-2022-annual-report-uap</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ODNI&#x27;s First Statutory Annual UAP Report, 2022, Office of the Director of National Intelligence (ODNI) / DoD · 2022 · UFO TransparencyOct...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: unknowncountry.com  
    Title: More than a year after the establishment of the All-domain Anomaly Resol  
-   Link: [https://unknowncountry.com/headline-news/a-year-after-aaros-launch-theres-still-no-uap-reporting-process-available-to-the-public/](https://unknowncountry.com/headline-news/a-year-after-aaros-launch-theres-still-no-uap-reporting-process-available-to-the-public/)  
+   Link: <a href="https://unknowncountry.com/headline-news/a-year-after-aaros-launch-theres-still-no-uap-reporting-process-available-to-the-public/" target="_blank" rel="noopener noreferrer nofollow">https://unknowncountry.com/headline-news/a-year-after-aaros-launch-theres-still-no-uap-reporting-process-available-to-the-public/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Year After AARO&#x27;s Launch, There&#x27;s Still No UAP Reporting Process Available to the Public - WHITLEY STRIEBER&#x27;S UNKNOWN COUNTRYSeptember...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: inkl.com  
-   Link: [https://www.inkl.com/news/the-faa-does-not-track-ufo-sightings-by-commercial-airline-pilots-but-here-s-who-does](https://www.inkl.com/news/the-faa-does-not-track-ufo-sightings-by-commercial-airline-pilots-but-here-s-who-does)  
+   Link: <a href="https://www.inkl.com/news/the-faa-does-not-track-ufo-sightings-by-commercial-airline-pilots-but-here-s-who-does" target="_blank" rel="noopener noreferrer nofollow">https://www.inkl.com/news/the-faa-does-not-track-ufo-sightings-by-commercial-airline-pilots-but-here-s-who-does</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>INGS BY COMMERCIAL AIRLINE PILOTS—BUT HERE’S WHO DOES Image The FAA directs commercial airline pilots to repo...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: forbes.com  
    Title: Suzanne Rowan Kelleher covers travel for Forbes. Follow Author Jun 2  
-   Link: [https://www.forbes.com/sites/suzannerowankelleher/2021/06/26/faa-ufo-uap-sightings-pilots/](https://www.forbes.com/sites/suzannerowankelleher/2021/06/26/faa-ufo-uap-sightings-pilots/)  
+   Link: <a href="https://www.forbes.com/sites/suzannerowankelleher/2021/06/26/faa-ufo-uap-sightings-pilots/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/suzannerowankelleher/2021/06/26/faa-ufo-uap-sightings-pilots/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The FAA Does Not Track UFO Sightings By Commercial Airline Pilots—But Here’s Who DoesJune 26, 2021 — THE FAA DOES NOT TRACK UFO SIGHTINGS...</p></details>
    Published: June 26, 2021  
 
 17. <a id="endnote-17"></a>
    Source: omniflights.com  
    Title: faa formalizes uap reporting as aaro caseload exceeds 2000  
-   Link: [https://omniflights.com/articles/faa-formalizes-uap-reporting-as-aaro-caseload-exceeds-2000](https://omniflights.com/articles/faa-formalizes-uap-reporting-as-aaro-caseload-exceeds-2000)  
+   Link: <a href="https://omniflights.com/articles/faa-formalizes-uap-reporting-as-aaro-caseload-exceeds-2000" target="_blank" rel="noopener noreferrer nofollow">https://omniflights.com/articles/faa-formalizes-uap-reporting-as-aaro-caseload-exceeds-2000</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA Formalizes UAP Reporting as AARO Caseload Exceeds 2,000April 19, 2026 — FAA FORMALIZES UAP REPORTING AS AARO CASELOAD EXCEEDS 2,000 I...</p></details>
    Published: April 19, 2026  
 
 18. <a id="endnote-18"></a>
    Source: omniflights.com  
    Title: AAR O Reports 757 UAPs, Citing Aviation Safety Risks  
-   Link: [https://omniflights.com/articles/aaro-reports-757-uaps-citing-aviation-safety-risks](https://omniflights.com/articles/aaro-reports-757-uaps-citing-aviation-safety-risks)  
+   Link: <a href="https://omniflights.com/articles/aaro-reports-757-uaps-citing-aviation-safety-risks" target="_blank" rel="noopener noreferrer nofollow">https://omniflights.com/articles/aaro-reports-757-uaps-citing-aviation-safety-risks</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Reports 757 UAPs, Citing Aviation Safety RisksMay 9, 2026 — AARO REPORTS 757 UAPS, CITING AVIATION SAFETY RISKS Image: Hardik Vishwa...</p></details>
    Published: May 9, 2026  
 
 19. <a id="endnote-19"></a>
    Source: scienceinsights.org  
    Title: How to Report a UFO Sighting to AARO or [MUFON](&#123;&#123; 'mufon/' | relative_url &#125;&#125;)  
-   Link: [https://scienceinsights.org/how-to-report-a-ufo-sighting-to-aaro-or-mufon/](https://scienceinsights.org/how-to-report-a-ufo-sighting-to-aaro-or-mufon/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceInsightsMarch 20, 2026 — HOW TO REPORT A UFO SIGHTING TO AARO OR MUFON * March 20, 2026 If you’ve seen something in the sky you ca...</p></details>
+   Link: <a href="https://scienceinsights.org/how-to-report-a-ufo-sighting-to-aaro-or-mufon/" target="_blank" rel="noopener noreferrer nofollow">https://scienceinsights.org/how-to-report-a-ufo-sighting-to-aaro-or-mufon/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 20, 2026 — HOW TO REPORT A UFO SIGHTING TO AARO OR MUFON * March 20, 2026 If you’ve seen something in the sky you ca...</p></details>
    Published: March 20, 2026  
 
 20. <a id="endnote-20"></a>
    Source: uaplogbook.com  
    Title: The FAA's UAP reporting rule is boring  
-   Link: [https://uaplogbook.com/faa-uap-reporting-procedure/](https://uaplogbook.com/faa-uap-reporting-procedure/)  
+   Link: <a href="https://uaplogbook.com/faa-uap-reporting-procedure/" target="_blank" rel="noopener noreferrer nofollow">https://uaplogbook.com/faa-uap-reporting-procedure/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>That is why it matters.May 20, 2026 — THE FAA&#x27;S UAP REPORTING RULE IS BORING. THAT IS WHY IT MATTERS. By Jan for UAP Logbook / Published...</p></details>
-   Published: May 20, 2026  
+   Published: May 20, 2026

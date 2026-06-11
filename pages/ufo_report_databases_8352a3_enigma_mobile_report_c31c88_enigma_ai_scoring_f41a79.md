@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /enigma/
 nav_short_title: AI Scoring
 title: How Enigma Uses AI to Rate UFO Reports
-title_full: How Enigma Uses AI to Rate UFO Reports | Enigma
+title_full: How Enigma Uses AI to Rate UFO Reports
 display_title_short: AI Scoring
 display_title: AI Scoring
 heading_title: How Enigma Uses AI to Rate UFO Reports
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 19:20:15'
-parent_title: Can a UFO App Fix Old Data Problems? | UFO Archives
+parent_title: Can a UFO App Fix Old Data Problems?
 parent_permalink: /enigma/
 parent_nav_short_title: Enigma
 parent_heading_title: Can a UFO App Fix Old Data Problems?
@@ -268,23 +268,20 @@ image: /assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_en
 
 ## Introduction
 
-In the context of modern UFO and UAP (Unidentified Aerial Phenomena) reporting, [Enigma]({{ 'enigma/' | relative_url }}) Labs has introduced an **AI‑based scoring system** to evaluate the growing volume of user submissions. This algorithmic score, assigned to each sighting on a scale from **1 to 100**, aims to balance **confidence in the event’s credibility with indicators of anomalous behaviour**. As Enigma’s dataset has grown into the tens of thousands of global reports, the company’s scoring mechanism has become a central tool for triaging reports that may warrant deeper analysis from human moderators and researchers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs | Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs | Report a UFO sighting25K Sightings &amp; Counting | Enigma Labs</span><span class="citation-popover-snippet">October 31, 2024...</span><span class="citation-popover-meta">Published: October 31, 2024</span></span></span>
-
+In the context of modern UFO and UAP (Unidentified Aerial Phenomena) reporting, [Enigma]({{ 'enigma/' | relative_url }}) Labs has introduced an **AI‑based scoring system** to evaluate the growing volume of user submissions. This algorithmic score, assigned to each sighting on a scale from **1 to 100**, aims to balance **confidence in the event’s credibility with indicators of anomalous behaviour**. As Enigma’s dataset has grown into the tens of thousands of global reports, the company’s scoring mechanism has become a central tool for triaging reports that may warrant deeper analysis from human moderators and researchers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span><span class="citation-popover-snippet">October 31, 2024...</span><span class="citation-popover-meta">Published: October 31, 2024</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_ai_scoring_f41a79-Illustration-1-dark.svg" | relative_url }}" alt="AI Scoring illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_ai_scoring_f41a79-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_ai_scoring_f41a79-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Proprietary Scoring Algorithm
 
-Enigma’s scoring model is **proprietary and multivariate**, meaning it integrates multiple features derived from each sighting into a single numerical value designed to reflect both how reliable the report is and how unusual the described phenomenon appears. According to the platform’s own public analysis, **every sighting submitted to Enigma is automatically scored from 1 to 100** by this algorithm, with **higher scores indicating both higher certainty in the event’s details and greater anomalousness of the object or behaviour**. There is **no human input into the raw score itself**; it is generated entirely by the algorithm. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs | Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs | Report a UFO sighting25K Sightings &amp; Counting | Enigma Labs</span><span class="citation-popover-snippet">October 31, 2024</span></span></span>
+Enigma’s scoring model is **proprietary and multivariate**, meaning it integrates multiple features derived from each sighting into a single numerical value designed to reflect both how reliable the report is and how unusual the described phenomenon appears. According to the platform’s own public analysis, **every sighting submitted to Enigma is automatically scored from 1 to 100** by this algorithm, with **higher scores indicating both higher certainty in the event’s details and greater anomalousness of the object or behaviour**. There is **no human input into the raw score itself**; it is generated entirely by the algorithm. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span><span class="citation-popover-snippet">October 31, 2024</span></span></span>
 
-In practice, this score serves as a **triage tool**: as the volume of submissions scales, Enigma’s team uses the distribution of scores to prioritise which cases might be worth further human review or featured in analyses. For instance, in a dataset of 25 000+ reports, the subset of sightings that lacked observable propulsion and exhibited “erratic movement” had a mean score of about **61**, compared with an overall average near **45**. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs | Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs | Report a UFO sighting25K Sightings &amp; Counting | Enigma Labs</span><span class="citation-popover-snippet">October 31, 2024</span></span></span>
-
+In practice, this score serves as a **triage tool**: as the volume of submissions scales, Enigma’s team uses the distribution of scores to prioritise which cases might be worth further human review or featured in analyses. For instance, in a dataset of 25 000+ reports, the subset of sightings that lacked observable propulsion and exhibited “erratic movement” had a mean score of about **61**, compared with an overall average near **45**. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span><span class="citation-popover-snippet">October 31, 2024</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VmVf2Axe6as" title="UAP Data Analysis On 80,000 Sightings! | Don Tadaya" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VmVf2Axe6as" target="_blank" rel="noopener noreferrer">UAP Data Analysis On 80,000 Sightings! | Don Tadaya</a></p><p class="youtube-embed-meta">Channel: Tim Ventura &middot; Views: 9.1K &middot; Uploaded: May 2023 &middot; Length: 54 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VmVf2Axe6as" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VmVf2Axe6as">Open on YouTube</a></p></div></div></div>
 
 ### How the Algorithm Is Positioned
 
-According to Enigma’s published notes, the model is considered “a work in progress” and is **regularly refined**. The company emphasises that it continues to integrate additional factors as they learn more about what kinds of reports are genuinely interesting or unusual. This iterative approach reflects both the experimental nature of the scoring system and the broader challenge in the UAP domain of separating mundane phenomena from truly unexplained events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs | Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs | Report a UFO sighting25K Sightings &amp; Counting | Enigma Labs</span><span class="citation-popover-snippet">October 31, 2024</span></span></span>
-
+According to Enigma’s published notes, the model is considered “a work in progress” and is **regularly refined**. The company emphasises that it continues to integrate additional factors as they learn more about what kinds of reports are genuinely interesting or unusual. This iterative approach reflects both the experimental nature of the scoring system and the broader challenge in the UAP domain of separating mundane phenomena from truly unexplained events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span><span class="citation-popover-snippet">October 31, 2024</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/K2sd6OD2vnc" title="Top 3 Enigma UFO Sightings of 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=K2sd6OD2vnc" target="_blank" rel="noopener noreferrer">Top 3 Enigma UFO Sightings of 2024</a></p><p class="youtube-embed-meta">Channel: Enigma Labs &middot; Views: 538 &middot; Uploaded: March 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=K2sd6OD2vnc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=K2sd6OD2vnc">Open on YouTube</a></p></div></div></div>
 
@@ -292,32 +289,29 @@ According to Enigma’s published notes, the model is considered “a work in pr
 
 While Enigma does not publicly disclose the full workings of its proprietary model, it has outlined several **observable inputs and correlates** that influence scoring outcomes:
 
-* **Absence of identifiable propulsion** — Sightings where witnesses report no visible wings, rotors, exhaust, or other propulsion systems tend to be ranked higher on anomalousness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs | Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs | Report a UFO sighting25K Sightings &amp; Counting | Enigma Labs</span><span class="citation-popover-snippet">October 31, 2024</span></span></span>
-* **Erratic or unusual flight patterns** — Reports of abrupt changes in direction, instantaneous acceleration, or movements that defy conventional aircraft behaviour are associated with higher scores. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs | Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs | Report a UFO sighting25K Sightings &amp; Counting | Enigma Labs</span><span class="citation-popover-snippet">October 31, 2024</span></span></span>
-* **Witness detail and media quality** — Although not spelled out in full, Enigma’s earlier conceptual descriptions suggest that the depth of eyewitness description, presence of media (photos or video), and additional metadata such as geolocation and time may contribute to the algorithm’s assessment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs | Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs | Report a UFO sighting25K Sightings &amp; Counting | Enigma Labs</span><span class="citation-popover-snippet">October 31, 2024</span></span></span>
-* **Confidence and consistency across report fields** — The model blends indicators of **certainty around the event** (such as clarity, supporting metadata, and consistency in self‑reported details) with anomalous motion or behaviour scores into a composite score. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs | Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs | Report a UFO sighting25K Sightings &amp; Counting | Enigma Labs</span><span class="citation-popover-snippet">October 31, 2024</span></span></span>
+* **Absence of identifiable propulsion** — Sightings where witnesses report no visible wings, rotors, exhaust, or other propulsion systems tend to be ranked higher on anomalousness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span><span class="citation-popover-snippet">October 31, 2024</span></span></span>
+* **Erratic or unusual flight patterns** — Reports of abrupt changes in direction, instantaneous acceleration, or movements that defy conventional aircraft behaviour are associated with higher scores. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span><span class="citation-popover-snippet">October 31, 2024</span></span></span>
+* **Witness detail and media quality** — Although not spelled out in full, Enigma’s earlier conceptual descriptions suggest that the depth of eyewitness description, presence of media (photos or video), and additional metadata such as geolocation and time may contribute to the algorithm’s assessment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span><span class="citation-popover-snippet">October 31, 2024</span></span></span>
+* **Confidence and consistency across report fields** — The model blends indicators of **certainty around the event** (such as clarity, supporting metadata, and consistency in self‑reported details) with anomalous motion or behaviour scores into a composite score. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span><span class="citation-popover-snippet">October 31, 2024</span></span></span>
 
-Enigma’s early documentation also indicated that its broader analytics engine layers user submissions with background data on known confounding variables — planes, satellites, weather phenomena, and more — which in future releases are intended to better contextualise the score by adjusting for known objects and behaviours. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs | Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs | Report a UFO sighting25K Sightings &amp; Counting | Enigma Labs</span><span class="citation-popover-snippet">October 31, 2024</span></span></span>
-
+Enigma’s early documentation also indicated that its broader analytics engine layers user submissions with background data on known confounding variables — planes, satellites, weather phenomena, and more — which in future releases are intended to better contextualise the score by adjusting for known objects and behaviours. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span><span class="citation-popover-snippet">October 31, 2024</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_ai_scoring_f41a79-Illustration-2-dark.svg" | relative_url }}" alt="AI Scoring illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_ai_scoring_f41a79-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_ai_scoring_f41a79-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Limitations and Transparency Concerns
 
-Because the scoring algorithm is **proprietary and opaque**, it has attracted both user curiosity and scepticism. The company openly acknowledges that scoring continues to evolve and that the methodology is refined as new data arrives. However, the lack of public specification about how individual factors are weighted means external analysts cannot independently validate how accurately the score reflects “anomalousness” or [reliability]({{ 'reliability/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs | Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs | Report a UFO sighting25K Sightings &amp; Counting | Enigma Labs</span><span class="citation-popover-snippet">October 31, 2024</span></span></span>
+Because the scoring algorithm is **proprietary and opaque**, it has attracted both user curiosity and scepticism. The company openly acknowledges that scoring continues to evolve and that the methodology is refined as new data arrives. However, the lack of public specification about how individual factors are weighted means external analysts cannot independently validate how accurately the score reflects “anomalousness” or [reliability]({{ 'reliability/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span><span class="citation-popover-snippet">October 31, 2024</span></span></span>
 
-Some users and reviewers have noted this **lack of transparency** as a point of concern, particularly when trying to interpret why certain reports receive relatively high scores compared with others that, to a lay observer, might seem more substantial. One review specifically mentioned frustration with the app’s **rating system and its unexplained scoring**, suggesting that “many obvious low‑quality posts seem to be highly rated.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://justuseapp.com/en/app/1548371173/enigma-ufo-sightings/reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justuseapp.com">[JustUseApp]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justuseapp.com</span><span class="citation-popover-snippet">JustUseAppEnigma Reviews (2026) | Check if app is safe or legitJanuary 27, 2026...</span><span class="citation-popover-meta">Published: January 27, 2026</span></span></span>
+Some users and reviewers have noted this **lack of transparency** as a point of concern, particularly when trying to interpret why certain reports receive relatively high scores compared with others that, to a lay observer, might seem more substantial. One review specifically mentioned frustration with the app’s **rating system and its unexplained scoring**, suggesting that “many obvious low‑quality posts seem to be highly rated.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://justuseapp.com/en/app/1548371173/enigma-ufo-sightings/reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justuseapp.com">[JustUseApp]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justuseapp.com</span><span class="citation-popover-snippet">Enigma Reviews (2026) &#124; Check if app is safe or legitJanuary 27, 2026...</span><span class="citation-popover-meta">Published: January 27, 2026</span></span></span>
 
-Moreover, the score is not a substitute for **independent verification**. Enigma’s own analyses make clear that self‑reported data forms the basis of the scoring process, and the platform does not independently verify submitted sightings before assigning scores. This means that the algorithm functions primarily as a **computational filter** rather than as an objective measure of scientific validity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs | Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs | Report a UFO sighting25K Sightings &amp; Counting | Enigma Labs</span><span class="citation-popover-snippet">October 31, 2024</span></span></span>
-
+Moreover, the score is not a substitute for **independent verification**. Enigma’s own analyses make clear that self‑reported data forms the basis of the scoring process, and the platform does not independently verify submitted sightings before assigning scores. This means that the algorithm functions primarily as a **computational filter** rather than as an objective measure of scientific validity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span><span class="citation-popover-snippet">October 31, 2024</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Tz7_ioGanmw" title="Enigma UFO app identifies aircraft, satellites, and celestial objects all at once and its free" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Tz7_ioGanmw" target="_blank" rel="noopener noreferrer">Enigma UFO app identifies aircraft, satellites, and celestial objects all at once and its free</a></p><p class="youtube-embed-meta">Channel: OpenMindsTV &middot; Views: 6.2K &middot; Uploaded: April 2024 &middot; Length: 10 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Tz7_ioGanmw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Tz7_ioGanmw">Open on YouTube</a></p></div></div></div>
 
 ## Balancing Utility and Credibility
 
-Despite these limitations, the AI scoring mechanism plays a crucial role within Enigma’s reporting ecosystem. As the volume of submissions continues to grow — exceeding tens of thousands of reports globally — the scoring system provides a scalable way to highlight potentially interesting cases without relying on purely manual moderation. In doing so, it reflects broader trends in UFO/UAP catalogues where data science tools are increasingly used to **manage noise, prioritise signals, and structure vast crowdsourced datasets**. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs | Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs | Report a UFO sighting25K Sightings &amp; Counting | Enigma Labs</span><span class="citation-popover-snippet">October 31, 2024</span></span></span>
+Despite these limitations, the AI scoring mechanism plays a crucial role within Enigma’s reporting ecosystem. As the volume of submissions continues to grow — exceeding tens of thousands of reports globally — the scoring system provides a scalable way to highlight potentially interesting cases without relying on purely manual moderation. In doing so, it reflects broader trends in UFO/UAP catalogues where data science tools are increasingly used to **manage noise, prioritise signals, and structure vast crowdsourced datasets**. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span><span class="citation-popover-snippet">October 31, 2024</span></span></span>
 
-However, for researchers and serious students of UAP phenomena, the score should be interpreted as an **internal analytic signal**, not definitive evidence of an event’s nature. Its value lies largely in **triaging and pattern recognition** within a large dataset rather than passing judgment on which sightings are genuinely unexplained by established science. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs | Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs | Report a UFO sighting25K Sightings &amp; Counting | Enigma Labs</span><span class="citation-popover-snippet">October 31, 2024</span></span></span>
-
+However, for researchers and serious students of UAP phenomena, the score should be interpreted as an **internal analytic signal**, not definitive evidence of an event’s nature. Its value lies largely in **triaging and pattern recognition** within a large dataset rather than passing judgment on which sightings are genuinely unexplained by established science. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span><span class="citation-popover-snippet">October 31, 2024</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_ai_scoring_f41a79-Illustration-3-dark.svg" | relative_url }}" alt="AI Scoring illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_ai_scoring_f41a79-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_ai_scoring_f41a79-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -718,130 +712,130 @@ However, for researchers and serious students of UAP phenomena, the score should
 1. <a id="endnote-1"></a>
    Source: enigmalabs.io  
    Title: Enigma Labs | Report a UFO sighting25K Sightings & Counting | Enigma Labs  
-   Link: [https://www.enigmalabs.io/blog/25k-sightings](https://www.enigmalabs.io/blog/25k-sightings)  
+   Link: <a href="https://www.enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.enigmalabs.io/blog/25k-sightings</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 31, 2024...</p></details>
    Published: October 31, 2024  
 
 2. <a id="endnote-2"></a>
    Source: enigmalabs.io  
    Title: Enigma Labs | Report a UFO sighting Celebrating 50,000+ Sightings | Enigma Labs  
-   Link: [https://enigmalabs.io/collection/d5adf125-7bd3-436a-9014-c99290398363](https://enigmalabs.io/collection/d5adf125-7bd3-436a-9014-c99290398363)  
+   Link: <a href="https://enigmalabs.io/collection/d5adf125-7bd3-436a-9014-c99290398363" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/collection/d5adf125-7bd3-436a-9014-c99290398363</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Celebrating 50,000+ Sightings | Enigma LabsEnigma Collection Celebrating 50,000+ Sightings Image: Copy to clipboard Analyzing sighting tr...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: enigmalabs.io  
    Title: Enigma Labs | Report a UFO sighting Announcing Enigma Labs | Enigma Labs  
-   Link: [https://enigmalabs.io/blog/announcing-enigma-labs](https://enigmalabs.io/blog/announcing-enigma-labs)  
+   Link: <a href="https://enigmalabs.io/blog/announcing-enigma-labs" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/blog/announcing-enigma-labs</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | Report a UFO sightingAnnouncing Enigma Labs | Enigma LabsJune 17, 2022...</p></details>
    Published: June 17, 2022  
 
 5. <a id="endnote-5"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/blog/finding-signal-in-a-noisy-world](https://enigmalabs.io/blog/finding-signal-in-a-noisy-world)  
+   Link: <a href="https://enigmalabs.io/blog/finding-signal-in-a-noisy-world" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/blog/finding-signal-in-a-noisy-world</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | Report a UFO sightingFinding Signal in a Noisy World | Enigma LabsJuly 19, 2023...</p></details>
    Published: July 19, 2023  
 
 6. <a id="endnote-6"></a>
    Source: justuseapp.com  
-   Link: [https://justuseapp.com/en/app/1548371173/enigma-ufo-sightings/reviews](https://justuseapp.com/en/app/1548371173/enigma-ufo-sightings/reviews)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>JustUseAppEnigma Reviews (2026) | Check if app is safe or legitJanuary 27, 2026...</p></details>
+   Link: <a href="https://justuseapp.com/en/app/1548371173/enigma-ufo-sightings/reviews" target="_blank" rel="noopener noreferrer nofollow">https://justuseapp.com/en/app/1548371173/enigma-ufo-sightings/reviews</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Reviews (2026) | Check if app is safe or legitJanuary 27, 2026...</p></details>
    Published: January 27, 2026  
 
 7. <a id="endnote-7"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/blog/12000-uap-sightings-and-counting](https://enigmalabs.io/blog/12000-uap-sightings-and-counting)  
+   Link: <a href="https://enigmalabs.io/blog/12000-uap-sightings-and-counting" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/blog/12000-uap-sightings-and-counting</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 14, 2023...</p></details>
    Published: December 14, 2023  
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=X32NPzP6Fvs](http://www.youtube.com/watch?v=X32NPzP6Fvs)  
+   Link: <a href="http://www.youtube.com/watch?v=X32NPzP6Fvs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=X32NPzP6Fvs</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs AI scoring UFO Enigma UFO app identifies aircraft, satellites, and celestial objects all at once and its free OpenMindsTV...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: toolmage.com  
    Title: It provides a platform for users to report, track, and analyze sightin  
-   Link: [https://www.toolmage.com/en/tool/enigma-labs/](https://www.toolmage.com/en/tool/enigma-labs/)  
+   Link: <a href="https://www.toolmage.com/en/tool/enigma-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.toolmage.com/en/tool/enigma-labs/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | The #1 UAP/UFO Sighting &amp; Analysis Platform - ToolMageAugust 3, 2025 — ENIGMA LABS Visit Website Enigma Labs is the world&#x27;s...</p></details>
    Published: August 3, 2025  
 
 10. <a id="endnote-10"></a>
    Source: enigmalabs.io  
-   Link: [https://www.enigmalabs.io/blog/product-launch-enigma-alerts-enable-real-time-sighting-notifications](https://www.enigmalabs.io/blog/product-launch-enigma-alerts-enable-real-time-sighting-notifications)  
+   Link: <a href="https://www.enigmalabs.io/blog/product-launch-enigma-alerts-enable-real-time-sighting-notifications" target="_blank" rel="noopener noreferrer nofollow">https://www.enigmalabs.io/blog/product-launch-enigma-alerts-enable-real-time-sighting-notifications</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>December 9, 2024 — Image NEVER MISS A UFO SIGHTING–ENIGMA ALERTS ENABLE REAL-TIME SIGHTING NOTIFICATIONS Dec 9, 2024 [Button: Share Artic...</p></details>
    Published: December 9, 2024  
 
 11. <a id="endnote-11"></a>
    Source: enigmalabs.io  
    Title: the benefits of crowdsourcing ufo data  
-   Link: [https://www.enigmalabs.io/blog/the-benefits-of-crowdsourcing-ufo-data](https://www.enigmalabs.io/blog/the-benefits-of-crowdsourcing-ufo-data)  
+   Link: <a href="https://www.enigmalabs.io/blog/the-benefits-of-crowdsourcing-ufo-data" target="_blank" rel="noopener noreferrer nofollow">https://www.enigmalabs.io/blog/the-benefits-of-crowdsourcing-ufo-data</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma LabsAugust 2, 2023 — THE BENEFITS OF CROWDSOURCING UFO DATA Aug 2, 2023 [Button: Share Article] The Benefits of Crowdsourcing UFO...</p></details>
    Published: August 2, 2023  
 
 13. <a id="endnote-13"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/about](https://enigmalabs.io/about)  
+   Link: <a href="https://enigmalabs.io/about" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/about</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Only through thoughtful, open-minded study of unidentified phenomena can we get answers. We are focused...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: enigmalabs.io  
-   Link: [https://www.enigmalabs.io/faq](https://www.enigmalabs.io/faq)  
+   Link: <a href="https://www.enigmalabs.io/faq" target="_blank" rel="noopener noreferrer nofollow">https://www.enigmalabs.io/faq</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>+ What does “UAP&quot; stand for? + Why did the terminology change from UFO to UAP? + Why is the United States Congress interested in UAP? +...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: submit.enigmalabs.io  
-   Link: [https://submit.enigmalabs.io/](https://submit.enigmalabs.io/)  
+   Link: <a href="https://submit.enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow">https://submit.enigmalabs.io/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>By reporting your sighting, you’re helping thousands of scientists, researchers, and witnesses like you crowds...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: moge.ai  
-   Link: [https://moge.ai/en/product/enigma-labs/](https://moge.ai/en/product/enigma-labs/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MOGEENIGMA LABS A comprehensive platform for reporting, analyzing, and understanding Unidentified Anomalous Phenomena (UAP) sightings wor...</p></details>
+   Link: <a href="https://moge.ai/en/product/enigma-labs/" target="_blank" rel="noopener noreferrer nofollow">https://moge.ai/en/product/enigma-labs/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ENIGMA LABS A comprehensive platform for reporting, analyzing, and understanding Unidentified Anomalous Phenomena (UAP) sightings wor...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: appsupports.co  
-   Link: [https://appsupports.co/1548371173/enigma-ufo-sightings-alerts/negative-reviews](https://appsupports.co/1548371173/enigma-ufo-sightings-alerts/negative-reviews)  
+   Link: <a href="https://appsupports.co/1548371173/enigma-ufo-sightings-alerts/negative-reviews" target="_blank" rel="noopener noreferrer nofollow">https://appsupports.co/1548371173/enigma-ufo-sightings-alerts/negative-reviews</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma: What’s that in the Sky Negative Reviews &amp; CommentsENIGMA: WHAT’S THAT IN THE SKY NEGATIVE REVIEWS Image: Enigma: What’s that in t...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: newyorker.com  
    Title: The Truth Is Out There, on an App | The New Yorker  
-   Link: [https://www.newyorker.com/magazine/2024/01/29/the-truth-is-out-there-on-an-app](https://www.newyorker.com/magazine/2024/01/29/the-truth-is-out-there-on-an-app)  
+   Link: <a href="https://www.newyorker.com/magazine/2024/01/29/the-truth-is-out-there-on-an-app" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2024/01/29/the-truth-is-out-there-on-an-app</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>sightings. The founder of Enigma Labs explains how they’re already sorting and rating them according to plau...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: projectprofound.org  
    Title: WHAT IS THE CREDIBILITY SCO  
-   Link: [https://projectprofound.org/uap/methodology/credibility](https://projectprofound.org/uap/methodology/credibility)  
+   Link: <a href="https://projectprofound.org/uap/methodology/credibility" target="_blank" rel="noopener noreferrer nofollow">https://projectprofound.org/uap/methodology/credibility</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Credibility Score Methodology | UFO/UAP Research | Project ProfoundCredibility Scoring CREDIBILITY SCORE METHODOLOGY Understanding the &quot;C...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=Tz7_ioGanmw](http://www.youtube.com/watch?v=Tz7_ioGanmw)  
+   Link: <a href="http://www.youtube.com/watch?v=Tz7_ioGanmw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Tz7_ioGanmw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Benefits of the Enigma App | Talking Strange...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: vice.com  
    Title: Saw a UFO?  
-   Link: [https://www.vice.com/en/article/saw-a-ufo-you-can-report-it-on-this-app/](https://www.vice.com/en/article/saw-a-ufo-you-can-report-it-on-this-app/)  
+   Link: <a href="https://www.vice.com/en/article/saw-a-ufo-you-can-report-it-on-this-app/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/saw-a-ufo-you-can-report-it-on-this-app/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>You Can Report It on This AppJanuary 31, 2023 — SAW A UFO? YOU CAN REPORT IT ON THIS APP By Matthew Gault January 31, 2023, 11:00am Share...</p></details>
    Published: January 31, 2023  
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: The Benefits of the Enigma App | Talking Strange  
-   Link: [http://www.youtube.com/watch?v=PHQv0SPwg24](http://www.youtube.com/watch?v=PHQv0SPwg24)  
+   Link: <a href="http://www.youtube.com/watch?v=PHQv0SPwg24" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=PHQv0SPwg24</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Data Analysis On 80,000 Sightings! | Don Tadaya...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=K2sd6OD2vnc](http://www.youtube.com/watch?v=K2sd6OD2vnc)  
+   Link: <a href="http://www.youtube.com/watch?v=K2sd6OD2vnc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=K2sd6OD2vnc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Enigma UFO Sightings of 2024 - Part 1...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: UAP Data Analysis On 80,000 Sightings! | Don Tadaya  
-   Link: [http://www.youtube.com/watch?v=VmVf2Axe6as](http://www.youtube.com/watch?v=VmVf2Axe6as)  
+   Link: <a href="http://www.youtube.com/watch?v=VmVf2Axe6as" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=VmVf2Axe6as</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 3 Enigma UFO Sightings of 2024...</p></details>

@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /enigma/
 nav_short_title: NJ Drone Scare
 title: How Enigma Handled the 2024 New Jersey Drone Surge
-title_full: How Enigma Handled the 2024 New Jersey Drone Surge | Enigma
+title_full: How Enigma Handled the 2024 New Jersey Drone Surge
 display_title_short: NJ Drone Scare
 display_title: NJ Drone Scare
 heading_title: How Enigma Handled the 2024 New Jersey Drone Surge
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 19:20:17'
-parent_title: Can a UFO App Fix Old Data Problems? | UFO Archives
+parent_title: Can a UFO App Fix Old Data Problems?
 parent_permalink: /enigma/
 parent_nav_short_title: Enigma
 parent_heading_title: Can a UFO App Fix Old Data Problems?
@@ -276,41 +276,36 @@ image: /assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_en
 
 In late 2024, what became widely known as the **New Jersey drone scare** emerged as one of the most intense waves of public reports of unidentified aerial objects in the United States. Beginning in mid‑November and peaking through December and early January, thousands of witnesses reported seeing “drones” over New Jersey and neighbouring states, prompting federal investigations by the FBI, Federal Aviation Administration (FAA), Department of Homeland Security (DHS) and other agencies. By many accounts, the episode echoed classic mass sighting events, with citizens sharing imagery and video at unprecedented scale on social platforms and reporting platforms alike. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/2024_United_States_drone_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2024 United States drone sightings</span><span class="citation-popover-snippet">2024 United States drone sightings</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_nj_drone_scar_3e2d17-Illustration-1-dark.svg" | relative_url }}" alt="NJ Drone Scare illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_nj_drone_scar_3e2d17-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_nj_drone_scar_3e2d17-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within this social reporting ecosystem, **[Enigma]({{ 'enigma/' | relative_url }}) Labs’ mobile reporting app** played a distinctive role. As a phone‑first platform that encourages real‑time sighting submissions with associated metadata, Enigma became one of the primary databases capturing public sightings during the drone surge. This page examines how Enigma responded to that event: the **spike in submissions**, how the platform’s **moderation handled video content and hoax risks**, and how community discussion and information control played out on its platform.
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_nj_drone_scar_3e2d17-Illustration-3-dark.svg" | relative_url }}" alt="NJ Drone Scare illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_nj_drone_scar_3e2d17-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_nj_drone_scar_3e2d17-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Spike in Sighting Submissions
 
-As the New Jersey drone reports surged in the wider public, Enigma’s platform experienced a significant uptick in activity. According to Enigma’s own published blog and data references, the late‑2024 drone frenzy generated **hundreds of submissions from citizens reporting unidentified aerial objects** originating in New Jersey and the broader northeastern United States. The company’s statistics indicated that it received “a flood of 800+ reports” over the course of the aerial activity, with many entries describing objects perceived as large, hovering or moving in unusual formations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/hunting-njs-mysterious-drones-in-the-field-with-rf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">hunting njs mysterious drones in the field with rf</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingHunting NJ&#x27;s mysterious drones in the field with Enigma&#x27;s...13 Feb 2025 — Hunting NJ&#x27;s mysterious dro...</span></span></span> | Report a UFO sighting
+As the New Jersey drone reports surged in the wider public, Enigma’s platform experienced a significant uptick in activity. According to Enigma’s own published blog and data references, the late‑2024 drone frenzy generated **hundreds of submissions from citizens reporting unidentified aerial objects** originating in New Jersey and the broader northeastern United States. The company’s statistics indicated that it received “a flood of 800+ reports” over the course of the aerial activity, with many entries describing objects perceived as large, hovering or moving in unusual formations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/hunting-njs-mysterious-drones-in-the-field-with-rf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">hunting njs mysterious drones in the field with rf</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingHunting NJ&#x27;s mysterious drones in the field with Enigma&#x27;s...13 Feb 2025 — Hunting NJ&#x27;s mysterious dro...</span></span></span> | Report a UFO sighting
 
-Enigma subsequently incorporated this wave of reports into its **interactive sightings map and collection**, labelling it the “Unidentified ‘Drones’ Swarm New Jersey Skies” series. The collection detailed a timeline of sightings from mid‑November 2024 through early 2025, including numerous individual submission entries with timestamps, locations and witness media. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/hunting-njs-mysterious-drones-in-the-field-with-rf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">hunting njs mysterious drones in the field with rf</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingHunting NJ&#x27;s mysterious drones in the field with Enigma&#x27;s...13 Feb 2025 — Hunting NJ&#x27;s mysterious dro...</span></span></span> | Report a UFO sighting
+Enigma subsequently incorporated this wave of reports into its **interactive sightings map and collection**, labelling it the “Unidentified ‘Drones’ Swarm New Jersey Skies” series. The collection detailed a timeline of sightings from mid‑November 2024 through early 2025, including numerous individual submission entries with timestamps, locations and witness media. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/hunting-njs-mysterious-drones-in-the-field-with-rf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">hunting njs mysterious drones in the field with rf</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingHunting NJ&#x27;s mysterious drones in the field with Enigma&#x27;s...13 Feb 2025 — Hunting NJ&#x27;s mysterious dro...</span></span></span> | Report a UFO sighting
 
 User engagement reportedly rose sharply during this period: third‑party reporting suggested that the app saw increased downloads and usage, with one source indicating a **74 % surge in activity** connected to the drone mystery, as users uploaded videos and discussed aerial sightings in real‑time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/12/18/business/enigmas-ufo-spotting-app-soars-by-74-in-wake-of-drone-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">enigmas ufo spotting app soars by 74 in wake of drone mystery</span><span class="citation-popover-snippet">New York PostEnigma&#x27;s &#x27;UFO&#x27;-spotting app soars in wake of drone mystery18 Dec 2024 — Enigma has become a haven for almost a million peopl...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZqSR61LK-z4" title="Mysterious wave of New Jersey drone sightings prompts concern" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZqSR61LK-z4" target="_blank" rel="noopener noreferrer">Mysterious wave of New Jersey drone sightings prompts concern</a></p><p class="youtube-embed-meta">Channel: CBS Evening News &middot; Views: 458.0K &middot; Uploaded: December 2024 &middot; Length: 2 minutes 15 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZqSR61LK-z4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZqSR61LK-z4">Open on YouTube</a></p></div></div></div>
 
 ## Staff Moderation of Videos and Hoax Prevention
 
-With the influx of videos and eyewitness media during the drone wave, Enigma faced the familiar challenge of balancing open community reporting with the need to filter out **hoaxes and misleading content**. User‑generated platforms like Enigma are particularly vulnerable during high‑visibility events, as viral clips and exaggerated claims tend to proliferate across social networks; for example, widely shared clips claiming weapons fire at a drone in New Jersey were later debunked as digitally altered content. <span class="citation-chip-wrap"><a class="citation-chip" href="https://leadstories.com/hoax-alert/2024/12/fact-check-video-does-not-show-weapon-fired-at-nj-drone-fake-gunfire-added-to-original-clip.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leadstories.com">[Lead Stories]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leadstories.com</span><span class="citation-popover-snippet">Lead StoriesFact Check: Video Does NOT Show Weapon Fired At NJ Drone -- FAKE Gunfire Added To Original Clip | Lead StoriesDecember 20, 2024...</span><span class="citation-popover-meta">Published: December 20, 2024</span></span></span>
+With the influx of videos and eyewitness media during the drone wave, Enigma faced the familiar challenge of balancing open community reporting with the need to filter out **hoaxes and misleading content**. User‑generated platforms like Enigma are particularly vulnerable during high‑visibility events, as viral clips and exaggerated claims tend to proliferate across social networks; for example, widely shared clips claiming weapons fire at a drone in New Jersey were later debunked as digitally altered content. <span class="citation-chip-wrap"><a class="citation-chip" href="https://leadstories.com/hoax-alert/2024/12/fact-check-video-does-not-show-weapon-fired-at-nj-drone-fake-gunfire-added-to-original-clip.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leadstories.com">[Lead Stories]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leadstories.com</span><span class="citation-popover-snippet">Lead StoriesFact Check: Video Does NOT Show Weapon Fired At NJ Drone -- FAKE Gunfire Added To Original Clip &#124; Lead StoriesDecember 20, 2024...</span><span class="citation-popover-meta">Published: December 20, 2024</span></span></span>
 
 Although Enigma does not publish a detailed public moderation log, its product messaging emphasises **community and staff review** to help manage misleading submissions. The platform’s design encourages users to upload videos and metadata through its native camera and augmented‑reality “Identify Lens” tool — features intended to increase context quality — while also allowing users to browse, upvote and comment on sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apps.apple.com/de/app/enigma-whats-that-in-the-sky/id1548371173" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apps.apple.com">[App Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apps.apple.com</span><span class="citation-popover-snippet">App StoreEnigma: What&#x27;s that in the Sky - App Store - AppleEnigma is the #1 destination for UFO sighting alerts and aerial intelligence...</span></span></span>
 
-In blog posts about the New Jersey drone reports, Enigma’s team highlighted the importance of distinguishing between ordinary objects and genuinely anomalous reports, noting patterns in the data such as the **large size of some alleged objects**, their prolonged hovering and group behaviours. The implication in these analyses is that staff and automated systems were engaged in **sorting, categorising and contextualising submissions** rather than simply publishing everything indiscriminately. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/hunting-njs-mysterious-drones-in-the-field-with-rf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">hunting njs mysterious drones in the field with rf</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingHunting NJ&#x27;s mysterious drones in the field with Enigma&#x27;s...13 Feb 2025 — Hunting NJ&#x27;s mysterious dro...</span></span></span> | Report a UFO sighting
+In blog posts about the New Jersey drone reports, Enigma’s team highlighted the importance of distinguishing between ordinary objects and genuinely anomalous reports, noting patterns in the data such as the **large size of some alleged objects**, their prolonged hovering and group behaviours. The implication in these analyses is that staff and automated systems were engaged in **sorting, categorising and contextualising submissions** rather than simply publishing everything indiscriminately. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/hunting-njs-mysterious-drones-in-the-field-with-rf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">hunting njs mysterious drones in the field with rf</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingHunting NJ&#x27;s mysterious drones in the field with Enigma&#x27;s...13 Feb 2025 — Hunting NJ&#x27;s mysterious dro...</span></span></span> | Report a UFO sighting
 
-During the peak period, critics in public forums also remarked on moderation practices, noting that video streaming and content display were sometimes constrained or removed when deemed low‑value, repetitive or likely misidentified (for example, mundane aircraft misreported as drones). These community comments corroborate that moderation was prominent in shaping what media remained visible on the platform. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/NJDrones/comments/1j0do2d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">I posted my NJ ‘drone’/UAP sighting on enigma labs website</span><span class="citation-popover-snippet">RedditI posted my NJ ‘drone’/UAP sighting on enigma labs websiteFebruary 28, 2025...</span><span class="citation-popover-meta">Published: February 28, 2025</span></span></span>
-
+During the peak period, critics in public forums also remarked on moderation practices, noting that video streaming and content display were sometimes constrained or removed when deemed low‑value, repetitive or likely misidentified (for example, mundane aircraft misreported as drones). These community comments corroborate that moderation was prominent in shaping what media remained visible on the platform. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/NJDrones/comments/1j0do2d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">I posted my NJ ‘drone’/UAP sighting on enigma labs website</span><span class="citation-popover-snippet">I posted my NJ ‘drone’/UAP sighting on enigma labs websiteFebruary 28, 2025...</span><span class="citation-popover-meta">Published: February 28, 2025</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CRVDUEzWkF4" title="Large mystery drones flying over neighborhoods in New York and New Jersey" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CRVDUEzWkF4" target="_blank" rel="noopener noreferrer">Large mystery drones flying over neighborhoods in New York and New Jersey</a></p><p class="youtube-embed-meta">Channel: NBC News &middot; Views: 1.7M &middot; Uploaded: December 2024 &middot; Length: 1 minute 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CRVDUEzWkF4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CRVDUEzWkF4">Open on YouTube</a></p></div></div></div>
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_nj_drone_scar_3e2d17-Illustration-2-dark.svg" | relative_url }}" alt="NJ Drone Scare illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_nj_drone_scar_3e2d17-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_nj_drone_scar_3e2d17-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Community Discussion and Misinformation Control
 
-Beyond basic submission and moderation workflows, Enigma’s platform became a locus for **community dialogue and theory exchange** during the New Jersey drone surge. Users debated whether sightings were misidentified airplanes, hobbyist drones, military aircraft or something truly unexplained — discussions that mirrored the national discourse driven by news reports and federal statements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pbs.org/newshour/amp/nation/what-we-know-about-the-mysterious-drones-flying-over-new-jersey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">What we know about the mysterious drones flying over New Jersey | PBS News</span><span class="citation-popover-snippet">PBSWhat we know about the mysterious drones flying over New Jersey | PBS NewsDecember 12, 2024...</span><span class="citation-popover-meta">Published: December 12, 2024</span></span></span>
+Beyond basic submission and moderation workflows, Enigma’s platform became a locus for **community dialogue and theory exchange** during the New Jersey drone surge. Users debated whether sightings were misidentified airplanes, hobbyist drones, military aircraft or something truly unexplained — discussions that mirrored the national discourse driven by news reports and federal statements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pbs.org/newshour/amp/nation/what-we-know-about-the-mysterious-drones-flying-over-new-jersey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">What we know about the mysterious drones flying over New Jersey &#124; PBS News</span><span class="citation-popover-snippet">What we know about the mysterious drones flying over New Jersey &#124; PBS NewsDecember 12, 2024...</span><span class="citation-popover-meta">Published: December 12, 2024</span></span></span>
 
 Importantly, Enigma’s interfaces and alerts network allowed **real‑time notifications** of nearby or trending sightings, which helped users to contribute and compare observations. These tools were leveraged by active contributors to track patterns in reports and to visualise [clusters]({{ 'clusters/' | relative_url }}) of activity on maps tied to the ongoing event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apps.apple.com/de/app/enigma-whats-that-in-the-sky/id1548371173" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apps.apple.com">[App Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apps.apple.com</span><span class="citation-popover-snippet">App StoreEnigma: What&#x27;s that in the Sky - App Store - AppleEnigma is the #1 destination for UFO sighting alerts and aerial intelligence...</span></span></span>
 
@@ -318,11 +313,9 @@ At the same time, the platform’s community standards and moderation rules soug
 
 This dynamic — of a social reporting platform both aggregating thousands of public sightings and policing the quality of video and narrative content — illustrates how mobile reporting tools like Enigma are positioned at a nexus between **citizen data collection** and **informational noise control** in events marked by high public interest.
 
-In sum, **Enigma’s response during the 2024 New Jersey drone scare** combined increased **data capture and mapping**, structured **moderation of video and eyewitness content**, and active **community engagement mechanisms**. While the broader event itself was subject to federal investigation and mixed conclusions about the nature of the sightings, Enigma’s role as a mobile UFO and aerial phenomena reporting database allowed it to collect, structure and surface user‑generated evidence in real time — highlighting both the promise and challenges of crowdsourced reporting in mass sighting episodes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/hunting-njs-mysterious-drones-in-the-field-with-rf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">hunting njs mysterious drones in the field with rf</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingHunting NJ&#x27;s mysterious drones in the field with Enigma&#x27;s...13 Feb 2025 — Hunting NJ&#x27;s mysterious dro...</span></span></span> | Report a UFO sighting
-
+In sum, **Enigma’s response during the 2024 New Jersey drone scare** combined increased **data capture and mapping**, structured **moderation of video and eyewitness content**, and active **community engagement mechanisms**. While the broader event itself was subject to federal investigation and mixed conclusions about the nature of the sightings, Enigma’s role as a mobile UFO and aerial phenomena reporting database allowed it to collect, structure and surface user‑generated evidence in real time — highlighting both the promise and challenges of crowdsourced reporting in mass sighting episodes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/hunting-njs-mysterious-drones-in-the-field-with-rf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">hunting njs mysterious drones in the field with rf</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingHunting NJ&#x27;s mysterious drones in the field with Enigma&#x27;s...13 Feb 2025 — Hunting NJ&#x27;s mysterious dro...</span></span></span> | Report a UFO sighting
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZCS9BgTYQb4" title="What we know so far about mysterious drones over New Jersey" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZCS9BgTYQb4" target="_blank" rel="noopener noreferrer">What we know so far about mysterious drones over New Jersey</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 501.6K &middot; Uploaded: December 2024 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZCS9BgTYQb4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZCS9BgTYQb4">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -721,156 +714,156 @@ In sum, **Enigma’s response during the 2024 New Jersey drone scare** combined 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: 2024 United States drone sightings  
-   Link: [https://en.wikipedia.org/wiki/2024_United_States_drone_sightings](https://en.wikipedia.org/wiki/2024_United_States_drone_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/2024_United_States_drone_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2024_United_States_drone_sightings</a>  
 
 2. <a id="endnote-2"></a>
    Source: enigmalabs.io  
    Title: hunting njs mysterious drones in the field with rf  
-   Link: [https://enigmalabs.io/blog/hunting-njs-mysterious-drones-in-the-field-with-rf](https://enigmalabs.io/blog/hunting-njs-mysterious-drones-in-the-field-with-rf)  
+   Link: <a href="https://enigmalabs.io/blog/hunting-njs-mysterious-drones-in-the-field-with-rf" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/blog/hunting-njs-mysterious-drones-in-the-field-with-rf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | Report a UFO sightingHunting NJ&#x27;s mysterious drones in the field with Enigma&#x27;s...13 Feb 2025 — Hunting NJ&#x27;s mysterious dro...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/collection/f3d99c13-06df-445b-8d7e-cc1298014785](https://enigmalabs.io/collection/f3d99c13-06df-445b-8d7e-cc1298014785)  
+   Link: <a href="https://enigmalabs.io/collection/f3d99c13-06df-445b-8d7e-cc1298014785" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/collection/f3d99c13-06df-445b-8d7e-cc1298014785</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | Report a UFO sightingUnidentified “Drones” Swarm New Jersey SkiesFrom mid-November 2024 through January 2025, a wave of uni...</p></details>
    Published: November 2024  
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
    Title: I posted my NJ ‘drone’/UAP sighting on enigma labs website  
-   Link: [https://www.reddit.com/r/NJDrones/comments/1j0do2d](https://www.reddit.com/r/NJDrones/comments/1j0do2d)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditI posted my NJ ‘drone’/UAP sighting on enigma labs websiteFebruary 28, 2025...</p></details>
+   Link: <a href="https://www.reddit.com/r/NJDrones/comments/1j0do2d" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/NJDrones/comments/1j0do2d</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>I posted my NJ ‘drone’/UAP sighting on enigma labs websiteFebruary 28, 2025...</p></details>
    Published: February 28, 2025  
 
 5. <a id="endnote-5"></a>
    Source: pbs.org  
    Title: What we know about the mysterious drones flying over New Jersey | PBS News  
-   Link: [https://www.pbs.org/newshour/amp/nation/what-we-know-about-the-mysterious-drones-flying-over-new-jersey](https://www.pbs.org/newshour/amp/nation/what-we-know-about-the-mysterious-drones-flying-over-new-jersey)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PBSWhat we know about the mysterious drones flying over New Jersey | PBS NewsDecember 12, 2024...</p></details>
+   Link: <a href="https://www.pbs.org/newshour/amp/nation/what-we-know-about-the-mysterious-drones-flying-over-new-jersey" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/amp/nation/what-we-know-about-the-mysterious-drones-flying-over-new-jersey</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What we know about the mysterious drones flying over New Jersey | PBS NewsDecember 12, 2024...</p></details>
    Published: December 12, 2024  
 
 6. <a id="endnote-6"></a>
    Source: pbs.org  
    Title: fbi faa investigate mysterious drones in nj 1733250403  
-   Link: [https://www.pbs.org/video/fbi-faa-investigate-mysterious-drones-in-nj-1733250403/](https://www.pbs.org/video/fbi-faa-investigate-mysterious-drones-in-nj-1733250403/)  
+   Link: <a href="https://www.pbs.org/video/fbi-faa-investigate-mysterious-drones-in-nj-1733250403/" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/video/fbi-faa-investigate-mysterious-drones-in-nj-1733250403/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NJ Spotlight News | FBI, FAA investigate mysterious drones in NJ | Season 2024 | PBSDecember 3, 2024 — NJ Spotlight News FBI, FAA INVESTI...</p></details>
    Published: December 3, 2024  
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/1hqapjd/google_maps_full_live_data_base_of_all_drone/](https://www.reddit.com/r/ufo/comments/1hqapjd/google_maps_full_live_data_base_of_all_drone/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1hqapjd/google_maps_full_live_data_base_of_all_drone/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1hqapjd/google_maps_full_live_data_base_of_all_drone/</a>  
 
 8. <a id="endnote-8"></a>
    Source: nypost.com  
    Title: enigmas ufo spotting app soars by 74 in wake of drone mystery  
-   Link: [https://nypost.com/2024/12/18/business/enigmas-ufo-spotting-app-soars-by-74-in-wake-of-drone-mystery/](https://nypost.com/2024/12/18/business/enigmas-ufo-spotting-app-soars-by-74-in-wake-of-drone-mystery/)  
+   Link: <a href="https://nypost.com/2024/12/18/business/enigmas-ufo-spotting-app-soars-by-74-in-wake-of-drone-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/12/18/business/enigmas-ufo-spotting-app-soars-by-74-in-wake-of-drone-mystery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>New York PostEnigma&#x27;s &#x27;UFO&#x27;-spotting app soars in wake of drone mystery18 Dec 2024 — Enigma has become a haven for almost a million peopl...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: leadstories.com  
-   Link: [https://leadstories.com/hoax-alert/2024/12/fact-check-video-does-not-show-weapon-fired-at-nj-drone-fake-gunfire-added-to-original-clip.html](https://leadstories.com/hoax-alert/2024/12/fact-check-video-does-not-show-weapon-fired-at-nj-drone-fake-gunfire-added-to-original-clip.html)  
+   Link: <a href="https://leadstories.com/hoax-alert/2024/12/fact-check-video-does-not-show-weapon-fired-at-nj-drone-fake-gunfire-added-to-original-clip.html" target="_blank" rel="noopener noreferrer nofollow">https://leadstories.com/hoax-alert/2024/12/fact-check-video-does-not-show-weapon-fired-at-nj-drone-fake-gunfire-added-to-original-clip.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lead StoriesFact Check: Video Does NOT Show Weapon Fired At NJ Drone -- FAKE Gunfire Added To Original Clip | Lead StoriesDecember 20, 2024...</p></details>
    Published: December 20, 2024  
 
 10. <a id="endnote-10"></a>
    Source: apps.apple.com  
-   Link: [https://apps.apple.com/de/app/enigma-whats-that-in-the-sky/id1548371173](https://apps.apple.com/de/app/enigma-whats-that-in-the-sky/id1548371173)  
+   Link: <a href="https://apps.apple.com/de/app/enigma-whats-that-in-the-sky/id1548371173" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/de/app/enigma-whats-that-in-the-sky/id1548371173</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>App StoreEnigma: What&#x27;s that in the Sky - App Store - AppleEnigma is the #1 destination for UFO sighting alerts and aerial intelligence...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: news.sky.com  
    Title: The Department of Homeland Security believes they are avoiding de  
-   Link: [https://news.sky.com/video/mysterious-drones-seen-flying-over-new-jersey-13272260](https://news.sky.com/video/mysterious-drones-seen-flying-over-new-jersey-13272260)  
+   Link: <a href="https://news.sky.com/video/mysterious-drones-seen-flying-over-new-jersey-13272260" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/video/mysterious-drones-seen-flying-over-new-jersey-13272260</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>drones seen flying over New Jersey | US News | Sky NewsDecember 12, 2024 — MYSTERIOUS DRONES SEEN FLYING OVER NEW JERSEY Large mysterious...</p></details>
    Published: December 12, 2024  
 
 12. <a id="endnote-12"></a>
    Source: enigmalabs.io  
    Title: We do frequent calls with u  
-   Link: [https://enigmalabs.io/blog/enigma-product-map-audio-search](https://enigmalabs.io/blog/enigma-product-map-audio-search)  
+   Link: <a href="https://enigmalabs.io/blog/enigma-product-map-audio-search" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/blog/enigma-product-map-audio-search</a>  
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/journalsentinel/posts/enigma-labs-has-created-an-app-allowing-users-to-post-unidentified-aerial-phenom/878482007648607/](https://www.facebook.com/journalsentinel/posts/enigma-labs-has-created-an-app-allowing-users-to-post-unidentified-aerial-phenom/878482007648607/)  
+   Link: <a href="https://www.facebook.com/journalsentinel/posts/enigma-labs-has-created-an-app-allowing-users-to-post-unidentified-aerial-phenom/878482007648607/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/journalsentinel/posts/enigma-labs-has-created-an-app-allowing-users-to-post-unidentified-aerial-phenom/878482007648607/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ena sightings to eliminate the stigma of reporting UFO sightings...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/posts/enigma-labs-collects-videos-submitted-by-people-who-have-seen-ufos/873020898438262/](https://www.facebook.com/NewsNationNow/posts/enigma-labs-collects-videos-submitted-by-people-who-have-seen-ufos/873020898438262/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/enigma-labs-collects-videos-submitted-by-people-who-have-seen-ufos/873020898438262/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/enigma-labs-collects-videos-submitted-by-people-who-have-seen-ufos/873020898438262/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>a sightings to eliminate the stigma of reporting UFO sightings...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: enigmalabs.io  
    Title: the ongoing drone mystery our data and analysis  
-   Link: [https://enigmalabs.io/blog/the-ongoing-drone-mystery--our-data-and-analysis](https://enigmalabs.io/blog/the-ongoing-drone-mystery--our-data-and-analysis)  
+   Link: <a href="https://enigmalabs.io/blog/the-ongoing-drone-mystery--our-data-and-analysis" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/blog/the-ongoing-drone-mystery--our-data-and-analysis</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ongoing “Drone” Mystery — Our Data and Analysis13 Dec 2024 — Enigma Is Receiving a Flood of Eyewitness Reports of Unidentified Aerial...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/sighting/306466](https://enigmalabs.io/sighting/306466)  
+   Link: <a href="https://enigmalabs.io/sighting/306466" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/sighting/306466</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma #306466Enigma is the largest queryable, scored UAP sighting database in the world...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: techcrunch.com  
-   Link: [https://techcrunch.com/2024/12/11/pentagon-says-mystery-drones-over-new-jersey-are-not-us-military-not-likely-foreign/](https://techcrunch.com/2024/12/11/pentagon-says-mystery-drones-over-new-jersey-are-not-us-military-not-likely-foreign/)  
+   Link: <a href="https://techcrunch.com/2024/12/11/pentagon-says-mystery-drones-over-new-jersey-are-not-us-military-not-likely-foreign/" target="_blank" rel="noopener noreferrer nofollow">https://techcrunch.com/2024/12/11/pentagon-says-mystery-drones-over-new-jersey-are-not-us-military-not-likely-foreign/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon says mystery drones over New Jersey are &#x27;not US military,&#x27; not likely foreign | TechCrunchDecember 11, 2024 — ImageImage Credits...</p></details>
    Published: December 11, 2024  
 
 18. <a id="endnote-18"></a>
    Source: cbsnews.com  
-   Link: [https://www.cbsnews.com/news/drones-new-jersey-what-we-know/](https://www.cbsnews.com/news/drones-new-jersey-what-we-know/)  
+   Link: <a href="https://www.cbsnews.com/news/drones-new-jersey-what-we-know/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/drones-new-jersey-what-we-know/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsDecember 17, 2024 — WHAT DO WE KNOW ABOUT MYSTERY DRONES FLYING OVER NEW JERSEY, NEW YORK, PENNSYLVANIA AND OTHER EAST COAST STAT...</p></details>
    Published: December 17, 2024  
 
 19. <a id="endnote-19"></a>
    Source: ndtv.com  
-   Link: [https://www.ndtv.com/world-news/ufo-new-jersey-ufo-lost-control-us-drone-pilot-describes-encounter-with-new-jersey-ufo-7266436](https://www.ndtv.com/world-news/ufo-new-jersey-ufo-lost-control-us-drone-pilot-describes-encounter-with-new-jersey-ufo-7266436)  
+   Link: <a href="https://www.ndtv.com/world-news/ufo-new-jersey-ufo-lost-control-us-drone-pilot-describes-encounter-with-new-jersey-ufo-7266436" target="_blank" rel="noopener noreferrer nofollow">https://www.ndtv.com/world-news/ufo-new-jersey-ufo-lost-control-us-drone-pilot-describes-encounter-with-new-jersey-ufo-7266436</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO, New Jersey UFO: &quot;Lost Control&quot;: US Drone Pilot Describes Encounter With New Jersey UFODecember 17, 2024 — &quot;Lost Control&quot;: US Drone P...</p></details>
    Published: December 17, 2024  
 
 20. <a id="endnote-20"></a>
    Source: rollcall.com  
-   Link: [https://rollcall.com/2024/12/16/new-jersey-drones-biden-response/](https://rollcall.com/2024/12/16/new-jersey-drones-biden-response/)  
+   Link: <a href="https://rollcall.com/2024/12/16/new-jersey-drones-biden-response/" target="_blank" rel="noopener noreferrer nofollow">https://rollcall.com/2024/12/16/new-jersey-drones-biden-response/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>December 16, 2024 — WHITE HOUSE MYSTERY DRONES OVER NJ: BIDEN OFFICIALS SAY ‘NO EVIDENCE’ OF ILL INTENT DESPITE FEW ANSWERS &#x27;WE HAVE NOT...</p></details>
    Published: December 16, 2024  
 
 21. <a id="endnote-21"></a>
    Source: dronexl.co  
-   Link: [https://dronexl.co/2024/12/03/fbi-investigates-mysterious-car-sized-drones-new-jersey/](https://dronexl.co/2024/12/03/fbi-investigates-mysterious-car-sized-drones-new-jersey/)  
+   Link: <a href="https://dronexl.co/2024/12/03/fbi-investigates-mysterious-car-sized-drones-new-jersey/" target="_blank" rel="noopener noreferrer nofollow">https://dronexl.co/2024/12/03/fbi-investigates-mysterious-car-sized-drones-new-jersey/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI Investigates Mysterious &#x27;Car-Sized&#x27; Drones Flying In Formation Over New JerseyDecember 3, 2024 — FBI INVESTIGATES MYSTERIOUS ‘CAR-SIZ...</p></details>
    Published: December 3, 2024  
 
 22. <a id="endnote-22"></a>
    Source: ndtv.com  
-   Link: [https://www.ndtv.com/world-news/mysterious-car-sized-drones-spotted-flying-over-new-jersey-fbi-begins-probe-7208816](https://www.ndtv.com/world-news/mysterious-car-sized-drones-spotted-flying-over-new-jersey-fbi-begins-probe-7208816)  
+   Link: <a href="https://www.ndtv.com/world-news/mysterious-car-sized-drones-spotted-flying-over-new-jersey-fbi-begins-probe-7208816" target="_blank" rel="noopener noreferrer nofollow">https://www.ndtv.com/world-news/mysterious-car-sized-drones-spotted-flying-over-new-jersey-fbi-begins-probe-7208816</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>December 9, 2024 — Watch: Mysterious Car-Sized Drones Spotted Flying Over New Jersey, FBI Begins Probe facebook twitter WhatsApp Settings...</p></details>
    Published: December 9, 2024  
 
 23. <a id="endnote-23"></a>
    Source: liberationtimes.com  
    Title: exclusive drone videos sent to coast guard during 2024 new jersey wave go public  
-   Link: [https://www.liberationtimes.com/home/exclusive-drone-videos-sent-to-coast-guard-during-2024-new-jersey-wave-go-public](https://www.liberationtimes.com/home/exclusive-drone-videos-sent-to-coast-guard-during-2024-new-jersey-wave-go-public)  
+   Link: <a href="https://www.liberationtimes.com/home/exclusive-drone-videos-sent-to-coast-guard-during-2024-new-jersey-wave-go-public" target="_blank" rel="noopener noreferrer nofollow">https://www.liberationtimes.com/home/exclusive-drone-videos-sent-to-coast-guard-during-2024-new-jersey-wave-go-public</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Exclusive: Drone Videos Sent to Coast Guard During 2024 New Jersey Wave Go Public — Liberation Times | Reimagining Old NewsNovember 12, 2...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: ndtv.com  
    Title: Explainer: What We Know About US Drone, UFO, Sightings Causing Online Frenzy  
-   Link: [https://www.ndtv.com/world-news/explainer-what-we-know-about-us-drone-ufo-sightings-causing-online-frenzy-7264796](https://www.ndtv.com/world-news/explainer-what-we-know-about-us-drone-ufo-sightings-causing-online-frenzy-7264796)  
+   Link: <a href="https://www.ndtv.com/world-news/explainer-what-we-know-about-us-drone-ufo-sightings-causing-online-frenzy-7264796" target="_blank" rel="noopener noreferrer nofollow">https://www.ndtv.com/world-news/explainer-what-we-know-about-us-drone-ufo-sightings-causing-online-frenzy-7264796</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>December 17, 2024 — Explainer: What We Know About US Drone Sightings Causing Online Frenzy facebook twitter WhatsApp Settings * Change Fo...</p></details>
    Published: December 17, 2024  
 
 25. <a id="endnote-25"></a>
    Source: wusf.org  
    Title: mystery drones flying over new jersey have residents and officials puzzled  
-   Link: [https://www.wusf.org/2024-12-11/mystery-drones-flying-over-new-jersey-have-residents-and-officials-puzzled](https://www.wusf.org/2024-12-11/mystery-drones-flying-over-new-jersey-have-residents-and-officials-puzzled)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WUSFDecember 11, 2024 — MYSTERY DRONES FLYING OVER NEW JERSEY HAVE RESIDENTS AND OFFICIALS PUZZLED NPR | By Jason Breslow Published Decem...</p></details>
+   Link: <a href="https://www.wusf.org/2024-12-11/mystery-drones-flying-over-new-jersey-have-residents-and-officials-puzzled" target="_blank" rel="noopener noreferrer nofollow">https://www.wusf.org/2024-12-11/mystery-drones-flying-over-new-jersey-have-residents-and-officials-puzzled</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 11, 2024 — MYSTERY DRONES FLYING OVER NEW JERSEY HAVE RESIDENTS AND OFFICIALS PUZZLED NPR | By Jason Breslow Published Decem...</p></details>
    Published: December 11, 2024  
 
 26. <a id="endnote-26"></a>
    Source: flyingmag.com  
    Title: White House Says Mystery Drones Authorized by FAA as Sightings Return  
-   Link: [https://www.flyingmag.com/white-house-says-mystery-drones-authorized-by-faa-as-sightings-return/](https://www.flyingmag.com/white-house-says-mystery-drones-authorized-by-faa-as-sightings-return/)  
+   Link: <a href="https://www.flyingmag.com/white-house-says-mystery-drones-authorized-by-faa-as-sightings-return/" target="_blank" rel="noopener noreferrer nofollow">https://www.flyingmag.com/white-house-says-mystery-drones-authorized-by-faa-as-sightings-return/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>January 31, 2025 — According to tracking platform Enigma Labs, sightings dipped after the aviation agency implemented bans but spiked whe...</p></details>
-   Published: January 31, 2025  
+   Published: January 31, 2025

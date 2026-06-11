@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /duplicates/
 nav_short_title: Merged Data
 title: Why Big UFO Datasets Double Count Cases
-title_full: Why Big UFO Datasets Double Count Cases | Duplicates
+title_full: Why Big UFO Datasets Double Count Cases
 display_title_short: Merged Data
 display_title: Merged Data
 heading_title: Why Big UFO Datasets Double Count Cases
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 00:18:57'
-parent_title: How One UFO Sighting Becomes Many Records | UFO Archives
+parent_title: How One UFO Sighting Becomes Many Records
 parent_permalink: /duplicates/
 parent_nav_short_title: Duplicates
 parent_heading_title: How One UFO Sighting Becomes Many Records
@@ -276,7 +276,6 @@ image: /assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb_me
 
 Large UFO catalogues often look larger than they really are because they merge records from different reporting systems without fully resolving [duplicates]({{ 'duplicates/' | relative_url }}). A single sighting may appear in a witness report, a local newspaper, an investigator’s file, a historical catalogue and a later online database. When those sources are combined, the same underlying event can survive as several separate rows. The result is not necessarily fraud or bad faith. It is often a consequence of preserving source material while avoiding accidental deletion of genuine cases.
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb_merged_dataset_dupli_80d55f-Illustration-1-dark.svg" | relative_url }}" alt="Merged Data illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb_merged_dataset_dupli_80d55f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb_merged_dataset_dupli_80d55f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This problem becomes more visible as researchers combine older [archives]({{ 'archives/' | relative_url }}) with modern reporting systems such as the National UFO Reporting Center ([NUFORC]({{ 'nuforc/' | relative_url }})), historical catalogues and privately maintained databases. The challenge is that UFO reports rarely arrive with a universal case identifier. Matching records therefore depends on imperfect clues such as dates, locations, descriptions and witness narratives, all of which can vary from source to source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">UFOCAT Codebook 2023</span><span class="citation-popover-snippet">Center for UFO StudiesUFOCAT 2023June 6, 2024 — A closely related principle established in the earlier versions of UFOCAT was that a give...</span><span class="citation-popover-meta">Published: June 6, 2024</span></span></span>
 
@@ -289,7 +288,6 @@ A historical newspaper archive may record a sighting using the publication date 
 The Center for UFO Studies' [UFOCAT]({{ 'ufocat/' | relative_url }}) database openly acknowledges this problem in its design. Its codebook explains that a record typically represents one witness or witness group reporting one event through one source, but it also notes that witnesses, events and sources are not always clearly separable. UFOCAT therefore preserves source-level records while providing mechanisms to group records that refer to the same underlying event. The database treats the earliest or most complete account as a primary record and links related source entries around it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">UFOCAT Codebook 2023</span><span class="citation-popover-snippet">Center for UFO StudiesUFOCAT 2023June 6, 2024 — A closely related principle established in the earlier versions of UFOCAT was that a give...</span><span class="citation-popover-meta">Published: June 6, 2024</span></span></span>
 
 This approach highlights an important distinction:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -324,9 +322,7 @@ A strict matching rule creates false negatives. A loose matching rule creates fa
 
 Consider three reports:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qho0N3vv7Gw" title="UFO Sightings: How Scientists are Trying to Capture More Data | NOVA | PBS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qho0N3vv7Gw" target="_blank" rel="noopener noreferrer">UFO Sightings: How Scientists are Trying to Capture More Data | NOVA | PBS</a></p><p class="youtube-embed-meta">Channel: NOVA PBS Official &middot; Views: 25.0K &middot; Uploaded: March 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qho0N3vv7Gw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qho0N3vv7Gw">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -337,7 +333,6 @@ Consider three reports:
 </div>
 
 These may represent:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -351,10 +346,9 @@ A computer cannot know which interpretation is correct without additional contex
 
 The problem becomes even harder when databases contain historical records. Older reports may lack precise coordinates, exact times or witness names. Many archives include summaries written decades after the original event occurred. Matching therefore becomes probabilistic rather than certain.
 
-Researchers in other fields face similar issues. Large pharmacovigilance systems that collect adverse-event reports for medicines treat duplicate identification as a major analytical challenge because separate reports can describe the same case while differing in dates, wording and metadata. Modern duplicate-detection systems rely on probabilistic matching rather than exact identity checks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2504.03729" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivA Scalable Predictive Modelling Approach to Identifying Duplicate Adverse Event Reports for Drugs and VaccinesMarch 31, 2025...</span><span class="citation-popover-meta">Published: March 31, 2025</span></span></span>
+Researchers in other fields face similar issues. Large pharmacovigilance systems that collect adverse-event reports for medicines treat duplicate identification as a major analytical challenge because separate reports can describe the same case while differing in dates, wording and metadata. Modern duplicate-detection systems rely on probabilistic matching rather than exact identity checks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2504.03729" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Scalable Predictive Modelling Approach to Identifying Duplicate Adverse Event Reports for Drugs and VaccinesMarch 31, 2025...</span><span class="citation-popover-meta">Published: March 31, 2025</span></span></span>
 
 The same logic applies to UFO catalogues. Exact matching misses many duplicates, but flexible matching risks combining unrelated sightings.
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb_merged_dataset_dupli_80d55f-Illustration-2-dark.svg" | relative_url }}" alt="Merged Data illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb_merged_dataset_dupli_80d55f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb_merged_dataset_dupli_80d55f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Source identifiers matter more than object descriptions
@@ -381,7 +375,6 @@ If the final database ignores source lineage, it may treat all four entries as i
 
 Tracking provenance allows researchers to distinguish:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Independent witnesses.
@@ -393,7 +386,6 @@ Tracking provenance allows researchers to distinguish:
 
 Without provenance data, duplicate detection becomes far more speculative.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2Lb-STlkIkI" title="UFO Sightings Data &amp; Trends [Python Data Visualization Project]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2Lb-STlkIkI" target="_blank" rel="noopener noreferrer">UFO Sightings Data &amp; Trends [Python Data Visualization Project]</a></p><p class="youtube-embed-meta">Channel: CodingNomads &middot; Views: 1.2K &middot; Uploaded: August 2022 &middot; Length: 1 hour 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2Lb-STlkIkI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2Lb-STlkIkI">Open on YouTube</a></p></div></div></div>
 
 ## Why conservative matching often leaves duplicates in place
@@ -403,7 +395,6 @@ Many database maintainers intentionally tolerate some duplication.
 The reason is straightforward: deleting a genuine report is often considered a worse error than retaining an extra copy.
 
 Suppose two records share:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -429,7 +420,6 @@ This means that merged UFO datasets can remain partially duplicated even after e
 
 The goal is often traceability rather than numerical purity.
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb_merged_dataset_dupli_80d55f-Illustration-3-dark.svg" | relative_url }}" alt="Merged Data illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb_merged_dataset_dupli_80d55f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb_merged_dataset_dupli_80d55f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Modern mega-datasets amplify the problem
 
@@ -445,7 +435,6 @@ The larger the merged collection becomes, the more duplicate pathways emerge:
 A merged catalogue can therefore inherit duplicates from every source it absorbs while simultaneously creating new duplicates during the integration process.
 
 This is one reason why raw sighting totals should be interpreted cautiously. A database containing 300,000 reports does not automatically represent 300,000 distinct UFO events.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oaJ-tByZko8" title="UFO Data Mining, Part 1: Time Series Models" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oaJ-tByZko8" target="_blank" rel="noopener noreferrer">UFO Data Mining, Part 1: Time Series Models</a></p><p class="youtube-embed-meta">Channel: Cache Lack Stats &middot; Views: 203 &middot; Uploaded: November 2021 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oaJ-tByZko8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oaJ-tByZko8">Open on YouTube</a></p></div></div></div>
 
@@ -863,30 +852,30 @@ The persistence of duplicates in major UFO datasets is therefore less a sign of 
 
 1. <a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2504.03729](https://arxiv.org/abs/2504.03729)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivA Scalable Predictive Modelling Approach to Identifying Duplicate Adverse Event Reports for Drugs and VaccinesMarch 31, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2504.03729" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2504.03729</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Scalable Predictive Modelling Approach to Identifying Duplicate Adverse Event Reports for Drugs and VaccinesMarch 31, 2025...</p></details>
    Published: March 31, 2025  
 
 2. <a id="endnote-2"></a>
    Source: reddit.com  
    Title: 614505 ufo sighting records from 5 major databases  
-   Link: [https://www.reddit.com/r/UFOB/comments/1sjoz1f/614505_ufo_sighting_records_from_5_major_databases/](https://www.reddit.com/r/UFOB/comments/1sjoz1f/614505_ufo_sighting_records_from_5_major_databases/)  
+   Link: <a href="https://www.reddit.com/r/UFOB/comments/1sjoz1f/614505_ufo_sighting_records_from_5_major_databases/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1sjoz1f/614505_ufo_sighting_records_from_5_major_databases/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Best sources for alien reports. Most reported UFO sightings locations. UFO hotspots in the USA...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1oz3i0h/im_releasing_a_cleaned_enriched_ufo_dataset_327k/](https://www.reddit.com/r/UFOs/comments/1oz3i0h/im_releasing_a_cleaned_enriched_ufo_dataset_327k/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1oz3i0h/im_releasing_a_cleaned_enriched_ufo_dataset_327k/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1oz3i0h/im_releasing_a_cleaned_enriched_ufo_dataset_327k/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>[MUFON](&amp;#123;&amp;#123; &#x27;mufon/&#x27; | relative_url &amp;#125;&amp;#125;)/Open, Kaggle scrapes, and others). Each sighting has...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2411.02401v1](https://arxiv.org/html/2411.02401v1)  
+   Link: <a href="https://arxiv.org/html/2411.02401v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.02401v1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Civilian Astronomer&#x27;s Guide to UAP Research5 Nov 2024 — While a single UFO report might be linked to one event, thousands of reports ca...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: cufos.org  
    Title: UFOCAT Codebook 2023  
-   Link: [https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf](https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf)  
+   Link: <a href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for UFO StudiesUFOCAT 2023June 6, 2024 — A closely related principle established in the earlier versions of UFOCAT was that a give...</p></details>
    Published: June 6, 2024  
 
@@ -894,54 +883,54 @@ The persistence of duplicates in major UFO datasets is therefore less a sign of 
 
 6. <a id="endnote-6"></a>
    Source: ada-nuforc-analysis.github.io  
-   Link: [https://ada-nuforc-analysis.github.io/](https://ada-nuforc-analysis.github.io/)  
+   Link: <a href="https://ada-nuforc-analysis.github.io/" target="_blank" rel="noopener noreferrer nofollow">https://ada-nuforc-analysis.github.io/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Report AnalysisThe NUFORC checks each reports for fakes or hoax and comments them accordingly. The reports are classified by their...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf](https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO FILESHe has a long-standing interest in UFOs and other aerial phenomena, and has worked with the [National Archives](&amp;#123;&amp;#123; &#x27;archives/&#x27; | relative_url &amp;#125;&amp;#125;) in promoting UFO m...</p></details>
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO FILESHe has a long-standing interest in UFOs and other aerial phenomena, and has worked with the National Archives in promoting UFO m...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: observablehq.com  
-   Link: [https://observablehq.com/%407a596ea349ab5d1c/ufo-sightings](https://observablehq.com/%407a596ea349ab5d1c/ufo-sightings)  
+   Link: <a href="https://observablehq.com/%407a596ea349ab5d1c/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://observablehq.com/%407a596ea349ab5d1c/ufo-sightings</a>  
 
 9. <a id="endnote-9"></a>
    Source: kaggle.com  
    Title: UF O Sightings Analysis This dataset contains 80,332 reported UFO sightings from  
-   Link: [https://www.kaggle.com/code/mcarre/ufo-sightings-analysis](https://www.kaggle.com/code/mcarre/ufo-sightings-analysis)  
+   Link: <a href="https://www.kaggle.com/code/mcarre/ufo-sightings-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/code/mcarre/ufo-sightings-analysis</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings AnalysisThis dataset contains 80,332 reported UFO sightings from November 11, 1906 to May 08, 2014, each a potential glimps...</p></details>
    Published: November 11, 1906  
 
 10. <a id="endnote-10"></a>
    Source: levelup.gitconnected.com  
    Title: i used an llm to analyze 140 000 ufo reports the aliens are real 3d589ec4055d  
-   Link: [https://levelup.gitconnected.com/i-used-an-llm-to-analyze-140-000-ufo-reports-the-aliens-are-real-3d589ec4055d](https://levelup.gitconnected.com/i-used-an-llm-to-analyze-140-000-ufo-reports-the-aliens-are-real-3d589ec4055d)  
+   Link: <a href="https://levelup.gitconnected.com/i-used-an-llm-to-analyze-140-000-ufo-reports-the-aliens-are-real-3d589ec4055d" target="_blank" rel="noopener noreferrer nofollow">https://levelup.gitconnected.com/i-used-an-llm-to-analyze-140-000-ufo-reports-the-aliens-are-real-3d589ec4055d</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Aliens...4 Mar 2026 — What happens when you use AI to analyze 140000 UFO reports? A humorous data-driven dive into a world of alien...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/385588760_Hyperconflation_Recommending_a_Relational_Alternative_to_the_Datacentric_Approach_to_UAP](https://www.researchgate.net/publication/385588760_Hyperconflation_Recommending_a_Relational_Alternative_to_the_Datacentric_Approach_to_UAP)  
+   Link: <a href="https://www.researchgate.net/publication/385588760_Hyperconflation_Recommending_a_Relational_Alternative_to_the_Datacentric_Approach_to_UAP" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/385588760_Hyperconflation_Recommending_a_Relational_Alternative_to_the_Datacentric_Approach_to_UAP</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Available on Amazon. This book examines the intersection of politics and religion as relates to UFO/UAP...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: cs.ubc.ca  
-   Link: [https://www.cs.ubc.ca/~tmm/courses/547-17F/projects/hayley-theodore/report.pdf](https://www.cs.ubc.ca/~tmm/courses/547-17F/projects/hayley-theodore/report.pdf)  
+   Link: <a href="https://www.cs.ubc.ca/~tmm/courses/547-17F/projects/hayley-theodore/report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cs.ubc.ca/~tmm/courses/547-17F/projects/hayley-theodore/report.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Want to Believe: A Visualization of UFO Siting Reportsby TSH Guillou — In this work we present an interactive visualization tool for exam...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
    Title: this is a map of all reported ufo sightings 1906 2014image esri  
-   Link: [https://www.facebook.com/OfficialQI/posts/this-is-a-map-of-all-reported-ufo-sightings-1906-2014image-esri/4712025862145246/](https://www.facebook.com/OfficialQI/posts/this-is-a-map-of-all-reported-ufo-sightings-1906-2014image-esri/4712025862145246/)  
+   Link: <a href="https://www.facebook.com/OfficialQI/posts/this-is-a-map-of-all-reported-ufo-sightings-1906-2014image-esri/4712025862145246/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OfficialQI/posts/this-is-a-map-of-all-reported-ufo-sightings-1906-2014image-esri/4712025862145246/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This is a map of all reported UFO sightings, 1906-2014....This is a map of all reported UFO sightings, 1906-2014. (Image: ESRI.)...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtu.be  
-   Link: [https://youtu.be/MR1VCguoeaE](https://youtu.be/MR1VCguoeaE)  
+   Link: <a href="https://youtu.be/MR1VCguoeaE" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/MR1VCguoeaE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Spectral methods for time series analysis [https://youtu.be/onrdJFlXbMg](https://youtu.be/onrdJFlXbMg) [https://youtu.be/BokqiGJhqhA](https://youtu.be/BokqiGJhqhA) [https://youtu.be/frQ4m77OLGs...&quot;](https://youtu.be/frQ4m77OLGs...&quot;)...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Governments Using AI To Decode Massive UFO Databases | WION Podcast  
-   Link: [https://www.youtube.com/watch?v=adCsqd_-M94](https://www.youtube.com/watch?v=adCsqd_-M94)  
+   Link: <a href="https://www.youtube.com/watch?v=adCsqd_-M94" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=adCsqd_-M94</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Found Hidden Patterns in 150,000 UFO Reports | ft. Christian Stepien, National UFO Database CTO - YouTube AI Found Hidden Patterns in...</p></details>

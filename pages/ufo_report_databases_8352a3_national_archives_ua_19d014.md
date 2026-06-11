@@ -40,7 +40,7 @@ sidebar_expanded_urls:
 - /ufo-report-databases-and-catalogues/
 nav_short_title: Archives
 title: Finding Original UFO Records in Archives
-title_full: Finding Original UFO Records in Archives | UFO Archives
+title_full: Finding Original UFO Records in Archives
 display_title_short: Archives
 display_title: Archives
 heading_title: Finding Original UFO Records in Archives
@@ -354,7 +354,6 @@ image: /assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014-ov
 
 National archives matter in UFO and UAP research because they let readers move from summaries, rumours and recycled case narratives to records with institutional provenance: who created the file, which agency held it, when it was transferred, whether it is a copy or an original record, and what surrounding paperwork says. In the United States, the National Archives and Records Administration now has a dedicated Unidentified Anomalous Phenomena Records Collection, Record Group 615, created under the 2024 National Defense Authorization Act. It sits alongside older UFO holdings such as Project [Blue Book]({{ 'blue-book/' | relative_url }}), photographs, moving-image records, textual files and presidential-library material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014-overview.webp" | relative_url }}" alt="Overview image for Archives" loading="eager" decoding="sync" fetchpriority="high">
 The practical value is not that an archive “proves” a sighting extraordinary. It is that archive catalogue pages, bulk downloads, microfilm publications and record groups make claims checkable. A reader can ask whether a famous incident appears in an official file, whether later quotations match the source document, whether a photograph is linked to a specific record series, and whether a database entry has been separated from its original administrative context.
 
@@ -372,7 +371,6 @@ That distinction matters. Bulk downloads are useful for building searchable inde
 
 The timing also helps readers understand why the collection is changing. NARA’s October 2024 agency memo required federal agencies to transfer, by 30 September 2025, digital copies of publicly disclosable UAP records identified by 20 October 2024, and requested rolling transfers rather than waiting for the deadline. It also said each publicly releasable UAP record had to include metadata under earlier NARA guidance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014-Illustration-1-dark.svg" | relative_url }}" alt="Archives illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Record groups explain where a UFO file came from
 
@@ -386,7 +384,6 @@ The microfilm publication details show the scale and texture of the surviving Bl
 
 That matters when checking later claims. A dramatic retelling may focus on one witness statement, but the case file may also include correspondence, press clippings, analysis, routing slips, military forms, photograph assessments and classification decisions. NARA’s article on the 50th anniversary of Blue Book’s termination describes the files as containing observer reports, correspondence between observers and the Air Force, newspaper and magazine clippings, and reports analysing photographs and physical evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JHeZjJgO9Ns" title="UFO Project Blue Book at National Archives Museum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer">UFO Project Blue Book at National Archives Museum</a></p><p class="youtube-embed-meta">Channel: US National Archives &middot; Views: 352.6K &middot; Uploaded: December 2019 &middot; Length: 2 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JHeZjJgO9Ns">Open on YouTube</a></p></div></div></div>
 
 ## Photographs, film and sound need more care than screenshots
@@ -399,7 +396,6 @@ NARA’s own blog material on Blue Book illustrates this point. The Unwritten Re
 
 A useful archival reading of a UFO photograph therefore asks several questions before asking what the object “really” was:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **What is the record series?** A still image inside an Air Force investigation file is different from a publicity photograph, a training film or a later exhibit copy.
@@ -410,7 +406,6 @@ A useful archival reading of a UFO photograph therefore asks several questions b
 </div>
 
 The point is not to dismiss images. It is to stop treating a striking image as self-explanatory. In archival work, the image is one object within a chain of custody, description and administrative use.
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014-Illustration-2-dark.svg" | relative_url }}" alt="Archives illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The UK National Archives shows a different archival model
@@ -427,12 +422,11 @@ The UK release programme also shows how administrative records can change the st
 
 For database users, the lesson is straightforward: national archive records may be less convenient than a modern searchable sightings table, but they are often better for answering institutional questions. Who was responsible? What did policy say? What was retained? What was destroyed? What did officials tell ministers or Parliament? Those are governance questions, and archives are built to preserve the paperwork that answers them.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RUhnFIAUkQM" title="USAF UFO Sightings, California - The National Archives Catalog UAP Records (342-usaf-49377-r1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RUhnFIAUkQM" target="_blank" rel="noopener noreferrer">USAF UFO Sightings, California - The National Archives Catalog UAP Records (342-usaf-49377-r1)</a></p><p class="youtube-embed-meta">Channel: New Paradigm Institute &middot; Views: 3.1K &middot; Uploaded: October 2024 &middot; Length: 4 minutes 45 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RUhnFIAUkQM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RUhnFIAUkQM">Open on YouTube</a></p></div></div></div>
 
 ## Why provenance matters more than dramatic case counts
 
-[UFO report databases]({{ 'ufo-report-databases-and-catalogues/' | relative_url }}) often invite counting: how many sightings, how many unexplained cases, how many pilots, how many photographs. National archive records ask a slower but more valuable question: what is the evidential status of this item?
+UFO report databases often invite counting: how many sightings, how many unexplained cases, how many pilots, how many photographs. National archive records ask a slower but more valuable question: what is the evidential status of this item?
 
 Provenance helps prevent three common mistakes. The first is **flattening**: treating a witness letter, a military intelligence memo, a press clipping and a later catalogue description as if they have the same evidential weight. They do not. Each has a different creator, purpose and [reliability]({{ 'reliability/' | relative_url }}).
 
@@ -442,14 +436,12 @@ The third is **over-reading “unidentified”**. In an archive, “unidentified
 
 At the same time, provenance also protects serious cases from being casually dismissed. If a claim can be traced to a catalogue record, a record group, a case file and an agency transfer, then readers can separate what the record actually says from what later commentators say about it. That is especially important for famous cases whose public narratives have been retold for decades.
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014-Illustration-3-dark.svg" | relative_url }}" alt="Archives illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A practical way to use archives alongside UFO catalogues
 
 The best use of national archive UAP collections is as a verification layer for broader UFO databases and catalogues. Civilian databases are often better for discovery: they help a reader find dates, locations, report [clusters]({{ 'clusters/' | relative_url }}) and witness language. Archive catalogues are better for provenance: they show whether a government record exists, where it sits, how it was created and what related material may be available.
 
 A careful workflow looks like this:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -458,6 +450,13 @@ A careful workflow looks like this:
 3. **Open the catalogue description before the scan.** The catalogue entry explains the record’s creator, series, date range and archival context.
 4. **Compare versions.** Check whether a scan is a redacted public copy, an edited copy, a microfilm copy, a catalogue image, a PDF release or a born-digital transfer.
 5. **Read around the sighting.** Administrative notes, covering letters, ministerial replies and technical comments can matter as much as the witness account.
+6. **Keep “not online” distinct from “not held”.** NARA’s pages repeatedly distinguish records in custody, records digitised in the catalogue and records available through reading rooms or specialist branches. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+</div>
+
+This approach does not make the archive a final judge of what happened in the sky. It makes it a control point against exaggeration, omission and circular citation. In a field where the same stories are often copied from book to website to database to video, a catalogue entry and a primary record can reset the question: not “what is the legend?”, but “what did the institution record, preserve and release?”
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/x7LnwdXuQsM" title="NEW National Archives Record Group 615—Forthcoming UAP Document Dump?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=x7LnwdXuQsM" target="_blank" rel="noopener noreferrer">NEW National Archives Record Group 615—Forthcoming UAP Document Dump?</a></p><p class="youtube-embed-meta">Channel: Secrecy Watch with R.W. Beckwith &middot; Views: 58 &middot; Uploaded: December 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=x7LnwdXuQsM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=x7LnwdXuQsM">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -851,311 +850,302 @@ A careful workflow looks like this:
 </script>
 </section>
 
-6. **Keep “not online” distinct from “not held”.** NARA’s pages repeatedly distinguish records in custody, records digitised in the catalogue and records available through reading rooms or specialist branches. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
-</div>
-
-This approach does not make the archive a final judge of what happened in the sky. It makes it a control point against exaggeration, omission and circular citation. In a field where the same stories are often copied from book to website to database to video, a catalogue entry and a primary record can reset the question: not “what is the legend?”, but “what did the institution record, preserve and release?”
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/x7LnwdXuQsM" title="NEW National Archives Record Group 615—Forthcoming UAP Document Dump?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=x7LnwdXuQsM" target="_blank" rel="noopener noreferrer">NEW National Archives Record Group 615—Forthcoming UAP Document Dump?</a></p><p class="youtube-embed-meta">Channel: Secrecy Watch with R.W. Beckwith &middot; Views: 58 &middot; Uploaded: December 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=x7LnwdXuQsM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=x7LnwdXuQsM">Open on YouTube</a></p></div></div></div>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
 2. <a id="endnote-2"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/rg-615](https://www.archives.gov/research/topics/uaps/rg-615)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-615" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-615</a>  
 
 3. <a id="endnote-3"></a>
    Source: archives.gov  
    Title: National Archives Unidentified Anomalous Phenomena Records Collection  
-   Link: [https://www.archives.gov/research/topics/uaps/faqs](https://www.archives.gov/research/topics/uaps/faqs)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/faqs</a>  
 
 4. <a id="endnote-4"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download](https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download)  
+   Link: <a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download</a>  
 
 5. <a id="endnote-5"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/records-mgmt/memos/ac-04-2025](https://www.archives.gov/records-mgmt/memos/ac-04-2025)  
+   Link: <a href="https://www.archives.gov/records-mgmt/memos/ac-04-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/memos/ac-04-2025</a>  
 
 6. <a id="endnote-6"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/rg-collections](https://www.archives.gov/research/topics/uaps/rg-collections)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
 
 7. <a id="endnote-7"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 8. <a id="endnote-8"></a>
    Source: fold3.com  
-   Link: [https://www.fold3.com/pdf/T1206.pdf](https://www.fold3.com/pdf/T1206.pdf)  
+   Link: <a href="https://www.fold3.com/pdf/T1206.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/pdf/T1206.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
+   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
 10. <a id="endnote-10"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/photographs](https://www.archives.gov/research/topics/uaps/photographs)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
 
 11. <a id="endnote-11"></a>
    Source: archives.gov  
    Title: moving images and sound  
-   Link: [https://www.archives.gov/research/topics/uaps/moving-images-and-sound](https://www.archives.gov/research/topics/uaps/moving-images-and-sound)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
 
 12. <a id="endnote-12"></a>
    Source: unwritten-record.blogs.archives.gov  
    Title: The Unwritten Record Project Blue Book  
-   Link: [https://unwritten-record.blogs.archives.gov/tag/project-blue-book/](https://unwritten-record.blogs.archives.gov/tag/project-blue-book/)  
+   Link: <a href="https://unwritten-record.blogs.archives.gov/tag/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/tag/project-blue-book/</a>  
 
 13. <a id="endnote-13"></a>
    Source: unwritten-record.blogs.archives.gov  
    Title: project blue book ufos in home movies  
-   Link: [https://unwritten-record.blogs.archives.gov/2013/10/28/project-blue-book-ufos-in-home-movies/](https://unwritten-record.blogs.archives.gov/2013/10/28/project-blue-book-ufos-in-home-movies/)  
+   Link: <a href="https://unwritten-record.blogs.archives.gov/2013/10/28/project-blue-book-ufos-in-home-movies/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2013/10/28/project-blue-book-ufos-in-home-movies/</a>  
 
 14. <a id="endnote-14"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/foia/ufos.html](https://www.archives.gov/foia/ufos.html)  
+   Link: <a href="https://www.archives.gov/foia/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/foia/ufos.html</a>  
 
 15. <a id="endnote-15"></a>
    Source: archives.gov  
    Title: textual and microfilm  
-   Link: [https://www.archives.gov/research/topics/uaps/textual-and-microfilm](https://www.archives.gov/research/topics/uaps/textual-and-microfilm)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/textual-and-microfilm" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/textual-and-microfilm</a>  
 
 16. <a id="endnote-16"></a>
    Source: archives.gov  
    Title: do records show proof of ufos  
-   Link: [https://www.archives.gov/news/articles/do-records-show-proof-of-ufos](https://www.archives.gov/news/articles/do-records-show-proof-of-ufos)  
+   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
 
 17. <a id="endnote-17"></a>
    Source: archives.gov  
    Title: presidential libraries  
-   Link: [https://www.archives.gov/research/topics/uaps/presidential-libraries](https://www.archives.gov/research/topics/uaps/presidential-libraries)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/presidential-libraries" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/presidential-libraries</a>  
 
 18. <a id="endnote-18"></a>
    Source: archives.gov  
    Title: nr25 07  
-   Link: [https://www.archives.gov/press/press-releases/2025/nr25-07](https://www.archives.gov/press/press-releases/2025/nr25-07)  
+   Link: <a href="https://www.archives.gov/press/press-releases/2025/nr25-07" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/press/press-releases/2025/nr25-07</a>  
 
 19. <a id="endnote-19"></a>
    Source: archives.gov  
    Title: rfk files uap records april 2025  
-   Link: [https://www.archives.gov/news/articles/rfk-files-uap-records-april-2025](https://www.archives.gov/news/articles/rfk-files-uap-records-april-2025)  
+   Link: <a href="https://www.archives.gov/news/articles/rfk-files-uap-records-april-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/rfk-files-uap-records-april-2025</a>  
    Published: april 2025  
 
 20. <a id="endnote-20"></a>
    Source: archives.gov  
    Title: still pictures 342  
-   Link: [https://www.archives.gov/research/topics/uaps/still-pictures-342](https://www.archives.gov/research/topics/uaps/still-pictures-342)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/still-pictures-342" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/still-pictures-342</a>  
 
 21. <a id="endnote-21"></a>
    Source: archives.gov  
    Title: uap guidance  
-   Link: [https://www.archives.gov/records-mgmt/uap-guidance](https://www.archives.gov/records-mgmt/uap-guidance)  
+   Link: <a href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/uap-guidance</a>  
 
 22. <a id="endnote-22"></a>
    Source: archives.gov  
    Title: Record Group 615  
-   Link: [https://www.archives.gov/findingaid/stat/discovery/615](https://www.archives.gov/findingaid/stat/discovery/615)  
+   Link: <a href="https://www.archives.gov/findingaid/stat/discovery/615" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/findingaid/stat/discovery/615</a>  
 
 23. <a id="endnote-23"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/publications](https://www.archives.gov/research/topics/uaps/publications)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/publications" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/publications</a>  
 
 24. <a id="endnote-24"></a>
    Source: archives.gov  
    Title: memos to agency records officers  
-   Link: [https://www.archives.gov/records-mgmt/policy/memos-to-agency-records-officers.html](https://www.archives.gov/records-mgmt/policy/memos-to-agency-records-officers.html)  
+   Link: <a href="https://www.archives.gov/records-mgmt/policy/memos-to-agency-records-officers.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/policy/memos-to-agency-records-officers.html</a>  
 
 25. <a id="endnote-25"></a>
    Source: unwritten-record.blogs.archives.gov  
    Title: aliens at the archives  
-   Link: [https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/](https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/)  
+   Link: <a href="https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/</a>  
 
 26. <a id="endnote-26"></a>
    Source: unwritten-record.blogs.archives.gov  
-   Link: [https://unwritten-record.blogs.archives.gov/tag/ufos/](https://unwritten-record.blogs.archives.gov/tag/ufos/)  
+   Link: <a href="https://unwritten-record.blogs.archives.gov/tag/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/tag/ufos/</a>  
 
 27. <a id="endnote-27"></a>
    Source: unwritten-record.blogs.archives.gov  
-   Link: [https://unwritten-record.blogs.archives.gov/tag/united-states-air-force-usaf/page/2/](https://unwritten-record.blogs.archives.gov/tag/united-states-air-force-usaf/page/2/)  
+   Link: <a href="https://unwritten-record.blogs.archives.gov/tag/united-states-air-force-usaf/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/tag/united-states-air-force-usaf/page/2/</a>  
 
 28. <a id="endnote-28"></a>
    Source: unwritten-record.blogs.archives.gov  
-   Link: [https://unwritten-record.blogs.archives.gov/page/68/](https://unwritten-record.blogs.archives.gov/page/68/)  
+   Link: <a href="https://unwritten-record.blogs.archives.gov/page/68/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/page/68/</a>  
 
 29. <a id="endnote-29"></a>
    Source: unwritten-record.blogs.archives.gov  
-   Link: [https://unwritten-record.blogs.archives.gov/2013/10/](https://unwritten-record.blogs.archives.gov/2013/10/)  
+   Link: <a href="https://unwritten-record.blogs.archives.gov/2013/10/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2013/10/</a>  
 
 30. <a id="endnote-30"></a>
    Source: unwritten-record.blogs.archives.gov  
-   Link: [https://unwritten-record.blogs.archives.gov/author/aamidon/page/7/](https://unwritten-record.blogs.archives.gov/author/aamidon/page/7/)  
+   Link: <a href="https://unwritten-record.blogs.archives.gov/author/aamidon/page/7/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/author/aamidon/page/7/</a>  
 
 31. <a id="endnote-31"></a>
    Source: archive.org  
-   Link: [https://archive.org/download/resourcesforrese00unit/resourcesforrese00unit.pdf](https://archive.org/download/resourcesforrese00unit/resourcesforrese00unit.pdf)  
+   Link: <a href="https://archive.org/download/resourcesforrese00unit/resourcesforrese00unit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/resourcesforrese00unit/resourcesforrese00unit.pdf</a>  
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=d1cHYS5KL_0](http://www.youtube.com/watch?v=d1cHYS5KL_0)  
+   Link: <a href="http://www.youtube.com/watch?v=d1cHYS5KL_0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=d1cHYS5KL_0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives Unidentified Anomalous Phenomena Records Collection Record Group 615 Trump Just Forced Open the UFO Files... There Is N...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
 34. <a id="endnote-34"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives Unidentified Flying Objects (UFOs)  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf](https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf</a>  
 
 35. <a id="endnote-35"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link: [https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/](https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
 
 36. <a id="endnote-36"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: aug 2009 highlights guide  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf](https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
 
 37. <a id="endnote-37"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf](https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
 38. <a id="endnote-38"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
 
 39. <a id="endnote-39"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: [https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/](https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/)  
+   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/</a>  
 
 40. <a id="endnote-40"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf](https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
 41. <a id="endnote-41"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
 42. <a id="endnote-42"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/catalogue/displaycataloguedetails.asp?CATID=-6183241&CATLN=7&CATREF=DEFE%2F1978%2F1&SearchInit=4&SearchType=6](https://www.nationalarchives.gov.uk/catalogue/displaycataloguedetails.asp?CATID=-6183241&CATLN=7&CATREF=DEFE%2F1978%2F1&SearchInit=4&SearchType=6)  
+   Link: <a href="https://www.nationalarchives.gov.uk/catalogue/displaycataloguedetails.asp?CATID=-6183241&amp;CATLN=7&amp;CATREF=DEFE%2F1978%2F1&amp;SearchInit=4&amp;SearchType=6" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/catalogue/displaycataloguedetails.asp?CATID=-6183241&amp;CATLN=7&amp;CATREF=DEFE%2F1978%2F1&amp;SearchInit=4&amp;SearchType=6</a>  
 
 43. <a id="endnote-43"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/catalogue/displaycataloguedetails.asp?CATID=8880566&CATLN=6&j=1](https://www.nationalarchives.gov.uk/catalogue/displaycataloguedetails.asp?CATID=8880566&CATLN=6&j=1)  
+   Link: <a href="https://www.nationalarchives.gov.uk/catalogue/displaycataloguedetails.asp?CATID=8880566&amp;CATLN=6&amp;j=1" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/catalogue/displaycataloguedetails.asp?CATID=8880566&amp;CATLN=6&amp;j=1</a>  
 
 44. <a id="endnote-44"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf](https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
 
 45. <a id="endnote-45"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/intelligence-and-security-services/](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/intelligence-and-security-services/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/intelligence-and-security-services/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/intelligence-and-security-services/</a>  
 
 46. <a id="endnote-46"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: nationalarchives.gov.ukchapter 1  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/bsi-0004.pdf](https://cdn.nationalarchives.gov.uk/documents/bsi-0004.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/bsi-0004.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/bsi-0004.pdf</a>  
 
 47. <a id="endnote-47"></a>
    Source: nationalarchives.gov.uk  
    Title: Help with your research Archives  
-   Link: [https://www.nationalarchives.gov.uk/category/records-2/page/4/](https://www.nationalarchives.gov.uk/category/records-2/page/4/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/category/records-2/page/4/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/4/</a>  
 
 48. <a id="endnote-48"></a>
    Source: nationalarchives.gov.uk  
    Title: new-chat Archives  
-   Link: [https://www.nationalarchives.gov.uk/category/new-chat/](https://www.nationalarchives.gov.uk/category/new-chat/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/category/new-chat/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/new-chat/</a>  
 
 49. <a id="endnote-49"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/category/records-2/page/17/](https://www.nationalarchives.gov.uk/category/records-2/page/17/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/category/records-2/page/17/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/17/</a>  
 
 50. <a id="endnote-50"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 51. <a id="endnote-51"></a>
    Source: Wikipedia  
    Title: National Archives and Records Administration  
-   Link: [https://en.wikipedia.org/wiki/National_Archives_and_Records_Administration](https://en.wikipedia.org/wiki/National_Archives_and_Records_Administration)  
+   Link: <a href="https://en.wikipedia.org/wiki/National_Archives_and_Records_Administration" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Archives_and_Records_Administration</a>  
 
 52. <a id="endnote-52"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/posts/the-national-archives-is-digitizing-thousands-of-declassified-ufo-related-record/323036253436732/](https://www.facebook.com/NewsNationNow/posts/the-national-archives-is-digitizing-thousands-of-declassified-ufo-related-record/323036253436732/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/the-national-archives-is-digitizing-thousands-of-declassified-ufo-related-record/323036253436732/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/the-national-archives-is-digitizing-thousands-of-declassified-ufo-related-record/323036253436732/</a>  
 
 53. <a id="endnote-53"></a>
    Source: uk.forceswarrecords.com  
-   Link: [https://uk.forceswarrecords.com/document/9169710](https://uk.forceswarrecords.com/document/9169710)  
+   Link: <a href="https://uk.forceswarrecords.com/document/9169710" target="_blank" rel="noopener noreferrer nofollow">https://uk.forceswarrecords.com/document/9169710</a>  
 
 54. <a id="endnote-54"></a>
    Source: nextgov.com  
    Title: national archives tees new rules ufo records  
-   Link: [https://www.nextgov.com/digital-government/2024/02/national-archives-tees-new-rules-ufo-records/393982/](https://www.nextgov.com/digital-government/2024/02/national-archives-tees-new-rules-ufo-records/393982/)  
+   Link: <a href="https://www.nextgov.com/digital-government/2024/02/national-archives-tees-new-rules-ufo-records/393982/" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/digital-government/2024/02/national-archives-tees-new-rules-ufo-records/393982/</a>  
 
 55. <a id="endnote-55"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 ### Additional References
 
 56. <a id="endnote-56"></a>
    Source: youtube.com  
    Title: USAF UFO Sightings, California  
-   Link: [http://www.youtube.com/watch?v=RUhnFIAUkQM](http://www.youtube.com/watch?v=RUhnFIAUkQM)  
+   Link: <a href="http://www.youtube.com/watch?v=RUhnFIAUkQM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=RUhnFIAUkQM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Interview — Lt. Col. Tacker &amp; Maj. Quintanilla on Project Blue Book (1966) | National Archives...</p></details>
 
 57. <a id="endnote-57"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=wy1qDwPhaVM](http://www.youtube.com/watch?v=wy1qDwPhaVM)  
+   Link: <a href="http://www.youtube.com/watch?v=wy1qDwPhaVM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=wy1qDwPhaVM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>USAF UFO Sightings, California - The National Archives Catalog UAP Records (342-usaf-49377-r1)...</p></details>
 
 58. <a id="endnote-58"></a>
    Source: youtube.com  
    Title: UFO Project Blue Book at National Archives Museum  
-   Link: [http://www.youtube.com/watch?v=JHeZjJgO9Ns](http://www.youtube.com/watch?v=JHeZjJgO9Ns)  
+   Link: <a href="http://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=JHeZjJgO9Ns</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book, 1950–1966 - The National Archives Catalog UAP Records (341-pbb-492)...</p></details>
 
 59. <a id="endnote-59"></a>
    Source: youtube.com  
    Title: NEW National Archives Record Group 615—Forthcoming UAP Document Dump?  
-   Link: [http://www.youtube.com/watch?v=x7LnwdXuQsM](http://www.youtube.com/watch?v=x7LnwdXuQsM)  
+   Link: <a href="http://www.youtube.com/watch?v=x7LnwdXuQsM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=x7LnwdXuQsM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Project Blue Book at National Archives Museum...</p></details>
 
 60. <a id="endnote-60"></a>
    Source: archivesfoundation.org  
-   Link: [https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/](https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/)  
+   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
 
 61. <a id="endnote-61"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/](https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/)  
+   Link: <a href="https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/</a>  
 
 62. <a id="endnote-62"></a>
    Source: docsteach.org  
-   Link: [https://docsteach.org/document/project-blue-book-status-report-number-eight/](https://docsteach.org/document/project-blue-book-status-report-number-eight/)  
+   Link: <a href="https://docsteach.org/document/project-blue-book-status-report-number-eight/" target="_blank" rel="noopener noreferrer nofollow">https://docsteach.org/document/project-blue-book-status-report-number-eight/</a>  
 
 63. <a id="endnote-63"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40pavelzlatnk/when-disclosure-doesnt-mean-disclosure-ebad49d893b9](https://medium.com/%40pavelzlatnk/when-disclosure-doesnt-mean-disclosure-ebad49d893b9)  
+   Link: <a href="https://medium.com/%40pavelzlatnk/when-disclosure-doesnt-mean-disclosure-ebad49d893b9" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40pavelzlatnk/when-disclosure-doesnt-mean-disclosure-ebad49d893b9</a>  
 
 64. <a id="endnote-64"></a>
    Source: insidegovernmentcontracts.com  
-   Link: [https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/](https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/)  
+   Link: <a href="https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/" target="_blank" rel="noopener noreferrer nofollow">https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/</a>  
 
 65. <a id="endnote-65"></a>
    Source: storage.ghost.io  
-   Link: [https://storage.ghost.io/c/c0/be/c0be35e5-1c72-42e1-af60-00793bc5b49d/content/files/2024/07/UAP-pages-only--final--from-NDAA--HR-2670--and-Joint-Explanatory-Statement-12-6-23.pdf](https://storage.ghost.io/c/c0/be/c0be35e5-1c72-42e1-af60-00793bc5b49d/content/files/2024/07/UAP-pages-only--final--from-NDAA--HR-2670--and-Joint-Explanatory-Statement-12-6-23.pdf)  
+   Link: <a href="https://storage.ghost.io/c/c0/be/c0be35e5-1c72-42e1-af60-00793bc5b49d/content/files/2024/07/UAP-pages-only--final--from-NDAA--HR-2670--and-Joint-Explanatory-Statement-12-6-23.pdf" target="_blank" rel="noopener noreferrer nofollow">https://storage.ghost.io/c/c0/be/c0be35e5-1c72-42e1-af60-00793bc5b49d/content/files/2024/07/UAP-pages-only--final--from-NDAA--HR-2670--and-Joint-Explanatory-Statement-12-6-23.pdf</a>

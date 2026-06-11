@@ -40,7 +40,7 @@ sidebar_expanded_urls:
 - /ufo-report-databases-and-catalogues/
 nav_short_title: Clusters
 title: Why UFO Sightings Cluster on the Map
-title_full: Why UFO Sightings Cluster on the Map | UFO Archives
+title_full: Why UFO Sightings Cluster on the Map
 display_title_short: Clusters
 display_title: Clusters
 heading_title: Why UFO Sightings Cluster on the Map
@@ -354,27 +354,24 @@ image: /assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49-ov
 
 When researchers and enthusiasts map large UFO/UAP report databases such as the National UFO Reporting Center’s [NUFORC]({{ 'nuforc/' | relative_url }}) archive, clusters of sightings often jump out — certain counties, regions or corridors show far more reports than others. But these patterns are shaped not just by mysterious phenomena, but by the **environmental and social conditions** that give people greater opportunity or motivation to observe and submit reports. Sightings clusters can therefore reflect **visibility conditions and human behaviour** as much as anything unexplained in the skies.
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49-overview.webp" | relative_url }}" alt="Overview image for Clusters" loading="eager" decoding="sync" fetchpriority="high">
 ## Sky‑Viewing Conditions and Landscape
 
-One recent quantitative study applied spatial analysis to nearly 100,000 public UAP reports and linked clusters to **environmental visibility variables**. Researchers modelled report rates against factors like **[light pollution]({{ 'light-pollution/' | relative_url }}) levels, cloud cover, and tree canopy**, hypothesising that open skies with fewer visual obstructions allow more observers to detect aerial phenomena. They also included proximity to **aircraft corridors and military installations**, reasoning that higher [air traffic]({{ 'air-traffic/' | relative_url }}) increases the background of objects people may misinterpret. Their statistical model found credible correlations suggesting that people have more reported “phenomena” where they have **greater opportunity to see something due to clearer skies and lower visual clutter**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureAn environmental analysis of public UAP sightings and sky view potential | Scientific ReportsDecember 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>
+One recent quantitative study applied spatial analysis to nearly 100,000 public UAP reports and linked clusters to **environmental visibility variables**. Researchers modelled report rates against factors like **[light pollution]({{ 'light-pollution/' | relative_url }}) levels, cloud cover, and tree canopy**, hypothesising that open skies with fewer visual obstructions allow more observers to detect aerial phenomena. They also included proximity to **aircraft corridors and military installations**, reasoning that higher [air traffic]({{ 'air-traffic/' | relative_url }}) increases the background of objects people may misinterpret. Their statistical model found credible correlations suggesting that people have more reported “phenomena” where they have **greater opportunity to see something due to clearer skies and lower visual clutter**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky view potential &#124; Scientific ReportsDecember 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>
 
-This type of analysis also reveals where clusters might be artefacts of the landscape itself. For example, counties with wide open terrain or less urban light can show up as hotspots simply because the daylight or night sky is easier to scan with the unaided eye or camera — not because there is necessarily something unusual in the sky there. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn environmental analysis of public UAP sightings and sky view potential</span><span class="citation-popover-snippet">PMCDecember 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>
-
+This type of analysis also reveals where clusters might be artefacts of the landscape itself. For example, counties with wide open terrain or less urban light can show up as hotspots simply because the daylight or night sky is easier to scan with the unaided eye or camera — not because there is necessarily something unusual in the sky there. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn environmental analysis of public UAP sightings and sky view potential</span><span class="citation-popover-snippet">December 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49-Illustration-1-dark.svg" | relative_url }}" alt="Clusters illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Population Density and Reporting Culture
 
-Another consistent pattern in UFO databases is the link between **population size and report density**. The broad reviews of geographical distributions conclude that areas with higher populations tend to generate more sightings reports, albeit not in strict proportion — a doubling of population does not always mean double the reports, but **denser regions reliably show more entries in sighting catalogues**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/812" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Journal of Scientific ExplorationA Review on the Geographical Distribution of UFO Reports | Journal of Scientific ExplorationSeptember 25...</span></span></span>
+Another consistent pattern in UFO databases is the link between **population size and report density**. The broad reviews of geographical distributions conclude that areas with higher populations tend to generate more sightings reports, albeit not in strict proportion — a doubling of population does not always mean double the reports, but **denser regions reliably show more entries in sighting catalogues**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/812" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Journal of Scientific ExplorationA Review on the Geographical Distribution of UFO Reports &#124; Journal of Scientific ExplorationSeptember 25...</span></span></span>
 
 This likely arises from multiple mechanisms:
 
 * **More potential witnesses** naturally raises the chance that someone will see and report a light or aerial object.
-* **Cultural factors** around reporting — including media attention, local folklore, or community interest — can influence whether an unusual sighting gets recorded at all. Studies of reporting dynamics have shown that **media broadcasts and public awareness spikes** can drive increases in reported cases in the short term, creating temporal clusters that map onto social rather than astronomical events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect On the dynamics of reporting data: A case study of UFO sightings</span><span class="citation-popover-snippet">ScienceDirectOn the dynamics of reporting data: A case study of UFO sightings - ScienceDirectOctober 1, 2022...</span><span class="citation-popover-meta">Published: October 1, 2022</span></span></span>
+* **Cultural factors** around reporting — including media attention, local folklore, or community interest — can influence whether an unusual sighting gets recorded at all. Studies of reporting dynamics have shown that **media broadcasts and public awareness spikes** can drive increases in reported cases in the short term, creating temporal clusters that map onto social rather than astronomical events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect On the dynamics of reporting data: A case study of UFO sightings</span><span class="citation-popover-snippet">On the dynamics of reporting data: A case study of UFO sightings - ScienceDirectOctober 1, 2022...</span><span class="citation-popover-meta">Published: October 1, 2022</span></span></span>
 
-In addition, human reporting behaviour itself has quirks that can influence cluster maps. Analysis of historical UFO sightings notes that observers tend to report events that happen during **nighttime hours with clear visibility**, and that they may unconsciously favour reporting times or patterns that are socially meaningful (such as round times), which can distort temporal and spatial clustering without implying any underlying physical phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect On the dynamics of reporting data: A case study of UFO sightings</span><span class="citation-popover-snippet">ScienceDirectOn the dynamics of reporting data: A case study of UFO sightings - ScienceDirectOctober 1, 2022...</span><span class="citation-popover-meta">Published: October 1, 2022</span></span></span>
-
+In addition, human reporting behaviour itself has quirks that can influence cluster maps. Analysis of historical UFO sightings notes that observers tend to report events that happen during **nighttime hours with clear visibility**, and that they may unconsciously favour reporting times or patterns that are socially meaningful (such as round times), which can distort temporal and spatial clustering without implying any underlying physical phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect On the dynamics of reporting data: A case study of UFO sightings</span><span class="citation-popover-snippet">On the dynamics of reporting data: A case study of UFO sightings - ScienceDirectOctober 1, 2022...</span><span class="citation-popover-meta">Published: October 1, 2022</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49-Illustration-3-dark.svg" | relative_url }}" alt="Clusters illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -382,24 +379,20 @@ In addition, human reporting behaviour itself has quirks that can influence clus
 
 ## Separating Patterns from Artefacts
 
-Interpreting sighting clusters requires care to avoid mistaking **environmental artefacts for anomalous phenomena**. When clusters coincide with well‑populated, open, low‑light areas, the pattern may reflect **visibility opportunity and reporting likelihood** rather than an uptick in real unidentified phenomena. For example, in the U.S. data analysed, clusters appeared across the western states and in parts of the northeast where sparse tree cover and clear skies coincide with significant local populations — a pattern consistent with visibility and access effects as much as any other driver. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureAn environmental analysis of public UAP sightings and sky view potential | Scientific ReportsDecember 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>
+Interpreting sighting clusters requires care to avoid mistaking **environmental artefacts for anomalous phenomena**. When clusters coincide with well‑populated, open, low‑light areas, the pattern may reflect **visibility opportunity and reporting likelihood** rather than an uptick in real unidentified phenomena. For example, in the U.S. data analysed, clusters appeared across the western states and in parts of the northeast where sparse tree cover and clear skies coincide with significant local populations — a pattern consistent with visibility and access effects as much as any other driver. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky view potential &#124; Scientific ReportsDecember 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>
 
-In contrast, **cold spots** — regions exhibiting fewer reports — tend to correlate with heavy light pollution, high cloud cover, or dense [tree canopy]({{ 'tree-canopy/' | relative_url }}), all factors that reduce the sky area visible to human observers, as well as lower local population presence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn environmental analysis of public UAP sightings and sky view potential</span><span class="citation-popover-snippet">PMCDecember 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>
+In contrast, **cold spots** — regions exhibiting fewer reports — tend to correlate with heavy light pollution, high cloud cover, or dense [tree canopy]({{ 'tree-canopy/' | relative_url }}), all factors that reduce the sky area visible to human observers, as well as lower local population presence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn environmental analysis of public UAP sightings and sky view potential</span><span class="citation-popover-snippet">December 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>
 
-To genuinely discern where clusters might be marking something deeper, analysts often normalise reports against underlying population, or compare reported sightings against independent environmental data like **light pollution maps or meteorological records**. When clusters persist after such normalisation, they become more suggestive of factors beyond mere visibility or social reporting behaviour. But without these controls, many apparent clusters in UFO databases reflect **environmental and human reporting conditions** rather than anomalies in the skies themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/812" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Journal of Scientific ExplorationA Review on the Geographical Distribution of UFO Reports | Journal of Scientific ExplorationSeptember 25...</span></span></span>
-
+To genuinely discern where clusters might be marking something deeper, analysts often normalise reports against underlying population, or compare reported sightings against independent environmental data like **light pollution maps or meteorological records**. When clusters persist after such normalisation, they become more suggestive of factors beyond mere visibility or social reporting behaviour. But without these controls, many apparent clusters in UFO databases reflect **environmental and human reporting conditions** rather than anomalies in the skies themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/812" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Journal of Scientific ExplorationA Review on the Geographical Distribution of UFO Reports &#124; Journal of Scientific ExplorationSeptember 25...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PTkdspJg6Pg" title="UFO Hearing LIVE | &quot;UAP Are Real&quot; Shocking Alien Revelation Rocks America | UFO whistleblower" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PTkdspJg6Pg" target="_blank" rel="noopener noreferrer">UFO Hearing LIVE | &quot;UAP Are Real&quot; Shocking Alien Revelation Rocks America | UFO whistleblower</a></p><p class="youtube-embed-meta">Channel: MIRROR NOW &middot; Views: 10.9K &middot; Uploaded: May 2026 &middot; Length: 8 hours 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PTkdspJg6Pg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PTkdspJg6Pg">Open on YouTube</a></p></div></div></div>
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49-Illustration-2-dark.svg" | relative_url }}" alt="Clusters illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Environmental Context in Reporting Databases
 
-Large UFO report catalogues such as NUFORC play a crucial role in surface patterns and trends, but the emergence of cluster maps needs to be interpreted with **environmental context in mind**. As research continues to quantify the influence of sky clarity, population access, local culture, and media dynamics, it becomes clearer that **sighting clusters are as much about where and when people look up and choose to report, as about what they might see**. Any analysis that neglects visibility and environmental variation risks over‑interpreting spatial spikes as evidence of unexplained aerial phenomena rather than structured reporting behaviour shaped by measurable factors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureAn environmental analysis of public UAP sightings and sky view potential | Scientific ReportsDecember 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>
-
+Large UFO report catalogues such as NUFORC play a crucial role in surface patterns and trends, but the emergence of cluster maps needs to be interpreted with **environmental context in mind**. As research continues to quantify the influence of sky clarity, population access, local culture, and media dynamics, it becomes clearer that **sighting clusters are as much about where and when people look up and choose to report, as about what they might see**. Any analysis that neglects visibility and environmental variation risks over‑interpreting spatial spikes as evidence of unexplained aerial phenomena rather than structured reporting behaviour shaped by measurable factors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky view potential &#124; Scientific ReportsDecember 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jCy8KlDMSvI" title="Exploring the questions surrounding UAPs and the search for extraterrestrial life" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jCy8KlDMSvI" target="_blank" rel="noopener noreferrer">Exploring the questions surrounding UAPs and the search for extraterrestrial life</a></p><p class="youtube-embed-meta">Channel: PBS NewsHour &middot; Views: 114.6K &middot; Uploaded: May 2026 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jCy8KlDMSvI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jCy8KlDMSvI">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -797,53 +790,53 @@ Large UFO report catalogues such as NUFORC play a crucial role in surface patter
 
 1. <a id="endnote-1"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-023-49527-x](https://www.nature.com/articles/s41598-023-49527-x)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureAn environmental analysis of public UAP sightings and sky view potential | Scientific ReportsDecember 14, 2023...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-49527-x</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>An environmental analysis of public UAP sightings and sky view potential | Scientific ReportsDecember 14, 2023...</p></details>
    Published: December 14, 2023  
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAn environmental analysis of public UAP sightings and sky view potential  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCDecember 14, 2023...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>December 14, 2023...</p></details>
    Published: December 14, 2023  
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect On the dynamics of reporting data: A case study of UFO sightings  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295](https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectOn the dynamics of reporting data: A case study of UFO sightings - ScienceDirectOctober 1, 2022...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>On the dynamics of reporting data: A case study of UFO sightings - ScienceDirectOctober 1, 2022...</p></details>
    Published: October 1, 2022  
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
    Title: On the dynamics of reporting data: A case study of UFO sightings  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0378437122005295](https://www.sciencedirect.com/science/article/pii/S0378437122005295)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectOctober 1, 2022 — PHYSICA A: STATISTICAL MECHANICS AND ITS APPLICATIONS Volume 603, 1 October 2022, 127807 ON THE DYNAMICS O...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0378437122005295</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>October 1, 2022 — PHYSICA A: STATISTICAL MECHANICS AND ITS APPLICATIONS Volume 603, 1 October 2022, 127807 ON THE DYNAMICS O...</p></details>
    Published: October 1, 2022  
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
    Title: For 25 years, it ha  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021 — THE NATIONAL UFO REPORTING CENTER ONLINE DATABASE Image The NUFORC Databank...</p></details>
    Published: September 6, 2021  
 
 6. <a id="endnote-6"></a>
    Source: journalofscientificexploration.org  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/812](https://journalofscientificexploration.org/index.php/jse/article/view/812)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/812" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/812</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Scientific ExplorationA Review on the Geographical Distribution of UFO Reports | Journal of Scientific ExplorationSeptember 25...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: journalofscientificexploration.org  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/2681](https://journalofscientificexploration.org/index.php/jse/article/view/2681)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| Journal of Scientific ExplorationFebruary 11, 2023 — Social Factors and UFO Reports: Was the SARS-CoV-2 Pandemic Associated with an Inc...</p></details>
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/2681" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/2681</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Scientific ExplorationFebruary 11, 2023 — Social Factors and UFO Reports: Was the SARS-CoV-2 Pandemic Associated with an Inc...</p></details>
    Published: February 11, 2023  
 
 8. <a id="endnote-8"></a>
    Source: journalofscientificexploration.org  
    Title: Modeling the Law of Times | Journal of Scientific Exploration  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/797](https://journalofscientificexploration.org/index.php/jse/article/view/797)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/797" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/797</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>29 No. 2, Research Articles Vol. 29 No. 2 MODELING THE LAW OF TIMES Research Articles Published 2015-06-06 * Julio Plaza del Olmo Julio P...</p></details>
    Published: June 6, 2015  
 
@@ -851,56 +844,56 @@ Large UFO report catalogues such as NUFORC play a crucial role in surface patter
 
 9. <a id="endnote-9"></a>
    Source: uapmonitor.org  
-   Link: [https://uapmonitor.org/research](https://uapmonitor.org/research)  
+   Link: <a href="https://uapmonitor.org/research" target="_blank" rel="noopener noreferrer nofollow">https://uapmonitor.org/research</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Monitor — Global UFO &amp; UAP Sightings Database, Map &amp; Intelligence PlatformUAP MONITOR — GLOBAL UFO &amp; UAP SIGHTINGS INTELLIGENCE PLATF...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: ouci.dntb.gov.ua  
-   Link: [https://ouci.dntb.gov.ua/en/works/4EweyOK9/](https://ouci.dntb.gov.ua/en/works/4EweyOK9/)  
+   Link: <a href="https://ouci.dntb.gov.ua/en/works/4EweyOK9/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/4EweyOK9/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>environmental analysis of public UAP sightings and sky view potentialAN ENVIRONMENTAL ANALYSIS OF PUBLIC UAP SIGHTINGS AND SKY VIEW POTEN...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: philpapers.org  
    Title: Julio Plaza del Olmo, A Review on the Geographical Distribution of UFO Reports  
-   Link: [https://philpapers.org/rec/OLMARO](https://philpapers.org/rec/OLMARO)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PhilPapersA REVIEW ON THE GEOGRAPHICAL DISTRIBUTION OF UFO REPORTS Julio Plaza del Olmo Journal of Scientific Exploration 29 (3) (2015) @...</p></details>
+   Link: <a href="https://philpapers.org/rec/OLMARO" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/OLMARO</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>A REVIEW ON THE GEOGRAPHICAL DISTRIBUTION OF UFO REPORTS Julio Plaza del Olmo Journal of Scientific Exploration 29 (3) (2015) @...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: ufotimelineproject.com  
-   Link: [https://www.ufotimelineproject.com/ufo-sightings](https://www.ufotimelineproject.com/ufo-sightings)  
+   Link: <a href="https://www.ufotimelineproject.com/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.ufotimelineproject.com/ufo-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Discover Contact us WHY SIGHTINGS MATTER Sightings are the front door of UFO/UAP research. They&#x27;re messy, human, and...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: euronews.com  
    Title: UF Os: Do environmental factors increase or decrease reported sightings?  
-   Link: [https://www.euronews.com/next/2024/02/29/ufos-do-environmental-factors-increase-or-decrease-reported-sightings](https://www.euronews.com/next/2024/02/29/ufos-do-environmental-factors-increase-or-decrease-reported-sightings)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| EuronewsFebruary 29, 2024 — UFOS: DO ENVIRONMENTAL FACTORS INCREASE OR DECREASE REPORTED SIGHTINGS? Image: The image from video provide...</p></details>
+   Link: <a href="https://www.euronews.com/next/2024/02/29/ufos-do-environmental-factors-increase-or-decrease-reported-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.euronews.com/next/2024/02/29/ufos-do-environmental-factors-increase-or-decrease-reported-sightings</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>EuronewsFebruary 29, 2024 — UFOS: DO ENVIRONMENTAL FACTORS INCREASE OR DECREASE REPORTED SIGHTINGS? Image: The image from video provide...</p></details>
    Published: February 29, 2024  
 
 14. <a id="endnote-14"></a>
    Source: complex.pfi.uem.br  
-   Link: [https://complex.pfi.uem.br/publication/2022/on-the-dynamics-of-reporting-data-a-case-study-of-ufo-sightings/](https://complex.pfi.uem.br/publication/2022/on-the-dynamics-of-reporting-data-a-case-study-of-ufo-sightings/)  
+   Link: <a href="https://complex.pfi.uem.br/publication/2022/on-the-dynamics-of-reporting-data-a-case-study-of-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://complex.pfi.uem.br/publication/2022/on-the-dynamics-of-reporting-data-a-case-study-of-ufo-sightings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>J. Antonio, A. S. Itami, F. F. Dalmedico, F. S. Mendes, Physica A 603, 127807 (2022). PDF Cite DOI Image ABSTRACT There are a...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: ovniteca.net  
    Title: dynamics reporting data case study ufo sightings  
-   Link: [https://www.ovniteca.net/bibliografia/dynamics-reporting-data-case-study-ufo-sightings](https://www.ovniteca.net/bibliografia/dynamics-reporting-data-case-study-ufo-sightings)  
+   Link: <a href="https://www.ovniteca.net/bibliografia/dynamics-reporting-data-case-study-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.ovniteca.net/bibliografia/dynamics-reporting-data-case-study-ufo-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On the dynamics of reporting data: A case study of UFO sightings | OvnitecaOvniteca Historia y actualidad de los ovnis ON THE DYNAMICS OF...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: More Weird UFO Files Just Released: Forensic Expert Analysis  
-   Link: [https://www.youtube.com/watch?v=F9Vmsk6CcmI](https://www.youtube.com/watch?v=F9Vmsk6CcmI)  
+   Link: <a href="https://www.youtube.com/watch?v=F9Vmsk6CcmI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F9Vmsk6CcmI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Hearing LIVE | &quot;UAP Are Real&quot; Shocking Alien Revelation Rocks America - YouTube UFO Hearing LIVE | &quot;UAP Are Real&quot; Shocking Alien Reve...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: UFO Hearing LIVE | "UAP Are Real" Shocking Alien Revelation Rocks America  
-   Link: [https://www.youtube.com/watch?v=PTkdspJg6Pg](https://www.youtube.com/watch?v=PTkdspJg6Pg)  
+   Link: <a href="https://www.youtube.com/watch?v=PTkdspJg6Pg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PTkdspJg6Pg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO files REVEAL mysterious UAP formations over Iran, CENTCOM captures video | WATCH...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=_NU5VbysFJE](https://www.youtube.com/watch?v=_NU5VbysFJE)  
+   Link: <a href="https://www.youtube.com/watch?v=_NU5VbysFJE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_NU5VbysFJE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>More Weird UFO Files Just Released: Forensic Expert Analysis...</p></details>

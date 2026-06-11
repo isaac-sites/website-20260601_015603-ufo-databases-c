@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /ufocat/
 nav_short_title: Duplicate Rationale
 title: Why UFOCAT Intentionally Keeps Duplicate UFO Records
-title_full: Why UFOCAT Intentionally Keeps Duplicate UFO Records | UFOCAT
+title_full: Why UFOCAT Intentionally Keeps Duplicate UFO Records
 display_title_short: Duplicate Rationale
 display_title: Duplicate Rationale
 heading_title: Why UFOCAT Intentionally Keeps Duplicate UFO Records
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 20:16:09'
-parent_title: Why UFOCAT Is Not Just a Sighting Count | UFO Archives
+parent_title: Why UFOCAT Is Not Just a Sighting Count
 parent_permalink: /ufocat/
 parent_nav_short_title: UFOCAT
 parent_heading_title: Why UFOCAT Is Not Just a Sighting Count
@@ -276,7 +276,6 @@ image: /assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_in
 
 Within **Center for UFO Studies’** flagship sighting database **[UFOCAT]({{ 'ufocat/' | relative_url }})** — the UFO Catalogue — researchers will often encounter several entries that refer to the same underlying event. This is *not* an accidental artefact of sloppy data entry, but a **deliberate design choice** anchored in the catalogue’s mission. UFOCAT preserves *duplicate records* for what might appear to be one sighting in order to map how that incident has been reported, investigated, published and re‑reported across multiple sources. Understanding **why UFOCAT intentionally keeps [duplicates]({{ 'duplicates/' | relative_url }})** is central to using the catalogue as a tool for source tracing rather than as a strict count of unique incidents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/cufos-publications-databases/ufocat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO StudiesUFOCATUFOCAT is a catalog of published and unpublished UFO sighting reports. It often contains multiple entries for...</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_intentional_duplicat_4000d1-Illustration-1-dark.svg" | relative_url }}" alt="Duplicate Rationale illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_intentional_duplicat_4000d1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_intentional_duplicat_4000d1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## One Event, Multiple Publications
 
@@ -289,7 +288,6 @@ This approach serves two purposes:
 
 In practice, this means UFOCAT is a *catalogue of sources* about sightings, *not* a de‑duplicated incident list. Researchers who want a strict count of unique incidents must filter out secondary entries using fields like the *X2* primacy flag. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/cufos-publications-databases/ufocat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO StudiesUFOCATUFOCAT is a catalog of published and unpublished UFO sighting reports. It often contains multiple entries for...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1zRWi_r3HRM" title="&quot;100,000 UFOs Are Surrounding Earth!&quot; ft. Top Astronomer Beatriz Villarroel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1zRWi_r3HRM" target="_blank" rel="noopener noreferrer">&quot;100,000 UFOs Are Surrounding Earth!&quot; ft. Top Astronomer Beatriz Villarroel</a></p><p class="youtube-embed-meta">Channel: Jesse Michels &middot; Views: 884.4K &middot; Uploaded: October 2025 &middot; Length: 1 hour 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1zRWi_r3HRM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1zRWi_r3HRM">Open on YouTube</a></p></div></div></div>
 
 ## Multiple Witnesses and Composite Accounts
@@ -300,7 +298,6 @@ Another rationale for duplicate records stems from the **witness structure** of 
 * it provides a window into *how multiple independent accounts relate to the same event*.
 
 This mirrors archival practice in other historical domains, where multiple source variants for one incident are maintained so that researchers can compare differences and assess reliability. Although modern data systems sometimes unify such instances into one canonical record, UFOCAT deliberately leaves these separate in part because it emphasises **preserving original source fidelity** over forced unification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/cufos-publications-databases/ufocat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO StudiesUFOCATUFOCAT is a catalog of published and unpublished UFO sighting reports. It often contains multiple entries for...</span></span></span>
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_intentional_duplicat_4000d1-Illustration-2-dark.svg" | relative_url }}" alt="Duplicate Rationale illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_intentional_duplicat_4000d1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_intentional_duplicat_4000d1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Indirect and Uncertain Source Chains
@@ -317,7 +314,6 @@ This mechanism acknowledges that:
 
 Rather than suppressing these variants, UFOCAT retains them to document the *trail of sources* with as few editorial interventions as practical. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/cufos-publications-databases/ufocat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO StudiesUFOCATUFOCAT is a catalog of published and unpublished UFO sighting reports. It often contains multiple entries for...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RqptVKs7wbc" title="Jacques Vallée: Project Blue Book, space travel and military secrecy | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RqptVKs7wbc" target="_blank" rel="noopener noreferrer">Jacques Vallée: Project Blue Book, space travel and military secrecy | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 195.2K &middot; Uploaded: May 2025 &middot; Length: 1 hour 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RqptVKs7wbc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RqptVKs7wbc">Open on YouTube</a></p></div></div></div>
 
 ## Balancing Completeness and Usability
@@ -328,7 +324,6 @@ For researchers interested in **unique [event counts]({{ 'event-counts/' | relat
 
 In this sense, duplicates are not errors to be eliminated but essential metadata that:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * record *where* and *how* the sighting was reported,
@@ -337,7 +332,6 @@ In this sense, duplicates are not errors to be eliminated but essential metadata
 
 </div>
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_intentional_duplicat_4000d1-Illustration-3-dark.svg" | relative_url }}" alt="Duplicate Rationale illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_intentional_duplicat_4000d1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_intentional_duplicat_4000d1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Risks and Critiques
 
@@ -345,9 +339,7 @@ The deliberate retention of duplicates has drawn criticism, particularly from qu
 
 However, proponents argue that suppressing duplicates in favour of artificial unification would sacrifice the very provenance information that gives UFOCAT its scholarly value. Effective use of the catalogue therefore hinges on understanding its **design philosophy** — one that prioritises source traceability over deduplication — and applying appropriate filters or expert judgement when counting events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/cufos-publications-databases/ufocat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO StudiesUFOCATUFOCAT is a catalog of published and unpublished UFO sighting reports. It often contains multiple entries for...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iGe3hzyqOxg" title="A Forgotten UAP Event and Its Ramifications for the Science of the Phenomenon, with Jacques Vallée" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iGe3hzyqOxg" target="_blank" rel="noopener noreferrer">A Forgotten UAP Event and Its Ramifications for the Science of the Phenomenon, with Jacques Vallée</a></p><p class="youtube-embed-meta">Channel: The Sol Foundation &middot; Views: 30.8K &middot; Uploaded: January 2026 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iGe3hzyqOxg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iGe3hzyqOxg">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -745,13 +737,13 @@ However, proponents argue that suppressing duplicates in favour of artificial un
 
 1. <a id="endnote-1"></a>
    Source: cufos.org  
-   Link: [https://cufos.org/cufos-publications-databases/ufocat/](https://cufos.org/cufos-publications-databases/ufocat/)  
+   Link: <a href="https://cufos.org/cufos-publications-databases/ufocat/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/cufos-publications-databases/ufocat/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for UFO StudiesUFOCATUFOCAT is a catalog of published and unpublished UFO sighting reports. It often contains multiple entries for...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cufos.org  
    Title: UFOCAT Codebook 2023  
-   Link: [https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf](https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf)  
+   Link: <a href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for UFO StudiesUFOCAT 2023June 6, 2024 — It exists today as the most comprehensive reference tool and bibliographic source on UFO...</p></details>
    Published: June 6, 2024  
 
@@ -760,63 +752,63 @@ However, proponents argue that suppressing duplicates in favour of artificial un
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Previous work on duplicate detection has acknowledged that expert curation is th  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5225397/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5225397/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5225397/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5225397/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govDuplicates, redundancies and inconsistencies in the primary nucleotide databases: a descriptive study - PMCJanuary 10, 2017 — DUPL...</p></details>
    Published: January 10, 2017  
 
 4. <a id="endnote-4"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography](https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography)  
+   Link: <a href="https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) UFOs and the extraterrestrial contact movementWhatever the explanation for UFO sightings, whether alien spacecraft or something mor...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories](https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories)  
+   Link: <a href="https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Scientific Investigation of Unidentified Aerial...[1972] \Education and the UFO Phenomenon,&quot; UFOs: A Scienti¯c Debate (The Nor...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1672022920300632](https://www.sciencedirect.com/science/article/pii/S1672022920300632)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectApril 1, 2020 — Perspective Quality Matters: Biocuration Experts on the Impact of Duplication and Other Data Quality Issues...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1672022920300632" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1672022920300632</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 1, 2020 — Perspective Quality Matters: Biocuration Experts on the Impact of Duplication and Other Data Quality Issues...</p></details>
    Published: April 1, 2020  
 
 7. <a id="endnote-7"></a>
    Source: blog.core.ac.uk  
    Title: detecting duplicate records and manuscript versions in your repository  
-   Link: [https://blog.core.ac.uk/2023/08/22/detecting-duplicate-records-and-manuscript-versions-in-your-repository/](https://blog.core.ac.uk/2023/08/22/detecting-duplicate-records-and-manuscript-versions-in-your-repository/)  
+   Link: <a href="https://blog.core.ac.uk/2023/08/22/detecting-duplicate-records-and-manuscript-versions-in-your-repository/" target="_blank" rel="noopener noreferrer nofollow">https://blog.core.ac.uk/2023/08/22/detecting-duplicate-records-and-manuscript-versions-in-your-repository/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>duplicate records and manuscript versions in your repository – COREAugust 22, 2023 — DETECTING DUPLICATE RECORDS AND MANUSCRIPT VERSIONS...</p></details>
    Published: August 22, 2023  
 
 8. <a id="endnote-8"></a>
    Source: academic.oup.com  
    Title: However, this work has only limited relevance for bioinformati  
-   Link: [https://academic.oup.com/database/article/doi/10.1093/database/baw164/2870676](https://academic.oup.com/database/article/doi/10.1093/database/baw164/2870676)  
+   Link: <a href="https://academic.oup.com/database/article/doi/10.1093/database/baw164/2870676" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/database/article/doi/10.1093/database/baw164/2870676</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>for measurement of duplicate detection methods in nucleotide databases | Database | Oxford AcademicJanuary 8, 2017 — BACKGROUND In the co...</p></details>
    Published: January 8, 2017  
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: "100,000 UFOs Are Surrounding Earth!" ft. Top Astronomer Beatriz Villarroel  
-   Link: [https://www.youtube.com/watch?v=1zRWi_r3HRM](https://www.youtube.com/watch?v=1zRWi_r3HRM)  
+   Link: <a href="https://www.youtube.com/watch?v=1zRWi_r3HRM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1zRWi_r3HRM</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jacques Vallee UFO database data analysis presentation A Forgotten UAP Event and Its Ramifications for the Science of the Phenomenon, wit...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: oclc.org  
    Title: Leveraging machine learning for World Cat de-duplication  
-   Link: [https://www.oclc.org/en/news/announcements/2023/leveraging-machine-learning-for-worldcat-de-duplication.html](https://www.oclc.org/en/news/announcements/2023/leveraging-machine-learning-for-worldcat-de-duplication.html)  
+   Link: <a href="https://www.oclc.org/en/news/announcements/2023/leveraging-machine-learning-for-worldcat-de-duplication.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oclc.org/en/news/announcements/2023/leveraging-machine-learning-for-worldcat-de-duplication.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Leveraging machine learning for WorldCat de-duplicationAugust 14, 2023 — LEVERAGING MACHINE LEARNING TECHNOLOGY AS PART OF ONGOING WORLDC...</p></details>
    Published: August 14, 2023  
 
 11. <a id="endnote-11"></a>
    Source: pharmagmp.in  
    Title: why duplicate records can invalidate your entire batch  
-   Link: [https://www.pharmagmp.in/why-duplicate-records-can-invalidate-your-entire-batch/](https://www.pharmagmp.in/why-duplicate-records-can-invalidate-your-entire-batch/)  
+   Link: <a href="https://www.pharmagmp.in/why-duplicate-records-can-invalidate-your-entire-batch/" target="_blank" rel="noopener noreferrer nofollow">https://www.pharmagmp.in/why-duplicate-records-can-invalidate-your-entire-batch/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pharma GMPNovember 14, 2025 — WHY DUPLICATE RECORDS CAN INVALIDATE YOUR ENTIRE BATCH November 14, 2025November 14, 2025 digi Why Duplicat...</p></details>
    Published: November 14, 2025  
 
 12. <a id="endnote-12"></a>
    Source: delpha.io  
    Title: Duplicates: The Bane of Data-driven Companies  
-   Link: [https://delpha.io/blog/duplicates-the-bane-of-data-driven-companies/](https://delpha.io/blog/duplicates-the-bane-of-data-driven-companies/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DelphaOctober 3, 2022 — DATA QUALITYDUPLICATESMACHINE LEARNING DUPLICATES: THE BANE OF DATA-DRIVEN COMPANIES Germain Bourgeois Published...</p></details>
-   Published: October 3, 2022  
+   Link: <a href="https://delpha.io/blog/duplicates-the-bane-of-data-driven-companies/" target="_blank" rel="noopener noreferrer nofollow">https://delpha.io/blog/duplicates-the-bane-of-data-driven-companies/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 3, 2022 — DATA QUALITYDUPLICATESMACHINE LEARNING DUPLICATES: THE BANE OF DATA-DRIVEN COMPANIES Germain Bourgeois Published...</p></details>
+   Published: October 3, 2022

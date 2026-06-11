@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /public-vs-official/
 nav_short_title: Sensor Context
 title: What official UAP files can add
-title_full: What official UAP files can add | Public vs Official
+title_full: What official UAP files can add
 display_title_short: Sensor Context
 display_title: Sensor Context
 heading_title: What official UAP files can add
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 01:42:11'
-parent_title: Public UFO Reports or Official UAP Records? | UFO Archives
+parent_title: Public UFO Reports or Official UAP Records?
 parent_permalink: /public-vs-official/
 parent_nav_short_title: Public vs Official
 parent_heading_title: Public UFO Reports or Official UAP Records?
@@ -268,20 +268,18 @@ image: /assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202_of
 
 ## Introduction
 
-Official UAP (Unidentified Anomalous Phenomena) case files matter most when they include **sensor context** — the details about *where*, *how*, and *with what* an observation was captured. Unlike public sighting reports, which are primarily witness narratives, official records often come bundled with data from instruments such as radar, infrared (IR) cameras, electro‑optical (EO) imagers or other technical systems. This sensor context is what allows analysts, researchers and archivists to move beyond anecdote and toward structured interpretation, forensic review, classification decisions and, in some cases, resolution of a sighting. For [UFO report databases and catalogues]({{ 'ufo-report-databases-and-catalogues/' | relative_url }}), the presence or absence of [sensor metadata]({{ 'sensor-metadata/' | relative_url }}) in official systems often determines how a case can be understood, indexed, compared, or resolved within a broader evidence ecosystem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.paraghosts.com/how-to-access-the-new-gov-uap-disclosure-database-for-raw-sensor-data/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paraghosts.com">[Paraghosts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paraghosts.com</span><span class="citation-popover-title">How to Access the New.Gov UAP Disclosure Database for Raw Sensor Data?</span><span class="citation-popover-snippet">ParaghostsHow to Access the New.Gov UAP Disclosure Database for Raw Sensor Data? - ParaghostsMarch 23, 2026...</span><span class="citation-popover-meta">Published: March 23, 2026</span></span></span>
-
+Official UAP (Unidentified Anomalous Phenomena) case files matter most when they include **sensor context** — the details about *where*, *how*, and *with what* an observation was captured. Unlike public sighting reports, which are primarily witness narratives, official records often come bundled with data from instruments such as radar, infrared (IR) cameras, electro‑optical (EO) imagers or other technical systems. This sensor context is what allows analysts, researchers and archivists to move beyond anecdote and toward structured interpretation, forensic review, classification decisions and, in some cases, resolution of a sighting. For [UFO report databases and catalogues]({{ 'ufo-report-databases-and-catalogues/' | relative_url }}), the presence or absence of [sensor metadata]({{ 'sensor-metadata/' | relative_url }}) in official systems often determines how a case can be understood, indexed, compared, or resolved within a broader evidence ecosystem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.paraghosts.com/how-to-access-the-new-gov-uap-disclosure-database-for-raw-sensor-data/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paraghosts.com">[Paraghosts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paraghosts.com</span><span class="citation-popover-title">How to Access the New.Gov UAP Disclosure Database for Raw Sensor Data?</span><span class="citation-popover-snippet">How to Access the New.Gov UAP Disclosure Database for Raw Sensor Data? - ParaghostsMarch 23, 2026...</span><span class="citation-popover-meta">Published: March 23, 2026</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202_official_uap_sensor_bc7057-Illustration-1-dark.svg" | relative_url }}" alt="Sensor Context illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202_official_uap_sensor_bc7057-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202_official_uap_sensor_bc7057-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Platform and Sensor Context Matters
 
-Official UAP systems increasingly emphasise data quality over mere quantity of reports. Civilian databases record witness observations at scale, but they rarely include the technical metadata that makes a case *analytically tractable*. Government and agency files, by contrast, often attach sensor‑related information — radar returns with time stamps, infrared video clips from aircraft, electro‑optical imagery with geolocation, telemetry from tracking systems, and platform details like the type of aircraft or ground station involved. This combination transforms a description into evidence that can be correlated, triangulated and tested against known phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.paraghosts.com/how-to-access-the-new-gov-uap-disclosure-database-for-raw-sensor-data/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paraghosts.com">[Paraghosts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paraghosts.com</span><span class="citation-popover-title">How to Access the New.Gov UAP Disclosure Database for Raw Sensor Data?</span><span class="citation-popover-snippet">ParaghostsHow to Access the New.Gov UAP Disclosure Database for Raw Sensor Data? - ParaghostsMarch 23, 2026...</span><span class="citation-popover-meta">Published: March 23, 2026</span></span></span>
+Official UAP systems increasingly emphasise data quality over mere quantity of reports. Civilian databases record witness observations at scale, but they rarely include the technical metadata that makes a case *analytically tractable*. Government and agency files, by contrast, often attach sensor‑related information — radar returns with time stamps, infrared video clips from aircraft, electro‑optical imagery with geolocation, telemetry from tracking systems, and platform details like the type of aircraft or ground station involved. This combination transforms a description into evidence that can be correlated, triangulated and tested against known phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.paraghosts.com/how-to-access-the-new-gov-uap-disclosure-database-for-raw-sensor-data/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paraghosts.com">[Paraghosts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paraghosts.com</span><span class="citation-popover-title">How to Access the New.Gov UAP Disclosure Database for Raw Sensor Data?</span><span class="citation-popover-snippet">How to Access the New.Gov UAP Disclosure Database for Raw Sensor Data? - ParaghostsMarch 23, 2026...</span><span class="citation-popover-meta">Published: March 23, 2026</span></span></span>
 
 Sensor context affects official records in several concrete ways:
 
-* **Corroboration across systems:** Detection by more than one instrument (e.g. radar + IR) strengthens confidence that an observation represents a physical phenomenon rather than an artefact or artifact. Official task forces have historically noted that reports registered across multiple sensors are treated differently from standalone eyewitness accounts precisely because of this. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/ufo/comments/o7w4q4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditPreliminary Assessment: Unidentified Aerial Phenomena | DNIJune 25, 2021...</span><span class="citation-popover-meta">Published: June 25, 2021</span></span></span>
+* **Corroboration across systems:** Detection by more than one instrument (e.g. radar + IR) strengthens confidence that an observation represents a physical phenomenon rather than an artefact or artifact. Official task forces have historically noted that reports registered across multiple sensors are treated differently from standalone eyewitness accounts precisely because of this. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/ufo/comments/o7w4q4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Preliminary Assessment: Unidentified Aerial Phenomena &#124; DNIJune 25, 2021...</span><span class="citation-popover-meta">Published: June 25, 2021</span></span></span>
 * **Technical traceability:** Metadata — including sensor type, manufacturer, acquisition method, sensitivity, timestamps and geolocation — allows analysts to reconstruct an event’s geometry and kinematics. When such metadata is missing, even high‑quality imagery can be difficult to interpret rigorously. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Trump’s direction for whole-of-government transparency and will alw</span><span class="citation-popover-snippet">FAQs - NASA ScienceMay 8, 2026 — UAP FAQS NASA UNIDENTIFIED ANOMALOUS PHENOMENA STUDY Frequently Asked Questions ​&lt; Back to UAP NASA appl...</span><span class="citation-popover-meta">Published: May 8, 2026</span></span></span>
-* **Instrument limitations and artefacts:** Knowing the precise platform (aircraft, satellite, aerostat) and its sensor suite helps differentiate genuine phenomena from sensor artefacts (such as IR flare, optical parallax or noise), reducing false positives. Breaking down which signature comes from the instrument versus the environment is a core part of official analytical workflows. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.paraghosts.com/how-to-access-the-new-gov-uap-disclosure-database-for-raw-sensor-data/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paraghosts.com">[Paraghosts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paraghosts.com</span><span class="citation-popover-title">How to Access the New.Gov UAP Disclosure Database for Raw Sensor Data?</span><span class="citation-popover-snippet">ParaghostsHow to Access the New.Gov UAP Disclosure Database for Raw Sensor Data? - ParaghostsMarch 23, 2026...</span><span class="citation-popover-meta">Published: March 23, 2026</span></span></span>
-
+* **Instrument limitations and artefacts:** Knowing the precise platform (aircraft, satellite, aerostat) and its sensor suite helps differentiate genuine phenomena from sensor artefacts (such as IR flare, optical parallax or noise), reducing false positives. Breaking down which signature comes from the instrument versus the environment is a core part of official analytical workflows. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.paraghosts.com/how-to-access-the-new-gov-uap-disclosure-database-for-raw-sensor-data/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paraghosts.com">[Paraghosts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paraghosts.com</span><span class="citation-popover-title">How to Access the New.Gov UAP Disclosure Database for Raw Sensor Data?</span><span class="citation-popover-snippet">How to Access the New.Gov UAP Disclosure Database for Raw Sensor Data? - ParaghostsMarch 23, 2026...</span><span class="citation-popover-meta">Published: March 23, 2026</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uOlJKXePZ-8" title="UFO Hearing Leaves Congress With More Questions Than Answers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uOlJKXePZ-8" target="_blank" rel="noopener noreferrer">UFO Hearing Leaves Congress With More Questions Than Answers</a></p><p class="youtube-embed-meta">Channel: NBC News &middot; Views: 119.8K &middot; Uploaded: May 2022 &middot; Length: 1 minute 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uOlJKXePZ-8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uOlJKXePZ-8">Open on YouTube</a></p></div></div></div>
 
@@ -290,12 +288,10 @@ Sensor context affects official records in several concrete ways:
 Sensor context also interacts with the **status labels** assigned within official UAP systems, such as *unresolved*, *resolved to a known phenomenon*, or *insufficient data*. Because official records are built to support operational and analytical decisions, a case’s label often hinges on what data accompany it:
 
 * **Unresolved due to lack of corroborating data:** A recurring situation in official files — for example, infrared footage from a military platform that shows a thermal contrast — remains unresolved when there is no corroborating telemetry or multi‑modal sensor data to confirm the presence of a physical object versus a sensor artefact. Without that additional context, the record cannot be reliably analysed or re‑classified. [[AARO]({{ 'aaro/' | relative_url }})]
-* **Resolution to known causes:** When sensor metadata and multi‑sensor corroboration exist, an event is more likely to be traced back to a conventional source (e.g. aircraft, balloon, atmospheric phenomenon). In official review frameworks, this plays directly into case classification, archival tagging and reporting back to oversight bodies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.paraghosts.com/how-to-access-the-new-gov-uap-disclosure-database-for-raw-sensor-data/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paraghosts.com">[Paraghosts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paraghosts.com</span><span class="citation-popover-title">How to Access the New.Gov UAP Disclosure Database for Raw Sensor Data?</span><span class="citation-popover-snippet">ParaghostsHow to Access the New.Gov UAP Disclosure Database for Raw Sensor Data? - ParaghostsMarch 23, 2026...</span><span class="citation-popover-meta">Published: March 23, 2026</span></span></span>
+* **Resolution to known causes:** When sensor metadata and multi‑sensor corroboration exist, an event is more likely to be traced back to a conventional source (e.g. aircraft, balloon, atmospheric phenomenon). In official review frameworks, this plays directly into case classification, archival tagging and reporting back to oversight bodies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.paraghosts.com/how-to-access-the-new-gov-uap-disclosure-database-for-raw-sensor-data/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paraghosts.com">[Paraghosts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paraghosts.com</span><span class="citation-popover-title">How to Access the New.Gov UAP Disclosure Database for Raw Sensor Data?</span><span class="citation-popover-snippet">How to Access the New.Gov UAP Disclosure Database for Raw Sensor Data? - ParaghostsMarch 23, 2026...</span><span class="citation-popover-meta">Published: March 23, 2026</span></span></span>
 * **Data‑driven transparency:** Public releases of official records increasingly attempt to balance openness with operational constraints by including as much sensor context as legally permissible. This can include raw imagery, attached metadata files, or links into [archives]({{ 'archives/' | relative_url }}) with more detailed technical information. The degree of contextual richness directly affects how useful a case file is for external researchers and independent databases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">UFOS This is a brief guide to researching records of UFOs. The surviving records consist mainly of documents relating to official policy...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bi0H_mkwTW0" title="All-domain Anomaly Resolution Office (AARO): a Duality in Mission Regarding UAPs (Sean Kirkpatrick)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bi0H_mkwTW0" target="_blank" rel="noopener noreferrer">All-domain Anomaly Resolution Office (AARO): a Duality in Mission Regarding UAPs (Sean Kirkpatrick)</a></p><p class="youtube-embed-meta">Channel: National Capital Area Skeptics (NCAS) &middot; Views: 2.6K &middot; Uploaded: April 2026 &middot; Length: 1 hour 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bi0H_mkwTW0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bi0H_mkwTW0">Open on YouTube</a></p></div></div></div>
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202_official_uap_sensor_bc7057-Illustration-3-dark.svg" | relative_url }}" alt="Sensor Context illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202_official_uap_sensor_bc7057-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202_official_uap_sensor_bc7057-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -306,15 +302,13 @@ Despite these advantages, sensor context in official UAP systems remains patchy 
 
 Three principal gaps persist:
 
-* **Limited raw metadata in public releases:** Many official files shared externally are edited or redacted, stripping out platform identifiers, timestamps, sensor parameters or telemetry that would allow independent replication of analyses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.paraghosts.com/how-to-access-the-new-gov-uap-disclosure-database-for-raw-sensor-data/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paraghosts.com">[Paraghosts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paraghosts.com</span><span class="citation-popover-title">How to Access the New.Gov UAP Disclosure Database for Raw Sensor Data?</span><span class="citation-popover-snippet">ParaghostsHow to Access the New.Gov UAP Disclosure Database for Raw Sensor Data? - ParaghostsMarch 23, 2026...</span><span class="citation-popover-meta">Published: March 23, 2026</span></span></span>
-* **Sensor artefact confusion:** In the absence of cross‑referenced, high‑fidelity multi‑sensor data, official evaluations often cannot adjudicate between instrument noise and genuine physical signals, leaving cases unresolved in official archives even when imagery exists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Imagery</span><span class="citation-popover-snippet">AAROAARO UAP Imagery...</span></span></span>
+* **Limited raw metadata in public releases:** Many official files shared externally are edited or redacted, stripping out platform identifiers, timestamps, sensor parameters or telemetry that would allow independent replication of analyses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.paraghosts.com/how-to-access-the-new-gov-uap-disclosure-database-for-raw-sensor-data/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paraghosts.com">[Paraghosts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paraghosts.com</span><span class="citation-popover-title">How to Access the New.Gov UAP Disclosure Database for Raw Sensor Data?</span><span class="citation-popover-snippet">How to Access the New.Gov UAP Disclosure Database for Raw Sensor Data? - ParaghostsMarch 23, 2026...</span><span class="citation-popover-meta">Published: March 23, 2026</span></span></span>
+* **Sensor artefact confusion:** In the absence of cross‑referenced, high‑fidelity multi‑sensor data, official evaluations often cannot adjudicate between instrument noise and genuine physical signals, leaving cases unresolved in official archives even when imagery exists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span>
 * **Scientific data scarcity:** Agencies like NASA note that most UAP observations were originally incidental — taken by sensors unsuited for dedicated anomaly tracking — and thus lack the calibration and design features needed for systematic study. This underlines a structural limitation: without purpose‑built sensor networks and comprehensive metadata, [case files]({{ 'case-files/' | relative_url }}) may remain ambiguous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Trump’s direction for whole-of-government transparency and will alw</span><span class="citation-popover-snippet">FAQs - NASA ScienceMay 8, 2026 — UAP FAQS NASA UNIDENTIFIED ANOMALOUS PHENOMENA STUDY Frequently Asked Questions ​&lt; Back to UAP NASA appl...</span><span class="citation-popover-meta">Published: May 8, 2026</span></span></span>
 
-Sensor context — combining the “how,” “with what,” and “under what conditions” a UAP was detected — is therefore central to the evidential value of official case records. It elevates a report from a narrative into a dataset that can be analysed, compared, catalogued and, in many instances, correlated with known physical processes or dismissed as artefact. In databases and catalogues concerned with UAP, recognising this distinction helps researchers and archivists judge which records are robust and which remain data‑limited placeholders pending further evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.paraghosts.com/how-to-access-the-new-gov-uap-disclosure-database-for-raw-sensor-data/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paraghosts.com">[Paraghosts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paraghosts.com</span><span class="citation-popover-title">How to Access the New.Gov UAP Disclosure Database for Raw Sensor Data?</span><span class="citation-popover-snippet">ParaghostsHow to Access the New.Gov UAP Disclosure Database for Raw Sensor Data? - ParaghostsMarch 23, 2026...</span><span class="citation-popover-meta">Published: March 23, 2026</span></span></span>
-
+Sensor context — combining the “how,” “with what,” and “under what conditions” a UAP was detected — is therefore central to the evidential value of official case records. It elevates a report from a narrative into a dataset that can be analysed, compared, catalogued and, in many instances, correlated with known physical processes or dismissed as artefact. In databases and catalogues concerned with UAP, recognising this distinction helps researchers and archivists judge which records are robust and which remain data‑limited placeholders pending further evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.paraghosts.com/how-to-access-the-new-gov-uap-disclosure-database-for-raw-sensor-data/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paraghosts.com">[Paraghosts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paraghosts.com</span><span class="citation-popover-title">How to Access the New.Gov UAP Disclosure Database for Raw Sensor Data?</span><span class="citation-popover-snippet">How to Access the New.Gov UAP Disclosure Database for Raw Sensor Data? - ParaghostsMarch 23, 2026...</span><span class="citation-popover-meta">Published: March 23, 2026</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xmsoQBp83kg" title="Dr Matthew Szydagis “The Latest Scientific News from UAlbany &amp; UAPx”" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xmsoQBp83kg" target="_blank" rel="noopener noreferrer">Dr Matthew Szydagis “The Latest Scientific News from UAlbany &amp; UAPx”</a></p><p class="youtube-embed-meta">Channel: Scientific Coalition for UAP Studies &middot; Views: 1.9K &middot; Uploaded: April 2025 &middot; Length: 1 hour 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xmsoQBp83kg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xmsoQBp83kg">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -713,141 +707,141 @@ Sensor context — combining the “how,” “with what,” and “under what c
 1. <a id="endnote-1"></a>
    Source: paraghosts.com  
    Title: How to Access the New.Gov UAP Disclosure Database for Raw Sensor Data?  
-   Link: [https://www.paraghosts.com/how-to-access-the-new-gov-uap-disclosure-database-for-raw-sensor-data/](https://www.paraghosts.com/how-to-access-the-new-gov-uap-disclosure-database-for-raw-sensor-data/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ParaghostsHow to Access the New.Gov UAP Disclosure Database for Raw Sensor Data? - ParaghostsMarch 23, 2026...</p></details>
+   Link: <a href="https://www.paraghosts.com/how-to-access-the-new-gov-uap-disclosure-database-for-raw-sensor-data/" target="_blank" rel="noopener noreferrer nofollow">https://www.paraghosts.com/how-to-access-the-new-gov-uap-disclosure-database-for-raw-sensor-data/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Access the New.Gov UAP Disclosure Database for Raw Sensor Data? - ParaghostsMarch 23, 2026...</p></details>
    Published: March 23, 2026  
 
 2. <a id="endnote-2"></a>
    Source: smd-cms.nasa.gov  
    Title: Science NASA  
-   Link: [https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNIDENTIFIED ANOMALOUS PHENOMENA Independent...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/o7w4q4](https://www.reddit.com/r/ufo/comments/o7w4q4)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditPreliminary Assessment: Unidentified Aerial Phenomena | DNIJune 25, 2021...</p></details>
+   Link: <a href="https://www.reddit.com/r/ufo/comments/o7w4q4" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/o7w4q4</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Preliminary Assessment: Unidentified Aerial Phenomena | DNIJune 25, 2021...</p></details>
    Published: June 25, 2021  
 
 4. <a id="endnote-4"></a>
    Source: aaro.mil  
    Title: UAP Imagery  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/4/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/4/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROAARO UAP Imagery...</p></details>
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/4/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/4/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download](https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download)  
+   Link: <a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesBulk Downloads for Records Related to Unidentified Anomalous Phenomena (UAPs) | National ArchivesApril 24, 2025...</p></details>
    Published: April 24, 2025  
 
 6. <a id="endnote-6"></a>
    Source: space.com  
    Title: The UFO files: What did we learn from the Pentagon's 1st big release?  
-   Link: [https://www.space.com/space-exploration/search-for-life/the-ufo-files-what-did-we-learn-from-the-pentagons-1st-big-release](https://www.space.com/space-exploration/search-for-life/the-ufo-files-what-did-we-learn-from-the-pentagons-1st-big-release)  
+   Link: <a href="https://www.space.com/space-exploration/search-for-life/the-ufo-files-what-did-we-learn-from-the-pentagons-1st-big-release" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/search-for-life/the-ufo-files-what-did-we-learn-from-the-pentagons-1st-big-release</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense unveiled 158 previously classified files related to unidentified anomalous phenomena (UAP) as part of the Trump adm...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: science.nasa.gov  
    Title: Trump’s direction for whole-of-government transparency and will alw  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FAQs - NASA ScienceMay 8, 2026 — UAP FAQS NASA UNIDENTIFIED ANOMALOUS PHENOMENA STUDY Frequently Asked Questions ​&lt; Back to UAP NASA appl...</p></details>
    Published: May 8, 2026  
 
 8. <a id="endnote-8"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceFebruary 23, 2026 — UAP CONTENTS * NASA Unidentified Anomalous Phenomena Independent Study * Final Report * Notice of Public...</p></details>
    Published: February 23, 2026  
 
 9. <a id="endnote-9"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/rg-615](https://www.archives.gov/research/topics/uaps/rg-615)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>February 20, 2026 — RECORD GROUP 615: UNIDENTIFIED ANOMALOUS PHENOMENA RECORDS COLLECTION The [National Archives](&amp;#123;&amp;#123; &#x27;archives/&#x27; | relative_url &amp;#125;&amp;#125;) “Unidentified Anomalous P...</p></details>
+   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-615" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-615</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>February 20, 2026 — RECORD GROUP 615: UNIDENTIFIED ANOMALOUS PHENOMENA RECORDS COLLECTION The National Archives “Unidentified Anomalous P...</p></details>
    Published: February 20, 2026  
 
 10. <a id="endnote-10"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/faqs](https://www.archives.gov/research/topics/uaps/faqs)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/faqs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>April 24, 2025 — UNIDENTIFIED ANOMALOUS PHENOMENA RECORDS COLLECTION: FREQUENTLY ASKED QUESTIONS The National Archives and Records Admini...</p></details>
    Published: April 24, 2025  
 
 11. <a id="endnote-11"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/records-mgmt/uap-guidance](https://www.archives.gov/records-mgmt/uap-guidance)  
+   Link: <a href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/uap-guidance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 8, 2024 — GUIDANCE TO FEDERAL AGENCIES ON UNIDENTIFIED ANOMALOUS PHENOMENA RECORDS COLLECTION The 2024 National Defense Authorization...</p></details>
    Published: May 8, 2024  
 
 12. <a id="endnote-12"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/FAQ/](https://www.aaro.mil/FAQ/)  
+   Link: <a href="https://www.aaro.mil/FAQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/FAQ/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO FAQFREQUENTLY ASKED QUESTIONS [Button: Expand All] * How can I share information with AARO or report a UAP? * Military and DoW civil...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOS This is a brief guide to researching records of UFOs. The surviving records consist mainly of documents relating to official policy...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: uapradar.com  
-   Link: [https://uapradar.com/methodology](https://uapradar.com/methodology)  
+   Link: <a href="https://uapradar.com/methodology" target="_blank" rel="noopener noreferrer nofollow">https://uapradar.com/methodology</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Source Policy &amp; Methodology | UAP RadarSource Policy &amp; Methodology HOW UAP RADAR LABELS, SEPARATES, AND FRAMES INFORMATION UAP Radar is d...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: ufotransparency.com  
-   Link: [https://ufotransparency.com/files/decade-2020s-odni-uap-preliminary-assessment-2021-prelimary-assessment-uap-20210625](https://ufotransparency.com/files/decade-2020s-odni-uap-preliminary-assessment-2021-prelimary-assessment-uap-20210625)  
+   Link: <a href="https://ufotransparency.com/files/decade-2020s-odni-uap-preliminary-assessment-2021-prelimary-assessment-uap-20210625" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-odni-uap-preliminary-assessment-2021-prelimary-assessment-uap-20210625</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ODNI Preliminary UAP Assessment, June 2021, Office of the Director of National Intelligence (ODNI) · 2021 · UFO TransparencyJune 25, 2021...</p></details>
    Published: June 25, 2021  
 
 16. <a id="endnote-16"></a>
    Source: cbsnews.com  
    Title: Pentagon task force's UFO report released — many cases remain unexplained  
-   Link: [https://www.cbsnews.com/news/pentagon-ufo-report-released-many-uap-cases-remain-unexplained/](https://www.cbsnews.com/news/pentagon-ufo-report-released-many-uap-cases-remain-unexplained/)  
+   Link: <a href="https://www.cbsnews.com/news/pentagon-ufo-report-released-many-uap-cases-remain-unexplained/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/pentagon-ufo-report-released-many-uap-cases-remain-unexplained/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsJune 25, 2021 — PENTAGON TASK FORCE&#x27;S UFO REPORT RELEASED — MANY CASES REMAIN UNEXPLAINED By Nicole Sganga, David Martin, Olivia...</p></details>
    Published: June 25, 2021  
 
 17. <a id="endnote-17"></a>
    Source: uapradar.com  
    Title: Matched Items 3 Official Labels 2 Late  
-   Link: [https://uapradar.com/official-records/aaro.html](https://uapradar.com/official-records/aaro.html)  
+   Link: <a href="https://uapradar.com/official-records/aaro.html" target="_blank" rel="noopener noreferrer nofollow">https://uapradar.com/official-records/aaro.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Records | UAP RadarMay 8, 2026 — Official Record Source AARO RECORDS AARO case resolutions, public records hubs, annual report mater...</p></details>
    Published: May 8, 2026  
 
 18. <a id="endnote-18"></a>
    Source: ufo-declassified.com  
    Title: UF O Declassified — Explore Government UAP Files  
-   Link: [https://ufo-declassified.com/](https://ufo-declassified.com/)  
+   Link: <a href="https://ufo-declassified.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufo-declassified.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>64 new records are now indexed. Open batch → SEARCH THE UFO FILES RELEASE 02 NOW INDEXED Search 190 document recor...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: abcnews.go.com  
    Title: By Luis Martinez October 18,  
-   Link: [https://abcnews.go.com/Politics/ufo-reports-ordinary-explanations-government-investigation-continues/story?id=104099370](https://abcnews.go.com/Politics/ufo-reports-ordinary-explanations-government-investigation-continues/story?id=104099370)  
+   Link: <a href="https://abcnews.go.com/Politics/ufo-reports-ordinary-explanations-government-investigation-continues/story?id=104099370" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.go.com/Politics/ufo-reports-ordinary-explanations-government-investigation-continues/story?id=104099370</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports likely to be &#x27;ordinary,&#x27; government says, as investigation continues - ABC NewsOctober 18, 2023 — MOST UFO REPORTS LIKELY TO...</p></details>
    Published: October 18, 2023  
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=bi0H_mkwTW0](https://www.youtube.com/watch?v=bi0H_mkwTW0)  
+   Link: <a href="https://www.youtube.com/watch?v=bi0H_mkwTW0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bi0H_mkwTW0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr Matthew Szydagis “The Latest Scientific News from UAlbany &amp; UAPx”...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: uapradar.com  
    Title: Matched Items 1 Official  
-   Link: [https://uapradar.com/official-records/odni.html](https://uapradar.com/official-records/odni.html)  
+   Link: <a href="https://uapradar.com/official-records/odni.html" target="_blank" rel="noopener noreferrer nofollow">https://uapradar.com/official-records/odni.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ODNI UAP Reports | UAP RadarOctober 18, 2023 — Official Record Source ODNI UAP REPORTS ODNI annual UAP assessments, intelligence-communit...</p></details>
    Published: October 18, 2023  
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Dr Matthew Szydagis “The Latest Scientific News from UAlbany & UAPx”  
-   Link: [https://www.youtube.com/watch?v=xmsoQBp83kg](https://www.youtube.com/watch?v=xmsoQBp83kg)  
+   Link: <a href="https://www.youtube.com/watch?v=xmsoQBp83kg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xmsoQBp83kg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Declassified UAP Video: Military Infrared Sensor Tracks Object Making “90-Degree Turns” Near Greece...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: ufofiles.app  
    Title: War.gov UFO release  
-   Link: [https://ufofiles.app/](https://ufofiles.app/)  
+   Link: <a href="https://ufofiles.app/" target="_blank" rel="noopener noreferrer nofollow">https://ufofiles.app/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Global UFO Files and UAP Case Archive | UFOFiles.appOFFICIAL UAP FILES AND SOURCE NOTES These entries are source-led: what the government...</p></details>

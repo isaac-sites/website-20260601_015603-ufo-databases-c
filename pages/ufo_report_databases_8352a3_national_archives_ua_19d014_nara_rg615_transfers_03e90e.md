@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /archives/
 nav_short_title: RG 615 Transfers
 title: How UAP Records Are Transferred to NARA's RG 615
-title_full: How UAP Records Are Transferred to NARA's RG 615 | Archives
+title_full: How UAP Records Are Transferred to NARA's RG 615
 display_title_short: RG 615 Transfers
 display_title: RG 615 Transfers
 heading_title: How UAP Records Are Transferred to NARA's RG 615
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 20:17:20'
-parent_title: Finding Original UFO Records in Archives | UFO Archives
+parent_title: Finding Original UFO Records in Archives
 parent_permalink: /archives/
 parent_nav_short_title: Archives
 parent_heading_title: Finding Original UFO Records in Archives
@@ -268,20 +268,18 @@ image: /assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_na
 
 ## Introduction
 
-Record Group 615 (RG 615), the [National Archives]({{ 'archives/' | relative_url }}) and Records Administration’s Unidentified Anomalous Phenomena Records Collection, is not simply a new archive category. It is a government-wide transfer system created by the 2024 National Defense Authorization Act (NDAA) to move UAP-related records from individual federal agencies into a central, publicly searchable repository. The significance of RG 615 lies as much in the transfer process as in the records themselves. Congress required agencies to identify, organise, digitise and transmit UAP records under a common framework, giving researchers a way to track what has been transferred, what remains withheld, and how disclosure decisions are being managed across government. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
-
+Record Group 615 (RG 615), the National [Archives]({{ 'archives/' | relative_url }}) and Records Administration’s Unidentified Anomalous Phenomena Records Collection, is not simply a new archive category. It is a government-wide transfer system created by the 2024 National Defense Authorization Act (NDAA) to move UAP-related records from individual federal agencies into a central, publicly searchable repository. The significance of RG 615 lies as much in the transfer process as in the records themselves. Congress required agencies to identify, organise, digitise and transmit UAP records under a common framework, giving researchers a way to track what has been transferred, what remains withheld, and how disclosure decisions are being managed across government. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_nara_rg615_transfers_03e90e-Illustration-1-dark.svg" | relative_url }}" alt="RG 615 Transfers illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_nara_rg615_transfers_03e90e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_nara_rg615_transfers_03e90e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For anyone studying UAP databases and archival collections, the transfer process is where transparency succeeds or fails. Deadlines, metadata rules, digital formatting requirements and redaction procedures determine whether records become searchable public documents or remain fragmented across agency systems. RG 615 therefore functions as both an archive and a records-governance mechanism. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
 
 ## Why Congress Created a Central Transfer Pipeline
 
-Before RG 615, UAP-related records were scattered across defence agencies, intelligence bodies, aviation regulators, scientific organisations and historical [archives]({{ 'archives/' | relative_url }}). Some were available through Freedom of Information Act releases, others through agency reading rooms, while many remained difficult to locate because they sat inside broader record series with unrelated subjects.
+Before RG 615, UAP-related records were scattered across defence agencies, intelligence bodies, aviation regulators, scientific organisations and historical archives. Some were available through Freedom of Information Act releases, others through agency reading rooms, while many remained difficult to locate because they sat inside broader record series with unrelated subjects.
 
 The FY2024 NDAA attempted to solve that problem by requiring every federal agency to review its holdings and identify records relating to unidentified anomalous phenomena, technologies of unknown origin and non-human intelligence as defined by the legislation. Those records were then to be prepared for transmission to the National Archives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
 
 The transfer framework serves three practical purposes:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -302,7 +300,6 @@ The first major deadline was not a transfer deadline but a records-identificatio
 NARA's guidance instructed agencies that, under the law, they were required by 20 October 2024 to review, identify and organise every UAP record in their custody for public disclosure review and eventual transmission to the National Archives. This requirement effectively launched agency-wide record searches. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
 
 In practical terms, agencies first had to answer several questions:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -326,7 +323,6 @@ The rolling-transfer model matters because it prevents a single large disclosure
 
 NARA has repeatedly stated that additional records will continue to appear in the collection on an ongoing basis as agencies complete transfers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wy1qDwPhaVM" title="Project Blue Book, 1950–1966 - The National Archives Catalog UAP Records (341-pbb-492)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wy1qDwPhaVM" target="_blank" rel="noopener noreferrer">Project Blue Book, 1950–1966 - The National Archives Catalog UAP Records (341-pbb-492)</a></p><p class="youtube-embed-meta">Channel: New Paradigm Institute &middot; Views: 339 &middot; Uploaded: October 2024 &middot; Length: 3 minutes 9 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wy1qDwPhaVM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wy1qDwPhaVM">Open on YouTube</a></p></div></div></div>
 
 ### Existing Public Records Are Not Exempt
@@ -349,7 +345,6 @@ NARA's transfer model places substantial emphasis on preparing records through e
 
 That distinction is important because accessioning creates archival control. Researchers can determine:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Which agency created the record.
@@ -359,7 +354,6 @@ That distinction is important because accessioning creates archival control. Res
 * Whether access restrictions apply. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
 
 </div>
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_nara_rg615_transfers_03e90e-Illustration-2-dark.svg" | relative_url }}" alt="RG 615 Transfers illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_nara_rg615_transfers_03e90e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_nara_rg615_transfers_03e90e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Digital-Only Submission Requirements
@@ -372,7 +366,6 @@ This requirement reflects broader federal records-management trends. Across gove
 
 For researchers, digital-only transfers offer several advantages:
 
-
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
 * Faster publication.
@@ -382,7 +375,6 @@ For researchers, digital-only transfers offer several advantages:
 * More consistent preservation workflows. National Archives <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/records-mgmt/memos/ac-04-2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[archives.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesAC 04.202510 Oct 2024 — No later than September 30, 2025, federal agencies must transfer to NARA digital copies of all U...</span><span class="citation-popover-meta">Published: September 30, 2025</span></span></span>
 
 </div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cPEqqwVnzeY" title="UFO Records Now at National Archives - Disclosure Begins!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cPEqqwVnzeY" target="_blank" rel="noopener noreferrer">UFO Records Now at National Archives - Disclosure Begins!</a></p><p class="youtube-embed-meta">Channel: NIGHT SHIFT &middot; Views: 2.2K &middot; Uploaded: March 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cPEqqwVnzeY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cPEqqwVnzeY">Open on YouTube</a></p></div></div></div>
 
@@ -406,7 +398,6 @@ This rule serves two different audiences at once.
 
 The redacted copy supports public access, while the unredacted copy preserves the complete historical record under archival control.
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_nara_rg615_transfers_03e90e-Illustration-3-dark.svg" | relative_url }}" alt="RG 615 Transfers illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_nara_rg615_transfers_03e90e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_nara_rg615_transfers_03e90e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why NARA Wants Both Versions
 
@@ -423,7 +414,6 @@ The redaction framework highlights one of the central tensions in the entire UAP
 Congress framed the collection as a transparency initiative, yet many records originate within defence, intelligence and national-security environments. Agencies therefore must balance disclosure requirements against classification obligations and other legal restrictions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
 
 As a result, the public collection should not be viewed as a simple measure of what government agencies possess. Instead, it reflects a layered process involving identification, review, redaction, transfer and publication.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1tw166vkmrM" title="🛸 UFO LAW DEADLINE JUST HIT! - UFO Files: 30 Days Until They&#x27;re Public...THIS IS HUGE!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1tw166vkmrM" target="_blank" rel="noopener noreferrer">🛸 UFO LAW DEADLINE JUST HIT! - UFO Files: 30 Days Until They&#x27;re Public...THIS IS HUGE!</a></p><p class="youtube-embed-meta">Channel: Hallucination Hippies &middot; Views: 980 &middot; Uploaded: October 2025 &middot; Length: 1 minute 27 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1tw166vkmrM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1tw166vkmrM">Open on YouTube</a></p></div></div></div>
 
@@ -852,115 +842,115 @@ For UAP researchers, the transfer process itself has become a source of evidence
 1. <a id="endnote-1"></a>
    Source: archives.gov  
    Title: uap guidance  
-   Link: [https://www.archives.gov/records-mgmt/uap-guidance](https://www.archives.gov/records-mgmt/uap-guidance)  
+   Link: <a href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/uap-guidance</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesGuidance to Federal Agencies on Unidentified Anomalous...8 May 2024 — The law requires that by October 20, 2024, each f...</p></details>
    Published: October 20, 2024  
 
 2. <a id="endnote-2"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/faqs](https://www.archives.gov/research/topics/uaps/faqs)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/faqs</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesUnidentified Anomalous Phenomena Records Collection24 Apr 2025 — UAP records transferred to NARA in accordance with the...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/records-mgmt/memos/ac-04-2025](https://www.archives.gov/records-mgmt/memos/ac-04-2025)  
+   Link: <a href="https://www.archives.gov/records-mgmt/memos/ac-04-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/memos/ac-04-2025</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesAC 04.202510 Oct 2024 — No later than September 30, 2025, federal agencies must transfer to NARA digital copies of all U...</p></details>
    Published: September 30, 2025  
 
 4. <a id="endnote-4"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/rg-615](https://www.archives.gov/research/topics/uaps/rg-615)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-615" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-615</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecord Group 615: Unidentified Anomalous Phenomena...NARA issued guidance to federal agencies regarding identification...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — NARA has issued guidance to federal agencies...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/findingaid/stat/discovery/615](https://www.archives.gov/findingaid/stat/discovery/615)  
+   Link: <a href="https://www.archives.gov/findingaid/stat/discovery/615" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/findingaid/stat/discovery/615</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Record Group 615 - Unidentified Anomalous Phenomena...Explore descriptions of our records. These records, though not yet digitized, are...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/](https://www.archives.gov/)  
+   Link: <a href="https://www.archives.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>2-6272. Top. ✓. Thanks for sharing! AddToAny...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/rg-collections](https://www.archives.gov/research/topics/uaps/rg-collections)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ted to UFOs and UAPs across all media types.Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nara.com  
-   Link: [https://nara.com/?srsltid=AfmBOophfpR0KBmISPzwE2qLYDAYu1LsB-CiWQmNXW370jrG7RtDYLSf](https://nara.com/?srsltid=AfmBOophfpR0KBmISPzwE2qLYDAYu1LsB-CiWQmNXW370jrG7RtDYLSf)  
+   Link: <a href="https://nara.com/?srsltid=AfmBOophfpR0KBmISPzwE2qLYDAYu1LsB-CiWQmNXW370jrG7RtDYLSf" target="_blank" rel="noopener noreferrer nofollow">https://nara.com/?srsltid=AfmBOophfpR0KBmISPzwE2qLYDAYu1LsB-CiWQmNXW370jrG7RtDYLSf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Made in Germany to EU and FDA standards. More organic whole milk fat than any U.S...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: nara.org  
-   Link: [https://nara.org/](https://nara.org/)  
+   Link: <a href="https://nara.org/" target="_blank" rel="noopener noreferrer nofollow">https://nara.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>s, programs and technical support to the rendering industry...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: UFO Law Deadline Just Hit!  
-   Link: [http://www.youtube.com/watch?v=1tw166vkmrM](http://www.youtube.com/watch?v=1tw166vkmrM)  
+   Link: <a href="http://www.youtube.com/watch?v=1tw166vkmrM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=1tw166vkmrM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives and Records Administration (NARA) has uploaded a video of the Roswell 1947...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=WTKWBM-JMKE](http://www.youtube.com/watch?v=WTKWBM-JMKE)  
+   Link: <a href="http://www.youtube.com/watch?v=WTKWBM-JMKE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=WTKWBM-JMKE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project [Blue Book](&amp;#123;&amp;#123; &#x27;blue-book/&#x27; | relative_url &amp;#125;&amp;#125;), 1950–1966 - The National Archives Catalog UAP Records (341-pbb-492)...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: nextgov.com  
    Title: national archives tees new rules ufo records  
-   Link: [https://www.nextgov.com/digital-government/2024/02/national-archives-tees-new-rules-ufo-records/393982/](https://www.nextgov.com/digital-government/2024/02/national-archives-tees-new-rules-ufo-records/393982/)  
+   Link: <a href="https://www.nextgov.com/digital-government/2024/02/national-archives-tees-new-rules-ufo-records/393982/" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/digital-government/2024/02/national-archives-tees-new-rules-ufo-records/393982/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nextgov/FCWNational Archives tees up new rules for UFO records6 Feb 2024 — New legislation mandates a governmentwide repository of record...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: nrc.gov  
-   Link: [https://www.nrc.gov/docs/ML2417/ML24177A281.pdf](https://www.nrc.gov/docs/ML2417/ML24177A281.pdf)  
+   Link: <a href="https://www.nrc.gov/docs/ML2417/ML24177A281.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nrc.gov/docs/ML2417/ML24177A281.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NARA by October 20, 2024. NARA will only accept the digital...Read more...</p></details>
    Published: October 20, 2024  
 
 15. <a id="endnote-15"></a>
    Source: federalnewsnetwork.com  
-   Link: [https://federalnewsnetwork.com/it-modernization/2024/07/nara-sees-requests-to-transfer-nearly-1m-cubic-feet-of-records-ahead-of-deadline/](https://federalnewsnetwork.com/it-modernization/2024/07/nara-sees-requests-to-transfer-nearly-1m-cubic-feet-of-records-ahead-of-deadline/)  
+   Link: <a href="https://federalnewsnetwork.com/it-modernization/2024/07/nara-sees-requests-to-transfer-nearly-1m-cubic-feet-of-records-ahead-of-deadline/" target="_blank" rel="noopener noreferrer nofollow">https://federalnewsnetwork.com/it-modernization/2024/07/nara-sees-requests-to-transfer-nearly-1m-cubic-feet-of-records-ahead-of-deadline/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal News NetworkNARA sees requests to transfer nearly 1M cubic feet of...Jul 16, 2024 — NARA sees requests to transfer nearly 1M cub...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
    Title: us national archives nara publishes frequently  
-   Link: [https://www.reddit.com/r/UFOs/comments/1g0qptd/us_national_archives_nara_publishes_frequently/](https://www.reddit.com/r/UFOs/comments/1g0qptd/us_national_archives_nara_publishes_frequently/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1g0qptd/us_national_archives_nara_publishes_frequently/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1g0qptd/us_national_archives_nara_publishes_frequently/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives (NARA) publishes &quot;Frequently...No later than September 30, 2025, federal agencies must transfer to NARA digital copies...</p></details>
    Published: September 30, 2025  
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
    Title: National Archives and Records Administration  
-   Link: [https://en.wikipedia.org/wiki/National_Archives_and_Records_Administration](https://en.wikipedia.org/wiki/National_Archives_and_Records_Administration)  
+   Link: <a href="https://en.wikipedia.org/wiki/National_Archives_and_Records_Administration" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Archives_and_Records_Administration</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives and Records AdministrationNARA is officially responsible for maintaining and publishing the legally authentic and au...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: [aaro](&#123;&#123; 'aaro/' | relative_url &#125;&#125;). mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>/Information Papers13 Feb 2026 — The National Archives and Records Administration (NARA) provides access to many government records... U...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: usa.gov  
-   Link: [https://www.usa.gov/agencies/national-archives-and-records-administration](https://www.usa.gov/agencies/national-archives-and-records-administration)  
+   Link: <a href="https://www.usa.gov/agencies/national-archives-and-records-administration" target="_blank" rel="noopener noreferrer nofollow">https://www.usa.gov/agencies/national-archives-and-records-administration</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>s, manages the Presidential Libraries system, and publishes laws...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: x.com  
-   Link: [https://x.com/ddeanjohnson/status/1849906027090555321](https://x.com/ddeanjohnson/status/1849906027090555321)  
+   Link: <a href="https://x.com/ddeanjohnson/status/1849906027090555321" target="_blank" rel="noopener noreferrer nofollow">https://x.com/ddeanjohnson/status/1849906027090555321</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NATIONAL ARCHIVES UAP RECORDS COLLECTIONS...On October 10, 2024, NARA issued AC Memo 04.2025: Transfer of Publicly Releasable Unidentifi...</p></details>
    Published: October 10, 2024  
 
@@ -968,57 +958,57 @@ For UAP researchers, the transfer process itself has become a source of evidence
 
 22. <a id="endnote-22"></a>
    Source: reaganlibrary.gov  
-   Link: [https://www.reaganlibrary.gov/education/nara-resources](https://www.reaganlibrary.gov/education/nara-resources)  
+   Link: <a href="https://www.reaganlibrary.gov/education/nara-resources" target="_blank" rel="noopener noreferrer nofollow">https://www.reaganlibrary.gov/education/nara-resources</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NARA ResourcesThrough innovation and technology the National Archives creates educational experiences using primary sources in the classr...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: burlison.house.gov  
    Title: burlison presses mitre answers uap records ffrdc accountability and compliance  
-   Link: [https://burlison.house.gov/media/press-releases/burlison-presses-mitre-answers-uap-records-ffrdc-accountability-and-compliance](https://burlison.house.gov/media/press-releases/burlison-presses-mitre-answers-uap-records-ffrdc-accountability-and-compliance)  
+   Link: <a href="https://burlison.house.gov/media/press-releases/burlison-presses-mitre-answers-uap-records-ffrdc-accountability-and-compliance" target="_blank" rel="noopener noreferrer nofollow">https://burlison.house.gov/media/press-releases/burlison-presses-mitre-answers-uap-records-ffrdc-accountability-and-compliance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>agencies have been directed to identify, review, digitize, and transfer appropriate UAP records to NARA for inclusion in Record Group 615...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1r9j4ud/department_of_state_uap_records_ready_to_release/](https://www.reddit.com/r/UFOs/comments/1r9j4ud/department_of_state_uap_records_ready_to_release/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1r9j4ud/department_of_state_uap_records_ready_to_release/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1r9j4ud/department_of_state_uap_records_ready_to_release/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of State UAP Records Ready to Release: r/UFOsNARA has had a slow drip of records and they have just over a month left to meet...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: nowdeclassified.com  
-   Link: [https://www.nowdeclassified.com/guides](https://www.nowdeclassified.com/guides)  
+   Link: <a href="https://www.nowdeclassified.com/guides" target="_blank" rel="noopener noreferrer nofollow">https://www.nowdeclassified.com/guides</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Archive Guides | Now DeclassifiedEditorial guides covering NARA RG 615, AARO UAP cases, NASA&#x27;s UAP study, FBI Vault UFO files, and pr...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
    Title: new to maximize transparency the national archives has released new records rel  
-   Link: [https://www.facebook.com/usnationalarchives/posts/-new-to-maximize-transparency-the-national-archives-has-released-new-records-rel/1064767475698845/](https://www.facebook.com/usnationalarchives/posts/-new-to-maximize-transparency-the-national-archives-has-released-new-records-rel/1064767475698845/)  
+   Link: <a href="https://www.facebook.com/usnationalarchives/posts/-new-to-maximize-transparency-the-national-archives-has-released-new-records-rel/1064767475698845/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/usnationalarchives/posts/-new-to-maximize-transparency-the-national-archives-has-released-new-records-rel/1064767475698845/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US National Archives... October 2024, NARA has not yet received any records from federal agencies for inclusion in Record Group 615.&quot; Rec...</p></details>
    Published: October 2024  
 
 27. <a id="endnote-27"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: reddit.com  
    Title: to maximize transparency the national archives  
-   Link: [https://www.reddit.com/r/UFOs/comments/1k75ynz/to_maximize_transparency_the_national_archives/](https://www.reddit.com/r/UFOs/comments/1k75ynz/to_maximize_transparency_the_national_archives/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1k75ynz/to_maximize_transparency_the_national_archives/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1k75ynz/to_maximize_transparency_the_national_archives/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>To maximize transparency, the National Archives has...Recent official releases: In April 2025 NARA announced that it has made available...</p></details>
    Published: April 2025  
 
 29. <a id="endnote-29"></a>
    Source: hm05uap.substack.com  
    Title: uap record transfers due today  
-   Link: [https://hm05uap.substack.com/p/uap-record-transfers-due-today](https://hm05uap.substack.com/p/uap-record-transfers-due-today)  
+   Link: <a href="https://hm05uap.substack.com/p/uap-record-transfers-due-today" target="_blank" rel="noopener noreferrer nofollow">https://hm05uap.substack.com/p/uap-record-transfers-due-today</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Record Transfers Due Today - HM05UAPUAP Record Transfers Due Today. Federal agencies are required to transfer UAP records to the National...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=wy1qDwPhaVM](http://www.youtube.com/watch?v=wy1qDwPhaVM)  
+   Link: <a href="http://www.youtube.com/watch?v=wy1qDwPhaVM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=wy1qDwPhaVM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NEW National Archives Record Group 615—Forthcoming UAP Document Dump?...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: newspaceeconomy.ca  
    Title: the national archives and the uap records collection  
-   Link: [https://newspaceeconomy.ca/2025/12/06/the-national-archives-and-the-uap-records-collection/](https://newspaceeconomy.ca/2025/12/06/the-national-archives-and-the-uap-records-collection/)  
+   Link: <a href="https://newspaceeconomy.ca/2025/12/06/the-national-archives-and-the-uap-records-collection/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/12/06/the-national-archives-and-the-uap-records-collection/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Record Group 615 serves as the central repository for these...Read more...</p></details>

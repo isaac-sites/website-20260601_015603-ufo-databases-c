@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /archives/
 nav_short_title: Catalogue & Downloads
 title: Using NARA Catalogues and Bulk Downloads for UAP Records
-title_full: Using NARA Catalogues and Bulk Downloads for UAP Records | Archives
+title_full: Using NARA Catalogues and Bulk Downloads for UAP Records
 display_title_short: Catalogue & Downloads
 display_title: Catalogue & Downloads
 heading_title: Using NARA Catalogues and Bulk Downloads for UAP Records
@@ -201,7 +201,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 20:17:29'
-parent_title: Finding Original UFO Records in Archives | UFO Archives
+parent_title: Finding Original UFO Records in Archives
 parent_permalink: /archives/
 parent_nav_short_title: Archives
 parent_heading_title: Finding Original UFO Records in Archives
@@ -272,18 +272,16 @@ image: /assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_ua
 
 ## Introduction
 
-Researchers seeking systematic access to UAP (Unidentified Anomalous Phenomena) records in U.S. federal custody rely not just on individual document viewing but on structured cataloguing and bulk access mechanisms. The U.S. [National Archives]({{ 'archives/' | relative_url }}) and Records Administration (NARA) now supports both detailed catalogue entries with rich metadata and downloadable “bulk” packages of digitised and born‑digital UAP materials. These tools aim to let researchers verify records, build searchable datasets, and work more efficiently than by manually visiting or individually downloading entries.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/discovery-help/searching-for-records-using-discovery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Searching for records using DiscoveryThere are two ways to look for a record using Discovery, searching or browsing. This section contain...</span></span></span>
-
+Researchers seeking systematic access to UAP (Unidentified Anomalous Phenomena) records in U.S. federal custody rely not just on individual document viewing but on structured cataloguing and bulk access mechanisms. The U.S. National [Archives]({{ 'archives/' | relative_url }}) and Records Administration (NARA) now supports both detailed catalogue entries with rich metadata and downloadable “bulk” packages of digitised and born‑digital UAP materials. These tools aim to let researchers verify records, build searchable datasets, and work more efficiently than by manually visiting or individually downloading entries.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/discovery-help/searching-for-records-using-discovery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Searching for records using DiscoveryThere are two ways to look for a record using Discovery, searching or browsing. This section contain...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_uap_catalogue_bulk_d_f3c3e1-Illustration-1-dark.svg" | relative_url }}" alt="Catalogue &amp; Downloads illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_uap_catalogue_bulk_d_f3c3e1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_uap_catalogue_bulk_d_f3c3e1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Catalogue entries and metadata fields
 
-At the core of NARA’s public access system is the **National [Archives]({{ 'archives/' | relative_url }}) Catalog**, a searchable online portal describing archival records across all media types. It organizes materials hierarchically by **record group, series, file unit and item**, with each level assigned a National Archives Identifier (NAID). Users can search by keyword, date range, creator, NAID or topic to bring up catalogue pages that list descriptive metadata for records and linked digital objects such as images, videos, or PDF scans. While metadata varies by record type, typical fields include title, creator agency, date range of coverage, scope and content notes, and links to associated digital objects. The catalog records themselves are machine‑readable and can be exported or harvested using NARA’s **Catalog API** in JSON format.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/discovery-help/searching-for-records-using-discovery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Searching for records using DiscoveryThere are two ways to look for a record using Discovery, searching or browsing. This section contain...</span></span></span>
+At the core of NARA’s public access system is the **National Archives Catalog**, a searchable online portal describing archival records across all media types. It organizes materials hierarchically by **record group, series, file unit and item**, with each level assigned a National Archives Identifier (NAID). Users can search by keyword, date range, creator, NAID or topic to bring up catalogue pages that list descriptive metadata for records and linked digital objects such as images, videos, or PDF scans. While metadata varies by record type, typical fields include title, creator agency, date range of coverage, scope and content notes, and links to associated digital objects. The catalog records themselves are machine‑readable and can be exported or harvested using NARA’s **Catalog API** in JSON format.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/discovery-help/searching-for-records-using-discovery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Searching for records using DiscoveryThere are two ways to look for a record using Discovery, searching or browsing. This section contain...</span></span></span>
 
 For UAP records specifically, NARA’s online **Record Group 615: Unidentified Anomalous Phenomena Records Collection** page lists multi‑agency contributions (for example, from the FAA, NRC, ODNI, and OSD) with links into the Catalog. Each linked series page provides detailed archival descriptions that position the UAP materials within NARA’s archival control system, making it possible to trace provenance and contextual metadata for each set of records.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/discovery-help/searching-for-records-using-discovery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Searching for records using DiscoveryThere are two ways to look for a record using Discovery, searching or browsing. This section contain...</span></span></span>
 
 Metadata fields extracted via the catalog or API are particularly valuable for researchers because they make records **checkable and indexable**. In bulk JSON exports, researchers can programmatically inspect fields such as the NAID, title, description, date ranges, media types, and object links. This structured metadata underpins large‑scale analyses, such as mapping media types across agencies or correlating dates, without manually viewing each record online.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/discovery-help/searching-for-records-using-discovery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Searching for records using DiscoveryThere are two ways to look for a record using Discovery, searching or browsing. This section contain...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eiZTlOzdnO4" title="Introducing the Next Generation National Archives Catalog" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eiZTlOzdnO4" target="_blank" rel="noopener noreferrer">Introducing the Next Generation National Archives Catalog</a></p><p class="youtube-embed-meta">Channel: US National Archives &middot; Views: 1.2K &middot; Uploaded: March 2023 &middot; Length: 4 minutes 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eiZTlOzdnO4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eiZTlOzdnO4">Open on YouTube</a></p></div></div></div>
 
@@ -297,19 +295,16 @@ Beyond browsing individual catalogue entries, NARA provides a **bulk download sy
 
 ‑ **Digital objects**: The paired zip file contains the actual image, video and PDF files referenced in the catalog. For example, bulk packages include Project [Blue Book]({{ 'blue-book/' | relative_url }}) photographic sets, FAA electronic records, ODNI image series and OSD documents. Files range from megabyte‑scale text scans to multi‑gigabyte audiovisual collections.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/discovery-help/searching-for-records-using-discovery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Searching for records using DiscoveryThere are two ways to look for a record using Discovery, searching or browsing. This section contain...</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_uap_catalogue_bulk_d_f3c3e1-Illustration-2-dark.svg" | relative_url }}" alt="Catalogue &amp; Downloads illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_uap_catalogue_bulk_d_f3c3e1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_uap_catalogue_bulk_d_f3c3e1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Generating and updating bundles
 
 According to NARA’s explanation, staff **pull NAIDs from the UAP records list and run scripts to gather all applicable file units and items**, retrieving object URLs and packaging them together. NARA has committed to updating these bulk downloads at least **three times per year**, reflecting additions to the Catalog as federal agencies transfer more records.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/discovery-help/searching-for-records-using-discovery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Searching for records using DiscoveryThere are two ways to look for a record using Discovery, searching or browsing. This section contain...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LXPHkfwD8mk" title="Searching the Archives Catalog" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LXPHkfwD8mk" target="_blank" rel="noopener noreferrer">Searching the Archives Catalog</a></p><p class="youtube-embed-meta">Channel: UofL Archives &amp; Special Collections &middot; Views: 646 &middot; Uploaded: September 2020 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LXPHkfwD8mk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LXPHkfwD8mk">Open on YouTube</a></p></div></div></div>
 
 ### Structure and scale
 
 Bulk download entries are organised by archival series or media type rather than by individual document. For example, still image holdings, textual records and audiovisual series each have their own bulk packages. Some zip files—especially for extensive textual or microfilm series like Project Blue Book case files—are extremely large, reflecting many gigabytes of material when uncompressed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/discovery-help/searching-for-records-using-discovery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Searching for records using DiscoveryThere are two ways to look for a record using Discovery, searching or browsing. This section contain...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cKffIdedkUw" title="Project Blue Book, 1950–1966 - The National Archives Catalog UAP Records (341-pbb-757)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cKffIdedkUw" target="_blank" rel="noopener noreferrer">Project Blue Book, 1950–1966 - The National Archives Catalog UAP Records (341-pbb-757)</a></p><p class="youtube-embed-meta">Channel: New Paradigm Institute &middot; Views: 380 &middot; Uploaded: October 2024 &middot; Length: 2 minutes 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cKffIdedkUw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cKffIdedkUw">Open on YouTube</a></p></div></div></div>
 
@@ -324,7 +319,6 @@ Although catalogue and bulk download systems greatly facilitate access, there ar
 ‑ **Ongoing transfers.** While a legal framework has been established for transferring UAP records to NARA (mandated by the 2024 National Defense Authorization Act), transfers are rolling and incomplete. The catalogue and its bulk exports will continue to expand as agencies comply with metadata preparation and transfer requirements.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/discovery-help/searching-for-records-using-discovery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Searching for records using DiscoveryThere are two ways to look for a record using Discovery, searching or browsing. This section contain...</span></span></span>
 
 Researchers should treat the catalogue and bulk packages as **living resources**: regularly updated, rich in structured metadata, and designed to reduce repetitive manual access, but still constrained by legal access status, ongoing archival work, and the fact that not all incoming agency records may yet be fully catalogued or released.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/discovery-help/searching-for-records-using-discovery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Searching for records using DiscoveryThere are two ways to look for a record using Discovery, searching or browsing. This section contain...</span></span></span>
-
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_uap_catalogue_bulk_d_f3c3e1-Illustration-3-dark.svg" | relative_url }}" alt="Catalogue &amp; Downloads illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_uap_catalogue_bulk_d_f3c3e1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_uap_catalogue_bulk_d_f3c3e1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -724,201 +718,201 @@ Researchers should treat the catalogue and bulk packages as **living resources**
 
 1. <a id="endnote-1"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download](https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download)  
+   Link: <a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesBulk Downloads for Records Related to Unidentified Anomalous Phenomena (UAPs) | National ArchivesApril 24, 2025...</p></details>
    Published: April 24, 2025  
 
 2. <a id="endnote-2"></a>
    Source: archives.gov  
    Title: catalog bulk downloads  
-   Link: [https://www.archives.gov/research/catalog/catalog-bulk-downloads](https://www.archives.gov/research/catalog/catalog-bulk-downloads)  
+   Link: <a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesBulk Downloads from the Catalog20 Sept 2024 — National Archives staff generate bulk downloads of digitized or born digit...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: archives.gov  
    Title: National Archives Using the National Archives Catalog  
-   Link: [https://www.archives.gov/research/catalog/help/using](https://www.archives.gov/research/catalog/help/using)  
+   Link: <a href="https://www.archives.gov/research/catalog/help/using" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/help/using</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesUsing the National Archives CatalogAugust 15, 2016 — 21 May 2025 — The National Archives Catalog is the online portal to...</p></details>
    Published: August 15, 2016  
 
 4. <a id="endnote-4"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/catalog/help/api](https://www.archives.gov/research/catalog/help/api)  
+   Link: <a href="https://www.archives.gov/research/catalog/help/api" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/help/api</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesAPI for the National Archives Catalog1 May 2026 — The API allows researchers and developers to retrieve metadata in Java...</p></details>
    Published: May 2026  
 
 5. <a id="endnote-5"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/rg-615](https://www.archives.gov/research/topics/uaps/rg-615)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-615" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-615</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecord Group 615: Unidentified Anomalous Phenomena Records Collection | National ArchivesFebruary 20, 2026...</p></details>
    Published: February 20, 2026  
 
 6. <a id="endnote-6"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/faqs](https://www.archives.gov/research/topics/uaps/faqs)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/faqs</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesUnidentified Anomalous Phenomena Records Collection: Frequently Asked Questions | National ArchivesApril 24, 2025...</p></details>
    Published: April 24, 2025  
 
 7. <a id="endnote-7"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/rg-collections](https://www.archives.gov/research/topics/uaps/rg-collections)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ecord Group or Collection | National ArchivesDecember 12, 2025 — RECORDS RELATED TO UNIDENTIFIED FLYING OBJECTS (UFOS) AND UNIDENTIFIED A...</p></details>
    Published: December 12, 2025  
 
 8. <a id="endnote-8"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps%3E](https://www.archives.gov/research/topics/uaps%3E)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps%3E" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps%3E</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>hivesApril 24, 2025 — RECORDS RELATED TO UNIDENTIFIED FLYING OBJECTS (UFOS) AND UNIDENTIFIED ANOMALOUS PHENOMENA (UAPS) AT THE NATIONAL A...</p></details>
    Published: April 24, 2025  
 
 9. <a id="endnote-9"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/textual-and-microfilm](https://www.archives.gov/research/topics/uaps/textual-and-microfilm)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/textual-and-microfilm" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/textual-and-microfilm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>icrofilm | National ArchivesApril 24, 2025 — RECORDS RELATED TO UNIDENTIFIED FLYING OBJECTS (UFOS) AND UNIDENTIFIED ANOMALOUS PHENOMENA (...</p></details>
    Published: April 24, 2025  
 
 10. <a id="endnote-10"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/news/topics/ufos](https://www.archives.gov/news/topics/ufos)  
+   Link: <a href="https://www.archives.gov/news/topics/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/topics/ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>hivesApril 24, 2025 — RECORDS RELATED TO UNIDENTIFIED FLYING OBJECTS (UFOS) AND UNIDENTIFIED ANOMALOUS PHENOMENA (UAPS) AT THE NATIONAL A...</p></details>
    Published: April 24, 2025  
 
 11. <a id="endnote-11"></a>
    Source: archive.ph  
-   Link: [https://archive.ph/OmhPP](https://archive.ph/OmhPP)  
+   Link: <a href="https://archive.ph/OmhPP" target="_blank" rel="noopener noreferrer nofollow">https://archive.ph/OmhPP</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>September 20, 2024 — BULK DOWNLOADS FOR RECORDS RELATED TO UNIDENTIFIED ANOMALOUS PHENOMENA (UAPS) Digitized and born-digital records rel...</p></details>
    Published: September 20, 2024  
 
 12. <a id="endnote-12"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/records-mgmt/uap-guidance](https://www.archives.gov/records-mgmt/uap-guidance)  
+   Link: <a href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/uap-guidance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 8, 2024 — GUIDANCE TO FEDERAL AGENCIES ON UNIDENTIFIED ANOMALOUS PHENOMENA RECORDS COLLECTION The 2024 National Defense Authorization...</p></details>
    Published: May 8, 2024  
 
 13. <a id="endnote-13"></a>
    Source: narations.blogs.archives.gov  
    Title: digitized records in the national archives catalog how do they get there  
-   Link: [https://narations.blogs.archives.gov/2019/09/24/digitized-records-in-the-national-archives-catalog-how-do-they-get-there/](https://narations.blogs.archives.gov/2019/09/24/digitized-records-in-the-national-archives-catalog-how-do-they-get-there/)  
+   Link: <a href="https://narations.blogs.archives.gov/2019/09/24/digitized-records-in-the-national-archives-catalog-how-do-they-get-there/" target="_blank" rel="noopener noreferrer nofollow">https://narations.blogs.archives.gov/2019/09/24/digitized-records-in-the-national-archives-catalog-how-do-they-get-there/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Records in the National Archives Catalog: How Do...24 Sept 2019 — A great deal of work goes into preparing digitized records for inclusi...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: narations.blogs.archives.gov  
    Title: the new read write api for our catalog  
-   Link: [https://narations.blogs.archives.gov/2016/04/25/the-new-read-write-api-for-our-catalog/](https://narations.blogs.archives.gov/2016/04/25/the-new-read-write-api-for-our-catalog/)  
+   Link: <a href="https://narations.blogs.archives.gov/2016/04/25/the-new-read-write-api-for-our-catalog/" target="_blank" rel="noopener noreferrer nofollow">https://narations.blogs.archives.gov/2016/04/25/the-new-read-write-api-for-our-catalog/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>new read–write API for our catalog - NARAtions25 Apr 2016 — The API will allow developers to retrieve all of this metadata in specified f...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Searching the Archives Catalog  
-   Link: [http://www.youtube.com/watch?v=LXPHkfwD8mk](http://www.youtube.com/watch?v=LXPHkfwD8mk)  
+   Link: <a href="http://www.youtube.com/watch?v=LXPHkfwD8mk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=LXPHkfwD8mk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives Catalog API bulk downloads research Secret Websites: Archive.org #shorts Mitch Tabe...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: uapradar.com  
    Title: National Archives publishes guide to UFO and UAP | UAP Radar  
-   Link: [https://uapradar.com/articles/generated/national-archives-publishes-guide-to-ufo-and-uap-record-groups.html](https://uapradar.com/articles/generated/national-archives-publishes-guide-to-ufo-and-uap-record-groups.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 10, 2026 — Official New Government Release NATIONAL ARCHIVES PUBLISHES GUIDE TO UFO AND [UAP RECORD GROUPS](&amp;#123;&amp;#123; &#x27;record-group-context/&#x27; | relative_url &amp;#125;&amp;#125;) NARA maintains a resear...</p></details>
+   Link: <a href="https://uapradar.com/articles/generated/national-archives-publishes-guide-to-ufo-and-uap-record-groups.html" target="_blank" rel="noopener noreferrer nofollow">https://uapradar.com/articles/generated/national-archives-publishes-guide-to-ufo-and-uap-record-groups.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 10, 2026 — Official New Government Release NATIONAL ARCHIVES PUBLISHES GUIDE TO UFO AND UAP RECORD GROUPS NARA maintains a resear...</p></details>
    Published: January 10, 2026  
 
 17. <a id="endnote-17"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/help-with-your-research/discovery-help/searching-for-records-using-discovery/](https://www.nationalarchives.gov.uk/help-with-your-research/discovery-help/searching-for-records-using-discovery/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/discovery-help/searching-for-records-using-discovery/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/discovery-help/searching-for-records-using-discovery/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Searching for records using DiscoveryThere are two ways to look for a record using Discovery, searching or browsing. This section contain...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/information-management/manage-information/selection-and-transfer/cataloguing-and-preparation-of-records/](https://www.nationalarchives.gov.uk/information-management/manage-information/selection-and-transfer/cataloguing-and-preparation-of-records/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/information-management/manage-information/selection-and-transfer/cataloguing-and-preparation-of-records/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/information-management/manage-information/selection-and-transfer/cataloguing-and-preparation-of-records/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Step 4: Cataloguing and preparation of recordsCataloguing is the process of writing a description for the records that you are transferring...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: digital cataloguing practices march 2017  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/digital-cataloguing-practices-march-2017.pdf](https://cdn.nationalarchives.gov.uk/documents/digital-cataloguing-practices-march-2017.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/digital-cataloguing-practices-march-2017.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/digital-cataloguing-practices-march-2017.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cataloguing Practices31 Mar 2017 — This position paper outlines the evolution and current state of cataloguing practices for digital reco...</p></details>
    Published: march 2017  
 
 20. <a id="endnote-20"></a>
    Source: registry.opendata.aws  
    Title: aws National Archives Catalog  
-   Link: [https://registry.opendata.aws/nara-national-archives-catalog/](https://registry.opendata.aws/nara-national-archives-catalog/)  
+   Link: <a href="https://registry.opendata.aws/nara-national-archives-catalog/" target="_blank" rel="noopener noreferrer nofollow">https://registry.opendata.aws/nara-national-archives-catalog/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Archives Catalog - Registry of Open Data on AWSThe National Archives Catalog dataset contains all of the descriptions; authority records...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: aws.amazon.com  
    Title: prodview ctjgzey26dhlo  
-   Link: [https://aws.amazon.com/marketplace/pp/prodview-ctjgzey26dhlo](https://aws.amazon.com/marketplace/pp/prodview-ctjgzey26dhlo)  
+   Link: <a href="https://aws.amazon.com/marketplace/pp/prodview-ctjgzey26dhlo" target="_blank" rel="noopener noreferrer nofollow">https://aws.amazon.com/marketplace/pp/prodview-ctjgzey26dhlo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Archives Catalog - AWS Marketplace - Amazon.comThe National Archives Catalog dataset contains all of the descriptions; authority records...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: familysearch.org  
    Title: National Archives and Records Administration Catalog  
-   Link: [https://www.familysearch.org/en/wiki/National_Archives_and_Records_Administration_Catalog](https://www.familysearch.org/en/wiki/National_Archives_and_Records_Administration_Catalog)  
+   Link: <a href="https://www.familysearch.org/en/wiki/National_Archives_and_Records_Administration_Catalog" target="_blank" rel="noopener noreferrer nofollow">https://www.familysearch.org/en/wiki/National_Archives_and_Records_Administration_Catalog</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>9 Dec 2025 — Researchers can search the catalog by keyword, dates, person name, topic, physical location of records, National Archives Id...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: providers.apis.io  
    Title: national archives and records administration nara  
-   Link: [https://providers.apis.io/providers/national-archives-and-records-administration-nara-/](https://providers.apis.io/providers/national-archives-and-records-administration-nara-/)  
+   Link: <a href="https://providers.apis.io/providers/national-archives-and-records-administration-nara-/" target="_blank" rel="noopener noreferrer nofollow">https://providers.apis.io/providers/national-archives-and-records-administration-nara-/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>metadata, bulk export of metadata and digi... Resources.. Website.Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/806608521/national-archives-catalog](https://www.scribd.com/document/806608521/national-archives-catalog)  
+   Link: <a href="https://www.scribd.com/document/806608521/national-archives-catalog" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/806608521/national-archives-catalog</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>records, may or may not. be associated with objects.Read more...</p></details>
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: aliencatalog.com  
-   Link: [https://www.aliencatalog.com/](https://www.aliencatalog.com/)  
+   Link: <a href="https://www.aliencatalog.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.aliencatalog.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Catalog | AlienCatalog.com Official UFO and UAP RecordsLegally public records from official sources ALIEN CATALOG AlienCatalog.com...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=eiZTlOzdnO4](https://www.youtube.com/watch?v=eiZTlOzdnO4)  
+   Link: <a href="https://www.youtube.com/watch?v=eiZTlOzdnO4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eiZTlOzdnO4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Introducing the Next Generation National Archives CatalogThe National Archives Catalog is the federal government&#x27;s online portal to recor...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: ufotransparency.com  
    Title: decade 2020s nara uap bulk downloads 488808322 nrc uap records  
-   Link: [https://ufotransparency.com/files/decade-2020s-nara-uap-bulk-downloads-488808322-nrc-uap-records](https://ufotransparency.com/files/decade-2020s-nara-uap-bulk-downloads-488808322-nrc-uap-records)  
+   Link: <a href="https://ufotransparency.com/files/decade-2020s-nara-uap-bulk-downloads-488808322-nrc-uap-records" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-nara-uap-bulk-downloads-488808322-nrc-uap-records</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NARA NRC UAP Records, Bulk Download, National Archives and Records Administration (NARA) · 2024 · UFO TransparencySeptember 1, 2024 — NAR...</p></details>
    Published: September 1, 2024  
 
 28. <a id="endnote-28"></a>
    Source: stackoverflow.com  
-   Link: [https://stackoverflow.com/questions/48463895/how-to-scrape-all-files-in-a-catalog-series-from-the-national-archives-archives](https://stackoverflow.com/questions/48463895/how-to-scrape-all-files-in-a-catalog-series-from-the-national-archives-archives)  
+   Link: <a href="https://stackoverflow.com/questions/48463895/how-to-scrape-all-files-in-a-catalog-series-from-the-national-archives-archives" target="_blank" rel="noopener noreferrer nofollow">https://stackoverflow.com/questions/48463895/how-to-scrape-all-files-in-a-catalog-series-from-the-national-archives-archives</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>can use to download the media, as well as other metadata that may be of...Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=wy1qDwPhaVM](http://www.youtube.com/watch?v=wy1qDwPhaVM)  
+   Link: <a href="http://www.youtube.com/watch?v=wy1qDwPhaVM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=wy1qDwPhaVM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book, 1950–1966 - The National Archives Catalog UAP Records (341-pbb-757)...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=cKffIdedkUw](http://www.youtube.com/watch?v=cKffIdedkUw)  
+   Link: <a href="http://www.youtube.com/watch?v=cKffIdedkUw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=cKffIdedkUw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to Research at the National Archives...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: usnationalarchives.github.io  
-   Link: [https://usnationalarchives.github.io/Catalog-API/](https://usnationalarchives.github.io/Catalog-API/)  
+   Link: <a href="https://usnationalarchives.github.io/Catalog-API/" target="_blank" rel="noopener noreferrer nofollow">https://usnationalarchives.github.io/Catalog-API/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Using the National Archives Catalog APIThe API&#x27;s main functions include querying for metadata, exporting metadata in bulk, and posting ta...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: [aaro](&#123;&#123; 'aaro/' | relative_url &#125;&#125;). mil  
    Title: AAR O UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP RecordsFebruary 13, 2026 — UAP RECORDS/INFORMATION PAPERS NEW CONTENT Content Type Date Added White Paper: 2025 UAP Workshop - N...</p></details>
    Published: February 13, 2026  
 
 33. <a id="endnote-33"></a>
    Source: osintarchive.neocities.org  
-   Link: [https://osintarchive.neocities.org/](https://osintarchive.neocities.org/)  
+   Link: <a href="https://osintarchive.neocities.org/" target="_blank" rel="noopener noreferrer nofollow">https://osintarchive.neocities.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>* #### NARA Guidance to Federal Agencies on UAP Records Instructions f...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: uapufo.org  
    Title: UAP UFO  
-   Link: [https://uapufo.org/](https://uapufo.org/)  
+   Link: <a href="https://uapufo.org/" target="_blank" rel="noopener noreferrer nofollow">https://uapufo.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Public UAP declassified archive | war.gov/ufouapufo.org / war.gov/ufo public archive DECLASSIFIED UFO FILES, OFFICIAL UAP VIDEOS, AND WAR...</p></details>
