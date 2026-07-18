@@ -274,7 +274,7 @@ image: /assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_ge
 
 ## Introduction
 
-France’s official space agency unit **GEIPAN (Groupe d’Études et d’Informations sur les Phénomènes Aérospatiaux Non Identifiés)** organises reported sightings into resolution categories that reflect the quality of evidence and the outcome of investigation, not merely their “mystery value.” Among its four main categories — A, B, C and D — **Category C** has a distinct role: it flags cases that **cannot be meaningfully analysed because the available data or information is too weak or incomplete to support a reliable identification or explanation**. This is not the same as a definitive unresolved “unknown”; it’s a judgement that the record is too sparse or inconsistent to reach a conclusion either way. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/en/stats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Statistics &#124; GEIPANApril 28, 2026...</span><span class="citation-popover-meta">Published: April 28, 2026</span></span></span>
+France’s official space agency unit **GEIPAN (Groupe d’Études et d’Informations sur les Phénomènes Aérospatiaux Non Identifiés)** organises reported sightings into resolution categories that reflect the quality of evidence and the outcome of investigation, not merely their “mystery value.” Among its four main categories — A, B, C and D — **Category C** has a distinct role: it flags cases that **cannot be meaningfully analysed because the available data or information is too weak or incomplete to support a reliable identification or explanation**. This is not the same as a definitive unresolved “unknown”; it’s a judgement that the record is too sparse or inconsistent to reach a conclusion either way.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/en/stats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Statistics &#124; GEIPANApril 28, 2026...</span><span class="citation-popover-meta">Published: April 28, 2026</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_c_category_8d1a4c-Illustration-1-dark.svg" | relative_url }}" alt="C Cases illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_c_category_8d1a4c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_c_category_8d1a4c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Criteria for C Classification
@@ -282,11 +282,11 @@ France’s official space agency unit **GEIPAN (Groupe d’Études et d’Inform
 GEIPAN’s categorisation process pivots on two core measures assessed for every sighting report:
 
 * **Residual strangeness (E):** how far the reported observation remains from known, plausible explanations after considering all reasonable hypotheses.
-* **Consistency (C):** how complete, coherent and reliable the information is — including witness numbers, detail in responses, presence of photos or videos, independent confirmations, and links between witnesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/en/actualites/methodologie-classification-geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">methodologie classification geipan</span><span class="citation-popover-snippet">La méthodologie de classification au GEIPAN &#124; GEIPANFebruary 26, 2021 — Publication date 26 February 2021 LA MÉTHODOLOGIE DE CLASSIFICATI...</span><span class="citation-popover-meta">Published: February 26, 2021</span></span></span>
+* **Consistency (C):** how complete, coherent and reliable the information is — including witness numbers, detail in responses, presence of photos or videos, independent confirmations, and links between witnesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/en/actualites/methodologie-classification-geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">methodologie classification geipan</span><span class="citation-popover-snippet">La méthodologie de classification au GEIPAN &#124; GEIPANFebruary 26, 2021 — Publication date 26 February 2021 LA MÉTHODOLOGIE DE CLASSIFICATI...</span><span class="citation-popover-meta">Published: February 26, 2021</span></span></span>
 
-For most sightings, analysts search for and evaluate hypotheses based on physical phenomena (astronomical objects, aircraft, meteorological effects) or perceptual/psychological factors, quantify how well the best hypothesis fits (yielding a strangeness score), and weigh this against the **consistency** of the dataset. When the data are both rich and internally consistent, the phenomenon can be classified as identified (A), probably identified (B), or — if unresolved despite strong data — a genuine “unexplained” (D). If, **however, the information is too sparse or unreliable to support either explanation or meaningful residual strangeness assessment**, the case is assigned **Category C**. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/fr/node/58787" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">UNE MÉTHODOLOGIE DE CLASSIFICATION CONSOLIDÉE SUR DES DÉCENNIES La classification du GEIPAN (A/B/C/D*) a été...</span></span></span>
+For most sightings, analysts search for and evaluate hypotheses based on physical phenomena (astronomical objects, aircraft, meteorological effects) or perceptual/psychological factors, quantify how well the best hypothesis fits (yielding a strangeness score), and weigh this against the **consistency** of the dataset. When the data are both rich and internally consistent, the phenomenon can be classified as identified (A), probably identified (B), or — if unresolved despite strong data — a genuine “unexplained” (D). If, **however, the information is too sparse or unreliable to support either explanation or meaningful residual strangeness assessment**, the case is assigned **Category C**.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/fr/node/58787" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">UNE MÉTHODOLOGIE DE CLASSIFICATION CONSOLIDÉE SUR DES DÉCENNIES La classification du GEIPAN (A/B/C/D*) a été...</span></span></span>
 
-The French glossary makes this distinction explicit: C cases are fundamentally “**non‑analysable faute d’informations**” — not analysed because of missing or insufficient information — and are categorically separate from A, B, and D cases which are backed by sufficient data to support a judgement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/fr/histoire-du-geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">Son histoire &#124; GEIPANQU&#x27;EST-CE QUE LE GEIPAN?</span><span class="citation-popover-snippet">Le GEIPAN, Groupe d’Études et d’Information sur les Phénomènes Aérospatiaux Non Identifiés fait partie intégrante des missions du Centre...</span></span></span>
+The French glossary makes this distinction explicit: C cases are fundamentally “**non‑analysable faute d’informations**” — not analysed because of missing or insufficient information — and are categorically separate from A, B, and D cases which are backed by sufficient data to support a judgement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/fr/histoire-du-geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">Son histoire &#124; GEIPANQU&#x27;EST-CE QUE LE GEIPAN?</span><span class="citation-popover-snippet">Le GEIPAN, Groupe d’Études et d’Information sur les Phénomènes Aérospatiaux Non Identifiés fait partie intégrante des missions du Centre...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ur0QX1eGCQI" title="UAP data released: Astrophysicist Avi Loeb breaks down declassified records | FOX 10 Talks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ur0QX1eGCQI" target="_blank" rel="noopener noreferrer">UAP data released: Astrophysicist Avi Loeb breaks down declassified records | FOX 10 Talks</a></p><p class="youtube-embed-meta">Channel: FOX 10 Phoenix &middot; Views: 29.1K &middot; Uploaded: May 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ur0QX1eGCQI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ur0QX1eGCQI">Open on YouTube</a></p></div></div></div>
 
@@ -297,20 +297,20 @@ In practice, a Category C designation can arise when one or more of the followin
 * **Single, uncorroborated witness:** only one person reports an event, and no additional objective evidence like photos or radar data exists.
 * **Vague or inconsistent testimony:** key descriptive details are missing, contradictory, or ambiguous, preventing confident correlation with known phenomena.
 * **Lack of supporting media:** without photographs, video, or instrument records, there is no material basis for further analytical steps.
-* **Unquantifiable conditions:** the report lacks information on timing, location, motion, or environmental context needed to test explanatory hypotheses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">Classification &#124; GEIPANFAQ GEIPAN 1</span><span class="citation-popover-snippet">What is GEIPAN? * GEIPAN (Group for the Study and Information of Unidentified Aerial/Aerospace Phenomena) is a technical department of th...</span></span></span>
+* **Unquantifiable conditions:** the report lacks information on timing, location, motion, or environmental context needed to test explanatory hypotheses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">Classification &#124; GEIPANFAQ GEIPAN 1</span><span class="citation-popover-snippet">What is GEIPAN? * GEIPAN (Group for the Study and Information of Unidentified Aerial/Aerospace Phenomena) is a technical department of th...</span></span></span>
 
-GEIPAN’s own method emphasises that higher strangeness (E) demands higher consistency (C) before a case can be flagged as truly unexplained; where consistency is weak, the default categorisation is **C due to lack of reliable data** rather than prematurely elevating the case to “unexplained.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/index.php/en/node/58787" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">A CLASSIFICATION METHODOLOGY CONSOLIDATED OVER DECADES Since 2008, a more detailed classification (A/B/C/D1/D...</span></span></span>
+GEIPAN’s own method emphasises that higher strangeness (E) demands higher consistency (C) before a case can be flagged as truly unexplained; where consistency is weak, the default categorisation is **C due to lack of reliable data** rather than prematurely elevating the case to “unexplained.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/index.php/en/node/58787" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">A CLASSIFICATION METHODOLOGY CONSOLIDATED OVER DECADES Since 2008, a more detailed classification (A/B/C/D1/D...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_c_category_8d1a4c-Illustration-2-dark.svg" | relative_url }}" alt="C Cases illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_c_category_8d1a4c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_c_category_8d1a4c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Examples of Low‑Consistency Cases
 
-GEIPAN does not usually publish detailed lists of every Category C case with public narratives, but the statistical breakdown makes clear how common this outcome is. According to current published figures, **about 30 % of classified cases are in Category C**, reflecting a significant proportion of reports that lack enough information for conclusive investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/index.php/fr/node/58792" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">dentifiés) consiste à fournir un service opérationnel basé sur des enquêtes liées aux...</span></span></span>
+GEIPAN does not usually publish detailed lists of every Category C case with public narratives, but the statistical breakdown makes clear how common this outcome is. According to current published figures, **about 30 % of classified cases are in Category C**, reflecting a significant proportion of reports that lack enough information for conclusive investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/index.php/fr/node/58792" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">dentifiés) consiste à fournir un service opérationnel basé sur des enquêtes liées aux...</span></span></span>
 
 Typical low‑consistency patterns seen across these reports include:
 
 * Reports with minimal or inconsistent witness responses to the technical questionnaire, leaving crucial parameters undefined.
 * Sightings lacking any material evidence — no images, recordings, radar signatures or corroboration — that could anchor hypotheses or rule out mundane explanations.
-* Ambiguous descriptions that might encompass many ordinary environmental or aerial phenomena but cannot be tied to specific known causes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/fr/node/406" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">OVN I, UFO, PAN: QUELLE DIFFÉRENCE?</span><span class="citation-popover-snippet">GEIPANL&#x27;acronyme (Objet Volant Non Identifié) est la traduction du terme anglais UFO (Unidentified Flying Object). L&#x27;examen des témoign...</span></span></span>
+* Ambiguous descriptions that might encompass many ordinary environmental or aerial phenomena but cannot be tied to specific known causes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/fr/node/406" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">OVN I, UFO, PAN: QUELLE DIFFÉRENCE?</span><span class="citation-popover-snippet">GEIPANL&#x27;acronyme (Objet Volant Non Identifié) est la traduction du terme anglais UFO (Unidentified Flying Object). L&#x27;examen des témoign...</span></span></span>
 
 In some archived cases visible on the GEIPAN site, insufficient details such as imprecise timing, vague positional information or absence of corroborating data constrain any deeper analysis, leaving GEIPAN unable to advance beyond a Category C label.
 
@@ -320,7 +320,7 @@ In some archived cases visible on the GEIPAN site, insufficient details such as 
 
 ## Impact on Public Statistics
 
-Understanding the C category is crucial when interpreting GEIPAN’s public statistics on unidentified aerospace phenomena. Because C is explicitly **not a judgement of an unexplained or anomalous phenomenon**, it must not be conflated with the “unknown” status that Category D signifies. GEIPAN separates these precisely to prevent weak documentation from being misrepresented as hard evidence of unexplained phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/en/node/440" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">1977 within the CNES: * Provides a public and official feedback to all people’s “liv...</span></span></span>
+Understanding the C category is crucial when interpreting GEIPAN’s public statistics on unidentified aerospace phenomena. Because C is explicitly **not a judgement of an unexplained or anomalous phenomenon**, it must not be conflated with the “unknown” status that Category D signifies. GEIPAN separates these precisely to prevent weak documentation from being misrepresented as hard evidence of unexplained phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/en/node/440" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">1977 within the CNES: * Provides a public and official feedback to all people’s “liv...</span></span></span>
 
 Consequently:
 
@@ -328,205 +328,205 @@ Consequently:
 
 * **Category A and B** dominate the database, representing cases explained or very likely explained based on adequate information.
 * **Category C** reflects where the data were insufficient for analysis; these are not treated as mysteries but as cases that have not yielded enough evidence for conclusion.
-* **Category D** — especially subcategories D1 and D2 — represents the genuine residual subset where a case remains unexplained despite robust and consistent data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/en/stats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Statistics &#124; GEIPANApril 28, 2026...</span><span class="citation-popover-meta">Published: April 28, 2026</span></span></span>
+* **Category D** — especially subcategories D1 and D2 — represents the genuine residual subset where a case remains unexplained despite robust and consistent data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/en/stats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Statistics &#124; GEIPANApril 28, 2026...</span><span class="citation-popover-meta">Published: April 28, 2026</span></span></span>
 
 </div>
 
-This distinction shapes public understanding: roughly one‑third of cases fall into C due to data issues, while only a small minority remain as solidly unexplained after investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/en/actualites/methodologie-classification-geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">methodologie classification geipan</span><span class="citation-popover-snippet">La méthodologie de classification au GEIPAN &#124; GEIPANFebruary 26, 2021 — Publication date 26 February 2021 LA MÉTHODOLOGIE DE CLASSIFICATI...</span><span class="citation-popover-meta">Published: February 26, 2021</span></span></span>
+This distinction shapes public understanding: roughly one‑third of cases fall into C due to data issues, while only a small minority remain as solidly unexplained after investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/en/actualites/methodologie-classification-geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">methodologie classification geipan</span><span class="citation-popover-snippet">La méthodologie de classification au GEIPAN &#124; GEIPANFebruary 26, 2021 — Publication date 26 February 2021 LA MÉTHODOLOGIE DE CLASSIFICATI...</span><span class="citation-popover-meta">Published: February 26, 2021</span></span></span>
 
-By distinguishing **insufficient data from unresolved mystery**, the GEIPAN framework aims to make its public database both scientifically credible and transparent about the limits of what the evidence supports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/fr/node/58787" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">UNE MÉTHODOLOGIE DE CLASSIFICATION CONSOLIDÉE SUR DES DÉCENNIES La classification du GEIPAN (A/B/C/D*) a été...</span></span></span>
+By distinguishing **insufficient data from unresolved mystery**, the GEIPAN framework aims to make its public database both scientifically credible and transparent about the limits of what the evidence supports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/fr/node/58787" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">UNE MÉTHODOLOGIE DE CLASSIFICATION CONSOLIDÉE SUR DES DÉCENNIES La classification du GEIPAN (A/B/C/D*) a été...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_c_category_8d1a4c-Illustration-3-dark.svg" | relative_url }}" alt="C Cases illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_c_category_8d1a4c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2_geipan_c_category_8d1a4c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Some UFO Reports Remain Unidentified Due to Insufficient Data. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Some UFO Reports Remain Unidentified Due to Insufficient Data. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly relevant to evidence sufficiency, case quality, and classification of incomplete UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to evidence sufficiency, case quality, and classification of incomplete UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Gives broader context for why credible witness data and documentation matter in official UFO reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Gives broader context for why credible witness data and documentation matter in official UFO reporting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Addresses evidence, skepticism, and extraordinary claims, matching the logic behind insufficient-data categories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Addresses evidence, skepticism, and extraordinary claims, matching the logic behind insufficient-data categories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Think+About+Weird+Things%3A+Critical+Thinking+for+a+New+Age+by+Theodore+Schick%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Think About Weird Things: Critical Thinking for a New Age on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XJ5PkwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Think About Weird Things: Critical Thinking for a New Age" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Think+About+Weird+Things%3A+Critical+Thinking+for+a+New+Age+by+Theodore+Schick%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Think About Weird Things: Critical Thinking for a New Age">How to Think About Weird Things: Critical Thinking for a New Age</a>
-        </h4>
-        <p class="fr-book-author">By Theodore Schick, Jr., Lewis Vaughn</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Think+About+Weird+Things%3A+Critical+Thinking+for+a+New+Age+by+Theodore+Schick%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Think About Weird Things: Critical Thinking for a New Age on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XJ5PkwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Think About Weird Things: Critical Thinking for a New Age" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Think+About+Weird+Things%3A+Critical+Thinking+for+a+New+Age+by+Theodore+Schick%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Think About Weird Things: Critical Thinking for a New Age">How to Think About Weird Things: Critical Thinking for a New Age</a>
+</h4>
+<p class="fr-book-author">By Theodore Schick, Jr., Lewis Vaughn</p>
         
-        <p class="fr-book-desc">Helps readers understand why insufficient evidence is not the same as proof of anomaly.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Think+About+Weird+Things%3A+Critical+Thinking+for+a+New+Age+by+Theodore+Schick%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand why insufficient evidence is not the same as proof of anomaly.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Think+About+Weird+Things%3A+Critical+Thinking+for+a+New+Age+by+Theodore+Schick%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="c-cases-why-some-ufo-reports-remain-unidentified-due-to-insufficient-data-ufo-report-databases-a-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -542,7 +542,7 @@ By distinguishing **insufficient data from unresolved mystery**, the GEIPAN fram
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -562,7 +562,7 @@ By distinguishing **insufficient data from unresolved mystery**, the GEIPAN fram
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -594,7 +594,7 @@ By distinguishing **insufficient data from unresolved mystery**, the GEIPAN fram
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -646,7 +646,7 @@ By distinguishing **insufficient data from unresolved mystery**, the GEIPAN fram
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -691,7 +691,7 @@ By distinguishing **insufficient data from unresolved mystery**, the GEIPAN fram
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -732,126 +732,126 @@ By distinguishing **insufficient data from unresolved mystery**, the GEIPAN fram
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: geipan.fr  
-   Link: <a href="https://geipan.fr/en/stats" target="_blank" rel="noopener noreferrer nofollow">https://geipan.fr/en/stats</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Statistics | GEIPANApril 28, 2026...</p></details>
+   Link:<a href="https://geipan.fr/en/stats" target="_blank" rel="noopener noreferrer nofollow">https://geipan.fr/en/stats</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Statistics | GEIPANApril 28, 2026...</p></details>
    Published: April 28, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: geipan.fr  
    Title: methodologie classification geipan  
-   Link: <a href="https://geipan.fr/en/actualites/methodologie-classification-geipan" target="_blank" rel="noopener noreferrer nofollow">https://geipan.fr/en/actualites/methodologie-classification-geipan</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>La méthodologie de classification au GEIPAN | GEIPANFebruary 26, 2021 — Publication date 26 February 2021 LA MÉTHODOLOGIE DE CLASSIFICATI...</p></details>
+   Link:<a href="https://geipan.fr/en/actualites/methodologie-classification-geipan" target="_blank" rel="noopener noreferrer nofollow">https://geipan.fr/en/actualites/methodologie-classification-geipan</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>La méthodologie de classification au GEIPAN | GEIPANFebruary 26, 2021 — Publication date 26 February 2021 LA MÉTHODOLOGIE DE CLASSIFICATI...</p></details>
    Published: February 26, 2021  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: geipan.fr  
-   Link: <a href="https://geipan.fr/fr/node/58787" target="_blank" rel="noopener noreferrer nofollow">https://geipan.fr/fr/node/58787</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UNE MÉTHODOLOGIE DE CLASSIFICATION CONSOLIDÉE SUR DES DÉCENNIES La classification du GEIPAN (A/B/C/D*) a été...</p></details>
+   Link:<a href="https://geipan.fr/fr/node/58787" target="_blank" rel="noopener noreferrer nofollow">https://geipan.fr/fr/node/58787</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNE MÉTHODOLOGIE DE CLASSIFICATION CONSOLIDÉE SUR DES DÉCENNIES La classification du GEIPAN (A/B/C/D*) a été...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: geipan.fr  
    Title: Son histoire | GEIPANQU'EST-CE QUE LE GEIPAN?  
-   Link: <a href="https://geipan.fr/fr/histoire-du-geipan" target="_blank" rel="noopener noreferrer nofollow">https://geipan.fr/fr/histoire-du-geipan</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Le GEIPAN, Groupe d’Études et d’Information sur les Phénomènes Aérospatiaux Non Identifiés fait partie intégrante des missions du Centre...</p></details>
+   Link:<a href="https://geipan.fr/fr/histoire-du-geipan" target="_blank" rel="noopener noreferrer nofollow">https://geipan.fr/fr/histoire-du-geipan</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Le GEIPAN, Groupe d’Études et d’Information sur les Phénomènes Aérospatiaux Non Identifiés fait partie intégrante des missions du Centre...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: geipan.fr  
    Title: Classification | GEIPANFAQ GEIPAN 1  
-   Link: <a href="https://www.geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/en/node/58787</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What is GEIPAN? * GEIPAN (Group for the Study and Information of Unidentified Aerial/Aerospace Phenomena) is a technical department of th...</p></details>
+   Link:<a href="https://www.geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/en/node/58787</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is GEIPAN? * GEIPAN (Group for the Study and Information of Unidentified Aerial/Aerospace Phenomena) is a technical department of th...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: geipan.fr  
-   Link: <a href="https://geipan.fr/index.php/en/node/58787" target="_blank" rel="noopener noreferrer nofollow">https://geipan.fr/index.php/en/node/58787</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A CLASSIFICATION METHODOLOGY CONSOLIDATED OVER DECADES Since 2008, a more detailed classification (A/B/C/D1/D...</p></details>
+   Link:<a href="https://geipan.fr/index.php/en/node/58787" target="_blank" rel="noopener noreferrer nofollow">https://geipan.fr/index.php/en/node/58787</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A CLASSIFICATION METHODOLOGY CONSOLIDATED OVER DECADES Since 2008, a more detailed classification (A/B/C/D1/D...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: geipan.fr  
-   Link: <a href="https://www.geipan.fr/index.php/fr/node/58792" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/index.php/fr/node/58792</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>dentifiés) consiste à fournir un service opérationnel basé sur des enquêtes liées aux...</p></details>
+   Link:<a href="https://www.geipan.fr/index.php/fr/node/58792" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/index.php/fr/node/58792</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>dentifiés) consiste à fournir un service opérationnel basé sur des enquêtes liées aux...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: geipan.fr  
    Title: OVN I, UFO, PAN: QUELLE DIFFÉRENCE?  
-   Link: <a href="https://www.geipan.fr/fr/node/406" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/fr/node/406</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPANL&#x27;acronyme (Objet Volant Non Identifié) est la traduction du terme anglais UFO (Unidentified Flying Object). L&#x27;examen des témoign...</p></details>
+   Link:<a href="https://www.geipan.fr/fr/node/406" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/fr/node/406</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPANL&#x27;acronyme (Objet Volant Non Identifié) est la traduction du terme anglais UFO (Unidentified Flying Object). L&#x27;examen des témoign...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: geipan.fr  
-   Link: <a href="https://www.geipan.fr/en/node/440" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/en/node/440</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1977 within the CNES: * Provides a public and official feedback to all people’s “liv...</p></details>
+   Link:<a href="https://www.geipan.fr/en/node/440" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/en/node/440</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1977 within the CNES: * Provides a public and official feedback to all people’s “liv...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=hn2xTieploU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hn2xTieploU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, aliens: why is Trump declassifying? - C dans l&#x27;air - 04/25/2026...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hn2xTieploU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hn2xTieploU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, aliens: why is Trump declassifying? - C dans l&#x27;air - 04/25/2026...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: UFOs, aliens: why is Trump declassifying?  
-   Link: <a href="https://www.youtube.com/watch?v=d1Olr4FyNbs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d1Olr4FyNbs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Geipan: France is also interested in UFOs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=d1Olr4FyNbs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d1Olr4FyNbs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Geipan: France is also interested in UFOs...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Geipan: France is also interested in UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=OLXDikL331Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OLXDikL331Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Governments Using AI To Decode Massive UFO Databases | WION Podcast...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OLXDikL331Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OLXDikL331Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Governments Using AI To Decode Massive UFO Databases | WION Podcast...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cnes-geipan.fr  
    Title: Geipan Classification | GEIPAN  
-   Link: <a href="https://www.cnes-geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58787</a>  
+   Link:<a href="https://www.cnes-geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58787</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cnes-geipan.fr  
    Title: Geipan Le glossaire du Geipan | GEIPAN  
-   Link: <a href="https://www.cnes-geipan.fr/fr/glossaire" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/glossaire</a>  
+   Link:<a href="https://www.cnes-geipan.fr/fr/glossaire" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/glossaire</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cnes-geipan.fr  
    Title: L E GEIPAN: « LE BUREAU DES OVNIS » OU DES PAN?  
-   Link: <a href="https://www.cnes-geipan.fr/fr/node/58703" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/node/58703</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPANJune 28, 2021 — Date de publication 28 juin 2021 LE GEIPAN: « LE BUREAU DES OVNIS » OU DES PAN? Date de publication 28 juin 202...</p></details>
+   Link:<a href="https://www.cnes-geipan.fr/fr/node/58703" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/node/58703</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPANJune 28, 2021 — Date de publication 28 juin 2021 LE GEIPAN: « LE BUREAU DES OVNIS » OU DES PAN? Date de publication 28 juin 202...</p></details>
    Published: June 28, 2021  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cnes-geipan.fr  
    Title: Comment le GEIPAN classe-t-il les cas d’observations?  
-   Link: <a href="https://www.cnes-geipan.fr/fr/node/412" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/node/412</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPAN* La classification repose sur une évaluation quantitative et qualitative de deux paramètres: la consistance (C) de l’observatio...</p></details>
+   Link:<a href="https://www.cnes-geipan.fr/fr/node/412" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/node/412</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPAN* La classification repose sur une évaluation quantitative et qualitative de deux paramètres: la consistance (C) de l’observatio...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cnes-geipan.fr  
    Title: How does GEIPAN classify observation cases?  
-   Link: <a href="https://www.cnes-geipan.fr/en/node/412" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/412</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPANThe classification process is done according a quantitative and qualitative assessment of two parameters: the consistency (C) of...</p></details>
+   Link:<a href="https://www.cnes-geipan.fr/en/node/412" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/412</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPANThe classification process is done according a quantitative and qualitative assessment of two parameters: the consistency (C) of...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/fr/faq-page" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/faq-page</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>L’espace FAQ vous offre un accès rapide aux réponses aux questions les plus courantes concernant le rôle, les...</p></details>
+   Link:<a href="https://www.cnes-geipan.fr/fr/faq-page" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/faq-page</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>L’espace FAQ vous offre un accès rapide aux réponses aux questions les plus courantes concernant le rôle, les...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/fr/node/58791" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/node/58791</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Select] [Input] [Input] [Input] Sommaire 1. Du GEPAN au GEIPAN 2. FAQ GEIPAN DU GEPAN AU GEIPAN D’aussi...</p></details>
+   Link:<a href="https://www.cnes-geipan.fr/fr/node/58791" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/node/58791</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Select] [Input] [Input] [Input] Sommaire 1. Du GEPAN au GEIPAN 2. FAQ GEIPAN DU GEPAN AU GEIPAN D’aussi...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/fr/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/missions-methodes-et-resultats</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e PAN où la présence d&#x27;un objet physique, pouvant avoir des caractéristiques de vol, e...</p></details>
+   Link:<a href="https://www.cnes-geipan.fr/fr/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/missions-methodes-et-resultats</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e PAN où la présence d&#x27;un objet physique, pouvant avoir des caractéristiques de vol, e...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Governments Using AI To Decode Massive UFO Databases | WION Podcast  
-   Link: <a href="https://www.youtube.com/watch?v=adCsqd_-M94" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=adCsqd_-M94</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP data released: Astrophysicist Avi Loeb breaks down declassified records | FOX 10 Talks...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=adCsqd_-M94" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=adCsqd_-M94</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP data released: Astrophysicist Avi Loeb breaks down declassified records | FOX 10 Talks...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ur0QX1eGCQI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ur0QX1eGCQI</a>
+   Link:<a href="https://www.youtube.com/watch?v=ur0QX1eGCQI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ur0QX1eGCQI</a>

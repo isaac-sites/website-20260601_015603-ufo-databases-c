@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-report-databases-8352a3-ufo/
 description: Focused pages that expand on Misidentifications.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: ufo_report_databases_8352a3_ufo_misidentificatio_aa312a
 parent_title: Misidentifications
@@ -16,7 +16,7 @@ parent_permalink: /misidentifications/
 
 # Explore Topics in Misidentifications
 
-The following pages expand on the main **[Misidentifications]({{ '/misidentifications/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Misidentifications]({{ '/misidentifications/' | relative_url }})** page and cover its key branches in.
 
 - [Balloons]({{ '/balloons/' | relative_url }})
 - [Camera artifacts]({{ '/camera-artifacts/' | relative_url }})

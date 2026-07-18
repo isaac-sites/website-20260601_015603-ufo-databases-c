@@ -268,16 +268,16 @@ image: /assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_na
 
 ## Introduction
 
-Record Group 615 (RG 615), the National [Archives]({{ 'archives/' | relative_url }}) and Records Administration’s Unidentified Anomalous Phenomena Records Collection, is not simply a new archive category. It is a government-wide transfer system created by the 2024 National Defense Authorization Act (NDAA) to move UAP-related records from individual federal agencies into a central, publicly searchable repository. The significance of RG 615 lies as much in the transfer process as in the records themselves. Congress required agencies to identify, organise, digitise and transmit UAP records under a common framework, giving researchers a way to track what has been transferred, what remains withheld, and how disclosure decisions are being managed across government. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
+Record Group 615 (RG 615), the National [Archives]({{ 'archives/' | relative_url }}) and Records Administration’s Unidentified Anomalous Phenomena Records Collection, is not simply a new archive category. It is a government-wide transfer system created by the 2024 National Defense Authorization Act (NDAA) to move UAP-related records from individual federal agencies into a central, publicly searchable repository. The significance of RG 615 lies as much in the transfer process as in the records themselves. Congress required agencies to identify, organise, digitise and transmit UAP records under a common framework, giving researchers a way to track what has been transferred, what remains withheld, and how disclosure decisions are being managed across government.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_nara_rg615_transfers_03e90e-Illustration-1-dark.svg" | relative_url }}" alt="RG 615 Transfers illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_nara_rg615_transfers_03e90e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014_nara_rg615_transfers_03e90e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For anyone studying UAP databases and archival collections, the transfer process is where transparency succeeds or fails. Deadlines, metadata rules, digital formatting requirements and redaction procedures determine whether records become searchable public documents or remain fragmented across agency systems. RG 615 therefore functions as both an archive and a records-governance mechanism. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
+For anyone studying UAP databases and archival collections, the transfer process is where transparency succeeds or fails. Deadlines, metadata rules, digital formatting requirements and redaction procedures determine whether records become searchable public documents or remain fragmented across agency systems. RG 615 therefore functions as both an archive and a records-governance mechanism.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
 
 ## Why Congress Created a Central Transfer Pipeline
 
 Before RG 615, UAP-related records were scattered across defence agencies, intelligence bodies, aviation regulators, scientific organisations and historical archives. Some were available through Freedom of Information Act releases, others through agency reading rooms, while many remained difficult to locate because they sat inside broader record series with unrelated subjects.
 
-The FY2024 NDAA attempted to solve that problem by requiring every federal agency to review its holdings and identify records relating to unidentified anomalous phenomena, technologies of unknown origin and non-human intelligence as defined by the legislation. Those records were then to be prepared for transmission to the National Archives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
+The FY2024 NDAA attempted to solve that problem by requiring every federal agency to review its holdings and identify records relating to unidentified anomalous phenomena, technologies of unknown origin and non-human intelligence as defined by the legislation. Those records were then to be prepared for transmission to the National Archives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
 
 The transfer framework serves three practical purposes:
 
@@ -285,11 +285,11 @@ The transfer framework serves three practical purposes:
 
 * It creates a single archival destination rather than multiple disconnected repositories.
 * It imposes common identification and disclosure standards across agencies.
-* It creates a traceable chain showing which agencies have transferred records and when they entered the collection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
+* It creates a traceable chain showing which agencies have transferred records and when they entered the collection.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
 
 </div>
 
-This is why NARA repeatedly describes RG 615 as a collection built from records received from federal agencies rather than a standalone research project. The archive depends on agencies completing the transfer process correctly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
+This is why NARA repeatedly describes RG 615 as a collection built from records received from federal agencies rather than a standalone research project. The archive depends on agencies completing the transfer process correctly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
 
 ## Transfer Deadlines and Procedures
 
@@ -297,7 +297,7 @@ This is why NARA repeatedly describes RG 615 as a collection built from records 
 
 The first major deadline was not a transfer deadline but a records-identification deadline.
 
-NARA's guidance instructed agencies that, under the law, they were required by 20 October 2024 to review, identify and organise every UAP record in their custody for public disclosure review and eventual transmission to the National Archives. This requirement effectively launched agency-wide record searches. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
+NARA's guidance instructed agencies that, under the law, they were required by 20 October 2024 to review, identify and organise every UAP record in their custody for public disclosure review and eventual transmission to the National Archives. This requirement effectively launched agency-wide record searches.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
 
 In practical terms, agencies first had to answer several questions:
 
@@ -307,7 +307,7 @@ In practical terms, agencies first had to answer several questions:
 * Which offices hold them?
 * Are they already public?
 * Do they contain classified or otherwise restricted information?
-* Can they be digitised for transfer? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
+* Can they be digitised for transfer?<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
 
 </div>
 
@@ -317,11 +317,11 @@ The identification stage is easy to overlook, but it is arguably the most conseq
 
 After identification came the transfer phase.
 
-NARA's October 2024 memorandum directed agencies to transfer digital copies of publicly releasable UAP records identified by the October 2024 review deadline no later than 30 September 2025. Agencies were also encouraged to make rolling transfers instead of waiting until the final deadline. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
+NARA's October 2024 memorandum directed agencies to transfer digital copies of publicly releasable UAP records identified by the October 2024 review deadline no later than 30 September 2025. Agencies were also encouraged to make rolling transfers instead of waiting until the final deadline.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
 
-The rolling-transfer model matters because it prevents a single large disclosure event. Instead, agencies can transmit records as they complete review and preparation work. This explains why RG 615 has expanded incrementally rather than appearing all at once. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
+The rolling-transfer model matters because it prevents a single large disclosure event. Instead, agencies can transmit records as they complete review and preparation work. This explains why RG 615 has expanded incrementally rather than appearing all at once.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
 
-NARA has repeatedly stated that additional records will continue to appear in the collection on an ongoing basis as agencies complete transfers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
+NARA has repeatedly stated that additional records will continue to appear in the collection on an ongoing basis as agencies complete transfers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wy1qDwPhaVM" title="Project Blue Book, 1950–1966 - The National Archives Catalog UAP Records (341-pbb-492)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wy1qDwPhaVM" target="_blank" rel="noopener noreferrer">Project Blue Book, 1950–1966 - The National Archives Catalog UAP Records (341-pbb-492)</a></p><p class="youtube-embed-meta">Channel: New Paradigm Institute &middot; Views: 339 &middot; Uploaded: October 2024 &middot; Length: 3 minutes 9 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wy1qDwPhaVM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wy1qDwPhaVM">Open on YouTube</a></p></div></div></div>
 
@@ -329,7 +329,7 @@ NARA has repeatedly stated that additional records will continue to appear in th
 
 One notable feature of the guidance is that records already publicly available were not automatically excluded.
 
-The transfer instructions required agencies to provide publicly disclosable records, including material that had already been available to the public as of the law's enactment. The goal was to centralise access, not merely release previously unseen documents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
+The transfer instructions required agencies to provide publicly disclosable records, including material that had already been available to the public as of the law's enactment. The goal was to centralise access, not merely release previously unseen documents.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
 
 As a result, RG 615 can contain both newly transferred records and records that were previously accessible elsewhere but lacked a unified archival home.
 
@@ -341,7 +341,7 @@ The usefulness of RG 615 depends heavily on metadata.
 
 A PDF without context tells a researcher relatively little. A record accompanied by agency information, creation dates, archival identifiers, transfer information and descriptive notes becomes far more valuable because it can be connected to broader government activities and record series.
 
-NARA's transfer model places substantial emphasis on preparing records through established electronic accessioning procedures rather than simply uploading documents to a website. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
+NARA's transfer model places substantial emphasis on preparing records through established electronic accessioning procedures rather than simply uploading documents to a website.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
 
 That distinction is important because accessioning creates archival control. Researchers can determine:
 
@@ -351,7 +351,7 @@ That distinction is important because accessioning creates archival control. Res
 * When the record entered NARA custody.
 * Whether it belongs to a larger series.
 * Whether related records exist elsewhere in the catalogue.
-* Whether access restrictions apply. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
+* Whether access restrictions apply.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
 
 </div>
 
@@ -360,9 +360,9 @@ That distinction is important because accessioning creates archival control. Res
 
 Unlike many historical archival transfers, RG 615 is designed as a digital collection.
 
-NARA's guidance specifies that agencies must create digital copies of UAP records and that only digital versions will be accepted into the collection. The transfer process therefore requires agencies to convert or reproduce records into electronic formats before accessioning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
+NARA's guidance specifies that agencies must create digital copies of UAP records and that only digital versions will be accepted into the collection. The transfer process therefore requires agencies to convert or reproduce records into electronic formats before accessioning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
 
-This requirement reflects broader federal records-management trends. Across government, NARA has been pushing agencies toward electronic recordkeeping and digital transfers rather than traditional paper accessioning. RG 615 was built within that larger modernisation effort. <span class="citation-chip-wrap"><a class="citation-chip" href="https://federalnewsnetwork.com/it-modernization/2024/07/nara-sees-requests-to-transfer-nearly-1m-cubic-feet-of-records-ahead-of-deadline/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: federalnewsnetwork.com">[Federal News Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">federalnewsnetwork.com</span><span class="citation-popover-snippet">Federal News NetworkNARA sees requests to transfer nearly 1M cubic feet of...Jul 16, 2024 — NARA sees requests to transfer nearly 1M cub...</span></span></span>
+This requirement reflects broader federal records-management trends. Across government, NARA has been pushing agencies toward electronic recordkeeping and digital transfers rather than traditional paper accessioning. RG 615 was built within that larger modernisation effort.<span class="citation-chip-wrap"><a class="citation-chip" href="https://federalnewsnetwork.com/it-modernization/2024/07/nara-sees-requests-to-transfer-nearly-1m-cubic-feet-of-records-ahead-of-deadline/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: federalnewsnetwork.com">[Federal News Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">federalnewsnetwork.com</span><span class="citation-popover-snippet">Federal News NetworkNARA sees requests to transfer nearly 1M cubic feet of...Jul 16, 2024 — NARA sees requests to transfer nearly 1M cub...</span></span></span>
 
 For researchers, digital-only transfers offer several advantages:
 
@@ -372,7 +372,7 @@ For researchers, digital-only transfers offer several advantages:
 * Searchable catalogue integration.
 * Bulk-download possibilities.
 * Easier cross-agency comparison.
-* More consistent preservation workflows. National Archives <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/records-mgmt/memos/ac-04-2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[archives.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesAC 04.202510 Oct 2024 — No later than September 30, 2025, federal agencies must transfer to NARA digital copies of all U...</span><span class="citation-popover-meta">Published: September 30, 2025</span></span></span>
+* More consistent preservation workflows. National Archives<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/records-mgmt/memos/ac" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[archives.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesAC 04.202510 Oct 2024 — No later than September 30, 2025, federal agencies must transfer to NARA digital copies of all U...</span><span class="citation-popover-meta">Published: September 30, 2025</span></span></span>
 
 </div>
 
@@ -382,7 +382,7 @@ For researchers, digital-only transfers offer several advantages:
 
 Transferred records do not simply sit in a standalone UFO database.
 
-Instead, they enter NARA's existing archival infrastructure and become part of the National Archives Catalog. This means RG 615 records can be searched through the same framework used for other federal holdings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
+Instead, they enter NARA's existing archival infrastructure and become part of the National Archives Catalog. This means RG 615 records can be searched through the same framework used for other federal holdings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
 
 That integration is significant because it preserves provenance. Rather than separating UAP records entirely from their originating agencies, the catalogue structure allows researchers to see who created the records and where they fit within broader government recordkeeping systems.
 
@@ -392,7 +392,7 @@ That integration is significant because it preserves provenance. Rather than sep
 
 One of the most unusual features of the RG 615 transfer process is the requirement involving redacted and unredacted records.
 
-NARA's guidance states that when publicly releasable records contain redactions, agencies must transfer both the redacted version and the corresponding unredacted version to the National Archives simultaneously. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
+NARA's guidance states that when publicly releasable records contain redactions, agencies must transfer both the redacted version and the corresponding unredacted version to the National Archives simultaneously.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
 
 This rule serves two different audiences at once.
 
@@ -403,15 +403,15 @@ The redacted copy supports public access, while the unredacted copy preserves th
 
 The dual-copy approach prevents a common archival problem: the permanent loss of information through disclosure processing.
 
-Historically, some publicly released records entered circulation only in sanitised form, making it difficult for future reviewers to reconstruct what had been removed. Under RG 615 procedures, NARA receives both versions from the outset. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
+Historically, some publicly released records entered circulation only in sanitised form, making it difficult for future reviewers to reconstruct what had been removed. Under RG 615 procedures, NARA receives both versions from the outset.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
 
-That does not mean the public automatically gains access to the unredacted material. Classification rules, statutory restrictions and other exemptions can still limit disclosure. However, the archival institution preserves the complete record even when public access remains restricted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
+That does not mean the public automatically gains access to the unredacted material. Classification rules, statutory restrictions and other exemptions can still limit disclosure. However, the archival institution preserves the complete record even when public access remains restricted.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
 
 ### Tension Between Transparency and Security Review
 
 The redaction framework highlights one of the central tensions in the entire UAP records programme.
 
-Congress framed the collection as a transparency initiative, yet many records originate within defence, intelligence and national-security environments. Agencies therefore must balance disclosure requirements against classification obligations and other legal restrictions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
+Congress framed the collection as a transparency initiative, yet many records originate within defence, intelligence and national-security environments. Agencies therefore must balance disclosure requirements against classification obligations and other legal restrictions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
 
 As a result, the public collection should not be viewed as a simple measure of what government agencies possess. Instead, it reflects a layered process involving identification, review, redaction, transfer and publication.
 
@@ -421,219 +421,219 @@ As a result, the public collection should not be viewed as a simple measure of w
 
 The agencies appearing in RG 615 provide insight into how the transfer system is operating in practice.
 
-NARA's collection has listed contributions from organisations including the Federal Aviation Administration, Office of the Director of National Intelligence, Office of the Secretary of Defense, National Security Agency, Federal Bureau of Investigation, Department of State and Nuclear Regulatory Commission. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
+NARA's collection has listed contributions from organisations including the Federal Aviation Administration, Office of the Director of National Intelligence, Office of the Secretary of Defense, National Security Agency, Federal Bureau of Investigation, Department of State and Nuclear Regulatory Commission.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
 
-The diversity of contributors suggests that the transfer process is not limited to military sighting reports. It encompasses aviation safety records, intelligence material, diplomatic records and other government documentation that agencies determine falls within the statutory definition of a UAP record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
+The diversity of contributors suggests that the transfer process is not limited to military sighting reports. It encompasses aviation safety records, intelligence material, diplomatic records and other government documentation that agencies determine falls within the statutory definition of a UAP record.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
 
-The staggered appearance of records also illustrates how the rolling-transfer model functions. Instead of a single comprehensive release, agencies submit records as review and processing work is completed. Researchers therefore encounter an archive that continues to evolve over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
+The staggered appearance of records also illustrates how the rolling-transfer model functions. Instead of a single comprehensive release, agencies submit records as review and processing work is completed. Researchers therefore encounter an archive that continues to evolve over time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
 
 ## The Main Limitations of the Transfer System
 
 The RG 615 process improves discoverability, but it does not eliminate several longstanding challenges.
 
-First, the system depends on agency identification decisions. If records are not recognised as falling within the statutory definition, they may never enter the collection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
+First, the system depends on agency identification decisions. If records are not recognised as falling within the statutory definition, they may never enter the collection.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
 
-Second, transfer does not automatically equal public disclosure. Agencies can transmit records while still maintaining restrictions on what the public can view. The existence of unredacted archival copies does not guarantee immediate public access. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
+Second, transfer does not automatically equal public disclosure. Agencies can transmit records while still maintaining restrictions on what the public can view. The existence of unredacted archival copies does not guarantee immediate public access.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
 
-Third, digitisation requirements create practical bottlenecks. Agencies must locate, review, scan or convert records, prepare metadata and complete accessioning procedures before records appear in the catalogue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nrc.gov/docs/ML2417/ML24177A281.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-snippet">NARA by October 20, 2024. NARA will only accept the digital...Read more...</span><span class="citation-popover-meta">Published: October 20, 2024</span></span></span>
+Third, digitisation requirements create practical bottlenecks. Agencies must locate, review, scan or convert records, prepare metadata and complete accessioning procedures before records appear in the catalogue.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nrc.gov/docs/ML2417/ML24177A281.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-snippet">NARA by October 20, 2024. NARA will only accept the digital...Read more...</span><span class="citation-popover-meta">Published: October 20, 2024</span></span></span>
 
-Finally, researchers should avoid assuming that RG 615 represents every UAP-related record held by the federal government at any given moment. The collection reflects an ongoing transfer process rather than a finished archive. NARA itself describes the collection as one that will continue growing as additional records are received from federal agencies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
+Finally, researchers should avoid assuming that RG 615 represents every UAP-related record held by the federal government at any given moment. The collection reflects an ongoing transfer process rather than a finished archive. NARA itself describes the collection as one that will continue growing as additional records are received from federal agencies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
 
 ## Why RG 615 Transfers Matter for Archive-Based UAP Research
 
-The most important contribution of RG 615 is procedural rather than sensational. The collection creates a standardised route through which agencies must identify, review, digitise and transfer UAP-related records into a common archival framework. That structure makes provenance easier to verify and allows researchers to distinguish between official archival holdings and disconnected document dumps circulating online. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
+The most important contribution of RG 615 is procedural rather than sensational. The collection creates a standardised route through which agencies must identify, review, digitise and transfer UAP-related records into a common archival framework. That structure makes provenance easier to verify and allows researchers to distinguish between official archival holdings and disconnected document dumps circulating online.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
 
-For UAP researchers, the transfer process itself has become a source of evidence. Transfer dates, accession patterns, contributing agencies, metadata quality and redaction practices all reveal how government institutions are implementing the disclosure requirements established by Congress. Understanding those mechanics is essential for interpreting what appears in RG 615, what does not appear, and why the archive continues to change over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
+For UAP researchers, the transfer process itself has become a source of evidence. Transfer dates, accession patterns, contributing agencies, metadata quality and redaction practices all reveal how government institutions are implementing the disclosure requirements established by Congress. Understanding those mechanics is essential for interpreting what appears in RG 615, what does not appear, and why the archive continues to change over time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">2-6272. Top. ✓. Thanks for sharing! AddToAny</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How UAP Records Are Transferred to NARA&#x27;s RG 615. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How UAP Records Are Transferred to NARA&#x27;s RG 615. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Connects government UAP records, official testimony, and disclosure issues that frame why archival transfer systems matter.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects government UAP records, official testimony, and disclosure issues that frame why archival transfer systems matter.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides historical context for official UFO investigation records and the evolution of case documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for official UFO investigation records and the evolution of case documentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eCCmAQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Encyclopedia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eCCmAQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Encyclopedia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Useful for contextualising agencies, cases, terminology, and historical records encountered in UAP archives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for contextualising agencies, cases, terminology, and historical records encountered in UAP archives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Explains early Air Force UFO record creation and administrative handling before later archival consolidation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains early Air Force UFO record creation and administrative handling before later archival consolidation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Encyclopedia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Encyclopedia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rg-615-transfers-how-uap-records-are-transferred-to-nara-s-rg-615-ufo-report-databases-and-catal-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -649,7 +649,7 @@ For UAP researchers, the transfer process itself has become a source of evidence
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -669,7 +669,7 @@ For UAP researchers, the transfer process itself has become a source of evidence
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -701,7 +701,7 @@ For UAP researchers, the transfer process itself has become a source of evidence
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -753,7 +753,7 @@ For UAP researchers, the transfer process itself has become a source of evidence
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -798,7 +798,7 @@ For UAP researchers, the transfer process itself has become a source of evidence
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -839,176 +839,176 @@ For UAP researchers, the transfer process itself has become a source of evidence
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archives.gov  
    Title: uap guidance  
-   Link: <a href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/uap-guidance</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesGuidance to Federal Agencies on Unidentified Anomalous...8 May 2024 — The law requires that by October 20, 2024, each f...</p></details>
+   Link:<a href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/uap-guidance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesGuidance to Federal Agencies on Unidentified Anomalous...8 May 2024 — The law requires that by October 20, 2024, each f...</p></details>
    Published: October 20, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/faqs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesUnidentified Anomalous Phenomena Records Collection24 Apr 2025 — UAP records transferred to NARA in accordance with the...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps/faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/faqs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesUnidentified Anomalous Phenomena Records Collection24 Apr 2025 — UAP records transferred to NARA in accordance with the...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/records-mgmt/memos/ac-04-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/memos/ac-04-2025</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesAC 04.202510 Oct 2024 — No later than September 30, 2025, federal agencies must transfer to NARA digital copies of all U...</p></details>
+   Link:<a href="https://www.archives.gov/records-mgmt/memos/ac" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/memos/ac</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesAC 04.202510 Oct 2024 — No later than September 30, 2025, federal agencies must transfer to NARA digital copies of all U...</p></details>
    Published: September 30, 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-615" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-615</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecord Group 615: Unidentified Anomalous Phenomena...NARA issued guidance to federal agencies regarding identification...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps/rg-615" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-615</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecord Group 615: Unidentified Anomalous Phenomena...NARA issued guidance to federal agencies regarding identification...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — NARA has issued guidance to federal agencies...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — NARA has issued guidance to federal agencies...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/findingaid/stat/discovery/615" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/findingaid/stat/discovery/615</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Record Group 615 - Unidentified Anomalous Phenomena...Explore descriptions of our records. These records, though not yet digitized, are...</p></details>
+   Link:<a href="https://www.archives.gov/findingaid/stat/discovery/615" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/findingaid/stat/discovery/615</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Record Group 615 - Unidentified Anomalous Phenomena...Explore descriptions of our records. These records, though not yet digitized, are...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2-6272. Top. ✓. Thanks for sharing! AddToAny...</p></details>
+   Link:<a href="https://www.archives.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2-6272. Top. ✓. Thanks for sharing! AddToAny...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ted to UFOs and UAPs across all media types.Read more...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ted to UFOs and UAPs across all media types.Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nara.com  
-   Link: <a href="https://nara.com/?srsltid=AfmBOophfpR0KBmISPzwE2qLYDAYu1LsB-CiWQmNXW370jrG7RtDYLSf" target="_blank" rel="noopener noreferrer nofollow">https://nara.com/?srsltid=AfmBOophfpR0KBmISPzwE2qLYDAYu1LsB-CiWQmNXW370jrG7RtDYLSf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Made in Germany to EU and FDA standards. More organic whole milk fat than any U.S...</p></details>
+   Link:<a href="https://nara.com/?srsltid=AfmBOophfpR0KBmISPzwE2qLYDAYu1LsB-CiWQmNXW370jrG7RtDYLSf" target="_blank" rel="noopener noreferrer nofollow">https://nara.com/?srsltid=AfmBOophfpR0KBmISPzwE2qLYDAYu1LsB-CiWQmNXW370jrG7RtDYLSf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Made in Germany to EU and FDA standards. More organic whole milk fat than any U.S...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nara.org  
-   Link: <a href="https://nara.org/" target="_blank" rel="noopener noreferrer nofollow">https://nara.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s, programs and technical support to the rendering industry...</p></details>
+   Link:<a href="https://nara.org/" target="_blank" rel="noopener noreferrer nofollow">https://nara.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s, programs and technical support to the rendering industry...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: UFO Law Deadline Just Hit!  
-   Link: <a href="http://www.youtube.com/watch?v=1tw166vkmrM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=1tw166vkmrM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives and Records Administration (NARA) has uploaded a video of the Roswell 1947...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=1tw166vkmrM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=1tw166vkmrM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives and Records Administration (NARA) has uploaded a video of the Roswell 1947...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=WTKWBM-JMKE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=WTKWBM-JMKE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project [Blue Book](&amp;#123;&amp;#123; &#x27;blue-book/&#x27; | relative_url &amp;#125;&amp;#125;), 1950–1966 - The National Archives Catalog UAP Records (341-pbb-492)...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=WTKWBM-JMKE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=WTKWBM-JMKE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project [Blue Book](&amp;#123;&amp;#123; &#x27;blue-book/&#x27; | relative_url &amp;#125;&amp;#125;), 1950–1966 - The National Archives Catalog UAP Records (341-pbb-492)...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nextgov.com  
    Title: national archives tees new rules ufo records  
-   Link: <a href="https://www.nextgov.com/digital-government/2024/02/national-archives-tees-new-rules-ufo-records/393982/" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/digital-government/2024/02/national-archives-tees-new-rules-ufo-records/393982/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nextgov/FCWNational Archives tees up new rules for UFO records6 Feb 2024 — New legislation mandates a governmentwide repository of record...</p></details>
+   Link:<a href="https://www.nextgov.com/digital-government/2024/02/national-archives-tees-new-rules-ufo-records/393982/" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/digital-government/2024/02/national-archives-tees-new-rules-ufo-records/393982/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nextgov/FCWNational Archives tees up new rules for UFO records6 Feb 2024 — New legislation mandates a governmentwide repository of record...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nrc.gov  
-   Link: <a href="https://www.nrc.gov/docs/ML2417/ML24177A281.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nrc.gov/docs/ML2417/ML24177A281.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NARA by October 20, 2024. NARA will only accept the digital...Read more...</p></details>
+   Link:<a href="https://www.nrc.gov/docs/ML2417/ML24177A281.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nrc.gov/docs/ML2417/ML24177A281.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NARA by October 20, 2024. NARA will only accept the digital...Read more...</p></details>
    Published: October 20, 2024  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: federalnewsnetwork.com  
-   Link: <a href="https://federalnewsnetwork.com/it-modernization/2024/07/nara-sees-requests-to-transfer-nearly-1m-cubic-feet-of-records-ahead-of-deadline/" target="_blank" rel="noopener noreferrer nofollow">https://federalnewsnetwork.com/it-modernization/2024/07/nara-sees-requests-to-transfer-nearly-1m-cubic-feet-of-records-ahead-of-deadline/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal News NetworkNARA sees requests to transfer nearly 1M cubic feet of...Jul 16, 2024 — NARA sees requests to transfer nearly 1M cub...</p></details>
+   Link:<a href="https://federalnewsnetwork.com/it-modernization/2024/07/nara-sees-requests-to-transfer-nearly-1m-cubic-feet-of-records-ahead-of-deadline/" target="_blank" rel="noopener noreferrer nofollow">https://federalnewsnetwork.com/it-modernization/2024/07/nara-sees-requests-to-transfer-nearly-1m-cubic-feet-of-records-ahead-of-deadline/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal News NetworkNARA sees requests to transfer nearly 1M cubic feet of...Jul 16, 2024 — NARA sees requests to transfer nearly 1M cub...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
    Title: us national archives nara publishes frequently  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1g0qptd/us_national_archives_nara_publishes_frequently/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1g0qptd/us_national_archives_nara_publishes_frequently/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives (NARA) publishes &quot;Frequently...No later than September 30, 2025, federal agencies must transfer to NARA digital copies...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1g0qptd/us_national_archives_nara_publishes_frequently/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1g0qptd/us_national_archives_nara_publishes_frequently/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives (NARA) publishes &quot;Frequently...No later than September 30, 2025, federal agencies must transfer to NARA digital copies...</p></details>
    Published: September 30, 2025  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: National Archives and Records Administration  
-   Link: <a href="https://en.wikipedia.org/wiki/National_Archives_and_Records_Administration" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Archives_and_Records_Administration</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives and Records AdministrationNARA is officially responsible for maintaining and publishing the legally authentic and au...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/National_Archives_and_Records_Administration" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Archives_and_Records_Administration</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives and Records AdministrationNARA is officially responsible for maintaining and publishing the legally authentic and au...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: [aaro](&#123;&#123; 'aaro/' | relative_url &#125;&#125;). mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>/Information Papers13 Feb 2026 — The National Archives and Records Administration (NARA) provides access to many government records... U...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>/Information Papers13 Feb 2026 — The National Archives and Records Administration (NARA) provides access to many government records... U...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: usa.gov  
-   Link: <a href="https://www.usa.gov/agencies/national-archives-and-records-administration" target="_blank" rel="noopener noreferrer nofollow">https://www.usa.gov/agencies/national-archives-and-records-administration</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s, manages the Presidential Libraries system, and publishes laws...Read more...</p></details>
+   Link:<a href="https://www.usa.gov/agencies/national-archives-and-records-administration" target="_blank" rel="noopener noreferrer nofollow">https://www.usa.gov/agencies/national-archives-and-records-administration</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s, manages the Presidential Libraries system, and publishes laws...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: x.com  
-   Link: <a href="https://x.com/ddeanjohnson/status/1849906027090555321" target="_blank" rel="noopener noreferrer nofollow">https://x.com/ddeanjohnson/status/1849906027090555321</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NATIONAL ARCHIVES UAP RECORDS COLLECTIONS...On October 10, 2024, NARA issued AC Memo 04.2025: Transfer of Publicly Releasable Unidentifi...</p></details>
+   Link:<a href="https://x.com/ddeanjohnson/status/1849906027090555321" target="_blank" rel="noopener noreferrer nofollow">https://x.com/ddeanjohnson/status/1849906027090555321</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NATIONAL ARCHIVES UAP RECORDS COLLECTIONS...On October 10, 2024, NARA issued AC Memo 04.2025: Transfer of Publicly Releasable Unidentifi...</p></details>
    Published: October 10, 2024  
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reaganlibrary.gov  
-   Link: <a href="https://www.reaganlibrary.gov/education/nara-resources" target="_blank" rel="noopener noreferrer nofollow">https://www.reaganlibrary.gov/education/nara-resources</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NARA ResourcesThrough innovation and technology the National Archives creates educational experiences using primary sources in the classr...</p></details>
+   Link:<a href="https://www.reaganlibrary.gov/education/nara-resources" target="_blank" rel="noopener noreferrer nofollow">https://www.reaganlibrary.gov/education/nara-resources</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NARA ResourcesThrough innovation and technology the National Archives creates educational experiences using primary sources in the classr...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: burlison.house.gov  
    Title: burlison presses mitre answers uap records ffrdc accountability and compliance  
-   Link: <a href="https://burlison.house.gov/media/press-releases/burlison-presses-mitre-answers-uap-records-ffrdc-accountability-and-compliance" target="_blank" rel="noopener noreferrer nofollow">https://burlison.house.gov/media/press-releases/burlison-presses-mitre-answers-uap-records-ffrdc-accountability-and-compliance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>agencies have been directed to identify, review, digitize, and transfer appropriate UAP records to NARA for inclusion in Record Group 615...</p></details>
+   Link:<a href="https://burlison.house.gov/media/press-releases/burlison-presses-mitre-answers-uap-records-ffrdc-accountability-and-compliance" target="_blank" rel="noopener noreferrer nofollow">https://burlison.house.gov/media/press-releases/burlison-presses-mitre-answers-uap-records-ffrdc-accountability-and-compliance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>agencies have been directed to identify, review, digitize, and transfer appropriate UAP records to NARA for inclusion in Record Group 615...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1r9j4ud/department_of_state_uap_records_ready_to_release/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1r9j4ud/department_of_state_uap_records_ready_to_release/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of State UAP Records Ready to Release: r/UFOsNARA has had a slow drip of records and they have just over a month left to meet...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1r9j4ud/department_of_state_uap_records_ready_to_release/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1r9j4ud/department_of_state_uap_records_ready_to_release/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of State UAP Records Ready to Release: r/UFOsNARA has had a slow drip of records and they have just over a month left to meet...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: nowdeclassified.com  
-   Link: <a href="https://www.nowdeclassified.com/guides" target="_blank" rel="noopener noreferrer nofollow">https://www.nowdeclassified.com/guides</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Archive Guides | Now DeclassifiedEditorial guides covering NARA RG 615, AARO UAP cases, NASA&#x27;s UAP study, FBI Vault UFO files, and pr...</p></details>
+   Link:<a href="https://www.nowdeclassified.com/guides" target="_blank" rel="noopener noreferrer nofollow">https://www.nowdeclassified.com/guides</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Archive Guides | Now DeclassifiedEditorial guides covering NARA RG 615, AARO UAP cases, NASA&#x27;s UAP study, FBI Vault UFO files, and pr...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
    Title: new to maximize transparency the national archives has released new records rel  
-   Link: <a href="https://www.facebook.com/usnationalarchives/posts/-new-to-maximize-transparency-the-national-archives-has-released-new-records-rel/1064767475698845/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/usnationalarchives/posts/-new-to-maximize-transparency-the-national-archives-has-released-new-records-rel/1064767475698845/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US National Archives... October 2024, NARA has not yet received any records from federal agencies for inclusion in Record Group 615.&quot; Rec...</p></details>
+   Link:<a href="https://www.facebook.com/usnationalarchives/posts/-new-to-maximize-transparency-the-national-archives-has-released-new-records-rel/1064767475698845/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/usnationalarchives/posts/-new-to-maximize-transparency-the-national-archives-has-released-new-records-rel/1064767475698845/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US National Archives... October 2024, NARA has not yet received any records from federal agencies for inclusion in Record Group 615.&quot; Rec...</p></details>
    Published: October 2024  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: reddit.com  
    Title: to maximize transparency the national archives  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1k75ynz/to_maximize_transparency_the_national_archives/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1k75ynz/to_maximize_transparency_the_national_archives/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>To maximize transparency, the National Archives has...Recent official releases: In April 2025 NARA announced that it has made available...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1k75ynz/to_maximize_transparency_the_national_archives/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1k75ynz/to_maximize_transparency_the_national_archives/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>To maximize transparency, the National Archives has...Recent official releases: In April 2025 NARA announced that it has made available...</p></details>
    Published: April 2025  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: hm05uap.substack.com  
    Title: uap record transfers due today  
-   Link: <a href="https://hm05uap.substack.com/p/uap-record-transfers-due-today" target="_blank" rel="noopener noreferrer nofollow">https://hm05uap.substack.com/p/uap-record-transfers-due-today</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Record Transfers Due Today - HM05UAPUAP Record Transfers Due Today. Federal agencies are required to transfer UAP records to the National...</p></details>
+   Link:<a href="https://hm05uap.substack.com/p/uap-record-transfers-due-today" target="_blank" rel="noopener noreferrer nofollow">https://hm05uap.substack.com/p/uap-record-transfers-due-today</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Record Transfers Due Today - HM05UAPUAP Record Transfers Due Today. Federal agencies are required to transfer UAP records to the National...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=wy1qDwPhaVM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=wy1qDwPhaVM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NEW National Archives Record Group 615—Forthcoming UAP Document Dump?...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=wy1qDwPhaVM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=wy1qDwPhaVM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NEW National Archives Record Group 615—Forthcoming UAP Document Dump?...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: newspaceeconomy.ca  
    Title: the national archives and the uap records collection  
-   Link: <a href="https://newspaceeconomy.ca/2025/12/06/the-national-archives-and-the-uap-records-collection/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/12/06/the-national-archives-and-the-uap-records-collection/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Record Group 615 serves as the central repository for these...Read more...</p></details>
+   Link:<a href="https://newspaceeconomy.ca/2025/12/06/the-national-archives-and-the-uap-records-collection/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/12/06/the-national-archives-and-the-uap-records-collection/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Record Group 615 serves as the central repository for these...Read more...</p></details>

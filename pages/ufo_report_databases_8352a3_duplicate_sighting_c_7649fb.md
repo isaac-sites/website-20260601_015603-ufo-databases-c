@@ -355,26 +355,26 @@ image: /assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb-ov
 Duplicate reports are one of the easiest ways for UFO databases to look more dramatic than they really are. One sighting can become several records when multiple witnesses file separately, a case is copied from a police file into a newspaper, later summarised in a book, re-entered by a researcher, then imported into a newer database. That does not mean the event is fake, but it does mean that “number of reports” is not the same as “number of distinct UFO events”.
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb-overview.webp" | relative_url }}" alt="Overview image for Duplicates" loading="eager" decoding="sync" fetchpriority="high">
-This distinction matters because UFO catalogues are often cited by their totals: tens of thousands of [NUFORC]({{ 'nuforc/' | relative_url }}) reports, thousands of Project [Blue Book]({{ 'blue-book/' | relative_url }}) sightings, or large merged datasets built from several public sources. Those totals are useful for finding material, but they can inflate the apparent frequency of events unless records are grouped, cross-checked and counted at the event level rather than the report level. CUFOS’s UFOCAT codebook is unusually explicit about this: records may describe the same event from different sources, and the database includes fields intended to group those records into blocks referring to the same incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
+This distinction matters because UFO catalogues are often cited by their totals: tens of thousands of [NUFORC]({{ 'nuforc/' | relative_url }}) reports, thousands of Project [Blue Book]({{ 'blue-book/' | relative_url }}) sightings, or large merged datasets built from several public sources. Those totals are useful for finding material, but they can inflate the apparent frequency of events unless records are grouped, cross-checked and counted at the event level rather than the report level. CUFOS’s UFOCAT codebook is unusually explicit about this: records may describe the same event from different sources, and the database includes fields intended to group those records into blocks referring to the same incident.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 
 ## Why duplicates appear
 
 Duplicates arise because UFO reporting is usually decentralised. A witness may submit a web form to NUFORC, speak to a local newspaper, contact [MUFON]({{ 'mufon/' | relative_url }}), post photographs online, and later be included in a historical catalogue. Each version may contain slightly different details: a rounded time, a misspelled location, a different shape label, a corrected date, or a second-hand summary. To a database, those variations can make one event look like several.
 
-[UFOCAT]({{ 'ufocat/' | relative_url }}) shows the problem clearly because it was built as a reference catalogue rather than a single clean list of unique incidents. Its guide explains that a typical record reflects one witness or group of witnesses, one event and one source, but in practice witnesses, events and sources are “not always unambiguous”. It also says that records are meant to reflect the source, even when source data are inaccurate, with special codes used to flag suspected or known inaccuracies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
+[UFOCAT]({{ 'ufocat/' | relative_url }}) shows the problem clearly because it was built as a reference catalogue rather than a single clean list of unique incidents. Its guide explains that a typical record reflects one witness or group of witnesses, one event and one source, but in practice witnesses, events and sources are “not always unambiguous”. It also says that records are meant to reflect the source, even when source data are inaccurate, with special codes used to flag suspected or known inaccuracies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 
-That design is valuable for researchers because it preserves provenance. A newspaper account and an investigator’s file may both matter. But it is dangerous if a reader simply exports all rows and treats each row as one separate UFO. UFOCAT’s own structure anticipates this by using a primary record number and related fields so that filtering by the primary number can retrieve all references to the same event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
+That design is valuable for researchers because it preserves provenance. A newspaper account and an investigator’s file may both matter. But it is dangerous if a reader simply exports all rows and treats each row as one separate UFO. UFOCAT’s own structure anticipates this by using a primary record number and related fields so that filtering by the primary number can retrieve all references to the same event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 
-The same risk exists in modern public reporting systems. NUFORC describes its databank as the largest independently collected online set of UFO or UAP sighting reports, and it allows browsing by event date, location, shape and posting date. It also grades reports into tiers, including reports judged explainable by human or natural phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC</span></span></span> Those features help users inspect the data, but they do not by themselves guarantee that every entry is a unique event.
+The same risk exists in modern public reporting systems. NUFORC describes its databank as the largest independently collected online set of UFO or UAP sighting reports, and it allows browsing by event date, location, shape and posting date. It also grades reports into tiers, including reports judged explainable by human or natural phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC</span></span></span> Those features help users inspect the data, but they do not by themselves guarantee that every entry is a unique event.
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb-Illustration-1-dark.svg" | relative_url }}" alt="Duplicates illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Counting reports versus events
 
 A report is a piece of testimony or evidence. An event is the thing that may have happened in the sky. The two can diverge in both directions: one event may generate many reports, while one report may describe several objects, several episodes, or a vague memory of an event that occurred long before it was submitted.
 
-Project Blue Book illustrates how public totals can be misunderstood. The US Air Force says it investigated 12,618 sightings from 1947 to 1969, of which 701 remained “unidentified”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span> That number is often quoted as if it were a clean count of discrete anomalous events. In practice, Blue Book material came from reports, letters, military channels and investigations collected over more than two decades. The official total is historically important, but it still needs careful reading as a count of investigated sightings, not a laboratory-confirmed count of separate extraordinary objects.
+Project Blue Book illustrates how public totals can be misunderstood. The US Air Force says it investigated 12,618 sightings from 1947 to 1969, of which 701 remained “unidentified”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span> That number is often quoted as if it were a clean count of discrete anomalous events. In practice, Blue Book material came from reports, letters, military channels and investigations collected over more than two decades. The official total is historically important, but it still needs careful reading as a count of investigated sightings, not a laboratory-confirmed count of separate extraordinary objects.
 
-A more transparent model is visible in UFOCAT’s grouping practice. The codebook states that database queries can produce a block of records describing the same event, with entries in the block based on different sources; the chronologically earliest or most complete account is treated as the primary record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span> That is the key conceptual move: keep the source records, but count the event once when making claims about frequency.
+A more transparent model is visible in UFOCAT’s grouping practice. The codebook states that database queries can produce a block of records describing the same event, with entries in the block based on different sources; the chronologically earliest or most complete account is treated as the primary record.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span> That is the key conceptual move: keep the source records, but count the event once when making claims about frequency.
 
 This distinction also changes how multiple witnesses should be read. Several independent reports of the same object can strengthen a case because they may provide different angles, times or locations. But if a catalogue counts them as several “UFOs”, it inflates the event count. A good database therefore needs two layers: one layer for individual reports and one layer for linked events.
 
@@ -382,28 +382,28 @@ This distinction also changes how multiple witnesses should be read. Several ind
 
 ## How ordinary sky events multiply entries
 
-Inflation is not limited to archival copying. Modern skies contain repeatable, widely visible objects that can generate [clusters]({{ 'clusters/' | relative_url }}) of reports across a wide area. Starlink satellite trains are a strong example. NUFORC now warns users before filing that a line of lights travelling together on the same course is probably Starlink and asks them not to report such sightings as UFOs. It also points users to Starlink trackers and launch schedules before submission. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">File a UFO Report &#124; NUFORC</span><span class="citation-popover-snippet">File a UFO Report &#124; NUFORC</span></span></span>
+Inflation is not limited to archival copying. Modern skies contain repeatable, widely visible objects that can generate [clusters]({{ 'clusters/' | relative_url }}) of reports across a wide area. Starlink satellite trains are a strong example. NUFORC now warns users before filing that a line of lights travelling together on the same course is probably Starlink and asks them not to report such sightings as UFOs. It also points users to Starlink trackers and launch schedules before submission.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">File a UFO Report &#124; NUFORC</span><span class="citation-popover-snippet">File a UFO Report &#124; NUFORC</span></span></span>
 
-The problem is not that witnesses are necessarily dishonest. A 2022 study of UFO reporting during the COVID-19 period found that Starlink reports became a substantial fraction of UFO reports beginning in 2019 and increasing rapidly in 2020. After coding and removing Starlink sightings, the authors concluded that the number of sightings in 2020 was not greater than in 2019, which shows how one new visible phenomenon can create an apparent reporting surge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/368458403_Social_factors_and_UFO_reports_was_the_SARS-CoV-2_pandemic_associated_with_an_increase_in_UFO_reporting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The problem is not that witnesses are necessarily dishonest. A 2022 study of UFO reporting during the COVID-19 period found that Starlink reports became a substantial fraction of UFO reports beginning in 2019 and increasing rapidly in 2020. After coding and removing Starlink sightings, the authors concluded that the number of sightings in 2020 was not greater than in 2019, which shows how one new visible phenomenon can create an apparent reporting surge.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/368458403_Social_factors_and_UFO_reports_was_the_SARS-CoV-2_pandemic_associated_with_an_increase_in_UFO_reporting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Aviation cases show the same mechanism with higher stakes. A 2024 arXiv case study analysed an August 2022 incident in which five pilots on two commercial flights over the Pacific reported a UAP, with photographs and video. The researchers reconstructed the sighting using Starlink orbital data and aircraft tracking data, arguing that the reports were consistent with a recently launched satellite train. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In a database, that single sky event could appear as multiple [pilot reports]({{ 'pilot-reports/' | relative_url }}), multiple media items and multiple later analytical records unless it is explicitly linked.
+Aviation cases show the same mechanism with higher stakes. A 2024 arXiv case study analysed an August 2022 incident in which five pilots on two commercial flights over the Pacific reported a UAP, with photographs and video. The researchers reconstructed the sighting using Starlink orbital data and aircraft tracking data, arguing that the reports were consistent with a recently launched satellite train.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In a database, that single sky event could appear as multiple [pilot reports]({{ 'pilot-reports/' | relative_url }}), multiple media items and multiple later analytical records unless it is explicitly linked.
 
-AARO’s public imagery pages also show why counting needs caution. Several entries are individual “reports” with short video clips, some resolved as [balloons]({{ 'balloons/' | relative_url }}) or birds, others unresolved because available data were insufficient or did not allow precise attribution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span> A row in a repository may therefore represent a clip, a report packet, an unresolved observation, a prosaic object awaiting better attribution, or one angle on a broader incident.
+AARO’s public imagery pages also show why counting needs caution. Several entries are individual “reports” with short video clips, some resolved as [balloons]({{ 'balloons/' | relative_url }}) or birds, others unresolved because available data were insufficient or did not allow precise attribution.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span> A row in a repository may therefore represent a clip, a report packet, an unresolved observation, a prosaic object awaiting better attribution, or one angle on a broader incident.
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb-Illustration-2-dark.svg" | relative_url }}" alt="Duplicates illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_duplicate_sighting_c_7649fb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The database design choices that cause overcounting
 
 Inflated counts usually come from a few recurring design choices rather than from one simple error.
 
-**Row-level counting.** The easiest mistake is to count database rows. This works only if every row is known to represent one unique event. UFOCAT’s own guide shows why that assumption fails: blocks of records can describe the same event from different sources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
+**Row-level counting.** The easiest mistake is to count database rows. This works only if every row is known to represent one unique event. UFOCAT’s own guide shows why that assumption fails: blocks of records can describe the same event from different sources.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 
 **Merged datasets without source-aware matching.** Large modern datasets often combine NUFORC, MUFON, historical catalogues, scraped archives and press accounts. Unless they retain original source identifiers and use event-level matching, the same case can survive several times under slightly different names.
 
-**Rounding and uncertain metadata.** UFO reports often contain approximate times, vague durations and broad locations. A study of 80,332 UFO sightings from 1906 to 2014 found that more than 41% of reports supposedly occurred at perfect “o’clock” hours, indicating a strong preference for rounded times. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect On the dynamics of reporting data: A case study of UFO sightings</span><span class="citation-popover-snippet">ScienceDirect On the dynamics of reporting data: A case study of UFO sightings</span></span></span> Deduplication that demands exact time matches will miss many duplicates; deduplication that is too loose may wrongly merge separate sightings from the same evening.
+**Rounding and uncertain metadata.** UFO reports often contain approximate times, vague durations and broad locations. A study of 80,332 UFO sightings from 1906 to 2014 found that more than 41% of reports supposedly occurred at perfect “o’clock” hours, indicating a strong preference for rounded times.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect On the dynamics of reporting data: A case study of UFO sightings</span><span class="citation-popover-snippet">ScienceDirect On the dynamics of reporting data: A case study of UFO sightings</span></span></span> Deduplication that demands exact time matches will miss many duplicates; deduplication that is too loose may wrongly merge separate sightings from the same evening.
 
 **Shape and description drift.** One witness may call an object an orb, another a light, another a formation, and a later summary a triangle. If the database treats shape as the main identifier, related reports can split apart.
 
-**Publication-chain duplication.** A case may enter a catalogue once from an investigator’s notes, again from a local article, and again from a later book. UFOCAT preserves such chains because the sources themselves are useful, but users must not confuse bibliographic richness with event multiplicity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
+**Publication-chain duplication.** A case may enter a catalogue once from an investigator’s notes, again from a local article, and again from a later book. UFOCAT preserves such chains because the sources themselves are useful, but users must not confuse bibliographic richness with event multiplicity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NJdt9Dxvfvo" title="MUFON Unmasks the Truth! | UFO&#x27;s Over Earth | Discovery Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NJdt9Dxvfvo" target="_blank" rel="noopener noreferrer">MUFON Unmasks the Truth! | UFO&#x27;s Over Earth | Discovery Channel</a></p><p class="youtube-embed-meta">Channel: DiscoveryChannelInd &middot; Views: 539.8K &middot; Uploaded: May 2025 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NJdt9Dxvfvo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NJdt9Dxvfvo">Open on YouTube</a></p></div></div></div>
 
@@ -411,7 +411,7 @@ Inflated counts usually come from a few recurring design choices rather than fro
 
 Good deduplication does not mean deleting everything that looks repetitive. It means preserving the evidence trail while assigning records to probable event groups. For UFO databases and catalogues, the most useful checks are practical and conservative.
 
-1. **Separate source record ID from event ID.** Each submission, article, image or official file should keep its own record ID, but related records should also share a higher-level event ID where the match is strong. UFOCAT’s primary record approach is a useful precedent because it keeps source entries while allowing same-event grouping. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
+1. **Separate source record ID from event ID.** Each submission, article, image or official file should keep its own record ID, but related records should also share a higher-level event ID where the match is strong. UFOCAT’s primary record approach is a useful precedent because it keeps source entries while allowing same-event grouping.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 2. **Match on time windows, not exact times.** Because witnesses round times, a same-event search should use a reasonable window around reported time and duration. A “9:00 pm” report and a “9:07 pm” report from nearby towns may be the same event; two exact “9:00 pm” reports hundreds of miles apart may not be.
 3. **Use geography as a corridor, not a point.** Satellites, rocket launches, aircraft and re-entries can be visible across large regions. A same-event cluster may run along a flight path, satellite pass or launch visibility zone rather than around a single postcode.
 4. **Compare narrative signatures.** Phrases such as “line of lights”, “same speed”, “disappeared overhead” and “straight course” can be stronger duplicate clues than shape labels. NUFORC’s Starlink warning gives exactly this kind of pattern description. [nuforc.org](https://nuforc.org/ndx/?id=event)
@@ -438,194 +438,194 @@ The best UFO catalogues therefore do not simply chase bigger totals. They preser
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lTGJt7Gho0w" title="Inside the Data: What 1,000+ Pilot Reports Reveal About UAP | iConnections Webinar with Ryan Graves" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer">Inside the Data: What 1,000+ Pilot Reports Reveal About UAP | iConnections Webinar with Ryan Graves</a></p><p class="youtube-embed-meta">Channel: iConnections &middot; Views: 262 &middot; Uploaded: April 2026 &middot; Length: 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lTGJt7Gho0w">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How One UFO Sighting Becomes Many Records. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How One UFO Sighting Becomes Many Records. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how sightings should be classified and assessed, supporting careful separation of reports from events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how sightings should be classified and assessed, supporting careful separation of reports from events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Uses historical cases and official records, helping readers see how the same incident can move through multiple archives and summaries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Uses historical cases and official records, helping readers see how the same incident can move through multiple archives and summaries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ckOQEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-        </h4>
-        <p class="fr-book-author">By Nate Silver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ckOQEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+</h4>
+<p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Good companion for thinking about noise, weak signals and pattern overreading in large UFO sighting datasets.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Good companion for thinking about noise, weak signals and pattern overreading in large UFO sighting datasets.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
-        </h4>
-        <p class="fr-book-author">By Darrell Huff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
+</h4>
+<p class="fr-book-author">By Darrell Huff</p>
         
-        <p class="fr-book-desc">Directly supports the duplicate-record problem by showing how raw numbers can create false impressions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly supports the duplicate-record problem by showing how raw numbers can create false impressions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scorpion Snake Alien Figure - Aliens vs Predator Collectible Toy"><img src="{{ '/assets/images/marketplace-covers/db59b03e5475945e8983.jpg' | relative_url }}" alt="Listing image for Scorpion Snake Alien Figure - Aliens vs Predator Collectible Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book" target="_blank" rel="sponsored noopener noreferrer">Scorpion Snake Alien Figure - Aliens vs Predator Collectible Toy</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible toy">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible toy</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scorpion Snake Alien Figure - Aliens vs Predator Collectible Toy"><img src="{{ '/assets/images/marketplace-covers/db59b03e5475945e8983.jpg' | relative_url }}" alt="Listing image for Scorpion Snake Alien Figure - Aliens vs Predator Collectible Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book" target="_blank" rel="sponsored noopener noreferrer">Scorpion Snake Alien Figure - Aliens vs Predator Collectible Toy</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible toy">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible toy</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AVP Alien vs. Predator Collectible 9cm 3D Printed Statue Model Action Figure Toy"><img src="{{ '/assets/images/marketplace-covers/601c56544c3f2eaf183a.jpg' | relative_url }}" alt="Listing image for AVP Alien vs. Predator Collectible 9cm 3D Printed Statue Model Action Figure Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book" target="_blank" rel="sponsored noopener noreferrer">AVP Alien vs. Predator Collectible 9cm 3D Printed Statue Model Action Figure Toy</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible toy">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible toy</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AVP Alien vs. Predator Collectible 9cm 3D Printed Statue Model Action Figure Toy"><img src="{{ '/assets/images/marketplace-covers/601c56544c3f2eaf183a.jpg' | relative_url }}" alt="Listing image for AVP Alien vs. Predator Collectible 9cm 3D Printed Statue Model Action Figure Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book" target="_blank" rel="sponsored noopener noreferrer">AVP Alien vs. Predator Collectible 9cm 3D Printed Statue Model Action Figure Toy</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible toy">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible toy</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Action Figure Red 2020 Collectible 10cm Toy"><img src="{{ '/assets/images/marketplace-covers/93988dfd825946a70d54.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Action Figure Red 2020 Collectible 10cm Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Action Figure Red 2020 Collectible 10cm Toy</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible toy">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible toy</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Action Figure Red 2020 Collectible 10cm Toy"><img src="{{ '/assets/images/marketplace-covers/93988dfd825946a70d54.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Action Figure Red 2020 Collectible 10cm Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Action Figure Red 2020 Collectible 10cm Toy</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible toy">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible toy</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Movie Toy Story 4 Alien Plastic Figures Toy Xmas Gifts Collectible Toys NEW 15cm"><img src="{{ '/assets/images/marketplace-covers/68a200f726f429fc62e9.jpg' | relative_url }}" alt="Listing image for Movie Toy Story 4 Alien Plastic Figures Toy Xmas Gifts Collectible Toys NEW 15cm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book" target="_blank" rel="sponsored noopener noreferrer">Movie Toy Story 4 Alien Plastic Figures Toy Xmas Gifts Collectible Toys NEW 15cm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible toy">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible toy</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Movie Toy Story 4 Alien Plastic Figures Toy Xmas Gifts Collectible Toys NEW 15cm"><img src="{{ '/assets/images/marketplace-covers/68a200f726f429fc62e9.jpg' | relative_url }}" alt="Listing image for Movie Toy Story 4 Alien Plastic Figures Toy Xmas Gifts Collectible Toys NEW 15cm" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book" target="_blank" rel="sponsored noopener noreferrer">Movie Toy Story 4 Alien Plastic Figures Toy Xmas Gifts Collectible Toys NEW 15cm</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible toy">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible toy</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="duplicates-how-one-ufo-sighting-becomes-many-records-ufo-report-databases-and-catalogues-alien-collectible-toy-book-book" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -641,7 +641,7 @@ The best UFO catalogues therefore do not simply chase bigger totals. They preser
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -661,7 +661,7 @@ The best UFO catalogues therefore do not simply chase bigger totals. They preser
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -693,7 +693,7 @@ The best UFO catalogues therefore do not simply chase bigger totals. They preser
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -745,7 +745,7 @@ The best UFO catalogues therefore do not simply chase bigger totals. They preser
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -790,7 +790,7 @@ The best UFO catalogues therefore do not simply chase bigger totals. They preser
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -831,186 +831,186 @@ The best UFO catalogues therefore do not simply chase bigger totals. They preser
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cufos.org  
    Title: Center for UFO Studies  
-   Link: <a href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf</a>  
+   Link:<a href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+   Link:<a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: af.mil  
    Title: U.S. Air Force  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
    Title: File a UFO Report | NUFORC  
-   Link: <a href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/report-a-ufo/</a>  
+   Link:<a href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/report-a-ufo/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/368458403_Social_factors_and_UFO_reports_was_the_SARS-CoV-2_pandemic_associated_with_an_increase_in_UFO_reporting" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/368458403_Social_factors_and_UFO_reports_was_the_SARS-CoV-2_pandemic_associated_with_an_increase_in_UFO_reporting</a>  
+   Link:<a href="https://www.researchgate.net/publication/368458403_Social_factors_and_UFO_reports_was_the_SARS-CoV-2_pandemic_associated_with_an_increase_in_UFO_reporting" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/368458403_Social_factors_and_UFO_reports_was_the_SARS-CoV-2_pandemic_associated_with_an_increase_in_UFO_reporting</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
+   Link:<a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect On the dynamics of reporting data: A case study of UFO sightings  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: rand.org  
-   Link: <a href="https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf</a>  
+   Link:<a href="https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: war.gov  
    Title: U.S. Department of War  
-   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP &gt; U.S. Department of War &gt; Transcript |...</p></details>
+   Link:<a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP &gt; U.S. Department of War &gt; Transcript |...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cnes-geipan.fr  
    Title: Methodology | GEIPAN  
-   Link: <a href="https://www.cnes-geipan.fr/en/node/58788" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58788</a>  
+   Link:<a href="https://www.cnes-geipan.fr/en/node/58788" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58788</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/396123768_Factors_complicating_the_identification_and_processing_of_duplicates_in_bibliographic_records_A_theoretical_perspective" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396123768_Factors_complicating_the_identification_and_processing_of_duplicates_in_bibliographic_records_A_theoretical_perspective</a>  
+   Link:<a href="https://www.researchgate.net/publication/396123768_Factors_complicating_the_identification_and_processing_of_duplicates_in_bibliographic_records_A_theoretical_perspective" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396123768_Factors_complicating_the_identification_and_processing_of_duplicates_in_bibliographic_records_A_theoretical_perspective</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/385588760_Hyperconflation_Recommending_a_Relational_Alternative_to_the_Datacentric_Approach_to_UAP" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/385588760_Hyperconflation_Recommending_a_Relational_Alternative_to_the_Datacentric_Approach_to_UAP</a>  
+   Link:<a href="https://www.researchgate.net/publication/385588760_Hyperconflation_Recommending_a_Relational_Alternative_to_the_Datacentric_Approach_to_UAP" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/385588760_Hyperconflation_Recommending_a_Relational_Alternative_to_the_Datacentric_Approach_to_UAP</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/376519968_An_environmental_analysis_of_public_UAP_sightings_and_sky_view_potential" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376519968_An_environmental_analysis_of_public_UAP_sightings_and_sky_view_potential</a>  
+   Link:<a href="https://www.researchgate.net/publication/376519968_An_environmental_analysis_of_public_UAP_sightings_and_sky_view_potential" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376519968_An_environmental_analysis_of_public_UAP_sightings_and_sky_view_potential</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
+   Link:<a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58787</a>  
+   Link:<a href="https://www.cnes-geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58787</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/ndx/?id=event" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=event</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=event" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=event</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+   Link:<a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/FAQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/FAQ/</a>  
+   Link:<a href="https://www.aaro.mil/FAQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/FAQ/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_UAP_Program_Report_User_Guide-20231211.pdf?ver=dJtqTlbDr3HqkIVDW8MP4Q%3D%3D" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_UAP_Program_Report_User_Guide-20231211.pdf?ver=dJtqTlbDr3HqkIVDW8MP4Q%3D%3D</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_UAP_Program_Report_User_Guide-20231211.pdf?ver=dJtqTlbDr3HqkIVDW8MP4Q%3D%3D" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_UAP_Program_Report_User_Guide-20231211.pdf?ver=dJtqTlbDr3HqkIVDW8MP4Q%3D%3D</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: cufos.org  
-   Link: <a href="https://cufos.org/cufos-publications-databases/ufocat/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/cufos-publications-databases/ufocat/</a>  
+   Link:<a href="https://cufos.org/cufos-publications-databases/ufocat/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/cufos-publications-databases/ufocat/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cnes.fr  
-   Link: <a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
+   Link:<a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2411.02401v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.02401v1</a>  
+   Link:<a href="https://arxiv.org/html/2411.02401v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.02401v1</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEIPAN</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEIPAN</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 ### Additional References
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=nraHhvzdZAQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nraHhvzdZAQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the Data: What 1,000+ Pilot Reports Reveal About UAP | iConnections Webinar with Ryan Graves...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nraHhvzdZAQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nraHhvzdZAQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the Data: What 1,000+ Pilot Reports Reveal About UAP | iConnections Webinar with Ryan Graves...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lTGJt7Gho0w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings: How Scientists are Trying to Capture More Data | NOVA | PBS...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lTGJt7Gho0w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings: How Scientists are Trying to Capture More Data | NOVA | PBS...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: UFO Sightings: How Scientists are Trying to Capture More Data | NOVA | PBS  
-   Link: <a href="https://www.youtube.com/watch?v=qho0N3vv7Gw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qho0N3vv7Gw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Governments Using AI To Decode Massive UFO Databases | WION Podcast...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qho0N3vv7Gw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qho0N3vv7Gw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Governments Using AI To Decode Massive UFO Databases | WION Podcast...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: Governments Using AI To Decode Massive UFO Databases | WION Podcast  
-   Link: <a href="https://www.youtube.com/watch?v=adCsqd_-M94" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=adCsqd_-M94</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON Unmasks the Truth! | UFO&#x27;s Over Earth | Discovery Channel...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=adCsqd_-M94" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=adCsqd_-M94</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON Unmasks the Truth! | UFO&#x27;s Over Earth | Discovery Channel...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOB/comments/1sjoz1f/614505_ufo_sighting_records_from_5_major_databases/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1sjoz1f/614505_ufo_sighting_records_from_5_major_databases/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOB/comments/1sjoz1f/614505_ufo_sighting_records_from_5_major_databases/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1sjoz1f/614505_ufo_sighting_records_from_5_major_databases/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/6abcActionNews/posts/also-included-in-the-files-is-a-written-account-from-a-senior-us-intelligence-of/1530682285090808/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/6abcActionNews/posts/also-included-in-the-files-is-a-written-account-from-a-senior-us-intelligence-of/1530682285090808/</a>  
+   Link:<a href="https://www.facebook.com/6abcActionNews/posts/also-included-in-the-files-is-a-written-account-from-a-senior-us-intelligence-of/1530682285090808/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/6abcActionNews/posts/also-included-in-the-files-is-a-written-account-from-a-senior-us-intelligence-of/1530682285090808/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/fox9kmsp/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1466543298848455/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox9kmsp/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1466543298848455/</a>  
+   Link:<a href="https://www.facebook.com/fox9kmsp/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1466543298848455/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox9kmsp/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1466543298848455/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYqQblURejG/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYqQblURejG/</a>
+   Link:<a href="https://www.instagram.com/p/DYqQblURejG/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYqQblURejG/</a>

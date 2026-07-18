@@ -274,16 +274,16 @@ image: /assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_en
 
 ## Introduction
 
-[Enigma]({{ 'enigma/' | relative_url }}) Labs’ mobile reporting system is built around a simple idea: a UFO video becomes more useful when the phone records not only the image, but also the circumstances of the recording. Rather than treating a sighting as a standalone clip, the Enigma app attempts to capture location, orientation and timing data alongside the footage itself. The company presents this as a way to reduce one of the oldest problems in UFO databases: videos that cannot be meaningfully analysed because investigators do not know exactly where the witness was, which direction they were facing, or how the camera moved during filming. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
+[Enigma]({{ 'enigma/' | relative_url }}) Labs’ mobile reporting system is built around a simple idea: a UFO video becomes more useful when the phone records not only the image, but also the circumstances of the recording. Rather than treating a sighting as a standalone clip, the Enigma app attempts to capture location, orientation and timing data alongside the footage itself. The company presents this as a way to reduce one of the oldest problems in UFO databases: videos that cannot be meaningfully analysed because investigators do not know exactly where the witness was, which direction they were facing, or how the camera moved during filming.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_camera_metada_4fa1f5-Illustration-1-dark.svg" | relative_url }}" alt="Camera Metadata illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_camera_metada_4fa1f5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_camera_metada_4fa1f5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within Enigma’s broader UFO reporting platform, camera metadata is not a side feature. It is a core mechanism intended to make reports easier to compare, verify and contextualise. The system combines frame-level recording data with an augmented-reality identification tool designed to rule out ordinary objects before a report is even submitted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/the-new-enigma-camera-optimizing-metadata-for-uap-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[2Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">the new enigma camera optimizing metadata for uap sightings</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingThe New Enigma Camera — Optimizing Metadata for UAP...25 Aug 2023 — The new Enigma Native Camera lets...</span></span></span>
+Within Enigma’s broader UFO reporting platform, camera metadata is not a side feature. It is a core mechanism intended to make reports easier to compare, verify and contextualise. The system combines frame-level recording data with an augmented-reality identification tool designed to rule out ordinary objects before a report is even submitted.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/the-new-enigma-camera-optimizing-metadata-for-uap-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[2Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">the new enigma camera optimizing metadata for uap sightings</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingThe New Enigma Camera — Optimizing Metadata for UAP...25 Aug 2023 — The new Enigma Native Camera lets...</span></span></span>
 
 ## How Enigma Captures Location and Angle Metadata
 
-Most smartphone photos and videos already contain metadata such as the time, date and GPS coordinates of the recording. Enigma argues that this standard approach is insufficient for analysing unusual aerial sightings because conventional metadata is usually attached at the beginning of a recording session rather than continuously throughout the clip. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
+Most smartphone photos and videos already contain metadata such as the time, date and GPS coordinates of the recording. Enigma argues that this standard approach is insufficient for analysing unusual aerial sightings because conventional metadata is usually attached at the beginning of a recording session rather than continuously throughout the clip.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
 
-According to Enigma, this creates a practical problem when a witness is moving. A person may walk, drive or rotate while recording an object in the sky. If the device only records its position at the start of filming, later frames may no longer reflect the actual viewing geometry. That can distort attempts to estimate an object's path, speed or apparent movement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
+According to Enigma, this creates a practical problem when a witness is moving. A person may walk, drive or rotate while recording an object in the sky. If the device only records its position at the start of filming, later frames may no longer reflect the actual viewing geometry. That can distort attempts to estimate an object's path, speed or apparent movement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
 
 To address that issue, Enigma developed an in-app camera that records metadata throughout the video. The company states that each frame can be associated with information including:
 
@@ -296,19 +296,19 @@ To address that issue, Enigma developed an in-app camera that records metadata t
 
 </div>
 
-The goal is to preserve a changing record of how the witness and device moved during the observation rather than treating the entire video as a single fixed observation point. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
+The goal is to preserve a changing record of how the witness and device moved during the observation rather than treating the entire video as a single fixed observation point.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
 
 ### Frame-by-Frame Metadata Collection
 
-Enigma repeatedly describes its camera as capturing metadata “frame-by-frame”. In practical terms, this means that every stage of a recording can be tied to a specific set of sensor readings rather than relying on a single timestamp and location entry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
+Enigma repeatedly describes its camera as capturing metadata “frame-by-frame”. In practical terms, this means that every stage of a recording can be tied to a specific set of sensor readings rather than relying on a single timestamp and location entry.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
 
 The company claims that this allows analysts to reconstruct aspects of a sighting more accurately. For example:
 
 * A witness walking down a street can generate a changing location trail rather than a single GPS point.
 * A witness turning their phone can generate a changing orientation record rather than one assumed viewing direction.
-* Multiple recordings from different users can potentially be compared against one another using synchronised timing and positional information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
+* Multiple recordings from different users can potentially be compared against one another using synchronised timing and positional information.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
 
-Enigma has specifically argued that this approach helps reduce errors when estimating the path or apparent speed of a reported object. If the witness is moving while filming, distinguishing camera motion from object motion becomes a critical challenge. Continuous metadata is intended to make that distinction easier. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
+Enigma has specifically argued that this approach helps reduce errors when estimating the path or apparent speed of a reported object. If the witness is moving while filming, distinguishing camera motion from object motion becomes a critical challenge. Continuous metadata is intended to make that distinction easier.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FqXg8EbbXZU" title="Something in the Sky? Something in the Water hosts app launch for UFO sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FqXg8EbbXZU" target="_blank" rel="noopener noreferrer">Something in the Sky? Something in the Water hosts app launch for UFO sightings</a></p><p class="youtube-embed-meta">Channel: 13News Now &middot; Views: 373 &middot; Uploaded: April 2023 &middot; Length: 2 minutes 45 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FqXg8EbbXZU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FqXg8EbbXZU">Open on YouTube</a></p></div></div></div>
 
@@ -316,7 +316,7 @@ Enigma has specifically argued that this approach helps reduce errors when estim
 
 The angle of a recording is often more important than casual observers realise. A bright object filmed near the horizon can appear dramatically different from the same object viewed overhead. Likewise, aircraft lights, satellites and planets can seem to change behaviour depending on the observer's position and movement.
 
-By recording device orientation, Enigma attempts to preserve information about where the camera was pointed at any given moment. The company has described this orientation data as part of the evidence package attached to a sighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/enigmalabsuap_the-new-enigma-camera-optimizing-metadata-activity-7100940949890994177-XpVd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-title">Linked In Enigma Labs&#x27; Post</span><span class="citation-popover-snippet">Enigma Labs&#x27; Post - Optimizing Metadata for UAP SightingsThe New Enigma Camera - Optimizing Metadata for UAP Sightings The Native...</span></span></span>
+By recording device orientation, Enigma attempts to preserve information about where the camera was pointed at any given moment. The company has described this orientation data as part of the evidence package attached to a sighting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/enigmalabsuap_the-new-enigma-camera-optimizing-metadata-activity-7100940949890994177-XpVd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-title">Linked In Enigma Labs&#x27; Post</span><span class="citation-popover-snippet">Enigma Labs&#x27; Post - Optimizing Metadata for UAP SightingsThe New Enigma Camera - Optimizing Metadata for UAP Sightings The Native...</span></span></span>
 
 This matters because later reviewers may want to compare a report against:
 
@@ -330,14 +330,14 @@ This matters because later reviewers may want to compare a report against:
 
 </div>
 
-Without orientation information, a video often becomes little more than a bright point against a dark sky. With orientation and location data, analysts can at least attempt geometric reconstruction and comparison. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
+Without orientation information, a video often becomes little more than a bright point against a dark sky. With orientation and location data, analysts can at least attempt geometric reconstruction and comparison.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
 
-The New Yorker described the system as recording uncompressed video with embedded metadata including filming location and angle, specifically for later verification and description of reported phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/2024/01/29/the-truth-is-out-there-on-an-app" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">the truth is out there on an app</span><span class="citation-popover-snippet">The New YorkerThe Truth Is Out There, on an App22 Jan 2024 — An augmented-reality lens lets users point a phone upward, and then displays...</span></span></span>
+The New Yorker described the system as recording uncompressed video with embedded metadata including filming location and angle, specifically for later verification and description of reported phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/2024/01/29/the-truth-is-out-there-on-an-app" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">the truth is out there on an app</span><span class="citation-popover-snippet">The New YorkerThe Truth Is Out There, on an App22 Jan 2024 — An augmented-reality lens lets users point a phone upward, and then displays...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_camera_metada_4fa1f5-Illustration-2-dark.svg" | relative_url }}" alt="Camera Metadata illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_camera_metada_4fa1f5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_camera_metada_4fa1f5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Identify Lens and Real-Time Deconfliction
 
-Enigma's metadata strategy is closely connected to its augmented-reality “Identify Lens”. The company describes the feature as a real-time tool for identifying known objects before they are mistakenly reported as UFOs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
+Enigma's metadata strategy is closely connected to its augmented-reality “Identify Lens”. The company describes the feature as a real-time tool for identifying known objects before they are mistakenly reported as UFOs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
 
 ### How the AR Lens Works
 
@@ -348,19 +348,19 @@ The Identify Lens overlays information onto the phone's camera view. According t
 * Smartphone sensor data
 * Position and orientation information from the device
 * External tracking data for known objects
-* Augmented-reality rendering software <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/announcing-the-enigma-ar-lens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[enigmalabs.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">announcing the enigma ar lens</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingShazam for the Skies26 Jul 2023 — Announcing the Enigma Augmented Reality Lens, helping identify objec...</span></span></span>
+* Augmented-reality rendering software<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/announcing-the-enigma-ar-lens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[enigmalabs.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">announcing the enigma ar lens</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingShazam for the Skies26 Jul 2023 — Announcing the Enigma Augmented Reality Lens, helping identify objec...</span></span></span>
 
 </div>
 
-The app then attempts to place labels or graphical markers over objects that already have known identities. Early versions focused heavily on satellites, with later plans including aircraft, planets, stars, helicopters, drones and rocket launches. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
+The app then attempts to place labels or graphical markers over objects that already have known identities. Early versions focused heavily on satellites, with later plans including aircraft, planets, stars, helicopters, drones and rocket launches.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
 
-A commonly cited example is the appearance of Starlink satellite trains. What might initially look unusual to a witness can often be recognised immediately through the AR overlay if the software matches the observed position with known satellite telemetry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
+A commonly cited example is the appearance of Starlink satellite trains. What might initially look unusual to a witness can often be recognised immediately through the AR overlay if the software matches the observed position with known satellite telemetry.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/onSVgu0bhO0" title="New app tracks UFO sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=onSVgu0bhO0" target="_blank" rel="noopener noreferrer">New app tracks UFO sightings</a></p><p class="youtube-embed-meta">Channel: 13News Now &middot; Views: 27.7K &middot; Uploaded: May 2023 &middot; Length: 1 minute 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=onSVgu0bhO0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=onSVgu0bhO0">Open on YouTube</a></p></div></div></div>
 
 ### Why Enigma Calls It a Noise-Reduction Tool
 
-One of Enigma's recurring arguments is that most submitted sightings eventually prove identifiable. Because of that, the company frames the AR lens as a filtering mechanism rather than a discovery mechanism. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
+One of Enigma's recurring arguments is that most submitted sightings eventually prove identifiable. Because of that, the company frames the AR lens as a filtering mechanism rather than a discovery mechanism.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
 
 The intended workflow is:
 
@@ -373,7 +373,7 @@ The intended workflow is:
 
 </div>
 
-Enigma has explicitly described the feature as a way to reduce “noise” in its reporting database and improve the quality of incoming cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
+Enigma has explicitly described the feature as a way to reduce “noise” in its reporting database and improve the quality of incoming cases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fVuO_yu1eWk" title="Enigma UFO Tracker: Recent UAP Sightings &amp; Congressional Hearings Explained | Talking Strange" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fVuO_yu1eWk" target="_blank" rel="noopener noreferrer">Enigma UFO Tracker: Recent UAP Sightings &amp; Congressional Hearings Explained | Talking Strange</a></p><p class="youtube-embed-meta">Channel: Talking Strange &middot; Views: 141 &middot; Uploaded: December 2024 &middot; Length: 55 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fVuO_yu1eWk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fVuO_yu1eWk">Open on YouTube</a></p></div></div></div>
 
@@ -381,7 +381,7 @@ Enigma has explicitly described the feature as a way to reduce “noise” in it
 
 The practical value of metadata emerges after the recording has been uploaded.
 
-Enigma maintains a large database of historical and contemporary reports, and the company has stated that detailed metadata helps investigators compare separate submissions that may describe the same event. If multiple users record an object from different locations at approximately the same time, timestamped positional information can help determine whether they were observing a common target. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
+Enigma maintains a large database of historical and contemporary reports, and the company has stated that detailed metadata helps investigators compare separate submissions that may describe the same event. If multiple users record an object from different locations at approximately the same time, timestamped positional information can help determine whether they were observing a common target.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
 
 Metadata also supports several forms of verification that are difficult with ordinary social-media videos:
 
@@ -391,212 +391,212 @@ Metadata also supports several forms of verification that are difficult with ord
 * Comparing independent witness recordings
 * Reconstructing viewing geometry
 * Estimating whether apparent motion came from the object or the camera
-* Organising sightings by precise time and location rather than narrative description alone <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
+* Organising sightings by precise time and location rather than narrative description alone<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
 
 </div>
 
-This reflects a broader shift in UFO databases from anecdotal [archives]({{ 'archives/' | relative_url }}) towards structured observational records. The footage itself remains important, but Enigma's design treats the surrounding sensor data as part of the evidence rather than as background information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/spotted-a-ufo-theres-an-app-for-that/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Spotted a UFO? There&#x27;s an App for That</span><span class="citation-popover-snippet">Spotted a UFO? There&#x27;s an App for ThatJanuary 31, 2023 — 31 Jan 2023 — Enigma Labs launches a project to crowdsource and quantify da...</span><span class="citation-popover-meta">Published: January 31, 2023</span></span></span>
+This reflects a broader shift in UFO databases from anecdotal [archives]({{ 'archives/' | relative_url }}) towards structured observational records. The footage itself remains important, but Enigma's design treats the surrounding sensor data as part of the evidence rather than as background information.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/spotted-a-ufo-theres-an-app-for-that/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Spotted a UFO? There&#x27;s an App for That</span><span class="citation-popover-snippet">Spotted a UFO? There&#x27;s an App for ThatJanuary 31, 2023 — 31 Jan 2023 — Enigma Labs launches a project to crowdsource and quantify da...</span><span class="citation-popover-meta">Published: January 31, 2023</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_camera_metada_4fa1f5-Illustration-3-dark.svg" | relative_url }}" alt="Camera Metadata illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_camera_metada_4fa1f5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88_enigma_camera_metada_4fa1f5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Metadata Can and Cannot Prove
 
 The presence of detailed metadata does not automatically validate a UFO claim. A video can contain accurate location and orientation information while still depicting a conventional aircraft, a satellite, a drone or a visual misinterpretation.
 
-Enigma itself presents the metadata system primarily as a tool for improving data quality rather than proving extraordinary conclusions. Better timestamps, geolocation records and orientation tracking make reports easier to analyse, but they do not eliminate the need for independent investigation and comparison with external datasets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
+Enigma itself presents the metadata system primarily as a tool for improving data quality rather than proving extraordinary conclusions. Better timestamps, geolocation records and orientation tracking make reports easier to analyse, but they do not eliminate the need for independent investigation and comparison with external datasets.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
 
-There are also practical limitations. Smartphone sensors have accuracy constraints, GPS readings can drift, and environmental conditions can affect measurements. In addition, much of Enigma's analytical workflow remains proprietary, meaning outside researchers cannot fully evaluate how metadata is processed after submission. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
+There are also practical limitations. Smartphone sensors have accuracy constraints, GPS readings can drift, and environmental conditions can affect measurements. In addition, much of Enigma's analytical workflow remains proprietary, meaning outside researchers cannot fully evaluate how metadata is processed after submission.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
 
-Even so, the camera system represents a notable departure from traditional UFO reporting forms. Instead of asking witnesses to remember where they stood and which direction they looked, Enigma attempts to record those details directly from the device at the moment of observation. That shift—from recollected context to sensor-captured context—is the central reason the app's camera metadata system occupies such an important place in Enigma's approach to UFO sighting databases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
+Even so, the camera system represents a notable departure from traditional UFO reporting forms. Instead of asking witnesses to remember where they stood and which direction they looked, Enigma attempts to record those details directly from the device at the moment of observation. That shift—from recollected context to sensor-captured context—is the central reason the app's camera metadata system occupies such an important place in Enigma's approach to UFO sighting databases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</span></span></span> | Report a UFO sighting
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Enigma Captures Location and Angle Metadata. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Enigma Captures Location and Angle Metadata. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Emphasises evidence quality and credible reporting, matching the page’s focus on improving sighting verification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasises evidence quality and credible reporting, matching the page’s focus on improving sighting verification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek’s attention to witness data and observational detail fits metadata-rich UFO report analysis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek’s attention to witness data and observational detail fits metadata-rich UFO report analysis.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dG2DkgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dG2DkgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps observers understand sky position, viewing direction, and ordinary celestial objects that affect sighting interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps observers understand sky position, viewing direction, and ordinary celestial objects that affect sighting interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=D2JjDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=D2JjDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Supports practical identification of celestial targets and observing context, relevant to camera angle and sky metadata.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports practical identification of celestial targets and observing context, relevant to camera angle and sky metadata.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="camera-metadata-how-enigma-captures-location-and-angle-metadata-ufo-report-databases-and-catalog-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -612,7 +612,7 @@ Even so, the camera system represents a notable departure from traditional UFO r
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -632,7 +632,7 @@ Even so, the camera system represents a notable departure from traditional UFO r
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -664,7 +664,7 @@ Even so, the camera system represents a notable departure from traditional UFO r
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -716,7 +716,7 @@ Even so, the camera system represents a notable departure from traditional UFO r
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -761,7 +761,7 @@ Even so, the camera system represents a notable departure from traditional UFO r
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -802,122 +802,122 @@ Even so, the camera system represents a notable departure from traditional UFO r
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: enigmalabs.io  
    Title: the new enigma camera optimizing metadata for uap sightings  
-   Link: <a href="https://enigmalabs.io/blog/the-new-enigma-camera-optimizing-metadata-for-uap-sightings" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/blog/the-new-enigma-camera-optimizing-metadata-for-uap-sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | Report a UFO sightingThe New Enigma Camera — Optimizing Metadata for UAP...25 Aug 2023 — The new Enigma Native Camera lets...</p></details>
+   Link:<a href="https://enigmalabs.io/blog/the-new-enigma-camera-optimizing-metadata-for-uap-sightings" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/blog/the-new-enigma-camera-optimizing-metadata-for-uap-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | Report a UFO sightingThe New Enigma Camera — Optimizing Metadata for UAP...25 Aug 2023 — The new Enigma Native Camera lets...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: enigmalabs.io  
    Title: announcing the enigma ar lens  
-   Link: <a href="https://enigmalabs.io/blog/announcing-the-enigma-ar-lens" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/blog/announcing-the-enigma-ar-lens</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | Report a UFO sightingShazam for the Skies26 Jul 2023 — Announcing the Enigma Augmented Reality Lens, helping identify objec...</p></details>
+   Link:<a href="https://enigmalabs.io/blog/announcing-the-enigma-ar-lens" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/blog/announcing-the-enigma-ar-lens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | Report a UFO sightingShazam for the Skies26 Jul 2023 — Announcing the Enigma Augmented Reality Lens, helping identify objec...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: linkedin.com  
    Title: Linked In Enigma Labs' Post  
-   Link: <a href="https://www.linkedin.com/posts/enigmalabsuap_the-new-enigma-camera-optimizing-metadata-activity-7100940949890994177-XpVd" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/enigmalabsuap_the-new-enigma-camera-optimizing-metadata-activity-7100940949890994177-XpVd</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs&#x27; Post - Optimizing Metadata for UAP SightingsThe New Enigma Camera - Optimizing Metadata for UAP Sightings The Native...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/enigmalabsuap_the-new-enigma-camera-optimizing-metadata-activity-7100940949890994177-XpVd" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/enigmalabsuap_the-new-enigma-camera-optimizing-metadata-activity-7100940949890994177-XpVd</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs&#x27; Post - Optimizing Metadata for UAP SightingsThe New Enigma Camera - Optimizing Metadata for UAP Sightings The Native...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</p></details>
+   Link:<a href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | Report a UFO sightingBrowse our map for sightings near you and across the globe. This dynamic format highlights most recent...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wired.com  
    Title: Spotted a UFO? There's an App for That  
-   Link: <a href="https://www.wired.com/story/spotted-a-ufo-theres-an-app-for-that/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/spotted-a-ufo-theres-an-app-for-that/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotted a UFO? There&#x27;s an App for ThatJanuary 31, 2023 — 31 Jan 2023 — Enigma Labs launches a project to crowdsource and quantify da...</p></details>
+   Link:<a href="https://www.wired.com/story/spotted-a-ufo-theres-an-app-for-that/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/spotted-a-ufo-theres-an-app-for-that/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotted a UFO? There&#x27;s an App for ThatJanuary 31, 2023 — 31 Jan 2023 — Enigma Labs launches a project to crowdsource and quantify da...</p></details>
    Published: January 31, 2023  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/blog/25k-sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | Report a UFO sighting25K Sightings &amp; Counting31 Oct 2024 — To quantify the anomalous nature of sightings, Enigma applies a...</p></details>
+   Link:<a href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/blog/25k-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | Report a UFO sighting25K Sightings &amp; Counting31 Oct 2024 — To quantify the anomalous nature of sightings, Enigma applies a...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: newyorker.com  
    Title: the truth is out there on an app  
-   Link: <a href="https://www.newyorker.com/magazine/2024/01/29/the-truth-is-out-there-on-an-app" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2024/01/29/the-truth-is-out-there-on-an-app</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The New YorkerThe Truth Is Out There, on an App22 Jan 2024 — An augmented-reality lens lets users point a phone upward, and then displays...</p></details>
+   Link:<a href="https://www.newyorker.com/magazine/2024/01/29/the-truth-is-out-there-on-an-app" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2024/01/29/the-truth-is-out-there-on-an-app</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The New YorkerThe Truth Is Out There, on an App22 Jan 2024 — An augmented-reality lens lets users point a phone upward, and then displays...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: play.google.com  
-   Link: <a href="https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.enigma.mobile" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.enigma.mobile</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>google.comEnigma: What&#x27;s that in the Sky – Apps on...Seen something unusual in the sky? Share your UFO sighting story and read accounts...</p></details>
+   Link:<a href="https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.enigma.mobile" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.enigma.mobile</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>google.comEnigma: What&#x27;s that in the Sky – Apps on...Seen something unusual in the sky? Share your UFO sighting story and read accounts...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/faq" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/faq</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Frequently Asked QuestionsAnswers to common questions about Enigma Labs — how to submit UAP sightings, use the platform, and join the res...</p></details>
+   Link:<a href="https://enigmalabs.io/faq" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/faq</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Frequently Asked QuestionsAnswers to common questions about Enigma Labs — how to submit UAP sightings, use the platform, and join the res...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/19cuje5/the_new_yorker_the_truth_is_out_there_on_an_app/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/19cuje5/the_new_yorker_the_truth_is_out_there_on_an_app/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The New Yorker: The Truth Is Out There, on an App: r/UFOsAn augmented-reality lens lets users point a phone upward, and then displays an...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/19cuje5/the_new_yorker_the_truth_is_out_there_on_an_app/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/19cuje5/the_new_yorker_the_truth_is_out_there_on_an_app/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The New Yorker: The Truth Is Out There, on an App: r/UFOsAn augmented-reality lens lets users point a phone upward, and then displays an...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: substack.com  
    Title: identify known objects such as planets, stars, satellites and planes.Read more  
-   Link: <a href="https://substack.com/home/post/p-151487185" target="_blank" rel="noopener noreferrer nofollow">https://substack.com/home/post/p-151487185</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs - The Largest Queryable UAP Sightings...11 Nov 2024 — EL: The Enigma Identify Lens is an aspect of our Camera that...</p></details>
+   Link:<a href="https://substack.com/home/post/p-151487185" target="_blank" rel="noopener noreferrer nofollow">https://substack.com/home/post/p-151487185</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs - The Largest Queryable UAP Sightings...11 Nov 2024 — EL: The Enigma Identify Lens is an aspect of our Camera that...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: apps.apple.com  
    Title: App Store Enigma: What's that in the Sky  
-   Link: <a href="https://apps.apple.com/gb/app/enigma-whats-that-in-the-sky/id1548371173" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/gb/app/enigma-whats-that-in-the-sky/id1548371173</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>App StoreEnigma: What&#x27;s that in the Sky - App Store - AppleInstantly identify known objects such as satellites, planes, stars, planets an...</p></details>
+   Link:<a href="https://apps.apple.com/gb/app/enigma-whats-that-in-the-sky/id1548371173" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/gb/app/enigma-whats-that-in-the-sky/id1548371173</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>App StoreEnigma: What&#x27;s that in the Sky - App Store - AppleInstantly identify known objects such as satellites, planes, stars, planets an...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/14fbm6n/we_are_enigma_labs_we_have_created_an_app_for_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/14fbm6n/we_are_enigma_labs_we_have_created_an_app_for_uap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and the largest queryable UAP database in the world.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/14fbm6n/we_are_enigma_labs_we_have_created_an_app_for_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/14fbm6n/we_are_enigma_labs_we_have_created_an_app_for_uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and the largest queryable UAP database in the world.Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/a-video-sharing-platform-run-by-enigma-labs-is-storing-images-of-unidentified-an/873015845105434/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-video-sharing-platform-run-by-enigma-labs-is-storing-images-of-unidentified-an/873015845105434/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anomalous Phenomena” as they are photographed, in real time...</p></details>
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/a-video-sharing-platform-run-by-enigma-labs-is-storing-images-of-unidentified-an/873015845105434/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-video-sharing-platform-run-by-enigma-labs-is-storing-images-of-unidentified-an/873015845105434/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anomalous Phenomena” as they are photographed, in real time...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: mwm.ai  
    Title: Enigma: What's that in the Sky  
-   Link: <a href="https://mwm.ai/apps/enigma-what-s-that-in-the-sky/1548371173" target="_blank" rel="noopener noreferrer nofollow">https://mwm.ai/apps/enigma-what-s-that-in-the-sky/1548371173</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>News AppIt allows users to explore over 200,000 recent and historical UFO, drone, and other aerial sightings on an interactive map, provi...</p></details>
+   Link:<a href="https://mwm.ai/apps/enigma-what-s-that-in-the-sky/1548371173" target="_blank" rel="noopener noreferrer nofollow">https://mwm.ai/apps/enigma-what-s-that-in-the-sky/1548371173</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>News AppIt allows users to explore over 200,000 recent and historical UFO, drone, and other aerial sightings on an interactive map, provi...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Enigma UFO Tracker: Recent UAP Sightings & Congressional Hearings Explained  
-   Link: <a href="https://www.youtube.com/watch?v=fVuO_yu1eWk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fVuO_yu1eWk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Something in the Sky? Something in the Water hosts app launch...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fVuO_yu1eWk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fVuO_yu1eWk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Something in the Sky? Something in the Water hosts app launch...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: play.google.com  
-   Link: <a href="https://play.google.com/store/apps/details?id=com.enigma.mobile" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?id=com.enigma.mobile</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>google.comEnigma: What&#x27;s that in the Sky - Apps on Google PlayFinally, the #1 mobile app for UFO sightings and alerts is now available on...</p></details>
+   Link:<a href="https://play.google.com/store/apps/details?id=com.enigma.mobile" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?id=com.enigma.mobile</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>google.comEnigma: What&#x27;s that in the Sky - Apps on Google PlayFinally, the #1 mobile app for UFO sightings and alerts is now available on...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: appranks.app  
    Title: Enigma: What's that in the Sky  
-   Link: <a href="https://appranks.app/app/enigma-whats-that-in-the-sky-1548371173" target="_blank" rel="noopener noreferrer nofollow">https://appranks.app/app/enigma-whats-that-in-the-sky-1548371173</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Every day, thousands of people see something they can&#x27;t explain in the skies. Seen...Read more...</p></details>
+   Link:<a href="https://appranks.app/app/enigma-whats-that-in-the-sky-1548371173" target="_blank" rel="noopener noreferrer nofollow">https://appranks.app/app/enigma-whats-that-in-the-sky-1548371173</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Every day, thousands of people see something they can&#x27;t explain in the skies. Seen...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Something in the Sky? Something in the Water hosts app launch  
-   Link: <a href="https://www.youtube.com/watch?v=FqXg8EbbXZU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FqXg8EbbXZU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Governments Using AI To Decode Massive UFO Databases | WION Podcast...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FqXg8EbbXZU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FqXg8EbbXZU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Governments Using AI To Decode Massive UFO Databases | WION Podcast...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: apps.apple.com  
-   Link: <a href="https://apps.apple.com/cg/app/enigma-whats-that-in-the-sky/id1548371173" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/cg/app/enigma-whats-that-in-the-sky/id1548371173</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>apple.comEnigma: What&#x27;s that in the Sky - App Store - Apple18 May 2026 — Instantly identify known objects such as satellites, planes, sta...</p></details>
+   Link:<a href="https://apps.apple.com/cg/app/enigma-whats-that-in-the-sky/id1548371173" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/cg/app/enigma-whats-that-in-the-sky/id1548371173</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>apple.comEnigma: What&#x27;s that in the Sky - App Store - Apple18 May 2026 — Instantly identify known objects such as satellites, planes, sta...</p></details>
    Published: May 2026  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: apps.apple.com  
-   Link: <a href="https://apps.apple.com/de/app/enigma-whats-that-in-the-sky/id1548371173" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/de/app/enigma-whats-that-in-the-sky/id1548371173</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>apple.comEnigma: What&#x27;s that in the Sky - App Store - AppleInstantly identify known objects such as satellites, planes, stars, planets an...</p></details>
+   Link:<a href="https://apps.apple.com/de/app/enigma-whats-that-in-the-sky/id1548371173" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/de/app/enigma-whats-that-in-the-sky/id1548371173</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>apple.comEnigma: What&#x27;s that in the Sky - App Store - AppleInstantly identify known objects such as satellites, planes, stars, planets an...</p></details>

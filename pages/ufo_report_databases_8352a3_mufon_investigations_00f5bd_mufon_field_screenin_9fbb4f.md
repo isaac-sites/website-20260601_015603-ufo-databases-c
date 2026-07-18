@@ -268,16 +268,16 @@ image: /assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mu
 
 ## Introduction
 
-When a sighting is submitted to the Mutual UFO Network ([MUFON]({{ 'mufon/' | relative_url }})), the report does not automatically become a catalogue entry of an unexplained event. The organisation’s screening process is designed to move a witness account through a structured review that looks for missing details, checks supporting material and, crucially, tests whether the observation can be explained by ordinary causes. According to MUFON’s own investigation procedures, field investigators begin from the assumption that a rational explanation may exist and attempt to determine whether the witness observed something identifiable rather than genuinely unknown. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/the-scientific-method/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">The Scientific MethodTrack UFOs · Field Investigator CMS Login · Become a Field Investigator · Report a UFO · Report an Experience ·...</span></span></span>
+When a sighting is submitted to the Mutual UFO Network ([MUFON]({{ 'mufon/' | relative_url }})), the report does not automatically become a catalogue entry of an unexplained event. The organisation’s screening process is designed to move a witness account through a structured review that looks for missing details, checks supporting material and, crucially, tests whether the observation can be explained by ordinary causes. According to MUFON’s own investigation procedures, field investigators begin from the assumption that a rational explanation may exist and attempt to determine whether the witness observed something identifiable rather than genuinely unknown.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/the-scientific-method/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">The Scientific MethodTrack UFOs · Field Investigator CMS Login · Become a Field Investigator · Report a UFO · Report an Experience ·...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_field_screenin_9fbb4f-Illustration-1-dark.svg" | relative_url }}" alt="Field screening illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_field_screenin_9fbb4f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_field_screenin_9fbb4f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This screening stage is important because it determines what ultimately enters MUFON’s case-management records. A report may progress from an online form to interviews, measurements, document collection and follow-up research, but many cases are filtered by investigating aircraft, drones, astronomical objects, lanterns, satellites, reflections or other familiar sources before any anomaly classification is considered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/become-a-mufon-field-investigator/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">Become a Mufon Field InvestigatorTrack UFOs · Field Investigator CMS Login · Become a Field Investigator · Report a UFO · Report an...</span></span></span>
+This screening stage is important because it determines what ultimately enters MUFON’s case-management records. A report may progress from an online form to interviews, measurements, document collection and follow-up research, but many cases are filtered by investigating aircraft, drones, astronomical objects, lanterns, satellites, reflections or other familiar sources before any anomaly classification is considered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/become-a-mufon-field-investigator/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">Become a Mufon Field InvestigatorTrack UFOs · Field Investigator CMS Login · Become a Field Investigator · Report a UFO · Report an...</span></span></span>
 
 ## What Happens After a MUFON Report?
 
 ### From submission form to case number
 
-The process begins when a witness completes MUFON’s reporting form and uploads any available photographs, videos or documents. The report enters the organisation’s Case Management System and receives a case number. It is then routed through MUFON’s administrative structure, typically involving a state, provincial or national director who decides whether the case should be assigned to a field investigator. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/cms-ifo-info/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">CMS IFO InfoAll witnesses who attach files to this report must acknowledge that by clicking the CONTINUE WITH REPORT button below, t...</span></span></span>
+The process begins when a witness completes MUFON’s reporting form and uploads any available photographs, videos or documents. The report enters the organisation’s Case Management System and receives a case number. It is then routed through MUFON’s administrative structure, typically involving a state, provincial or national director who decides whether the case should be assigned to a field investigator.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/cms-ifo-info/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">CMS IFO InfoAll witnesses who attach files to this report must acknowledge that by clicking the CONTINUE WITH REPORT button below, t...</span></span></span>
 
 At this stage, the first screening is often administrative rather than analytical. Investigators look for whether the report contains enough information to pursue. Basic factors include:
 
@@ -292,23 +292,23 @@ At this stage, the first screening is often administrative rather than analytica
 
 </div>
 
-Reports lacking essential information may be difficult to investigate further, while those with clear witness contact details and supporting material are more likely to receive deeper review. The assignment process also helps prevent duplication when multiple witnesses report the same event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">MUFON Through the AgesTrack UFOs · Field Investigator CMS Login · Become a Field Investigator · Report a UFO · Report an Experience · Don...</span></span></span>
+Reports lacking essential information may be difficult to investigate further, while those with clear witness contact details and supporting material are more likely to receive deeper review. The assignment process also helps prevent duplication when multiple witnesses report the same event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">MUFON Through the AgesTrack UFOs · Field Investigator CMS Login · Become a Field Investigator · Report a UFO · Report an Experience · Don...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JvqoodXDZjE" title="WATCH: Meet the people who research suspected UFO sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JvqoodXDZjE" target="_blank" rel="noopener noreferrer">WATCH: Meet the people who research suspected UFO sightings</a></p><p class="youtube-embed-meta">Channel: KENS 5: Your San Antonio News Source &middot; Views: 10.0K &middot; Uploaded: November 2022 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JvqoodXDZjE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JvqoodXDZjE">Open on YouTube</a></p></div></div></div>
 
 ### Why the witness interview matters
 
-MUFON training materials place heavy emphasis on witness interviewing. The organisation teaches investigators to prepare for interviews, gather complete accounts, assess consistency and seek corroborating information from other sources where possible. Interviewing is treated as a core investigative skill rather than a simple fact-collection exercise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other unexp...</span></span></span>
+MUFON training materials place heavy emphasis on witness interviewing. The organisation teaches investigators to prepare for interviews, gather complete accounts, assess consistency and seek corroborating information from other sources where possible. Interviewing is treated as a core investigative skill rather than a simple fact-collection exercise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other unexp...</span></span></span>
 
-A typical interview attempts to reconstruct the event in detail. Investigators ask witnesses to describe what they observed before introducing possible explanations. This approach is intended to reduce the risk of steering the witness toward a particular interpretation. Follow-up questions focus on chronology, viewing conditions, weather, lighting and the witness's location at the time of the observation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/the-scientific-method/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">The Scientific MethodTrack UFOs · Field Investigator CMS Login · Become a Field Investigator · Report a UFO · Report an Experience ·...</span></span></span>
+A typical interview attempts to reconstruct the event in detail. Investigators ask witnesses to describe what they observed before introducing possible explanations. This approach is intended to reduce the risk of steering the witness toward a particular interpretation. Follow-up questions focus on chronology, viewing conditions, weather, lighting and the witness's location at the time of the observation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/the-scientific-method/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">The Scientific MethodTrack UFOs · Field Investigator CMS Login · Become a Field Investigator · Report a UFO · Report an Experience ·...</span></span></span>
 
 The goal is not merely to collect a narrative but to convert a subjective experience into information that can be checked against external data.
 
 ## Interviews, Measurements and Supporting Material
 
-Once a case advances beyond the initial review, investigators attempt to gather measurable information. MUFON states that field investigators collect details such as angular size, elevation, azimuth, brightness and estimated distance whenever possible. These measurements help determine whether the sighting is consistent with known aircraft, celestial objects or other conventional phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/become-a-mufon-field-investigator/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">Become a Mufon Field InvestigatorTrack UFOs · Field Investigator CMS Login · Become a Field Investigator · Report a UFO · Report an...</span></span></span>
+Once a case advances beyond the initial review, investigators attempt to gather measurable information. MUFON states that field investigators collect details such as angular size, elevation, azimuth, brightness and estimated distance whenever possible. These measurements help determine whether the sighting is consistent with known aircraft, celestial objects or other conventional phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/become-a-mufon-field-investigator/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">Become a Mufon Field InvestigatorTrack UFOs · Field Investigator CMS Login · Become a Field Investigator · Report a UFO · Report an...</span></span></span>
 
-For example, if a witness reports a bright stationary object in the western sky shortly after sunset, measurements of direction and elevation can be compared with astronomical data. If the object's location matches a bright planet or star, the case may be resolved without invoking an unknown explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/cms-ifo-info/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">CMS IFO InfoAll witnesses who attach files to this report must acknowledge that by clicking the CONTINUE WITH REPORT button below, t...</span></span></span>
+For example, if a witness reports a bright stationary object in the western sky shortly after sunset, measurements of direction and elevation can be compared with astronomical data. If the object's location matches a bright planet or star, the case may be resolved without invoking an unknown explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/cms-ifo-info/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">CMS IFO InfoAll witnesses who attach files to this report must acknowledge that by clicking the CONTINUE WITH REPORT button below, t...</span></span></span>
 
 Investigators also request supporting material such as:
 
@@ -323,12 +323,12 @@ Investigators also request supporting material such as:
 
 </div>
 
-The emphasis on supporting material reflects a practical reality of UFO databases: reports containing verifiable information are generally easier to evaluate than narrative-only submissions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">MUFON Through the AgesTrack UFOs · Field Investigator CMS Login · Become a Field Investigator · Report a UFO · Report an Experience · Don...</span></span></span>
+The emphasis on supporting material reflects a practical reality of UFO databases: reports containing verifiable information are generally easier to evaluate than narrative-only submissions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">MUFON Through the AgesTrack UFOs · Field Investigator CMS Login · Become a Field Investigator · Report a UFO · Report an Experience · Don...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_field_screenin_9fbb4f-Illustration-2-dark.svg" | relative_url }}" alt="Field screening illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_field_screenin_9fbb4f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_field_screenin_9fbb4f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Collateral checks and corroboration
 
-MUFON training guidance specifically encourages what it calls collateral contacts. These are external sources used to verify or challenge witness accounts. Examples may include locating additional witnesses, checking local events, confirming flight activity or identifying known sources of confusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other unexp...</span></span></span>
+MUFON training guidance specifically encourages what it calls collateral contacts. These are external sources used to verify or challenge witness accounts. Examples may include locating additional witnesses, checking local events, confirming flight activity or identifying known sources of confusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other unexp...</span></span></span>
 
 This part of the screening process aims to answer a simple question: does independent information support what the witness described?
 
@@ -336,7 +336,7 @@ A report that appears unusual in isolation may become less mysterious if multipl
 
 ## How Investigators Test Ordinary Explanations
 
-The most distinctive feature of MUFON's screening process is its explicit attempt to eliminate ordinary explanations before considering a case unresolved. MUFON states that investigators begin with the hypothesis that an event can be explained rationally and then test whether the available evidence supports that conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other unexp...</span></span></span>
+The most distinctive feature of MUFON's screening process is its explicit attempt to eliminate ordinary explanations before considering a case unresolved. MUFON states that investigators begin with the hypothesis that an event can be explained rationally and then test whether the available evidence supports that conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other unexp...</span></span></span>
 
 According to MUFON, common sources of misidentification include:
 
@@ -346,11 +346,11 @@ According to MUFON, common sources of misidentification include:
 * Conventional aircraft.
 * Drones.
 * Astronomical objects.
-* Reflections and lighting effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other unexp...</span></span></span>
+* Reflections and lighting effects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other unexp...</span></span></span>
 
 </div>
 
-In practical terms, this means investigators compare witness descriptions against known characteristics of these objects. A slowly moving light drifting with the wind may suggest a lantern. Flashing navigation lights may indicate an aircraft. Apparently stationary lights may correspond to planets or bright stars. Unusual camera artefacts may originate from reflections, lens effects or image-processing issues. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other unexp...</span></span></span>
+In practical terms, this means investigators compare witness descriptions against known characteristics of these objects. A slowly moving light drifting with the wind may suggest a lantern. Flashing navigation lights may indicate an aircraft. Apparently stationary lights may correspond to planets or bright stars. Unusual camera artefacts may originate from reflections, lens effects or image-processing issues.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other unexp...</span></span></span>
 
 The screening process therefore functions as a filter. Many reports enter the system as unexplained sightings but are later classified as identifiable events after additional information is collected.
 
@@ -358,7 +358,7 @@ The screening process therefore functions as a filter. Many reports enter the sy
 
 ### Why measurements matter more than impressions
 
-Witnesses often describe objects using terms such as “huge”, “fast” or “close”. Investigators attempt to translate these impressions into measurable quantities because human perception can be unreliable when distance, scale and speed are unknown. Training materials emphasise investigative techniques, optics, celestial objects and related subjects precisely because many apparent anomalies arise from misjudging these factors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other unexp...</span></span></span>
+Witnesses often describe objects using terms such as “huge”, “fast” or “close”. Investigators attempt to translate these impressions into measurable quantities because human perception can be unreliable when distance, scale and speed are unknown. Training materials emphasise investigative techniques, optics, celestial objects and related subjects precisely because many apparent anomalies arise from misjudging these factors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other unexp...</span></span></span>
 
 A light that appears enormous may actually be distant. An object that seems to hover may be moving directly toward the observer. A sudden acceleration may reflect a change in viewing angle rather than extraordinary performance. Screening attempts to distinguish between perception and measurable observation before a case is classified.
 
@@ -366,203 +366,203 @@ A light that appears enormous may actually be distant. An object that seems to h
 
 ## Strengths and Limits of the Screening Model
 
-MUFON's approach offers a level of follow-up that many public UFO reporting databases do not provide. Rather than simply storing reports, the organisation can assign volunteers, conduct interviews and request evidence. This creates a richer case file than a basic sightings log. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other unexp...</span></span></span>
+MUFON's approach offers a level of follow-up that many public UFO reporting databases do not provide. Rather than simply storing reports, the organisation can assign volunteers, conduct interviews and request evidence. This creates a richer case file than a basic sightings log.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other unexp...</span></span></span>
 
-However, the process also depends heavily on volunteer investigators, witness cooperation and the quality of available evidence. Training, manuals and certification requirements are intended to create consistency, and MUFON has maintained investigator training programmes for decades. Nevertheless, investigations are not conducted by a uniform professional forensic service, and outcomes can vary with investigator experience and local resources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other unexp...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other unexp...</span></span></span>
+However, the process also depends heavily on volunteer investigators, witness cooperation and the quality of available evidence. Training, manuals and certification requirements are intended to create consistency, and MUFON has maintained investigator training programmes for decades. Nevertheless, investigations are not conducted by a uniform professional forensic service, and outcomes can vary with investigator experience and local resources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other unexp...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other unexp...</span></span></span>
 
-For users of UFO report databases, the key point is that a MUFON case is not merely a witness statement. Before a report reaches its final status, it may pass through interviews, measurements, corroboration checks and attempts to rule out ordinary explanations. The screening mechanism is therefore the organisation’s primary quality-control step, shaping which reports remain unexplained and which are ultimately resolved as conventional events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other unexp...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other unexp...</span></span></span>
+For users of UFO report databases, the key point is that a MUFON case is not merely a witness statement. Before a report reaches its final status, it may pass through interviews, measurements, corroboration checks and attempts to rule out ordinary explanations. The screening mechanism is therefore the organisation’s primary quality-control step, shaping which reports remain unexplained and which are ultimately resolved as conventional events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other unexp...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other unexp...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_field_screenin_9fbb4f-Illustration-3-dark.svg" | relative_url }}" alt="Field screening illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_field_screenin_9fbb4f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_field_screenin_9fbb4f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Happens After a MUFON Report?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Happens After a MUFON Report?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Shows how serious UFO claims are investigated through testimony, records and official channels.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how serious UFO claims are investigated through testimony, records and official channels.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Covers investigative processes, official records and the evidential status of UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers investigative processes, official records and the evidential status of UFO cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly relevant to screening reports, classifying cases and testing ordinary explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to screening reports, classifying cases and testing ordinary explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Investigating+the+Unexplained+by+Melvin+Harris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Investigating the Unexplained on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=crQXAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Investigating the Unexplained" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Investigating+the+Unexplained+by+Melvin+Harris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Investigating the Unexplained">Investigating the Unexplained</a>
-        </h4>
-        <p class="fr-book-author">By Melvin Harris</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Investigating+the+Unexplained+by+Melvin+Harris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Investigating the Unexplained on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=crQXAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Investigating the Unexplained" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Investigating+the+Unexplained+by+Melvin+Harris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Investigating the Unexplained">Investigating the Unexplained</a>
+</h4>
+<p class="fr-book-author">By Melvin Harris</p>
         
-        <p class="fr-book-desc">Supports the page’s focus on checking ordinary explanations before treating a case as anomalous.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Investigating+the+Unexplained+by+Melvin+Harris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports the page’s focus on checking ordinary explanations before treating a case as anomalous.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Investigating+the+Unexplained+by+Melvin+Harris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+telescope+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo telescope -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO T-Shirt Mens Funny Alien Spaceman Spaceship Astronaut Space Telescope"><img src="{{ '/assets/images/marketplace-covers/69d792f830216d89e095.jpg' | relative_url }}" alt="Listing image for UFO T-Shirt Mens Funny Alien Spaceman Spaceship Astronaut Space Telescope" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+telescope+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo telescope -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer">UFO T-Shirt Mens Funny Alien Spaceman Spaceship Astronaut Space Telescope</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+telescope+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo telescope -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo telescope">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo telescope</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+telescope+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo telescope -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+telescope+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo telescope -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO T-Shirt Mens Funny Alien Spaceman Spaceship Astronaut Space Telescope"><img src="{{ '/assets/images/marketplace-covers/69d792f830216d89e095.jpg' | relative_url }}" alt="Listing image for UFO T-Shirt Mens Funny Alien Spaceman Spaceship Astronaut Space Telescope" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+telescope+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo telescope -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer">UFO T-Shirt Mens Funny Alien Spaceman Spaceship Astronaut Space Telescope</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+telescope+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo telescope -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo telescope">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo telescope</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+telescope+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo telescope -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+telescope+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo telescope -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Galaxy NASA Hubble Telescope Image Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/d776b2be938226087b12.jpg' | relative_url }}" alt="Listing image for UFO Galaxy NASA Hubble Telescope Image Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+telescope+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo telescope -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer">UFO Galaxy NASA Hubble Telescope Image Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+telescope+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo telescope -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo telescope">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo telescope</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+telescope+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo telescope -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+telescope+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo telescope -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Galaxy NASA Hubble Telescope Image Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/d776b2be938226087b12.jpg' | relative_url }}" alt="Listing image for UFO Galaxy NASA Hubble Telescope Image Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+telescope+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo telescope -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer">UFO Galaxy NASA Hubble Telescope Image Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+telescope+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo telescope -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo telescope">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo telescope</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+telescope+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo telescope -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+telescope+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo telescope -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Astronaut Rockets UFO Telescope S Fabric Material Craft Sewing Textile UK"><img src="{{ '/assets/images/marketplace-covers/79ce21ffd9ce632fd36b.jpg' | relative_url }}" alt="Listing image for Space Astronaut Rockets UFO Telescope S Fabric Material Craft Sewing Textile UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+telescope+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo telescope -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer">Space Astronaut Rockets UFO Telescope S Fabric Material Craft Sewing Textile UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+telescope+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo telescope -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo telescope">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo telescope</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+telescope+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo telescope -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+telescope+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo telescope -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Astronaut Rockets UFO Telescope S Fabric Material Craft Sewing Textile UK"><img src="{{ '/assets/images/marketplace-covers/79ce21ffd9ce632fd36b.jpg' | relative_url }}" alt="Listing image for Space Astronaut Rockets UFO Telescope S Fabric Material Craft Sewing Textile UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+telescope+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo telescope -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer">Space Astronaut Rockets UFO Telescope S Fabric Material Craft Sewing Textile UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+telescope+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo telescope -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo telescope">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo telescope</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+telescope+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo telescope -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+telescope+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo telescope -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Astronaut Rockets UFO Telescope S Fabric Material Craft Sewing Textile UK"><img src="{{ '/assets/images/marketplace-covers/111669d4ce320f64bf79.jpg' | relative_url }}" alt="Listing image for Space Astronaut Rockets UFO Telescope S Fabric Material Craft Sewing Textile UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+telescope+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo telescope -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer">Space Astronaut Rockets UFO Telescope S Fabric Material Craft Sewing Textile UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+telescope+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo telescope -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo telescope">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo telescope</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+telescope+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo telescope -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+telescope+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo telescope -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+telescope+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo telescope -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Astronaut Rockets UFO Telescope S Fabric Material Craft Sewing Textile UK"><img src="{{ '/assets/images/marketplace-covers/111669d4ce320f64bf79.jpg' | relative_url }}" alt="Listing image for Space Astronaut Rockets UFO Telescope S Fabric Material Craft Sewing Textile UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+telescope+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo telescope -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer">Space Astronaut Rockets UFO Telescope S Fabric Material Craft Sewing Textile UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+telescope+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo telescope -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo telescope">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo telescope</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+telescope+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo telescope -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+telescope+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo telescope -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="field-screening-what-happens-after-a-mufon-report-ufo-report-databases-and-catalogues-ufo-telescope-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -578,7 +578,7 @@ For users of UFO report databases, the key point is that a MUFON case is not mer
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -598,7 +598,7 @@ For users of UFO report databases, the key point is that a MUFON case is not mer
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -630,7 +630,7 @@ For users of UFO report databases, the key point is that a MUFON case is not mer
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -682,7 +682,7 @@ For users of UFO report databases, the key point is that a MUFON case is not mer
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -727,7 +727,7 @@ For users of UFO report databases, the key point is that a MUFON case is not mer
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -768,147 +768,147 @@ For users of UFO report databases, the key point is that a MUFON case is not mer
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/the-scientific-method/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/the-scientific-method/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientific MethodTrack UFOs · Field Investigator CMS Login · Become a Field Investigator · Report a UFO · Report an Experience ·...</p></details>
+   Link:<a href="https://mufon.com/the-scientific-method/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/the-scientific-method/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientific MethodTrack UFOs · Field Investigator CMS Login · Become a Field Investigator · Report a UFO · Report an Experience ·...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/become-a-mufon-field-investigator/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/become-a-mufon-field-investigator/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Become a Mufon Field InvestigatorTrack UFOs · Field Investigator CMS Login · Become a Field Investigator · Report a UFO · Report an...</p></details>
+   Link:<a href="https://mufon.com/become-a-mufon-field-investigator/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/become-a-mufon-field-investigator/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Become a Mufon Field InvestigatorTrack UFOs · Field Investigator CMS Login · Become a Field Investigator · Report a UFO · Report an...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/cms-ifo-info/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/cms-ifo-info/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CMS IFO InfoAll witnesses who attach files to this report must acknowledge that by clicking the CONTINUE WITH REPORT button below, t...</p></details>
+   Link:<a href="https://mufon.com/cms-ifo-info/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/cms-ifo-info/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CMS IFO InfoAll witnesses who attach files to this report must acknowledge that by clicking the CONTINUE WITH REPORT button below, t...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/history/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/history/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON Through the AgesTrack UFOs · Field Investigator CMS Login · Become a Field Investigator · Report a UFO · Report an Experience · Don...</p></details>
+   Link:<a href="https://mufon.com/history/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/history/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON Through the AgesTrack UFOs · Field Investigator CMS Login · Become a Field Investigator · Report a UFO · Report an Experience · Don...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other unexp...</p></details>
+   Link:<a href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other unexp...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: WATCH: Meet the people who research suspected UFO sightings  
-   Link: <a href="https://www.youtube.com/watch?v=JvqoodXDZjE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JvqoodXDZjE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON – The Truth Behind UFOs and Alien Encounters...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JvqoodXDZjE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JvqoodXDZjE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON – The Truth Behind UFOs and Alien Encounters...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: MUFON – The Truth Behind UFOs and Alien Encounters  
-   Link: <a href="https://www.youtube.com/watch?v=PSgTuE7HFx0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PSgTuE7HFx0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Trump admin releases proof of UFOs, UFO files...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PSgTuE7HFx0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PSgTuE7HFx0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trump admin releases proof of UFOs, UFO files...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: documents.theblackvault.com  
    Title: August 2008  
-   Link: <a href="https://documents.theblackvault.com/documents/MUFON/Journals/2008/August_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/MUFON/Journals/2008/August_2008.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON UFO Journal16 Aug 2008 — With Altitude and Azimuth defined we can now identify some techniques that can be used to provide an estim...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/MUFON/Journals/2008/August_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/MUFON/Journals/2008/August_2008.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON UFO Journal16 Aug 2008 — With Altitude and Azimuth defined we can now identify some techniques that can be used to provide an estim...</p></details>
    Published: August 2008  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: scribd.com  
    Title: MUFO N Oregon  
-   Link: <a href="https://www.scribd.com/document/658475460/MUFON-Oregon-field-investigators-manual-OMInvestigatorsGuide1-8" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/658475460/MUFON-Oregon-field-investigators-manual-OMInvestigatorsGuide1-8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>• A computer to do research with, prepare reports on, communicate with witnesses, Oregon MUFON, and MUFON headquarters...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/658475460/MUFON-Oregon-field-investigators-manual-OMInvestigatorsGuide1-8" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/658475460/MUFON-Oregon-field-investigators-manual-OMInvestigatorsGuide1-8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>• A computer to do research with, prepare reports on, communicate with witnesses, Oregon MUFON, and MUFON headquarters...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/687125160/1933870431" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/687125160/1933870431</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON Field Investigator Manual Download | PDFThe network forms volunteers to interview witnesses, perform research and draw conclusions...</p></details>
+   Link:<a href="https://www.scribd.com/document/687125160/1933870431" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/687125160/1933870431</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON Field Investigator Manual Download | PDFThe network forms volunteers to interview witnesses, perform research and draw conclusions...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: mufonu.com  
-   Link: <a href="https://mufonu.com/" target="_blank" rel="noopener noreferrer nofollow">https://mufonu.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON University – MUFON Center of ExcellenceTo become a MUFON Field Investigator you must be at least 18-years of age, be able to accept...</p></details>
+   Link:<a href="https://mufonu.com/" target="_blank" rel="noopener noreferrer nofollow">https://mufonu.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON University – MUFON Center of ExcellenceTo become a MUFON Field Investigator you must be at least 18-years of age, be able to accept...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: quizlet.com  
-   Link: <a href="https://quizlet.com/572394263/mufon-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/572394263/mufon-flash-cards/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nderstanding of the aims of Mufon.Read more...</p></details>
+   Link:<a href="https://quizlet.com/572394263/mufon-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/572394263/mufon-flash-cards/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nderstanding of the aims of Mufon.Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: dochub.com  
-   Link: <a href="https://www.dochub.com/fillable-form/109085-mufon-field-investigator-manual" target="_blank" rel="noopener noreferrer nofollow">https://www.dochub.com/fillable-form/109085-mufon-field-investigator-manual</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ien UFO Investigations. MUFON Field Investigators are the...Read more...</p></details>
+   Link:<a href="https://www.dochub.com/fillable-form/109085-mufon-field-investigator-manual" target="_blank" rel="noopener noreferrer nofollow">https://www.dochub.com/fillable-form/109085-mufon-field-investigator-manual</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ien UFO Investigations. MUFON Field Investigators are the...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1eh8sah/mufon_investigator_training_manual_table_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1eh8sah/mufon_investigator_training_manual_table_of/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON Investigator Training Manual, Table of Contents....Why do most UFO/alien incidents seem to come from the US? r/UFOs - Why do most...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1eh8sah/mufon_investigator_training_manual_table_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1eh8sah/mufon_investigator_training_manual_table_of/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON Investigator Training Manual, Table of Contents....Why do most UFO/alien incidents seem to come from the US? r/UFOs - Why do most...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: electronicsandbooks.com  
    Title: MUFON UFO Journal December 1979  
-   Link: <a href="https://electronicsandbooks.com/edt/manual/Magazine/M/MUFON%20UFO%20Journal/MUFON%20UFO%20Journal%20-%20December%201979.pdf" target="_blank" rel="noopener noreferrer nofollow">https://electronicsandbooks.com/edt/manual/Magazine/M/MUFON%20UFO%20Journal/MUFON%20UFO%20Journal%20-%20December%201979.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The MUFON10 Dec 1979 — The case also was investigated by. MUFON Field Investigator, Arthur. Morros of Zionsville, Indiana. On September 2...</p></details>
+   Link:<a href="https://electronicsandbooks.com/edt/manual/Magazine/M/MUFON%20UFO%20Journal/MUFON%20UFO%20Journal%20-%20December%201979.pdf" target="_blank" rel="noopener noreferrer nofollow">https://electronicsandbooks.com/edt/manual/Magazine/M/MUFON%20UFO%20Journal/MUFON%20UFO%20Journal%20-%20December%201979.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The MUFON10 Dec 1979 — The case also was investigated by. MUFON Field Investigator, Arthur. Morros of Zionsville, Indiana. On September 2...</p></details>
    Published: December 1979  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: electronicsandbooks.com  
-   Link: <a href="https://electronicsandbooks.com/edt/manual/Magazine/M/MUFON%20UFO%20Journal/MUFON%20UFO%20Journal%20-%20March%202004.pdf" target="_blank" rel="noopener noreferrer nofollow">https://electronicsandbooks.com/edt/manual/Magazine/M/MUFON%20UFO%20Journal/MUFON%20UFO%20Journal%20-%20March%202004.pdf</a>  
+   Link:<a href="https://electronicsandbooks.com/edt/manual/Magazine/M/MUFON%20UFO%20Journal/MUFON%20UFO%20Journal%20-%20March%202004.pdf" target="_blank" rel="noopener noreferrer nofollow">https://electronicsandbooks.com/edt/manual/Magazine/M/MUFON%20UFO%20Journal/MUFON%20UFO%20Journal%20-%20March%202004.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: abebooks.co.uk  
-   Link: <a href="https://www.abebooks.co.uk/MUFON-Field-Investigators-Manual-Mutual-UFO/32217016709/bd" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/MUFON-Field-Investigators-Manual-Mutual-UFO/32217016709/bd</a>  
+   Link:<a href="https://www.abebooks.co.uk/MUFON-Field-Investigators-Manual-Mutual-UFO/32217016709/bd" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/MUFON-Field-Investigators-Manual-Mutual-UFO/32217016709/bd</a>  
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/haynes-ufo-investigations-manual-ufo-investigations-from-1892-to-the-present-day-085733400x-9780857334008.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/haynes-ufo-investigations-manual-ufo-investigations-from-1892-to-the-present-day-085733400x-9780857334008.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Haynes UFO Investigations ManualRIGHT: Chinese lanterns are the curse of ufology. They cause hundreds of UFO sightings every year. Tim Pr...</p></details>
+   Link:<a href="https://dokumen.pub/haynes-ufo-investigations-manual-ufo-investigations-from-1892-to-the-present-day-085733400x-9780857334008.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/haynes-ufo-investigations-manual-ufo-investigations-from-1892-to-the-present-day-085733400x-9780857334008.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Haynes UFO Investigations ManualRIGHT: Chinese lanterns are the curse of ufology. They cause hundreds of UFO sightings every year. Tim Pr...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/377871814_Exploring_Unidentified_Aerospace_Phenomena_through_Instrumented_Field_Studies_Historical_Insights_Current_Challenges_and_Future_Directions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377871814_Exploring_Unidentified_Aerospace_Phenomena_through_Instrumented_Field_Studies_Historical_Insights_Current_Challenges_and_Future_Directions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Insights, Current Challenges, and Future DirectionsThe study of Unidentified Aerospace Phenomena (UAP) requires a shift from a...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/377871814_Exploring_Unidentified_Aerospace_Phenomena_through_Instrumented_Field_Studies_Historical_Insights_Current_Challenges_and_Future_Directions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377871814_Exploring_Unidentified_Aerospace_Phenomena_through_Instrumented_Field_Studies_Historical_Insights_Current_Challenges_and_Future_Directions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Insights, Current Challenges, and Future DirectionsThe study of Unidentified Aerospace Phenomena (UAP) requires a shift from a...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Mutual_UFO_Network" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mutual_UFO_Network</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mutual UFO NetworkThe Mutual UFO Network (MUFON) is a US-based non-profit organization composed of civilian volunteers who study repor...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Mutual_UFO_Network" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mutual_UFO_Network</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mutual UFO NetworkThe Mutual UFO Network (MUFON) is a US-based non-profit organization composed of civilian volunteers who study repor...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/doc/30141090/11-Physical-Evidence-Related-to-UFO-Reports-Journal-of-Scientific-Exploration" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/30141090/11-Physical-Evidence-Related-to-UFO-Reports-Journal-of-Scientific-Exploration</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Physical Evidence Workshop Report | PDFThis document summarizes a workshop where UFO investigators presented physical evidence to a s...</p></details>
+   Link:<a href="https://www.scribd.com/doc/30141090/11-Physical-Evidence-Related-to-UFO-Reports-Journal-of-Scientific-Exploration" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/30141090/11-Physical-Evidence-Related-to-UFO-Reports-Journal-of-Scientific-Exploration</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Physical Evidence Workshop Report | PDFThis document summarizes a workshop where UFO investigators presented physical evidence to a s...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: handprint.com  
-   Link: <a href="https://www.handprint.com/UFO/UFO.html" target="_blank" rel="noopener noreferrer nofollow">https://www.handprint.com/UFO/UFO.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO as wildlifeA detailed analysis of data of the FBI, which was derived from investigations of intrusions of unidentified aerial phenome...</p></details>
+   Link:<a href="https://www.handprint.com/UFO/UFO.html" target="_blank" rel="noopener noreferrer nofollow">https://www.handprint.com/UFO/UFO.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO as wildlifeA detailed analysis of data of the FBI, which was derived from investigations of intrusions of unidentified aerial phenome...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: oregonmufon.com  
-   Link: <a href="https://www.oregonmufon.com/PDFs/OMInvestigatorsGuide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oregonmufon.com/PDFs/OMInvestigatorsGuide.pdf</a>  
+   Link:<a href="https://www.oregonmufon.com/PDFs/OMInvestigatorsGuide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oregonmufon.com/PDFs/OMInvestigatorsGuide.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: pdffiller.com  
-   Link: <a href="https://www.pdffiller.com/101430199-Form2030-MUFON20Field20Investigators20Reportpdf-mufon-field-investigator-manual-" target="_blank" rel="noopener noreferrer nofollow">https://www.pdffiller.com/101430199-Form2030-MUFON20Field20Investigators20Reportpdf-mufon-field-investigator-manual-</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2015-2026 MUFON Form 30 Field Investigators Report5 May 2026 — MUFON Form 30 Field Investigators Report is needed by: Field Investigators...</p></details>
+   Link:<a href="https://www.pdffiller.com/101430199-Form2030-MUFON20Field20Investigators20Reportpdf-mufon-field-investigator-manual-" target="_blank" rel="noopener noreferrer nofollow">https://www.pdffiller.com/101430199-Form2030-MUFON20Field20Investigators20Reportpdf-mufon-field-investigator-manual-</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2015-2026 MUFON Form 30 Field Investigators Report5 May 2026 — MUFON Form 30 Field Investigators Report is needed by: Field Investigators...</p></details>
    Published: May 2026  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: scribd.com  
    Title: APRO 1972 Field Investigator Handbook pdf  
-   Link: <a href="https://www.scribd.com/document/452814977/APRO-1972-Field-Investigator-Handbook-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/452814977/APRO-1972-Field-Investigator-Handbook-pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>APRO (1972) - Field Investigator Handbook PDFMUFON Oregon - Field Investigators Manual - OMInvestigatorsGuide1.8. PDF. No ratings yet. MU...</p></details>
+   Link:<a href="https://www.scribd.com/document/452814977/APRO-1972-Field-Investigator-Handbook-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/452814977/APRO-1972-Field-Investigator-Handbook-pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>APRO (1972) - Field Investigator Handbook PDFMUFON Oregon - Field Investigators Manual - OMInvestigatorsGuide1.8. PDF. No ratings yet. MU...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: academia.edu  
    Title: The [Reliability](&#123;&#123; 'reliability/' | relative_url &#125;&#125;) of UFO Witness Testimony  
-   Link: <a href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Reliability of UFO Witness Testimony17 May 2023 — What position should the investigator hold during the investigation... azimu...</p></details>
+   Link:<a href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Reliability of UFO Witness Testimony17 May 2023 — What position should the investigator hold during the investigation... azimu...</p></details>
    Published: May 2023

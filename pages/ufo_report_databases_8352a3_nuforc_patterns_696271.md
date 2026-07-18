@@ -357,30 +357,30 @@ NUFORC, the National UFO Reporting Center, is one of the most useful public UFO/
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271-overview.webp" | relative_url }}" alt="Overview image for NUFORC" loading="eager" decoding="sync" fetchpriority="high">
 ## What NUFORC Collects
 
-NUFORC describes its databank as the largest independently collected set of UFO/UAP sighting reports available online, with reports open to the public through indexes by event date, location, shape and posting date. The site says staff review reports and now grade newer reports into tiers: the most dramatic close-range or highly anomalous sightings, reports with unusual characteristics such as extreme speed or non-inertial turns, and other reports that cannot be easily explained. NUFORC also notes an important limitation: reports received before March 2023 have not yet been graded under that system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Latest UFO Sightings...</span></span></span>
+NUFORC describes its databank as the largest independently collected set of UFO/UAP sighting reports available online, with reports open to the public through indexes by event date, location, shape and posting date. The site says staff review reports and now grade newer reports into tiers: the most dramatic close-range or highly anomalous sightings, reports with unusual characteristics such as extreme speed or non-inertial turns, and other reports that cannot be easily explained. NUFORC also notes an important limitation: reports received before March 2023 have not yet been graded under that system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Latest UFO Sightings...</span></span></span>
 
-The reporting form shows the kind of structured information NUFORC tries to capture. Witnesses are asked to mark the sighting location as precisely as possible, describe whether they were on land, in a boat or in an aircraft, and add location details. The form also asks for the shape of the craft, colour, number of craft, number of witnesses and a sighting summary, while warning witnesses not to include personally identifying details in the public description. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/reportform-wp/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">UF O Sighting Report Form &#124; NUFORC</span><span class="citation-popover-snippet">UF O Sighting Report Form &#124; NUFORC</span></span></span>
+The reporting form shows the kind of structured information NUFORC tries to capture. Witnesses are asked to mark the sighting location as precisely as possible, describe whether they were on land, in a boat or in an aircraft, and add location details. The form also asks for the shape of the craft, colour, number of craft, number of witnesses and a sighting summary, while warning witnesses not to include personally identifying details in the public description.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/reportform-wp/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">UF O Sighting Report Form &#124; NUFORC</span><span class="citation-popover-snippet">UF O Sighting Report Form &#124; NUFORC</span></span></span>
 
 That mix of structured fields and free-text narrative is what makes NUFORC useful. A structured field such as “shape” lets people sort reports into broad categories such as orb, triangle, disk, fireball or formation. A narrative field can preserve details that do not fit a drop-down menu: whether an object changed direction, whether it was silent, whether aircraft were nearby, or whether the witness later checked a satellite tracker. For pattern research, both layers matter. The coded fields allow large-scale analysis; the text helps reveal whether the coded label means the same thing across reports.
 
-A concrete example is NUFORC’s monthly index. It shows month-by-month report counts, such as 987 reports for December 2024, 582 for January 2025 and lower totals in many surrounding months. Such numbers are useful for spotting possible waves, but they are only the start of analysis. A month with more reports might reflect a genuine increase in observations, a highly visible satellite or rocket event, a media-driven reporting surge, a backlog of postings, or old sightings being submitted later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=event" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports by Month</span><span class="citation-popover-snippet">NUFOR C Reports by Month</span></span></span>
+A concrete example is NUFORC’s monthly index. It shows month-by-month report counts, such as 987 reports for December 2024, 582 for January 2025 and lower totals in many surrounding months. Such numbers are useful for spotting possible waves, but they are only the start of analysis. A month with more reports might reflect a genuine increase in observations, a highly visible satellite or rocket event, a media-driven reporting surge, a backlog of postings, or old sightings being submitted later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=event" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports by Month</span><span class="citation-popover-snippet">NUFOR C Reports by Month</span></span></span>
 
-NUFORC itself gives a warning against over-reading raw entries. In a 2023 update, it said it had begun adding explanation fields to some reports, including categories such as aircraft, balloon, bird, camera anomaly, drone, meteor, planet/star, satellite, Starlink and hoax. It also stated that the most common misidentifications were Starlink satellites and camera anomalies such as lens flares or reflections, and added that untagged reports should not be treated as genuine extraterrestrial craft because most reported sightings turn out to have prosaic terrestrial explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/722-new-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">722 New UFO Reports Posted &#124; NUFORC</span><span class="citation-popover-snippet">722 New UFO Reports Posted &#124; NUFORC</span></span></span>
+NUFORC itself gives a warning against over-reading raw entries. In a 2023 update, it said it had begun adding explanation fields to some reports, including categories such as aircraft, balloon, bird, camera anomaly, drone, meteor, planet/star, satellite, Starlink and hoax. It also stated that the most common misidentifications were Starlink satellites and camera anomalies such as lens flares or reflections, and added that untagged reports should not be treated as genuine extraterrestrial craft because most reported sightings turn out to have prosaic terrestrial explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/722-new-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">722 New UFO Reports Posted &#124; NUFORC</span><span class="citation-popover-snippet">722 New UFO Reports Posted &#124; NUFORC</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271-Illustration-1-dark.svg" | relative_url }}" alt="NUFORC illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Useful Fields and Common Gaps
 
 The most useful NUFORC fields are the ones that let a report be checked against the ordinary sky. Date, time, location, duration, direction, number of objects, shape and witness position can be compared with aircraft routes, satellite passes, rocket launches, astronomical objects, weather, military airspace, drones, flares and local events. A report that includes a precise time, viewing direction, elevation, duration and location is far more testable than one saying only “bright lights over town”.
 
-Researchers using NUFORC data have shown what those fields can do at scale. A 2023 Scientific Reports study used more than 98,000 public UAP reports in the conterminous United States from 2001 to 2020 and tested whether reports correlated with sky-viewing conditions and possible sources of objects in the sky, including [light pollution]({{ 'light-pollution/' | relative_url }}), [tree canopy]({{ 'tree-canopy/' | relative_url }}), cloud cover, aircraft and military installations. The study found correlations suggesting that people report more phenomena when they have more opportunity to see things, and it framed the analysis as a way to give context to individual reports rather than to prove what the objects were. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
+Researchers using NUFORC data have shown what those fields can do at scale. A 2023 Scientific Reports study used more than 98,000 public UAP reports in the conterminous United States from 2001 to 2020 and tested whether reports correlated with sky-viewing conditions and possible sources of objects in the sky, including [light pollution]({{ 'light-pollution/' | relative_url }}), [tree canopy]({{ 'tree-canopy/' | relative_url }}), cloud cover, aircraft and military installations. The study found correlations suggesting that people report more phenomena when they have more opportunity to see things, and it framed the analysis as a way to give context to individual reports rather than to prove what the objects were.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
 
 That same strength exposes a gap: many NUFORC records are not instrument records. They are human reports. Date and place may be approximate; times may be rounded; directions may be missing; a witness may not know the difference between an object moving under its own power and a stationary object appearing to move because the observer is in a car or aircraft. A database can store these reports faithfully, but storing a report is not the same as validating all of its implied physical details.
 
-This matters especially for speed and manoeuvre claims. A witness may report that an object “shot away instantly”, but without distance, angular size, viewing angle, range, sensor data or independent corroboration, an apparent acceleration cannot be reliably converted into a physical acceleration. NASA’s independent UAP study made this distinction clearly: eyewitness reports can be interesting and compelling, but by themselves are insufficient for definitive conclusions; civilian reporting needs a more systematic framework, corroboration and better data if it is to support scientific inference. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This matters especially for speed and manoeuvre claims. A witness may report that an object “shot away instantly”, but without distance, angular size, viewing angle, range, sensor data or independent corroboration, an apparent acceleration cannot be reliably converted into a physical acceleration. NASA’s independent UAP study made this distinction clearly: eyewitness reports can be interesting and compelling, but by themselves are insufficient for definitive conclusions; civilian reporting needs a more systematic framework, corroboration and better data if it is to support scientific inference.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-A second gap is reporting lag. NUFORC may receive a report long after the event, and the posting date is not the same thing as the sighting date. NUFORC’s own July 2023 update illustrates the problem: of 722 newly posted reports, 489 were contemporary sightings since the previous update, while the rest were older events that witnesses were only then reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports by Location NUFORC Reports by Location; USA</span><span class="citation-popover-snippet">NUFOR C Reports by Location NUFORC Reports by Location; USA</span></span></span> For long-term pattern work, this means researchers must distinguish event date, report date and publication date. Otherwise, a researcher may mistake a processing batch or a delayed-memory submission for an actual wave in the sky.
+A second gap is reporting lag. NUFORC may receive a report long after the event, and the posting date is not the same thing as the sighting date. NUFORC’s own July 2023 update illustrates the problem: of 722 newly posted reports, 489 were contemporary sightings since the previous update, while the rest were older events that witnesses were only then reporting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports by Location NUFORC Reports by Location; USA</span><span class="citation-popover-snippet">NUFOR C Reports by Location NUFORC Reports by Location; USA</span></span></span> For long-term pattern work, this means researchers must distinguish event date, report date and publication date. Otherwise, a researcher may mistake a processing batch or a delayed-memory submission for an actual wave in the sky.
 
-A third gap is location precision. NUFORC now asks witnesses to mark exact locations and offers privacy options, but many public analyses use city-level locations or geocoded centroids. That is useful for broad mapping, yet it can blur the relationship between a report and a nearby airport, military operations area, launch site, coastline or dark-sky region. RAND’s 2023 study, for example, analysed 101,151 NUFORC reports across 12,783 US census designated places and explicitly warned that its analysis should not be read as an endorsement of individual NUFORC reports or of the database’s overall accuracy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A third gap is location precision. NUFORC now asks witnesses to mark exact locations and offers privacy options, but many public analyses use city-level locations or geocoded centroids. That is useful for broad mapping, yet it can blur the relationship between a report and a nearby airport, military operations area, launch site, coastline or dark-sky region. RAND’s 2023 study, for example, analysed 101,151 NUFORC reports across 12,783 US census designated places and explicitly warned that its analysis should not be read as an endorsement of individual NUFORC reports or of the database’s overall accuracy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LPSKB6ZZQm0" title="Data drives disclosure: Creating a civilian UFO reporting network | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LPSKB6ZZQm0" target="_blank" rel="noopener noreferrer">Data drives disclosure: Creating a civilian UFO reporting network | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 160.7K &middot; Uploaded: March 2026 &middot; Length: 1 hour 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LPSKB6ZZQm0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LPSKB6ZZQm0">Open on YouTube</a></p></div></div></div>
 
@@ -388,11 +388,11 @@ A third gap is location precision. NUFORC now asks witnesses to mark exact locat
 
 The most common pattern pitfall is treating report counts as [event counts]({{ 'event-counts/' | relative_url }}). NUFORC records people deciding to report sightings. That decision is shaped by visibility, surprise, social attention, memory, access to the reporting form and confidence that the report will be taken seriously. A rise in reports can therefore mean more things were visible, more people were looking, more people were primed to interpret ordinary objects as strange, or more witnesses found NUFORC.
 
-One clear example is Starlink. The launch of strings of low-Earth-orbit satellites created unfamiliar sky displays that many observers reasonably described as UFOs. A 2022 study on social factors and UFO reporting found that UFO reports increased in 2020 compared with 2019, but that the increase disappeared when Starlink-related reports were removed; the authors concluded that the apparent pandemic-era rise was not supported once this new satellite confounder was filtered out. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/368458403_Social_factors_and_UFO_reports_was_the_SARS-CoV-2_pandemic_associated_with_an_increase_in_UFO_reporting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+One clear example is Starlink. The launch of strings of low-Earth-orbit satellites created unfamiliar sky displays that many observers reasonably described as UFOs. A 2022 study on social factors and UFO reporting found that UFO reports increased in 2020 compared with 2019, but that the increase disappeared when Starlink-related reports were removed; the authors concluded that the apparent pandemic-era rise was not supported once this new satellite confounder was filtered out.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/368458403_Social_factors_and_UFO_reports_was_the_SARS-CoV-2_pandemic_associated_with_an_increase_in_UFO_reporting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-A second pitfall is media sensitivity. A study of 80,332 UFO sighting cases from 1906 to 2014 examined the dynamics of reporting rather than the objects themselves. It found that new reports were sensitive to media broadcasting and daytime hours, and that more than 41% of reported sightings supposedly happened at exact o’clock times, suggesting a strong human tendency to round remembered times. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect On the dynamics of reporting data: A case study of UFO sightings</span><span class="citation-popover-snippet">ScienceDirect On the dynamics of reporting data: A case study of UFO sightings</span></span></span> That does not mean reports are useless; it means that time fields in a large witness dataset can partly reflect memory habits.
+A second pitfall is media sensitivity. A study of 80,332 UFO sighting cases from 1906 to 2014 examined the dynamics of reporting rather than the objects themselves. It found that new reports were sensitive to media broadcasting and daytime hours, and that more than 41% of reported sightings supposedly happened at exact o’clock times, suggesting a strong human tendency to round remembered times.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect On the dynamics of reporting data: A case study of UFO sightings</span><span class="citation-popover-snippet">ScienceDirect On the dynamics of reporting data: A case study of UFO sightings</span></span></span> That does not mean reports are useless; it means that time fields in a large witness dataset can partly reflect memory habits.
 
-A third pitfall is assuming that a geographic hotspot is inherently anomalous. RAND found that NUFORC reports were more likely within 30 km of military operations areas, where military training occurs, and suggested that some self-reports may be authorised aircraft operating in those areas. RAND also found negative associations near weather stations, civilian airports and more densely populated areas, possibly because people in those places are more familiar with ordinary aerial activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A third pitfall is assuming that a geographic hotspot is inherently anomalous. RAND found that NUFORC reports were more likely within 30 km of military operations areas, where military training occurs, and suggested that some self-reports may be authorised aircraft operating in those areas. RAND also found negative associations near weather stations, civilian airports and more densely populated areas, possibly because people in those places are more familiar with ordinary aerial activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That result is important because it cuts against a simplistic reading of maps. A cluster near military airspace could interest defence analysts, but it might also be exactly where unusual-looking training flights, flares, aircraft lighting patterns or restricted-area activity are more likely. The same cluster can therefore support two modest questions — “what ordinary activities are nearby?” and “are any reports still unexplained after checking those activities?” — but not the stronger claim that the cluster proves extraordinary craft.
 
@@ -409,11 +409,11 @@ The strongest approach is to separate three layers of evidence:
 * **The reporting layer:** when the report was submitted, when it was posted, whether it was delayed, whether media attention may have influenced submissions, and whether fields show rounding or missing values.
 * **The external-check layer:** aircraft, satellites, planets, meteors, drones, [balloons]({{ 'balloons/' | relative_url }}), flares, weather, local events, military operations and independent images or sensor records.
 
-This layered method keeps NUFORC in its proper role. It is a discovery tool that can identify cases worth checking, not a final adjudication system. The FAA’s current air-traffic-control guidance is narrow: controllers are told to inform the operations supervisor or controller-in-charge of reported or observed UAP activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[FAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Section 8. Unidentified Anomalous Phenomena (UAP) Reports</span><span class="citation-popover-snippet">Section 8. Unidentified Anomalous Phenomena (UAP) Reports</span></span></span> NASA’s review argued that the broader civilian reporting environment remains inadequate for scientific inference without systematic data, metadata, corroboration and follow-up. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This layered method keeps NUFORC in its proper role. It is a discovery tool that can identify cases worth checking, not a final adjudication system. The FAA’s current air-traffic-control guidance is narrow: controllers are told to inform the operations supervisor or controller-in-charge of reported or observed UAP activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[FAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Section 8. Unidentified Anomalous Phenomena (UAP) Reports</span><span class="citation-popover-snippet">Section 8. Unidentified Anomalous Phenomena (UAP) Reports</span></span></span> NASA’s review argued that the broader civilian reporting environment remains inadequate for scientific inference without systematic data, metadata, corroboration and follow-up.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Researchers also normalise by exposure. Raw state counts are misleading because populous states naturally produce more reports. Even per-capita counts can mislead if people in one region have darker skies, clearer horizons, more military training routes, more outdoor activity or more satellite visibility. The 2023 Scientific Reports study is a useful model because it did not simply map reports; it tested environmental and sky-viewing variables and treated the results as context for interpreting reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41599-024-04182-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
+Researchers also normalise by exposure. Raw state counts are misleading because populous states naturally produce more reports. Even per-capita counts can mislead if people in one region have darker skies, clearer horizons, more military training routes, more outdoor activity or more satellite visibility. The 2023 Scientific Reports study is a useful model because it did not simply map reports; it tested environmental and sky-viewing variables and treated the results as context for interpreting reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41599-024-04182-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
 
-Another useful safeguard is to treat missing explanations conservatively. NUFORC’s explanation tags are helpful, especially for common categories such as Starlink and camera anomalies, but an untagged report is not automatically unexplained in a strong sense. It may simply not yet have been reviewed deeply enough, may lack the data needed to decide, or may involve an ordinary source not captured in the report. NUFORC’s own wording makes that caution explicit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+Another useful safeguard is to treat missing explanations conservatively. NUFORC’s explanation tags are helpful, especially for common categories such as Starlink and camera anomalies, but an untagged report is not automatically unexplained in a strong sense. It may simply not yet have been reviewed deeply enough, may lack the data needed to decide, or may involve an ordinary source not captured in the report. NUFORC’s own wording makes that caution explicit.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 Finally, serious pattern work should preserve the link back to individual cases. Aggregation is useful, but it can hide heterogeneity. A thousand “light” reports may include satellites, aircraft, meteors, drones, planets, lanterns, camera reflections and a few genuinely puzzling observations. The best use of NUFORC moves back and forth between the map and the report text: patterns suggest where to look, while case details determine whether the pattern survives scrutiny.
 
@@ -432,194 +432,194 @@ That is not a weakness unique to NUFORC; it is the central challenge of open UFO
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271-Illustration-3-dark.svg" | relative_url }}" alt="NUFORC illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What NUFORC Reports Can Really Tell You. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What NUFORC Reports Can Really Tell You. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
-        </h4>
-        <p class="fr-book-author">By Darrell Huff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
+</h4>
+<p class="fr-book-author">By Darrell Huff</p>
         
-        <p class="fr-book-desc">Directly helps readers understand why NUFORC counts, clusters and categories can mislead without statistical caution.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly helps readers understand why NUFORC counts, clusters and categories can mislead without statistical caution.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Gives serious UFO context for readers moving from public witness reports to higher-quality cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Gives serious UFO context for readers moving from public witness reports to higher-quality cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ckOQEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-        </h4>
-        <p class="fr-book-author">By Nate Silver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ckOQEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+</h4>
+<p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Strong fit for distinguishing meaningful patterns from reporting noise in a large public UFO database.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for distinguishing meaningful patterns from reporting noise in a large public UFO database.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpZNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpZNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Supports cautious reading of apparent spikes, geographical clusters and dramatic trends in NUFORC-style reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports cautious reading of apparent spikes, geographical clusters and dramatic trends in NUFORC-style reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Lie with Statistics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Lie with Statistics</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge"><img src="{{ '/assets/images/marketplace-covers/543d1581f512f7d95d12.jpg' | relative_url }}" alt="Listing image for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge"><img src="{{ '/assets/images/marketplace-covers/543d1581f512f7d95d12.jpg' | relative_url }}" alt="Listing image for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW"><img src="{{ '/assets/images/marketplace-covers/005f999955a86aeec93f.jpg' | relative_url }}" alt="Listing image for CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW"><img src="{{ '/assets/images/marketplace-covers/005f999955a86aeec93f.jpg' | relative_url }}" alt="Listing image for CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/b729946542c23df6f590.jpg' | relative_url }}" alt="Listing image for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/b729946542c23df6f590.jpg' | relative_url }}" alt="Listing image for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="nuforc-what-nuforc-reports-can-really-tell-you-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -635,7 +635,7 @@ That is not a weakness unique to NUFORC; it is the central challenge of open UFO
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -655,7 +655,7 @@ That is not a weakness unique to NUFORC; it is the central challenge of open UFO
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -687,7 +687,7 @@ That is not a weakness unique to NUFORC; it is the central challenge of open UFO
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -739,7 +739,7 @@ That is not a weakness unique to NUFORC; it is the central challenge of open UFO
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -784,7 +784,7 @@ That is not a weakness unique to NUFORC; it is the central challenge of open UFO
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -825,179 +825,179 @@ That is not a weakness unique to NUFORC; it is the central challenge of open UFO
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Latest UFO Sightings...</p></details>
+   Link:<a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Latest UFO Sightings...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nuforc.org  
    Title: UF O Sighting Report Form | NUFORC  
-   Link: <a href="https://nuforc.org/reportform-wp/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/reportform-wp/</a>  
+   Link:<a href="https://nuforc.org/reportform-wp/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/reportform-wp/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports by Month  
-   Link: <a href="https://nuforc.org/ndx/?id=event" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=event</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=event" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=event</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
    Title: 722 New UFO Reports Posted | NUFORC  
-   Link: <a href="https://nuforc.org/722-new-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/722-new-ufo-reports/</a>  
+   Link:<a href="https://nuforc.org/722-new-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/722-new-ufo-reports/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-49527-x</a>  
+   Link:<a href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-49527-x</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: rand.org  
-   Link: <a href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/research_reports/RRA2475-1.html</a>  
+   Link:<a href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/research_reports/RRA2475-1.html</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/368458403_Social_factors_and_UFO_reports_was_the_SARS-CoV-2_pandemic_associated_with_an_increase_in_UFO_reporting" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/368458403_Social_factors_and_UFO_reports_was_the_SARS-CoV-2_pandemic_associated_with_an_increase_in_UFO_reporting</a>  
+   Link:<a href="https://www.researchgate.net/publication/368458403_Social_factors_and_UFO_reports_was_the_SARS-CoV-2_pandemic_associated_with_an_increase_in_UFO_reporting" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/368458403_Social_factors_and_UFO_reports_was_the_SARS-CoV-2_pandemic_associated_with_an_increase_in_UFO_reporting</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect On the dynamics of reporting data: A case study of UFO sightings  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: faa.gov  
    Title: Section 8. Unidentified Anomalous Phenomena (UAP) Reports  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports by Location NUFORC Reports by Location; USA  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+   Link:<a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/reportform/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/reportform/</a>  
+   Link:<a href="https://nuforc.org/reportform/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/reportform/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nuforc.org  
    Title: report a ufo  
-   Link: <a href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/report-a-ufo/</a>  
+   Link:<a href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/report-a-ufo/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
+   Link:<a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=highlights" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=highlights</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=highlights" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=highlights</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/terms/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/terms/</a>  
+   Link:<a href="https://nuforc.org/terms/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/terms/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/univutahstudy/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/univutahstudy/</a>  
+   Link:<a href="https://nuforc.org/univutahstudy/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/univutahstudy/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: faa.gov  
    Title: 2025 09 12 Notice N7110.800 Unidentied Anomalous Phenomena (UAP) Reports FINAL  
-   Link: <a href="https://www.faa.gov/documentLibrary/media/Notice/2025-09-12_Notice_N7110.800_Unidentied_Anomalous_Phenomena_%28UAP%29_Reports_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/documentLibrary/media/Notice/2025-09-12_Notice_N7110.800_Unidentied_Anomalous_Phenomena_%28UAP%29_Reports_FINAL.pdf</a>  
+   Link:<a href="https://www.faa.gov/documentLibrary/media/Notice/2025-09-12_Notice_N7110.800_Unidentied_Anomalous_Phenomena_%28UAP%29_Reports_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/documentLibrary/media/Notice/2025-09-12_Notice_N7110.800_Unidentied_Anomalous_Phenomena_%28UAP%29_Reports_FINAL.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41599-024-04182-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-024-04182-z</a>  
+   Link:<a href="https://www.nature.com/articles/s41599-024-04182-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-024-04182-z</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/376519968_An_environmental_analysis_of_public_UAP_sightings_and_sky_view_potential" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376519968_An_environmental_analysis_of_public_UAP_sightings_and_sky_view_potential</a>  
+   Link:<a href="https://www.researchgate.net/publication/376519968_An_environmental_analysis_of_public_UAP_sightings_and_sky_view_potential" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376519968_An_environmental_analysis_of_public_UAP_sightings_and_sky_view_potential</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: rand.org  
    Title: RAND RRA2475 1  
-   Link: <a href="https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf</a>  
+   Link:<a href="https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: rand.org  
    Title: ufos are not the only potential threat in american  
-   Link: <a href="https://www.rand.org/pubs/commentary/2023/07/ufos-are-not-the-only-potential-threat-in-american.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/commentary/2023/07/ufos-are-not-the-only-potential-threat-in-american.html</a>  
+   Link:<a href="https://www.rand.org/pubs/commentary/2023/07/ufos-are-not-the-only-potential-threat-in-american.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/commentary/2023/07/ufos-are-not-the-only-potential-threat-in-american.html</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: rand.org  
    Title: not the x files  
-   Link: <a href="https://www.rand.org/nsrd/news/nsrd-upfront/2023/12/not-the-x-files.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/nsrd/news/nsrd-upfront/2023/12/not-the-x-files.html</a>  
+   Link:<a href="https://www.rand.org/nsrd/news/nsrd-upfront/2023/12/not-the-x-files.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/nsrd/news/nsrd-upfront/2023/12/not-the-x-files.html</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
    Title: National UFO Reporting Center  
-   Link: <a href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_UFO_Reporting_Center</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_UFO_Reporting_Center</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: zenodo.org  
-   Link: <a href="https://zenodo.org/records/1205624" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/1205624</a>  
+   Link:<a href="https://zenodo.org/records/1205624" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/1205624</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: cuny.manifoldapp.org  
    Title: national ufo reporting center  
-   Link: <a href="https://cuny.manifoldapp.org/read/national-ufo-reporting-center" target="_blank" rel="noopener noreferrer nofollow">https://cuny.manifoldapp.org/read/national-ufo-reporting-center</a>  
+   Link:<a href="https://cuny.manifoldapp.org/read/national-ufo-reporting-center" target="_blank" rel="noopener noreferrer nofollow">https://cuny.manifoldapp.org/read/national-ufo-reporting-center</a>  
 
 ### Additional References
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=nraHhvzdZAQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nraHhvzdZAQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs have gone Mainstream! Eyewitness Reports - Peter Davenport...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nraHhvzdZAQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nraHhvzdZAQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs have gone Mainstream! Eyewitness Reports - Peter Davenport...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=LPSKB6ZZQm0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LPSKB6ZZQm0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Washington man spent last 25 years running National UFO Reporting Center...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LPSKB6ZZQm0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LPSKB6ZZQm0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Washington man spent last 25 years running National UFO Reporting Center...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: UFOs have gone Mainstream! Eyewitness Reports  
-   Link: <a href="https://www.youtube.com/watch?v=Yjk4B4FMunM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Yjk4B4FMunM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Data drives disclosure: Creating a civilian UFO reporting network | Reality Check...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Yjk4B4FMunM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Yjk4B4FMunM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data drives disclosure: Creating a civilian UFO reporting network | Reality Check...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/</a>  
+   Link:<a href="https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: aiaa.org  
-   Link: <a href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf</a>  
+   Link:<a href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database</a>  
+   Link:<a href="https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/psmgz1/applied_datascience_to_nuforc_database_some/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/psmgz1/applied_datascience_to_nuforc_database_some/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/psmgz1/applied_datascience_to_nuforc_database_some/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/psmgz1/applied_datascience_to_nuforc_database_some/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/data-science/are-we-alone-in-the-universe-data-analysis-and-data-visualization-of-ufo-sightings-with-r-42d0798679c3" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/data-science/are-we-alone-in-the-universe-data-analysis-and-data-visualization-of-ufo-sightings-with-r-42d0798679c3</a>  
+   Link:<a href="https://medium.com/data-science/are-we-alone-in-the-universe-data-analysis-and-data-visualization-of-ufo-sightings-with-r-42d0798679c3" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/data-science/are-we-alone-in-the-universe-data-analysis-and-data-visualization-of-ufo-sightings-with-r-42d0798679c3</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/data-science/data-analysis-everything-youve-ever-wanted-to-know-about-ufo-sightings-e16f2ed34151" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/data-science/data-analysis-everything-youve-ever-wanted-to-know-about-ufo-sightings-e16f2ed34151</a>  
+   Link:<a href="https://medium.com/data-science/data-analysis-everything-youve-ever-wanted-to-know-about-ufo-sightings-e16f2ed34151" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/data-science/data-analysis-everything-youve-ever-wanted-to-know-about-ufo-sightings-e16f2ed34151</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/18ift62/dr_sean_kirkpatrick_publishes_an_environmental/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/18ift62/dr_sean_kirkpatrick_publishes_an_environmental/</a>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/18ift62/dr_sean_kirkpatrick_publishes_an_environmental/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/18ift62/dr_sean_kirkpatrick_publishes_an_environmental/</a>

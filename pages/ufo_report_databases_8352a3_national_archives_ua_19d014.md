@@ -352,47 +352,47 @@ image: /assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014-ov
 
 ## Introduction
 
-National archives matter in UFO and UAP research because they let readers move from summaries, rumours and recycled case narratives to records with institutional provenance: who created the file, which agency held it, when it was transferred, whether it is a copy or an original record, and what surrounding paperwork says. In the United States, the National Archives and Records Administration now has a dedicated Unidentified Anomalous Phenomena Records Collection, Record Group 615, created under the 2024 National Defense Authorization Act. It sits alongside older UFO holdings such as Project [Blue Book]({{ 'blue-book/' | relative_url }}), photographs, moving-image records, textual files and presidential-library material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+National archives matter in UFO and UAP research because they let readers move from summaries, rumours and recycled case narratives to records with institutional provenance: who created the file, which agency held it, when it was transferred, whether it is a copy or an original record, and what surrounding paperwork says. In the United States, the National Archives and Records Administration now has a dedicated Unidentified Anomalous Phenomena Records Collection, Record Group 615, created under the 2024 National Defense Authorization Act. It sits alongside older UFO holdings such as Project [Blue Book]({{ 'blue-book/' | relative_url }}), photographs, moving-image records, textual files and presidential-library material.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014-overview.webp" | relative_url }}" alt="Overview image for Archives" loading="eager" decoding="sync" fetchpriority="high">
 The practical value is not that an archive “proves” a sighting extraordinary. It is that archive catalogue pages, bulk downloads, microfilm publications and record groups make claims checkable. A reader can ask whether a famous incident appears in an official file, whether later quotations match the source document, whether a photograph is linked to a specific record series, and whether a database entry has been separated from its original administrative context.
 
 ## Catalogue pages and bulk downloads turn scattered records into checkable data
 
-The most important recent development is NARA’s creation of Record Group 615, the Unidentified Anomalous Phenomena Records Collection. NARA states that this collection consists of UAP records it has received from federal agencies, and that its RG 615 page will be updated as additional records arrive. As of the page reviewed on 22 May 2026, listed contributing bodies include the Federal Aviation Administration, the U.S. Nuclear Regulatory Commission, the Office of the Director of National Intelligence, the Office of the Secretary of Defense, the National Security Agency, the Department of State and the Federal Bureau of Investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The most important recent development is NARA’s creation of Record Group 615, the Unidentified Anomalous Phenomena Records Collection. NARA states that this collection consists of UAP records it has received from federal agencies, and that its RG 615 page will be updated as additional records arrive. As of the page reviewed on 22 May 2026, listed contributing bodies include the Federal Aviation Administration, the U.S. Nuclear Regulatory Commission, the Office of the Director of National Intelligence, the Office of the Secretary of Defense, the National Security Agency, the Department of State and the Federal Bureau of Investigation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-That structure is a governance intervention as much as a research aid. Instead of leaving UAP-related material dispersed across agency websites, old FOIA reading rooms, press releases and legacy PDF dumps, Congress required a government-wide collection. NARA’s FAQ says sections 1841–1843 of the 2024 National Defense Authorization Act, now codified at 44 U.S.C. 2107 note, require NARA to establish the collection and require each federal agency to review, identify and organise each UAP record in its custody for public disclosure and transmission to NARA. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That structure is a governance intervention as much as a research aid. Instead of leaving UAP-related material dispersed across agency websites, old FOIA reading rooms, press releases and legacy PDF dumps, Congress required a government-wide collection. NARA’s FAQ says sections 1841–1843 of the 2024 National Defense Authorization Act, now codified at 44 U.S.C. 2107 note, require NARA to establish the collection and require each federal agency to review, identify and organise each UAP record in its custody for public disclosure and transmission to NARA.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For researchers, the catalogue page is the first checkpoint. A National Archives catalogue entry can show the record creator, record group, National Archives Identifier, scope-and-content notes, date ranges, access restrictions, digital objects and related descriptions. That makes it different from a civilian UFO database entry or a social-media scan: the catalogue page is not simply repeating a story; it is locating a record inside an archival control system.
 
-NARA has also created a bulk-download pathway for digitised and born-digital UAP records in the National Archives Catalog. The bulk-download page explains that downloadable zip files contain image, video and PDF files, alongside JSON metadata for each record. It also makes clear that these downloads include the digital objects listed on NARA’s UAP records page where available in the catalogue, rather than every possible UAP-related record in government custody. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+NARA has also created a bulk-download pathway for digitised and born-digital UAP records in the National Archives Catalog. The bulk-download page explains that downloadable zip files contain image, video and PDF files, alongside JSON metadata for each record. It also makes clear that these downloads include the digital objects listed on NARA’s UAP records page where available in the catalogue, rather than every possible UAP-related record in government custody.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-That distinction matters. Bulk downloads are useful for building searchable indexes, checking metadata consistency, comparing file dates and auditing what has actually been released. They are not a guarantee that all records on a subject are online, complete, unredacted or equally well described. NARA’s UAP FAQ says agencies must make digital copies for transfer and that NARA will only accept digital versions for the collection; for publicly releasable records that contain redactions, agencies must transfer both redacted and unredacted copies to NARA, though the public version may still be the redacted one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That distinction matters. Bulk downloads are useful for building searchable indexes, checking metadata consistency, comparing file dates and auditing what has actually been released. They are not a guarantee that all records on a subject are online, complete, unredacted or equally well described. NARA’s UAP FAQ says agencies must make digital copies for transfer and that NARA will only accept digital versions for the collection; for publicly releasable records that contain redactions, agencies must transfer both redacted and unredacted copies to NARA, though the public version may still be the redacted one.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The timing also helps readers understand why the collection is changing. NARA’s October 2024 agency memo required federal agencies to transfer, by 30 September 2025, digital copies of publicly disclosable UAP records identified by 20 October 2024, and requested rolling transfers rather than waiting for the deadline. It also said each publicly releasable UAP record had to include metadata under earlier NARA guidance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The timing also helps readers understand why the collection is changing. NARA’s October 2024 agency memo required federal agencies to transfer, by 30 September 2025, digital copies of publicly disclosable UAP records identified by 20 October 2024, and requested rolling transfers rather than waiting for the deadline. It also said each publicly releasable UAP record had to include metadata under earlier NARA guidance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014-Illustration-1-dark.svg" | relative_url }}" alt="Archives illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Record groups explain where a UFO file came from
 
-A useful archive search usually starts not with the word “UFO”, but with provenance. NARA explains that record groups and collections are the highest level of archival description, with record group numbers assigned to large organisations such as federal departments or agencies. Its UAP record-group page lists several relevant homes for older UFO and UAP material, including Record Group 306 for the U.S. Information Agency, Record Group 330 for the Office of the Secretary of Defense, Record Group 341 for Headquarters U.S. Air Force, Record Group 342 for U.S. Air Force commands and Record Group 517 for the U.S. Agency for Global Media, alongside the new Record Group 615. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A useful archive search usually starts not with the word “UFO”, but with provenance. NARA explains that record groups and collections are the highest level of archival description, with record group numbers assigned to large organisations such as federal departments or agencies. Its UAP record-group page lists several relevant homes for older UFO and UAP material, including Record Group 306 for the U.S. Information Agency, Record Group 330 for the Office of the Secretary of Defense, Record Group 341 for Headquarters U.S. Air Force, Record Group 342 for U.S. Air Force commands and Record Group 517 for the U.S. Agency for Global Media, alongside the new Record Group 615.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This is why the archive is not just another “UFO sightings database”. A civilian catalogue may organise cases by shape, location or witness description. An archive organises records around the office that created or received them. That often changes the interpretation. A file in an air-force record group may be an investigation case file; a file in a public-diplomacy record group may reflect media monitoring; a presidential-library item may show briefing, correspondence or public-pressure handling rather than a technical investigation.
 
-Project Blue Book is the classic example. NARA says the U.S. Air Force retired its Project Blue Book UFO investigation records to the National Archives, that the project is declassified, and that the project closed in 1969, with no information on sightings after that date. Access to the textual records is through 94 rolls of 35mm microfilm, T-1206, in the National Archives Microfilm Reading Room; the first roll includes contents and finding aids, while photographs scattered among textual records were filmed separately on the last two rolls. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Project Blue Book is the classic example. NARA says the U.S. Air Force retired its Project Blue Book UFO investigation records to the National Archives, that the project is declassified, and that the project closed in 1969, with no information on sightings after that date. Access to the textual records is through 94 rolls of 35mm microfilm, T-1206, in the National Archives Microfilm Reading Room; the first roll includes contents and finding aids, while photographs scattered among textual records were filmed separately on the last two rolls.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The microfilm publication details show the scale and texture of the surviving Blue Book material. The records include about 2 cubic feet of project administrative files, 37 cubic feet of [case files]({{ 'case-files/' | relative_url }}) arranged chronologically by individual sighting, and 3 cubic feet of records related to the Office of Special Investigations. The finding aids include a project-file list and an index to individual sightings by date and location. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fold3.com/pdf/T1206.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fold3.com">[Fold3]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fold3.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The microfilm publication details show the scale and texture of the surviving Blue Book material. The records include about 2 cubic feet of project administrative files, 37 cubic feet of [case files]({{ 'case-files/' | relative_url }}) arranged chronologically by individual sighting, and 3 cubic feet of records related to the Office of Special Investigations. The finding aids include a project-file list and an index to individual sightings by date and location.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fold3.com/pdf/T1206.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fold3.com">[Fold3]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fold3.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-That matters when checking later claims. A dramatic retelling may focus on one witness statement, but the case file may also include correspondence, press clippings, analysis, routing slips, military forms, photograph assessments and classification decisions. NARA’s article on the 50th anniversary of Blue Book’s termination describes the files as containing observer reports, correspondence between observers and the Air Force, newspaper and magazine clippings, and reports analysing photographs and physical evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That matters when checking later claims. A dramatic retelling may focus on one witness statement, but the case file may also include correspondence, press clippings, analysis, routing slips, military forms, photograph assessments and classification decisions. NARA’s article on the 50th anniversary of Blue Book’s termination describes the files as containing observer reports, correspondence between observers and the Air Force, newspaper and magazine clippings, and reports analysing photographs and physical evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JHeZjJgO9Ns" title="UFO Project Blue Book at National Archives Museum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer">UFO Project Blue Book at National Archives Museum</a></p><p class="youtube-embed-meta">Channel: US National Archives &middot; Views: 352.6K &middot; Uploaded: December 2019 &middot; Length: 2 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JHeZjJgO9Ns">Open on YouTube</a></p></div></div></div>
 
 ## Photographs, film and sound need more care than screenshots
 
-Images are often the most shareable part of UFO culture, but archives make them harder to detach from context. NARA has separate UAP pages for photographs and for moving images and sound recordings, each organised by record group with links to catalogue descriptions and digital copies where available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Images are often the most shareable part of UFO culture, but archives make them harder to detach from context. NARA has separate UAP pages for photographs and for moving images and sound recordings, each organised by record group with links to catalogue descriptions and digital copies where available.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The separation is important because media records may not sit in the same place as the paper file that discusses them. NARA’s Project Blue Book page notes that motion picture film, sound recordings and some still pictures are maintained by specialist branches: the Motion Picture, Sound, and Video Branch and the Still Picture Branch. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> A researcher who only searches textual files may miss film; a viewer who only sees a clipped image online may miss the case-file paperwork that explains how investigators treated it.
+The separation is important because media records may not sit in the same place as the paper file that discusses them. NARA’s Project Blue Book page notes that motion picture film, sound recordings and some still pictures are maintained by specialist branches: the Motion Picture, Sound, and Video Branch and the Still Picture Branch.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> A researcher who only searches textual files may miss film; a viewer who only sees a clipped image online may miss the case-file paperwork that explains how investigators treated it.
 
-NARA’s own blog material on Blue Book illustrates this point. The Unwritten Record blog notes that the Air Force began collecting and evaluating facts related to “flying saucers” and other UFOs in late 1947, and that between 1947 and 1969, 12,618 sightings were reported to the programme later known as Project Blue Book. The same blog family highlights film holdings such as home movies submitted by citizens as claimed sighting evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unwritten-record.blogs.archives.gov/tag/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unwritten-record.blogs.archives.gov">[The Unwritten Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unwritten-record.blogs.archives.gov</span><span class="citation-popover-title">The Unwritten Record Project Blue Book</span><span class="citation-popover-snippet">The Unwritten Record Project Blue Book</span></span></span>
+NARA’s own blog material on Blue Book illustrates this point. The Unwritten Record blog notes that the Air Force began collecting and evaluating facts related to “flying saucers” and other UFOs in late 1947, and that between 1947 and 1969, 12,618 sightings were reported to the programme later known as Project Blue Book. The same blog family highlights film holdings such as home movies submitted by citizens as claimed sighting evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://unwritten-record.blogs.archives.gov/tag/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unwritten-record.blogs.archives.gov">[The Unwritten Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unwritten-record.blogs.archives.gov</span><span class="citation-popover-title">The Unwritten Record Project Blue Book</span><span class="citation-popover-snippet">The Unwritten Record Project Blue Book</span></span></span>
 
 A useful archival reading of a UFO photograph therefore asks several questions before asking what the object “really” was:
 
@@ -410,15 +410,15 @@ The point is not to dismiss images. It is to stop treating a striking image as s
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014-Illustration-2-dark.svg" | relative_url }}" alt="Archives illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_national_archives_ua_19d014-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The UK National Archives shows a different archival model
 
-The United States is not the only useful national archive for UFO records. The UK National Archives at Kew provides a research guide for UFO records, and its summary is revealing: the surviving records consist mainly of documents about official policy, Parliamentary business, correspondence between the public and the Ministry of Defence, and UFO sighting reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The United States is not the only useful national archive for UFO records. The UK National Archives at Kew provides a research guide for UFO records, and its summary is revealing: the surviving records consist mainly of documents about official policy, Parliamentary business, correspondence between the public and the Ministry of Defence, and UFO sighting reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-That means UK records are especially useful for understanding how a government department handled reports, public pressure and ministerial questions. They are not simply a list of sightings. The UK guide directs researchers to search its Discovery catalogue in series such as DEFE, AIR, FCO and BJ, and its older research guide explains that early UFO-related records were transferred by the Ministry of Defence to the former Public Record Office in 1986 under the 30-year rule. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That means UK records are especially useful for understanding how a government department handled reports, public pressure and ministerial questions. They are not simply a list of sightings. The UK guide directs researchers to search its Discovery catalogue in series such as DEFE, AIR, FCO and BJ, and its older research guide explains that early UFO-related records were transferred by the Ministry of Defence to the former Public Record Office in 1986 under the 30-year rule.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The file series are also a reminder that “UFO records” can mean different things across time. The UK guide notes that AIR 20 contains records on reports of aerial phenomena in 1957 and monthly folders of reports from 1967 to 1973, while DEFE 24 contains the majority of surviving reports and public correspondence from 1977 onwards. It also explains that DEFE 24 contains edited copies of 1975–1980 UFO reports, prepared when the Ministry of Defence considered releasing UFO material to the public, with observers’ identities and home addresses deleted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The file series are also a reminder that “UFO records” can mean different things across time. The UK guide notes that AIR 20 contains records on reports of aerial phenomena in 1957 and monthly folders of reports from 1967 to 1973, while DEFE 24 contains the majority of surviving reports and public correspondence from 1977 onwards. It also explains that DEFE 24 contains edited copies of 1975–1980 UFO reports, prepared when the Ministry of Defence considered releasing UFO material to the public, with observers’ identities and home addresses deleted.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-A concrete anchor is the [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}) incident, one of the best-known British UFO cases. The UK National Archives has a page for DEFE 24/1948, described as a Ministry of Defence memo concerning the UFO sighting at Rendlesham Forest, and a highlights guide says that file covers the December 1980 sightings of lights outside RAF Woodbridge by U.S. Air Force personnel. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A concrete anchor is the [Rendlesham Forest]({{ 'rendlesham-forest/' | relative_url }}) incident, one of the best-known British UFO cases. The UK National Archives has a page for DEFE 24/1948, described as a Ministry of Defence memo concerning the UFO sighting at Rendlesham Forest, and a highlights guide says that file covers the December 1980 sightings of lights outside RAF Woodbridge by U.S. Air Force personnel.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The UK release programme also shows how administrative records can change the story readers tell about UFO reporting. A National Archives press release on the final tranche of Ministry of Defence UFO files said 25 files containing 4,400 pages covered the final two years of the MoD’s UFO desk, from late 2007 until November 2009, including policy, official correspondence with senior ministers and the handling of the largest number of UFO sighting reports received since 1978. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The UK release programme also shows how administrative records can change the story readers tell about UFO reporting. A National Archives press release on the final tranche of Ministry of Defence UFO files said 25 files containing 4,400 pages covered the final two years of the MoD’s UFO desk, from late 2007 until November 2009, including policy, official correspondence with senior ministers and the handling of the largest number of UFO sighting reports received since 1978.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For database users, the lesson is straightforward: national archive records may be less convenient than a modern searchable sightings table, but they are often better for answering institutional questions. Who was responsible? What did policy say? What was retained? What was destroyed? What did officials tell ministers or Parliament? Those are governance questions, and archives are built to preserve the paperwork that answers them.
 
@@ -432,7 +432,7 @@ Provenance helps prevent three common mistakes. The first is **flattening**: tre
 
 The second is **decontextualising**: pulling one sentence from a file without the surrounding correspondence, routing history, redactions or later explanation. A startling phrase in a memo may reflect a question under consideration, not a finding. The surrounding file may show whether an agency investigated, dismissed, escalated or merely logged the report.
 
-The third is **over-reading “unidentified”**. In an archive, “unidentified” may mean that a report was unresolved at the time, that evidence was insufficient, that no further inquiry was made, or that the available public copy lacks enough detail to identify the object. It does not automatically mean exotic technology, non-human origin or even a physically unusual event. The U.S. Air Force’s own Project Blue Book fact sheet says that after Blue Book ended, the regulation establishing the programme was rescinded, its documentation was transferred to the National Archives, and there was no evidence indicating that sightings categorised as unidentified were extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The third is **over-reading “unidentified”**. In an archive, “unidentified” may mean that a report was unresolved at the time, that evidence was insufficient, that no further inquiry was made, or that the available public copy lacks enough detail to identify the object. It does not automatically mean exotic technology, non-human origin or even a physically unusual event. The U.S. Air Force’s own Project Blue Book fact sheet says that after Blue Book ended, the regulation establishing the programme was rescinded, its documentation was transferred to the National Archives, and there was no evidence indicating that sightings categorised as unidentified were extraterrestrial vehicles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 At the same time, provenance also protects serious cases from being casually dismissed. If a claim can be traced to a catalogue record, a record group, a case file and an agency transfer, then readers can separate what the record actually says from what later commentators say about it. That is especially important for famous cases whose public narratives have been retold for decades.
 
@@ -450,7 +450,7 @@ A careful workflow looks like this:
 3. **Open the catalogue description before the scan.** The catalogue entry explains the record’s creator, series, date range and archival context.
 4. **Compare versions.** Check whether a scan is a redacted public copy, an edited copy, a microfilm copy, a catalogue image, a PDF release or a born-digital transfer.
 5. **Read around the sighting.** Administrative notes, covering letters, ministerial replies and technical comments can matter as much as the witness account.
-6. **Keep “not online” distinct from “not held”.** NARA’s pages repeatedly distinguish records in custody, records digitised in the catalogue and records available through reading rooms or specialist branches. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+6. **Keep “not online” distinct from “not held”.** NARA’s pages repeatedly distinguish records in custody, records digitised in the catalogue and records available through reading rooms or specialist branches.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 </div>
 
@@ -459,194 +459,194 @@ This approach does not make the archive a final judge of what happened in the sk
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/x7LnwdXuQsM" title="NEW National Archives Record Group 615—Forthcoming UAP Document Dump?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=x7LnwdXuQsM" target="_blank" rel="noopener noreferrer">NEW National Archives Record Group 615—Forthcoming UAP Document Dump?</a></p><p class="youtube-embed-meta">Channel: Secrecy Watch with R.W. Beckwith &middot; Views: 58 &middot; Uploaded: December 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=x7LnwdXuQsM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=x7LnwdXuQsM">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Finding Original UFO Records in Archives. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Finding Original UFO Records in Archives. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Connects directly to official case files and the historical record behind many archived UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects directly to official case files and the historical record behind many archived UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Helps readers interpret archival UFO files through classification and evidence standards rather than isolated quotations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers interpret archival UFO files through classification and evidence standards rather than isolated quotations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Introduces readers to official UFO testimony and documentary seriousness before they dig into archival sources.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduces readers to official UFO testimony and documentary seriousness before they dig into archival sources.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Directly addresses government UFO documentation and historical source trails, matching archive-based research.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses government UFO documentation and historical source trails, matching archive-based research.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gregg Louis, Everyday UFO No 14, Archival Digital Print"><img src="{{ '/assets/images/marketplace-covers/590fd64d49f16a07b8a7.jpg' | relative_url }}" alt="Listing image for Gregg Louis, Everyday UFO No 14, Archival Digital Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr" target="_blank" rel="sponsored noopener noreferrer">Gregg Louis, Everyday UFO No 14, Archival Digital Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO archival print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO archival print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gregg Louis, Everyday UFO No 14, Archival Digital Print"><img src="{{ '/assets/images/marketplace-covers/590fd64d49f16a07b8a7.jpg' | relative_url }}" alt="Listing image for Gregg Louis, Everyday UFO No 14, Archival Digital Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr" target="_blank" rel="sponsored noopener noreferrer">Gregg Louis, Everyday UFO No 14, Archival Digital Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO archival print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO archival print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gregg Louis, Everyday UFO No 14, Archival Digital Print"><img src="{{ '/assets/images/marketplace-covers/590fd64d49f16a07b8a7.jpg' | relative_url }}" alt="Listing image for Gregg Louis, Everyday UFO No 14, Archival Digital Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr" target="_blank" rel="sponsored noopener noreferrer">Gregg Louis, Everyday UFO No 14, Archival Digital Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO archival print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO archival print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gregg Louis, Everyday UFO No 14, Archival Digital Print"><img src="{{ '/assets/images/marketplace-covers/590fd64d49f16a07b8a7.jpg' | relative_url }}" alt="Listing image for Gregg Louis, Everyday UFO No 14, Archival Digital Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr" target="_blank" rel="sponsored noopener noreferrer">Gregg Louis, Everyday UFO No 14, Archival Digital Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO archival print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO archival print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &quot;Aliens Making Crop Circles&quot; Archival Print Poster 12&quot;x18&quot; Area 51 Roswell UFO"><img src="{{ '/assets/images/marketplace-covers/30ae8deb125b36083056.jpg' | relative_url }}" alt="Listing image for &quot;Aliens Making Crop Circles&quot; Archival Print Poster 12&quot;x18&quot; Area 51 Roswell UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr" target="_blank" rel="sponsored noopener noreferrer">&quot;Aliens Making Crop Circles&quot; Archival Print Poster 12&quot;x18&quot; Area 51 Roswell UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO archival print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO archival print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &quot;Aliens Making Crop Circles&quot; Archival Print Poster 12&quot;x18&quot; Area 51 Roswell UFO"><img src="{{ '/assets/images/marketplace-covers/30ae8deb125b36083056.jpg' | relative_url }}" alt="Listing image for &quot;Aliens Making Crop Circles&quot; Archival Print Poster 12&quot;x18&quot; Area 51 Roswell UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr" target="_blank" rel="sponsored noopener noreferrer">&quot;Aliens Making Crop Circles&quot; Archival Print Poster 12&quot;x18&quot; Area 51 Roswell UFO</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO archival print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO archival print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gregg Louis, Everyday UFO No 17, Archival Digital Print"><img src="{{ '/assets/images/marketplace-covers/ec19cb68a6c45bde4c05.jpg' | relative_url }}" alt="Listing image for Gregg Louis, Everyday UFO No 17, Archival Digital Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr" target="_blank" rel="sponsored noopener noreferrer">Gregg Louis, Everyday UFO No 17, Archival Digital Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO archival print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO archival print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gregg Louis, Everyday UFO No 17, Archival Digital Print"><img src="{{ '/assets/images/marketplace-covers/ec19cb68a6c45bde4c05.jpg' | relative_url }}" alt="Listing image for Gregg Louis, Everyday UFO No 17, Archival Digital Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr" target="_blank" rel="sponsored noopener noreferrer">Gregg Louis, Everyday UFO No 17, Archival Digital Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO archival print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO archival print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="archives-finding-original-ufo-records-in-archives-ufo-report-databases-and-catalogues-ufo-archival-print-book-books-gerr" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -662,7 +662,7 @@ This approach does not make the archive a final judge of what happened in the sk
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -682,7 +682,7 @@ This approach does not make the archive a final judge of what happened in the sk
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -714,7 +714,7 @@ This approach does not make the archive a final judge of what happened in the sk
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -766,7 +766,7 @@ This approach does not make the archive a final judge of what happened in the sk
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -811,7 +811,7 @@ This approach does not make the archive a final judge of what happened in the sk
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -852,300 +852,300 @@ This approach does not make the archive a final judge of what happened in the sk
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-615" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-615</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/rg-615" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-615</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archives.gov  
    Title: National Archives Unidentified Anomalous Phenomena Records Collection  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/faqs</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/faqs</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download</a>  
+   Link:<a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/records-mgmt/memos/ac-04-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/memos/ac-04-2025</a>  
+   Link:<a href="https://www.archives.gov/records-mgmt/memos/ac" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/memos/ac</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: fold3.com  
-   Link: <a href="https://www.fold3.com/pdf/T1206.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/pdf/T1206.pdf</a>  
+   Link:<a href="https://www.fold3.com/pdf/T1206.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/pdf/T1206.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
+   Link:<a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: archives.gov  
    Title: moving images and sound  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: unwritten-record.blogs.archives.gov  
    Title: The Unwritten Record Project Blue Book  
-   Link: <a href="https://unwritten-record.blogs.archives.gov/tag/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/tag/project-blue-book/</a>  
+   Link:<a href="https://unwritten-record.blogs.archives.gov/tag/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/tag/project-blue-book/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: unwritten-record.blogs.archives.gov  
    Title: project blue book ufos in home movies  
-   Link: <a href="https://unwritten-record.blogs.archives.gov/2013/10/28/project-blue-book-ufos-in-home-movies/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2013/10/28/project-blue-book-ufos-in-home-movies/</a>  
+   Link:<a href="https://unwritten-record.blogs.archives.gov/2013/10/28/project-blue-book-ufos-in-home-movies/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2013/10/28/project-blue-book-ufos-in-home-movies/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/foia/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/foia/ufos.html</a>  
+   Link:<a href="https://www.archives.gov/foia/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/foia/ufos.html</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: archives.gov  
    Title: textual and microfilm  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/textual-and-microfilm" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/textual-and-microfilm</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/textual-and-microfilm" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/textual-and-microfilm</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: archives.gov  
    Title: do records show proof of ufos  
-   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
+   Link:<a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: archives.gov  
    Title: presidential libraries  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/presidential-libraries" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/presidential-libraries</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/presidential-libraries" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/presidential-libraries</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: archives.gov  
    Title: nr25 07  
-   Link: <a href="https://www.archives.gov/press/press-releases/2025/nr25-07" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/press/press-releases/2025/nr25-07</a>  
+   Link:<a href="https://www.archives.gov/press/press-releases/2025/nr25-07" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/press/press-releases/2025/nr25-07</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: archives.gov  
    Title: rfk files uap records april 2025  
-   Link: <a href="https://www.archives.gov/news/articles/rfk-files-uap-records-april-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/rfk-files-uap-records-april-2025</a>  
+   Link:<a href="https://www.archives.gov/news/articles/rfk-files-uap-records-april-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/rfk-files-uap-records-april-2025</a>  
    Published: april 2025  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: archives.gov  
    Title: still pictures 342  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/still-pictures-342" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/still-pictures-342</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/still-pictures-342" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/still-pictures-342</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: archives.gov  
    Title: uap guidance  
-   Link: <a href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/uap-guidance</a>  
+   Link:<a href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/uap-guidance</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: archives.gov  
    Title: Record Group 615  
-   Link: <a href="https://www.archives.gov/findingaid/stat/discovery/615" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/findingaid/stat/discovery/615</a>  
+   Link:<a href="https://www.archives.gov/findingaid/stat/discovery/615" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/findingaid/stat/discovery/615</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/publications" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/publications</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/publications" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/publications</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: archives.gov  
    Title: memos to agency records officers  
-   Link: <a href="https://www.archives.gov/records-mgmt/policy/memos-to-agency-records-officers.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/policy/memos-to-agency-records-officers.html</a>  
+   Link:<a href="https://www.archives.gov/records-mgmt/policy/memos-to-agency-records-officers.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/policy/memos-to-agency-records-officers.html</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: unwritten-record.blogs.archives.gov  
    Title: aliens at the archives  
-   Link: <a href="https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/</a>  
+   Link:<a href="https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: unwritten-record.blogs.archives.gov  
-   Link: <a href="https://unwritten-record.blogs.archives.gov/tag/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/tag/ufos/</a>  
+   Link:<a href="https://unwritten-record.blogs.archives.gov/tag/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/tag/ufos/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: unwritten-record.blogs.archives.gov  
-   Link: <a href="https://unwritten-record.blogs.archives.gov/tag/united-states-air-force-usaf/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/tag/united-states-air-force-usaf/page/2/</a>  
+   Link:<a href="https://unwritten-record.blogs.archives.gov/tag/united-states-air-force-usaf/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/tag/united-states-air-force-usaf/page/2/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: unwritten-record.blogs.archives.gov  
-   Link: <a href="https://unwritten-record.blogs.archives.gov/page/68/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/page/68/</a>  
+   Link:<a href="https://unwritten-record.blogs.archives.gov/page/68/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/page/68/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: unwritten-record.blogs.archives.gov  
-   Link: <a href="https://unwritten-record.blogs.archives.gov/2013/10/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2013/10/</a>  
+   Link:<a href="https://unwritten-record.blogs.archives.gov/2013/10/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2013/10/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: unwritten-record.blogs.archives.gov  
-   Link: <a href="https://unwritten-record.blogs.archives.gov/author/aamidon/page/7/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/author/aamidon/page/7/</a>  
+   Link:<a href="https://unwritten-record.blogs.archives.gov/author/aamidon/page/7/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/author/aamidon/page/7/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/download/resourcesforrese00unit/resourcesforrese00unit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/resourcesforrese00unit/resourcesforrese00unit.pdf</a>  
+   Link:<a href="https://archive.org/download/resourcesforrese00unit/resourcesforrese00unit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/resourcesforrese00unit/resourcesforrese00unit.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=d1cHYS5KL_0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=d1cHYS5KL_0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives Unidentified Anomalous Phenomena Records Collection Record Group 615 Trump Just Forced Open the UFO Files... There Is N...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=d1cHYS5KL_0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=d1cHYS5KL_0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives Unidentified Anomalous Phenomena Records Collection Record Group 615 Trump Just Forced Open the UFO Files... There Is N...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives Unidentified Flying Objects (UFOs)  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link: <a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: aug 2009 highlights guide  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/</a>  
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/catalogue/displaycataloguedetails.asp?CATID=-6183241&amp;CATLN=7&amp;CATREF=DEFE%2F1978%2F1&amp;SearchInit=4&amp;SearchType=6" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/catalogue/displaycataloguedetails.asp?CATID=-6183241&amp;CATLN=7&amp;CATREF=DEFE%2F1978%2F1&amp;SearchInit=4&amp;SearchType=6</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/catalogue/displaycataloguedetails.asp?CATID=-6183241&amp;CATLN=7&amp;CATREF=DEFE%2F1978%2F1&amp;SearchInit=4&amp;SearchType=6" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/catalogue/displaycataloguedetails.asp?CATID=-6183241&amp;CATLN=7&amp;CATREF=DEFE%2F1978%2F1&amp;SearchInit=4&amp;SearchType=6</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/catalogue/displaycataloguedetails.asp?CATID=8880566&amp;CATLN=6&amp;j=1" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/catalogue/displaycataloguedetails.asp?CATID=8880566&amp;CATLN=6&amp;j=1</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/catalogue/displaycataloguedetails.asp?CATID=8880566&amp;CATLN=6&amp;j=1" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/catalogue/displaycataloguedetails.asp?CATID=8880566&amp;CATLN=6&amp;j=1</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/intelligence-and-security-services/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/intelligence-and-security-services/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/intelligence-and-security-services/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/intelligence-and-security-services/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: nationalarchives.gov.ukchapter 1  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/bsi-0004.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/bsi-0004.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/bsi-0004.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/bsi-0004.pdf</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: nationalarchives.gov.uk  
    Title: Help with your research Archives  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/records-2/page/4/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/4/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/records-2/page/4/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/4/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: nationalarchives.gov.uk  
    Title: new-chat Archives  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/new-chat/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/new-chat/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/new-chat/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/new-chat/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/records-2/page/17/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/17/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/records-2/page/17/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/17/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: Wikipedia  
    Title: National Archives and Records Administration  
-   Link: <a href="https://en.wikipedia.org/wiki/National_Archives_and_Records_Administration" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Archives_and_Records_Administration</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/National_Archives_and_Records_Administration" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Archives_and_Records_Administration</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/the-national-archives-is-digitizing-thousands-of-declassified-ufo-related-record/323036253436732/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/the-national-archives-is-digitizing-thousands-of-declassified-ufo-related-record/323036253436732/</a>  
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/the-national-archives-is-digitizing-thousands-of-declassified-ufo-related-record/323036253436732/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/the-national-archives-is-digitizing-thousands-of-declassified-ufo-related-record/323036253436732/</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: uk.forceswarrecords.com  
-   Link: <a href="https://uk.forceswarrecords.com/document/9169710" target="_blank" rel="noopener noreferrer nofollow">https://uk.forceswarrecords.com/document/9169710</a>  
+   Link:<a href="https://uk.forceswarrecords.com/document/9169710" target="_blank" rel="noopener noreferrer nofollow">https://uk.forceswarrecords.com/document/9169710</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: nextgov.com  
    Title: national archives tees new rules ufo records  
-   Link: <a href="https://www.nextgov.com/digital-government/2024/02/national-archives-tees-new-rules-ufo-records/393982/" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/digital-government/2024/02/national-archives-tees-new-rules-ufo-records/393982/</a>  
+   Link:<a href="https://www.nextgov.com/digital-government/2024/02/national-archives-tees-new-rules-ufo-records/393982/" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/digital-government/2024/02/national-archives-tees-new-rules-ufo-records/393982/</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 ### Additional References
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: youtube.com  
    Title: USAF UFO Sightings, California  
-   Link: <a href="http://www.youtube.com/watch?v=RUhnFIAUkQM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=RUhnFIAUkQM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Interview — Lt. Col. Tacker &amp; Maj. Quintanilla on Project Blue Book (1966) | National Archives...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=RUhnFIAUkQM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=RUhnFIAUkQM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Interview — Lt. Col. Tacker &amp; Maj. Quintanilla on Project Blue Book (1966) | National Archives...</p></details>
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=wy1qDwPhaVM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=wy1qDwPhaVM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USAF UFO Sightings, California - The National Archives Catalog UAP Records (342-usaf-49377-r1)...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=wy1qDwPhaVM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=wy1qDwPhaVM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USAF UFO Sightings, California - The National Archives Catalog UAP Records (342-usaf-49377-r1)...</p></details>
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: youtube.com  
    Title: UFO Project Blue Book at National Archives Museum  
-   Link: <a href="http://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=JHeZjJgO9Ns</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book, 1950–1966 - The National Archives Catalog UAP Records (341-pbb-492)...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=JHeZjJgO9Ns</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book, 1950–1966 - The National Archives Catalog UAP Records (341-pbb-492)...</p></details>
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: youtube.com  
    Title: NEW National Archives Record Group 615—Forthcoming UAP Document Dump?  
-   Link: <a href="http://www.youtube.com/watch?v=x7LnwdXuQsM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=x7LnwdXuQsM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Project Blue Book at National Archives Museum...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=x7LnwdXuQsM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=x7LnwdXuQsM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Project Blue Book at National Archives Museum...</p></details>
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: archivesfoundation.org  
-   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
+   Link:<a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/</a>  
+   Link:<a href="https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: docsteach.org  
-   Link: <a href="https://docsteach.org/document/project-blue-book-status-report-number-eight/" target="_blank" rel="noopener noreferrer nofollow">https://docsteach.org/document/project-blue-book-status-report-number-eight/</a>  
+   Link:<a href="https://docsteach.org/document/project-blue-book-status-report-number-eight/" target="_blank" rel="noopener noreferrer nofollow">https://docsteach.org/document/project-blue-book-status-report-number-eight/</a>  
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40pavelzlatnk/when-disclosure-doesnt-mean-disclosure-ebad49d893b9" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40pavelzlatnk/when-disclosure-doesnt-mean-disclosure-ebad49d893b9</a>  
+   Link:<a href="https://medium.com/%40pavelzlatnk/when-disclosure-doesnt-mean-disclosure-ebad49d893b9" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40pavelzlatnk/when-disclosure-doesnt-mean-disclosure-ebad49d893b9</a>  
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: insidegovernmentcontracts.com  
-   Link: <a href="https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/" target="_blank" rel="noopener noreferrer nofollow">https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/</a>  
+   Link:<a href="https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/" target="_blank" rel="noopener noreferrer nofollow">https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/</a>  
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: storage.ghost.io  
-   Link: <a href="https://storage.ghost.io/c/c0/be/c0be35e5-1c72-42e1-af60-00793bc5b49d/content/files/2024/07/UAP-pages-only--final--from-NDAA--HR-2670--and-Joint-Explanatory-Statement-12-6-23.pdf" target="_blank" rel="noopener noreferrer nofollow">https://storage.ghost.io/c/c0/be/c0be35e5-1c72-42e1-af60-00793bc5b49d/content/files/2024/07/UAP-pages-only--final--from-NDAA--HR-2670--and-Joint-Explanatory-Statement-12-6-23.pdf</a>
+   Link:<a href="https://storage.ghost.io/c/c0/be/c0be35e5-1c72-42e1-af60-00793bc5b49d/content/files/2024/07/UAP-pages-only--final--from-NDAA--HR-2670--and-Joint-Explanatory-Statement-12-6-23.pdf" target="_blank" rel="noopener noreferrer nofollow">https://storage.ghost.io/c/c0/be/c0be35e5-1c72-42e1-af60-00793bc5b49d/content/files/2024/07/UAP-pages-only--final--from-NDAA--HR-2670--and-Joint-Explanatory-Statement-12-6-23.pdf</a>

@@ -324,194 +324,194 @@ By being aware of what often gets misreported, both casual observers and dedicat
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/e-WDx7byI0k" title="UFO&#x27;s Over Palmdale August 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=e-WDx7byI0k" target="_blank" rel="noopener noreferrer">UFO&#x27;s Over Palmdale August 2022</a></p><p class="youtube-embed-meta">Channel: FADE TO BLACK Radio &middot; Views: 5.2K &middot; Uploaded: November 2022 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=e-WDx7byI0k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=e-WDx7byI0k">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Top Causes of Misidentified UFO Sightings. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Top Causes of Misidentified UFO Sightings. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Useful for readers who want credible UAP discussion after learning common misidentification causes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for readers who want credible UAP discussion after learning common misidentification causes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek&#x27;s framework is directly relevant to evaluating misidentified sightings and residual unknowns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek&#x27;s framework is directly relevant to evaluating misidentified sightings and residual unknowns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IQhUzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IQhUzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
         
-        <p class="fr-book-desc">Helps explain planets, satellites, meteors, and other common astronomical sources of UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain planets, satellites, meteors, and other common astronomical sources of UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Directly supports critical thinking about extraordinary claims, perception, and mundane explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Directly supports critical thinking about extraordinary claims, perception, and mundane explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Backyard Astronomer&#x27;s books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Backyard Astronomer&#x27;s books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="misidentifications-815a14-top-causes-of-misidentified-ufo-sightings-ufo-report-databases-and-cat-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -527,7 +527,7 @@ By being aware of what often gets misreported, both casual observers and dedicat
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -547,7 +547,7 @@ By being aware of what often gets misreported, both casual observers and dedicat
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -579,7 +579,7 @@ By being aware of what often gets misreported, both casual observers and dedicat
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -631,7 +631,7 @@ By being aware of what often gets misreported, both casual observers and dedicat
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -676,7 +676,7 @@ By being aware of what often gets misreported, both casual observers and dedicat
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -717,115 +717,115 @@ By being aware of what often gets misreported, both casual observers and dedicat
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
    Title: 722 new ufo reports  
-   Link: <a href="https://nuforc.org/722-new-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/722-new-ufo-reports/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>722 New UFO Reports Posted | NUFORCJuly 10, 2023...</p></details>
+   Link:<a href="https://nuforc.org/722-new-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/722-new-ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>722 New UFO Reports Posted | NUFORCJuly 10, 2023...</p></details>
    Published: July 10, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nuforc.org  
    Title: report a ufo  
-   Link: <a href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/report-a-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>File a UFO Report | NUFORCSeptember 13, 2021...</p></details>
+   Link:<a href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/report-a-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>File a UFO Report | NUFORCSeptember 13, 2021...</p></details>
    Published: September 13, 2021  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sky-lens.com  
    Title: Sky Lens Most Commonly Misidentified Sky Objects — Sky Lens Field Guide  
-   Link: <a href="https://sky-lens.com/guide/common-confusables" target="_blank" rel="noopener noreferrer nofollow">https://sky-lens.com/guide/common-confusables</a>  
+   Link:<a href="https://sky-lens.com/guide/common-confusables" target="_blank" rel="noopener noreferrer nofollow">https://sky-lens.com/guide/common-confusables</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: [aaro](&#123;&#123; 'aaro/' | relative_url &#125;&#125;). mil  
    Title: AAR O FAQ  
-   Link: <a href="https://www.aaro.mil/FAQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/FAQ/</a>  
+   Link:<a href="https://www.aaro.mil/FAQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/FAQ/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Identification studies of UFOs  
-   Link: <a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=191181" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=191181</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 191181July 24, 2025 — NUFORC UFO SIGHTING 191181 Occurred: 2025-07-23 04:35 Local Reported: 2025-07-22 21:08 Pacific...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=191181" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=191181</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 191181July 24, 2025 — NUFORC UFO SIGHTING 191181 Occurred: 2025-07-23 04:35 Local Reported: 2025-07-22 21:08 Pacific...</p></details>
    Published: July 23, 2025  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/webreports/reports/173/S173130.html" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/webreports/reports/173/S173130.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 173130December 22, 2022 — NUFORC UFO SIGHTING 173130 Occurred: 2022-10-27 18:21 Local Reported: 2022-11-21 09:00 Paci...</p></details>
+   Link:<a href="https://nuforc.org/webreports/reports/173/S173130.html" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/webreports/reports/173/S173130.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 173130December 22, 2022 — NUFORC UFO SIGHTING 173130 Occurred: 2022-10-27 18:21 Local Reported: 2022-11-21 09:00 Paci...</p></details>
    Published: October 27, 2022  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nuforc.org  
    Title: For 25 years, it ha  
-   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021 — THE NATIONAL UFO REPORTING CENTER ONLINE DATABASE Image The NUFORC Databank...</p></details>
+   Link:<a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021 — THE NATIONAL UFO REPORTING CENTER ONLINE DATABASE Image The NUFORC Databank...</p></details>
    Published: September 6, 2021  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sky-lens.com  
-   Link: <a href="https://sky-lens.com/guide-fr/common-confusables" target="_blank" rel="noopener noreferrer nofollow">https://sky-lens.com/guide-fr/common-confusables</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Apprenez-les et votre taux de faux positifs chute dramatiquement. Ob...</p></details>
+   Link:<a href="https://sky-lens.com/guide-fr/common-confusables" target="_blank" rel="noopener noreferrer nofollow">https://sky-lens.com/guide-fr/common-confusables</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Apprenez-les et votre taux de faux positifs chute dramatiquement. Ob...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aliencouncil.com  
-   Link: <a href="https://aliencouncil.com/guides/fg-036-five-confused-mundane-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://aliencouncil.com/guides/fg-036-five-confused-mundane-phenomena/</a>  
+   Link:<a href="https://aliencouncil.com/guides/fg-036-five-confused-mundane-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://aliencouncil.com/guides/fg-036-five-confused-mundane-phenomena/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: hangar1publishing.com  
-   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/national-ufo-reporting-center-nuforc" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/national-ufo-reporting-center-nuforc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the National UFO Reporting Center (NUFORC) – Hangar1publishingA NEW ERA UNDER PETER DAVENPORT: EXPANSION AND DIGITAL TRANSF...</p></details>
+   Link:<a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/national-ufo-reporting-center-nuforc" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/national-ufo-reporting-center-nuforc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the National UFO Reporting Center (NUFORC) – Hangar1publishingA NEW ERA UNDER PETER DAVENPORT: EXPANSION AND DIGITAL TRANSF...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: iflscience.com  
-   Link: <a href="https://www.iflscience.com/where-are-you-most-likely-to-spot-ufos-we-took-a-peek-inside-the-uss-biggest-alien-sighting-database-79918" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/where-are-you-most-likely-to-spot-ufos-we-took-a-peek-inside-the-uss-biggest-alien-sighting-database-79918</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We Took A Peek Inside The US’s Biggest &quot;Alien&quot; Sighting Database | IFLScienceJuly 9, 2025 — COMMON CULPRITS MISTAKEN FOR UFOS There are s...</p></details>
+   Link:<a href="https://www.iflscience.com/where-are-you-most-likely-to-spot-ufos-we-took-a-peek-inside-the-uss-biggest-alien-sighting-database-79918" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/where-are-you-most-likely-to-spot-ufos-we-took-a-peek-inside-the-uss-biggest-alien-sighting-database-79918</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We Took A Peek Inside The US’s Biggest &quot;Alien&quot; Sighting Database | IFLScienceJuly 9, 2025 — COMMON CULPRITS MISTAKEN FOR UFOS There are s...</p></details>
    Published: July 9, 2025  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ufos.wiki  
-   Link: <a href="https://ufos.wiki/investigate/" target="_blank" rel="noopener noreferrer nofollow">https://ufos.wiki/investigate/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ufologist generally agree approximately 90% of UFO reports can be found to have conventional explanations. We recommend el...</p></details>
+   Link:<a href="https://ufos.wiki/investigate/" target="_blank" rel="noopener noreferrer nofollow">https://ufos.wiki/investigate/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ufologist generally agree approximately 90% of UFO reports can be found to have conventional explanations. We recommend el...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ufotimelineproject.com  
-   Link: <a href="https://www.ufotimelineproject.com/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.ufotimelineproject.com/ufo-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Discover Contact us WHY SIGHTINGS MATTER Sightings are the front door of UFO/UAP research. They&#x27;re messy, human, and...</p></details>
+   Link:<a href="https://www.ufotimelineproject.com/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.ufotimelineproject.com/ufo-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Discover Contact us WHY SIGHTINGS MATTER Sightings are the front door of UFO/UAP research. They&#x27;re messy, human, and...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: science.nasa.gov  
    Title: Full image and caption NASA/Bill Dunford by Dave Prospe  
-   Link: <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and UAPs - NASA ScienceDecember 1, 2013 — 4 min read IDENTIFYING UFOS AND UAPS Night Sky Network Dec 01, 2013 Article Bright Venus s...</p></details>
+   Link:<a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and UAPs - NASA ScienceDecember 1, 2013 — 4 min read IDENTIFYING UFOS AND UAPS Night Sky Network Dec 01, 2013 Article Bright Venus s...</p></details>
    Published: December 1, 2013  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: arstechnica.com  
    Title: A lot of people are mistaking Elon Musk’s Starlink satellites for UAPs  
-   Link: <a href="https://arstechnica.com/space/2024/11/a-lot-of-people-are-mistaking-elon-musks-starlink-satellites-for-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/space/2024/11/a-lot-of-people-are-mistaking-elon-musks-starlink-satellites-for-uaps/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ars TechnicaNovember 15, 2024 — A LOT OF PEOPLE ARE MISTAKING ELON MUSK’S STARLINK SATELLITES FOR UAPS “We were able to assess that they...</p></details>
+   Link:<a href="https://arstechnica.com/space/2024/11/a-lot-of-people-are-mistaking-elon-musks-starlink-satellites-for-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/space/2024/11/a-lot-of-people-are-mistaking-elon-musks-starlink-satellites-for-uaps/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ars TechnicaNovember 15, 2024 — A LOT OF PEOPLE ARE MISTAKING ELON MUSK’S STARLINK SATELLITES FOR UAPS “We were able to assess that they...</p></details>
    Published: November 15, 2024  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: aerial-phenomenon.org  
    Title: Common Identified Flying Objects – Aerial Phenomena Investigations  
-   Link: <a href="https://aerial-phenomenon.org/?page_id=57137" target="_blank" rel="noopener noreferrer nofollow">https://aerial-phenomenon.org/?page_id=57137</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 29, 2026 — Image: Aerial Phenomena Investigations Aerial Phenomena Investigations UFO Reports, Investigations, Research &amp; Analysis...</p></details>
+   Link:<a href="https://aerial-phenomenon.org/?page_id=57137" target="_blank" rel="noopener noreferrer nofollow">https://aerial-phenomenon.org/?page_id=57137</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 29, 2026 — Image: Aerial Phenomena Investigations Aerial Phenomena Investigations UFO Reports, Investigations, Research &amp; Analysis...</p></details>
    Published: April 29, 2026  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=NGAtZaNfshE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NGAtZaNfshE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellite mistaken for UFO NUFORC SpaceX &amp; Starlinks are often mistaken for UAP - Racetrack UAP #aviation [Enigma](&amp;#123;&amp;#123; &#x27;enigma/&#x27; | relative_url &amp;#125;&amp;#125;) Labs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=NGAtZaNfshE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NGAtZaNfshE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellite mistaken for UFO NUFORC SpaceX &amp; Starlinks are often mistaken for UAP - Racetrack UAP #aviation [Enigma](&amp;#123;&amp;#123; &#x27;enigma/&#x27; | relative_url &amp;#125;&amp;#125;) Labs...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: higgypop.com  
    Title: A study conduct by Sam Monfort, a doctoral  
-   Link: <a href="https://www.higgypop.com/news/10-most-common-explanations-for-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.higgypop.com/news/10-most-common-explanations-for-ufo-sightings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Most Common Explanations For UFO Sightings | HiggypopJanuary 8, 2017 — UFOs 10 MOST COMMON EXPLANATIONS FOR UFO SIGHTINGS January 08...</p></details>
+   Link:<a href="https://www.higgypop.com/news/10-most-common-explanations-for-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.higgypop.com/news/10-most-common-explanations-for-ufo-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Most Common Explanations For UFO Sightings | HiggypopJanuary 8, 2017 — UFOs 10 MOST COMMON EXPLANATIONS FOR UFO SIGHTINGS January 08...</p></details>
    Published: January 8, 2017

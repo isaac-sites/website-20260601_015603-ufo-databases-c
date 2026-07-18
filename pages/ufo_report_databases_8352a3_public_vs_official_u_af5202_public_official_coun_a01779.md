@@ -273,19 +273,19 @@ Public UFO sighting totals and official UAP case counts often appear wildly diff
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202_public_official_coun_a01779-Illustration-1-dark.svg" | relative_url }}" alt="Count Gaps illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202_public_official_coun_a01779-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202_public_official_coun_a01779-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Each Count Actually Measures
 
-Civilian sighting totals — such as those in the **National UFO Reporting Center** archive — are built from **voluntary reports from the public** submitted via online forms, hotlines and other open channels. Over decades, this has yielded many **tens of thousands of submitted narratives**, each reflecting a witness’s perception of something unusual in the sky, whether or not that object was ever sensor‑tracked or physically corroborated. These tallies include brief notes, single‑witness accounts, and submissions lacking precise localisation or confirming data; many duplicate observations from different witnesses also exist in the collection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uapedia.ai/wiki/nuforc-mufon-civilian-data-sources/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[UAPedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-title">Unlocking New Realities NUFORC &amp; MUFON: Civilian Data Sources</span><span class="citation-popover-snippet">Unlocking New RealitiesNUFORC &amp; MUFON: Civilian Data Sources - UAPediaNovember 7, 2025...</span><span class="citation-popover-meta">Published: November 7, 2025</span></span></span> - Unlocking New Realities
+Civilian sighting totals — such as those in the **National UFO Reporting Center** archive — are built from **voluntary reports from the public** submitted via online forms, hotlines and other open channels. Over decades, this has yielded many **tens of thousands of submitted narratives**, each reflecting a witness’s perception of something unusual in the sky, whether or not that object was ever sensor‑tracked or physically corroborated. These tallies include brief notes, single‑witness accounts, and submissions lacking precise localisation or confirming data; many duplicate observations from different witnesses also exist in the collection.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uapedia.ai/wiki/nuforc-mufon-civilian-data-sources/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[UAPedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-title">Unlocking New Realities NUFORC &amp; MUFON: Civilian Data Sources</span><span class="citation-popover-snippet">Unlocking New RealitiesNUFORC &amp; MUFON: Civilian Data Sources - UAPediaNovember 7, 2025...</span><span class="citation-popover-meta">Published: November 7, 2025</span></span></span> - Unlocking New Realities
 
-Official UAP case counts kept by government bodies — such as the U.S. Department of Defence’s All‑domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) or historical military reporting systems — represent a **much narrower subset of events**. These are instances that have been recorded through structured institutional reporting channels (e.g., military reports, aviation safety systems, radar logs), vetted for procedural completeness, and logged into controlled [archives]({{ 'archives/' | relative_url }}). A notable example is the U.S. intelligence reports to Congress that covered around 144 or 510 UAP incidents documented from military sensors and formal mechanisms over specific multi‑year periods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn environmental analysis of public UAP sightings and sky view potential</span><span class="citation-popover-snippet">December 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>
+Official UAP case counts kept by government bodies — such as the U.S. Department of Defence’s All‑domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) or historical military reporting systems — represent a **much narrower subset of events**. These are instances that have been recorded through structured institutional reporting channels (e.g., military reports, aviation safety systems, radar logs), vetted for procedural completeness, and logged into controlled [archives]({{ 'archives/' | relative_url }}). A notable example is the U.S. intelligence reports to Congress that covered around 144 or 510 UAP incidents documented from military sensors and formal mechanisms over specific multi‑year periods.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn environmental analysis of public UAP sightings and sky view potential</span><span class="citation-popover-snippet">December 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>
 
 The difference in scope is fundamental: **civilian totals count raw submissions**, whereas **official numbers count processed, verified or actionable cases** — often with accompanying sensor data or testimonial traceability.
 
 ## How Self‑Selection and Institutional Filters Change Totals
 
-The civilian reporting environment is inherently **self‑selecting**. Members of the public report based on interest, perception, and motivation; high media attention or cultural events often spur spikes in submissions. Civil databases accept any report fitting their criteria and make it part of the public record, regardless of evidence quality. This generates large yearly totals (e.g., several thousand in some [NUFORC]({{ 'nuforc/' | relative_url }}) estimates) and long historical series. <span class="citation-chip-wrap"><a class="citation-chip" href="https://anythingcounter.com/ufo-sightings-per-day" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anythingcounter.com">[AnythingCounter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anythingcounter.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The civilian reporting environment is inherently **self‑selecting**. Members of the public report based on interest, perception, and motivation; high media attention or cultural events often spur spikes in submissions. Civil databases accept any report fitting their criteria and make it part of the public record, regardless of evidence quality. This generates large yearly totals (e.g., several thousand in some [NUFORC]({{ 'nuforc/' | relative_url }}) estimates) and long historical series.<span class="citation-chip-wrap"><a class="citation-chip" href="https://anythingcounter.com/ufo-sightings-per-day" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anythingcounter.com">[AnythingCounter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anythingcounter.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Government reporting is governed by **institutional filters**:
 
-* **Restricted reporting pathways:** Official systems often require specific roles, training, or procedural channels. For example, military personnel and aviation professionals must report through command structures rather than public forms. Many commercial pilots and [air traffic]({{ 'air-traffic/' | relative_url }}) controllers are still encouraged to use civilian reporting channels for UAP sightings because the FAA does not maintain its own central UFO/UAP catalogue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/suzannerowankelleher/2021/06/26/faa-ufo-uap-sightings-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">The FAA Does Not Track UFO Sightings By Commercial Airline Pilots—But Here’s Who DoesJune 26, 2021...</span><span class="citation-popover-meta">Published: June 26, 2021</span></span></span>
+* **Restricted reporting pathways:** Official systems often require specific roles, training, or procedural channels. For example, military personnel and aviation professionals must report through command structures rather than public forms. Many commercial pilots and [air traffic]({{ 'air-traffic/' | relative_url }}) controllers are still encouraged to use civilian reporting channels for UAP sightings because the FAA does not maintain its own central UFO/UAP catalogue.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/suzannerowankelleher/2021/06/26/faa-ufo-uap-sightings-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">The FAA Does Not Track UFO Sightings By Commercial Airline Pilots—But Here’s Who DoesJune 26, 2021...</span><span class="citation-popover-meta">Published: June 26, 2021</span></span></span>
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -317,194 +317,194 @@ By recognising that **public counts and official case totals reflect separate pa
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202_public_official_coun_a01779-Illustration-3-dark.svg" | relative_url }}" alt="Count Gaps illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202_public_official_coun_a01779-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_public_vs_official_u_af5202_public_official_coun_a01779-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why UFO report counts never match. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why UFO report counts never match. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Shows how official investigative counts and classifications were produced.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how official investigative counts and classifications were produced.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Excellent fit for comparing public and official UFO reporting systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Excellent fit for comparing public and official UFO reporting systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Explains how official case counts differ from public reporting totals.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how official case counts differ from public reporting totals.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Useful for evaluating witness claims, extraordinary evidence and database interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Useful for evaluating witness claims, extraordinary evidence and database interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for McMinnville UFO Photo Model – 3D Printed UAP Collectible – Retro Sci-Fi Geek Gif"><img src="{{ '/assets/images/marketplace-covers/d04800e732c49332d0b2.jpg' | relative_url }}" alt="Listing image for McMinnville UFO Photo Model – 3D Printed UAP Collectible – Retro Sci-Fi Geek Gif" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">McMinnville UFO Photo Model – 3D Printed UAP Collectible – Retro Sci-Fi Geek Gif</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for McMinnville UFO Photo Model – 3D Printed UAP Collectible – Retro Sci-Fi Geek Gif"><img src="{{ '/assets/images/marketplace-covers/d04800e732c49332d0b2.jpg' | relative_url }}" alt="Listing image for McMinnville UFO Photo Model – 3D Printed UAP Collectible – Retro Sci-Fi Geek Gif" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">McMinnville UFO Photo Model – 3D Printed UAP Collectible – Retro Sci-Fi Geek Gif</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible"><img src="{{ '/assets/images/marketplace-covers/311e792dddced7598d86.jpg' | relative_url }}" alt="Listing image for Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible"><img src="{{ '/assets/images/marketplace-covers/311e792dddced7598d86.jpg' | relative_url }}" alt="Listing image for Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="count-gaps-why-ufo-report-counts-never-match-ufo-report-databases-and-catalogues-ufo-collectible-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -520,7 +520,7 @@ By recognising that **public counts and official case totals reflect separate pa
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -540,7 +540,7 @@ By recognising that **public counts and official case totals reflect separate pa
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -572,7 +572,7 @@ By recognising that **public counts and official case totals reflect separate pa
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -624,7 +624,7 @@ By recognising that **public counts and official case totals reflect separate pa
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -669,7 +669,7 @@ By recognising that **public counts and official case totals reflect separate pa
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -710,93 +710,93 @@ By recognising that **public counts and official case totals reflect separate pa
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: uapedia.ai  
    Title: Unlocking New Realities NUFORC & [MUFON](&#123;&#123; 'mufon/' | relative_url &#125;&#125;): Civilian Data Sources  
-   Link: <a href="https://www.uapedia.ai/wiki/nuforc-mufon-civilian-data-sources/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapedia.ai/wiki/nuforc-mufon-civilian-data-sources/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unlocking New RealitiesNUFORC &amp; MUFON: Civilian Data Sources - UAPediaNovember 7, 2025...</p></details>
+   Link:<a href="https://www.uapedia.ai/wiki/nuforc-mufon-civilian-data-sources/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapedia.ai/wiki/nuforc-mufon-civilian-data-sources/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unlocking New RealitiesNUFORC &amp; MUFON: Civilian Data Sources - UAPediaNovember 7, 2025...</p></details>
    Published: November 7, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAn environmental analysis of public UAP sightings and sky view potential  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>December 14, 2023...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 14, 2023...</p></details>
    Published: December 14, 2023  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: anythingcounter.com  
-   Link: <a href="https://anythingcounter.com/ufo-sightings-per-day" target="_blank" rel="noopener noreferrer nofollow">https://anythingcounter.com/ufo-sightings-per-day</a>  
+   Link:<a href="https://anythingcounter.com/ufo-sightings-per-day" target="_blank" rel="noopener noreferrer nofollow">https://anythingcounter.com/ufo-sightings-per-day</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: forbes.com  
-   Link: <a href="https://www.forbes.com/sites/suzannerowankelleher/2021/06/26/faa-ufo-uap-sightings-pilots/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/suzannerowankelleher/2021/06/26/faa-ufo-uap-sightings-pilots/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The FAA Does Not Track UFO Sightings By Commercial Airline Pilots—But Here’s Who DoesJune 26, 2021...</p></details>
+   Link:<a href="https://www.forbes.com/sites/suzannerowankelleher/2021/06/26/faa-ufo-uap-sightings-pilots/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/suzannerowankelleher/2021/06/26/faa-ufo-uap-sightings-pilots/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The FAA Does Not Track UFO Sightings By Commercial Airline Pilots—But Here’s Who DoesJune 26, 2021...</p></details>
    Published: June 26, 2021  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/faqs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 24, 2025 — UNIDENTIFIED ANOMALOUS PHENOMENA RECORDS COLLECTION: FREQUENTLY ASKED QUESTIONS The National Archives and Records Admini...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps/faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/faqs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 24, 2025 — UNIDENTIFIED ANOMALOUS PHENOMENA RECORDS COLLECTION: FREQUENTLY ASKED QUESTIONS The National Archives and Records Admini...</p></details>
    Published: April 24, 2025  
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cnbc.com  
-   Link: <a href="https://www.cnbc.com/2021/06/25/ufo-report-government-cant-explain-143-of-144-mysterious-flying-objects-blames-limited-data.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cnbc.com/2021/06/25/ufo-report-government-cant-explain-143-of-144-mysterious-flying-objects-blames-limited-data.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO report: Government can&#x27;t explain 143 of 144 mysterious flying objects, blames limited dataJune 25, 2021 — UFO REPORT: GOVERNMENT CAN&#x27;...</p></details>
+   Link:<a href="https://www.cnbc.com/2021/06/25/ufo-report-government-cant-explain-143-of-144-mysterious-flying-objects-blames-limited-data.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cnbc.com/2021/06/25/ufo-report-government-cant-explain-143-of-144-mysterious-flying-objects-blames-limited-data.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO report: Government can&#x27;t explain 143 of 144 mysterious flying objects, blames limited dataJune 25, 2021 — UFO REPORT: GOVERNMENT CAN&#x27;...</p></details>
    Published: June 25, 2021  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ufodatalive.com  
-   Link: <a href="https://www.ufodatalive.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufodatalive.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Database, UAP Tracker &amp; Disclosure TimelineGLOBAL SIGHTING OVERVIEW The United States leads globally in documented sighting...</p></details>
+   Link:<a href="https://www.ufodatalive.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufodatalive.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Database, UAP Tracker &amp; Disclosure TimelineGLOBAL SIGHTING OVERVIEW The United States leads globally in documented sighting...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: science.gc.ca  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/ufo-government-report-transparency-better-data-science" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/ufo-government-report-transparency-better-data-science</a>  
+   Link:<a href="https://www.space.com/ufo-government-report-transparency-better-data-science" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/ufo-government-report-transparency-better-data-science</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: science.nasa.gov  
    Title: Trump’s direction for whole-of-government transparency and will alw  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FAQs - NASA ScienceMay 8, 2026 — UAP FAQS NASA UNIDENTIFIED ANOMALOUS PHENOMENA STUDY Frequently Asked Questions ​&lt; Back to UAP NASA appl...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAQs - NASA ScienceMay 8, 2026 — UAP FAQS NASA UNIDENTIFIED ANOMALOUS PHENOMENA STUDY Frequently Asked Questions ​&lt; Back to UAP NASA appl...</p></details>
    Published: May 8, 2026  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: narcap.org  
-   Link: <a href="https://www.narcap.org/faa-reporting-recommendation" target="_blank" rel="noopener noreferrer nofollow">https://www.narcap.org/faa-reporting-recommendation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Platte, John-Michael Guttierez, Ted Roe, Ryan Graves, 2023&lt;br/&gt; — National Aviation Reporting Center on Anomalous PhenomenaJune 14, 2023...</p></details>
+   Link:<a href="https://www.narcap.org/faa-reporting-recommendation" target="_blank" rel="noopener noreferrer nofollow">https://www.narcap.org/faa-reporting-recommendation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Platte, John-Michael Guttierez, Ted Roe, Ryan Graves, 2023&lt;br/&gt; — National Aviation Reporting Center on Anomalous PhenomenaJune 14, 2023...</p></details>
    Published: June 14, 2023  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: science.gc.ca  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 15, 2025 — PREVIEW: SKY CANADA REPORT FROM THE OFFICE OF THE CHIEF SCIENCE ADVISOR OF CANADA Management of public reporting of Un...</p></details>
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 15, 2025 — PREVIEW: SKY CANADA REPORT FROM THE OFFICE OF THE CHIEF SCIENCE ADVISOR OF CANADA Management of public reporting of Un...</p></details>
    Published: January 15, 2025  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: washingtonpost.com  
    Title: Most reported UFO sightings are ‘unremarkable,’ Pentagon review finds  
-   Link: <a href="https://www.washingtonpost.com/national-security/2023/01/12/ufo-sightings-pentagon-review/?itid=lk_inline_manual_19" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/national-security/2023/01/12/ufo-sightings-pentagon-review/?itid=lk_inline_manual_19</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Washington PostJanuary 12, 2023 — MOST UFO REPORTS ‘UNREMARKABLE,’ PENTAGON SAYS, BUT ANALYSIS GOES ON More than half of 366 recent s...</p></details>
+   Link:<a href="https://www.washingtonpost.com/national-security/2023/01/12/ufo-sightings-pentagon-review/?itid=lk_inline_manual_19" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/national-security/2023/01/12/ufo-sightings-pentagon-review/?itid=lk_inline_manual_19</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Washington PostJanuary 12, 2023 — MOST UFO REPORTS ‘UNREMARKABLE,’ PENTAGON SAYS, BUT ANALYSIS GOES ON More than half of 366 recent s...</p></details>
    Published: January 12, 2023  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: opb.org  
    Title: Image: Deputy Director of Naval Intelligence Scott Bray, left,  
-   Link: <a href="https://www.opb.org/article/2022/05/17/ufo-database-400-reported-incidents-government/" target="_blank" rel="noopener noreferrer nofollow">https://www.opb.org/article/2022/05/17/ufo-database-400-reported-incidents-government/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The military’s UFO database now has info from about 400 reported incidents - OPBMay 18, 2022 — THE MILITARY’S UFO DATABASE NOW HAS INFO F...</p></details>
+   Link:<a href="https://www.opb.org/article/2022/05/17/ufo-database-400-reported-incidents-government/" target="_blank" rel="noopener noreferrer nofollow">https://www.opb.org/article/2022/05/17/ufo-database-400-reported-incidents-government/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The military’s UFO database now has info from about 400 reported incidents - OPBMay 18, 2022 — THE MILITARY’S UFO DATABASE NOW HAS INFO F...</p></details>
    Published: May 18, 2022  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: uapsightings.org  
    Title: Announcing the Launch of the UAP Sightings Reporting System  
-   Link: <a href="https://uapsightings.org/announcing-the-launch-of-the-uap-sightings-reporting-system/" target="_blank" rel="noopener noreferrer nofollow">https://uapsightings.org/announcing-the-launch-of-the-uap-sightings-reporting-system/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Sightings Reporting SystemJanuary 4, 2024 — ANNOUNCING THE LAUNCH OF THE UAP SIGHTINGS REPORTING SYSTEM We are very proud to announce...</p></details>
+   Link:<a href="https://uapsightings.org/announcing-the-launch-of-the-uap-sightings-reporting-system/" target="_blank" rel="noopener noreferrer nofollow">https://uapsightings.org/announcing-the-launch-of-the-uap-sightings-reporting-system/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Sightings Reporting SystemJanuary 4, 2024 — ANNOUNCING THE LAUNCH OF THE UAP SIGHTINGS REPORTING SYSTEM We are very proud to announce...</p></details>
    Published: January 4, 2024

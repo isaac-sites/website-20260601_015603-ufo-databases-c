@@ -355,17 +355,17 @@ image: /assets/images/ufo_report_databases_8352a3_ufo_misidentificatio_aa312a-ov
 Misidentification is not a side issue in UFO report databases; it is one of the main reasons those databases exist. A witness may honestly report a strange light, shape, motion or photograph, but the later database entry can turn out to be a balloon, bird, aircraft, satellite train, planet, rocket plume, camera artefact or weather effect. The important lesson is not that witnesses are foolish. It is that sky observations are often made quickly, at distance, in poor lighting, without range information, and through human eyes or sensors that can make ordinary objects look extraordinary.
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_ufo_misidentificatio_aa312a-overview.webp" | relative_url }}" alt="Overview image for Misidentifications" loading="eager" decoding="sync" fetchpriority="high">
-For [UFO report databases and catalogues]({{ 'ufo-report-databases-and-catalogues/' | relative_url }}), this creates a constant sorting problem. A good catalogue does not simply count “unidentified” reports. It records enough time, location, direction, duration, media and investigative notes to let later reviewers compare the report with known objects and conditions. Official bodies such as [AARO]({{ 'aaro/' | relative_url }}), NASA and GEIPAN all describe this as a data-quality problem: the more complete the record, the easier it is to separate prosaic cases from genuinely unresolved ones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">DOD AARO Consolidated Annual Report on UAP Nov2024</span><span class="citation-popover-snippet">Director of National IntelligenceAll-domain Anomaly Resolution Office FY 2024 Consolidated Annual Report on UAP...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
+For [UFO report databases and catalogues]({{ 'ufo-report-databases-and-catalogues/' | relative_url }}), this creates a constant sorting problem. A good catalogue does not simply count “unidentified” reports. It records enough time, location, direction, duration, media and investigative notes to let later reviewers compare the report with known objects and conditions. Official bodies such as [AARO]({{ 'aaro/' | relative_url }}), NASA and GEIPAN all describe this as a data-quality problem: the more complete the record, the easier it is to separate prosaic cases from genuinely unresolved ones.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">DOD AARO Consolidated Annual Report on UAP Nov2024</span><span class="citation-popover-snippet">Director of National IntelligenceAll-domain Anomaly Resolution Office FY 2024 Consolidated Annual Report on UAP...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
 
 ## The everyday objects that become UFO entries
 
 The most common mistaken objects are not obscure. They are things that move through the sky every day: aircraft, [balloons]({{ 'balloons/' | relative_url }}), birds, drones, satellites, planets, meteors and atmospheric effects. What makes them enter UFO databases is not their rarity, but the mismatch between what the observer expects and what the object looks like under particular viewing conditions.
 
-A balloon can seem to hover, drift against the wind at ground level, change brightness, or appear metallic when lit by the sun. A bird or insect crossing a camera frame can look like a fast object if it is close to the lens. An aircraft seen head-on can appear stationary; a distant aircraft turning can seem to accelerate or reverse; a contrail lit by low sun can look fiery or artificial. The old Project [Blue Book]({{ 'blue-book/' | relative_url }}) fact sheet listed astronomical objects, satellites, aircraft and balloons among the recurring sources of UFO reports, noting that planets seen through haze or moving cloud could be reported as unidentified flying objects, while aircraft reflections, afterburners and condensation trails could also produce misleading appearances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[esd.whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">proj b1</span><span class="citation-popover-snippet">proj b1</span></span></span>
+A balloon can seem to hover, drift against the wind at ground level, change brightness, or appear metallic when lit by the sun. A bird or insect crossing a camera frame can look like a fast object if it is close to the lens. An aircraft seen head-on can appear stationary; a distant aircraft turning can seem to accelerate or reverse; a contrail lit by low sun can look fiery or artificial. The old Project [Blue Book]({{ 'blue-book/' | relative_url }}) fact sheet listed astronomical objects, satellites, aircraft and balloons among the recurring sources of UFO reports, noting that planets seen through haze or moving cloud could be reported as unidentified flying objects, while aircraft reflections, afterburners and condensation trails could also produce misleading appearances.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[esd.whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">proj b1</span><span class="citation-popover-snippet">proj b1</span></span></span>
 
-The same pattern persists in modern databases. [NUFORC]({{ 'nuforc/' | relative_url }}), one of the best-known public UFO reporting centres, asks submitters to review common false positives before filing a report. Its report form highlights Starlink satellite trains, rocket launches, Venus and Jupiter, camera artefacts, birds, insects, lens flare and phone-focus effects as things that should be ruled out before submission. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">File a UFO Report &#124; NUFORC</span><span class="citation-popover-snippet">File a UFO Report &#124; NUFORC</span></span></span>
+The same pattern persists in modern databases. [NUFORC]({{ 'nuforc/' | relative_url }}), one of the best-known public UFO reporting centres, asks submitters to review common false positives before filing a report. Its report form highlights Starlink satellite trains, rocket launches, Venus and Jupiter, camera artefacts, birds, insects, lens flare and phone-focus effects as things that should be ruled out before submission.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">File a UFO Report &#124; NUFORC</span><span class="citation-popover-snippet">File a UFO Report &#124; NUFORC</span></span></span>
 
-AARO’s recent official reporting shows the same mechanism in a government setting. In its FY 2024 consolidated annual report, AARO said it received 757 UAP reports for the reporting period and resolved 118 cases to prosaic objects such as balloons, birds and unmanned aerial systems. It also said a further 174 cases were later finalised as prosaic objects including balloons, birds, UAS, satellites and aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">DOD AARO Consolidated Annual Report on UAP Nov2024</span><span class="citation-popover-snippet">Director of National IntelligenceAll-domain Anomaly Resolution Office FY 2024 Consolidated Annual Report on UAP...</span></span></span>
+AARO’s recent official reporting shows the same mechanism in a government setting. In its FY 2024 consolidated annual report, AARO said it received 757 UAP reports for the reporting period and resolved 118 cases to prosaic objects such as balloons, birds and unmanned aerial systems. It also said a further 174 cases were later finalised as prosaic objects including balloons, birds, UAS, satellites and aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">DOD AARO Consolidated Annual Report on UAP Nov2024</span><span class="citation-popover-snippet">Director of National IntelligenceAll-domain Anomaly Resolution Office FY 2024 Consolidated Annual Report on UAP...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_ufo_misidentificatio_aa312a-Illustration-1-dark.svg" | relative_url }}" alt="Misidentifications illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_ufo_misidentificatio_aa312a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_ufo_misidentificatio_aa312a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the same object can look anomalous
@@ -374,13 +374,13 @@ Misidentification usually begins with missing context. The observer sees an angl
 
 The problem is sharper in databases because entries often preserve the witness’s first impression. “Hovered”, “shot away”, “changed shape” or “moved impossibly fast” may describe the appearance of the event, not a measured physical motion. That distinction matters because a database field can later be searched as if it were an objective property of the object. A report tagged as a “sphere” or “orb” may include anything from a balloon to an out-of-focus light, while “light” can mean a satellite, star, aircraft beacon or something genuinely unresolved.
 
-Enigma Labs, a modern public reporting platform, makes this caution explicit in its own discussion of sighting trends. It reports that “light” is one of the most common shape labels in its dataset, but says that such submissions should be treated carefully because a point light in the distance may be a misidentified star, satellite or plane. It also notes that future analysis depends on adding validation layers such as smartphone metadata, known-object databases and sensor overlays rather than relying only on self-reported impressions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span></span></span> | Report a UFO sighting
+Enigma Labs, a modern public reporting platform, makes this caution explicit in its own discussion of sighting trends. It reports that “light” is one of the most common shape labels in its dataset, but says that such submissions should be treated carefully because a point light in the distance may be a misidentified star, satellite or plane. It also notes that future analysis depends on adding validation layers such as smartphone metadata, known-object databases and sensor overlays rather than relying only on self-reported impressions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span></span></span> | Report a UFO sighting
 
 ## Satellites and Starlink changed the false-positive landscape
 
 Satellites have been mistaken for UFOs since the early space age, but low-Earth-orbit megaconstellations have made the problem more visible. Starlink trains can appear as a line of lights moving together, sometimes fading out in sequence or appearing as a blurred luminous streak. For someone who has never seen one, the sight can look coordinated, artificial and unfamiliar — which is exactly why it enters UFO reporting systems.
 
-NUFORC now warns potential submitters that a line of lights moving slowly across the sky on the same course is probably Starlink, not a UFO, and points users towards satellite-tracking tools before they file a report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/722-new-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">722 new ufo reports</span><span class="citation-popover-snippet">722 new ufo reports</span></span></span> A 2024 case study on commercial aviation described how a newly launched Starlink satellite train was misidentified as UAP by pilots on two flights over the Pacific on 10 August 2022. The researchers reconstructed the event using orbital data and aircraft tracking data, showing how satellite visibility modelling can turn a puzzling pilot report into a conventional explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+NUFORC now warns potential submitters that a line of lights moving slowly across the sky on the same course is probably Starlink, not a UFO, and points users towards satellite-tracking tools before they file a report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/722-new-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">722 new ufo reports</span><span class="citation-popover-snippet">722 new ufo reports</span></span></span> A 2024 case study on commercial aviation described how a newly launched Starlink satellite train was misidentified as UAP by pilots on two flights over the Pacific on 10 August 2022. The researchers reconstructed the event using orbital data and aircraft tracking data, showing how satellite visibility modelling can turn a puzzling pilot report into a conventional explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This matters for databases because a Starlink false positive can look unusually persuasive. It may have multiple witnesses, cockpit photographs, video, and a report from trained observers. Those features improve evidential value, but they do not by themselves eliminate ordinary explanations. They only make deconfliction more powerful, because the sighting can be tested against satellite orbits, illumination geometry and aircraft position.
 
@@ -403,7 +403,7 @@ That process can include:
 
 </div>
 
-GEIPAN’s public classification scheme shows why this matters. It classifies cases by both “consistency” — the quantity and [reliability]({{ 'reliability/' | relative_url }}) of the available data — and “strangeness” after comparison with known hypotheses. Its categories distinguish perfectly identified cases, probably identified cases, cases not identified because of insufficient data, and cases not identified after investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/412" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">How does GEIPAN classify observation cases? &#124; GEIPAN</span><span class="citation-popover-snippet">How does GEIPAN classify observation cases? &#124; GEIPAN</span></span></span>
+GEIPAN’s public classification scheme shows why this matters. It classifies cases by both “consistency” — the quantity and [reliability]({{ 'reliability/' | relative_url }}) of the available data — and “strangeness” after comparison with known hypotheses. Its categories distinguish perfectly identified cases, probably identified cases, cases not identified because of insufficient data, and cases not identified after investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/412" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">How does GEIPAN classify observation cases? &#124; GEIPAN</span><span class="citation-popover-snippet">How does GEIPAN classify observation cases? &#124; GEIPAN</span></span></span>
 
 That distinction is crucial. A poor report may remain unidentified not because the object was extraordinary, but because the report lacks enough information to test ordinary explanations. A stronger report may become identified precisely because it contains enough detail to match a satellite, aircraft, balloon or weather event.
 
@@ -412,9 +412,9 @@ That distinction is crucial. A poor report may remain unidentified not because t
 
 One of the most common mistakes in reading UFO catalogues is treating unresolved entries as a special class of evidence. In reality, “unresolved” can mean several different things: there was too little information; the data arrived too late; the relevant flight, balloon or satellite record was unavailable; the witness’s direction or time estimate was wrong; the image was too poor; or the case was investigated and still did not match a known source.
 
-AARO’s FY 2024 report makes this point in practical terms. After resolving or recommending closure for many cases as prosaic objects, it placed 444 cases in an active archive because they lacked sufficient information for analysis. Those cases may be held for pattern analysis or reopened if more data becomes available, but their unresolved status does not automatically imply unusual technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">DOD AARO Consolidated Annual Report on UAP Nov2024</span><span class="citation-popover-snippet">Director of National IntelligenceAll-domain Anomaly Resolution Office FY 2024 Consolidated Annual Report on UAP...</span></span></span>
+AARO’s FY 2024 report makes this point in practical terms. After resolving or recommending closure for many cases as prosaic objects, it placed 444 cases in an active archive because they lacked sufficient information for analysis. Those cases may be held for pattern analysis or reopened if more data becomes available, but their unresolved status does not automatically imply unusual technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">DOD AARO Consolidated Annual Report on UAP Nov2024</span><span class="citation-popover-snippet">Director of National IntelligenceAll-domain Anomaly Resolution Office FY 2024 Consolidated Annual Report on UAP...</span></span></span>
 
-NASA’s independent UAP study framed the same problem scientifically. It argued that the search for anomalies depends on characterising the “background” of known airborne events — balloons, drones, aircraft and other normal objects — with calibrated instruments. Without that baseline, databases risk confusing rare but ordinary appearances with genuinely anomalous signals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
+NASA’s independent UAP study framed the same problem scientifically. It argued that the search for anomalies depends on characterising the “background” of known airborne events — balloons, drones, aircraft and other normal objects — with calibrated instruments. Without that baseline, databases risk confusing rare but ordinary appearances with genuinely anomalous signals.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
 
 This is why good UFO database use is probabilistic rather than dramatic. An unresolved case is a prompt for better data, not a conclusion. It may deserve attention, especially if it involves trained observers, multiple sensors or aviation safety concerns, but it still sits inside a catalogue where ordinary misidentifications are common.
 
@@ -424,11 +424,11 @@ This is why good UFO database use is probabilistic rather than dramatic. An unre
 
 Misidentifications are not eliminated by scepticism alone. They are reduced by better data fields, better filtering and better links to external reference systems. A database that collects only a date, location and dramatic description is much less useful than one that records exact time zone, direction of travel, elevation angle, duration, witness position, camera metadata, weather, astronomical context and whether the object was visible to the naked eye.
 
-The strongest systems also make room for later correction. A report first entered as “unknown” may later be updated when a rocket launch, satellite pass, balloon track or aircraft route is found. GEIPAN explicitly allows revisits or new analysis of cases when new information is communicated after the initial investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+The strongest systems also make room for later correction. A report first entered as “unknown” may later be updated when a rocket launch, satellite pass, balloon track or aircraft route is found. GEIPAN explicitly allows revisits or new analysis of cases when new information is communicated after the initial investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-Public systems face an additional problem: they receive reports before expert review. That makes front-end education important. NUFORC’s pre-report warnings about Starlink, planets, rocket launches and camera artefacts are not merely disclaimers; they are a database-quality filter. Every false positive stopped before submission improves the usefulness of the remaining catalogue. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+Public systems face an additional problem: they receive reports before expert review. That makes front-end education important. NUFORC’s pre-report warnings about Starlink, planets, rocket launches and camera artefacts are not merely disclaimers; they are a database-quality filter. Every false positive stopped before submission improves the usefulness of the remaining catalogue.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-Canada’s Sky Canada project identified a related structural issue: fragmented reporting channels and non-standardised data collection make it difficult to assess the number and nature of UAP cases. It noted that Canada has multiple public, civil and government reporting routes, and that duplicate reporting across organisations can complicate estimates of annual case numbers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
+Canada’s Sky Canada project identified a related structural issue: fragmented reporting channels and non-standardised data collection make it difficult to assess the number and nature of UAP cases. It noted that Canada has multiple public, civil and government reporting routes, and that duplicate reporting across organisations can complicate estimates of annual case numbers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_ufo_misidentificatio_aa312a-Illustration-3-dark.svg" | relative_url }}" alt="Misidentifications illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_ufo_misidentificatio_aa312a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_ufo_misidentificatio_aa312a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What misidentifications teach readers of UFO catalogues
@@ -442,194 +442,194 @@ For UFO report databases and catalogues, misidentification is therefore not an e
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yAaO4P4Jc1U" title="UAP Revelations with AARO&#x27;s Dep. Director Lt. Col. (ret.) Tim Phillips" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yAaO4P4Jc1U" target="_blank" rel="noopener noreferrer">UAP Revelations with AARO&#x27;s Dep. Director Lt. Col. (ret.) Tim Phillips</a></p><p class="youtube-embed-meta">Channel: Event Horizon &middot; Views: 49.9K &middot; Uploaded: July 2025 &middot; Length: 2 hours 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yAaO4P4Jc1U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yAaO4P4Jc1U">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Ordinary Objects Fill UFO Databases. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Ordinary Objects Fill UFO Databases. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Balances misidentification issues with serious cases and official testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Balances misidentification issues with serious cases and official testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHNAEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
-        </h4>
-        <p class="fr-book-author">By Philip C. Plait</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHNAEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
+</h4>
+<p class="fr-book-author">By Philip C. Plait</p>
         
-        <p class="fr-book-desc">Explains common astronomical misunderstandings behind many apparent UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains common astronomical misunderstandings behind many apparent UFOs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Directly supports careful evaluation of extraordinary UFO claims and misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Directly supports careful evaluation of extraordinary UFO claims and misidentifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps readers identify planets, meteors, satellites and ordinary night-sky objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers identify planets, meteors, satellites and ordinary night-sky objects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Astronomy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Astronomy</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Astronomy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Astronomy</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Stellar Raiders mechanical DIY model kit"><img src="{{ '/assets/images/marketplace-covers/bf469a8b290d621a0893.jpg' | relative_url }}" alt="Listing image for UFO Stellar Raiders mechanical DIY model kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">UFO Stellar Raiders mechanical DIY model kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Stellar Raiders mechanical DIY model kit"><img src="{{ '/assets/images/marketplace-covers/bf469a8b290d621a0893.jpg' | relative_url }}" alt="Listing image for UFO Stellar Raiders mechanical DIY model kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">UFO Stellar Raiders mechanical DIY model kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bandai UFO Unidentified Flying Object Model Kit 36002 with Flywheel 1978"><img src="{{ '/assets/images/marketplace-covers/d426cbe0b96c11b57c6f.jpg' | relative_url }}" alt="Listing image for Bandai UFO Unidentified Flying Object Model Kit 36002 with Flywheel 1978" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">Bandai UFO Unidentified Flying Object Model Kit 36002 with Flywheel 1978</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bandai UFO Unidentified Flying Object Model Kit 36002 with Flywheel 1978"><img src="{{ '/assets/images/marketplace-covers/d426cbe0b96c11b57c6f.jpg' | relative_url }}" alt="Listing image for Bandai UFO Unidentified Flying Object Model Kit 36002 with Flywheel 1978" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">Bandai UFO Unidentified Flying Object Model Kit 36002 with Flywheel 1978</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Atlantis Models 5 Inch TR3 UFO Alien Spaceship Plastic Model Kit w/Base"><img src="{{ '/assets/images/marketplace-covers/5b17f6e3f389fcd54128.jpg' | relative_url }}" alt="Listing image for Atlantis Models 5 Inch TR3 UFO Alien Spaceship Plastic Model Kit w/Base" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">Atlantis Models 5 Inch TR3 UFO Alien Spaceship Plastic Model Kit w/Base</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Atlantis Models 5 Inch TR3 UFO Alien Spaceship Plastic Model Kit w/Base"><img src="{{ '/assets/images/marketplace-covers/5b17f6e3f389fcd54128.jpg' | relative_url }}" alt="Listing image for Atlantis Models 5 Inch TR3 UFO Alien Spaceship Plastic Model Kit w/Base" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">Atlantis Models 5 Inch TR3 UFO Alien Spaceship Plastic Model Kit w/Base</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Polar Lights 1/48 UFO Area 51 New Plastic Model Kit 1 48 POL982 982 Mr Models"><img src="{{ '/assets/images/marketplace-covers/b2c31325257837b1123c.jpg' | relative_url }}" alt="Listing image for Polar Lights 1/48 UFO Area 51 New Plastic Model Kit 1 48 POL982 982 Mr Models" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">Polar Lights 1/48 UFO Area 51 New Plastic Model Kit 1 48 POL982 982 Mr Models</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Polar Lights 1/48 UFO Area 51 New Plastic Model Kit 1 48 POL982 982 Mr Models"><img src="{{ '/assets/images/marketplace-covers/b2c31325257837b1123c.jpg' | relative_url }}" alt="Listing image for Polar Lights 1/48 UFO Area 51 New Plastic Model Kit 1 48 POL982 982 Mr Models" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">Polar Lights 1/48 UFO Area 51 New Plastic Model Kit 1 48 POL982 982 Mr Models</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="misidentifications-why-ordinary-objects-fill-ufo-databases-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -645,7 +645,7 @@ For UFO report databases and catalogues, misidentification is therefore not an e
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -665,7 +665,7 @@ For UFO report databases and catalogues, misidentification is therefore not an e
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -697,7 +697,7 @@ For UFO report databases and catalogues, misidentification is therefore not an e
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -749,7 +749,7 @@ For UFO report databases and catalogues, misidentification is therefore not an e
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -794,7 +794,7 @@ For UFO report databases and catalogues, misidentification is therefore not an e
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -835,211 +835,211 @@ For UFO report databases and catalogues, misidentification is therefore not an e
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Science...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Science...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cnes-geipan.fr  
    Title: How does GEIPAN classify observation cases? | GEIPAN  
-   Link: <a href="https://www.cnes-geipan.fr/en/node/412" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/412</a>  
+   Link:<a href="https://www.cnes-geipan.fr/en/node/412" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/412</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: esd.whs.mil  
    Title: proj b1  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
    Title: File a UFO Report | NUFORC  
-   Link: <a href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/report-a-ufo/</a>  
+   Link:<a href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/report-a-ufo/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: enigmalabs.io  
    Title: Enigma Labs | Report a UFO sighting25K Sightings & Counting | Enigma Labs  
-   Link: <a href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/blog/25k-sightings</a>  
+   Link:<a href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/blog/25k-sightings</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
+   Link:<a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: science.gc.ca  
    Title: Management of Public Reporting of Unidentified Aerial Phenomena in Canada  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
+   Link:<a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/sites/default/files/Aids_to_identification_of_flying_objects_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/Aids_to_identification_of_flying_objects_0.pdf</a>  
+   Link:<a href="https://www.cnes-geipan.fr/sites/default/files/Aids_to_identification_of_flying_objects_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/Aids_to_identification_of_flying_objects_0.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58787</a>  
+   Link:<a href="https://www.cnes-geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58787</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/node/58788" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58788</a>  
+   Link:<a href="https://www.cnes-geipan.fr/en/node/58788" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58788</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/node/58792" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58792</a>  
+   Link:<a href="https://www.cnes-geipan.fr/en/node/58792" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58792</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/node/422" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/422</a>  
+   Link:<a href="https://www.cnes-geipan.fr/en/node/422" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/422</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/node/58791" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58791</a>  
+   Link:<a href="https://www.cnes-geipan.fr/en/node/58791" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58791</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
+   Link:<a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: science.nasa.gov  
    Title: identifying ufos and uaps  
-   Link: <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/</a>  
+   Link:<a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: nuforc.org  
    Title: 722 new ufo reports  
-   Link: <a href="https://nuforc.org/722-new-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/722-new-ufo-reports/</a>  
+   Link:<a href="https://nuforc.org/722-new-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/722-new-ufo-reports/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+   Link:<a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cnes.fr  
-   Link: <a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
+   Link:<a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: space.com  
    Title: mystery objects shot down ufos uap  
-   Link: <a href="https://www.space.com/mystery-objects-shot-down-ufos-uap" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/mystery-objects-shot-down-ufos-uap</a>  
+   Link:<a href="https://www.space.com/mystery-objects-shot-down-ufos-uap" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/mystery-objects-shot-down-ufos-uap</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: space.com  
    Title: pentagon 2022 ufo uap report  
-   Link: <a href="https://www.space.com/pentagon-2022-ufo-uap-report" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-2022-ufo-uap-report</a>  
+   Link:<a href="https://www.space.com/pentagon-2022-ufo-uap-report" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-2022-ufo-uap-report</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: dni.gov  
    Title: DOD AARO Consolidated Annual Report on UAP Nov2024  
-   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Director of National IntelligenceAll-domain Anomaly Resolution Office FY 2024 Consolidated Annual Report on UAP...</p></details>
+   Link:<a href="https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Director of National IntelligenceAll-domain Anomaly Resolution Office FY 2024 Consolidated Annual Report on UAP...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/</a>  
+   Link:<a href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/collection/a7111520-9526-4939-9a66-d225db45ba80" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/collection/a7111520-9526-4939-9a66-d225db45ba80</a>  
+   Link:<a href="https://enigmalabs.io/collection/a7111520-9526-4939-9a66-d225db45ba80" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/collection/a7111520-9526-4939-9a66-d225db45ba80</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/NASA" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/NASA" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEIPAN</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEIPAN</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: [archives](&#123;&#123; 'archives/' | relative_url &#125;&#125;). gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 ### Additional References
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
    Title: UAP Revelations with AARO's Dep. Director Lt. Col. (ret.) Tim Phillips  
-   Link: <a href="https://www.youtube.com/watch?v=yAaO4P4Jc1U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yAaO4P4Jc1U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mick West UAP misidentifications balloons drones Syria 2021 Leak - UAP, or Balloon?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yAaO4P4Jc1U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yAaO4P4Jc1U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mick West UAP misidentifications balloons drones Syria 2021 Leak - UAP, or Balloon?...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
    Title: Explained: "Go Fast" UFO Video  
-   Link: <a href="https://www.youtube.com/watch?v=PLyEO0jNt6M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PLyEO0jNt6M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sutter Buttes UFO Solved &amp; Balloon Identified...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PLyEO0jNt6M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PLyEO0jNt6M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sutter Buttes UFO Solved &amp; Balloon Identified...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
    Title: The Pentagon's Wind Farm UFO Video  
-   Link: <a href="https://www.youtube.com/watch?v=Xn9G1TEEqFE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xn9G1TEEqFE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Explained: &quot;Go Fast&quot; UFO Video - Not Low and Not Fast - Like a Balloon...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Xn9G1TEEqFE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xn9G1TEEqFE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Explained: &quot;Go Fast&quot; UFO Video - Not Low and Not Fast - Like a Balloon...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: youtube.com  
    Title: Sutter Buttes UFO Solved & Balloon Identified  
-   Link: <a href="https://www.youtube.com/watch?v=eckSMfh5l84" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eckSMfh5l84</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Revelations with AARO&#x27;s Dep. Director Lt. Col. (ret.) Tim Phillips...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=eckSMfh5l84" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eckSMfh5l84</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Revelations with AARO&#x27;s Dep. Director Lt. Col. (ret.) Tim Phillips...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: wesh.com  
-   Link: <a href="https://www.wesh.com/article/bill-nelson-blue-origin-explosion-cape-canaveral/71447655" target="_blank" rel="noopener noreferrer nofollow">https://www.wesh.com/article/bill-nelson-blue-origin-explosion-cape-canaveral/71447655</a>  
+   Link:<a href="https://www.wesh.com/article/bill-nelson-blue-origin-explosion-cape-canaveral/71447655" target="_blank" rel="noopener noreferrer nofollow">https://www.wesh.com/article/bill-nelson-blue-origin-explosion-cape-canaveral/71447655</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/7482584/Project_Blue_Book_Archive" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/7482584/Project_Blue_Book_Archive</a>  
+   Link:<a href="https://www.academia.edu/7482584/Project_Blue_Book_Archive" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/7482584/Project_Blue_Book_Archive</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
+   Link:<a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheFrenchHistoryPodcast/posts/a-drawing-from-the-files-at-the-french-ufo-department/1337099231754482/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheFrenchHistoryPodcast/posts/a-drawing-from-the-files-at-the-french-ufo-department/1337099231754482/</a>  
+   Link:<a href="https://www.facebook.com/TheFrenchHistoryPodcast/posts/a-drawing-from-the-files-at-the-french-ufo-department/1337099231754482/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheFrenchHistoryPodcast/posts/a-drawing-from-the-files-at-the-french-ufo-department/1337099231754482/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/a-video-sharing-platform-run-by-enigma-labs-is-storing-images-of-unidentified-an/873015845105434/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-video-sharing-platform-run-by-enigma-labs-is-storing-images-of-unidentified-an/873015845105434/</a>
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/a-video-sharing-platform-run-by-enigma-labs-is-storing-images-of-unidentified-an/873015845105434/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-video-sharing-platform-run-by-enigma-labs-is-storing-images-of-unidentified-an/873015845105434/</a>

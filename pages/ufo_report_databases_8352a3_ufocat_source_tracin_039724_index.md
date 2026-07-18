@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-report-databases-8352a3-ufocat/
 description: Focused pages that expand on UFOCAT.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: ufo_report_databases_8352a3_ufocat_source_tracin_039724
 parent_title: UFOCAT
@@ -16,7 +16,7 @@ parent_permalink: /ufocat/
 
 # Explore Topics in UFOCAT
 
-The following pages expand on the main **[UFOCAT]({{ '/ufocat/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[UFOCAT]({{ '/ufocat/' | relative_url }})** page and cover its key branches in.
 
 - [Duplicate Case Studies]({{ '/duplicate-case-studies/' | relative_url }})
 - [Duplicate Rationale]({{ '/duplicate-rationale/' | relative_url }})

@@ -268,26 +268,26 @@ image: /assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_hi
 
 ## Introduction
 
-Historical UFO catalogues quickly ran into a problem that still affects modern databases: the same sighting often appeared multiple times under different sources, investigators, publications or witness accounts. [UFOCAT]({{ 'ufocat/' | relative_url }}), the long-running catalogue developed by Dr. David R. Saunders and later maintained by the Center for UFO Studies (CUFOS), became one of the earliest large-scale attempts to manage that problem systematically. Rather than deleting overlapping reports, UFOCAT preserved them while creating mechanisms to identify which record was closest to the original source and which entries were derivative versions of the same event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">UFOCAT Codebook 2023</span><span class="citation-popover-snippet">Center for UFO StudiesUFOCAT 2023June 6, 2024 — David R. Saunders, who at the time was a co-Principal Investigator on the. Colorado UFO s...</span><span class="citation-popover-meta">Published: June 6, 2024</span></span></span>
+Historical UFO catalogues quickly ran into a problem that still affects modern databases: the same sighting often appeared multiple times under different sources, investigators, publications or witness accounts. [UFOCAT]({{ 'ufocat/' | relative_url }}), the long-running catalogue developed by Dr. David R. Saunders and later maintained by the Center for UFO Studies (CUFOS), became one of the earliest large-scale attempts to manage that problem systematically. Rather than deleting overlapping reports, UFOCAT preserved them while creating mechanisms to identify which record was closest to the original source and which entries were derivative versions of the same event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">UFOCAT Codebook 2023</span><span class="citation-popover-snippet">Center for UFO StudiesUFOCAT 2023June 6, 2024 — David R. Saunders, who at the time was a co-Principal Investigator on the. Colorado UFO s...</span><span class="citation-popover-meta">Published: June 6, 2024</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_historical_duplicate_d0e733-Illustration-1-dark.svg" | relative_url }}" alt="Duplicate Case Studies illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_historical_duplicate_d0e733-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_historical_duplicate_d0e733-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The result was a series of practical historical [case studies]({{ 'case-studies/' | relative_url }}) in duplicate control. Researchers working with UFOCAT learned that raw case totals could be misleading unless duplicate reports were identified, linked and analysed. Those lessons emerged from specific investigations, statistical studies and catalogue redesign efforts rather than from abstract database theory alone.
 
 ## David Saunders' County-Level Analysis and the Duplicate Problem
 
-One of the most frequently cited examples of early UFOCAT-based statistical work came from David Saunders' examination of geographical reporting patterns. J. Allen Hynek later described Saunders' study as an analysis of UFOCAT records seeking correlations between UFO report frequency, county population and county area. Saunders found that counties with larger populations and larger geographical areas generally produced more reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;The Hynek UFO Report&quot;David Saunders of the Center for UFO Studies. Dr. Saunders examined the cases in the C...</span></span></span>
+One of the most frequently cited examples of early UFOCAT-based statistical work came from David Saunders' examination of geographical reporting patterns. J. Allen Hynek later described Saunders' study as an analysis of UFOCAT records seeking correlations between UFO report frequency, county population and county area. Saunders found that counties with larger populations and larger geographical areas generally produced more reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;The Hynek UFO Report&quot;David Saunders of the Center for UFO Studies. Dr. Saunders examined the cases in the C...</span></span></span>
 
 That conclusion sounds straightforward, but it depended heavily on controlling for duplicated material. A county that generated extensive newspaper coverage could appear to have a disproportionate number of sightings simply because one incident was reported repeatedly through several channels. Saunders' work highlighted a recurring challenge in UFO cataloguing: researchers needed to distinguish between an increase in observations and an increase in documentation.
 
 The issue became particularly visible when comparing heavily investigated regions with areas that had fewer active UFO organisations. Places with strong local investigative networks often produced multiple records for the same incident because witness statements, newspaper reports, investigator files and later book summaries all entered the documentary chain. Without source tracing, statistical maps risked measuring reporting activity rather than underlying events.
 
-Hynek's discussion of Saunders' findings also showed an important methodological shift. Researchers increasingly recognised that a UFO catalogue should not be treated as a simple count of incidents. Instead, it functioned as a record of information transmission, requiring analysis of how reports moved through the literature before numerical conclusions could be trusted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;The Hynek UFO Report&quot;David Saunders of the Center for UFO Studies. Dr. Saunders examined the cases in the C...</span></span></span>
+Hynek's discussion of Saunders' findings also showed an important methodological shift. Researchers increasingly recognised that a UFO catalogue should not be treated as a simple count of incidents. Instead, it functioned as a record of information transmission, requiring analysis of how reports moved through the literature before numerical conclusions could be trusted.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;The Hynek UFO Report&quot;David Saunders of the Center for UFO Studies. Dr. Saunders examined the cases in the C...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/avCDzCxjPEM" title="The First Scientific Results From UAPx" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=avCDzCxjPEM" target="_blank" rel="noopener noreferrer">The First Scientific Results From UAPx</a></p><p class="youtube-embed-meta">Channel: Scientific Coalition for UAP Studies &middot; Views: 70.0K &middot; Uploaded: November 2022 &middot; Length: 2 hours 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=avCDzCxjPEM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=avCDzCxjPEM">Open on YouTube</a></p></div></div></div>
 
 ## How UFOCAT Linked Duplicate Reports
 
-The most significant historical response to duplication was built directly into UFOCAT's structure. Rather than attempting to merge all overlapping records into a single master entry, the catalogue preserved multiple versions while creating explicit relationships among them. CUFOS documentation describes several fields designed specifically for this purpose. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">UFOCAT Codebook 2023</span><span class="citation-popover-snippet">Center for UFO StudiesUFOCAT 2023June 6, 2024 — David R. Saunders, who at the time was a co-Principal Investigator on the. Colorado UFO s...</span><span class="citation-popover-meta">Published: June 6, 2024</span></span></span>
+The most significant historical response to duplication was built directly into UFOCAT's structure. Rather than attempting to merge all overlapping records into a single master entry, the catalogue preserved multiple versions while creating explicit relationships among them. CUFOS documentation describes several fields designed specifically for this purpose.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">UFOCAT Codebook 2023</span><span class="citation-popover-snippet">Center for UFO StudiesUFOCAT 2023June 6, 2024 — David R. Saunders, who at the time was a co-Principal Investigator on the. Colorado UFO s...</span><span class="citation-popover-meta">Published: June 6, 2024</span></span></span>
 
 Key mechanisms included:
 
@@ -295,7 +295,7 @@ Key mechanisms included:
 * **X2 ranking:** indicated the relative primacy of reports associated with the same event.
 * **IRN (Indirect Record Number):** connected derivative reports to related source material.
 * **SOURCE and ISOURCE fields:** recorded direct and indirect origins of information.
-* **Source-level classifications:** distinguished investigator files, newspapers, books, catalogues and later database compilations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">UFOCAT Codebook 2023</span><span class="citation-popover-snippet">Center for UFO StudiesUFOCAT 2023June 6, 2024 — David R. Saunders, who at the time was a co-Principal Investigator on the. Colorado UFO s...</span><span class="citation-popover-meta">Published: June 6, 2024</span></span></span>
+* **Source-level classifications:** distinguished investigator files, newspapers, books, catalogues and later database compilations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">UFOCAT Codebook 2023</span><span class="citation-popover-snippet">Center for UFO StudiesUFOCAT 2023June 6, 2024 — David R. Saunders, who at the time was a co-Principal Investigator on the. Colorado UFO s...</span><span class="citation-popover-meta">Published: June 6, 2024</span></span></span>
 
 Historically, this represented a compromise between two competing goals. Eliminating [duplicates]({{ 'duplicates/' | relative_url }}) entirely would have reduced inflation in case counts but would also have destroyed valuable evidence about how a story evolved. Retaining every version without linkage would have made statistical work unreliable. UFOCAT's designers chose a middle path: preserve the documentary trail while marking relationships among records.
 
@@ -307,7 +307,7 @@ This approach reflected the reality of UFO research literature. A witness accoun
 
 The integration of Project [Blue Book]({{ 'blue-book/' | relative_url }}) material into UFOCAT created one of the largest historical tests of duplicate control. Researchers working with Blue Book records discovered that the apparent number of reports depended heavily on how duplicate and grouped entries were handled.
 
-Historical reviews of Blue Book catalogues noted that many files contained multiple reports bundled together under a single case designation. In other situations, the same incident appeared repeatedly across different collections and publications. Brad Sparks, discussing Blue Book-derived catalogues and UFOCAT holdings, observed that duplicate entries within the broader Blue Book record system were difficult and time-consuming to identify and remove. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;The Hynek UFO Report&quot;David Saunders of the Center for UFO Studies. Dr. Saunders examined the cases in the C...</span></span></span>
+Historical reviews of Blue Book catalogues noted that many files contained multiple reports bundled together under a single case designation. In other situations, the same incident appeared repeatedly across different collections and publications. Brad Sparks, discussing Blue Book-derived catalogues and UFOCAT holdings, observed that duplicate entries within the broader Blue Book record system were difficult and time-consuming to identify and remove.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;The Hynek UFO Report&quot;David Saunders of the Center for UFO Studies. Dr. Saunders examined the cases in the C...</span></span></span>
 
 The problem worked in both directions:
 
@@ -315,7 +315,7 @@ The problem worked in both directions:
 
 * Some catalogues inflated totals by counting multiple records describing one incident.
 * Other collections undercounted events by combining numerous separate sightings into a single file.
-* Different investigators often applied inconsistent criteria when deciding whether reports represented one event or several. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;The Hynek UFO Report&quot;David Saunders of the Center for UFO Studies. Dr. Saunders examined the cases in the C...</span></span></span>
+* Different investigators often applied inconsistent criteria when deciding whether reports represented one event or several.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;The Hynek UFO Report&quot;David Saunders of the Center for UFO Studies. Dr. Saunders examined the cases in the C...</span></span></span>
 
 </div>
 
@@ -344,7 +344,7 @@ A well-known UFO case could move through several stages:
 
 Each stage increased the possibility of duplication. Dates could shift slightly, locations might be standardised differently, and witness counts could change as new versions circulated. A researcher looking only at database totals might mistakenly interpret five records as five independent sightings.
 
-UFOCAT's historical value lay partly in exposing these chains. By preserving source references and linking related records, investigators could determine whether multiple entries reflected independent testimony or merely repeated publication of the same narrative. CUFOS documentation explicitly describes the catalogue as a guide to original sources rather than a final authority on case interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">UFOCAT Codebook 2023</span><span class="citation-popover-snippet">Center for UFO StudiesUFOCAT 2023June 6, 2024 — David R. Saunders, who at the time was a co-Principal Investigator on the. Colorado UFO s...</span><span class="citation-popover-meta">Published: June 6, 2024</span></span></span>
+UFOCAT's historical value lay partly in exposing these chains. By preserving source references and linking related records, investigators could determine whether multiple entries reflected independent testimony or merely repeated publication of the same narrative. CUFOS documentation explicitly describes the catalogue as a guide to original sources rather than a final authority on case interpretation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">UFOCAT Codebook 2023</span><span class="citation-popover-snippet">Center for UFO StudiesUFOCAT 2023June 6, 2024 — David R. Saunders, who at the time was a co-Principal Investigator on the. Colorado UFO s...</span><span class="citation-popover-meta">Published: June 6, 2024</span></span></span>
 
 That philosophy distinguished UFOCAT from many later public reporting databases, where duplicate detection often focused primarily on keeping counts clean. UFOCAT treated duplication as evidence about the history of a report.
 
@@ -360,205 +360,205 @@ Several enduring lessons emerged from the catalogue's duplicate-control efforts:
 
 **Preserving duplicates can be valuable.** Historical researchers often need to know how a story changed across different publications. Deleting every duplicate record can erase that history.
 
-**Statistical studies require event-level filtering.** Saunders' geographical analyses demonstrated that meaningful correlations depend on identifying underlying incidents rather than counting every record indiscriminately. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;The Hynek UFO Report&quot;David Saunders of the Center for UFO Studies. Dr. Saunders examined the cases in the C...</span></span></span>
+**Statistical studies require event-level filtering.** Saunders' geographical analyses demonstrated that meaningful correlations depend on identifying underlying incidents rather than counting every record indiscriminately.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;The Hynek UFO Report&quot;David Saunders of the Center for UFO Studies. Dr. Saunders examined the cases in the C...</span></span></span>
 
 **Deduplication is partly interpretive.** Witnesses observing the same object from different locations create legitimate reporting ambiguities. No purely automatic rule can resolve every case.
 
-**Database transparency improves credibility.** UFOCAT's use of primary-record indicators and source-ranking fields allowed later researchers to inspect the catalogue's assumptions instead of accepting invisible editorial decisions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">UFOCAT Codebook 2023</span><span class="citation-popover-snippet">Center for UFO StudiesUFOCAT 2023June 6, 2024 — David R. Saunders, who at the time was a co-Principal Investigator on the. Colorado UFO s...</span><span class="citation-popover-meta">Published: June 6, 2024</span></span></span>
+**Database transparency improves credibility.** UFOCAT's use of primary-record indicators and source-ranking fields allowed later researchers to inspect the catalogue's assumptions instead of accepting invisible editorial decisions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">UFOCAT Codebook 2023</span><span class="citation-popover-snippet">Center for UFO StudiesUFOCAT 2023June 6, 2024 — David R. Saunders, who at the time was a co-Principal Investigator on the. Colorado UFO s...</span><span class="citation-popover-meta">Published: June 6, 2024</span></span></span>
 
 The broader historical significance of these case studies is that they transformed duplication from a hidden bookkeeping problem into an explicit research topic. UFOCAT's designers recognised that the history of a UFO report often matters as much as the reported event itself. By documenting relationships among records rather than simply counting them, the catalogue provided a framework that later database projects could adapt when confronting the same challenge on a larger digital scale.
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_historical_duplicate_d0e733-Illustration-3-dark.svg" | relative_url }}" alt="Duplicate Case Studies illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_historical_duplicate_d0e733-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724_historical_duplicate_d0e733-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Historical UFOCAT Case Studies Addressing Duplicate Entries. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Historical UFOCAT Case Studies Addressing Duplicate Entries. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides historical UFO cases and discussions of duplicate reports and investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical UFO cases and discussions of duplicate reports and investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
         
-        <p class="fr-book-desc">First published 2011.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Covers methodology and analysis of UFO reports, including historical cataloging and duplicates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers methodology and analysis of UFO reports, including historical cataloging and duplicates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Covers methodology and analysis of UFO reports, including historical cataloging and duplicates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers methodology and analysis of UFO reports, including historical cataloging and duplicates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="duplicate-case-studies-historical-ufocat-case-studies-addressing-duplicate-entries-ufo-report-da-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -574,7 +574,7 @@ The broader historical significance of these case studies is that they transform
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -594,7 +594,7 @@ The broader historical significance of these case studies is that they transform
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -626,7 +626,7 @@ The broader historical significance of these case studies is that they transform
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -678,7 +678,7 @@ The broader historical significance of these case studies is that they transform
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -723,7 +723,7 @@ The broader historical significance of these case studies is that they transform
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -764,74 +764,74 @@ The broader historical significance of these case studies is that they transform
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cufos.org  
    Title: UFOCAT Codebook 2023  
-   Link: <a href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for UFO StudiesUFOCAT 2023June 6, 2024 — David R. Saunders, who at the time was a co-Principal Investigator on the. Colorado UFO s...</p></details>
+   Link:<a href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Center for UFO StudiesUFOCAT 2023June 6, 2024 — David R. Saunders, who at the time was a co-Principal Investigator on the. Colorado UFO s...</p></details>
    Published: June 6, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveFull text of &quot;The Hynek UFO Report&quot;David Saunders of the Center for UFO Studies. Dr. Saunders examined the cases in the C...</p></details>
+   Link:<a href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveFull text of &quot;The Hynek UFO Report&quot;David Saunders of the Center for UFO Studies. Dr. Saunders examined the cases in the C...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page 2. entries cataloged by former Condon Committee scientist David Saunders, has...Read more...</p></details>
+   Link:<a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Page 2. entries cataloged by former Condon Committee scientist David Saunders, has...Read more...</p></details>
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/download/ufos-and-close-encounters-1502968088-9781502968081.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/ufos-and-close-encounters-1502968088-9781502968081.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The first step is to compile a computer catalog of sightings—the Ufocat now has...Read more...</p></details>
+   Link:<a href="https://dokumen.pub/download/ufos-and-close-encounters-1502968088-9781502968081.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/ufos-and-close-encounters-1502968088-9781502968081.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The first step is to compile a computer catalog of sightings—the Ufocat now has...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/69518005/Proceedings_of_the_Sign_Historical_Group_UFO_History_Workshop" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/69518005/Proceedings_of_the_Sign_Historical_Group_UFO_History_Workshop</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ence, less well known, stretching back to the sixteenth century.Read more...</p></details>
+   Link:<a href="https://www.academia.edu/69518005/Proceedings_of_the_Sign_Historical_Group_UFO_History_Workshop" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/69518005/Proceedings_of_the_Sign_Historical_Group_UFO_History_Workshop</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ence, less well known, stretching back to the sixteenth century.Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>tself later became the term for this research, UFOlogy.Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tself later became the term for this research, UFOlogy.Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: newspaceeconomy.ca  
    Title: ufocat the ufo sightings catalog by cufos  
-   Link: <a href="https://newspaceeconomy.ca/2025/07/30/ufocat-the-ufo-sightings-catalog-by-cufos/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/07/30/ufocat-the-ufo-sightings-catalog-by-cufos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOCAT: The UFO Sightings Catalog by CUFOS30 Jul 2025 — UFOCAT is an electronic database of UFO sightings maintained by the Center for UF...</p></details>
+   Link:<a href="https://newspaceeconomy.ca/2025/07/30/ufocat-the-ufo-sightings-catalog-by-cufos/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/07/30/ufocat-the-ufo-sightings-catalog-by-cufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOCAT: The UFO Sightings Catalog by CUFOS30 Jul 2025 — UFOCAT is an electronic database of UFO sightings maintained by the Center for UF...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=avCDzCxjPEM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=avCDzCxjPEM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientific Traceability Matrix: Replicating and Validating Historical Aerial Reports...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=avCDzCxjPEM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=avCDzCxjPEM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientific Traceability Matrix: Replicating and Validating Historical Aerial Reports...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=pxKOdtmHTSo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pxKOdtmHTSo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Algorithmic Data Processing and Local Tools for Eliminating Redundant System Inputs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=pxKOdtmHTSo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pxKOdtmHTSo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Algorithmic Data Processing and Local Tools for Eliminating Redundant System Inputs...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=8R34a9_sRKQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8R34a9_sRKQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book and the History of Archival Record De-duplication...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8R34a9_sRKQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8R34a9_sRKQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book and the History of Archival Record De-duplication...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Project Blue Book and the History of Archival Record De-duplication  
-   Link: <a href="https://www.youtube.com/watch?v=WWqwB52wnuI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WWqwB52wnuI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analyzing Ethnographic Data and Regional Trends in Anomalous Phenomenon Catalogues...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WWqwB52wnuI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WWqwB52wnuI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analyzing Ethnographic Data and Regional Trends in Anomalous Phenomenon Catalogues...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/150258691719744/posts/8468799559865574/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/150258691719744/posts/8468799559865574/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting File Unit # **Mineral Wells**, Texas...The Levelland Sightings.....on November 2nd of 1957, a series of UFO occurrences in...</p></details>
+   Link:<a href="https://www.facebook.com/groups/150258691719744/posts/8468799559865574/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/150258691719744/posts/8468799559865574/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting File Unit # **Mineral Wells**, Texas...The Levelland Sightings.....on November 2nd of 1957, a series of UFO occurrences in...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2305.18566</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This necessitated mapping the [NUFORC](&amp;#123;&amp;#123; &#x27;nuforc/&#x27; | relative_url &amp;#125;&amp;#125;) counts from city- to county-level.Read more...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2305.18566</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This necessitated mapping the [NUFORC](&amp;#123;&amp;#123; &#x27;nuforc/&#x27; | relative_url &amp;#125;&amp;#125;) counts from city- to county-level.Read more...</p></details>

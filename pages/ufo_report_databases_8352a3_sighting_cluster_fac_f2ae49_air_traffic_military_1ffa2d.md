@@ -268,7 +268,7 @@ image: /assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_ai
 
 ## Introduction
 
-Maps of UFO and UAP reports rarely distribute sightings evenly across a country. One of the most consistent findings in modern database analysis is that reports tend to increase near busy air corridors, airports, military training ranges and defence installations. That pattern does not necessarily indicate anomalous craft. Instead, it often reflects a simple mechanism: areas with more aircraft, more aerial testing and more observers looking at the sky generate more opportunities for unusual objects to be seen, misidentified and reported. Recent statistical studies using large public databases such as the National UFO Reporting Center ([NUFORC]({{ 'nuforc/' | relative_url }})) archive have strengthened the case that air traffic and military activity are major environmental factors behind many sighting [clusters]({{ 'clusters/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 22 — This analysis is one of few invest...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">Not the X-Files: Mapping Public Reports of Unidentified...25 Jul 2023 — In this report, RAND researchers present a geographic analys...</span></span></span>
+Maps of UFO and UAP reports rarely distribute sightings evenly across a country. One of the most consistent findings in modern database analysis is that reports tend to increase near busy air corridors, airports, military training ranges and defence installations. That pattern does not necessarily indicate anomalous craft. Instead, it often reflects a simple mechanism: areas with more aircraft, more aerial testing and more observers looking at the sky generate more opportunities for unusual objects to be seen, misidentified and reported. Recent statistical studies using large public databases such as the National UFO Reporting Center ([NUFORC]({{ 'nuforc/' | relative_url }})) archive have strengthened the case that air traffic and military activity are major environmental factors behind many sighting [clusters]({{ 'clusters/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 22 — This analysis is one of few invest...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">Not the X-Files: Mapping Public Reports of Unidentified...25 Jul 2023 — In this report, RAND researchers present a geographic analys...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_air_traffic_military_1ffa2d-Illustration-1-dark.svg" | relative_url }}" alt="Air Traffic illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_air_traffic_military_1ffa2d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_air_traffic_military_1ffa2d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Understanding this relationship is important when interpreting UFO catalogues. A hotspot on a map may reveal an area with unusually high aerial activity rather than an area with uniquely unexplained phenomena.
@@ -277,9 +277,9 @@ Understanding this relationship is important when interpreting UFO catalogues. A
 
 Large-scale studies increasingly treat UFO reports as a geographical data problem. Instead of examining individual cases in isolation, researchers compare sighting locations with known environmental variables, including proximity to airports, military facilities and designated training airspace.
 
-A 2023 study published in *Scientific Reports* analysed roughly 98,000 public UAP reports from the continental United States between 2001 and 2020. The researchers tested whether reports were associated with factors that increase sky visibility and factors that increase the number of objects in the sky. Their model included distance from airports and military installations. The results suggested that sightings become more common in areas closer to those facilities, supporting the idea that conventional aircraft and military activity contribute to report frequency. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 22 — This analysis is one of few invest...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — This analysis is one of few investigations...</span></span></span>
+A 2023 study published in *Scientific Reports* analysed roughly 98,000 public UAP reports from the continental United States between 2001 and 2020. The researchers tested whether reports were associated with factors that increase sky visibility and factors that increase the number of objects in the sky. Their model included distance from airports and military installations. The results suggested that sightings become more common in areas closer to those facilities, supporting the idea that conventional aircraft and military activity contribute to report frequency.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 22 — This analysis is one of few invest...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — This analysis is one of few investigations...</span></span></span>
 
-The same pattern appeared in a RAND geographic analysis of more than 100,000 public UAP reports. Researchers found elevated reporting rates near Military Operations Areas, the large blocks of airspace reserved for military exercises. According to reporting on the study, the rate of sightings was approximately 1.2 times higher within about 18 miles of such areas than farther away. RAND <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.militarytimes.com/news/your-military/2023/07/25/ufo-sightings-linked-to-military-training-locations-report-finds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: militarytimes.com">[Military Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">militarytimes.com</span><span class="citation-popover-title">ufo sightings linked to military training locations report finds</span><span class="citation-popover-snippet">UFO sightings linked to military training locations, report finds25 Jul 2023 — In their report, RAND researchers found the rate of UAP si...</span></span></span>
+The same pattern appeared in a RAND geographic analysis of more than 100,000 public UAP reports. Researchers found elevated reporting rates near Military Operations Areas, the large blocks of airspace reserved for military exercises. According to reporting on the study, the rate of sightings was approximately 1.2 times higher within about 18 miles of such areas than farther away. RAND<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.militarytimes.com/news/your-military/2023/07/25/ufo-sightings-linked-to-military-training-locations-report-finds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: militarytimes.com">[Military Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">militarytimes.com</span><span class="citation-popover-title">ufo sightings linked to military training locations report finds</span><span class="citation-popover-snippet">UFO sightings linked to military training locations, report finds25 Jul 2023 — In their report, RAND researchers found the rate of UAP si...</span></span></span>
 
 These findings matter because military training zones frequently contain:
 
@@ -350,9 +350,9 @@ Common sources of confusion include:
 
 </div>
 
-The FAA's guidance for air traffic personnel reflects the reality that unusual aerial reports occur in busy aviation environments and require systematic evaluation rather than immediate extraordinary conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Section 8</span><span class="citation-popover-snippet">Unidentified Anomalous Phenomena (UAP...GENERAL. Inform the operations supervisor/CIC of any reported or observed unidentified anomalous...</span></span></span>
+The FAA's guidance for air traffic personnel reflects the reality that unusual aerial reports occur in busy aviation environments and require systematic evaluation rather than immediate extraordinary conclusions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Section 8</span><span class="citation-popover-snippet">Unidentified Anomalous Phenomena (UAP...GENERAL. Inform the operations supervisor/CIC of any reported or observed unidentified anomalous...</span></span></span>
 
-Several widely discussed [pilot sightings]({{ 'pilot-sightings/' | relative_url }}) have emerged from regions where civilian and military traffic overlap. In many cases, investigators ultimately consider aircraft, [balloons]({{ 'balloons/' | relative_url }}), drones or atmospheric effects among the most plausible explanations, even when witnesses initially describe something extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">Preliminary Assessment: Unidentified Aerial Phenomena</span><span class="citation-popover-snippet">Preliminary Assessment: Unidentified Aerial Phenomena...June 25, 2021 — 25 Jun 2021 — This report provides an overview for policymake...</span><span class="citation-popover-meta">Published: June 25, 2021</span></span></span>
+Several widely discussed [pilot sightings]({{ 'pilot-sightings/' | relative_url }}) have emerged from regions where civilian and military traffic overlap. In many cases, investigators ultimately consider aircraft, [balloons]({{ 'balloons/' | relative_url }}), drones or atmospheric effects among the most plausible explanations, even when witnesses initially describe something extraordinary.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">Preliminary Assessment: Unidentified Aerial Phenomena</span><span class="citation-popover-snippet">Preliminary Assessment: Unidentified Aerial Phenomena...June 25, 2021 — 25 Jun 2021 — This report provides an overview for policymake...</span><span class="citation-popover-meta">Published: June 25, 2021</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eJJCHOMajGo" title="‘Good Luck With Aliens’: Pilot-ATC Conversation After &#x27;UFO&#x27;-Aircraft Encounter Over Rhode Island" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eJJCHOMajGo" target="_blank" rel="noopener noreferrer">‘Good Luck With Aliens’: Pilot-ATC Conversation After &#x27;UFO&#x27;-Aircraft Encounter Over Rhode Island</a></p><p class="youtube-embed-meta">Channel: Times Of India &middot; Views: 8.4K &middot; Uploaded: December 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eJJCHOMajGo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eJJCHOMajGo">Open on YouTube</a></p></div></div></div>
 
@@ -360,7 +360,7 @@ Several widely discussed [pilot sightings]({{ 'pilot-sightings/' | relative_url 
 
 Comparing regions with similar populations but different aviation environments helps clarify the relationship between air activity and reporting rates.
 
-The Utah-led environmental study found that report frequency is influenced by both sky-view conditions and the likelihood that objects are actually present overhead. Areas with open skies and nearby aviation infrastructure tended to produce more reports than heavily obstructed landscapes with less aerial activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 22 — This analysis is one of few invest...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eurekalert.org/news-releases/1035879" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurekalert.org">[2EurekAlert!]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurekalert.org</span><span class="citation-popover-title">news releases</span><span class="citation-popover-snippet">The West is best to spot UFOs27 Feb 2024 — For each county in the contiguous U.S., the researchers analyzed two conditions: Sky view pote...</span></span></span>
+The Utah-led environmental study found that report frequency is influenced by both sky-view conditions and the likelihood that objects are actually present overhead. Areas with open skies and nearby aviation infrastructure tended to produce more reports than heavily obstructed landscapes with less aerial activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 22 — This analysis is one of few invest...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eurekalert.org/news-releases/1035879" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurekalert.org">[2EurekAlert!]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurekalert.org</span><span class="citation-popover-title">news releases</span><span class="citation-popover-snippet">The West is best to spot UFOs27 Feb 2024 — For each county in the contiguous U.S., the researchers analyzed two conditions: Sky view pote...</span></span></span>
 
 This finding helps explain why many well-known UFO hotspots overlap with:
 
@@ -376,7 +376,7 @@ This finding helps explain why many well-known UFO hotspots overlap with:
 
 The effect is cumulative. A region may have excellent viewing conditions, substantial military activity and relatively low cloud cover. Together these factors increase the probability that residents will notice and report unusual aerial events.
 
-Researchers therefore caution against interpreting raw sighting density as evidence of anomalous activity without controlling for aviation exposure and environmental visibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 22 — This analysis is one of few invest...</span></span></span>
+Researchers therefore caution against interpreting raw sighting density as evidence of anomalous activity without controlling for aviation exposure and environmental visibility.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 22 — This analysis is one of few invest...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_air_traffic_military_1ffa2d-Illustration-3-dark.svg" | relative_url }}" alt="Air Traffic illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_air_traffic_military_1ffa2d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_air_traffic_military_1ffa2d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Collection Bias Around Sensitive Sites
@@ -385,209 +385,209 @@ A second mechanism involves reporting and detection rather than observation.
 
 Military facilities, nuclear sites and training ranges often have more sensors, more surveillance and more formal reporting channels than ordinary locations. As a result, unusual events are more likely to be documented.
 
-The U.S. intelligence community acknowledged this possibility in its 2021 preliminary UAP assessment. The report noted that sightings tended to cluster around military training and testing grounds but stated that this could reflect collection bias arising from concentrated sensor coverage, operational focus and reporting guidance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">Preliminary Assessment: Unidentified Aerial Phenomena</span><span class="citation-popover-snippet">Preliminary Assessment: Unidentified Aerial Phenomena...June 25, 2021 — 25 Jun 2021 — This report provides an overview for policymake...</span><span class="citation-popover-meta">Published: June 25, 2021</span></span></span>
+The U.S. intelligence community acknowledged this possibility in its 2021 preliminary UAP assessment. The report noted that sightings tended to cluster around military training and testing grounds but stated that this could reflect collection bias arising from concentrated sensor coverage, operational focus and reporting guidance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">Preliminary Assessment: Unidentified Aerial Phenomena</span><span class="citation-popover-snippet">Preliminary Assessment: Unidentified Aerial Phenomena...June 25, 2021 — 25 Jun 2021 — This report provides an overview for policymake...</span><span class="citation-popover-meta">Published: June 25, 2021</span></span></span>
 
-Former All-domain Anomaly Resolution Office officials have made similar observations, arguing that many reports originate where advanced military sensors already exist. If an unusual object appears near a heavily monitored range, it is more likely to be detected and entered into a database than an equivalent object appearing over an unmonitored rural area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and atomic sites</span><span class="citation-popover-snippet">UFO reports and atomic sites</span></span></span>
+Former All-domain Anomaly Resolution Office officials have made similar observations, arguing that many reports originate where advanced military sensors already exist. If an unusual object appears near a heavily monitored range, it is more likely to be detected and entered into a database than an equivalent object appearing over an unmonitored rural area.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and atomic sites</span><span class="citation-popover-snippet">UFO reports and atomic sites</span></span></span>
 
 This distinction is crucial. A hotspot may indicate where observers and sensors are concentrated rather than where unusual objects are uniquely present.
 
 ## The Balance Between Explanation and Uncertainty
 
-The correlation between UFO reports, air traffic and military installations is one of the strongest environmental patterns identified in modern database studies. Multiple analyses have found that sightings become more common near airports, military facilities and operational airspace. The most straightforward explanation is that these regions contain more aircraft, more unusual flight activity and more opportunities for misidentification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencenews.org/article/scientists-serious-ufo-uap-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencenews.org">[Science News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencenews.org</span><span class="citation-popover-title">Science News Scientists are getting serious about UFOs</span><span class="citation-popover-snippet">Here&#x27;s why7 Aug 2024 — One factor that appears to boost the number of UAP sightings is proximity to an airport or military installation...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 22 — This analysis is one of few invest...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-title">12,783 U.S. Census Bureau census designated places.Read more</span><span class="citation-popover-snippet">Mapping Public Reports of Unidentified Aerial Phenomena...by MN POSARD · 2023 · Cited by 4 — This report presents a geographic analysis...</span></span></span>
+The correlation between UFO reports, air traffic and military installations is one of the strongest environmental patterns identified in modern database studies. Multiple analyses have found that sightings become more common near airports, military facilities and operational airspace. The most straightforward explanation is that these regions contain more aircraft, more unusual flight activity and more opportunities for misidentification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencenews.org/article/scientists-serious-ufo-uap-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencenews.org">[Science News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencenews.org</span><span class="citation-popover-title">Science News Scientists are getting serious about UFOs</span><span class="citation-popover-snippet">Here&#x27;s why7 Aug 2024 — One factor that appears to boost the number of UAP sightings is proximity to an airport or military installation...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 22 — This analysis is one of few invest...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-title">12,783 U.S. Census Bureau census designated places.Read more</span><span class="citation-popover-snippet">Mapping Public Reports of Unidentified Aerial Phenomena...by MN POSARD · 2023 · Cited by 4 — This report presents a geographic analysis...</span></span></span>
 
-At the same time, correlation does not automatically resolve every case. Some reports remain unexplained after investigation, and defence agencies continue to collect data on incidents that cannot be immediately identified. However, when researchers examine large UFO catalogues statistically rather than case by case, proximity to aviation infrastructure consistently emerges as a major factor shaping where reports cluster. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">Preliminary Assessment: Unidentified Aerial Phenomena</span><span class="citation-popover-snippet">Preliminary Assessment: Unidentified Aerial Phenomena...June 25, 2021 — 25 Jun 2021 — This report provides an overview for policymake...</span><span class="citation-popover-meta">Published: June 25, 2021</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 22 — This analysis is one of few invest...</span></span></span> For anyone interpreting UFO databases, this means that flight corridors, military training zones and defence installations should be treated not as neutral background features but as important variables that can significantly influence where sightings are reported and how those clusters appear on a map.
+At the same time, correlation does not automatically resolve every case. Some reports remain unexplained after investigation, and defence agencies continue to collect data on incidents that cannot be immediately identified. However, when researchers examine large UFO catalogues statistically rather than case by case, proximity to aviation infrastructure consistently emerges as a major factor shaping where reports cluster.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">Preliminary Assessment: Unidentified Aerial Phenomena</span><span class="citation-popover-snippet">Preliminary Assessment: Unidentified Aerial Phenomena...June 25, 2021 — 25 Jun 2021 — This report provides an overview for policymake...</span><span class="citation-popover-meta">Published: June 25, 2021</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 22 — This analysis is one of few invest...</span></span></span> For anyone interpreting UFO databases, this means that flight corridors, military training zones and defence installations should be treated not as neutral background features but as important variables that can significantly influence where sightings are reported and how those clusters appear on a map.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9k82mjcfGag" title="UFO Hearing LIVE | Pentagon Stumped by 21 Sightings, 700+ New Cases | US News | UFO News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9k82mjcfGag" target="_blank" rel="noopener noreferrer">UFO Hearing LIVE | Pentagon Stumped by 21 Sightings, 700+ New Cases | US News | UFO News</a></p><p class="youtube-embed-meta">Channel: Hindustan Times &middot; Views: 5.3K &middot; Uploaded: November 2024 &middot; Length: 9 hours 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9k82mjcfGag" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9k82mjcfGag">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Air Traffic and Military Zones Affect UFO Clustering. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Air Traffic and Military Zones Affect UFO Clustering. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how sightings should be classified and investigated rather than treated as raw anomaly counts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how sightings should be classified and investigated rather than treated as raw anomaly counts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly covers pilot, military and official UFO cases relevant to air-traffic and defence-zone report patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers pilot, military and official UFO cases relevant to air-traffic and defence-zone report patterns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Fits the broader UAP evidence, belief and technology context behind database interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits the broader UAP evidence, belief and technology context behind database interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Helps readers distinguish meaningful patterns from reporting artefacts and bias.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Helps readers distinguish meaningful patterns from reporting artefacts and bias.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print Giant UFO Hovering Over Vintage City Red Beam Attack Map Style Weird"><img src="{{ '/assets/images/marketplace-covers/a91422e1e8ff511c3818.jpg' | relative_url }}" alt="Listing image for Art Print Giant UFO Hovering Over Vintage City Red Beam Attack Map Style Weird" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer">Art Print Giant UFO Hovering Over Vintage City Red Beam Attack Map Style Weird</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print Giant UFO Hovering Over Vintage City Red Beam Attack Map Style Weird"><img src="{{ '/assets/images/marketplace-covers/a91422e1e8ff511c3818.jpg' | relative_url }}" alt="Listing image for Art Print Giant UFO Hovering Over Vintage City Red Beam Attack Map Style Weird" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer">Art Print Giant UFO Hovering Over Vintage City Red Beam Attack Map Style Weird</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map"><img src="{{ '/assets/images/marketplace-covers/51b8893bbe54c1ca707b.jpg' | relative_url }}" alt="Listing image for Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer">Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map"><img src="{{ '/assets/images/marketplace-covers/51b8893bbe54c1ca707b.jpg' | relative_url }}" alt="Listing image for Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer">Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print Alien Saucer Over City Vintage Map UFO Hovering Leonardo Da Vinci Styl"><img src="{{ '/assets/images/marketplace-covers/622c1729001d43c4346c.jpg' | relative_url }}" alt="Listing image for Art Print Alien Saucer Over City Vintage Map UFO Hovering Leonardo Da Vinci Styl" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer">Art Print Alien Saucer Over City Vintage Map UFO Hovering Leonardo Da Vinci Styl</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print Alien Saucer Over City Vintage Map UFO Hovering Leonardo Da Vinci Styl"><img src="{{ '/assets/images/marketplace-covers/622c1729001d43c4346c.jpg' | relative_url }}" alt="Listing image for Art Print Alien Saucer Over City Vintage Map UFO Hovering Leonardo Da Vinci Styl" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer">Art Print Alien Saucer Over City Vintage Map UFO Hovering Leonardo Da Vinci Styl</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map"><img src="{{ '/assets/images/marketplace-covers/785e336da487766e89a7.jpg' | relative_url }}" alt="Listing image for Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer">Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map"><img src="{{ '/assets/images/marketplace-covers/785e336da487766e89a7.jpg' | relative_url }}" alt="Listing image for Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer">Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="air-traffic-how-air-traffic-and-military-zones-affect-ufo-clustering-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -603,7 +603,7 @@ At the same time, correlation does not automatically resolve every case. Some re
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -623,7 +623,7 @@ At the same time, correlation does not automatically resolve every case. Some re
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -655,7 +655,7 @@ At the same time, correlation does not automatically resolve every case. Some re
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -707,7 +707,7 @@ At the same time, correlation does not automatically resolve every case. Some re
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -752,7 +752,7 @@ At the same time, correlation does not automatically resolve every case. Some re
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -793,115 +793,115 @@ At the same time, correlation does not automatically resolve every case. Some re
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-49527-x</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 22 — This analysis is one of few invest...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-49527-x</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 22 — This analysis is one of few invest...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: rand.org  
-   Link: <a href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/research_reports/RRA2475-1.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Not the X-Files: Mapping Public Reports of Unidentified...25 Jul 2023 — In this report, RAND researchers present a geographic analys...</p></details>
+   Link:<a href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/research_reports/RRA2475-1.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Not the X-Files: Mapping Public Reports of Unidentified...25 Jul 2023 — In this report, RAND researchers present a geographic analys...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — This analysis is one of few investigations...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — This analysis is one of few investigations...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration Section 8  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena (UAP...GENERAL. Inform the operations supervisor/CIC of any reported or observed unidentified anomalous...</p></details>
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena (UAP...GENERAL. Inform the operations supervisor/CIC of any reported or observed unidentified anomalous...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: dni.gov  
    Title: Preliminary Assessment: Unidentified Aerial Phenomena  
-   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Preliminary Assessment: Unidentified Aerial Phenomena...June 25, 2021 — 25 Jun 2021 — This report provides an overview for policymake...</p></details>
+   Link:<a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Preliminary Assessment: Unidentified Aerial Phenomena...June 25, 2021 — 25 Jun 2021 — This report provides an overview for policymake...</p></details>
    Published: June 25, 2021  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: eurekalert.org  
    Title: news releases  
-   Link: <a href="https://www.eurekalert.org/news-releases/1035879" target="_blank" rel="noopener noreferrer nofollow">https://www.eurekalert.org/news-releases/1035879</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The West is best to spot UFOs27 Feb 2024 — For each county in the contiguous U.S., the researchers analyzed two conditions: Sky view pote...</p></details>
+   Link:<a href="https://www.eurekalert.org/news-releases/1035879" target="_blank" rel="noopener noreferrer nofollow">https://www.eurekalert.org/news-releases/1035879</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The West is best to spot UFOs27 Feb 2024 — For each county in the contiguous U.S., the researchers analyzed two conditions: Sky view pote...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: UFO reports and atomic sites  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: rand.org  
    Title: 12,783 U.S. Census Bureau census designated places.Read more  
-   Link: <a href="https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mapping Public Reports of Unidentified Aerial Phenomena...by MN POSARD · 2023 · Cited by 4 — This report presents a geographic analysis...</p></details>
+   Link:<a href="https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mapping Public Reports of Unidentified Aerial Phenomena...by MN POSARD · 2023 · Cited by 4 — This report presents a geographic analysis...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: militarytimes.com  
    Title: ufo sightings linked to military training locations report finds  
-   Link: <a href="https://www.militarytimes.com/news/your-military/2023/07/25/ufo-sightings-linked-to-military-training-locations-report-finds/" target="_blank" rel="noopener noreferrer nofollow">https://www.militarytimes.com/news/your-military/2023/07/25/ufo-sightings-linked-to-military-training-locations-report-finds/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings linked to military training locations, report finds25 Jul 2023 — In their report, RAND researchers found the rate of UAP si...</p></details>
+   Link:<a href="https://www.militarytimes.com/news/your-military/2023/07/25/ufo-sightings-linked-to-military-training-locations-report-finds/" target="_blank" rel="noopener noreferrer nofollow">https://www.militarytimes.com/news/your-military/2023/07/25/ufo-sightings-linked-to-military-training-locations-report-finds/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings linked to military training locations, report finds25 Jul 2023 — In their report, RAND researchers found the rate of UAP si...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sciencenews.org  
    Title: Science News Scientists are getting serious about UFOs  
-   Link: <a href="https://www.sciencenews.org/article/scientists-serious-ufo-uap-security" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencenews.org/article/scientists-serious-ufo-uap-security</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s why7 Aug 2024 — One factor that appears to boost the number of UAP sightings is proximity to an airport or military installation...</p></details>
+   Link:<a href="https://www.sciencenews.org/article/scientists-serious-ufo-uap-security" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencenews.org/article/scientists-serious-ufo-uap-security</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s why7 Aug 2024 — One factor that appears to boost the number of UAP sightings is proximity to an airport or military installation...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...Upon completion of my flight an unidentified flying object report was completed, at which tim...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...Upon completion of my flight an unidentified flying object report was completed, at which tim...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ouci.dntb.gov.ua  
-   Link: <a href="https://ouci.dntb.gov.ua/en/works/4EweyOK9/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/4EweyOK9/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>environmental analysis of public UAP sightings and sky...Using a Bayesian regression method, we test hypotheses based on variables repre...</p></details>
+   Link:<a href="https://ouci.dntb.gov.ua/en/works/4EweyOK9/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/4EweyOK9/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>environmental analysis of public UAP sightings and sky...Using a Bayesian regression method, we test hypotheses based on variables repre...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: consensus.app  
-   Link: <a href="https://consensus.app/search/id-like-to-learn-about-the-latest-advances-in-rese/joQWZvTwRBuAeKTm0nfrzQ/" target="_blank" rel="noopener noreferrer nofollow">https://consensus.app/search/id-like-to-learn-about-the-latest-advances-in-rese/joQWZvTwRBuAeKTm0nfrzQ/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Increased Scientific Legitimacy and Institutional Involvement. The study of UFOs, now more commonly termed Unidentified...Read more...</p></details>
+   Link:<a href="https://consensus.app/search/id-like-to-learn-about-the-latest-advances-in-rese/joQWZvTwRBuAeKTm0nfrzQ/" target="_blank" rel="noopener noreferrer nofollow">https://consensus.app/search/id-like-to-learn-about-the-latest-advances-in-rese/joQWZvTwRBuAeKTm0nfrzQ/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Increased Scientific Legitimacy and Institutional Involvement. The study of UFOs, now more commonly termed Unidentified...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/376519968_An_environmental_analysis_of_public_UAP_sightings_and_sky_view_potential" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376519968_An_environmental_analysis_of_public_UAP_sightings_and_sky_view_potential</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An environmental analysis of public UAP sightings and sky...8 Dec 2023 — This analysis is one of few investigations of UAP sighting repo...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/376519968_An_environmental_analysis_of_public_UAP_sightings_and_sky_view_potential" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376519968_An_environmental_analysis_of_public_UAP_sightings_and_sky_view_potential</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An environmental analysis of public UAP sightings and sky...8 Dec 2023 — This analysis is one of few investigations of UAP sighting repo...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/MadieMovies.Hai/posts/-faa-ufo-reports-unexplained-sightings-in-american-airspaceevery-year-pilots-and/953071467673746/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MadieMovies.Hai/posts/-faa-ufo-reports-unexplained-sightings-in-american-airspaceevery-year-pilots-and/953071467673746/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA UFO Reports: Unexplained Sightings in American...26 Mar 2026 — FAA UFO Reports: Unexplained Sightings in American Airspace Every yea...</p></details>
+   Link:<a href="https://www.facebook.com/MadieMovies.Hai/posts/-faa-ufo-reports-unexplained-sightings-in-american-airspaceevery-year-pilots-and/953071467673746/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MadieMovies.Hai/posts/-faa-ufo-reports-unexplained-sightings-in-american-airspaceevery-year-pilots-and/953071467673746/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAA UFO Reports: Unexplained Sightings in American...26 Mar 2026 — FAA UFO Reports: Unexplained Sightings in American Airspace Every yea...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: sciencealert.com  
    Title: scientists say theyve found the best place to spot a ufo in the us  
-   Link: <a href="https://www.sciencealert.com/scientists-say-theyve-found-the-best-place-to-spot-a-ufo-in-the-us" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencealert.com/scientists-say-theyve-found-the-best-place-to-spot-a-ufo-in-the-us</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists Say They&#x27;ve Found The Best Place to Spot a...22 Mar 2024 — Two conditions were assessed for each sighting: sky view potential...</p></details>
+   Link:<a href="https://www.sciencealert.com/scientists-say-theyve-found-the-best-place-to-spot-a-ufo-in-the-us" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencealert.com/scientists-say-theyve-found-the-best-place-to-spot-a-ufo-in-the-us</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists Say They&#x27;ve Found The Best Place to Spot a...22 Mar 2024 — Two conditions were assessed for each sighting: sky view potential...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nasa.gov  
    Title: announces unidentified aerial phenomena study team members  
-   Link: <a href="https://www.nasa.gov/general/nasa-announces-unidentified-aerial-phenomena-study-team-members/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/general/nasa-announces-unidentified-aerial-phenomena-study-team-members/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A full report containing the team&#x27;s findings will be released to the public in mid-2023. “...Read more...</p></details>
+   Link:<a href="https://www.nasa.gov/general/nasa-announces-unidentified-aerial-phenomena-study-team-members/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/general/nasa-announces-unidentified-aerial-phenomena-study-team-members/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A full report containing the team&#x27;s findings will be released to the public in mid-2023. “...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/18i7r8r/an_environmental_analysis_of_public_uap_sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/18i7r8r/an_environmental_analysis_of_public_uap_sightings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>presenting sky view potential ([light pollution](&amp;#123;&amp;#123; &#x27;light-pollution/&#x27; | relative_url &amp;#125;&amp;#125;), [tree canopy](&amp;#123;&amp;#123; &#x27;tree-canopy/&#x27; | relative_url &amp;#125;&amp;#125;), and...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/18i7r8r/an_environmental_analysis_of_public_uap_sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/18i7r8r/an_environmental_analysis_of_public_uap_sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>presenting sky view potential ([light pollution](&amp;#123;&amp;#123; &#x27;light-pollution/&#x27; | relative_url &amp;#125;&amp;#125;), [tree canopy](&amp;#123;&amp;#123; &#x27;tree-canopy/&#x27; | relative_url &amp;#125;&amp;#125;), and...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: safeaerospace.org  
    Title: the faa quietly updated its uap reporting policy  
-   Link: <a href="https://www.safeaerospace.org/news/the-faa-quietly-updated-its-uap-reporting-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.safeaerospace.org/news/the-faa-quietly-updated-its-uap-reporting-policy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Nov 2025 — The new policy replaces the outdated “UFO” terminology and instructs air traffic controllers to report UAP observations thro...</p></details>
+   Link:<a href="https://www.safeaerospace.org/news/the-faa-quietly-updated-its-uap-reporting-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.safeaerospace.org/news/the-faa-quietly-updated-its-uap-reporting-policy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>7 Nov 2025 — The new policy replaces the outdated “UFO” terminology and instructs air traffic controllers to report UAP observations thro...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: fliegerfaust.com  
    Title: uap ufo aviation safety pilot reporting data  
-   Link: <a href="https://www.fliegerfaust.com/uap-ufo-aviation-safety-pilot-reporting-data/" target="_blank" rel="noopener noreferrer nofollow">https://www.fliegerfaust.com/uap-ufo-aviation-safety-pilot-reporting-data/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP UFO aviation safety: what pilots and ATC need in 202628 Dec 2025 — UAP/UFO aviation safety: Rhode Island ATC audio, Fox documentary c...</p></details>
+   Link:<a href="https://www.fliegerfaust.com/uap-ufo-aviation-safety-pilot-reporting-data/" target="_blank" rel="noopener noreferrer nofollow">https://www.fliegerfaust.com/uap-ufo-aviation-safety-pilot-reporting-data/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP UFO aviation safety: what pilots and ATC need in 202628 Dec 2025 — UAP/UFO aviation safety: Rhode Island ATC audio, Fox documentary c...</p></details>

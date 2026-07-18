@@ -274,34 +274,34 @@ image: /assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271_starlin
 
 ## Introduction
 
-Since the first **Starlink** satellite launches in 2019, researchers and UFO‑report database curators have noticed an associated rise in reports to public sighting collections such as the National UFO Reporting Center ([NUFORC]({{ 'nuforc/' | relative_url }})) and similar European networks. These reports frequently describe evenly spaced lights moving across the night sky — exactly the visual signature of a freshly deployed train of Starlink satellites — leading to identifiable spikes in “UFO” report categories tied to formation sightings. Understanding this effect is important for anyone analysing UFO database patterns, because Starlink visibility introduces a systematic reporting artefact that can mimic unexplained aerial phenomena if not properly accounted for. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufofinder.com/insights/starlink-effect/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufofinder.com">[UFO Finder]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufofinder.com</span><span class="citation-popover-title">UFO Finder The Starlink Effect &#124; UFO Data Insights &#124; UFO Finder &#124; UFO Finder</span><span class="citation-popover-snippet">UFO Finder The Starlink Effect &#124; UFO Data Insights &#124; UFO Finder &#124; UFO Finder</span></span></span>
+Since the first **Starlink** satellite launches in 2019, researchers and UFO‑report database curators have noticed an associated rise in reports to public sighting collections such as the National UFO Reporting Center ([NUFORC]({{ 'nuforc/' | relative_url }})) and similar European networks. These reports frequently describe evenly spaced lights moving across the night sky — exactly the visual signature of a freshly deployed train of Starlink satellites — leading to identifiable spikes in “UFO” report categories tied to formation sightings. Understanding this effect is important for anyone analysing UFO database patterns, because Starlink visibility introduces a systematic reporting artefact that can mimic unexplained aerial phenomena if not properly accounted for.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufofinder.com/insights/starlink-effect/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufofinder.com">[UFO Finder]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufofinder.com</span><span class="citation-popover-title">UFO Finder The Starlink Effect &#124; UFO Data Insights &#124; UFO Finder &#124; UFO Finder</span><span class="citation-popover-snippet">UFO Finder The Starlink Effect &#124; UFO Data Insights &#124; UFO Finder &#124; UFO Finder</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271_starlink_ufo_report_73da9a-Illustration-1-dark.svg" | relative_url }}" alt="Starlink Effects illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271_starlink_ufo_report_73da9a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271_starlink_ufo_report_73da9a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Starlink Satellite Deployments and Visual Signature
 
-**Starlink** is a large, low‑Earth‑orbit satellite constellation developed by SpaceX to provide broadband internet coverage worldwide. These satellites are typically launched in batches and initially appear close together in orbit. Shortly after launch they form a distinct, evenly‑spaced line of lights that transits the night sky over several minutes, especially during twilight when solar illumination strikes the satellites while the ground below is in darkness. This pattern is visually striking and unlike classic steady, single‑object satellite passes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufofinder.com/insights/starlink-effect/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufofinder.com">[UFO Finder]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufofinder.com</span><span class="citation-popover-title">UFO Finder The Starlink Effect &#124; UFO Data Insights &#124; UFO Finder &#124; UFO Finder</span><span class="citation-popover-snippet">UFO Finder The Starlink Effect &#124; UFO Data Insights &#124; UFO Finder &#124; UFO Finder</span></span></span>
+**Starlink** is a large, low‑Earth‑orbit satellite constellation developed by SpaceX to provide broadband internet coverage worldwide. These satellites are typically launched in batches and initially appear close together in orbit. Shortly after launch they form a distinct, evenly‑spaced line of lights that transits the night sky over several minutes, especially during twilight when solar illumination strikes the satellites while the ground below is in darkness. This pattern is visually striking and unlike classic steady, single‑object satellite passes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufofinder.com/insights/starlink-effect/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufofinder.com">[UFO Finder]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufofinder.com</span><span class="citation-popover-title">UFO Finder The Starlink Effect &#124; UFO Data Insights &#124; UFO Finder &#124; UFO Finder</span><span class="citation-popover-snippet">UFO Finder The Starlink Effect &#124; UFO Data Insights &#124; UFO Finder &#124; UFO Finder</span></span></span>
 
-This **train‑of‑lights signature** directly intersects with how many casual observers describe “formation” sightings in UFO reports: a linear array of bright points moving steadily across the sky from horizon to horizon. Without reference to orbital predictions or satellite trackers, such sightings can be logged to UFO databases as unidentified lights, inflating counts in particular sighting shape categories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufofinder.com/insights/starlink-effect/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufofinder.com">[UFO Finder]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufofinder.com</span><span class="citation-popover-title">UFO Finder The Starlink Effect &#124; UFO Data Insights &#124; UFO Finder &#124; UFO Finder</span><span class="citation-popover-snippet">UFO Finder The Starlink Effect &#124; UFO Data Insights &#124; UFO Finder &#124; UFO Finder</span></span></span>
+This **train‑of‑lights signature** directly intersects with how many casual observers describe “formation” sightings in UFO reports: a linear array of bright points moving steadily across the sky from horizon to horizon. Without reference to orbital predictions or satellite trackers, such sightings can be logged to UFO databases as unidentified lights, inflating counts in particular sighting shape categories.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufofinder.com/insights/starlink-effect/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufofinder.com">[UFO Finder]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufofinder.com</span><span class="citation-popover-title">UFO Finder The Starlink Effect &#124; UFO Data Insights &#124; UFO Finder &#124; UFO Finder</span><span class="citation-popover-snippet">UFO Finder The Starlink Effect &#124; UFO Data Insights &#124; UFO Finder &#124; UFO Finder</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JqACWozdHsA" title="SpaceX Starlink Over Los Angeles (November 2019)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JqACWozdHsA" target="_blank" rel="noopener noreferrer">SpaceX Starlink Over Los Angeles (November 2019)</a></p><p class="youtube-embed-meta">Channel: NASASpaceflight &middot; Views: 31.2K &middot; Uploaded: November 2019 &middot; Length: 43 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JqACWozdHsA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JqACWozdHsA">Open on YouTube</a></p></div></div></div>
 
 ## Correlation with Report Spikes
 
-Analyses of public UFO report trends after 2019 find that reports describing formation sightings and lines of lights have increased noticeably in the years following Starlink deployments. One tracker of UFO data attributes roughly a **40 % increase in formation‑type reports** after the first Starlink launches compared to pre‑Starlink [baselines]({{ 'baselines/' | relative_url }}), noting that thousands of these satellites were launched in a short period and created a new, common visual event in the night sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufofinder.com/insights/starlink-effect/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufofinder.com">[UFO Finder]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufofinder.com</span><span class="citation-popover-title">UFO Finder The Starlink Effect &#124; UFO Data Insights &#124; UFO Finder &#124; UFO Finder</span><span class="citation-popover-snippet">UFO Finder The Starlink Effect &#124; UFO Data Insights &#124; UFO Finder &#124; UFO Finder</span></span></span>
+Analyses of public UFO report trends after 2019 find that reports describing formation sightings and lines of lights have increased noticeably in the years following Starlink deployments. One tracker of UFO data attributes roughly a **40 % increase in formation‑type reports** after the first Starlink launches compared to pre‑Starlink [baselines]({{ 'baselines/' | relative_url }}), noting that thousands of these satellites were launched in a short period and created a new, common visual event in the night sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufofinder.com/insights/starlink-effect/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufofinder.com">[UFO Finder]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufofinder.com</span><span class="citation-popover-title">UFO Finder The Starlink Effect &#124; UFO Data Insights &#124; UFO Finder &#124; UFO Finder</span><span class="citation-popover-snippet">UFO Finder The Starlink Effect &#124; UFO Data Insights &#124; UFO Finder &#124; UFO Finder</span></span></span>
 
-Public and institutional report reviews echo this pattern. German UFO research network CENAP recorded a notably high number of reports in 2024 — the highest since the organisation’s founding — and found that *most* of those could be attributed to Starlink trains or other explainable atmospheric and astronomical phenomena rather than unknown craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://particle.news/story/record-ufo-sightings-in-2024-linked-to-starlink-satellites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: particle.news">[Particle News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">particle.news</span><span class="citation-popover-title">record ufo sightings in 2024 linked to starlink satellites</span><span class="citation-popover-snippet">Record UFO Sightings in 2024 Linked to Starlink Satellites...</span></span></span>
+Public and institutional report reviews echo this pattern. German UFO research network CENAP recorded a notably high number of reports in 2024 — the highest since the organisation’s founding — and found that *most* of those could be attributed to Starlink trains or other explainable atmospheric and astronomical phenomena rather than unknown craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://particle.news/story/record-ufo-sightings-in-2024-linked-to-starlink-satellites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: particle.news">[Particle News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">particle.news</span><span class="citation-popover-title">record ufo sightings in 2024 linked to starlink satellites</span><span class="citation-popover-snippet">Record UFO Sightings in 2024 Linked to Starlink Satellites...</span></span></span>
 
-NUFORC case entries from 2019 and 2020 often describe exactly the visual configuration expected of Starlink satellites: dozens of evenly spaced lights crossing the sky at constant speed and altitude. These cases are especially common in reports from late 2019 and early 2020, coincident with early batch deployments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=152099" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 152099January 31, 2020...</span><span class="citation-popover-meta">Published: January 31, 2020</span></span></span>
+NUFORC case entries from 2019 and 2020 often describe exactly the visual configuration expected of Starlink satellites: dozens of evenly spaced lights crossing the sky at constant speed and altitude. These cases are especially common in reports from late 2019 and early 2020, coincident with early batch deployments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=152099" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 152099January 31, 2020...</span><span class="citation-popover-meta">Published: January 31, 2020</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271_starlink_ufo_report_73da9a-Illustration-2-dark.svg" | relative_url }}" alt="Starlink Effects illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271_starlink_ufo_report_73da9a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271_starlink_ufo_report_73da9a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Mechanisms Behind Reporting Inflation
 
 Two key mechanisms underlie this effect:
 
-* **Perceptual Misidentification:** Many observers are unfamiliar with how large satellite constellations appear in the night sky. A freshly deployed train of Starlink satellites can look unusual and “unearthly” when seen without astronomical context, prompting reports to UFO databases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufofinder.com/insights/starlink-effect/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufofinder.com">[UFO Finder]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufofinder.com</span><span class="citation-popover-title">UFO Finder The Starlink Effect &#124; UFO Data Insights &#124; UFO Finder &#124; UFO Finder</span><span class="citation-popover-snippet">UFO Finder The Starlink Effect &#124; UFO Data Insights &#124; UFO Finder &#124; UFO Finder</span></span></span>
-* **Seasonal and Timing Effects:** Starlink trains are most visible shortly after launch and under specific lighting conditions (e.g. just after sunset or before sunrise). These conditions also align with times when many casual sky watchers are outside with smartphones and cameras, increasing the likelihood that such sightings get reported. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufofinder.com/insights/starlink-effect/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufofinder.com">[UFO Finder]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufofinder.com</span><span class="citation-popover-title">UFO Finder The Starlink Effect &#124; UFO Data Insights &#124; UFO Finder &#124; UFO Finder</span><span class="citation-popover-snippet">UFO Finder The Starlink Effect &#124; UFO Data Insights &#124; UFO Finder &#124; UFO Finder</span></span></span>
+* **Perceptual Misidentification:** Many observers are unfamiliar with how large satellite constellations appear in the night sky. A freshly deployed train of Starlink satellites can look unusual and “unearthly” when seen without astronomical context, prompting reports to UFO databases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufofinder.com/insights/starlink-effect/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufofinder.com">[UFO Finder]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufofinder.com</span><span class="citation-popover-title">UFO Finder The Starlink Effect &#124; UFO Data Insights &#124; UFO Finder &#124; UFO Finder</span><span class="citation-popover-snippet">UFO Finder The Starlink Effect &#124; UFO Data Insights &#124; UFO Finder &#124; UFO Finder</span></span></span>
+* **Seasonal and Timing Effects:** Starlink trains are most visible shortly after launch and under specific lighting conditions (e.g. just after sunset or before sunrise). These conditions also align with times when many casual sky watchers are outside with smartphones and cameras, increasing the likelihood that such sightings get reported.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufofinder.com/insights/starlink-effect/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufofinder.com">[UFO Finder]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufofinder.com</span><span class="citation-popover-title">UFO Finder The Starlink Effect &#124; UFO Data Insights &#124; UFO Finder &#124; UFO Finder</span><span class="citation-popover-snippet">UFO Finder The Starlink Effect &#124; UFO Data Insights &#124; UFO Finder &#124; UFO Finder</span></span></span>
 
-The reports’ common descriptors — steady linear motion, equal spacing of lights, and several minutes of visibility — match orbital mechanics predictions for satellite trains and differ significantly from many classic UFO narratives involving erratic movement or rapid acceleration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufofinder.com/insights/starlink-effect/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufofinder.com">[UFO Finder]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufofinder.com</span><span class="citation-popover-title">UFO Finder The Starlink Effect &#124; UFO Data Insights &#124; UFO Finder &#124; UFO Finder</span><span class="citation-popover-snippet">UFO Finder The Starlink Effect &#124; UFO Data Insights &#124; UFO Finder &#124; UFO Finder</span></span></span>
+The reports’ common descriptors — steady linear motion, equal spacing of lights, and several minutes of visibility — match orbital mechanics predictions for satellite trains and differ significantly from many classic UFO narratives involving erratic movement or rapid acceleration.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufofinder.com/insights/starlink-effect/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufofinder.com">[UFO Finder]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufofinder.com</span><span class="citation-popover-title">UFO Finder The Starlink Effect &#124; UFO Data Insights &#124; UFO Finder &#124; UFO Finder</span><span class="citation-popover-snippet">UFO Finder The Starlink Effect &#124; UFO Data Insights &#124; UFO Finder &#124; UFO Finder</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/H4TzP26dX18" title="SpaceX Starlink satellites seen in Albuquerque night sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=H4TzP26dX18" target="_blank" rel="noopener noreferrer">SpaceX Starlink satellites seen in Albuquerque night sky</a></p><p class="youtube-embed-meta">Channel: KRQE &middot; Views: 3.6K &middot; Uploaded: May 2021 &middot; Length: 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=H4TzP26dX18" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=H4TzP26dX18">Open on YouTube</a></p></div></div></div>
 
@@ -311,201 +311,201 @@ The reports’ common descriptors — steady linear motion, equal spacing of lig
 
 The **impact of Starlink** on UFO report data highlights a core pattern‑analysis pitfall: not all surges in sighting databases reflect an underlying surge in “anomalous phenomena.” A new, highly visible class of sky object can produce patterns in report counts that mimic waves or [clusters]({{ 'clusters/' | relative_url }}). Without cross‑referencing satellite tracking data or observatory records, analysts risk over‑interpreting spikes as evidence of unexplained aerial craft.
 
-This effect emphasises the importance of integrating astronomical and orbital data checks into UFO report analysis workflows. Tools such as Heavens‑Above or findstarlink.com let researchers quickly verify whether a reported sighting time and location coincide with visible Starlink passes, greatly reducing the chance of misclassification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufofinder.com/insights/starlink-effect/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufofinder.com">[UFO Finder]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufofinder.com</span><span class="citation-popover-title">UFO Finder The Starlink Effect &#124; UFO Data Insights &#124; UFO Finder &#124; UFO Finder</span><span class="citation-popover-snippet">UFO Finder The Starlink Effect &#124; UFO Data Insights &#124; UFO Finder &#124; UFO Finder</span></span></span>
+This effect emphasises the importance of integrating astronomical and orbital data checks into UFO report analysis workflows. Tools such as Heavens‑Above or findstarlink.com let researchers quickly verify whether a reported sighting time and location coincide with visible Starlink passes, greatly reducing the chance of misclassification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufofinder.com/insights/starlink-effect/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufofinder.com">[UFO Finder]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufofinder.com</span><span class="citation-popover-title">UFO Finder The Starlink Effect &#124; UFO Data Insights &#124; UFO Finder &#124; UFO Finder</span><span class="citation-popover-snippet">UFO Finder The Starlink Effect &#124; UFO Data Insights &#124; UFO Finder &#124; UFO Finder</span></span></span>
 
-In sum, incorporating awareness of satellite constellation effects — especially Starlink — helps preserve the **signal integrity** of UFO databases by filtering out explainable yet visually unusual sources of sightings that would otherwise inflate formation and lights‑in‑sky report categories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufofinder.com/insights/starlink-effect/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufofinder.com">[UFO Finder]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufofinder.com</span><span class="citation-popover-title">UFO Finder The Starlink Effect &#124; UFO Data Insights &#124; UFO Finder &#124; UFO Finder</span><span class="citation-popover-snippet">UFO Finder The Starlink Effect &#124; UFO Data Insights &#124; UFO Finder &#124; UFO Finder</span></span></span>
+In sum, incorporating awareness of satellite constellation effects — especially Starlink — helps preserve the **signal integrity** of UFO databases by filtering out explainable yet visually unusual sources of sightings that would otherwise inflate formation and lights‑in‑sky report categories.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufofinder.com/insights/starlink-effect/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufofinder.com">[UFO Finder]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufofinder.com</span><span class="citation-popover-title">UFO Finder The Starlink Effect &#124; UFO Data Insights &#124; UFO Finder &#124; UFO Finder</span><span class="citation-popover-snippet">UFO Finder The Starlink Effect &#124; UFO Data Insights &#124; UFO Finder &#124; UFO Finder</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271_starlink_ufo_report_73da9a-Illustration-3-dark.svg" | relative_url }}" alt="Starlink Effects illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271_starlink_ufo_report_73da9a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_nuforc_patterns_696271_starlink_ufo_report_73da9a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Starlink Satellite Launches Inflated UFO Reports. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Starlink Satellite Launches Inflated UFO Reports. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek&#x27;s approach to UFO classification is relevant to distinguishing satellite sightings from stronger cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek&#x27;s approach to UFO classification is relevant to distinguishing satellite sightings from stronger cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides broader modern UFO context for readers assessing which reports may remain unexplained after filtering misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader modern UFO context for readers assessing which reports may remain unexplained after filtering misidentifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=See+It+with+a+Small+Telescope+by+Will+Kalif&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open See It with a Small Telescope on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Xsk6DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for See It with a Small Telescope" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=See+It+with+a+Small+Telescope+by+Will+Kalif&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="See It with a Small Telescope">See It with a Small Telescope</a>
-        </h4>
-        <p class="fr-book-author">By Will Kalif</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=See+It+with+a+Small+Telescope+by+Will+Kalif&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open See It with a Small Telescope on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Xsk6DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for See It with a Small Telescope" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=See+It+with+a+Small+Telescope+by+Will+Kalif&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="See It with a Small Telescope">See It with a Small Telescope</a>
+</h4>
+<p class="fr-book-author">By Will Kalif</p>
         
-        <p class="fr-book-desc">Helps readers understand ordinary night-sky observations that can be mistaken for UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=See+It+with+a+Small+Telescope+by+Will+Kalif&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand ordinary night-sky observations that can be mistaken for UFOs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=See+It+with+a+Small+Telescope+by+Will+Kalif&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IQhUzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IQhUzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
         
-        <p class="fr-book-desc">Supports identification of satellites, planets, and other sky phenomena that contribute to UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports identification of satellites, planets, and other sky phenomena that contribute to UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=See+It+with+a+Small+Telescope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">See It with a Small Telescope</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=See+It+with+a+Small+Telescope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">See It with a Small Telescope</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien - 40th Anniversary Limited Edition Enamel Pin Badge NEW"><img src="{{ '/assets/images/marketplace-covers/e68baf432778c29305a0.jpg' | relative_url }}" alt="Listing image for Alien - 40th Anniversary Limited Edition Enamel Pin Badge NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien - 40th Anniversary Limited Edition Enamel Pin Badge NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien - 40th Anniversary Limited Edition Enamel Pin Badge NEW"><img src="{{ '/assets/images/marketplace-covers/e68baf432778c29305a0.jpg' | relative_url }}" alt="Listing image for Alien - 40th Anniversary Limited Edition Enamel Pin Badge NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien - 40th Anniversary Limited Edition Enamel Pin Badge NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge"><img src="{{ '/assets/images/marketplace-covers/543d1581f512f7d95d12.jpg' | relative_url }}" alt="Listing image for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge"><img src="{{ '/assets/images/marketplace-covers/543d1581f512f7d95d12.jpg' | relative_url }}" alt="Listing image for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/b729946542c23df6f590.jpg' | relative_url }}" alt="Listing image for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/b729946542c23df6f590.jpg' | relative_url }}" alt="Listing image for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="starlink-effects-how-starlink-satellite-launches-inflated-ufo-reports-ufo-report-databases-and-c-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -521,7 +521,7 @@ In sum, incorporating awareness of satellite constellation effects — especiall
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -541,7 +541,7 @@ In sum, incorporating awareness of satellite constellation effects — especiall
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -573,7 +573,7 @@ In sum, incorporating awareness of satellite constellation effects — especiall
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -625,7 +625,7 @@ In sum, incorporating awareness of satellite constellation effects — especiall
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -670,7 +670,7 @@ In sum, incorporating awareness of satellite constellation effects — especiall
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -711,122 +711,122 @@ In sum, incorporating awareness of satellite constellation effects — especiall
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: particle.news  
    Title: record ufo sightings in 2024 linked to starlink satellites  
-   Link: <a href="https://particle.news/story/record-ufo-sightings-in-2024-linked-to-starlink-satellites" target="_blank" rel="noopener noreferrer nofollow">https://particle.news/story/record-ufo-sightings-in-2024-linked-to-starlink-satellites</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Record UFO Sightings in 2024 Linked to Starlink Satellites...</p></details>
+   Link:<a href="https://particle.news/story/record-ufo-sightings-in-2024-linked-to-starlink-satellites" target="_blank" rel="noopener noreferrer nofollow">https://particle.news/story/record-ufo-sightings-in-2024-linked-to-starlink-satellites</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Record UFO Sightings in 2024 Linked to Starlink Satellites...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=152099" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=152099</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 152099January 31, 2020...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=152099" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=152099</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 152099January 31, 2020...</p></details>
    Published: January 31, 2020  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=153084" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=153084</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 153084February 7, 2020 — NUFORC UFO SIGHTING 153084 Occurred: 2020-02-05 06:24 Local Reported: 2020-02-05 04:07 Pacif...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=153084" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=153084</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 153084February 7, 2020 — NUFORC UFO SIGHTING 153084 Occurred: 2020-02-05 06:24 Local Reported: 2020-02-05 04:07 Pacif...</p></details>
    Published: February 5, 2020  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=191181" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=191181</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 191181July 24, 2025 — NUFORC UFO SIGHTING 191181 Occurred: 2025-07-23 04:35 Local Reported: 2025-07-22 21:08 Pacific...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=191181" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=191181</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 191181July 24, 2025 — NUFORC UFO SIGHTING 191181 Occurred: 2025-07-23 04:35 Local Reported: 2025-07-22 21:08 Pacific...</p></details>
    Published: July 23, 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=176274" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=176274</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 176274July 10, 2023 — NUFORC UFO SIGHTING 176274 Occurred: 2023-06-12 22:30 Local Reported: 2023-06-14 11:30 Pacific...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=176274" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=176274</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 176274July 10, 2023 — NUFORC UFO SIGHTING 176274 Occurred: 2023-06-12 22:30 Local Reported: 2023-06-14 11:30 Pacific...</p></details>
    Published: June 12, 2023  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=156579" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=156579</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 156579June 25, 2020 — NUFORC UFO SIGHTING 156579 Occurred: 2020-05-19 21:45 Local Reported: 2020-05-20 14:54 Pacific...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=156579" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=156579</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 156579June 25, 2020 — NUFORC UFO SIGHTING 156579 Occurred: 2020-05-19 21:45 Local Reported: 2020-05-20 14:54 Pacific...</p></details>
    Published: May 19, 2020  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=150971" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=150971</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 150971December 1, 2019 — NUFORC UFO SIGHTING 150971 Occurred: 2019-11-11 21:00 Local - Approximate Reported: 2019-11...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=150971" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=150971</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 150971December 1, 2019 — NUFORC UFO SIGHTING 150971 Occurred: 2019-11-11 21:00 Local - Approximate Reported: 2019-11...</p></details>
    Published: November 11, 2019  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ufofinder.com  
    Title: UFO Finder The Starlink Effect | UFO Data Insights | UFO Finder | UFO Finder  
-   Link: <a href="https://ufofinder.com/insights/starlink-effect/" target="_blank" rel="noopener noreferrer nofollow">https://ufofinder.com/insights/starlink-effect/</a>  
+   Link:<a href="https://ufofinder.com/insights/starlink-effect/" target="_blank" rel="noopener noreferrer nofollow">https://ufofinder.com/insights/starlink-effect/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ufos.wiki  
    Title: They are launched in groups and appear as long lines across the sky  
-   Link: <a href="https://ufos.wiki/investigation/starlink/" target="_blank" rel="noopener noreferrer nofollow">https://ufos.wiki/investigation/starlink/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink - UFOs WikiImage: Starlink STARLINK SpaceX began launching their series of Starlink satellites in 2019 and now have over 3,300 i...</p></details>
+   Link:<a href="https://ufos.wiki/investigation/starlink/" target="_blank" rel="noopener noreferrer nofollow">https://ufos.wiki/investigation/starlink/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink - UFOs WikiImage: Starlink STARLINK SpaceX began launching their series of Starlink satellites in 2019 and now have over 3,300 i...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: livescience.com  
-   Link: <a href="https://www.livescience.com/space/space-exploration/spacexs-starlink-satellites-are-leaking-radiation-thats-photobombing-our-attempts-to-study-the-cosmos" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/space-exploration/spacexs-starlink-satellites-are-leaking-radiation-thats-photobombing-our-attempts-to-study-the-cosmos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX&#x27;s Starlink satellites are leaking radiation that&#x27;s &#x27;photobombing&#x27; our attempts to study the cosmos | Live ScienceJuly 11, 2023 — S...</p></details>
+   Link:<a href="https://www.livescience.com/space/space-exploration/spacexs-starlink-satellites-are-leaking-radiation-thats-photobombing-our-attempts-to-study-the-cosmos" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/space-exploration/spacexs-starlink-satellites-are-leaking-radiation-thats-photobombing-our-attempts-to-study-the-cosmos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX&#x27;s Starlink satellites are leaking radiation that&#x27;s &#x27;photobombing&#x27; our attempts to study the cosmos | Live ScienceJuly 11, 2023 — S...</p></details>
    Published: July 11, 2023  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: independent.co.uk  
-   Link: <a href="https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX: UFO reports surge after Elon Musk launches &#x27;eerie&#x27; satellite train | The Independent | The IndependentApril 20, 2020 — UFO REPORT...</p></details>
+   Link:<a href="https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX: UFO reports surge after Elon Musk launches &#x27;eerie&#x27; satellite train | The Independent | The IndependentApril 20, 2020 — UFO REPORT...</p></details>
    Published: April 20, 2020  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nasa.gov  
    Title: NAS A Starling and Space X Starlink Improve Space Traffic Coordination  
-   Link: <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-starling-and-spacex-starlink-improve-space-traffic-coordination" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/centers-and-facilities/ames/nasa-starling-and-spacex-starlink-improve-space-traffic-coordination</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Starling and SpaceX Starlink Improve Space Traffic Coordination - NASAMarch 26, 2025 — 4 min read NASA STARLING AND SPACEX STARLINK...</p></details>
+   Link:<a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-starling-and-spacex-starlink-improve-space-traffic-coordination" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/centers-and-facilities/ames/nasa-starling-and-spacex-starlink-improve-space-traffic-coordination</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Starling and SpaceX Starlink Improve Space Traffic Coordination - NASAMarch 26, 2025 — 4 min read NASA STARLING AND SPACEX STARLINK...</p></details>
    Published: March 26, 2025  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: observatoiredeparis.psl.eu  
    Title: eu Starlink satellites: a threat to astronomical observations  
-   Link: <a href="https://observatoiredeparis.psl.eu/starlink-satellites-a-threat.html" target="_blank" rel="noopener noreferrer nofollow">https://observatoiredeparis.psl.eu/starlink-satellites-a-threat.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>satellites: a threat to astronomical observations - Observatoire de Paris - PSL - Centre de recherche en astronomie et astrophysiqueOcto...</p></details>
+   Link:<a href="https://observatoiredeparis.psl.eu/starlink-satellites-a-threat.html" target="_blank" rel="noopener noreferrer nofollow">https://observatoiredeparis.psl.eu/starlink-satellites-a-threat.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>satellites: a threat to astronomical observations - Observatoire de Paris - PSL - Centre de recherche en astronomie et astrophysiqueOcto...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: medium.com  
    Title: Starlink Satellites do not Cause UFO Reports | by Noah Hradek | Medium  
-   Link: <a href="https://medium.com/%40noahhradek/starlink-satellites-do-not-cause-ufo-reports-07b1ec515d5c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40noahhradek/starlink-satellites-do-not-cause-ufo-reports-07b1ec515d5c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Noah Hradek 2 min read · Jul 2, 2024 S everal people have been saying Starlink is responsible for many UFO cases recently, i...</p></details>
+   Link:<a href="https://medium.com/%40noahhradek/starlink-satellites-do-not-cause-ufo-reports-07b1ec515d5c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40noahhradek/starlink-satellites-do-not-cause-ufo-reports-07b1ec515d5c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Noah Hradek 2 min read · Jul 2, 2024 S everal people have been saying Starlink is responsible for many UFO cases recently, i...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: lenz.io  
    Title: Are Satellite Flares Really Behind UFO Sightings?  
-   Link: <a href="https://lenz.io/c/satellite-flares-ufo-sightings-misidentification-896587bf" target="_blank" rel="noopener noreferrer nofollow">https://lenz.io/c/satellite-flares-ufo-sightings-misidentification-896587bf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LenzMarch 11, 2026 — Claim analyzed Science “SATELLITE FLARES ARE A COMMONLY CITED EXPLANATION FOR UFO SIGHTINGS.” THE CONCLUSION Revie...</p></details>
+   Link:<a href="https://lenz.io/c/satellite-flares-ufo-sightings-misidentification-896587bf" target="_blank" rel="noopener noreferrer nofollow">https://lenz.io/c/satellite-flares-ufo-sightings-misidentification-896587bf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LenzMarch 11, 2026 — Claim analyzed Science “SATELLITE FLARES ARE A COMMONLY CITED EXPLANATION FOR UFO SIGHTINGS.” THE CONCLUSION Revie...</p></details>
    Published: March 11, 2026  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: skepticalinquirer.org  
    Title: the great starlink racetrack ufo flap of 2022  
-   Link: <a href="https://skepticalinquirer.org/2023/02/the-great-starlink-racetrack-ufo-flap-of-2022/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2023/02/the-great-starlink-racetrack-ufo-flap-of-2022/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We are now familiar with the notion of a UFO flap. With hindsight, this episode is now known as the “Great Airship Flap of 1896.” Other f...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2023/02/the-great-starlink-racetrack-ufo-flap-of-2022/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2023/02/the-great-starlink-racetrack-ufo-flap-of-2022/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We are now familiar with the notion of a UFO flap. With hindsight, this episode is now known as the “Great Airship Flap of 1896.” Other f...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: popularmechanics.com  
    Title: Airline Pilots Couldn’t Stop Seeing UFOs  
-   Link: <a href="https://www.popularmechanics.com/space/satellites/a60207287/airline-pilots-starlink-satellites-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/space/satellites/a60207287/airline-pilots-starlink-satellites-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Turns Out They Were Just Starlink Satellites.March 19, 2024 — AIRLINE PILOTS COULDN’T STOP SEEING UFOS. TURNS OUT THEY WERE JUST STARLINK...</p></details>
+   Link:<a href="https://www.popularmechanics.com/space/satellites/a60207287/airline-pilots-starlink-satellites-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/space/satellites/a60207287/airline-pilots-starlink-satellites-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Turns Out They Were Just Starlink Satellites.March 19, 2024 — AIRLINE PILOTS COULDN’T STOP SEEING UFOS. TURNS OUT THEY WERE JUST STARLINK...</p></details>
    Published: March 19, 2024  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: advenaresearch.com  
    Title: some common misidentifications  
-   Link: <a href="https://www.advenaresearch.com/articles/some-common-misidentifications" target="_blank" rel="noopener noreferrer nofollow">https://www.advenaresearch.com/articles/some-common-misidentifications</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Advena Research - Advancing UAP ResearchMay 12, 2026 — SOME COMMON MISIDENTIFICATIONS Image Author // Ross Coulthart Published // 12/05/2...</p></details>
+   Link:<a href="https://www.advenaresearch.com/articles/some-common-misidentifications" target="_blank" rel="noopener noreferrer nofollow">https://www.advenaresearch.com/articles/some-common-misidentifications</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Advena Research - Advancing UAP ResearchMay 12, 2026 — SOME COMMON MISIDENTIFICATIONS Image Author // Ross Coulthart Published // 12/05/2...</p></details>
    Published: May 12, 2026  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nasa.gov  
    Title: The International  
-   Link: <a href="https://www.nasa.gov/missions/station/iss-research/studying-storms-from-space-station/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/missions/station/iss-research/studying-storms-from-space-station/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Studying Storms from Space Station - NASAJune 12, 2025 — 3 Min Read STUDYING STORMS FROM SPACE STATION Image: A view of Earth’s atmospher...</p></details>
+   Link:<a href="https://www.nasa.gov/missions/station/iss-research/studying-storms-from-space-station/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/missions/station/iss-research/studying-storms-from-space-station/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Studying Storms from Space Station - NASAJune 12, 2025 — 3 Min Read STUDYING STORMS FROM SPACE STATION Image: A view of Earth’s atmospher...</p></details>
    Published: June 12, 2025

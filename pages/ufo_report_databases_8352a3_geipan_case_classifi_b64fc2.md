@@ -352,23 +352,23 @@ image: /assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2-ov
 
 ## Introduction
 
-France’s GEIPAN is one of the clearest public models for turning UAP reports into a searchable, classified case record. Housed within the French space agency CNES, it collects witness accounts, analyses them, investigates selected cases, anonymises files, publishes conclusions and assigns each case a resolution category. The important point is that GEIPAN’s labels are not a scale from “ordinary” to “alien”; they are an administrative and evidential judgement about how well a reported observation can be explained after inquiry. A case marked A or B has been identified or probably identified, C lacks enough usable information, and D remains unidentified after investigation. GEIPAN’s public value lies in that disciplined separation between “explained”, “probably explained”, “not workable” and “still unexplained”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
+France’s GEIPAN is one of the clearest public models for turning UAP reports into a searchable, classified case record. Housed within the French space agency CNES, it collects witness accounts, analyses them, investigates selected cases, anonymises files, publishes conclusions and assigns each case a resolution category. The important point is that GEIPAN’s labels are not a scale from “ordinary” to “alien”; they are an administrative and evidential judgement about how well a reported observation can be explained after inquiry. A case marked A or B has been identified or probably identified, C lacks enough usable information, and D remains unidentified after investigation. GEIPAN’s public value lies in that disciplined separation between “explained”, “probably explained”, “not workable” and “still unexplained”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2-overview.webp" | relative_url }}" alt="Overview image for GEIPAN" loading="eager" decoding="sync" fetchpriority="high">
 For [UFO report databases and catalogues]({{ 'ufo-report-databases-and-catalogues/' | relative_url }}), GEIPAN matters because it shows what a government-linked public database can do when it publishes not only sightings but also case status, metadata, witness material, investigation notes and reclassification history. It does not remove uncertainty from the UAP subject, but it makes the uncertainty easier to audit.
 
 ## Why GEIPAN is different from a simple sightings list
 
-Many UFO databases are built around witness submission and public browsing. GEIPAN is more structured because it sits inside CNES and has an explicit public-service role: to collect, analyse, archive and inform the public about unidentified aerospace phenomena. CNES describes GEIPAN as operating from Toulouse, created through the French official UAP study lineage that began in 1977, and working with partners including the gendarmerie, police, the Air and Space Force, CNRS and Météo-France. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
+Many UFO databases are built around witness submission and public browsing. GEIPAN is more structured because it sits inside CNES and has an explicit public-service role: to collect, analyse, archive and inform the public about unidentified aerospace phenomena. CNES describes GEIPAN as operating from Toulouse, created through the French official UAP study lineage that began in 1977, and working with partners including the gendarmerie, police, the Air and Space Force, CNRS and Météo-France.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
 
-That institutional setting changes the shape of the database. A GEIPAN entry is not only a witness story; it can include a formal case page, date and place of observation, classification, update date, phenomenon type, strangeness and consistency scores, documents, testimony files and a narrative conclusion. Its public case search also lets readers filter or browse cases by classification and other fields, which makes the site function as both a reporting archive and a case-resolution catalogue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
+That institutional setting changes the shape of the database. A GEIPAN entry is not only a witness story; it can include a formal case page, date and place of observation, classification, update date, phenomenon type, strangeness and consistency scores, documents, testimony files and a narrative conclusion. Its public case search also lets readers filter or browse cases by classification and other fields, which makes the site function as both a reporting archive and a case-resolution catalogue.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
 
 This does not mean GEIPAN is infallible or that every entry has the same depth. Some cases have richer witness files or investigation notes than others, and older records can reflect the methods and limitations of earlier decades. The distinctive feature is the public classification layer: each case is placed somewhere in a resolution system rather than left as a free-floating anecdote.
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2-Illustration-1-dark.svg" | relative_url }}" alt="GEIPAN illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the A, B, C and D categories work
 
-GEIPAN’s classification system is built around two ideas: residual strangeness and consistency. Residual strangeness measures how far the observation remains from known explanations after hypotheses have been considered. Consistency measures the quantity and [reliability]({{ 'reliability/' | relative_url }}) of the available data, including witness detail, coherence, links between witnesses, and supporting material such as photographs or video. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
+GEIPAN’s classification system is built around two ideas: residual strangeness and consistency. Residual strangeness measures how far the observation remains from known explanations after hypotheses have been considered. Consistency measures the quantity and [reliability]({{ 'reliability/' | relative_url }}) of the available data, including witness detail, coherence, links between witnesses, and supporting material such as photographs or video.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
 
 The categories are simple on the surface:
 
@@ -377,11 +377,11 @@ The categories are simple on the surface:
 * **A:** the phenomenon is perfectly identified after investigation.
 * **B:** the phenomenon is probably identified after investigation.
 * **C:** the phenomenon is not identified because the available data or information is insufficient.
-* **D:** the phenomenon is not identified after investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
+* **D:** the phenomenon is not identified after investigation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
 
 </div>
 
-Since 2008, GEIPAN has used a more detailed version that includes D1 and D2 for [unresolved cases]({{ 'unresolved-cases/' | relative_url }}). D1 means an unexplained case of medium consistency; D2 is used for a highly consistent unexplained case. GEIPAN says its method compares the strongest explanatory hypothesis against the observation’s residual strangeness, while also applying a common-sense rule: the stranger the case remains, the stronger the data consistency must be before it should be treated as genuinely unexplained. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
+Since 2008, GEIPAN has used a more detailed version that includes D1 and D2 for [unresolved cases]({{ 'unresolved-cases/' | relative_url }}). D1 means an unexplained case of medium consistency; D2 is used for a highly consistent unexplained case. GEIPAN says its method compares the strongest explanatory hypothesis against the observation’s residual strangeness, while also applying a common-sense rule: the stranger the case remains, the stronger the data consistency must be before it should be treated as genuinely unexplained.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
 
 That distinction is crucial. A weakly documented sighting should not become a strong mystery simply because no one can identify it. Under GEIPAN’s system, insufficient information points towards C, not towards a stronger D claim. The classification therefore works as a restraint on over-reading the database.
 
@@ -389,30 +389,30 @@ That distinction is crucial. A weakly documented sighting should not become a st
 
 ## What the public statistics say
 
-GEIPAN’s published dynamic statistics show that most classified public cases are either identified or probably identified, while a smaller proportion remain unresolved after investigation. The statistics page listed 27.81% as category A, 38.76% as category B, 30.26% as category C, and 2.18% as category D, with D1 at 0.98% and D2 at 0.00% in the displayed table. The same page states that these dynamic statistics are calculated from classified cases published on the website across all years combined, with files in progress counted only once completed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
+GEIPAN’s published dynamic statistics show that most classified public cases are either identified or probably identified, while a smaller proportion remain unresolved after investigation. The statistics page listed 27.81% as category A, 38.76% as category B, 30.26% as category C, and 2.18% as category D, with D1 at 0.98% and D2 at 0.00% in the displayed table. The same page states that these dynamic statistics are calculated from classified cases published on the website across all years combined, with files in progress counted only once completed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
 
-CNES’s own GEIPAN project page gives a similar broad picture, listing 24.6% clearly identified, 39.7% probably identified, 32.4% unidentified for lack of data, and 3.3% unidentified after investigation. Those figures are not identical to the live dynamic table because GEIPAN statistics can change as published cases are added, updated or reclassified, but both sets point to the same pattern: the largest share is not “mysterious residue”, but identified, probably identified or too poorly documented to resolve. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
+CNES’s own GEIPAN project page gives a similar broad picture, listing 24.6% clearly identified, 39.7% probably identified, 32.4% unidentified for lack of data, and 3.3% unidentified after investigation. Those figures are not identical to the live dynamic table because GEIPAN statistics can change as published cases are added, updated or reclassified, but both sets point to the same pattern: the largest share is not “mysterious residue”, but identified, probably identified or too poorly documented to resolve.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
 
 For readers comparing UAP catalogues, this is the main lesson. Raw [sighting counts]({{ 'sighting-counts/' | relative_url }}) are less informative than the distribution of outcomes. A catalogue with thousands of reports but no resolution status tells a different story from a catalogue that separates confirmed explanations, probable explanations, insufficient data and investigated unknowns.
 
 ## How a public case becomes a resolved case
 
-GEIPAN describes its process as a sequence: receiving the testimony, creating the file, initial analysis, investigation and processing, classification, anonymisation, and finally witness information and publication. It also says human testimony is central to the process, but that witnesses are expected to complete a technical questionnaire, and that sketches, photographs, videos or other detection material may supplement the report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
+GEIPAN describes its process as a sequence: receiving the testimony, creating the file, initial analysis, investigation and processing, classification, anonymisation, and finally witness information and publication. It also says human testimony is central to the process, but that witnesses are expected to complete a technical questionnaire, and that sketches, photographs, videos or other detection material may supplement the report.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
 
-The public case pages show how that process looks in practice. In a 1983 Plouarzel case, for example, multiple witnesses reported nocturnal lights that appeared to follow a vehicle. The case page now classifies the observation as A, with the phenomenon type listed as Venus. The published explanation identifies a classic “following star” illusion: a fixed bright celestial object can appear to move with a vehicle as the observer’s own movement and road direction change. GEIPAN’s conclusion also points to Arcturus in relation to a later related witness account. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
+The public case pages show how that process looks in practice. In a 1983 Plouarzel case, for example, multiple witnesses reported nocturnal lights that appeared to follow a vehicle. The case page now classifies the observation as A, with the phenomenon type listed as Venus. The published explanation identifies a classic “following star” illusion: a fixed bright celestial object can appear to move with a vehicle as the observer’s own movement and road direction change. GEIPAN’s conclusion also points to Arcturus in relation to a later related witness account.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
 
-That case is useful because it shows what “resolved” means in a public database. It is not merely a label. The page includes the observation date, region, department, classification, update date, phenomenon type, strangeness and consistency values, testimony links, a summary and a written explanation. The result is a public audit trail that readers can examine rather than a bare official assertion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
+That case is useful because it shows what “resolved” means in a public database. It is not merely a label. The page includes the observation date, region, department, classification, update date, phenomenon type, strangeness and consistency values, testimony links, a summary and a written explanation. The result is a public audit trail that readers can examine rather than a bare official assertion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2-Illustration-2-dark.svg" | relative_url }}" alt="GEIPAN illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Reclassification is part of the model, not a flaw by itself
 
-One of GEIPAN’s most important database features is that classifications can change. Its FAQ states that C and D cases may be revisited if new information is communicated after the initial investigation. Its classification page also says D cases need periodic re-evaluation, and notes that newer tools and accumulated experience have helped explain older cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
+One of GEIPAN’s most important database features is that classifications can change. Its FAQ states that C and D cases may be revisited if new information is communicated after the initial investigation. Its classification page also says D cases need periodic re-evaluation, and notes that newer tools and accumulated experience have helped explain older cases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
 
-The public archive contains concrete examples. A 1985 Lyon-area case, previously classed D, was re-examined and classified B, with GEIPAN concluding that the witnesses probably observed a meteoroid re-entry. The case page points to short observation duration, rapid movement, glow and halo descriptions, similar reports from geographically separate witnesses, and coherent trajectory indications as reasons supporting the explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
+The public archive contains concrete examples. A 1985 Lyon-area case, previously classed D, was re-examined and classified B, with GEIPAN concluding that the witnesses probably observed a meteoroid re-entry. The case page points to short observation duration, rapid movement, glow and halo descriptions, similar reports from geographically separate witnesses, and coherent trajectory indications as reasons supporting the explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
 
-A 1979 Pithiviers case, also previously classified D, was re-examined and classified B as a probable observation of helicopters. GEIPAN’s published reasoning refers to a file-like movement towards Orléans-Bricy air base, aircraft navigation light colours, possible anti-collision lights, and the common night-time tendency to perceive separate points of light as a solid triangular form. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
+A 1979 Pithiviers case, also previously classified D, was re-examined and classified B as a probable observation of helicopters. GEIPAN’s published reasoning refers to a file-like movement towards Orléans-Bricy air base, aircraft navigation light colours, possible anti-collision lights, and the common night-time tendency to perceive separate points of light as a solid triangular form.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
 
-A 1990 Moosch case illustrates another recurring pattern: an older strange-looking light in a cloudy sky was later classified B as probable laser or skytracer lighting. GEIPAN’s note says accumulated experience with similar cases made the hypothesis fit the reported oval, milky, moving light on a cloud ceiling, even though no specific local event could be confirmed three decades later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
+A 1990 Moosch case illustrates another recurring pattern: an older strange-looking light in a cloudy sky was later classified B as probable laser or skytracer lighting. GEIPAN’s note says accumulated experience with similar cases made the hypothesis fit the reported oval, milky, moving light on a cloud ceiling, even though no specific local event could be confirmed three decades later.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
 
 These examples matter because they show that an “unidentified” label is not permanent proof of anomaly. It may be a provisional state created by missing tools, incomplete checks, weak original documentation or simply the investigator’s limited experience with a class of misidentification.
 
@@ -420,26 +420,26 @@ These examples matter because they show that an “unidentified” label is not 
 
 ## Public transparency and its limits
 
-GEIPAN’s publication model is unusually transparent for an official UAP system. It publishes case material while protecting witness anonymity, and its FAQ explicitly says confidentiality is maintained through anonymisation of the files and documents linked to investigations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
+GEIPAN’s publication model is unusually transparent for an official UAP system. It publishes case material while protecting witness anonymity, and its FAQ explicitly says confidentiality is maintained through anonymisation of the files and documents linked to investigations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
 
 The strength of this model is that readers can see more than a headline. They can examine classification, update history, testimony links, investigation documents where available, and the reasoning behind many conclusions. This makes GEIPAN more useful than a sightings map for serious comparison work: a researcher can ask not only “what was reported?” but “what did the investigators do with the report, and why did they classify it this way?”
 
-The limitation is that transparency does not automatically guarantee perfect analysis. A critical 2009 review in *Skeptical Inquirer* argued that earlier French official UFO studies contained methodological errors and that some D-classified cases had plausible ordinary explanations, including astronomical objects, [balloons]({{ 'balloons/' | relative_url }}), re-entries and other mundane causes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical Inquirer</span></span></span>
+The limitation is that transparency does not automatically guarantee perfect analysis. A critical 2009 review in *Skeptical Inquirer* argued that earlier French official UFO studies contained methodological errors and that some D-classified cases had plausible ordinary explanations, including astronomical objects, [balloons]({{ 'balloons/' | relative_url }}), re-entries and other mundane causes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical Inquirer</span></span></span>
 
 That criticism should not be read as cancelling GEIPAN’s value. It actually reinforces the need for public files, reclassification and auditable reasoning. A closed archive can preserve mistakes indefinitely; an open, revisable case catalogue gives later investigators and outside readers a chance to test whether an old classification still holds.
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2-Illustration-3-dark.svg" | relative_url }}" alt="GEIPAN illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_geipan_case_classifi_b64fc2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What GEIPAN classifications do and do not prove
 
-The most common mistake is to treat category D as a claim about exotic origin. GEIPAN itself does not do that. Its classification page says that after decades of investigation it has no proof of alien existence, while also saying it does not turn absence of proof into proof of absence. It also notes that aircraft of unknown origin cannot be excluded in the abstract, but that no proof has been found in its investigations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
+The most common mistake is to treat category D as a claim about exotic origin. GEIPAN itself does not do that. Its classification page says that after decades of investigation it has no proof of alien existence, while also saying it does not turn absence of proof into proof of absence. It also notes that aircraft of unknown origin cannot be excluded in the abstract, but that no proof has been found in its investigations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
 
 A more careful reading is this:
 
-**A and B cases show the importance of misidentification.** They demonstrate that many strange reports become understandable when investigators check astronomical objects, aircraft, satellites, meteorological conditions, perception effects, lighting events or human-made activity. The Plouarzel, Pithiviers and Moosch examples show how emotionally convincing observations can still resolve into Venus, helicopters or laser lighting once geometry, context and accumulated case knowledge are applied. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
+**A and B cases show the importance of misidentification.** They demonstrate that many strange reports become understandable when investigators check astronomical objects, aircraft, satellites, meteorological conditions, perception effects, lighting events or human-made activity. The Plouarzel, Pithiviers and Moosch examples show how emotionally convincing observations can still resolve into Venus, helicopters or laser lighting once geometry, context and accumulated case knowledge are applied.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
 
-**[C cases]({{ 'c-cases/' | relative_url }}) show the cost of weak data.** A C classification is not a stronger mystery than B. It means the available information is too thin or unreliable to support either a firm explanation or a robust unexplained classification. In database terms, C is a warning label about evidential limits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
+**[C cases]({{ 'c-cases/' | relative_url }}) show the cost of weak data.** A C classification is not a stronger mystery than B. It means the available information is too thin or unreliable to support either a firm explanation or a robust unexplained classification. In database terms, C is a warning label about evidential limits.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
 
-**D cases are the true unresolved residue, but still not a conclusion about cause.** A D case has survived investigation without a satisfactory explanation, and D1 or D2 adds information about consistency. That makes D cases especially interesting for researchers, but the label means “unidentified after investigation”, not “extraordinary craft”, “non-human technology” or “proof of a theory”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
+**D cases are the true unresolved residue, but still not a conclusion about cause.** A D case has survived investigation without a satisfactory explanation, and D1 or D2 adds information about consistency. That makes D cases especially interesting for researchers, but the label means “unidentified after investigation”, not “extraordinary craft”, “non-human technology” or “proof of a theory”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES...</span></span></span>
 
 For a public UAP catalogue, this is the central governance achievement of GEIPAN’s model. It gives readers a vocabulary for different kinds of uncertainty. Some uncertainty is solved, some is probabilistic, some is caused by [missing data]({{ 'missing-data/' | relative_url }}), and some remains after investigation. Treating those four states as the same thing is how UFO databases become misleading.
 
@@ -452,194 +452,194 @@ GEIPAN’s public classifications are valuable because they convert a culturally
 For the wider field of UFO report databases and catalogues, that is a practical benchmark. A useful UAP database should not merely accumulate reports. It should preserve source material, protect witnesses, distinguish weak files from strong ones, mark probable explanations, keep unresolved cases separate from insufficient-data cases, and allow old conclusions to be revisited when better information becomes available. GEIPAN is not the final answer to public UAP investigation, but it is one of the clearest examples of how official case resolution can be made visible enough for readers to inspect, compare and challenge.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How France Classifies Public UAP Cases. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How France Classifies Public UAP Cases. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open After the Flying Saucers Came on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0VoIEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for After the Flying Saucers Came" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="After the Flying Saucers Came">After the Flying Saucers Came</a>
-        </h4>
-        <p class="fr-book-author">By Greg Eghigian</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open After the Flying Saucers Came on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0VoIEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for After the Flying Saucers Came" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="After the Flying Saucers Came">After the Flying Saucers Came</a>
+</h4>
+<p class="fr-book-author">By Greg Eghigian</p>
         
-        <p class="fr-book-desc">Places French and other national UAP efforts in a broader international history of public UFO management.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places French and other national UAP efforts in a broader international history of public UFO management.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Its classification approach helps explain why GEIPAN-style labels are evidential categories, not proof of aliens.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Its classification approach helps explain why GEIPAN-style labels are evidential categories, not proof of aliens.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Includes serious official and international UFO/UAP material, matching GEIPAN’s government-linked public case model.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes serious official and international UFO/UAP material, matching GEIPAN’s government-linked public case model.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Directly addresses government investigation systems and classification practices, including international official approaches.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses government investigation systems and classification practices, including international official approaches.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">After the Flying Saucers Came</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">After the Flying Saucers Came</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+print+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster print -book -books -underwater -scuba -swimming" data-ebay-reference="geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1f2a324bb9bd018b419d.jpg' | relative_url }}" alt="Listing image for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+print+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster print -book -books -underwater -scuba -swimming" data-ebay-reference="geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+print+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster print -book -books -underwater -scuba -swimming" data-ebay-reference="geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+print+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster print -book -books -underwater -scuba -swimming" data-ebay-reference="geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+print+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster print -book -books -underwater -scuba -swimming" data-ebay-reference="geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1f2a324bb9bd018b419d.jpg' | relative_url }}" alt="Listing image for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+print+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster print -book -books -underwater -scuba -swimming" data-ebay-reference="geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+print+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster print -book -books -underwater -scuba -swimming" data-ebay-reference="geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+print+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster print -book -books -underwater -scuba -swimming" data-ebay-reference="geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+print+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster print -book -books -underwater -scuba -swimming" data-ebay-reference="geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny UAP UFO Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7d40dbf78aad429a1aa0.jpg' | relative_url }}" alt="Listing image for Funny UAP UFO Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+print+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster print -book -books -underwater -scuba -swimming" data-ebay-reference="geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater" target="_blank" rel="sponsored noopener noreferrer">Funny UAP UFO Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+print+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster print -book -books -underwater -scuba -swimming" data-ebay-reference="geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+print+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster print -book -books -underwater -scuba -swimming" data-ebay-reference="geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+print+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster print -book -books -underwater -scuba -swimming" data-ebay-reference="geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny UAP UFO Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7d40dbf78aad429a1aa0.jpg' | relative_url }}" alt="Listing image for Funny UAP UFO Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+print+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster print -book -books -underwater -scuba -swimming" data-ebay-reference="geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater" target="_blank" rel="sponsored noopener noreferrer">Funny UAP UFO Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+print+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster print -book -books -underwater -scuba -swimming" data-ebay-reference="geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+print+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster print -book -books -underwater -scuba -swimming" data-ebay-reference="geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+print+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster print -book -books -underwater -scuba -swimming" data-ebay-reference="geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Bob Lazar Story UFO UAP Flying Saucer Area 51 Poster,Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/5df8c2d8013a3a6cc74f.jpg' | relative_url }}" alt="Listing image for The Bob Lazar Story UFO UAP Flying Saucer Area 51 Poster,Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+print+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster print -book -books -underwater -scuba -swimming" data-ebay-reference="geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater" target="_blank" rel="sponsored noopener noreferrer">The Bob Lazar Story UFO UAP Flying Saucer Area 51 Poster,Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+print+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster print -book -books -underwater -scuba -swimming" data-ebay-reference="geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+print+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster print -book -books -underwater -scuba -swimming" data-ebay-reference="geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+print+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster print -book -books -underwater -scuba -swimming" data-ebay-reference="geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Bob Lazar Story UFO UAP Flying Saucer Area 51 Poster,Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/5df8c2d8013a3a6cc74f.jpg' | relative_url }}" alt="Listing image for The Bob Lazar Story UFO UAP Flying Saucer Area 51 Poster,Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+print+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster print -book -books -underwater -scuba -swimming" data-ebay-reference="geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater" target="_blank" rel="sponsored noopener noreferrer">The Bob Lazar Story UFO UAP Flying Saucer Area 51 Poster,Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+print+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster print -book -books -underwater -scuba -swimming" data-ebay-reference="geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+print+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster print -book -books -underwater -scuba -swimming" data-ebay-reference="geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+print+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster print -book -books -underwater -scuba -swimming" data-ebay-reference="geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO UAP Aliens Alien Abduction Attack Lonely Road Trees Dark Clouds Poster Print"><img src="{{ '/assets/images/marketplace-covers/fd47a6594fb5c4cad25f.jpg' | relative_url }}" alt="Listing image for UFO UAP Aliens Alien Abduction Attack Lonely Road Trees Dark Clouds Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+print+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster print -book -books -underwater -scuba -swimming" data-ebay-reference="geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater" target="_blank" rel="sponsored noopener noreferrer">UFO UAP Aliens Alien Abduction Attack Lonely Road Trees Dark Clouds Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+print+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster print -book -books -underwater -scuba -swimming" data-ebay-reference="geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+print+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster print -book -books -underwater -scuba -swimming" data-ebay-reference="geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+print+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster print -book -books -underwater -scuba -swimming" data-ebay-reference="geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+print+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster print -book -books -underwater -scuba -swimming" data-ebay-reference="geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO UAP Aliens Alien Abduction Attack Lonely Road Trees Dark Clouds Poster Print"><img src="{{ '/assets/images/marketplace-covers/fd47a6594fb5c4cad25f.jpg' | relative_url }}" alt="Listing image for UFO UAP Aliens Alien Abduction Attack Lonely Road Trees Dark Clouds Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+print+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster print -book -books -underwater -scuba -swimming" data-ebay-reference="geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater" target="_blank" rel="sponsored noopener noreferrer">UFO UAP Aliens Alien Abduction Attack Lonely Road Trees Dark Clouds Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+print+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster print -book -books -underwater -scuba -swimming" data-ebay-reference="geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+print+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster print -book -books -underwater -scuba -swimming" data-ebay-reference="geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+print+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster print -book -books -underwater -scuba -swimming" data-ebay-reference="geipan-how-france-classifies-public-uap-cases-ufo-report-databases-and-catalogues-uap-poster-print-book-books-underwater" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -655,7 +655,7 @@ For the wider field of UFO report databases and catalogues, that is a practical 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -675,7 +675,7 @@ For the wider field of UFO report databases and catalogues, that is a practical 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -707,7 +707,7 @@ For the wider field of UFO report databases and catalogues, that is a practical 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -759,7 +759,7 @@ For the wider field of UFO report databases and catalogues, that is a practical 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -804,7 +804,7 @@ For the wider field of UFO report databases and catalogues, that is a practical 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -845,141 +845,141 @@ For the wider field of UFO report databases and catalogues, that is a practical 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cnes.fr  
    Title: GEIPAN | CNES  
-   Link: <a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPAN | CNES...</p></details>
+   Link:<a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPAN | CNES...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cnes-geipan.fr  
    Title: Geipan Statistics | GEIPAN  
-   Link: <a href="https://www.cnes-geipan.fr/en/stats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/stats</a>  
+   Link:<a href="https://www.cnes-geipan.fr/en/stats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/stats</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: skepticalinquirer.org  
    Title: Skeptical Inquirer  
-   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com</a>  
+   Link:<a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: GEIPAN: Tout savoir sur les OVNIS et Phénomènes Aérospatiaux (PAN)  
-   Link: <a href="https://www.youtube.com/watch?v=CWt2zkuxRNQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CWt2zkuxRNQ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Office: Is the truth out there? • FRANCE 24...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CWt2zkuxRNQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CWt2zkuxRNQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Office: Is the truth out there? • FRANCE 24...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: UFO Office: Is the truth out there? • FRANCE 24  
-   Link: <a href="https://www.youtube.com/watch?v=yDqQGyAwWCg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yDqQGyAwWCg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Geipan: France is also interested in UFOs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yDqQGyAwWCg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yDqQGyAwWCg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Geipan: France is also interested in UFOs...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: Geipan: France is also interested in UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=OLXDikL331Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OLXDikL331Y</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, aliens: why is Trump declassifying? - C dans l&#x27;air - 04/25/2026...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OLXDikL331Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OLXDikL331Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, aliens: why is Trump declassifying? - C dans l&#x27;air - 04/25/2026...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cnes-geipan.fr  
    Title: Geipan How does GEIPAN classify observation cases? | GEIPAN  
-   Link: <a href="https://www.cnes-geipan.fr/en/node/412" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/412</a>  
+   Link:<a href="https://www.cnes-geipan.fr/en/node/412" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/412</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/search/cas" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/search/cas</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GeipanCase searchCase list; 12/01/2026. PAPEETE (987) 12.01.2026 · Polynésie française; 01/01/2026. RUMILLY (74) 01.01.2026 · Haute-Sav...</p></details>
+   Link:<a href="https://www.cnes-geipan.fr/en/search/cas" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/search/cas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GeipanCase searchCase list; 12/01/2026. PAPEETE (987) 12.01.2026 · Polynésie française; 01/01/2026. RUMILLY (74) 01.01.2026 · Haute-Sav...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cnes-geipan.fr  
    Title: Geipan Classification | GEIPAN  
-   Link: <a href="https://www.cnes-geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58787</a>  
+   Link:<a href="https://www.cnes-geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58787</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cnes-geipan.fr  
    Title: Geipan FAQ | GEIPAN  
-   Link: <a href="https://www.cnes-geipan.fr/en/faq-page" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/faq-page</a>  
+   Link:<a href="https://www.cnes-geipan.fr/en/faq-page" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/faq-page</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/fr/cas/1983-03-00968" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/cas/1983-03-00968</a>  
+   Link:<a href="https://www.cnes-geipan.fr/fr/cas/1983-03-00968" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/cas/1983-03-00968</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/fr/cas/1985-09-01076" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/cas/1985-09-01076</a>  
+   Link:<a href="https://www.cnes-geipan.fr/fr/cas/1985-09-01076" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/cas/1985-09-01076</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/fr/cas/1979-12-01704" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/cas/1979-12-01704</a>  
+   Link:<a href="https://www.cnes-geipan.fr/fr/cas/1979-12-01704" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/cas/1979-12-01704</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/fr/cas/1990-09-01215" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/cas/1990-09-01215</a>  
+   Link:<a href="https://www.cnes-geipan.fr/fr/cas/1990-09-01215" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/cas/1990-09-01215</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/</a>  
+   Link:<a href="https://www.cnes-geipan.fr/" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en</a>  
+   Link:<a href="https://www.cnes-geipan.fr/en" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEIPAN</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEIPAN</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: academieairespace.com  
-   Link: <a href="https://academieairespace.com/event/geipan-studies-uaps-ufos/?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://academieairespace.com/event/geipan-studies-uaps-ufos/?lang=en</a>  
+   Link:<a href="https://academieairespace.com/event/geipan-studies-uaps-ufos/?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://academieairespace.com/event/geipan-studies-uaps-ufos/?lang=en</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: uapedia.ai  
-   Link: <a href="https://uapedia.ai/wiki/geipan-frances-official-uap-unit/" target="_blank" rel="noopener noreferrer nofollow">https://uapedia.ai/wiki/geipan-frances-official-uap-unit/</a>  
+   Link:<a href="https://uapedia.ai/wiki/geipan-frances-official-uap-unit/" target="_blank" rel="noopener noreferrer nofollow">https://uapedia.ai/wiki/geipan-frances-official-uap-unit/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: newspaceeconomy.ca  
    Title: GEIPA N: Frances UAP Investigation Unit  
-   Link: <a href="https://newspaceeconomy.ca/2025/07/29/geipan-frances-uap-investigation-unit/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/07/29/geipan-frances-uap-investigation-unit/</a>  
+   Link:<a href="https://newspaceeconomy.ca/2025/07/29/geipan-frances-uap-investigation-unit/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/07/29/geipan-frances-uap-investigation-unit/</a>  
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
+   Link:<a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: UFOs, aliens: why is Trump declassifying?  
-   Link: <a href="https://www.youtube.com/watch?v=d1Olr4FyNbs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d1Olr4FyNbs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In search of UFOs: who are the alien hunters?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=d1Olr4FyNbs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d1Olr4FyNbs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In search of UFOs: who are the alien hunters?...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
+   Link:<a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/390980555_The_UAP_Assessment_Matrix_A_proposed_framework_for_evaluating_evidence_and_understanding_regarding_Unidentified_Anomalous_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390980555_The_UAP_Assessment_Matrix_A_proposed_framework_for_evaluating_evidence_and_understanding_regarding_Unidentified_Anomalous_Phenomena</a>  
+   Link:<a href="https://www.researchgate.net/publication/390980555_The_UAP_Assessment_Matrix_A_proposed_framework_for_evaluating_evidence_and_understanding_regarding_Unidentified_Anomalous_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390980555_The_UAP_Assessment_Matrix_A_proposed_framework_for_evaluating_evidence_and_understanding_regarding_Unidentified_Anomalous_Phenomena</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/sites/default/files/Compte%20rendu%20enquete9.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/Compte%20rendu%20enquete9.pdf</a>  
+   Link:<a href="https://www.cnes-geipan.fr/sites/default/files/Compte%20rendu%20enquete9.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/Compte%20rendu%20enquete9.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/fr/node/58787" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/node/58787</a>  
+   Link:<a href="https://www.cnes-geipan.fr/fr/node/58787" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/node/58787</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/26863639499938432/posts/27209432368692475/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/26863639499938432/posts/27209432368692475/</a>  
+   Link:<a href="https://www.facebook.com/groups/26863639499938432/posts/27209432368692475/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/26863639499938432/posts/27209432368692475/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/southwestfrance/posts/1342464920438589/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/southwestfrance/posts/1342464920438589/</a>  
+   Link:<a href="https://www.facebook.com/groups/southwestfrance/posts/1342464920438589/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/southwestfrance/posts/1342464920438589/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
+   Link:<a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/node/58792" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58792</a>
+   Link:<a href="https://www.cnes-geipan.fr/en/node/58792" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58792</a>

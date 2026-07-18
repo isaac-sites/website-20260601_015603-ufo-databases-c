@@ -302,7 +302,7 @@ Interpreting unresolved cases as evidence of extraordinary phenomena — such as
 
 **• Logical Fallacy:** An unresolved label does not *positively indicate* anything about the nature of the object. In epistemological terms, “absence of evidence” is not “evidence of absence,” but neither is it evidence of an extraordinary cause. Without sufficient data, one cannot confidently ascribe a specific explanation, let alone one with profound implications.
 
-**• Official Investigations Find Ordinary Causes Dominate:** Major review efforts, including those by AARO and broader U.S. government surveys dating back decades, conclude that **most sightings, when analysed with adequate data, resolve to mundane sources** such as aircraft, [balloons]({{ 'balloons/' | relative_url }}), atmospheric phenomena, or sensor artefacts. They also consistently find *no evidence* linking unresolved reports to extraterrestrial life or technologies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume-1-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyAARO Historical Record Report, Volume I, 2024, DoD / All-domain Anomaly Resolution Office (AARO) · 2024 · UFO Transparenc...</span></span></span>
+**• Official Investigations Find Ordinary Causes Dominate:** Major review efforts, including those by AARO and broader U.S. government surveys dating back decades, conclude that **most sightings, when analysed with adequate data, resolve to mundane sources** such as aircraft, [balloons]({{ 'balloons/' | relative_url }}), atmospheric phenomena, or sensor artefacts. They also consistently find *no evidence* linking unresolved reports to extraterrestrial life or technologies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyAARO Historical Record Report, Volume I, 2024, DoD / All-domain Anomaly Resolution Office (AARO) · 2024 · UFO Transparenc...</span></span></span>
 
 **• Misinterpretation Fuels Conspiracy Over Content:** Unresolved status is often highlighted in public discourse as mysterious precisely because it lacks explanation. But official summaries emphasise that unresolved cases are simply those where available evidence — be it radar tracks, visual footage or witness logs — is inadequate to support a strong attribution either to known objects or to extraordinary claims. Interpreting them as evidence of the latter is a **category error** in evidence assessment.
 
@@ -324,194 +324,194 @@ This alignment between cautious scientific assessment, archival practice and dat
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_ufo_misidentificatio_aa312a_unresolved_entries_n_659be9-Illustration-3-dark.svg" | relative_url }}" alt="Unresolved cases illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_ufo_misidentificatio_aa312a_unresolved_entries_n_659be9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_ufo_misidentificatio_aa312a_unresolved_entries_n_659be9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why unexplained does not mean extraordinary. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why unexplained does not mean extraordinary. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Discusses serious cases while keeping attention on evidence and official records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses serious cases while keeping attention on evidence and official records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Directly supports the principle that unexplained claims require strong evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly supports the principle that unexplained claims require strong evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Highly relevant to why unidentified, insufficiently evidenced and genuinely puzzling cases differ.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highly relevant to why unidentified, insufficiently evidenced and genuinely puzzling cases differ.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
         
-        <p class="fr-book-desc">Useful for interpreting unresolved database entries without overclaiming what the data proves.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for interpreting unresolved database entries without overclaiming what the data proves.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+puzzle+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery puzzle box" data-ebay-reference="why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disney Mystery Blind Box Pin BoxLunch Princess Puzzle - Tiana and Belle"><img src="https://i.ebayimg.com/images/g/H~0AAeSwd6Np0Zi9/s-l225.jpg" alt="Listing image for Disney Mystery Blind Box Pin BoxLunch Princess Puzzle - Tiana and Belle" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+puzzle+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery puzzle box" data-ebay-reference="why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box" target="_blank" rel="sponsored noopener noreferrer">Disney Mystery Blind Box Pin BoxLunch Princess Puzzle - Tiana and Belle</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+puzzle+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery puzzle box" data-ebay-reference="why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery puzzle box">Search <span data-ebay-domain-label>eBay.co.uk</span>: mystery puzzle box</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+puzzle+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery puzzle box" data-ebay-reference="why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+puzzle+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery puzzle box" data-ebay-reference="why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disney Mystery Blind Box Pin BoxLunch Princess Puzzle - Tiana and Belle"><img src="https://i.ebayimg.com/images/g/H~0AAeSwd6Np0Zi9/s-l225.jpg" alt="Listing image for Disney Mystery Blind Box Pin BoxLunch Princess Puzzle - Tiana and Belle" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+puzzle+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery puzzle box" data-ebay-reference="why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box" target="_blank" rel="sponsored noopener noreferrer">Disney Mystery Blind Box Pin BoxLunch Princess Puzzle - Tiana and Belle</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+puzzle+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery puzzle box" data-ebay-reference="why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery puzzle box">Search<span data-ebay-domain-label>eBay.co.uk</span>: mystery puzzle box</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+puzzle+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery puzzle box" data-ebay-reference="why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+puzzle+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery puzzle box" data-ebay-reference="why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3x3 Cube Puzzle Games Random Mystery Bundle 8 Items Or More In Every Box Fun 6x6"><img src="https://i.ebayimg.com/images/g/6xAAAOSw4rtmaY6e/s-l225.jpg" alt="Listing image for 3x3 Cube Puzzle Games Random Mystery Bundle 8 Items Or More In Every Box Fun 6x6" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+puzzle+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery puzzle box" data-ebay-reference="why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box" target="_blank" rel="sponsored noopener noreferrer">3x3 Cube Puzzle Games Random Mystery Bundle 8 Items Or More In Every Box Fun 6x6</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+puzzle+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery puzzle box" data-ebay-reference="why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery puzzle box">Search <span data-ebay-domain-label>eBay.co.uk</span>: mystery puzzle box</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+puzzle+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery puzzle box" data-ebay-reference="why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+puzzle+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery puzzle box" data-ebay-reference="why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3x3 Cube Puzzle Games Random Mystery Bundle 8 Items Or More In Every Box Fun 6x6"><img src="https://i.ebayimg.com/images/g/6xAAAOSw4rtmaY6e/s-l225.jpg" alt="Listing image for 3x3 Cube Puzzle Games Random Mystery Bundle 8 Items Or More In Every Box Fun 6x6" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+puzzle+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery puzzle box" data-ebay-reference="why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box" target="_blank" rel="sponsored noopener noreferrer">3x3 Cube Puzzle Games Random Mystery Bundle 8 Items Or More In Every Box Fun 6x6</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+puzzle+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery puzzle box" data-ebay-reference="why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery puzzle box">Search<span data-ebay-domain-label>eBay.co.uk</span>: mystery puzzle box</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+puzzle+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery puzzle box" data-ebay-reference="why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+puzzle+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery puzzle box" data-ebay-reference="why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wooden Mystery Puzzle Box Secret Opening Hidden Drawer Challenge Brain Teaser"><img src="https://i.ebayimg.com/images/g/o8sAAeSwii1qJLC1/s-l225.jpg" alt="Listing image for Wooden Mystery Puzzle Box Secret Opening Hidden Drawer Challenge Brain Teaser" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+puzzle+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery puzzle box" data-ebay-reference="why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box" target="_blank" rel="sponsored noopener noreferrer">Wooden Mystery Puzzle Box Secret Opening Hidden Drawer Challenge Brain Teaser</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+puzzle+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery puzzle box" data-ebay-reference="why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery puzzle box">Search <span data-ebay-domain-label>eBay.co.uk</span>: mystery puzzle box</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+puzzle+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery puzzle box" data-ebay-reference="why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+puzzle+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery puzzle box" data-ebay-reference="why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wooden Mystery Puzzle Box Secret Opening Hidden Drawer Challenge Brain Teaser"><img src="https://i.ebayimg.com/images/g/o8sAAeSwii1qJLC1/s-l225.jpg" alt="Listing image for Wooden Mystery Puzzle Box Secret Opening Hidden Drawer Challenge Brain Teaser" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+puzzle+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery puzzle box" data-ebay-reference="why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box" target="_blank" rel="sponsored noopener noreferrer">Wooden Mystery Puzzle Box Secret Opening Hidden Drawer Challenge Brain Teaser</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+puzzle+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery puzzle box" data-ebay-reference="why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery puzzle box">Search<span data-ebay-domain-label>eBay.co.uk</span>: mystery puzzle box</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+puzzle+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery puzzle box" data-ebay-reference="why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+puzzle+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery puzzle box" data-ebay-reference="why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Impossible Mystery Puzzle Box Secret Opening Mechanism Hidden Drawer Brain"><img src="https://i.ebayimg.com/images/g/59UAAeSw1MxqJhFn/s-l225.jpg" alt="Listing image for Impossible Mystery Puzzle Box Secret Opening Mechanism Hidden Drawer Brain" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+puzzle+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery puzzle box" data-ebay-reference="why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box" target="_blank" rel="sponsored noopener noreferrer">Impossible Mystery Puzzle Box Secret Opening Mechanism Hidden Drawer Brain</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+puzzle+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery puzzle box" data-ebay-reference="why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery puzzle box">Search <span data-ebay-domain-label>eBay.co.uk</span>: mystery puzzle box</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+puzzle+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery puzzle box" data-ebay-reference="why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+puzzle+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery puzzle box" data-ebay-reference="why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+puzzle+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery puzzle box" data-ebay-reference="why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Impossible Mystery Puzzle Box Secret Opening Mechanism Hidden Drawer Brain"><img src="https://i.ebayimg.com/images/g/59UAAeSw1MxqJhFn/s-l225.jpg" alt="Listing image for Impossible Mystery Puzzle Box Secret Opening Mechanism Hidden Drawer Brain" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+puzzle+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery puzzle box" data-ebay-reference="why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box" target="_blank" rel="sponsored noopener noreferrer">Impossible Mystery Puzzle Box Secret Opening Mechanism Hidden Drawer Brain</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+puzzle+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery puzzle box" data-ebay-reference="why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery puzzle box">Search<span data-ebay-domain-label>eBay.co.uk</span>: mystery puzzle box</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+puzzle+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery puzzle box" data-ebay-reference="why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+puzzle+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery puzzle box" data-ebay-reference="why-unexplained-does-not-mean-extraordinary-mystery-puzzle-box" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -527,7 +527,7 @@ This alignment between cautious scientific assessment, archival practice and dat
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -547,7 +547,7 @@ This alignment between cautious scientific assessment, archival practice and dat
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -579,7 +579,7 @@ This alignment between cautious scientific assessment, archival practice and dat
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -631,7 +631,7 @@ This alignment between cautious scientific assessment, archival practice and dat
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -676,7 +676,7 @@ This alignment between cautious scientific assessment, archival practice and dat
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -717,128 +717,128 @@ This alignment between cautious scientific assessment, archival practice and dat
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science UAP FAQs  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP FAQs - NASA ScienceMay 8, 2026...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP FAQs - NASA ScienceMay 8, 2026...</p></details>
    Published: May 8, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: space.com  
    Title: Pentagon UFO office finds 'no empirical evidence' for alien technology | Space  
-   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien technology | SpaceMarch 8, 2024...</p></details>
+   Link:<a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien technology | SpaceMarch 8, 2024...</p></details>
    Published: March 8, 2024  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying Objects | National ArchivesJune 25, 2024...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying Objects | National ArchivesJune 25, 2024...</p></details>
    Published: June 25, 2024  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeAll-domain Anomaly Resolution Office Welcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of exp...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeAll-domain Anomaly Resolution Office Welcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of exp...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/FAQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/FAQ/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO FAQFREQUENTLY ASKED QUESTIONS [Button: Expand All] * How can I share information with AARO or report a UAP? * Military and DoW civil...</p></details>
+   Link:<a href="https://www.aaro.mil/FAQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/FAQ/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO FAQFREQUENTLY ASKED QUESTIONS [Button: Expand All] * How can I share information with AARO or report a UAP? * Military and DoW civil...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: scientificamerican.com  
-   Link: <a href="https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific AmericanBad Data, Not Aliens, May Be behind UFO Surge, NASA Team Says | Scientific AmericanJune 9, 2023...</p></details>
+   Link:<a href="https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific AmericanBad Data, Not Aliens, May Be behind UFO Surge, NASA Team Says | Scientific AmericanJune 9, 2023...</p></details>
    Published: June 9, 2023  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ufotransparency.com  
-   Link: <a href="https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume-1-2024" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume-1-2024</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO TransparencyAARO Historical Record Report, Volume I, 2024, DoD / All-domain Anomaly Resolution Office (AARO) · 2024 · UFO Transparenc...</p></details>
+   Link:<a href="https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO TransparencyAARO Historical Record Report, Volume I, 2024, DoD / All-domain Anomaly Resolution Office (AARO) · 2024 · UFO Transparenc...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ufotransparency.com  
-   Link: <a href="https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume-1-2024-2" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume-1-2024-2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Government Involvement with Unidentified Anomalous Phenomena, Volume I, AARO_Historical_Record_Report_Volu...</p></details>
+   Link:<a href="https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Government Involvement with Unidentified Anomalous Phenomena, Volume I, AARO_Historical_Record_Report_Volu...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOS This is a brief guide to researching records of UFOs. The surviving records consist mainly of documents relating to official policy...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOS This is a brief guide to researching records of UFOs. The surviving records consist mainly of documents relating to official policy...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nationalarchives.gov.uk  
    Title: UF O reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ministry of Defence has kept records of them since the 1960s, which we now hold. Most o...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Ministry of Defence has kept records of them since the 1960s, which we now hold. Most o...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: gigazine.net  
-   Link: <a href="https://gigazine.net/gsc_news/en/20240311-ufo-upa-no-evidence" target="_blank" rel="noopener noreferrer nofollow">https://gigazine.net/gsc_news/en/20240311-ufo-upa-no-evidence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 11, 2024 — Mar 11, 2024 12:30:00 DEPARTMENT OF DEFENSE UFO INVESTIGATION AUTHORITY ANNOUNCES ``NO EVIDENCE OF THE EXISTENCE...</p></details>
+   Link:<a href="https://gigazine.net/gsc_news/en/20240311-ufo-upa-no-evidence" target="_blank" rel="noopener noreferrer nofollow">https://gigazine.net/gsc_news/en/20240311-ufo-upa-no-evidence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 11, 2024 — Mar 11, 2024 12:30:00 DEPARTMENT OF DEFENSE UFO INVESTIGATION AUTHORITY ANNOUNCES ``NO EVIDENCE OF THE EXISTENCE...</p></details>
    Published: March 11, 2024  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: seattletimes.com  
-   Link: <a href="https://www.seattletimes.com/nation-world/nation/pentagon-study-finds-no-sign-of-alien-life-in-reported-ufo-sightings-going-back-decades/" target="_blank" rel="noopener noreferrer nofollow">https://www.seattletimes.com/nation-world/nation/pentagon-study-finds-no-sign-of-alien-life-in-reported-ufo-sightings-going-back-decades/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 8, 2024 — PENTAGON STUDY FINDS NO SIGN OF ALIEN LIFE IN REPORTED UFO SIGHTINGS GOING BACK DECADES March 8, 2024 at 2:46 pm By ERIC...</p></details>
+   Link:<a href="https://www.seattletimes.com/nation-world/nation/pentagon-study-finds-no-sign-of-alien-life-in-reported-ufo-sightings-going-back-decades/" target="_blank" rel="noopener noreferrer nofollow">https://www.seattletimes.com/nation-world/nation/pentagon-study-finds-no-sign-of-alien-life-in-reported-ufo-sightings-going-back-decades/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 8, 2024 — PENTAGON STUDY FINDS NO SIGN OF ALIEN LIFE IN REPORTED UFO SIGHTINGS GOING BACK DECADES March 8, 2024 at 2:46 pm By ERIC...</p></details>
    Published: March 8, 2024  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pbs.org  
-   Link: <a href="https://www.pbs.org/newshour/amp/politics/pentagon-study-finds-no-sign-of-alien-life-in-reported-ufo-sightings-going-back-decades" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/amp/politics/pentagon-study-finds-no-sign-of-alien-life-in-reported-ufo-sightings-going-back-decades</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>26 2011. Photo by Staff/AFP via Getty Images PENTAGON STUDY FINDS NO SIGN OF ALIEN LIFE IN REPORTED UFO SIGHTINGS GOING BACK DECADES By —...</p></details>
+   Link:<a href="https://www.pbs.org/newshour/amp/politics/pentagon-study-finds-no-sign-of-alien-life-in-reported-ufo-sightings-going-back-decades" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/amp/politics/pentagon-study-finds-no-sign-of-alien-life-in-reported-ufo-sightings-going-back-decades</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>26 2011. Photo by Staff/AFP via Getty Images PENTAGON STUDY FINDS NO SIGN OF ALIEN LIFE IN REPORTED UFO SIGHTINGS GOING BACK DECADES By —...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cybernews.com  
    Title: UF O agency says no cases of verifiable alien activity (yet)​ | Cybernews  
-   Link: <a href="https://cybernews.com/science/ufo-uap-office-testify-senate-alien-objects-investigations-national-security/" target="_blank" rel="noopener noreferrer nofollow">https://cybernews.com/science/ufo-uap-office-testify-senate-alien-objects-investigations-national-security/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO agency says no cases of verifiable alien activity (yet)​ | CybernewsNovember 20, 2024 — UFO AGENCY SAYS NO CASES OF VERIFIABLE ALIEN...</p></details>
+   Link:<a href="https://cybernews.com/science/ufo-uap-office-testify-senate-alien-objects-investigations-national-security/" target="_blank" rel="noopener noreferrer nofollow">https://cybernews.com/science/ufo-uap-office-testify-senate-alien-objects-investigations-national-security/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO agency says no cases of verifiable alien activity (yet)​ | CybernewsNovember 20, 2024 — UFO AGENCY SAYS NO CASES OF VERIFIABLE ALIEN...</p></details>
    Published: November 20, 2024  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cbsnews.com  
    Title: Read the Pentagon UFO report newly released by the Department of Defense  
-   Link: <a href="https://www.cbsnews.com/amp/news/pentagon-ufo-uap-report-full-text-march-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/amp/news/pentagon-ufo-uap-report-full-text-march-2024/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsMarch 8, 2024 — READ THE PENTAGON UFO REPORT NEWLY RELEASED BY THE DEPARTMENT OF DEFENSE Updated on: March 8, 2024 / 12:19 PM EST...</p></details>
+   Link:<a href="https://www.cbsnews.com/amp/news/pentagon-ufo-uap-report-full-text-march-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/amp/news/pentagon-ufo-uap-report-full-text-march-2024/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsMarch 8, 2024 — READ THE PENTAGON UFO REPORT NEWLY RELEASED BY THE DEPARTMENT OF DEFENSE Updated on: March 8, 2024 / 12:19 PM EST...</p></details>
    Published: March 8, 2024  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cbsnews.com  
    Title: Read the Pentagon UFO report newly released by the Department of Defense  
-   Link: <a href="https://www.cbsnews.com/news/pentagon-ufo-uap-report-full-text-march-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/pentagon-ufo-uap-report-full-text-march-2024/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsMarch 8, 2024 — READ THE PENTAGON UFO REPORT NEWLY RELEASED BY THE DEPARTMENT OF DEFENSE Updated on: March 8, 2024 / 12:19 PM EST...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/pentagon-ufo-uap-report-full-text-march-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/pentagon-ufo-uap-report-full-text-march-2024/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsMarch 8, 2024 — READ THE PENTAGON UFO REPORT NEWLY RELEASED BY THE DEPARTMENT OF DEFENSE Updated on: March 8, 2024 / 12:19 PM EST...</p></details>
    Published: March 8, 2024  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: latimes.com  
    Title: Pentagon study finds no sign of alien life in reported UFO sightings  
-   Link: <a href="https://www.latimes.com/world-nation/story/2024-03-08/pentagon-study-finds-no-sign-of-alien-life-in-reported-ufo-sightings-going-back-decades" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/world-nation/story/2024-03-08/pentagon-study-finds-no-sign-of-alien-life-in-reported-ufo-sightings-going-back-decades</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Los Angeles TimesMarch 8, 2024 — PENTAGON STUDY FINDS NO SIGN OF ALIEN LIFE IN REPORTED UFO SIGHTINGS GOING BACK DECADES Image: An overvi...</p></details>
+   Link:<a href="https://www.latimes.com/world-nation/story/2024-03-08/pentagon-study-finds-no-sign-of-alien-life-in-reported-ufo-sightings-going-back-decades" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/world-nation/story/2024-03-08/pentagon-study-finds-no-sign-of-alien-life-in-reported-ufo-sightings-going-back-decades</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Los Angeles TimesMarch 8, 2024 — PENTAGON STUDY FINDS NO SIGN OF ALIEN LIFE IN REPORTED UFO SIGHTINGS GOING BACK DECADES Image: An overvi...</p></details>
    Published: March 8, 2024  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: UAP Independent Study Event Post-Meeting Media Teleconference (  
-   Link: <a href="https://www.youtube.com/watch?v=C3uXUfgSadU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C3uXUfgSadU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Videos Explained: Mick West&#x27;s Expert Analysis...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=C3uXUfgSadU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C3uXUfgSadU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Videos Explained: Mick West&#x27;s Expert Analysis...</p></details>
    Published: May 31, 2023  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: factually.co  
    Title: Are ufo’s real  
-   Link: <a href="https://factually.co/fact-checks/science/are-ufos-real-explained-1fed2d" target="_blank" rel="noopener noreferrer nofollow">https://factually.co/fact-checks/science/are-ufos-real-explained-1fed2d</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 9, 2026 — ARE UFO’S REAL Checked on February 9, 2026 Science UFOs Existence Aaron Pentagon Federal Government of the United Stat...</p></details>
+   Link:<a href="https://factually.co/fact-checks/science/are-ufos-real-explained-1fed2d" target="_blank" rel="noopener noreferrer nofollow">https://factually.co/fact-checks/science/are-ufos-real-explained-1fed2d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 9, 2026 — ARE UFO’S REAL Checked on February 9, 2026 Science UFOs Existence Aaron Pentagon Federal Government of the United Stat...</p></details>
    Published: February 9, 2026  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: LIVE: NASA holds first public meeting on UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=_QU2Ed8ixaU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_QU2Ed8ixaU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Event Post-Meeting Media Teleconference (May 31, 2023)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_QU2Ed8ixaU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_QU2Ed8ixaU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Event Post-Meeting Media Teleconference (May 31, 2023)...</p></details>
    Published: May 31, 2023

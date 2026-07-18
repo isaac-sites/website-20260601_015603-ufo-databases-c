@@ -277,15 +277,15 @@ image: /assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_go
 The Navy’s 2015 “GoFast” video became one of the most famous entries in modern UFO and UAP databases because it appeared to show a small object racing just above the ocean at extraordinary speed. For years, the clip circulated as apparent evidence that military sensors had captured something beyond conventional aircraft performance. Yet the longer analysts examined the footage, the more the case became a lesson in geometry rather than propulsion.
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_gofast_motion_parall_80b7dc-Illustration-1-dark.svg" | relative_url }}" alt="Go Fast illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_gofast_motion_parall_80b7dc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_gofast_motion_parall_80b7dc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The significance of GoFast is not that everyone now agrees on what the object was. The object itself remains unidentified. The more important point is that analysts found no convincing evidence that it was moving in the extraordinary way many viewers initially assumed. By reconstructing viewing angles, aircraft motion and line-of-sight geometry, investigators concluded that the apparent high speed was largely an effect of motion parallax: a visual illusion created when a fast-moving observer tracks a distant object. [AARO]({{ 'aaro/' | relative_url }}) <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/pentagon-releases-aaro-report-on-go-fast-video-analysis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">The Black VaultPentagon Releases AARO Report on &#x27;Go Fast&#x27; Video...10 Feb 2025 — “AARO assesses with high confidence that the object did...</span></span></span>
+The significance of GoFast is not that everyone now agrees on what the object was. The object itself remains unidentified. The more important point is that analysts found no convincing evidence that it was moving in the extraordinary way many viewers initially assumed. By reconstructing viewing angles, aircraft motion and line-of-sight geometry, investigators concluded that the apparent high speed was largely an effect of motion parallax: a visual illusion created when a fast-moving observer tracks a distant object. [AARO]({{ 'aaro/' | relative_url }})<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/pentagon-releases-aaro-report-on-go-fast-video-analysis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">The Black VaultPentagon Releases AARO Report on &#x27;Go Fast&#x27; Video...10 Feb 2025 — “AARO assesses with high confidence that the object did...</span></span></span>
 
 Within [UFO report databases and catalogues]({{ 'ufo-report-databases-and-catalogues/' | relative_url }}), GoFast has become a case study in why dramatic footage alone is often insufficient. The video shows how an unresolved object and an extraordinary object are not necessarily the same thing.
 
 ## What the GoFast video appeared to show
 
-The footage was recorded from a US Navy F/A-18 aircraft using an infrared targeting system during operations off the eastern United States in 2015. The video was later released publicly and became one of the three most widely discussed Navy UAP clips alongside “FLIR1” and “Gimbal”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pentagon UFO videos</span><span class="citation-popover-snippet">Pentagon UFO videos</span></span></span>
+The footage was recorded from a US Navy F/A-18 aircraft using an infrared targeting system during operations off the eastern United States in 2015. The video was later released publicly and became one of the three most widely discussed Navy UAP clips alongside “FLIR1” and “Gimbal”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pentagon UFO videos</span><span class="citation-popover-snippet">Pentagon UFO videos</span></span></span>
 
-To many viewers, the scene looked straightforward. A dark object appeared to skim rapidly above the sea while Navy aviators reacted with surprise. Because the targeting display continuously tracked the object, it seemed to remain locked onto a craft moving at remarkable speed close to the water's surface. Media coverage and online discussion often focused on exactly that interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mick" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">MickMick is a masculine given name or nickname. It is often short for Michael. Because of its popularity in Ireland, it is often used...</span></span></span>
+To many viewers, the scene looked straightforward. A dark object appeared to skim rapidly above the sea while Navy aviators reacted with surprise. Because the targeting display continuously tracked the object, it seemed to remain locked onto a craft moving at remarkable speed close to the water's surface. Media coverage and online discussion often focused on exactly that interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mick" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">MickMick is a masculine given name or nickname. It is often short for Michael. Because of its popularity in Ireland, it is often used...</span></span></span>
 
 Several features made the footage especially persuasive:
 
@@ -298,7 +298,7 @@ Several features made the footage especially persuasive:
 
 </div>
 
-Taken at face value, the video looked like evidence of a craft performing beyond conventional expectations. That perception helped make GoFast one of the most cited entries in modern UAP discussions and databases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mick_West" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mick West</span><span class="citation-popover-snippet">Mick WestMick West (born 1967) is an American science writer, debunker and retired video game programmer. He is the creator of the web...</span></span></span>
+Taken at face value, the video looked like evidence of a craft performing beyond conventional expectations. That perception helped make GoFast one of the most cited entries in modern UAP discussions and databases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mick_West" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mick West</span><span class="citation-popover-snippet">Mick WestMick West (born 1967) is an American science writer, debunker and retired video game programmer. He is the creator of the web...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-3NYowlCoDc" title="GOFAST UFO Analysis (yeah no, probably just a balloon)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-3NYowlCoDc" target="_blank" rel="noopener noreferrer">GOFAST UFO Analysis (yeah no, probably just a balloon)</a></p><p class="youtube-embed-meta">Channel: EdwardCurrent &middot; Views: 6.5K &middot; Uploaded: June 2021 &middot; Length: 4 minutes 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-3NYowlCoDc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-3NYowlCoDc">Open on YouTube</a></p></div></div></div>
 
@@ -308,9 +308,9 @@ The debate shifted when independent analysts and later government investigators 
 
 Motion parallax occurs when an observer is moving rapidly while viewing an object at a different distance than the background. Nearby objects seem to move quickly relative to distant scenery, even when their actual speed is modest. People experience the effect routinely from car windows, where roadside signs appear to rush past while distant hills barely seem to move.
 
-The GoFast analysis applied the same principle to an aircraft travelling at high speed while tracking an object from miles away. Researchers examined the range information, viewing angles and aircraft motion shown on the display. Their reconstruction suggested that much of the apparent velocity came from the jet's own movement rather than from extreme motion by the target itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">the skeptics guide to the pentagons ufo videos</span><span class="citation-popover-snippet">The Skeptic&#x27;s Guide to the Pentagon&#x27;s UFO Videos6 May 2020 — West thinks GOFAST is a balloon tracked by a camera and given unnatural...</span><span class="citation-popover-meta">Published: May 2020</span></span></span> Metabunk AARO eventually presented a similar conclusion. In public briefings and later documentation <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[metabunk.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">nasa panel analyzes go fast.13174</span><span class="citation-popover-snippet">NASA panel analyzes GO FAST19 Sept 2023 — The main point of the NASA analysis is that the GO FAST object looks fast because of parallax—b...</span></span></span>, the office stated that detailed geospatial analysis indicated the object was much higher than many viewers assumed. Rather than skimming just above the waves, it was assessed as being around 13,000 feet in altitude. According to AARO, the object's apparent speed resulted from motion parallax and did not demonstrate anomalous performance. AARO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">pentagon ufo chief tells senate very anomalous objects need careful study video</span><span class="citation-popover-snippet">Pentagon UFO chief tells Senate &#x27;very anomalous objects&#x27;...19 Nov 2024 — In that case, the object&#x27;s apparent speed in the video was...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/pentagon-solves-1-ufo-mystery-still-probing-other-cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">pentagon solves 1 ufo mystery still probing other cases</span><span class="citation-popover-snippet">CBS NewsPentagon solves 1 UFO mystery but still probing cases of &quot;...Nov 20, 2024 — The &quot;GOFAST&quot; video was recorded by a fighter jet fro...</span></span></span>
+The GoFast analysis applied the same principle to an aircraft travelling at high speed while tracking an object from miles away. Researchers examined the range information, viewing angles and aircraft motion shown on the display. Their reconstruction suggested that much of the apparent velocity came from the jet's own movement rather than from extreme motion by the target itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">the skeptics guide to the pentagons ufo videos</span><span class="citation-popover-snippet">The Skeptic&#x27;s Guide to the Pentagon&#x27;s UFO Videos6 May 2020 — West thinks GOFAST is a balloon tracked by a camera and given unnatural...</span><span class="citation-popover-meta">Published: May 2020</span></span></span> Metabunk AARO eventually presented a similar conclusion. In public briefings and later documentation<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[metabunk.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">nasa panel analyzes go fast.13174</span><span class="citation-popover-snippet">NASA panel analyzes GO FAST19 Sept 2023 — The main point of the NASA analysis is that the GO FAST object looks fast because of parallax—b...</span></span></span>, the office stated that detailed geospatial analysis indicated the object was much higher than many viewers assumed. Rather than skimming just above the waves, it was assessed as being around 13,000 feet in altitude. According to AARO, the object's apparent speed resulted from motion parallax and did not demonstrate anomalous performance. AARO<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">pentagon ufo chief tells senate very anomalous objects need careful study video</span><span class="citation-popover-snippet">Pentagon UFO chief tells Senate &#x27;very anomalous objects&#x27;...19 Nov 2024 — In that case, the object&#x27;s apparent speed in the video was...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/pentagon-solves-1-ufo-mystery-still-probing-other-cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">pentagon solves 1 ufo mystery still probing other cases</span><span class="citation-popover-snippet">CBS NewsPentagon solves 1 UFO mystery but still probing cases of &quot;...Nov 20, 2024 — The &quot;GOFAST&quot; video was recorded by a fighter jet fro...</span></span></span>
 
-The office's formal assessment stated that the object's apparent high speed was attributable to motion parallax and that analysts found no evidence of anomalous velocity. AARO's review relied on video analysis, pixel examination, three-dimensional modelling and geometric reconstruction techniques. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/pentagon-releases-aaro-report-on-go-fast-video-analysis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">The Black VaultPentagon Releases AARO Report on &#x27;Go Fast&#x27; Video...10 Feb 2025 — “AARO assesses with high confidence that the object did...</span></span></span> [3AARO 3AARO]
+The office's formal assessment stated that the object's apparent high speed was attributable to motion parallax and that analysts found no evidence of anomalous velocity. AARO's review relied on video analysis, pixel examination, three-dimensional modelling and geometric reconstruction techniques.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/pentagon-releases-aaro-report-on-go-fast-video-analysis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">The Black VaultPentagon Releases AARO Report on &#x27;Go Fast&#x27; Video...10 Feb 2025 — “AARO assesses with high confidence that the object did...</span></span></span> [3AARO 3AARO]
 
 ### Why the illusion looked convincing
 
@@ -320,7 +320,7 @@ First, viewers naturally interpreted the ocean surface as a fixed reference fram
 
 Second, the sensor view compressed distance information. A two-dimensional video frame makes it difficult to judge how far away a target actually is.
 
-Third, the aircraft carrying the camera was moving at hundreds of miles per hour. Any line-of-sight changes caused by the jet's motion could create substantial apparent motion in the image even if the target was drifting slowly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">the skeptics guide to the pentagons ufo videos</span><span class="citation-popover-snippet">The Skeptic&#x27;s Guide to the Pentagon&#x27;s UFO Videos6 May 2020 — West thinks GOFAST is a balloon tracked by a camera and given unnatural...</span><span class="citation-popover-meta">Published: May 2020</span></span></span> Metabunk The result was a case in which intuition and geometry pointed in different directions. The video looked extraordinary before measurement <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[metabunk.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">nasa panel analyzes go fast.13174</span><span class="citation-popover-snippet">NASA panel analyzes GO FAST19 Sept 2023 — The main point of the NASA analysis is that the GO FAST object looks fast because of parallax—b...</span></span></span>, but much less so after reconstruction.
+Third, the aircraft carrying the camera was moving at hundreds of miles per hour. Any line-of-sight changes caused by the jet's motion could create substantial apparent motion in the image even if the target was drifting slowly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">the skeptics guide to the pentagons ufo videos</span><span class="citation-popover-snippet">The Skeptic&#x27;s Guide to the Pentagon&#x27;s UFO Videos6 May 2020 — West thinks GOFAST is a balloon tracked by a camera and given unnatural...</span><span class="citation-popover-meta">Published: May 2020</span></span></span> Metabunk The result was a case in which intuition and geometry pointed in different directions. The video looked extraordinary before measurement<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[metabunk.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">nasa panel analyzes go fast.13174</span><span class="citation-popover-snippet">NASA panel analyzes GO FAST19 Sept 2023 — The main point of the NASA analysis is that the GO FAST object looks fast because of parallax—b...</span></span></span>, but much less so after reconstruction.
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_gofast_motion_parall_80b7dc-Illustration-2-dark.svg" | relative_url }}" alt="Go Fast illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_gofast_motion_parall_80b7dc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d_gofast_motion_parall_80b7dc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the case remained important even after the speed claim weakened
@@ -334,7 +334,7 @@ The case also highlighted the difference between two separate questions:
 1. What was the object?
 2. How was the object moving?
 
-AARO's analysis primarily addressed the second question. Investigators argued that the object was not displaying extraordinary velocity. That finding reduced one of the strongest claims attached to the footage. It did not necessarily identify the object itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AARO GoFast Case Resolution6 Feb 2025 — AARO manually extracted data from a publicly available video of the “Go Fast” event as the so...</span></span></span>
+AARO's analysis primarily addressed the second question. Investigators argued that the object was not displaying extraordinary velocity. That finding reduced one of the strongest claims attached to the footage. It did not necessarily identify the object itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AARO GoFast Case Resolution6 Feb 2025 — AARO manually extracted data from a publicly available video of the “Go Fast” event as the so...</span></span></span>
 
 For catalogue users, that distinction matters. A report can remain partially unresolved while still losing its strongest anomalous feature.
 
@@ -344,7 +344,7 @@ For catalogue users, that distinction matters. A report can remain partially unr
 
 Even after extensive analysis, GoFast illustrates the limits of retrospective investigation.
 
-AARO's 2025 case-resolution material noted that its work relied on data manually extracted from a publicly available version of the video. The office reconstructed the event from the available imagery rather than from a complete original sensor package. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryAARO employed full-motion video analysis and pixel examination techniques to inform its assessment.... NAVAIR - FOIA: Case: &quot;...</span></span></span>
+AARO's 2025 case-resolution material noted that its work relied on data manually extracted from a publicly available version of the video. The office reconstructed the event from the available imagery rather than from a complete original sensor package.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryAARO employed full-motion video analysis and pixel examination techniques to inform its assessment.... NAVAIR - FOIA: Case: &quot;...</span></span></span>
 
 That limitation matters because modern military targeting systems generate far more information than appears in a compressed public clip. Analysts ideally want:
 
@@ -359,7 +359,7 @@ That limitation matters because modern military targeting systems generate far m
 
 </div>
 
-Without the complete data environment, some questions remain difficult to answer definitively. Even if the apparent speed can be explained, the object's exact nature may remain uncertain. The public video alone cannot supply every missing variable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AARO GoFast Case Resolution6 Feb 2025 — AARO manually extracted data from a publicly available video of the “Go Fast” event as the so...</span></span></span>
+Without the complete data environment, some questions remain difficult to answer definitively. Even if the apparent speed can be explained, the object's exact nature may remain uncertain. The public video alone cannot supply every missing variable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AARO GoFast Case Resolution6 Feb 2025 — AARO manually extracted data from a publicly available video of the “Go Fast” event as the so...</span></span></span>
 
 This is one reason many official UAP cases remain in unresolved or archived categories. The problem is often not a lack of theories but a lack of complete data.
 
@@ -368,7 +368,7 @@ This is one reason many official UAP cases remain in unresolved or archived cate
 
 The lasting importance of GoFast is methodological rather than sensational.
 
-For years, the clip was cited as evidence that military sensors had captured an object performing beyond known capabilities. Subsequent analysis showed that a key part of that claim depended on assumptions about distance, altitude and speed that were not directly visible in the footage. Once geometry was reconstructed, the strongest anomalous interpretation became much harder to sustain. AARO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/pentagon-releases-aaro-report-on-go-fast-video-analysis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">The Black VaultPentagon Releases AARO Report on &#x27;Go Fast&#x27; Video...10 Feb 2025 — “AARO assesses with high confidence that the object did...</span></span></span>
+For years, the clip was cited as evidence that military sensors had captured an object performing beyond known capabilities. Subsequent analysis showed that a key part of that claim depended on assumptions about distance, altitude and speed that were not directly visible in the footage. Once geometry was reconstructed, the strongest anomalous interpretation became much harder to sustain. AARO<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/pentagon-releases-aaro-report-on-go-fast-video-analysis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">The Black VaultPentagon Releases AARO Report on &#x27;Go Fast&#x27; Video...10 Feb 2025 — “AARO assesses with high confidence that the object did...</span></span></span>
 
 That does not mean every UAP report has a mundane explanation, nor does it mean every analyst agrees on every detail of the case. What GoFast demonstrated is that sensor videos can create persuasive but misleading impressions when viewed without full contextual data.
 
@@ -377,194 +377,194 @@ Within the broader world of UFO report databases and catalogues, GoFast therefor
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Le7Fqbsrrm8" title="Breakdown of the Pentagon UFO videos with Mick West" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Le7Fqbsrrm8" target="_blank" rel="noopener noreferrer">Breakdown of the Pentagon UFO videos with Mick West</a></p><p class="youtube-embed-meta">Channel: Cool Worlds &middot; Views: 365.2K &middot; Uploaded: April 2020 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Le7Fqbsrrm8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Le7Fqbsrrm8">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was Go Fast Really Moving That Fast?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was Go Fast Really Moving That Fast?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides authoritative insight into UFO reports and government data, matching the database/evidence theme.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides authoritative insight into UFO reports and government data, matching the database/evidence theme.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Government%3A+A+Historical+Inquiry+David+M.+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government: A Historical Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government%3A+A+Historical+Inquiry+David+M.+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government: A Historical Inquiry">UFOs and Government: A Historical Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By David M. Jacobs</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Government%3A+A+Historical+Inquiry+David+M.+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government: A Historical Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government%3A+A+Historical+Inquiry+David+M.+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government: A Historical Inquiry">UFOs and Government: A Historical Inquiry</a>
+</h4>
+<p class="fr-book-author">By David M. Jacobs</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government%3A+A+Historical+Inquiry+David+M.+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government%3A+A+Historical+Inquiry+David+M.+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer patch" data-ebay-reference="go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer patch" data-ebay-reference="go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer patch" data-ebay-reference="go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer patch" data-ebay-reference="go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer patch" data-ebay-reference="go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer patch" data-ebay-reference="go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer patch" data-ebay-reference="go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer patch" data-ebay-reference="go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer patch" data-ebay-reference="go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Patch Iron Sew On Clothes Alien NASA Space UFO Embroidered Badge"><img src="{{ '/assets/images/marketplace-covers/f36dd492ef5bc0292aaa.jpg' | relative_url }}" alt="Listing image for Flying Saucer Patch Iron Sew On Clothes Alien NASA Space UFO Embroidered Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer patch" data-ebay-reference="go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Patch Iron Sew On Clothes Alien NASA Space UFO Embroidered Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer patch" data-ebay-reference="go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer patch" data-ebay-reference="go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer patch" data-ebay-reference="go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Patch Iron Sew On Clothes Alien NASA Space UFO Embroidered Badge"><img src="{{ '/assets/images/marketplace-covers/f36dd492ef5bc0292aaa.jpg' | relative_url }}" alt="Listing image for Flying Saucer Patch Iron Sew On Clothes Alien NASA Space UFO Embroidered Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer patch" data-ebay-reference="go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Patch Iron Sew On Clothes Alien NASA Space UFO Embroidered Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer patch" data-ebay-reference="go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer patch" data-ebay-reference="go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer patch" data-ebay-reference="go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Patch Flying Saucer Iron Sew On Jeans T Shirt NASA Space Embroidered Badge"><img src="{{ '/assets/images/marketplace-covers/a83284170907f2947855.jpg' | relative_url }}" alt="Listing image for Alien Patch Flying Saucer Iron Sew On Jeans T Shirt NASA Space Embroidered Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer patch" data-ebay-reference="go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch" target="_blank" rel="sponsored noopener noreferrer">Alien Patch Flying Saucer Iron Sew On Jeans T Shirt NASA Space Embroidered Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer patch" data-ebay-reference="go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer patch" data-ebay-reference="go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer patch" data-ebay-reference="go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Patch Flying Saucer Iron Sew On Jeans T Shirt NASA Space Embroidered Badge"><img src="{{ '/assets/images/marketplace-covers/a83284170907f2947855.jpg' | relative_url }}" alt="Listing image for Alien Patch Flying Saucer Iron Sew On Jeans T Shirt NASA Space Embroidered Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer patch" data-ebay-reference="go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch" target="_blank" rel="sponsored noopener noreferrer">Alien Patch Flying Saucer Iron Sew On Jeans T Shirt NASA Space Embroidered Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer patch" data-ebay-reference="go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer patch" data-ebay-reference="go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer patch" data-ebay-reference="go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Get in Loser Alien Flying Saucer Embroidered Iron On Patch Alien Abduction"><img src="{{ '/assets/images/marketplace-covers/5f5be0fcf8b931468e50.jpg' | relative_url }}" alt="Listing image for UFO Get in Loser Alien Flying Saucer Embroidered Iron On Patch Alien Abduction" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer patch" data-ebay-reference="go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Get in Loser Alien Flying Saucer Embroidered Iron On Patch Alien Abduction</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer patch" data-ebay-reference="go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer patch" data-ebay-reference="go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer patch" data-ebay-reference="go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer patch" data-ebay-reference="go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Get in Loser Alien Flying Saucer Embroidered Iron On Patch Alien Abduction"><img src="{{ '/assets/images/marketplace-covers/5f5be0fcf8b931468e50.jpg' | relative_url }}" alt="Listing image for UFO Get in Loser Alien Flying Saucer Embroidered Iron On Patch Alien Abduction" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer patch" data-ebay-reference="go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Get in Loser Alien Flying Saucer Embroidered Iron On Patch Alien Abduction</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer patch" data-ebay-reference="go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer patch" data-ebay-reference="go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer patch" data-ebay-reference="go-fast-was-go-fast-really-moving-that-fast-ufo-report-databases-and-catalogues-flying-saucer-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -580,7 +580,7 @@ Within the broader world of UFO report databases and catalogues, GoFast therefor
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -600,7 +600,7 @@ Within the broader world of UFO report databases and catalogues, GoFast therefor
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -632,7 +632,7 @@ Within the broader world of UFO report databases and catalogues, GoFast therefor
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -684,7 +684,7 @@ Within the broader world of UFO report databases and catalogues, GoFast therefor
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -729,7 +729,7 @@ Within the broader world of UFO report databases and catalogues, GoFast therefor
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -770,132 +770,132 @@ Within the broader world of UFO report databases and catalogues, GoFast therefor
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aaro.mil  
    Title: Go Fast Case Resolution Card Methodology Final  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO GoFast Case Resolution6 Feb 2025 — AARO manually extracted data from a publicly available video of the “Go Fast” event as the so...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO GoFast Case Resolution6 Feb 2025 — AARO manually extracted data from a publicly available video of the “Go Fast” event as the so...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: space.com  
    Title: pentagon ufo chief tells senate very anomalous objects need careful study video  
-   Link: <a href="https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO chief tells Senate &#x27;very anomalous objects&#x27;...19 Nov 2024 — In that case, the object&#x27;s apparent speed in the video was...</p></details>
+   Link:<a href="https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO chief tells Senate &#x27;very anomalous objects&#x27;...19 Nov 2024 — In that case, the object&#x27;s apparent speed in the video was...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Pentagon UFO videos  
-   Link: <a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: vice.com  
    Title: the skeptics guide to the pentagons ufo videos  
-   Link: <a href="https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Skeptic&#x27;s Guide to the Pentagon&#x27;s UFO Videos6 May 2020 — West thinks GOFAST is a balloon tracked by a camera and given unnatural...</p></details>
+   Link:<a href="https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Skeptic&#x27;s Guide to the Pentagon&#x27;s UFO Videos6 May 2020 — West thinks GOFAST is a balloon tracked by a camera and given unnatural...</p></details>
    Published: May 2020  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: metabunk.org  
    Title: nasa panel analyzes go fast.13174  
-   Link: <a href="https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA panel analyzes GO FAST19 Sept 2023 — The main point of the NASA analysis is that the GO FAST object looks fast because of parallax—b...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA panel analyzes GO FAST19 Sept 2023 — The main point of the NASA analysis is that the GO FAST object looks fast because of parallax—b...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryAARO employed full-motion video analysis and pixel examination techniques to inform its assessment.... NAVAIR - FOIA: Case: &quot;...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryAARO employed full-motion video analysis and pixel examination techniques to inform its assessment.... NAVAIR - FOIA: Case: &quot;...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Mick" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mick</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MickMick is a masculine given name or nickname. It is often short for Michael. Because of its popularity in Ireland, it is often used...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Mick" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mick</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MickMick is a masculine given name or nickname. It is often short for Michael. Because of its popularity in Ireland, it is often used...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Mick West  
-   Link: <a href="https://en.wikipedia.org/wiki/Mick_West" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mick_West</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mick WestMick West (born 1967) is an American science writer, debunker and retired video game programmer. He is the creator of the web...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Mick_West" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mick_West</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mick WestMick West (born 1967) is an American science writer, debunker and retired video game programmer. He is the creator of the web...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: The Mick (TV series)  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Mick_%28TV_series%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Mick_%28TV_series%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mick (TV series)The Mick is an American television sitcom broadcast on Fox. Created by Dave Chernin and John Chernin, the series s...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/The_Mick_%28TV_series%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Mick_%28TV_series%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mick (TV series)The Mick is an American television sitcom broadcast on Fox. Created by Dave Chernin and John Chernin, the series s...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: gofast.com  
-   Link: <a href="https://gofast.com/" target="_blank" rel="noopener noreferrer nofollow">https://gofast.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GOFAST!® ENERGY | DESIGNED TO KEEP YOU IN THE...GOFAST!® Energy hits harder when the world gets faster. Fueled by bold flavor and built...</p></details>
+   Link:<a href="https://gofast.com/" target="_blank" rel="noopener noreferrer nofollow">https://gofast.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GOFAST!® ENERGY | DESIGNED TO KEEP YOU IN THE...GOFAST!® Energy hits harder when the world gets faster. Fueled by bold flavor and built...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: metabunk.org  
    Title: New AARO video "UAP Video  
-   Link: <a href="https://www.metabunk.org/threads/new-aaro-video-uap-video-middle-east-red-balloon-2024.14243/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/new-aaro-video-uap-video-middle-east-red-balloon-2024.14243/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Middle East Red Balloon...3 Jun 2025 — AARO assesses, with high confidence, that the object depicted in the video is almost certainly (≥...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/new-aaro-video-uap-video-middle-east-red-balloon-2024.14243/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/new-aaro-video-uap-video-middle-east-red-balloon-2024.14243/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Middle East Red Balloon...3 Jun 2025 — AARO assesses, with high confidence, that the object depicted in the video is almost certainly (≥...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: theblackvault.com  
-   Link: <a href="https://www.theblackvault.com/documentarchive/pentagon-releases-aaro-report-on-go-fast-video-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/pentagon-releases-aaro-report-on-go-fast-video-analysis/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultPentagon Releases AARO Report on &#x27;Go Fast&#x27; Video...10 Feb 2025 — “AARO assesses with high confidence that the object did...</p></details>
+   Link:<a href="https://www.theblackvault.com/documentarchive/pentagon-releases-aaro-report-on-go-fast-video-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/pentagon-releases-aaro-report-on-go-fast-video-analysis/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultPentagon Releases AARO Report on &#x27;Go Fast&#x27; Video...10 Feb 2025 — “AARO assesses with high confidence that the object did...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cbsnews.com  
    Title: pentagon solves 1 ufo mystery still probing other cases  
-   Link: <a href="https://www.cbsnews.com/news/pentagon-solves-1-ufo-mystery-still-probing-other-cases/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/pentagon-solves-1-ufo-mystery-still-probing-other-cases/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsPentagon solves 1 UFO mystery but still probing cases of &quot;...Nov 20, 2024 — The &quot;GOFAST&quot; video was recorded by a fighter jet fro...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/pentagon-solves-1-ufo-mystery-still-probing-other-cases/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/pentagon-solves-1-ufo-mystery-still-probing-other-cases/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsPentagon solves 1 UFO mystery but still probing cases of &quot;...Nov 20, 2024 — The &quot;GOFAST&quot; video was recorded by a fighter jet fro...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: armed-services.senate.gov  
    Title: aaro slides 112124  
-   Link: <a href="https://www.armed-services.senate.gov/download/aaro-slides-112124" target="_blank" rel="noopener noreferrer nofollow">https://www.armed-services.senate.gov/download/aaro-slides-112124</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Armed Services CommitteeAARO Open Hearing Case Slides10 Oct 2024 — Analytic Factors: Coordinated analysis employed full-motion video anal...</p></details>
+   Link:<a href="https://www.armed-services.senate.gov/download/aaro-slides-112124" target="_blank" rel="noopener noreferrer nofollow">https://www.armed-services.senate.gov/download/aaro-slides-112124</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Armed Services CommitteeAARO Open Hearing Case Slides10 Oct 2024 — Analytic Factors: Coordinated analysis employed full-motion video anal...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pbs.org  
-   Link: <a href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 ways scientists use math to help debunk UFO videosSemeter helped analyze one particular video called &quot;GO FAST,&quot; where an object seen an...</p></details>
+   Link:<a href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 ways scientists use math to help debunk UFO videosSemeter helped analyze one particular video called &quot;GO FAST,&quot; where an object seen an...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO has resolved the &quot;Go Fast&quot; UAP: r/UFOsGo Fast explanation: paralax Object altitude 13.000 ft, speed 45mph / 39 knots. Wind speed at...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO has resolved the &quot;Go Fast&quot; UAP: r/UFOsGo Fast explanation: paralax Object altitude 13.000 ft, speed 45mph / 39 knots. Wind speed at...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>According to AARO&#x27;s new website, the FLIR, Gimbal and...According to AARO, the FLIR (Tic Tac UAP), Gimbal, and GoFast videos are “unreso...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>According to AARO&#x27;s new website, the FLIR, Gimbal and...According to AARO, the FLIR (Tic Tac UAP), Gimbal, and GoFast videos are “unreso...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>For those who don&#x27;t know, the Gimbal and GoFast videos...Gimbal is allegedly just a distant jet and GoFast is just a balloon seen with p...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For those who don&#x27;t know, the Gimbal and GoFast videos...Gimbal is allegedly just a distant jet and GoFast is just a balloon seen with p...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: netflix.com  
-   Link: <a href="https://www.netflix.com/title/80157082" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/title/80157082</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch The MickWhen her wealthy sister gets arrested, irresponsible grifter Mickey winds up in charge of three spoiled children and a pala...</p></details>
+   Link:<a href="https://www.netflix.com/title/80157082" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/title/80157082</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Watch The MickWhen her wealthy sister gets arrested, irresponsible grifter Mickey winds up in charge of three spoiled children and a pala...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: en.wiktionary.org  
-   Link: <a href="https://en.wiktionary.org/wiki/mick" target="_blank" rel="noopener noreferrer nofollow">https://en.wiktionary.org/wiki/mick</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>also: Mick. English. Pronunciation. IPA: /mɪk/. Audio (General Australian): Duration: 1 second.0:01, (file). Rhymes: -ɪk. Etymology 1.Rea...</p></details>
+   Link:<a href="https://en.wiktionary.org/wiki/mick" target="_blank" rel="noopener noreferrer nofollow">https://en.wiktionary.org/wiki/mick</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>also: Mick. English. Pronunciation. IPA: /mɪk/. Audio (General Australian): Duration: 1 second.0:01, (file). Rhymes: -ɪk. Etymology 1.Rea...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: rottentomatoes.com  
-   Link: <a href="https://www.rottentomatoes.com/tv/the_mick" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/tv/the_mick</a>  
+   Link:<a href="https://www.rottentomatoes.com/tv/the_mick" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/tv/the_mick</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: hulu.com  
-   Link: <a href="https://www.hulu.com/series/the-mick-1ad6f863-b760-4842-bee7-43059eae0fa2" target="_blank" rel="noopener noreferrer nofollow">https://www.hulu.com/series/the-mick-1ad6f863-b760-4842-bee7-43059eae0fa2</a>  
+   Link:<a href="https://www.hulu.com/series/the-mick-1ad6f863-b760-4842-bee7-43059eae0fa2" target="_blank" rel="noopener noreferrer nofollow">https://www.hulu.com/series/the-mick-1ad6f863-b760-4842-bee7-43059eae0fa2</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Le7Fqbsrrm8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Le7Fqbsrrm8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Breakdown of the Pentagon UFO videos with Mick WestThe Pentagon have officially released three videos of unidentified aerial phenomena wh...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Le7Fqbsrrm8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Le7Fqbsrrm8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Breakdown of the Pentagon UFO videos with Mick WestThe Pentagon have officially released three videos of unidentified aerial phenomena wh...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=-3NYowlCoDc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-3NYowlCoDc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GOFAST UFO Analysis (yeah no, probably just a balloon)Skeptic investigator Mick West used the range data on the &quot;GOFAST&quot; UFO video to det...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-3NYowlCoDc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-3NYowlCoDc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GOFAST UFO Analysis (yeah no, probably just a balloon)Skeptic investigator Mick West used the range data on the &quot;GOFAST&quot; UFO video to det...</p></details>

@@ -274,7 +274,7 @@ image: /assets/images/ufo_report_databases_8352a3_project_blue_book_re_ad1d41_uf
 
 ## Introduction
 
-Project [Blue Book]({{ 'blue-book/' | relative_url }})’s value as a historical dataset lies not only in the number of reports it collected, but in the patterns that emerge when thousands of sightings are compared across time, location and outcome. Between 1947 and 1969, the U.S. Air Force logged 12,618 UFO reports. Most were eventually linked to ordinary causes such as aircraft, [balloons]({{ 'balloons/' | relative_url }}), astronomical objects or weather effects, while 701 cases remained officially unidentified after investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.physics.smu.edu/pseudo/UFOs/dod174.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smu.edu">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smu.edu</span><span class="citation-popover-title">dod174</span><span class="citation-popover-snippet">FACT SHEET29 Mar 1999 — However, from 1947 to 1969, the U.S. Air Force investigated reported UFO objects and sightings under Project Blue...</span></span></span>
+Project [Blue Book]({{ 'blue-book/' | relative_url }})’s value as a historical dataset lies not only in the number of reports it collected, but in the patterns that emerge when thousands of sightings are compared across time, location and outcome. Between 1947 and 1969, the U.S. Air Force logged 12,618 UFO reports. Most were eventually linked to ordinary causes such as aircraft, [balloons]({{ 'balloons/' | relative_url }}), astronomical objects or weather effects, while 701 cases remained officially unidentified after investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.physics.smu.edu/pseudo/UFOs/dod174.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smu.edu">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smu.edu</span><span class="citation-popover-title">dod174</span><span class="citation-popover-snippet">FACT SHEET29 Mar 1999 — However, from 1947 to 1969, the U.S. Air Force investigated reported UFO objects and sightings under Project Blue...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_project_blue_book_re_ad1d41_ufo_case_patterns_6bf0f4-Illustration-1-dark.svg" | relative_url }}" alt="Case Patterns illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_project_blue_book_re_ad1d41_ufo_case_patterns_6bf0f4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_project_blue_book_re_ad1d41_ufo_case_patterns_6bf0f4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The resulting records provide a rare large-scale catalogue of how unusual aerial reports were assessed during the Cold War. They reveal recurring forms of misidentification, periods when sightings surged dramatically, and a smaller category of cases that resisted explanation despite witness interviews, radar checks or technical review. Rather than proving a single theory about UFOs, the database shows how reported anomalies were distributed and how investigators separated explainable events from unresolved ones.
@@ -283,34 +283,34 @@ The resulting records provide a rare large-scale catalogue of how unusual aerial
 
 A striking feature of the archive is how repetitive many explanations became. Investigators repeatedly found that reports initially described as mysterious often matched known objects or atmospheric events once additional information was gathered.
 
-Common identification categories included: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/sites/default/files/Aids_to_identification_of_flying_objects_0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">aids to identification of flying objectsThe most common of these were astronomical sightings that included such things as bright stars, p...</span></span></span>
+Common identification categories included:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/sites/default/files/Aids_to_identification_of_flying_objects_0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">aids to identification of flying objectsThe most common of these were astronomical sightings that included such things as bright stars, p...</span></span></span>
 
 * Bright planets, especially Venus, mistaken for hovering or manoeuvring objects.
 * Meteors and fireballs producing brief but dramatic sightings.
-* Weather balloons and research balloons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">During the Cold War, as Project Blue Book investigated...Most cases were eventually explained as things like weather balloons...</span></span></span>
+* Weather balloons and research balloons.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">During the Cold War, as Project Blue Book investigated...Most cases were eventually explained as things like weather balloons...</span></span></span>
 * Conventional aircraft observed under unusual lighting conditions.
 * Stars viewed through atmospheric distortion.
 * Clouds, temperature inversions and other weather phenomena.
 * Searchlights, reflections and optical effects.
-* Hoaxes, reporting errors and incomplete observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/sites/default/files/Aids_to_identification_of_flying_objects_0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">aids to identification of flying objectsThe most common of these were astronomical sightings that included such things as bright stars, p...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">January 9, 2026 — By the time Project Blue Book ended, it had collected 12,618 UFO reports, and concluded that most of them were misident...</span><span class="citation-popover-meta">Published: January 9, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[history]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">CHANNEL ITALIAProject Blue Book</span><span class="citation-popover-snippet">Over the next 17 years, Project Blue Book would compile reports of 12,618 UFO sightings or related events.Read more...</span></span></span> Many reports followed a familiar pattern. Witnesses described lights apparently remaining motionless for long periods, suddenly changing colour or seeming to follow a vehicle. Astronomers and Air Force analysts often traced these observations to bright celestial bodies near the horizon. Atmospheric turbulence could create the illusion of movement, while changes in colour were frequently caused by atmospheric refraction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/sites/default/files/Aids_to_identification_of_flying_objects_0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">aids to identification of flying objectsThe most common of these were astronomical sightings that included such things as bright stars, p...</span></span></span>
+* Hoaxes, reporting errors and incomplete observations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/sites/default/files/Aids_to_identification_of_flying_objects_0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">aids to identification of flying objectsThe most common of these were astronomical sightings that included such things as bright stars, p...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">January 9, 2026 — By the time Project Blue Book ended, it had collected 12,618 UFO reports, and concluded that most of them were misident...</span><span class="citation-popover-meta">Published: January 9, 2026</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[history]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">CHANNEL ITALIAProject Blue Book</span><span class="citation-popover-snippet">Over the next 17 years, Project Blue Book would compile reports of 12,618 UFO sightings or related events.Read more...</span></span></span> Many reports followed a familiar pattern. Witnesses described lights apparently remaining motionless for long periods, suddenly changing colour or seeming to follow a vehicle. Astronomers and Air Force analysts often traced these observations to bright celestial bodies near the horizon. Atmospheric turbulence could create the illusion of movement, while changes in colour were frequently caused by atmospheric refraction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/sites/default/files/Aids_to_identification_of_flying_objects_0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">aids to identification of flying objectsThe most common of these were astronomical sightings that included such things as bright stars, p...</span></span></span>
 
-Balloons formed another recurring category. During the early Cold War, both military and scientific balloon programmes operated across North America. Witnesses often reported reflective objects at high altitude that appeared stationary or moved unpredictably. Investigators regularly linked such sightings to weather balloons or research launches after checking launch records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY CHANNEL ITALIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">CHANNEL ITALIAProject Blue Book</span><span class="citation-popover-snippet">Over the next 17 years, Project Blue Book would compile reports of 12,618 UFO sightings or related events.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">During the Cold War, as Project Blue Book investigated...Most cases were eventually explained as things like weather balloons...</span></span></span>
+Balloons formed another recurring category. During the early Cold War, both military and scientific balloon programmes operated across North America. Witnesses often reported reflective objects at high altitude that appeared stationary or moved unpredictably. Investigators regularly linked such sightings to weather balloons or research launches after checking launch records.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY CHANNEL ITALIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">CHANNEL ITALIAProject Blue Book</span><span class="citation-popover-snippet">Over the next 17 years, Project Blue Book would compile reports of 12,618 UFO sightings or related events.Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">During the Cold War, as Project Blue Book investigated...Most cases were eventually explained as things like weather balloons...</span></span></span>
 
 ## Why Some Years Produced Far More Reports
 
 The Blue Book database was not evenly distributed across the two decades it covered. Reports clustered heavily in certain periods, especially during waves of public attention.
 
-The most famous surge occurred in 1952. That year produced more than 1,500 reports, making it the busiest period in the programme’s history. Contemporary investigators connected the increase partly to intense media coverage and heightened public awareness. Several highly publicised radar and visual incidents around Washington, D.C., also helped fuel nationwide reporting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.blaze.tv/series/quick-history-us-governments-secret-ufo-project-blue-book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blaze.tv">[blaze.tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blaze.tv</span><span class="citation-popover-title">Across the three projects, some 12,618 sightings were reported and looked into</span><span class="citation-popover-snippet">A quick history of the US government&#x27;s secret UFO project &#x27;...Project Blue Book was set up to be much more in-depth, robust and open-minded...</span></span></span>
+The most famous surge occurred in 1952. That year produced more than 1,500 reports, making it the busiest period in the programme’s history. Contemporary investigators connected the increase partly to intense media coverage and heightened public awareness. Several highly publicised radar and visual incidents around Washington, D.C., also helped fuel nationwide reporting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.blaze.tv/series/quick-history-us-governments-secret-ufo-project-blue-book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blaze.tv">[blaze.tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blaze.tv</span><span class="citation-popover-title">Across the three projects, some 12,618 sightings were reported and looked into</span><span class="citation-popover-snippet">A quick history of the US government&#x27;s secret UFO project &#x27;...Project Blue Book was set up to be much more in-depth, robust and open-minded...</span></span></span>
 
 The pattern illustrates a recurring feature of UFO databases: reporting rates often rise after prominent sightings receive national attention. Blue Book records therefore reflect not only what people saw in the sky but also changing public willingness to report unusual experiences.
 
-Cold War conditions added another factor. Increased military aviation activity, new aircraft technologies and public anxiety about national security created an environment in which unfamiliar aerial observations were more likely to be interpreted as significant. <span class="citation-chip-wrap"><a class="citation-chip" href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: origins.osu.edu">[Origins]</a><span class="citation-popover" role="note"><span class="citation-popover-source">origins.osu.edu</span><span class="citation-popover-title">air force investigation ufos</span><span class="citation-popover-snippet">The Air Force Investigation into UFOs22 Dec 2024 — The project had investigated some 12,618 UFO sightings, and of those 701 remain...</span></span></span>
+Cold War conditions added another factor. Increased military aviation activity, new aircraft technologies and public anxiety about national security created an environment in which unfamiliar aerial observations were more likely to be interpreted as significant.<span class="citation-chip-wrap"><a class="citation-chip" href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: origins.osu.edu">[Origins]</a><span class="citation-popover" role="note"><span class="citation-popover-source">origins.osu.edu</span><span class="citation-popover-title">air force investigation ufos</span><span class="citation-popover-snippet">The Air Force Investigation into UFOs22 Dec 2024 — The project had investigated some 12,618 UFO sightings, and of those 701 remain...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wFqmRUFqLIc" title="22% Unknown: The Statistical UFO Proof the Air Force Hid Special Report 14" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wFqmRUFqLIc" target="_blank" rel="noopener noreferrer">22% Unknown: The Statistical UFO Proof the Air Force Hid Special Report 14</a></p><p class="youtube-embed-meta">Channel: RED STONE &middot; Views: 888 &middot; Uploaded: April 2026 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wFqmRUFqLIc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wFqmRUFqLIc">Open on YouTube</a></p></div></div></div>
 
 ## The Statistical Place of the Unidentified Cases
 
-The most discussed number in the Blue Book archive is the final tally of 701 unidentified reports out of 12,618 investigated cases. This represents roughly 5.6 percent of the total dataset. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.physics.smu.edu/pseudo/UFOs/dod174.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smu.edu">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smu.edu</span><span class="citation-popover-title">dod174</span><span class="citation-popover-snippet">FACT SHEET29 Mar 1999 — However, from 1947 to 1969, the U.S. Air Force investigated reported UFO objects and sightings under Project Blue...</span></span></span>
+The most discussed number in the Blue Book archive is the final tally of 701 unidentified reports out of 12,618 investigated cases. This represents roughly 5.6 percent of the total dataset.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.physics.smu.edu/pseudo/UFOs/dod174.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smu.edu">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smu.edu</span><span class="citation-popover-title">dod174</span><span class="citation-popover-snippet">FACT SHEET29 Mar 1999 — However, from 1947 to 1969, the U.S. Air Force investigated reported UFO objects and sightings under Project Blue...</span></span></span>
 
 For Air Force officials, the statistic demonstrated that the overwhelming majority of reports were explainable. For critics and UFO researchers, the remaining unidentified cases became the most important part of the archive because they persisted after formal review.
 
@@ -322,7 +322,7 @@ The unidentified category was not a single type of event. Cases reached that cla
 * Conflicting witness testimony.
 * Lack of corroborating data.
 * Reports containing details that investigators could not reconcile with known explanations.
-* Radar or multiple-witness observations that remained ambiguous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/unidentified-flying-object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">unidentified flying object</span><span class="citation-popover-snippet">Air Force investigated UFO sightings through Project Blue Book. Of 12,618 sightings, 701 remained “unidentified” when the project...Read...</span></span></span>
+* Radar or multiple-witness observations that remained ambiguous.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/unidentified-flying-object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">unidentified flying object</span><span class="citation-popover-snippet">Air Force investigated UFO sightings through Project Blue Book. Of 12,618 sightings, 701 remained “unidentified” when the project...Read...</span></span></span>
 
 </div>
 
@@ -339,7 +339,7 @@ Cases involving several observers from different locations were harder to dismis
 
 ### Radar and Visual Correlation
 
-Some reports combined eyewitness observations with radar returns. Although radar anomalies can arise from technical and atmospheric causes, cases involving both radar detection and visual sightings tended to receive greater scrutiny because they appeared to offer two independent forms of evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forcesnews.com/usa/project-blue-book-what-was-us-air-force-operation-investigate-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forcesnews.com">[Forces News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forcesnews.com</span><span class="citation-popover-title">project blue book what was us air force operation investigate ufos</span><span class="citation-popover-snippet">Forces NewsProject Blue Book: What was US Air Force operation to...3 Aug 2022 — More than 12000 sightings of UFOs were investigated duri...</span></span></span>
+Some reports combined eyewitness observations with radar returns. Although radar anomalies can arise from technical and atmospheric causes, cases involving both radar detection and visual sightings tended to receive greater scrutiny because they appeared to offer two independent forms of evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forcesnews.com/usa/project-blue-book-what-was-us-air-force-operation-investigate-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forcesnews.com">[Forces News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forcesnews.com</span><span class="citation-popover-title">project blue book what was us air force operation investigate ufos</span><span class="citation-popover-snippet">Forces NewsProject Blue Book: What was US Air Force operation to...3 Aug 2022 — More than 12000 sightings of UFOs were investigated duri...</span></span></span>
 
 ### Trained Observers
 
@@ -375,209 +375,209 @@ However, some local waves generated [clusters]({{ 'clusters/' | relative_url }})
 
 One of the most important retrospective findings concerns sightings that occurred during the development of classified reconnaissance aircraft.
 
-Later government disclosures indicated that some reports likely involved flights of aircraft such as the U-2 and A-12, which operated at altitudes unfamiliar to most observers during the 1950s and early 1960s. Witnesses seeing bright sunlight reflected from extremely high-altitude aircraft could interpret them as unusual objects exhibiting extraordinary performance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">January 9, 2026 — By the time Project Blue Book ended, it had collected 12,618 UFO reports, and concluded that most of them were misident...</span><span class="citation-popover-meta">Published: January 9, 2026</span></span></span>
+Later government disclosures indicated that some reports likely involved flights of aircraft such as the U-2 and A-12, which operated at altitudes unfamiliar to most observers during the 1950s and early 1960s. Witnesses seeing bright sunlight reflected from extremely high-altitude aircraft could interpret them as unusual objects exhibiting extraordinary performance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">January 9, 2026 — By the time Project Blue Book ended, it had collected 12,618 UFO reports, and concluded that most of them were misident...</span><span class="citation-popover-meta">Published: January 9, 2026</span></span></span>
 
 This creates an important historical lesson when analysing UFO databases. An unexplained case does not remain fixed forever. Some Blue Book reports that appeared mysterious at the time became easier to interpret decades later once formerly classified programmes entered the public record.
 
 ## What the Patterns Reveal About the Dataset
 
-Taken as a whole, Project Blue Book's records show a dual pattern. Most reported UFOs fit recurring categories that investigators encountered repeatedly: astronomical objects, balloons, aircraft, weather effects and observational errors. These explanations account for the vast majority of the archive and demonstrate how easily unusual viewing conditions can generate convincing but mistaken interpretations. HISTORY CHANNEL ITALIA <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forcesnews.com/usa/project-blue-book-what-was-us-air-force-operation-investigate-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forcesnews.com">[Forces News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forcesnews.com</span><span class="citation-popover-title">project blue book what was us air force operation investigate ufos</span><span class="citation-popover-snippet">Forces NewsProject Blue Book: What was US Air Force operation to...3 Aug 2022 — More than 12000 sightings of UFOs were investigated duri...</span></span></span>
+Taken as a whole, Project Blue Book's records show a dual pattern. Most reported UFOs fit recurring categories that investigators encountered repeatedly: astronomical objects, balloons, aircraft, weather effects and observational errors. These explanations account for the vast majority of the archive and demonstrate how easily unusual viewing conditions can generate convincing but mistaken interpretations. HISTORY CHANNEL ITALIA<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forcesnews.com/usa/project-blue-book-what-was-us-air-force-operation-investigate-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forcesnews.com">[Forces News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forcesnews.com</span><span class="citation-popover-title">project blue book what was us air force operation investigate ufos</span><span class="citation-popover-snippet">Forces NewsProject Blue Book: What was US Air Force operation to...3 Aug 2022 — More than 12000 sightings of UFOs were investigated duri...</span></span></span>
 
 At the same time, the persistence of hundreds of unresolved cases prevented the database from becoming a simple catalogue of mistakes. The unidentified reports remained a small minority, yet they formed a stable and statistically significant subset throughout the programme's existence. Whether those cases reflected missing information, limitations of contemporary investigations, classified technology, or genuinely unresolved phenomena remains debated.
 
-As historical evidence, the pattern is more revealing than any single famous sighting. Blue Book’s archive demonstrates that UFO reporting produced both ordinary explanations and enduring ambiguities, and that large-scale catalogues can reveal recurring structures in how unexplained aerial events are observed, investigated and classified. U.S. Air Force <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects25 Jun 2024 — Of these 701 remain &quot;Unidentified.&quot; The project was headqua...</span></span></span>
+As historical evidence, the pattern is more revealing than any single famous sighting. Blue Book’s archive demonstrates that UFO reporting produced both ordinary explanations and enduring ambiguities, and that large-scale catalogues can reveal recurring structures in how unexplained aerial events are observed, investigated and classified. U.S. Air Force<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects25 Jun 2024 — Of these 701 remain &quot;Unidentified.&quot; The project was headqua...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xBytbIzJMiU" title="Ep. 6: Blue Book: The Rise | Ruppelt, Battelle, and the Washington UFO Wave of 1952" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xBytbIzJMiU" target="_blank" rel="noopener noreferrer">Ep. 6: Blue Book: The Rise | Ruppelt, Battelle, and the Washington UFO Wave of 1952</a></p><p class="youtube-embed-meta">Channel: UnresolvedSignals &middot; Views: 13 &middot; Uploaded: April 2026 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xBytbIzJMiU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xBytbIzJMiU">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Patterns in Identifications and Unexplained UFO Reports. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Patterns in Identifications and Unexplained UFO Reports. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly relevant to identifying patterns, categories, and unexplained cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to identifying patterns, categories, and unexplained cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Covers recurring explanations and unresolved reports in Blue Book data.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers recurring explanations and unresolved reports in Blue Book data.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Discusses trends and patterns in official UFO reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses trends and patterns in official UFO reporting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Provides historical analysis of recurring UFO report patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical analysis of recurring UFO report patterns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Action Figure Red 2020 Collectible 10cm Toy"><img src="{{ '/assets/images/marketplace-covers/93988dfd825946a70d54.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Action Figure Red 2020 Collectible 10cm Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Action Figure Red 2020 Collectible 10cm Toy</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible toy">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible toy</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Action Figure Red 2020 Collectible 10cm Toy"><img src="{{ '/assets/images/marketplace-covers/93988dfd825946a70d54.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Action Figure Red 2020 Collectible 10cm Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Action Figure Red 2020 Collectible 10cm Toy</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible toy">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible toy</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scorpion Snake Alien Figure - Aliens vs Predator Collectible Toy"><img src="{{ '/assets/images/marketplace-covers/db59b03e5475945e8983.jpg' | relative_url }}" alt="Listing image for Scorpion Snake Alien Figure - Aliens vs Predator Collectible Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer">Scorpion Snake Alien Figure - Aliens vs Predator Collectible Toy</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible toy">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible toy</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scorpion Snake Alien Figure - Aliens vs Predator Collectible Toy"><img src="{{ '/assets/images/marketplace-covers/db59b03e5475945e8983.jpg' | relative_url }}" alt="Listing image for Scorpion Snake Alien Figure - Aliens vs Predator Collectible Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer">Scorpion Snake Alien Figure - Aliens vs Predator Collectible Toy</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible toy">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible toy</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien - The Betty Die-Cast 7&quot; Ship [New Toy] Figure, Collectible"><img src="{{ '/assets/images/marketplace-covers/76d6b7a9ef5c57656a55.jpg' | relative_url }}" alt="Listing image for Alien - The Betty Die-Cast 7&quot; Ship [New Toy] Figure, Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer">Alien - The Betty Die-Cast 7&quot; Ship [New Toy] Figure, Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible toy">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible toy</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien - The Betty Die-Cast 7&quot; Ship [New Toy] Figure, Collectible"><img src="{{ '/assets/images/marketplace-covers/76d6b7a9ef5c57656a55.jpg' | relative_url }}" alt="Listing image for Alien - The Betty Die-Cast 7&quot; Ship [New Toy] Figure, Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer">Alien - The Betty Die-Cast 7&quot; Ship [New Toy] Figure, Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible toy">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible toy</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Movie Toy Story 4 Alien Plastic Figures Toy Xmas Gifts Collectible Toys NEW 15cm"><img src="{{ '/assets/images/marketplace-covers/68a200f726f429fc62e9.jpg' | relative_url }}" alt="Listing image for Movie Toy Story 4 Alien Plastic Figures Toy Xmas Gifts Collectible Toys NEW 15cm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer">Movie Toy Story 4 Alien Plastic Figures Toy Xmas Gifts Collectible Toys NEW 15cm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible toy">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible toy</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Movie Toy Story 4 Alien Plastic Figures Toy Xmas Gifts Collectible Toys NEW 15cm"><img src="{{ '/assets/images/marketplace-covers/68a200f726f429fc62e9.jpg' | relative_url }}" alt="Listing image for Movie Toy Story 4 Alien Plastic Figures Toy Xmas Gifts Collectible Toys NEW 15cm" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer">Movie Toy Story 4 Alien Plastic Figures Toy Xmas Gifts Collectible Toys NEW 15cm</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible toy">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible toy</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="case-patterns-patterns-in-identifications-and-unexplained-ufo-reports-ufo-report-databases-and-c-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -593,7 +593,7 @@ As historical evidence, the pattern is more revealing than any single famous sig
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -613,7 +613,7 @@ As historical evidence, the pattern is more revealing than any single famous sig
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -645,7 +645,7 @@ As historical evidence, the pattern is more revealing than any single famous sig
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -697,7 +697,7 @@ As historical evidence, the pattern is more revealing than any single famous sig
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -742,7 +742,7 @@ As historical evidence, the pattern is more revealing than any single famous sig
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -783,147 +783,147 @@ As historical evidence, the pattern is more revealing than any single famous sig
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: af.mil  
    Title: unidentified flying objects and air force project blue book  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: [archives](&#123;&#123; 'archives/' | relative_url &#125;&#125;). gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying Objects25 Jun 2024 — Of these 701 remain &quot;Unidentified.&quot; The project was headqua...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying Objects25 Jun 2024 — Of these 701 remain &quot;Unidentified.&quot; The project was headqua...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>January 9, 2026 — By the time Project Blue Book ended, it had collected 12,618 UFO reports, and concluded that most of them were misident...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 9, 2026 — By the time Project Blue Book ended, it had collected 12,618 UFO reports, and concluded that most of them were misident...</p></details>
    Published: January 9, 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: history.com  
    Title: CHANNEL ITALIAProject Blue Book  
-   Link: <a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Over the next 17 years, Project Blue Book would compile reports of 12,618 UFO sightings or related events.Read more...</p></details>
+   Link:<a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Over the next 17 years, Project Blue Book would compile reports of 12,618 UFO sightings or related events.Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/sites/default/files/Aids_to_identification_of_flying_objects_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/Aids_to_identification_of_flying_objects_0.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>aids to identification of flying objectsThe most common of these were astronomical sightings that included such things as bright stars, p...</p></details>
+   Link:<a href="https://www.cnes-geipan.fr/sites/default/files/Aids_to_identification_of_flying_objects_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/Aids_to_identification_of_flying_objects_0.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>aids to identification of flying objectsThe most common of these were astronomical sightings that included such things as bright stars, p...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>During the Cold War, as Project Blue Book investigated...Most cases were eventually explained as things like weather balloons...</p></details>
+   Link:<a href="https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>During the Cold War, as Project Blue Book investigated...Most cases were eventually explained as things like weather balloons...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: blaze.tv  
    Title: Across the three projects, some 12,618 sightings were reported and looked into  
-   Link: <a href="https://www.blaze.tv/series/quick-history-us-governments-secret-ufo-project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.blaze.tv/series/quick-history-us-governments-secret-ufo-project-blue-book</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A quick history of the US government&#x27;s secret UFO project &#x27;...Project Blue Book was set up to be much more in-depth, robust and open-minded...</p></details>
+   Link:<a href="https://www.blaze.tv/series/quick-history-us-governments-secret-ufo-project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.blaze.tv/series/quick-history-us-governments-secret-ufo-project-blue-book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A quick history of the US government&#x27;s secret UFO project &#x27;...Project Blue Book was set up to be much more in-depth, robust and open-minded...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: britannica.com  
    Title: unidentified flying object  
-   Link: <a href="https://www.britannica.com/topic/unidentified-flying-object" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/unidentified-flying-object</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force investigated UFO sightings through Project Blue Book. Of 12,618 sightings, 701 remained “unidentified” when the project...Read...</p></details>
+   Link:<a href="https://www.britannica.com/topic/unidentified-flying-object" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/unidentified-flying-object</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force investigated UFO sightings through Project Blue Book. Of 12,618 sightings, 701 remained “unidentified” when the project...Read...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: archives.gov  
    Title: do records show proof of ufos  
-   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>?Feb 9, 2018 — According to a U.S. Air Force Fact Sheet, a total of 12,618 sightings were reported to Project Blue Book during this time...</p></details>
+   Link:<a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?Feb 9, 2018 — According to a U.S. Air Force Fact Sheet, a total of 12,618 sightings were reported to Project Blue Book during this time...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Public Interest in UFOs Persists 50 Years After Project Blue...5 Dec 2019 — The United States Air Force sought to answer that question t...</p></details>
+   Link:<a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Public Interest in UFOs Persists 50 Years After Project Blue...5 Dec 2019 — The United States Air Force sought to answer that question t...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — Project Blue Book, code name for the United States&#x27; longest-running Air Force pro...</p></details>
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — Project Blue Book, code name for the United States&#x27; longest-running Air Force pro...</p></details>
    Published: May 2026  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/shutupimtalking.net/posts/project-blue-book-the-american-governments-failed-cold-war-era-effort-to-debunk-/1295025952669343/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/shutupimtalking.net/posts/project-blue-book-the-american-governments-failed-cold-war-era-effort-to-debunk-/1295025952669343/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ked into. Of those, 701 cases remained “unidentified” even...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/shutupimtalking.net/posts/project-blue-book-the-american-governments-failed-cold-war-era-effort-to-debunk-/1295025952669343/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/shutupimtalking.net/posts/project-blue-book-the-american-governments-failed-cold-war-era-effort-to-debunk-/1295025952669343/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ked into. Of those, 701 cases remained “unidentified” even...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1660866237657971/posts/2317369768674278/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1660866237657971/posts/2317369768674278/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Most of them were actually balloons, satellites and aircraft. However, there were also...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1660866237657971/posts/2317369768674278/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1660866237657971/posts/2317369768674278/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Most of them were actually balloons, satellites and aircraft. However, there were also...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: forcesnews.com  
    Title: project blue book what was us air force operation investigate ufos  
-   Link: <a href="https://www.forcesnews.com/usa/project-blue-book-what-was-us-air-force-operation-investigate-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.forcesnews.com/usa/project-blue-book-what-was-us-air-force-operation-investigate-ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forces NewsProject Blue Book: What was US Air Force operation to...3 Aug 2022 — More than 12000 sightings of UFOs were investigated duri...</p></details>
+   Link:<a href="https://www.forcesnews.com/usa/project-blue-book-what-was-us-air-force-operation-investigate-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.forcesnews.com/usa/project-blue-book-what-was-us-air-force-operation-investigate-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forces NewsProject Blue Book: What was US Air Force operation to...3 Aug 2022 — More than 12000 sightings of UFOs were investigated duri...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: origins.osu.edu  
    Title: air force investigation ufos  
-   Link: <a href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/read/air-force-investigation-ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Air Force Investigation into UFOs22 Dec 2024 — The project had investigated some 12,618 UFO sightings, and of those 701 remain...</p></details>
+   Link:<a href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/read/air-force-investigation-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Air Force Investigation into UFOs22 Dec 2024 — The project had investigated some 12,618 UFO sightings, and of those 701 remain...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book, 701 remained &quot;unidentified.&quot; The decision to discontinue UFO investigations was based on an...Read more...</p></details>
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book, 701 remained &quot;unidentified.&quot; The decision to discontinue UFO investigations was based on an...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: theaviationgeekclub.com  
-   Link: <a href="https://theaviationgeekclub.com/project-blue-book-story-ufo-sightings-used-cover-high-altitude-u-2-flights/" target="_blank" rel="noopener noreferrer nofollow">https://theaviationgeekclub.com/project-blue-book-story-ufo-sightings-used-cover-high-altitude-u-2-flights/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PROJECT BLUE BOOK AND THE STORY OF HOW UFO...By the time Project Blue Book was officially closed, its members had investigated a total o...</p></details>
+   Link:<a href="https://theaviationgeekclub.com/project-blue-book-story-ufo-sightings-used-cover-high-altitude-u-2-flights/" target="_blank" rel="noopener noreferrer nofollow">https://theaviationgeekclub.com/project-blue-book-story-ufo-sightings-used-cover-high-altitude-u-2-flights/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PROJECT BLUE BOOK AND THE STORY OF HOW UFO...By the time Project Blue Book was officially closed, its members had investigated a total o...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: abc7.com  
    Title: the black vault project blue book declassified freedom of information act  
-   Link: <a href="https://abc7.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/" target="_blank" rel="noopener noreferrer nofollow">https://abc7.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO enthusiast releases 130K pages of Air Force docs...Jan 20, 2015 — According to the National Archives, 12,618 UFO sightings were repo...</p></details>
+   Link:<a href="https://abc7.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/" target="_blank" rel="noopener noreferrer nofollow">https://abc7.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO enthusiast releases 130K pages of Air Force docs...Jan 20, 2015 — According to the National Archives, 12,618 UFO sightings were repo...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: abc7news.com  
    Title: the black vault project blue book declassified freedom of information act  
-   Link: <a href="https://abc7news.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/" target="_blank" rel="noopener noreferrer nofollow">https://abc7news.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO enthusiast releases 130K pages of Air Force docs...20 Jan 2015 — According to the National Archives, 12,618 UFO sightings were repor...</p></details>
+   Link:<a href="https://abc7news.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/" target="_blank" rel="noopener noreferrer nofollow">https://abc7news.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO enthusiast releases 130K pages of Air Force docs...20 Jan 2015 — According to the National Archives, 12,618 UFO sightings were repor...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: abc7ny.com  
    Title: the black vault project blue book declassified freedom of information act  
-   Link: <a href="https://abc7ny.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/" target="_blank" rel="noopener noreferrer nofollow">https://abc7ny.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO enthusiast releases 130K pages of Air Force docs...20 Jan 2015 — According to the National Archives, 12,618 UFO sightings were repor...</p></details>
+   Link:<a href="https://abc7ny.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/" target="_blank" rel="noopener noreferrer nofollow">https://abc7ny.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO enthusiast releases 130K pages of Air Force docs...20 Jan 2015 — According to the National Archives, 12,618 UFO sightings were repor...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: vault.fbi.gov  
    Title: Project Blue Book (UFO) Part 01 (Final)  
-   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book (UFO) part 1 of 112,618 701. Page 5. I. Z. -1. -1-. &lt; lma. H. » UFO MATERIALS. Scientific Stugy of Unidentified Flying 0b&amp;#39;e...</p></details>
+   Link:<a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book (UFO) part 1 of 112,618 701. Page 5. I. Z. -1. -1-. &lt; lma. H. » UFO MATERIALS. Scientific Stugy of Unidentified Flying 0b&amp;#39;e...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: The Secret Air Force Checklist for UFO Sightings | Project [Blue Book Files](&#123;&#123; 'blue-book-files/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.youtube.com/watch?v=v5TG3KGrrNQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=v5TG3KGrrNQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book identified vs unidentified cases patterns 5 things I learned about the TV show Project Blue Book from a historical expe...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=v5TG3KGrrNQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=v5TG3KGrrNQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book identified vs unidentified cases patterns 5 things I learned about the TV show Project Blue Book from a historical expe...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: sofrep.com  
-   Link: <a href="https://sofrep.com/news/the-truth-behind-ufos-from-project-blue-book-to-the-pentagons-uap-task-force/" target="_blank" rel="noopener noreferrer nofollow">https://sofrep.com/news/the-truth-behind-ufos-from-project-blue-book-to-the-pentagons-uap-task-force/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth Behind UFOs: From Project Blue BookHowever, 701 cases remained classified as unexplained, even after detailed analysis...</p></details>
+   Link:<a href="https://sofrep.com/news/the-truth-behind-ufos-from-project-blue-book-to-the-pentagons-uap-task-force/" target="_blank" rel="noopener noreferrer nofollow">https://sofrep.com/news/the-truth-behind-ufos-from-project-blue-book-to-the-pentagons-uap-task-force/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth Behind UFOs: From Project Blue BookHowever, 701 cases remained classified as unexplained, even after detailed analysis...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(ANALYSIS OF REPORTS OF UNIDENTIFIED AERIAL...by scientific analysis, the number of unexplained cases has decreased rapidly towards the...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(ANALYSIS OF REPORTS OF UNIDENTIFIED AERIAL...by scientific analysis, the number of unexplained cases has decreased rapidly towards the...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: yahoo.com  
-   Link: <a href="https://www.yahoo.com/news/project-blue-book-12-000-020900953.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/project-blue-book-12-000-020900953.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: 12000-plus UFO reports were once...Jan 13, 2024 — Over the years, 12,618 reports of UFO sightings were investigated...</p></details>
+   Link:<a href="https://www.yahoo.com/news/project-blue-book-12-000-020900953.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/project-blue-book-12-000-020900953.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: 12000-plus UFO reports were once...Jan 13, 2024 — Over the years, 12,618 reports of UFO sightings were investigated...</p></details>

@@ -279,9 +279,9 @@ Light pollution—the brightening of the night sky by artificial lighting—is w
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_light_pollution_impa_fcc1de-Illustration-1-dark.svg" | relative_url }}" alt="Light Pollution illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_light_pollution_impa_fcc1de-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_light_pollution_impa_fcc1de-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Measuring Light Pollution and Night‑Sky Conditions
 
-To understand its influence on sighting frequency, light pollution must first be quantified. Environmental science defines artificial light at night (ALAN) as excessive or misdirected light from human sources—streetlamps, buildings, vehicles—that scatters in the atmosphere and increases sky brightness well above natural levels. Satellite‑derived datasets, such as the **New World Atlas of Artificial Sky Brightness**, provide high‑resolution maps of zenith radiance (milllicandela per square metre) that are widely used in geographic analyses of visibility conditions. Higher values in these datasets correspond to brighter, more polluted skies where the contrast between objects and the background is reduced. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky view potential &#124; Scientific ReportsDecember 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>
+To understand its influence on sighting frequency, light pollution must first be quantified. Environmental science defines artificial light at night (ALAN) as excessive or misdirected light from human sources—streetlamps, buildings, vehicles—that scatters in the atmosphere and increases sky brightness well above natural levels. Satellite‑derived datasets, such as the **New World Atlas of Artificial Sky Brightness**, provide high‑resolution maps of zenith radiance (milllicandela per square metre) that are widely used in geographic analyses of visibility conditions. Higher values in these datasets correspond to brighter, more polluted skies where the contrast between objects and the background is reduced.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky view potential &#124; Scientific ReportsDecember 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>
 
-Research into light pollution shows that urban sky brightness can be **tens of times higher than in rural areas**, significantly diminishing the visibility of faint celestial objects and reducing contrast that helps human observers detect unusual lights against a dark background. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s43017-024-00555-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Monitoring, trends and impacts of light pollution &#124; Nature Reviews Earth &amp; EnvironmentMay 23, 2024...</span><span class="citation-popover-meta">Published: May 23, 2024</span></span></span>
+Research into light pollution shows that urban sky brightness can be **tens of times higher than in rural areas**, significantly diminishing the visibility of faint celestial objects and reducing contrast that helps human observers detect unusual lights against a dark background.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s43017-024-00555-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Monitoring, trends and impacts of light pollution &#124; Nature Reviews Earth &amp; EnvironmentMay 23, 2024...</span><span class="citation-popover-meta">Published: May 23, 2024</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/J1GzYAaznXc" title="They don&#x27;t want you to see this UFO footage! New Mass UFO Sighting in Canadian Wilderness!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=J1GzYAaznXc" target="_blank" rel="noopener noreferrer">They don&#x27;t want you to see this UFO footage! New Mass UFO Sighting in Canadian Wilderness!</a></p><p class="youtube-embed-meta">Channel: The Angry Astronaut &middot; Views: 62.7K &middot; Uploaded: April 2026 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=J1GzYAaznXc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=J1GzYAaznXc">Open on YouTube</a></p></div></div></div>
 
@@ -289,21 +289,21 @@ Research into light pollution shows that urban sky brightness can be **tens of t
 
 Quantitative research linking environmental conditions to UFO/UAP report frequencies shows a **statistically credible negative correlation between light pollution and reported sightings**.
 
-A prominent spatial analysis using nearly 100,000 public UAP sightings in the United States found that counties with lower average light pollution tended to have **higher counts of sighting reports**, even after controlling for other variables such as tree cover and cloudiness. In modelling [sighting counts]({{ 'sighting-counts/' | relative_url }}), light pollution had one of the strongest predictive effects: a standard deviation increase in light pollution corresponded to a significant percentage *decrease* in sighting reports, consistent with the hypothesis that **fewer artificial lights improve sky visibility and thus increase observer opportunity to see and report phenomena**. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/srep01722" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Artificial light alters natural regimes of night-time sky brightness &#124; Scientific ReportsApril 24, 2013...</span><span class="citation-popover-meta">Published: April 24, 2013</span></span></span>
+A prominent spatial analysis using nearly 100,000 public UAP sightings in the United States found that counties with lower average light pollution tended to have **higher counts of sighting reports**, even after controlling for other variables such as tree cover and cloudiness. In modelling [sighting counts]({{ 'sighting-counts/' | relative_url }}), light pollution had one of the strongest predictive effects: a standard deviation increase in light pollution corresponded to a significant percentage *decrease* in sighting reports, consistent with the hypothesis that **fewer artificial lights improve sky visibility and thus increase observer opportunity to see and report phenomena**.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/srep01722" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Artificial light alters natural regimes of night-time sky brightness &#124; Scientific ReportsApril 24, 2013...</span><span class="citation-popover-meta">Published: April 24, 2013</span></span></span>
 
-Popular science coverage of this study summarises complementary findings: in environments with clearer skies and less light scatter, people have **greater opportunity to notice objects or lights in the sky**, which may in turn lead to more sightings being logged in databases like [NUFORC]({{ 'nuforc/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.earth.com/news/ufo-sightings-are-influenced-by-the-environment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earth.com">[Earth.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earth.com</span><span class="citation-popover-title">UF O sightings surprisingly connected to the environment</span><span class="citation-popover-snippet">UFO sightings surprisingly connected to the environment - Earth.comMarch 3, 2024...</span><span class="citation-popover-meta">Published: March 3, 2024</span></span></span>
+Popular science coverage of this study summarises complementary findings: in environments with clearer skies and less light scatter, people have **greater opportunity to notice objects or lights in the sky**, which may in turn lead to more sightings being logged in databases like [NUFORC]({{ 'nuforc/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.earth.com/news/ufo-sightings-are-influenced-by-the-environment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earth.com">[Earth.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earth.com</span><span class="citation-popover-title">UF O sightings surprisingly connected to the environment</span><span class="citation-popover-snippet">UFO sightings surprisingly connected to the environment - Earth.comMarch 3, 2024...</span><span class="citation-popover-meta">Published: March 3, 2024</span></span></span>
 
-These patterns align with broader observations cited in analyses of sighting hotspots: many of the higher‑report regions (for example in the western U.S.) coincide with **dark sky areas, public lands and lower night‑sky brightness**, suggesting that visibility conditions matter for report density. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedaily.com/releases/2024/02/240228115420.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedaily.com">[ScienceDaily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedaily.com</span><span class="citation-popover-title">Science Daily The West is best to spot UFOs &#124; Science Daily</span><span class="citation-popover-snippet">The West is best to spot UFOs &#124; ScienceDailyFebruary 27, 2024...</span><span class="citation-popover-meta">Published: February 27, 2024</span></span></span>
+These patterns align with broader observations cited in analyses of sighting hotspots: many of the higher‑report regions (for example in the western U.S.) coincide with **dark sky areas, public lands and lower night‑sky brightness**, suggesting that visibility conditions matter for report density.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedaily.com/releases/2024/02/240228115420.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedaily.com">[ScienceDaily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedaily.com</span><span class="citation-popover-title">Science Daily The West is best to spot UFOs &#124; Science Daily</span><span class="citation-popover-snippet">The West is best to spot UFOs &#124; ScienceDailyFebruary 27, 2024...</span><span class="citation-popover-meta">Published: February 27, 2024</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_light_pollution_impa_fcc1de-Illustration-2-dark.svg" | relative_url }}" alt="Light Pollution illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_light_pollution_impa_fcc1de-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_light_pollution_impa_fcc1de-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Case Comparisons: Rural Versus Urban Areas
 
 Comparing rural and urban landscapes highlights how light pollution shapes UFO report [clusters]({{ 'clusters/' | relative_url }}):
 
-* **Rural and remote regions** often have low artificial light levels, producing inherently darker skies. Observers in these areas can see fainter and more distant objects against a high‑contrast background. Light pollution analyses show that sky brightness in rural settings can be orders of magnitude lower than in nearby urban zones, where artificial skyglow dominates. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/srep08409" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">Worldwide variations in artificial skyglow &#124; Scientific Reports</span><span class="citation-popover-snippet">February 12, 2015 — Worldwide variations in artificial skyglow Download PDF Download PDF * Article * Open access *...</span><span class="citation-popover-meta">Published: February 12, 2015</span></span></span>
+* **Rural and remote regions** often have low artificial light levels, producing inherently darker skies. Observers in these areas can see fainter and more distant objects against a high‑contrast background. Light pollution analyses show that sky brightness in rural settings can be orders of magnitude lower than in nearby urban zones, where artificial skyglow dominates.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/srep08409" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">Worldwide variations in artificial skyglow &#124; Scientific Reports</span><span class="citation-popover-snippet">February 12, 2015 — Worldwide variations in artificial skyglow Download PDF Download PDF * Article * Open access *...</span><span class="citation-popover-meta">Published: February 12, 2015</span></span></span>
 * **Urban and suburban centres** with dense lighting infrastructure create high baseline sky brightness that drowns out subtle aerial lights, reducing the likelihood that observers notice faint or transient objects. This obscuration likely diminishes the number of reported sightings.
 
-Enthusiast and community commentary echoes these scientific patterns: many observers note anecdotal increases in sightings after travelling to dark‑sky locations with minimal light pollution, although such accounts remain informal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/aliens/comments/17ra0l3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">I feel like light pollution should be talked about more among UFO communities</span><span class="citation-popover-snippet">I feel like light pollution should be talked about more among UFO communities.November 9, 2023...</span><span class="citation-popover-meta">Published: November 9, 2023</span></span></span>
+Enthusiast and community commentary echoes these scientific patterns: many observers note anecdotal increases in sightings after travelling to dark‑sky locations with minimal light pollution, although such accounts remain informal.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/aliens/comments/17ra0l3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">I feel like light pollution should be talked about more among UFO communities</span><span class="citation-popover-snippet">I feel like light pollution should be talked about more among UFO communities.November 9, 2023...</span><span class="citation-popover-meta">Published: November 9, 2023</span></span></span>
 
 This rural–urban contrast also helps explain regional clusters in sighting databases. Areas with extensive open public land, minimal light interference, and clear sky horizons tend to accumulate higher report densities, whereas densely populated and brightly lit metropolitan areas show comparatively sparse entries.
 
@@ -323,201 +323,201 @@ Both mechanisms suggest that environmental visibility—not necessarily the pres
 
 Analyses linking environmental variables to sighting patterns urge careful interpretation of sighting clusters in databases. Light pollution emerges as a **non‑phenomenological artefact** that influences where reports are generated: clusters may reflect *visibility opportunity* rather than unusual sky activity. This insight should temper interpretations of regional hotspots in UFO catalogue maps, as areas of low light pollution naturally provide better conditions for both seeing and reporting lights in the sky.
 
-At the same time, acknowledging the role of artificial sky brightness does not explain individual sightings. Rather, it points to a **mechanism shaping the distribution of reports** across large datasets: when the night sky is darker and clearer, more lights are visible, and more sightings are likely to be logged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/srep03789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">January 21, 2014 — Contrasting trends in light pollution across Europe based on satellite observed night time lights Download PDF Downloa...</span><span class="citation-popover-meta">Published: January 21, 2014</span></span></span>
+At the same time, acknowledging the role of artificial sky brightness does not explain individual sightings. Rather, it points to a **mechanism shaping the distribution of reports** across large datasets: when the night sky is darker and clearer, more lights are visible, and more sightings are likely to be logged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/srep03789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">January 21, 2014 — Contrasting trends in light pollution across Europe based on satellite observed night time lights Download PDF Downloa...</span><span class="citation-popover-meta">Published: January 21, 2014</span></span></span>
 
 Overall, understanding the impact of light pollution enhances the utility of UFO reporting databases by framing spatial clusters in terms of *visibility conditions*—a crucial environmental lens in the broader study of sighting distribution patterns.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jCy8KlDMSvI" title="Exploring the questions surrounding UAPs and the search for extraterrestrial life" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jCy8KlDMSvI" target="_blank" rel="noopener noreferrer">Exploring the questions surrounding UAPs and the search for extraterrestrial life</a></p><p class="youtube-embed-meta">Channel: PBS NewsHour &middot; Views: 114.6K &middot; Uploaded: May 2026 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jCy8KlDMSvI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jCy8KlDMSvI">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Light Pollution Shapes UFO Report Clusters. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Light Pollution Shapes UFO Report Clusters. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Maintains the page’s UFO-reporting context while the exact factor is environmental.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Maintains the page’s UFO-reporting context while the exact factor is environmental.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+End+of+Night+by+Paul+Bogard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The End of Night on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=krkakgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The End of Night" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+End+of+Night+by+Paul+Bogard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The End of Night">The End of Night</a>
-        </h4>
-        <p class="fr-book-author">By Paul Bogard</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+End+of+Night+by+Paul+Bogard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The End of Night on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=krkakgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The End of Night" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+End+of+Night+by+Paul+Bogard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The End of Night">The End of Night</a>
+</h4>
+<p class="fr-book-author">By Paul Bogard</p>
         
-        <p class="fr-book-desc">Directly explains artificial light at night and loss of night-sky visibility.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+End+of+Night+by+Paul+Bogard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explains artificial light at night and loss of night-sky visibility.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+End+of+Night+by+Paul+Bogard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Helps readers distinguish meaningful patterns from reporting artefacts and bias.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Helps readers distinguish meaningful patterns from reporting artefacts and bias.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Connects light pollution with what observers can and cannot see in the night sky.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects light pollution with what observers can and cannot see in the night sky.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+End+of+Night&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The End of Night</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+End+of+Night&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The End of Night</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print Giant UFO Hovering Over Vintage City Red Beam Attack Map Style Weird"><img src="{{ '/assets/images/marketplace-covers/a91422e1e8ff511c3818.jpg' | relative_url }}" alt="Listing image for Art Print Giant UFO Hovering Over Vintage City Red Beam Attack Map Style Weird" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer">Art Print Giant UFO Hovering Over Vintage City Red Beam Attack Map Style Weird</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print Giant UFO Hovering Over Vintage City Red Beam Attack Map Style Weird"><img src="{{ '/assets/images/marketplace-covers/a91422e1e8ff511c3818.jpg' | relative_url }}" alt="Listing image for Art Print Giant UFO Hovering Over Vintage City Red Beam Attack Map Style Weird" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer">Art Print Giant UFO Hovering Over Vintage City Red Beam Attack Map Style Weird</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map"><img src="{{ '/assets/images/marketplace-covers/785e336da487766e89a7.jpg' | relative_url }}" alt="Listing image for Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer">Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map"><img src="{{ '/assets/images/marketplace-covers/785e336da487766e89a7.jpg' | relative_url }}" alt="Listing image for Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer">Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map"><img src="{{ '/assets/images/marketplace-covers/51b8893bbe54c1ca707b.jpg' | relative_url }}" alt="Listing image for Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer">Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map"><img src="{{ '/assets/images/marketplace-covers/51b8893bbe54c1ca707b.jpg' | relative_url }}" alt="Listing image for Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer">Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print Alien Saucer Over City Vintage Map UFO Hovering Leonardo Da Vinci Styl"><img src="{{ '/assets/images/marketplace-covers/622c1729001d43c4346c.jpg' | relative_url }}" alt="Listing image for Art Print Alien Saucer Over City Vintage Map UFO Hovering Leonardo Da Vinci Styl" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer">Art Print Alien Saucer Over City Vintage Map UFO Hovering Leonardo Da Vinci Styl</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print Alien Saucer Over City Vintage Map UFO Hovering Leonardo Da Vinci Styl"><img src="{{ '/assets/images/marketplace-covers/622c1729001d43c4346c.jpg' | relative_url }}" alt="Listing image for Art Print Alien Saucer Over City Vintage Map UFO Hovering Leonardo Da Vinci Styl" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer">Art Print Alien Saucer Over City Vintage Map UFO Hovering Leonardo Da Vinci Styl</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="light-pollution-how-light-pollution-shapes-ufo-report-clusters-ufo-report-databases-and-catalogu-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -533,7 +533,7 @@ Overall, understanding the impact of light pollution enhances the utility of UFO
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -553,7 +553,7 @@ Overall, understanding the impact of light pollution enhances the utility of UFO
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -585,7 +585,7 @@ Overall, understanding the impact of light pollution enhances the utility of UFO
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -637,7 +637,7 @@ Overall, understanding the impact of light pollution enhances the utility of UFO
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -682,7 +682,7 @@ Overall, understanding the impact of light pollution enhances the utility of UFO
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -727,117 +727,117 @@ Overall, understanding the impact of light pollution enhances the utility of UFO
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-49527-x</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An environmental analysis of public UAP sightings and sky view potential | Scientific ReportsDecember 14, 2023...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-49527-x</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An environmental analysis of public UAP sightings and sky view potential | Scientific ReportsDecember 14, 2023...</p></details>
    Published: December 14, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s43017-024-00555-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s43017-024-00555-9</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Monitoring, trends and impacts of light pollution | Nature Reviews Earth &amp; EnvironmentMay 23, 2024...</p></details>
+   Link:<a href="https://www.nature.com/articles/s43017-024-00555-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s43017-024-00555-9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Monitoring, trends and impacts of light pollution | Nature Reviews Earth &amp; EnvironmentMay 23, 2024...</p></details>
    Published: May 23, 2024  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: earth.com  
    Title: UF O sightings surprisingly connected to the environment  
-   Link: <a href="https://www.earth.com/news/ufo-sightings-are-influenced-by-the-environment/" target="_blank" rel="noopener noreferrer nofollow">https://www.earth.com/news/ufo-sightings-are-influenced-by-the-environment/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings surprisingly connected to the environment - Earth.comMarch 3, 2024...</p></details>
+   Link:<a href="https://www.earth.com/news/ufo-sightings-are-influenced-by-the-environment/" target="_blank" rel="noopener noreferrer nofollow">https://www.earth.com/news/ufo-sightings-are-influenced-by-the-environment/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings surprisingly connected to the environment - Earth.comMarch 3, 2024...</p></details>
    Published: March 3, 2024  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sciencedaily.com  
    Title: Science Daily The West is best to spot UFOs | Science Daily  
-   Link: <a href="https://www.sciencedaily.com/releases/2024/02/240228115420.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedaily.com/releases/2024/02/240228115420.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The West is best to spot UFOs | ScienceDailyFebruary 27, 2024...</p></details>
+   Link:<a href="https://www.sciencedaily.com/releases/2024/02/240228115420.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedaily.com/releases/2024/02/240228115420.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The West is best to spot UFOs | ScienceDailyFebruary 27, 2024...</p></details>
    Published: February 27, 2024  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/srep01722" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/srep01722</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial light alters natural regimes of night-time sky brightness | Scientific ReportsApril 24, 2013...</p></details>
+   Link:<a href="https://www.nature.com/articles/srep01722" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/srep01722</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial light alters natural regimes of night-time sky brightness | Scientific ReportsApril 24, 2013...</p></details>
    Published: April 24, 2013  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
    Title: I feel like light pollution should be talked about more among UFO communities  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/17ra0l3" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/17ra0l3</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>I feel like light pollution should be talked about more among UFO communities.November 9, 2023...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/17ra0l3" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/17ra0l3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I feel like light pollution should be talked about more among UFO communities.November 9, 2023...</p></details>
    Published: November 9, 2023  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nature.com  
    Title: Worldwide variations in artificial skyglow | Scientific Reports  
-   Link: <a href="https://www.nature.com/articles/srep08409" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/srep08409</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>February 12, 2015 — Worldwide variations in artificial skyglow Download PDF Download PDF * Article * Open access *...</p></details>
+   Link:<a href="https://www.nature.com/articles/srep08409" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/srep08409</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 12, 2015 — Worldwide variations in artificial skyglow Download PDF Download PDF * Article * Open access *...</p></details>
    Published: February 12, 2015  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/srep03789" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/srep03789</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>January 21, 2014 — Contrasting trends in light pollution across Europe based on satellite observed night time lights Download PDF Downloa...</p></details>
+   Link:<a href="https://www.nature.com/articles/srep03789" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/srep03789</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 21, 2014 — Contrasting trends in light pollution across Europe based on satellite observed night time lights Download PDF Downloa...</p></details>
    Published: January 21, 2014  
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pursuingtheparanormal.com  
-   Link: <a href="https://www.pursuingtheparanormal.com/articles/america-ufo-sighting-hotspots-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.pursuingtheparanormal.com/articles/america-ufo-sighting-hotspots-revealed</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Recently, scientists have revealed that Washington, Nevada, and New Mexico see the most UFOs. To determine this, they examined nearly 100...</p></details>
+   Link:<a href="https://www.pursuingtheparanormal.com/articles/america-ufo-sighting-hotspots-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.pursuingtheparanormal.com/articles/america-ufo-sighting-hotspots-revealed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Recently, scientists have revealed that Washington, Nevada, and New Mexico see the most UFOs. To determine this, they examined nearly 100...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: hangar1publishing.com  
    Title: Top UFO Hotspots in the US – Hangar1publishing WHAT MAKES A UFO HOTSPOT?  
-   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/ufo-hotspots-in-the-us" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/ufo-hotspots-in-the-us</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNDERSTANDING THE PATTERNS Multiple factors contribute to why certain locations become UFO hotspots: ENVIRONMENTAL FACTORS The University...</p></details>
+   Link:<a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/ufo-hotspots-in-the-us" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/ufo-hotspots-in-the-us</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNDERSTANDING THE PATTERNS Multiple factors contribute to why certain locations become UFO hotspots: ENVIRONMENTAL FACTORS The University...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: euronews.com  
    Title: UF Os: Do environmental factors increase or decrease reported sightings?  
-   Link: <a href="https://www.euronews.com/next/2024/02/29/ufos-do-environmental-factors-increase-or-decrease-reported-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.euronews.com/next/2024/02/29/ufos-do-environmental-factors-increase-or-decrease-reported-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EuronewsFebruary 29, 2024 — UFOS: DO ENVIRONMENTAL FACTORS INCREASE OR DECREASE REPORTED SIGHTINGS? Image: The image from video provide...</p></details>
+   Link:<a href="https://www.euronews.com/next/2024/02/29/ufos-do-environmental-factors-increase-or-decrease-reported-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.euronews.com/next/2024/02/29/ufos-do-environmental-factors-increase-or-decrease-reported-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EuronewsFebruary 29, 2024 — UFOS: DO ENVIRONMENTAL FACTORS INCREASE OR DECREASE REPORTED SIGHTINGS? Image: The image from video provide...</p></details>
    Published: February 29, 2024  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sciencedirect.com  
    Title: On the dynamics of reporting data: A case study of UFO sightings  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 1, 2022 — PHYSICA A: STATISTICAL MECHANICS AND ITS APPLICATIONS Volume 603, 1 October 2022, 127807 ON THE DYNAMICS O...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 1, 2022 — PHYSICA A: STATISTICAL MECHANICS AND ITS APPLICATIONS Volume 603, 1 October 2022, 127807 ON THE DYNAMICS O...</p></details>
    Published: October 1, 2022  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sciencedirect.com  
    Title: On the dynamics of reporting data: A case study of UFO sightings  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0378437122005295</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 1, 2022 — PHYSICA A: STATISTICAL MECHANICS AND ITS APPLICATIONS Volume 603, 1 October 2022, 127807 ON THE DYNAMICS O...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0378437122005295</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 1, 2022 — PHYSICA A: STATISTICAL MECHANICS AND ITS APPLICATIONS Volume 603, 1 October 2022, 127807 ON THE DYNAMICS O...</p></details>
    Published: October 1, 2022  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ovid.com  
    Title: Measuring and monitoring light pollution: Current  
-   Link: <a href="https://www.ovid.com/journals/scie/fulltext/10.1126/science.adg0473~measuring-and-monitoring-light-pollution-current-approaches" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/scie/fulltext/10.1126/science.adg0473~measuring-and-monitoring-light-pollution-current-approaches</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceJune 16, 2023 — MEASURING AND MONITORING LIGHT POLLUTION: CURRENT APPROACHES AND CHALLENGES * Kocifaj, Miroslav^{} * Wallner, Stef...</p></details>
+   Link:<a href="https://www.ovid.com/journals/scie/fulltext/10.1126/science.adg0473~measuring-and-monitoring-light-pollution-current-approaches" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/scie/fulltext/10.1126/science.adg0473~measuring-and-monitoring-light-pollution-current-approaches</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceJune 16, 2023 — MEASURING AND MONITORING LIGHT POLLUTION: CURRENT APPROACHES AND CHALLENGES * Kocifaj, Miroslav^{} * Wallner, Stef...</p></details>
    Published: June 16, 2023  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: research.utwente.nl  
    Title: nl Monitoring, trends and impacts of light pollution  
-   Link: <a href="https://research.utwente.nl/en/publications/monitoring-trends-and-impacts-of-light-pollution/" target="_blank" rel="noopener noreferrer nofollow">https://research.utwente.nl/en/publications/monitoring-trends-and-impacts-of-light-pollution/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Abascal *, Tobias Degen *, Martin Aubé *, Brian R. Espey *, Geza Gyuk *, Franz Hölker *, Andreas Jechow *...</p></details>
+   Link:<a href="https://research.utwente.nl/en/publications/monitoring-trends-and-impacts-of-light-pollution/" target="_blank" rel="noopener noreferrer nofollow">https://research.utwente.nl/en/publications/monitoring-trends-and-impacts-of-light-pollution/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Abascal *, Tobias Degen *, Martin Aubé *, Brian R. Espey *, Geza Gyuk *, Franz Hölker *, Andreas Jechow *...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: storymaps.arcgis.com  
-   Link: <a href="https://storymaps.arcgis.com/stories/29a919c0803845539bbe8a46228d6b74" target="_blank" rel="noopener noreferrer nofollow">https://storymaps.arcgis.com/stories/29a919c0803845539bbe8a46228d6b74</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pollution and UFO SightingsApril 24, 2021 — LIGHT POLLUTION AND UFO SIGHTINGS A Spatial Analysis of Light Pollution over the Years and UF...</p></details>
+   Link:<a href="https://storymaps.arcgis.com/stories/29a919c0803845539bbe8a46228d6b74" target="_blank" rel="noopener noreferrer nofollow">https://storymaps.arcgis.com/stories/29a919c0803845539bbe8a46228d6b74</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pollution and UFO SightingsApril 24, 2021 — LIGHT POLLUTION AND UFO SIGHTINGS A Spatial Analysis of Light Pollution over the Years and UF...</p></details>
    Published: April 24, 2021  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=J1GzYAaznXc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J1GzYAaznXc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>So About That UFO - Still Untitled: The Adam Savage Project - 11/24/15...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=J1GzYAaznXc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J1GzYAaznXc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>So About That UFO - Still Untitled: The Adam Savage Project - 11/24/15...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=jCy8KlDMSvI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jCy8KlDMSvI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>They don&#x27;t want you to see this UFO footage! New Mass UFO Sighting in Canadian Wilderness...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jCy8KlDMSvI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jCy8KlDMSvI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>They don&#x27;t want you to see this UFO footage! New Mass UFO Sighting in Canadian Wilderness...</p></details>

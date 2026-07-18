@@ -346,54 +346,54 @@ image: /assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d-ov
 
 ## Introduction
 
-AARO reports are useful because they show how official UAP cases move through a government catalogue: reported, triaged, analysed, resolved, archived, or kept open for further work. Their most important lesson is also their most easily missed: an unresolved AARO case is not a confirmed extraordinary object. In many cases, “unresolved” means the office lacks enough timely, actionable sensor data to identify the object, reconstruct its movement, or test ordinary explanations with confidence. The unresolved category is therefore a limit of the available record as much as a category of mystery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">DNI Office...</span></span></span>
+AARO reports are useful because they show how official UAP cases move through a government catalogue: reported, triaged, analysed, resolved, archived, or kept open for further work. Their most important lesson is also their most easily missed: an unresolved AARO case is not a confirmed extraordinary object. In many cases, “unresolved” means the office lacks enough timely, actionable sensor data to identify the object, reconstruct its movement, or test ordinary explanations with confidence. The unresolved category is therefore a limit of the available record as much as a category of mystery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">DNI Office...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d-overview.webp" | relative_url }}" alt="Overview image for AARO" loading="eager" decoding="sync" fetchpriority="high">
 For readers using [UFO report databases and catalogues]({{ 'ufo-report-databases-and-catalogues/' | relative_url }}), AARO’s material sits in a distinctive position. It is official, tied to US defence and intelligence reporting channels, and increasingly public-facing, but it is still shaped by the same problems that affect every UAP catalogue: uneven data quality, reporting bias, missing metadata, sensor artefacts, and retrospective interpretation. AARO’s annual counts are valuable, but they should be read as workload and classification data, not as a scoreboard of unexplained craft.
 
 ## Annual report counts
 
-AARO’s annual reports show a rapidly growing official reporting system rather than a simple rise in extraordinary events. The 2022 ODNI report counted 510 UAP reports as of 30 August 2022, combining 144 reports covered in the earlier preliminary assessment, 247 newer reports, and 119 older or later-discovered reports. The report attributed the increase partly to reduced stigma and greater awareness of possible safety or collection risks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">DNI Office...</span></span></span>
+AARO’s annual reports show a rapidly growing official reporting system rather than a simple rise in extraordinary events. The 2022 ODNI report counted 510 UAP reports as of 30 August 2022, combining 144 reports covered in the earlier preliminary assessment, 247 newer reports, and 119 older or later-discovered reports. The report attributed the increase partly to reduced stigma and greater awareness of possible safety or collection risks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">DNI Office...</span></span></span>
 
-The FY2023 consolidated report added 291 reports for the period from 31 August 2022 to 30 April 2023, including 274 incidents from that period and 17 earlier incidents not previously included. AARO said that most reporting still reflected a bias towards restricted military airspace, because military personnel and sensors are concentrated there, although commercial pilot reporting was beginning to broaden the geographic spread. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">FY23 Consolidated Annual Report Annual Report to Congress on Unidentified Anomalous Phenomena...</span></span></span>
+The FY2023 consolidated report added 291 reports for the period from 31 August 2022 to 30 April 2023, including 274 incidents from that period and 17 earlier incidents not previously included. AARO said that most reporting still reflected a bias towards restricted military airspace, because military personnel and sensors are concentrated there, although commercial pilot reporting was beginning to broaden the geographic spread.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">FY23 Consolidated Annual Report Annual Report to Congress on Unidentified Anomalous Phenomena...</span></span></span>
 
-The FY2024 report expanded the catalogue much further. It covered reports from 1 May 2023 to 1 June 2024, plus earlier reports not previously included, and stated that AARO received 757 reports during that period. Of those, 485 concerned incidents within the reporting period and 272 concerned incidents from 2021–2022 that had not previously reached AARO. By 24 October 2024, AARO’s total holdings had reached 1,652 reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">DNI Office...</span></span></span>
+The FY2024 report expanded the catalogue much further. It covered reports from 1 May 2023 to 1 June 2024, plus earlier reports not previously included, and stated that AARO received 757 reports during that period. Of those, 485 concerned incidents within the reporting period and 272 concerned incidents from 2021–2022 that had not previously reached AARO. By 24 October 2024, AARO’s total holdings had reached 1,652 reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">DNI Office...</span></span></span>
 
-The headline number therefore needs careful handling. A larger official catalogue may reflect better reporting channels, newly imported [FAA logs]({{ 'faa-logs/' | relative_url }}), reduced stigma, and improved interagency collection. It does not automatically mean there are more anomalous objects in the sky. The FY2024 report says 392 of the 757 reports came from FAA civil and commercial aviation logs, including all FAA UAP reports since 2021, which helps explain why a single annual report can absorb a large historical backlog. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">DNI Office...</span></span></span>
+The headline number therefore needs careful handling. A larger official catalogue may reflect better reporting channels, newly imported [FAA logs]({{ 'faa-logs/' | relative_url }}), reduced stigma, and improved interagency collection. It does not automatically mean there are more anomalous objects in the sky. The FY2024 report says 392 of the 757 reports came from FAA civil and commercial aviation logs, including all FAA UAP reports since 2021, which helps explain why a single annual report can absorb a large historical backlog.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">DNI Office...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d-Illustration-1-dark.svg" | relative_url }}" alt="AARO illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Resolved versus unresolved cases
 
 AARO’s categories are not all equal. A case can be resolved to a prosaic object, recommended or queued for closure, kept open for further analysis, or placed in an [active archive]({{ 'active-archive/' | relative_url }}) because the available data are too thin to support a full assessment. This matters because public debate often compresses all non-resolved cases into “unexplained”, even when AARO’s own language distinguishes promising cases from cases that are simply under-documented.
 
-In the FY2024 report, AARO said it resolved 49 cases during the reporting period as prosaic objects such as [balloons]({{ 'balloons/' | relative_url }}), birds and unmanned aerial systems. A further 243 cases were recommended for closure as of 1 June 2024, pending peer review, and were also assessed as prosaic objects including balloons, birds, UAS, satellites and aircraft. The report then separated out 21 cases that merited further analysis by intelligence community and science-and-technology partners because of reported anomalous characteristics or behaviours. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">DNI Office...</span></span></span>
+In the FY2024 report, AARO said it resolved 49 cases during the reporting period as prosaic objects such as [balloons]({{ 'balloons/' | relative_url }}), birds and unmanned aerial systems. A further 243 cases were recommended for closure as of 1 June 2024, pending peer review, and were also assessed as prosaic objects including balloons, birds, UAS, satellites and aircraft. The report then separated out 21 cases that merited further analysis by intelligence community and science-and-technology partners because of reported anomalous characteristics or behaviours.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">DNI Office...</span></span></span>
 
-The largest unresolved bucket was less dramatic but more important for database interpretation: 444 cases lacked sufficient data to facilitate analysis and were placed in AARO’s Active Archive. AARO says these archived cases may be used for pattern-of-life and trend analysis, and may be reopened if additional information emerges. That is a catalogue-management decision, not a claim that the cases exhibit confirmed extraordinary performance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">DNI Office...</span></span></span>
+The largest unresolved bucket was less dramatic but more important for database interpretation: 444 cases lacked sufficient data to facilitate analysis and were placed in AARO’s Active Archive. AARO says these archived cases may be used for pattern-of-life and trend analysis, and may be reopened if additional information emerges. That is a catalogue-management decision, not a claim that the cases exhibit confirmed extraordinary performance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">DNI Office...</span></span></span>
 
-AARO’s public comments around the FY2024 report reinforced this distinction. Director Jon Kosloski said AARO had received more than 1,600 reports overall and had resolved hundreds to commonplace objects such as balloons, birds, drones, satellites and aircraft. He also said unidentified objects near national security sites should be treated seriously and investigated with scientific rigour, which places AARO’s work in a safety and security frame rather than a disclosure-only frame. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP &gt; U.S. Department of War &gt; Transcript &#124;...</span></span></span>(#endnote-4 "Snippet: Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP > U.S. Department of War > Transcript |...")
+AARO’s public comments around the FY2024 report reinforced this distinction. Director Jon Kosloski said AARO had received more than 1,600 reports overall and had resolved hundreds to commonplace objects such as balloons, birds, drones, satellites and aircraft. He also said unidentified objects near national security sites should be treated seriously and investigated with scientific rigour, which places AARO’s work in a safety and security frame rather than a disclosure-only frame.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP &gt; U.S. Department of War &gt; Transcript &#124;...</span></span></span>(#endnote-4 "Snippet: Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP > U.S. Department of War > Transcript |...")
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4EnWX_qflQM" title="UFO Hearing LIVE | UFO News Today 2024 | US Government Confirms 21 Unexplained UFO Sightings | N18G" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4EnWX_qflQM" target="_blank" rel="noopener noreferrer">UFO Hearing LIVE | UFO News Today 2024 | US Government Confirms 21 Unexplained UFO Sightings | N18G</a></p><p class="youtube-embed-meta">Channel: CNN-News18 &middot; Views: 16.2K &middot; Uploaded: November 2024 &middot; Length: 7 hours 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4EnWX_qflQM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4EnWX_qflQM">Open on YouTube</a></p></div></div></div>
 
 ## Why many AARO cases remain unresolved
 
-The recurring reason is not that AARO has confirmed objects beyond known science. It is that the record is often incomplete. The FY2024 report states directly that AARO’s ability to resolve cases remains constrained by a lack of timely and actionable sensor data, and that it is working with military and technical partners to improve sensor requirements, information-sharing and reporting content. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">DNI Office...</span></span></span>
+The recurring reason is not that AARO has confirmed objects beyond known science. It is that the record is often incomplete. The FY2024 report states directly that AARO’s ability to resolve cases remains constrained by a lack of timely and actionable sensor data, and that it is working with military and technical partners to improve sensor requirements, information-sharing and reporting content.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">DNI Office...</span></span></span>
 
-That limitation appears again in AARO’s programme update: most case holdings remain unresolved because they lack the data needed for further analysis, and without sufficient actionable data, they cannot be researched or analysed. This is a crucial phrase for catalogue users. “Active Archive” cases are not necessarily high-strangeness cases; they are often cases where the evidential record is too weak to support a confident answer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">DNI Office...</span></span></span>
+That limitation appears again in AARO’s programme update: most case holdings remain unresolved because they lack the data needed for further analysis, and without sufficient actionable data, they cannot be researched or analysed. This is a crucial phrase for catalogue users. “Active Archive” cases are not necessarily high-strangeness cases; they are often cases where the evidential record is too weak to support a confident answer.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">DNI Office...</span></span></span>
 
-NASA’s 2023 independent UAP study made the same broader point from a scientific perspective. It said UAP analysis is hampered by poor sensor calibration, lack of multiple measurements, lack of [sensor metadata]({{ 'sensor-metadata/' | relative_url }}) and lack of baseline data, and it stressed the value of multiple well-calibrated sensors. That diagnosis fits AARO’s unresolved-case problem: without calibrated, synchronised, contextual data, even a genuine observation can be hard to turn into a reliable identification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+NASA’s 2023 independent UAP study made the same broader point from a scientific perspective. It said UAP analysis is hampered by poor sensor calibration, lack of multiple measurements, lack of [sensor metadata]({{ 'sensor-metadata/' | relative_url }}) and lack of baseline data, and it stressed the value of multiple well-calibrated sensors. That diagnosis fits AARO’s unresolved-case problem: without calibrated, synchronised, contextual data, even a genuine observation can be hard to turn into a reliable identification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The missing pieces can be mundane but decisive: exact aircraft track, sensor pointing angle, range, wind conditions, altitude, time, original file metadata, nearby [air traffic]({{ 'air-traffic/' | relative_url }}), satellite pass data, or the ability to compare the same event across multiple independent sensors. A striking video clip can remain unresolved if it lacks the surrounding information needed to tell whether the apparent motion belongs to the object, the observing platform, the sensor, or the display.
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d-Illustration-2-dark.svg" | relative_url }}" alt="AARO illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Case examples show how “unresolved” can shrink
 
-AARO’s public case-resolution reports are especially useful because they show what resolution looks like when enough data or modelling is available. The Eglin Air Force Base case, reported by a military pilot in January 2023, was resolved with moderate confidence as very likely a lighter-than-air object such as a large commercial lighting balloon; AARO also noted no confirmed anomalous behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Eglin UAP Case Resolution</span><span class="citation-popover-snippet">Eglin UAP Case Resolution</span></span></span>
+AARO’s public case-resolution reports are especially useful because they show what resolution looks like when enough data or modelling is available. The Eglin Air Force Base case, reported by a military pilot in January 2023, was resolved with moderate confidence as very likely a lighter-than-air object such as a large commercial lighting balloon; AARO also noted no confirmed anomalous behaviour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Eglin UAP Case Resolution</span><span class="citation-popover-snippet">Eglin UAP Case Resolution</span></span></span>
 
-The “GoFast” case shows how an apparently fast object can become less extraordinary after geometric reconstruction. AARO’s analysis concluded that the object did not demonstrate anomalous performance characteristics and that its apparent high speed was attributable to motion parallax, an optical effect produced when a moving observer views a slower or stationary object. The report also stated that the original file and metadata were no longer available, so AARO had to work from the publicly available FLIR video and display data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution</span><span class="citation-popover-snippet">Go Fast Case Resolution</span></span></span>
+The “GoFast” case shows how an apparently fast object can become less extraordinary after geometric reconstruction. AARO’s analysis concluded that the object did not demonstrate anomalous performance characteristics and that its apparent high speed was attributable to motion parallax, an optical effect produced when a moving observer views a slower or stationary object. The report also stated that the original file and metadata were no longer available, so AARO had to work from the publicly available FLIR video and display data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution</span><span class="citation-popover-snippet">Go Fast Case Resolution</span></span></span>
 
-That same report is a useful cautionary example for UFO catalogues. AARO could estimate altitude with high confidence from sensor pointing angles and range, but it could not calculate a single definitive speed or heading because exact aircraft location, heading and atmospheric conditions were incomplete. The result was not a magical identification, but a bounded analysis showing that the object’s behaviour did not require an anomalous explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Case Resolution Reports</span><span class="citation-popover-snippet">AARO UAP Case Resolution Reports...</span></span></span>
+That same report is a useful cautionary example for UFO catalogues. AARO could estimate altitude with high confidence from sensor pointing angles and range, but it could not calculate a single definitive speed or heading because exact aircraft location, heading and atmospheric conditions were incomplete. The result was not a magical identification, but a bounded analysis showing that the object’s behaviour did not require an anomalous explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Case Resolution Reports</span><span class="citation-popover-snippet">AARO UAP Case Resolution Reports...</span></span></span>
 
-AARO’s “Atmospheric Wakes” resolution report makes a similar point about sensor interpretation. Reports filed after missions in the Middle East and Mediterranean Sea had suggested potentially anomalous propulsion signatures, but AARO and its partners assessed with high confidence that the “wake” in each video was a sensor anomaly. In one case the object remained unidentified, yet AARO still assessed it was not displaying anomalous characteristics; another was matched to a known military aircraft, and a third to an Airbus A380 using commercial flight data and photogrammetry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Atmospheric_Wakes_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Case Resolution of &#x27;Atmospheric Wakes</span><span class="citation-popover-snippet">Case Resolution of &#x27;Atmospheric Wakes</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">Official UAP Imagery</span></span></span>
+AARO’s “Atmospheric Wakes” resolution report makes a similar point about sensor interpretation. Reports filed after missions in the Middle East and Mediterranean Sea had suggested potentially anomalous propulsion signatures, but AARO and its partners assessed with high confidence that the “wake” in each video was a sensor anomaly. In one case the object remained unidentified, yet AARO still assessed it was not displaying anomalous characteristics; another was matched to a known military aircraft, and a third to an Airbus A380 using commercial flight data and photogrammetry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Atmospheric_Wakes_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Case Resolution of &#x27;Atmospheric Wakes</span><span class="citation-popover-snippet">Case Resolution of &#x27;Atmospheric Wakes</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">Official UAP Imagery</span></span></span>
 
 These examples do not prove that every unresolved case will eventually become a balloon, bird, aircraft or sensor artefact. They do show why an unresolved database entry is fragile evidence. Once analysts obtain better context, a case can move from “interesting clip” to “ordinary object”, from “possible propulsion signature” to “sensor effect”, or from “unknown” to “not enough data to say”.
 
@@ -401,9 +401,9 @@ These examples do not prove that every unresolved case will eventually become a 
 
 ## Missing data and public interpretation
 
-The risk in public interpretation is that unresolved counts are easy to over-read. A database user may see hundreds of unresolved AARO cases and assume that each is an equally strong anomaly. AARO’s own reports say otherwise. In FY2024, 170 reports lacked enough information even to support a morphological characterisation, and 444 were placed in the Active Archive because the data were insufficient to facilitate analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">DNI Office...</span></span></span>
+The risk in public interpretation is that unresolved counts are easy to over-read. A database user may see hundreds of unresolved AARO cases and assume that each is an equally strong anomaly. AARO’s own reports say otherwise. In FY2024, 170 reports lacked enough information even to support a morphological characterisation, and 444 were placed in the Active Archive because the data were insufficient to facilitate analysis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">DNI Office...</span></span></span>
 
-The same report gives concrete examples of ordinary pathways into the catalogue. AARO increasingly receives cases it can attribute to Starlink satellites, including a commercial pilot report of white flashing lights that lacked altitude, speed, data or imagery but correlated with a Starlink launch and known orbital path. It also notes that birds can be misidentified because compression, pixilation and electro-optical/infrared glare can turn them into amorphous blobs or orbs, while wingbeats can appear as flickering in full-motion video. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">DNI Office...</span></span></span>
+The same report gives concrete examples of ordinary pathways into the catalogue. AARO increasingly receives cases it can attribute to Starlink satellites, including a commercial pilot report of white flashing lights that lacked altitude, speed, data or imagery but correlated with a Starlink launch and known orbital path. It also notes that birds can be misidentified because compression, pixilation and electro-optical/infrared glare can turn them into amorphous blobs or orbs, while wingbeats can appear as flickering in full-motion video.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">DNI Office...</span></span></span>
 
 This is where AARO differs from many civilian UFO catalogues. Civilian databases often preserve witness narrative first and investigation second. AARO’s public material is more constrained, but it connects cases to military, FAA, intelligence and technical workflows. That can strengthen analysis, but it also means many details remain classified, summarised, or absent from public release. AARO’s catalogue is therefore more official, not automatically more complete.
 
@@ -422,205 +422,205 @@ That last point is not a dismissal of the subject. It is the difference between 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d-Illustration-3-dark.svg" | relative_url }}" alt="AARO illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_aaro_unresolved_case_7f814d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What AARO adds to UFO catalogues
 
-AARO’s main contribution is not a dramatic list of solved mysteries. It is an official audit trail for how the US government receives, classifies and works through UAP reports. The annual reports show case volume, reporting sources, domains, collection biases, resolved categories, safety concerns and data gaps. The case-resolution reports show how ordinary explanations can be tested using geospatial analysis, photogrammetry, flight data, sensor knowledge and intelligence-community review. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">DNI Office...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
+AARO’s main contribution is not a dramatic list of solved mysteries. It is an official audit trail for how the US government receives, classifies and works through UAP reports. The annual reports show case volume, reporting sources, domains, collection biases, resolved categories, safety concerns and data gaps. The case-resolution reports show how ordinary explanations can be tested using geospatial analysis, photogrammetry, flight data, sensor knowledge and intelligence-community review.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">DNI Office...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
 For a reader comparing UFO report databases, AARO is best used alongside, not instead of, other catalogues. It is stronger on official reporting channels, military and FAA integration, and technical adjudication. It is weaker as a public archive of raw [case files]({{ 'case-files/' | relative_url }}), witness narratives and complete sensor metadata. The public often sees the conclusion before seeing the full evidential chain, which can fuel both overconfidence in official debunking and overconfidence in unresolved mystery.
 
-AARO’s historical report also places modern unresolved cases in a longer pattern. It concluded that many historical cases remain unsolved mainly because of a lack of actionable and researchable data, while resolved cases have generally pointed to ordinary objects, atmospheric or natural phenomena, and observer misidentification. It also stated that AARO had not discovered empirical evidence that any UAP sighting represented off-world technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP &gt; U.S. Department of War &gt; Transcript &#124;...</span></span></span>(#endnote-4 "Snippet: Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP > U.S. Department of War > Transcript |...")
+AARO’s historical report also places modern unresolved cases in a longer pattern. It concluded that many historical cases remain unsolved mainly because of a lack of actionable and researchable data, while resolved cases have generally pointed to ordinary objects, atmospheric or natural phenomena, and observer misidentification. It also stated that AARO had not discovered empirical evidence that any UAP sighting represented off-world technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP &gt; U.S. Department of War &gt; Transcript &#124;...</span></span></span>(#endnote-4 "Snippet: Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP > U.S. Department of War > Transcript |...")
 
 The practical takeaway is simple: AARO’s unresolved cases deserve attention, but not automatic escalation. They are strongest as pointers to where data collection failed, where aviation or site-security reporting needs improvement, and where better sensors could turn future reports into testable evidence. In the broader ecosystem of UFO report databases and catalogues, AARO is most valuable when its categories are read literally: unresolved means unresolved, not proven extraordinary.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ykcmFWHKQHU" title="Amerika Resmi Rilis Bukti Dokumen dan Video UFO Asli Tanpa Sensor!!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ykcmFWHKQHU" target="_blank" rel="noopener noreferrer">Amerika Resmi Rilis Bukti Dokumen dan Video UFO Asli Tanpa Sensor!!</a></p><p class="youtube-embed-meta">Channel: Daftar Populer &middot; Views: 27.3K &middot; Uploaded: May 2026 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ykcmFWHKQHU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ykcmFWHKQHU">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why AARO Cases Remain Unresolved. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why AARO Cases Remain Unresolved. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Covers official, military, aviation and government-facing UFO/UAP cases, making it a strong fit for unresolved official case discussions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers official, military, aviation and government-facing UFO/UAP cases, making it a strong fit for unresolved official case discussions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains why many official UFO cases stayed unidentified because of evidence limits, witness uncertainty and incomplete data.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why many official UFO cases stayed unidentified because of evidence limits, witness uncertainty and incomplete data.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on evidential categories and scientific caution, useful for explaining unresolved does not mean extraordinary.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evidential categories and scientific caution, useful for explaining unresolved does not mean extraordinary.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Tracks how governments collected, classified and interpreted UFO reports, directly matching AARO-style unresolved case themes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Tracks how governments collected, classified and interpreted UFO reports, directly matching AARO-style unresolved case themes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Polar Lights 1/48 UFO Area 51 New Plastic Model Kit 1 48 POL982 982 Mr Models"><img src="{{ '/assets/images/marketplace-covers/b2c31325257837b1123c.jpg' | relative_url }}" alt="Listing image for Polar Lights 1/48 UFO Area 51 New Plastic Model Kit 1 48 POL982 982 Mr Models" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer">Polar Lights 1/48 UFO Area 51 New Plastic Model Kit 1 48 POL982 982 Mr Models</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Polar Lights 1/48 UFO Area 51 New Plastic Model Kit 1 48 POL982 982 Mr Models"><img src="{{ '/assets/images/marketplace-covers/b2c31325257837b1123c.jpg' | relative_url }}" alt="Listing image for Polar Lights 1/48 UFO Area 51 New Plastic Model Kit 1 48 POL982 982 Mr Models" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer">Polar Lights 1/48 UFO Area 51 New Plastic Model Kit 1 48 POL982 982 Mr Models</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bandai UFO Unidentified Flying Object Model Kit 36002 with Flywheel 1978"><img src="{{ '/assets/images/marketplace-covers/d426cbe0b96c11b57c6f.jpg' | relative_url }}" alt="Listing image for Bandai UFO Unidentified Flying Object Model Kit 36002 with Flywheel 1978" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer">Bandai UFO Unidentified Flying Object Model Kit 36002 with Flywheel 1978</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bandai UFO Unidentified Flying Object Model Kit 36002 with Flywheel 1978"><img src="{{ '/assets/images/marketplace-covers/d426cbe0b96c11b57c6f.jpg' | relative_url }}" alt="Listing image for Bandai UFO Unidentified Flying Object Model Kit 36002 with Flywheel 1978" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer">Bandai UFO Unidentified Flying Object Model Kit 36002 with Flywheel 1978</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flight of the Navigator UFO Spaceship + Stand Movie 3D Printed Model Kit"><img src="{{ '/assets/images/marketplace-covers/ebe3cf393219aa33bee6.jpg' | relative_url }}" alt="Listing image for Flight of the Navigator UFO Spaceship + Stand Movie 3D Printed Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer">Flight of the Navigator UFO Spaceship + Stand Movie 3D Printed Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flight of the Navigator UFO Spaceship + Stand Movie 3D Printed Model Kit"><img src="{{ '/assets/images/marketplace-covers/ebe3cf393219aa33bee6.jpg' | relative_url }}" alt="Listing image for Flight of the Navigator UFO Spaceship + Stand Movie 3D Printed Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer">Flight of the Navigator UFO Spaceship + Stand Movie 3D Printed Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Atlantis AMC-1011 TR-3E Triangular UFO 5” Long With 8” Long Base MISB Model Kit"><img src="{{ '/assets/images/marketplace-covers/5e692932a49cedf9ff3c.jpg' | relative_url }}" alt="Listing image for Atlantis AMC-1011 TR-3E Triangular UFO 5” Long With 8” Long Base MISB Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer">Atlantis AMC-1011 TR-3E Triangular UFO 5” Long With 8” Long Base MISB Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Atlantis AMC-1011 TR-3E Triangular UFO 5” Long With 8” Long Base MISB Model Kit"><img src="{{ '/assets/images/marketplace-covers/5e692932a49cedf9ff3c.jpg' | relative_url }}" alt="Listing image for Atlantis AMC-1011 TR-3E Triangular UFO 5” Long With 8” Long Base MISB Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer">Atlantis AMC-1011 TR-3E Triangular UFO 5” Long With 8” Long Base MISB Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="aaro-why-aaro-cases-remain-unresolved-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -636,7 +636,7 @@ The practical takeaway is simple: AARO’s unresolved cases deserve attention, b
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -656,7 +656,7 @@ The practical takeaway is simple: AARO’s unresolved cases deserve attention, b
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -688,7 +688,7 @@ The practical takeaway is simple: AARO’s unresolved cases deserve attention, b
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -740,7 +740,7 @@ The practical takeaway is simple: AARO’s unresolved cases deserve attention, b
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -785,7 +785,7 @@ The practical takeaway is simple: AARO’s unresolved cases deserve attention, b
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -826,206 +826,206 @@ The practical takeaway is simple: AARO’s unresolved cases deserve attention, b
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: dni.gov  
    Title: DOD AARO Consolidated Annual Report on UAP Nov2024  
-   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DNI OfficeAll-domain Anomaly Resolution Office FY 2024 Consolidated Annual Report on UAP...</p></details>
+   Link:<a href="https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DNI OfficeAll-domain Anomaly Resolution Office FY 2024 Consolidated Annual Report on UAP...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: dni.gov  
-   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DNI Office...</p></details>
+   Link:<a href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DNI Office...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FY23 Consolidated Annual Report Annual Report to Congress on Unidentified Anomalous Phenomena...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FY23 Consolidated Annual Report Annual Report to Congress on Unidentified Anomalous Phenomena...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: war.gov  
    Title: U.S. Department of War  
-   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP &gt; U.S. Department of War &gt; Transcript |...</p></details>
+   Link:<a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP &gt; U.S. Department of War &gt; Transcript |...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aaro.mil  
    Title: Eglin UAP Case Resolution  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aaro.mil  
    Title: [Go Fast](&#123;&#123; 'go-fast/' | relative_url &#125;&#125;) Case Resolution  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aaro.mil  
    Title: UAP Case Resolution Reports  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Case Resolution Reports...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Case Resolution Reports...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aaro.mil  
    Title: Case Resolution of 'Atmospheric Wakes'  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Atmospheric_Wakes_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Atmospheric_Wakes_508-02262024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Atmospheric_Wakes_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Atmospheric_Wakes_508-02262024.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aaro.mil  
    Title: Congressional Press Products  
-   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
+   Link:<a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Dr_Jon_Kosloski_Statement_for_the_Record_SASC_Open_Hearing_Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Dr_Jon_Kosloski_Statement_for_the_Record_SASC_Open_Hearing_Nov2024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Dr_Jon_Kosloski_Statement_for_the_Record_SASC_Open_Hearing_Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Dr_Jon_Kosloski_Statement_for_the_Record_SASC_Open_Hearing_Nov2024.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: dni.gov  
    Title: 4020 uap 2024  
-   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024</a>  
+   Link:<a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: dni.gov  
    Title: Prelimary Assessment UAP 20210625  
-   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
+   Link:<a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: dni.gov  
    Title: 3733 2023 consolidated annual report on unidentified anomalous phenomena  
-   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3733-2023-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3733-2023-consolidated-annual-report-on-unidentified-anomalous-phenomena</a>  
+   Link:<a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3733-2023-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3733-2023-consolidated-annual-report-on-unidentified-anomalous-phenomena</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: dni.gov  
    Title: 3667 2022 annual report on unidentified aerial phenomena  
-   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3667-2022-annual-report-on-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3667-2022-annual-report-on-unidentified-aerial-phenomena</a>  
+   Link:<a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3667-2022-annual-report-on-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3667-2022-annual-report-on-unidentified-aerial-phenomena</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: dni.gov  
    Title: FY2023 Consolidated Annual Report UAP Oct2023  
-   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/FY2023-Consolidated-Annual-Report-UAP-Oct2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/FY2023-Consolidated-Annual-Report-UAP-Oct2023.pdf</a>  
+   Link:<a href="https://www.dni.gov/files/ODNI/documents/assessments/FY2023-Consolidated-Annual-Report-UAP-Oct2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/FY2023-Consolidated-Annual-Report-UAP-Oct2023.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
+   Link:<a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/UFO/?search=Lake+Huron" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/UFO/?search=Lake+Huron</a>  
+   Link:<a href="https://www.war.gov/UFO/?search=Lake+Huron" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/UFO/?search=Lake+Huron</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/ufo/?type=.vid" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/?type=.vid</a>  
+   Link:<a href="https://www.war.gov/ufo/?type=.vid" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/?type=.vid</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/ufo/?releaseDate=Release" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/?releaseDate=Release</a>  
+   Link:<a href="https://www.war.gov/ufo/?releaseDate=Release" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/?releaseDate=Release</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/ufo/?releaseDate=Release&amp;type=.vid" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/?releaseDate=Release&amp;type=.vid</a>  
+   Link:<a href="https://www.war.gov/ufo/?releaseDate=Release&amp;type=.vid" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/?releaseDate=Release&amp;type=.vid</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: war.gov  
    Title: dod working to better understand resolve anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024</a>  
+   Link:<a href="https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/962722/unresolved-uap-report-middle-east-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/962722/unresolved-uap-report-middle-east-2024</a>  
+   Link:<a href="https://www.dvidshub.net/video/962722/unresolved-uap-report-middle-east-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/962722/unresolved-uap-report-middle-east-2024</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/973055/pr-003-unresolved-uap-report-africa-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/973055/pr-003-unresolved-uap-report-africa-2023</a>  
+   Link:<a href="https://www.dvidshub.net/video/973055/pr-003-unresolved-uap-report-africa-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/973055/pr-003-unresolved-uap-report-africa-2023</a>  
 
 ### Additional References
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=64dxd_kUXCk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=64dxd_kUXCk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Military Releases Unresolved UAP Video From INDOPACOM: Infrared Sensor Tracks Unknown Object...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=64dxd_kUXCk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=64dxd_kUXCk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Military Releases Unresolved UAP Video From INDOPACOM: Infrared Sensor Tracks Unknown Object...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=4EnWX_qflQM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4EnWX_qflQM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US Officially Releases Uncensored UFO Documents and Original Footage...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4EnWX_qflQM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4EnWX_qflQM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US Officially Releases Uncensored UFO Documents and Original Footage...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
    Title: US Officially Releases Uncensored UFO Documents and Original Footage!!  
-   Link: <a href="https://www.youtube.com/watch?v=ykcmFWHKQHU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ykcmFWHKQHU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Declassified UAP Video: Military Infrared Sensor Tracks Object Making “90-Degree Turns” Near Greece...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ykcmFWHKQHU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ykcmFWHKQHU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Declassified UAP Video: Military Infrared Sensor Tracks Object Making “90-Degree Turns” Near Greece...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=s87jc8W-oGE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s87jc8W-oGE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DOW-UAP-PR40, Unresolved UAP Report, Middle East, 2020...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=s87jc8W-oGE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s87jc8W-oGE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DOW-UAP-PR40, Unresolved UAP Report, Middle East, 2020...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=566iSl6RfQ4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=566iSl6RfQ4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DOW-UAP-PR29, Unresolved UAP Report, United Arab Emirates, June 2024...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=566iSl6RfQ4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=566iSl6RfQ4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DOW-UAP-PR29, Unresolved UAP Report, United Arab Emirates, June 2024...</p></details>
    Published: June 2024  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: aui.edu  
-   Link: <a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
+   Link:<a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/FOX10Phoenix/posts/icymi-the-report-details-its-review-of-nearly-80-years-of-reports-related-to-uni/722484953418967/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FOX10Phoenix/posts/icymi-the-report-details-its-review-of-nearly-80-years-of-reports-related-to-uni/722484953418967/</a>  
+   Link:<a href="https://www.facebook.com/FOX10Phoenix/posts/icymi-the-report-details-its-review-of-nearly-80-years-of-reports-related-to-uni/722484953418967/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FOX10Phoenix/posts/icymi-the-report-details-its-review-of-nearly-80-years-of-reports-related-to-uni/722484953418967/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: ralphbuncheinstitute.org  
-   Link: <a href="https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/" target="_blank" rel="noopener noreferrer nofollow">https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/</a>  
+   Link:<a href="https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/" target="_blank" rel="noopener noreferrer nofollow">https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: abc7news.com  
-   Link: <a href="https://abc7news.com/post/pentagon-ufo-report/15546396/" target="_blank" rel="noopener noreferrer nofollow">https://abc7news.com/post/pentagon-ufo-report/15546396/</a>
+   Link:<a href="https://abc7news.com/post/pentagon-ufo-report/15546396/" target="_blank" rel="noopener noreferrer nofollow">https://abc7news.com/post/pentagon-ufo-report/15546396/</a>

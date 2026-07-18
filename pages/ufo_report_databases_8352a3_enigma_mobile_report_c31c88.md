@@ -355,51 +355,51 @@ image: /assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88-ov
 Enigma Labs is one of the clearest examples of how UFO report catalogues are moving from passive [archives]({{ 'archives/' | relative_url }}) to phone-first reporting systems. Instead of asking a witness to send a loose narrative to a database weeks later, the Enigma app tries to capture a sighting close to the moment it happens, attach useful context such as location and media, display it on a map, and let software and community review help separate ordinary objects from genuinely puzzling reports. That matters because the long-running weakness of UFO databases is not a shortage of stories; it is inconsistent, poorly structured, hard-to-verify data.
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88-overview.webp" | relative_url }}" alt="Overview image for Enigma" loading="eager" decoding="sync" fetchpriority="high">
-The promise is modest but important. A mobile UFO app cannot turn every blurry light into scientific evidence. It can, however, improve the raw material: timestamps, geolocation, video, nearby reports, known-object checks, and repeatable fields. Enigma’s own reporting also shows the limits: many submissions remain self-reported, the company’s scoring methods are proprietary, and moderation is not the same thing as independent verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span></span></span> | Report a UFO sighting
+The promise is modest but important. A mobile UFO app cannot turn every blurry light into scientific evidence. It can, however, improve the raw material: timestamps, geolocation, video, nearby reports, known-object checks, and repeatable fields. Enigma’s own reporting also shows the limits: many submissions remain self-reported, the company’s scoring methods are proprietary, and moderation is not the same thing as independent verification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span></span></span> | Report a UFO sighting
 
 ## Why Enigma Belongs in the UFO Database Story
 
-Older UFO catalogues usually depend on after-the-fact reporting: a witness writes a description, chooses a shape, estimates direction and duration, and sometimes adds a photograph. Enigma’s distinctive claim is that a modern reporting platform can make that process more structured from the start. Its app listing presents Enigma as a place to submit UFO, UAP or drone sightings, browse an interactive map of more than 200,000 recent and historical reports, watch videos, listen to audio stories, filter by shape, witness count, time of day and location, and search individual reports by Enigma case number. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apps.apple.com/us/app/enigma-whats-that-in-the-sky/id1548371173" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apps.apple.com">[App Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apps.apple.com</span><span class="citation-popover-title">App Store‎Enigma: What’s that in the Sky App</span><span class="citation-popover-snippet">App Store...</span></span></span>
+Older UFO catalogues usually depend on after-the-fact reporting: a witness writes a description, chooses a shape, estimates direction and duration, and sometimes adds a photograph. Enigma’s distinctive claim is that a modern reporting platform can make that process more structured from the start. Its app listing presents Enigma as a place to submit UFO, UAP or drone sightings, browse an interactive map of more than 200,000 recent and historical reports, watch videos, listen to audio stories, filter by shape, witness count, time of day and location, and search individual reports by Enigma case number.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apps.apple.com/us/app/enigma-whats-that-in-the-sky/id1548371173" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apps.apple.com">[App Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apps.apple.com</span><span class="citation-popover-title">App Store‎Enigma: What’s that in the Sky App</span><span class="citation-popover-snippet">App Store...</span></span></span>
 
-That positions Enigma between three worlds. It is partly a public UFO database, because users can browse reports and historical cases. It is partly a social app, because people can upvote, comment and receive nearby sighting alerts. It is partly a data-capture tool, because the company emphasises structured reporting, in-app [camera metadata]({{ 'camera-metadata/' | relative_url }}) and algorithmic scoring. Wired described the launch in 2023 as an attempt to “turn UFO sightings into data science”, noting that Enigma had already incorporated about 300,000 global sightings into its system while launching a smartphone reporting app. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/spotted-a-ufo-theres-an-app-for-that/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Spotted a UFO? There’s an App for That &#124; WIRED</span><span class="citation-popover-snippet">Spotted a UFO? There’s an App for That &#124; WIRED</span></span></span>
+That positions Enigma between three worlds. It is partly a public UFO database, because users can browse reports and historical cases. It is partly a social app, because people can upvote, comment and receive nearby sighting alerts. It is partly a data-capture tool, because the company emphasises structured reporting, in-app [camera metadata]({{ 'camera-metadata/' | relative_url }}) and algorithmic scoring. Wired described the launch in 2023 as an attempt to “turn UFO sightings into data science”, noting that Enigma had already incorporated about 300,000 global sightings into its system while launching a smartphone reporting app.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/spotted-a-ufo-theres-an-app-for-that/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Spotted a UFO? There’s an App for That &#124; WIRED</span><span class="citation-popover-snippet">Spotted a UFO? There’s an App for That &#124; WIRED</span></span></span>
 
-The timing also matters. NASA’s 2023 UAP independent study argued that progress depends on better data acquisition, advanced analysis, a systematic reporting framework and reduced stigma. The same report warned that existing UAP data often lack adequate metadata and are not optimised for scientific analysis, which is exactly the gap a phone-based reporting workflow tries to narrow. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The timing also matters. NASA’s 2023 UAP independent study argued that progress depends on better data acquisition, advanced analysis, a systematic reporting framework and reduced stigma. The same report warned that existing UAP data often lack adequate metadata and are not optimised for scientific analysis, which is exactly the gap a phone-based reporting workflow tries to narrow.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88-Illustration-1-dark.svg" | relative_url }}" alt="Enigma illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Mobile Capture and Metadata
 
 The most important mechanism in Enigma’s model is not the map or the social feed. It is the attempt to capture more context at the point of observation. A conventional UFO report often contains a witness’s memory of where they were standing, what direction they faced, how long the object was visible and whether there were aircraft nearby. A smartphone can, at least in principle, record some of that context directly.
 
-Enigma’s App Store listing says its in-app camera captures metadata “frame-by-frame” to aid the study of UAP, and that users can record directly with the Enigma camera before uploading a sighting story. It also advertises an “Identify Lens” that uses augmented reality to identify known objects such as satellites, planes, stars and planets, with the explicit goal of deconflicting sightings in real time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apps.apple.com/us/app/enigma-whats-that-in-the-sky/id1548371173" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apps.apple.com">[App Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apps.apple.com</span><span class="citation-popover-title">App Store‎Enigma: What’s that in the Sky App</span><span class="citation-popover-snippet">App Store...</span></span></span> The New Yorker similarly reported that Enigma’s camera records high-quality video with embedded metadata such as filming location and angle, and that its augmented-reality lens can identify planes, satellites and other mundane sky objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/2024/01/29/the-truth-is-out-there-on-an-app" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker The Truth Is Out There, on an App &#124; The New Yorker</span><span class="citation-popover-snippet">The New Yorker The Truth Is Out There, on an App &#124; The New Yorker</span></span></span>
+Enigma’s App Store listing says its in-app camera captures metadata “frame-by-frame” to aid the study of UAP, and that users can record directly with the Enigma camera before uploading a sighting story. It also advertises an “Identify Lens” that uses augmented reality to identify known objects such as satellites, planes, stars and planets, with the explicit goal of deconflicting sightings in real time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apps.apple.com/us/app/enigma-whats-that-in-the-sky/id1548371173" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apps.apple.com">[App Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apps.apple.com</span><span class="citation-popover-title">App Store‎Enigma: What’s that in the Sky App</span><span class="citation-popover-snippet">App Store...</span></span></span> The New Yorker similarly reported that Enigma’s camera records high-quality video with embedded metadata such as filming location and angle, and that its augmented-reality lens can identify planes, satellites and other mundane sky objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/2024/01/29/the-truth-is-out-there-on-an-app" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker The Truth Is Out There, on an App &#124; The New Yorker</span><span class="citation-popover-snippet">The New Yorker The Truth Is Out There, on an App &#124; The New Yorker</span></span></span>
 
-This is a practical response to a well-known UFO database problem. A video of a light in the sky is hard to interpret without the phone’s position, orientation, time, field of view, and information about known aircraft, satellites or celestial objects. NASA’s report stressed that metadata such as time, location and sensor observing modes are needed to characterise both the event and the sensor, and that inadequate calibration and missing metadata can turn ordinary sensor artefacts into apparent anomalies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This is a practical response to a well-known UFO database problem. A video of a light in the sky is hard to interpret without the phone’s position, orientation, time, field of view, and information about known aircraft, satellites or celestial objects. NASA’s report stressed that metadata such as time, location and sensor observing modes are needed to characterise both the event and the sensor, and that inadequate calibration and missing metadata can turn ordinary sensor artefacts into apparent anomalies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Enigma’s own discussion of future tools shows how far the concept could go. In its 2024 analysis of 25,000 submitted sightings, the company said it was building ways to validate self-reported data, including triangulating an object’s velocity and position using smartphone metadata, integrating known-object data layers, adding independent sensor overlays and using AI tools to analyse video for anomalous flight patterns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span></span></span> | Report a UFO sighting That is the key mechanism: the phone is not just a submission form, but a portable sensor and context collector.
+Enigma’s own discussion of future tools shows how far the concept could go. In its 2024 analysis of 25,000 submitted sightings, the company said it was building ways to validate self-reported data, including triangulating an object’s velocity and position using smartphone metadata, integrating known-object data layers, adding independent sensor overlays and using AI tools to analyse video for anomalous flight patterns.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span></span></span> | Report a UFO sighting That is the key mechanism: the phone is not just a submission form, but a portable sensor and context collector.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uiSqxzktor8" title="Website tracks ‘USO’s — unidentified submerged objects | Jesse Weber Live" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uiSqxzktor8" target="_blank" rel="noopener noreferrer">Website tracks ‘USO’s — unidentified submerged objects | Jesse Weber Live</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 54.1K &middot; Uploaded: May 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uiSqxzktor8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uiSqxzktor8">Open on YouTube</a></p></div></div></div>
 
 ## Maps, Media and Community Review
 
-A second mechanism is spatial clustering. Enigma’s public-facing product is built around map exploration, nearby alerts, regional sightings and feeds of popular or recent cases. Its website says users can browse a map for sightings near them and across the globe, while the App Store listing describes map filters for object shape, witness count, time of day and location, as well as hotspots such as airports, nuclear facilities and military bases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span></span></span> | Report a UFO sighting
+A second mechanism is spatial clustering. Enigma’s public-facing product is built around map exploration, nearby alerts, regional sightings and feeds of popular or recent cases. Its website says users can browse a map for sightings near them and across the globe, while the App Store listing describes map filters for object shape, witness count, time of day and location, as well as hotspots such as airports, nuclear facilities and military bases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span></span></span> | Report a UFO sighting
 
-For UFO catalogues, this changes the user experience. A database row becomes a local event: “What did people near me report last night?” or “Were there multiple reports along the same flight path?” That does not prove a sighting is anomalous, but it can help users and moderators look for [duplicates]({{ 'duplicates/' | relative_url }}), [clusters]({{ 'clusters/' | relative_url }}) and mundane explanations. It also makes public reporting more immediate. Enigma says it has sent more than 560,000 sighting alerts and received more than 50,000 reports from skywatchers around the world. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span></span></span> | Report a UFO sighting
+For UFO catalogues, this changes the user experience. A database row becomes a local event: “What did people near me report last night?” or “Were there multiple reports along the same flight path?” That does not prove a sighting is anomalous, but it can help users and moderators look for [duplicates]({{ 'duplicates/' | relative_url }}), [clusters]({{ 'clusters/' | relative_url }}) and mundane explanations. It also makes public reporting more immediate. Enigma says it has sent more than 560,000 sighting alerts and received more than 50,000 reports from skywatchers around the world.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span></span></span> | Report a UFO sighting
 
-Media uploads are equally central. The Google Play listing says users can read witness accounts, watch sighting videos and listen to audio stories, while the iOS listing describes videos, audio accounts, written stories and a daily “Top Sightings” feed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.enigma.mobile" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: play.google.com">[Google Play]</a><span class="citation-popover" role="note"><span class="citation-popover-source">play.google.com</span><span class="citation-popover-title">Play Enigma: What’s that in the Sky – Apps on Google Play</span><span class="citation-popover-snippet">Play Enigma: What’s that in the Sky – Apps on Google Play</span></span></span> In a conventional archive, a short text report may stand alone. In a mobile platform, the report can be paired with video, audio, comments, location, and nearby reports.
+Media uploads are equally central. The Google Play listing says users can read witness accounts, watch sighting videos and listen to audio stories, while the iOS listing describes videos, audio accounts, written stories and a daily “Top Sightings” feed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.enigma.mobile" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: play.google.com">[Google Play]</a><span class="citation-popover" role="note"><span class="citation-popover-source">play.google.com</span><span class="citation-popover-title">Play Enigma: What’s that in the Sky – Apps on Google Play</span><span class="citation-popover-snippet">Play Enigma: What’s that in the Sky – Apps on Google Play</span></span></span> In a conventional archive, a short text report may stand alone. In a mobile platform, the report can be paired with video, audio, comments, location, and nearby reports.
 
-Community review is useful but risky. Enigma’s app encourages users to comment and connect with other skywatchers, and The New Yorker described the company’s ambition to create a safe space for people who feel isolated by unusual experiences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apps.apple.com/us/app/enigma-whats-that-in-the-sky/id1548371173" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apps.apple.com">[App Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apps.apple.com</span><span class="citation-popover-title">App Store‎Enigma: What’s that in the Sky App</span><span class="citation-popover-snippet">App Store...</span></span></span> That can reduce stigma, which NASA identified as a barrier to reporting; the NASA report noted that fear of ridicule and uncertainty about where to report observations can suppress useful data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The tradeoff is that community attention can also reward dramatic but weak material, especially when lights, drones, aircraft and satellites are circulating in the news.
+Community review is useful but risky. Enigma’s app encourages users to comment and connect with other skywatchers, and The New Yorker described the company’s ambition to create a safe space for people who feel isolated by unusual experiences.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apps.apple.com/us/app/enigma-whats-that-in-the-sky/id1548371173" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apps.apple.com">[App Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apps.apple.com</span><span class="citation-popover-title">App Store‎Enigma: What’s that in the Sky App</span><span class="citation-popover-snippet">App Store...</span></span></span> That can reduce stigma, which NASA identified as a barrier to reporting; the NASA report noted that fear of ridicule and uncertainty about where to report observations can suppress useful data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The tradeoff is that community attention can also reward dramatic but weak material, especially when lights, drones, aircraft and satellites are circulating in the news.
 
-The 2024 New Jersey drone scare illustrates both sides. The New York Post reported that Enigma became a popular place for users to share and discuss videos during the Northeast drone mystery, with the company saying video uploads rose sharply and that human staff reviewed videos before posting to reduce hoaxes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/12/18/business/enigmas-ufo-spotting-app-soars-by-74-in-wake-of-drone-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">New York Post Enigma&#x27;s &#x27;UFO&#x27;-spotting app soars by 74% in wake of drone mystery</span><span class="citation-popover-snippet">New York Post Enigma&#x27;s &#x27;UFO&#x27;-spotting app soars by 74% in wake of drone mystery</span></span></span> The same pattern is exactly what makes mobile reporting valuable during fast-moving skywatching episodes: it can collect many reports quickly. It is also what makes caution necessary, because public alarm can produce surges of misidentified aircraft, drones, planets or satellites.
+The 2024 New Jersey drone scare illustrates both sides. The New York Post reported that Enigma became a popular place for users to share and discuss videos during the Northeast drone mystery, with the company saying video uploads rose sharply and that human staff reviewed videos before posting to reduce hoaxes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/12/18/business/enigmas-ufo-spotting-app-soars-by-74-in-wake-of-drone-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">New York Post Enigma&#x27;s &#x27;UFO&#x27;-spotting app soars by 74% in wake of drone mystery</span><span class="citation-popover-snippet">New York Post Enigma&#x27;s &#x27;UFO&#x27;-spotting app soars by 74% in wake of drone mystery</span></span></span> The same pattern is exactly what makes mobile reporting valuable during fast-moving skywatching episodes: it can collect many reports quickly. It is also what makes caution necessary, because public alarm can produce surges of misidentified aircraft, drones, planets or satellites.
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88-Illustration-2-dark.svg" | relative_url }}" alt="Enigma illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Scoring Reports Without Overclaiming Them
 
-Enigma’s most distinctive database feature is its attempt to rate reports. The company says every submitted sighting is automatically scored from 1 to 100 by a proprietary multivariate model, with higher scores intended to represent both greater certainty around the event and greater anomalousness of the object. Enigma also says there is no human input into that score, that the method is a work in progress, and that it is refined as the company learns more. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span></span></span> | Report a UFO sighting
+Enigma’s most distinctive database feature is its attempt to rate reports. The company says every submitted sighting is automatically scored from 1 to 100 by a proprietary multivariate model, with higher scores intended to represent both greater certainty around the event and greater anomalousness of the object. Enigma also says there is no human input into that score, that the method is a work in progress, and that it is refined as the company learns more.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span></span></span> | Report a UFO sighting
 
-This is useful because a large public database needs triage. Once a platform has tens of thousands of submissions, researchers and moderators need ways to find cases with richer media, more precise context, multiple witnesses, unusual movement or fewer obvious conventional explanations. Axios reported that Enigma uses AI to generate a score intended to help determine whether an uploaded video is truly unidentifiable or likely to be a plane, satellite or other known object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/local/detroit/2024/11/12/app-shows-unexplained-objects-travel-michigan-skies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">App shows unexplained objects travel Michigan skies</span><span class="citation-popover-snippet">App shows unexplained objects travel Michigan skies</span></span></span>
+This is useful because a large public database needs triage. Once a platform has tens of thousands of submissions, researchers and moderators need ways to find cases with richer media, more precise context, multiple witnesses, unusual movement or fewer obvious conventional explanations. Axios reported that Enigma uses AI to generate a score intended to help determine whether an uploaded video is truly unidentifiable or likely to be a plane, satellite or other known object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/local/detroit/2024/11/12/app-shows-unexplained-objects-travel-michigan-skies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">App shows unexplained objects travel Michigan skies</span><span class="citation-popover-snippet">App shows unexplained objects travel Michigan skies</span></span></span>
 
-The problem is transparency. A proprietary score may help Enigma sort its own database, but outside researchers cannot fully evaluate it unless they know the variables, weighting, training data, error rates and false-positive behaviour. The New Yorker reported that Enigma’s machine-learning score is based on factors such as credibility and unidentifiability, and gave examples where ordinary-looking reports received low scores; but that still leaves the scoring system as a guide rather than an independently auditable classification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/2024/01/29/the-truth-is-out-there-on-an-app" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker The Truth Is Out There, on an App &#124; The New Yorker</span><span class="citation-popover-snippet">The New Yorker The Truth Is Out There, on an App &#124; The New Yorker</span></span></span>
+The problem is transparency. A proprietary score may help Enigma sort its own database, but outside researchers cannot fully evaluate it unless they know the variables, weighting, training data, error rates and false-positive behaviour. The New Yorker reported that Enigma’s machine-learning score is based on factors such as credibility and unidentifiability, and gave examples where ordinary-looking reports received low scores; but that still leaves the scoring system as a guide rather than an independently auditable classification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/2024/01/29/the-truth-is-out-there-on-an-app" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker The Truth Is Out There, on an App &#124; The New Yorker</span><span class="citation-popover-snippet">The New Yorker The Truth Is Out There, on an App &#124; The New Yorker</span></span></span>
 
-Enigma’s 25,000-report analysis is careful on this point. It says a human moderator reads every submission, that 64% had been approved at the time of publication, and that unapproved reports were usually missing coherent detail, required fields or media. But it also states plainly that the analysis is based on self-reporting and that Enigma did not independently verify the information. If a witness described an object as triangular, or said it was detected on radar or night vision, Enigma counted that claim as reported rather than as confirmed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span></span></span> | Report a UFO sighting
+Enigma’s 25,000-report analysis is careful on this point. It says a human moderator reads every submission, that 64% had been approved at the time of publication, and that unapproved reports were usually missing coherent detail, required fields or media. But it also states plainly that the analysis is based on self-reporting and that Enigma did not independently verify the information. If a witness described an object as triangular, or said it was detected on radar or night vision, Enigma counted that claim as reported rather than as confirmed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span></span></span> | Report a UFO sighting
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/o3FWYZ8zYcM" title="UAP Science vs. Speculation | Alejandro Rojas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=o3FWYZ8zYcM" target="_blank" rel="noopener noreferrer">UAP Science vs. Speculation | Alejandro Rojas</a></p><p class="youtube-embed-meta">Channel: Tim Ventura &middot; Views: 3.5K &middot; Uploaded: March 2024 &middot; Length: 1 hour 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=o3FWYZ8zYcM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=o3FWYZ8zYcM">Open on YouTube</a></p></div></div></div>
 
@@ -407,20 +407,20 @@ Enigma’s 25,000-report analysis is careful on this point. It says a human mode
 
 The hard problem is that better reporting is not the same as proof. Enigma can improve collection, but it cannot automatically solve the central weaknesses of UFO data: witness error, ambiguous video, missing calibration, deliberate hoaxes, duplicate reports, social contagion, and the ordinary complexity of the sky.
 
-Misidentification remains the largest practical issue. Enigma itself warns that reports describing a “light” should be treated cautiously, because point lights in the distance may be stars, satellites or planes. In the same 25,000-report analysis, circles or spheres were the most commonly reported shapes, while “light” was the second most common category. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span></span></span> | Report a UFO sighting Axios made the same point in local reporting on Michigan sightings, noting that most objects are explainable and that satellite launches can increase misidentifications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/local/detroit/2024/11/12/app-shows-unexplained-objects-travel-michigan-skies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">App shows unexplained objects travel Michigan skies</span><span class="citation-popover-snippet">App shows unexplained objects travel Michigan skies</span></span></span>
+Misidentification remains the largest practical issue. Enigma itself warns that reports describing a “light” should be treated cautiously, because point lights in the distance may be stars, satellites or planes. In the same 25,000-report analysis, circles or spheres were the most commonly reported shapes, while “light” was the second most common category.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span></span></span> | Report a UFO sighting Axios made the same point in local reporting on Michigan sightings, noting that most objects are explainable and that satellite launches can increase misidentifications.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/local/detroit/2024/11/12/app-shows-unexplained-objects-travel-michigan-skies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">App shows unexplained objects travel Michigan skies</span><span class="citation-popover-snippet">App shows unexplained objects travel Michigan skies</span></span></span>
 
-Platform bias is another limitation. Enigma’s own analysis says 71% of its collected sightings came from the United States, followed by the United Kingdom, Canada and Australia, and attributes that distribution partly to platform bias: the products were then only in English, and the app was only on iOS. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span></span></span> | Report a UFO sighting That matters for anyone treating the database as a map of where UAP “happen”. It may instead be a map of who has the app, who speaks the supported language, who is culturally comfortable reporting, and who is looking up at the right time.
+Platform bias is another limitation. Enigma’s own analysis says 71% of its collected sightings came from the United States, followed by the United Kingdom, Canada and Australia, and attributes that distribution partly to platform bias: the products were then only in English, and the app was only on iOS.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span></span></span> | Report a UFO sighting That matters for anyone treating the database as a map of where UAP “happen”. It may instead be a map of who has the app, who speaks the supported language, who is culturally comfortable reporting, and who is looking up at the right time.
 
-Privacy is also part of the mechanism, not a side issue. A mobile UFO report may contain a user account, device location, images, audio or video. Enigma’s privacy policy lists categories of personal information that may include identifiers, geolocation data, and audio, electronic, visual or similar information, and says personal information may be processed for purposes such as service operation, analytics, fraud prevention and notifications. It also says no internet transmission or storage system can be guaranteed to be completely secure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span></span></span> | Report a UFO sighting A stronger UFO database is therefore also a more sensitive database.
+Privacy is also part of the mechanism, not a side issue. A mobile UFO report may contain a user account, device location, images, audio or video. Enigma’s privacy policy lists categories of personal information that may include identifiers, geolocation data, and audio, electronic, visual or similar information, and says personal information may be processed for purposes such as service operation, analytics, fraud prevention and notifications. It also says no internet transmission or storage system can be guaranteed to be completely secure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting25K Sightings &amp; Counting &#124; Enigma Labs</span></span></span> | Report a UFO sighting A stronger UFO database is therefore also a more sensitive database.
 
-Finally, there is the gap between public reports and calibrated sensor networks. NASA’s UAP report emphasised multiple well-calibrated sensors, [sensor metadata]({{ 'sensor-metadata/' | relative_url }}), environmental context and clear evidence thresholds. It noted that apparent UAP can become sensor artefacts once calibration and metadata are properly examined. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Enigma’s phone-first model can help by collecting more standardised civilian observations, but it does not by itself provide the controlled, multi-sensor evidence that would be needed to resolve the strongest cases.
+Finally, there is the gap between public reports and calibrated sensor networks. NASA’s UAP report emphasised multiple well-calibrated sensors, [sensor metadata]({{ 'sensor-metadata/' | relative_url }}), environmental context and clear evidence thresholds. It noted that apparent UAP can become sensor artefacts once calibration and metadata are properly examined.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Enigma’s phone-first model can help by collecting more standardised civilian observations, but it does not by itself provide the controlled, multi-sensor evidence that would be needed to resolve the strongest cases.
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88-Illustration-3-dark.svg" | relative_url }}" alt="Enigma illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_enigma_mobile_report_c31c88-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Enigma Changes, and What It Does Not
 
 Enigma’s main contribution to UFO report databases is procedural. It tries to make reports faster, richer, more structured and easier to compare. The app combines submission, media capture, mapping, alerts, known-object deconfliction, moderation, scoring and community review in one workflow. That is a meaningful evolution from older catalogues that often store reports as isolated text entries.
 
-The platform also reflects a broader shift in UAP culture. NASA and [AARO]({{ 'aaro/' | relative_url }}) have pushed the language of data, safety, reporting and analysis, while Enigma translates that mood into a consumer app. AARO says it leads the US government’s UAP work through a rigorous scientific framework and data-driven approach, while also noting that a public reporting mechanism is not yet generally available through AARO itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span> In that gap, private platforms such as Enigma become public-facing collection points.
+The platform also reflects a broader shift in UAP culture. NASA and [AARO]({{ 'aaro/' | relative_url }}) have pushed the language of data, safety, reporting and analysis, while Enigma translates that mood into a consumer app. AARO says it leads the US government’s UAP work through a rigorous scientific framework and data-driven approach, while also noting that a public reporting mechanism is not yet generally available through AARO itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span> In that gap, private platforms such as Enigma become public-facing collection points.
 
 The caution is that Enigma should be read as an upgraded reporting layer, not a final authority. Its database can help researchers find clusters, compare witness descriptions, inspect media and identify likely misidentifications. Its app can nudge users to capture better context before a sighting becomes a memory. But its reports remain a mixture of self-reported experiences, moderated submissions, algorithmic triage and community attention.
 
@@ -429,194 +429,194 @@ The best way to understand Enigma, then, is as a live experiment in improving th
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fVuO_yu1eWk" title="Enigma UFO Tracker: Recent UAP Sightings &amp; Congressional Hearings Explained | Talking Strange" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fVuO_yu1eWk" target="_blank" rel="noopener noreferrer">Enigma UFO Tracker: Recent UAP Sightings &amp; Congressional Hearings Explained | Talking Strange</a></p><p class="youtube-embed-meta">Channel: Talking Strange &middot; Views: 141 &middot; Uploaded: December 2024 &middot; Length: 55 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fVuO_yu1eWk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fVuO_yu1eWk">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can a UFO App Fix Old Data Problems?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can a UFO App Fix Old Data Problems?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a pre-digital baseline for what structured UFO reporting is trying to improve.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a pre-digital baseline for what structured UFO reporting is trying to improve.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Gives credible context for why improved reporting tools matter in a field long shaped by testimony and official uncertainty.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Gives credible context for why improved reporting tools matter in a field long shaped by testimony and official uncertainty.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ckOQEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-        </h4>
-        <p class="fr-book-author">By Nate Silver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ckOQEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+</h4>
+<p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Useful for understanding why mobile reports, maps and crowdsourced signals still need careful filtering and validation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding why mobile reports, maps and crowdsourced signals still need careful filtering and validation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Lies+by+Seth+Stephens-Davidowitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Lies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b1BqjwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Everybody Lies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Everybody+Lies+by+Seth+Stephens-Davidowitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Lies">Everybody Lies</a>
-        </h4>
-        <p class="fr-book-author">By Seth Stephens-Davidowitz</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Lies+by+Seth+Stephens-Davidowitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Lies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b1BqjwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Everybody Lies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Everybody+Lies+by+Seth+Stephens-Davidowitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Lies">Everybody Lies</a>
+</h4>
+<p class="fr-book-author">By Seth Stephens-Davidowitz</p>
         
-        <p class="fr-book-desc">Fits the app-based reporting angle by showing both the promise and pitfalls of large user-generated datasets.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Everybody+Lies+by+Seth+Stephens-Davidowitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits the app-based reporting angle by showing both the promise and pitfalls of large user-generated datasets.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Everybody+Lies+by+Seth+Stephens-Davidowitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien - 40th Anniversary Limited Edition Enamel Pin Badge NEW"><img src="{{ '/assets/images/marketplace-covers/e68baf432778c29305a0.jpg' | relative_url }}" alt="Listing image for Alien - 40th Anniversary Limited Edition Enamel Pin Badge NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien - 40th Anniversary Limited Edition Enamel Pin Badge NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien - 40th Anniversary Limited Edition Enamel Pin Badge NEW"><img src="{{ '/assets/images/marketplace-covers/e68baf432778c29305a0.jpg' | relative_url }}" alt="Listing image for Alien - 40th Anniversary Limited Edition Enamel Pin Badge NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien - 40th Anniversary Limited Edition Enamel Pin Badge NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/b729946542c23df6f590.jpg' | relative_url }}" alt="Listing image for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/b729946542c23df6f590.jpg' | relative_url }}" alt="Listing image for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW"><img src="{{ '/assets/images/marketplace-covers/005f999955a86aeec93f.jpg' | relative_url }}" alt="Listing image for CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW"><img src="{{ '/assets/images/marketplace-covers/005f999955a86aeec93f.jpg' | relative_url }}" alt="Listing image for CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="enigma-can-a-ufo-app-fix-old-data-problems-ufo-report-databases-and-catalogues-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -632,7 +632,7 @@ The best way to understand Enigma, then, is as a live experiment in improving th
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -652,7 +652,7 @@ The best way to understand Enigma, then, is as a live experiment in improving th
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -684,7 +684,7 @@ The best way to understand Enigma, then, is as a live experiment in improving th
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -736,7 +736,7 @@ The best way to understand Enigma, then, is as a live experiment in improving th
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -781,7 +781,7 @@ The best way to understand Enigma, then, is as a live experiment in improving th
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -822,173 +822,173 @@ The best way to understand Enigma, then, is as a live experiment in improving th
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: enigmalabs.io  
    Title: Enigma Labs | Report a UFO sighting25K Sightings & Counting | Enigma Labs  
-   Link: <a href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/blog/25k-sightings</a>  
+   Link:<a href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/blog/25k-sightings</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: wired.com  
    Title: Spotted a UFO? There’s an App for That | WIRED  
-   Link: <a href="https://www.wired.com/story/spotted-a-ufo-theres-an-app-for-that/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/spotted-a-ufo-theres-an-app-for-that/</a>  
+   Link:<a href="https://www.wired.com/story/spotted-a-ufo-theres-an-app-for-that/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/spotted-a-ufo-theres-an-app-for-that/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/</a>  
+   Link:<a href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/about" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/about</a>  
+   Link:<a href="https://enigmalabs.io/about" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/about</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: play.google.com  
    Title: Play Enigma: What’s that in the Sky – Apps on Google Play  
-   Link: <a href="https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.enigma.mobile" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.enigma.mobile</a>  
+   Link:<a href="https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.enigma.mobile" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.enigma.mobile</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: axios.com  
    Title: App shows unexplained objects travel Michigan skies  
-   Link: <a href="https://www.axios.com/local/detroit/2024/11/12/app-shows-unexplained-objects-travel-michigan-skies" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/local/detroit/2024/11/12/app-shows-unexplained-objects-travel-michigan-skies</a>  
+   Link:<a href="https://www.axios.com/local/detroit/2024/11/12/app-shows-unexplained-objects-travel-michigan-skies" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/local/detroit/2024/11/12/app-shows-unexplained-objects-travel-michigan-skies</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: enigmalabs.io  
    Title: Enigma Labs | Report a UFO sighting Privacy & Data Practices | Enigma Labs  
-   Link: <a href="https://enigmalabs.io/privacy" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/privacy</a>  
+   Link:<a href="https://enigmalabs.io/privacy" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/privacy</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
+   Link:<a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nasa.gov  
    Title: nasa to release discuss unidentified anomalous phenomena report  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: play.google.com  
-   Link: <a href="https://play.google.com/store/apps/details?hl=en_US&amp;id=com.enigma.mobile" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_US&amp;id=com.enigma.mobile</a>  
+   Link:<a href="https://play.google.com/store/apps/details?hl=en_US&amp;id=com.enigma.mobile" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_US&amp;id=com.enigma.mobile</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: wired.com  
    Title: nasa ufos aliens report 2023  
-   Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023/</a>  
+   Link:<a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: apps.apple.com  
    Title: App Store‎Enigma: What’s that in the Sky App  
-   Link: <a href="https://apps.apple.com/us/app/enigma-whats-that-in-the-sky/id1548371173" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/us/app/enigma-whats-that-in-the-sky/id1548371173</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>App Store...</p></details>
+   Link:<a href="https://apps.apple.com/us/app/enigma-whats-that-in-the-sky/id1548371173" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/us/app/enigma-whats-that-in-the-sky/id1548371173</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>App Store...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: newyorker.com  
    Title: The New Yorker The Truth Is Out There, on an App | The New Yorker  
-   Link: <a href="https://www.newyorker.com/magazine/2024/01/29/the-truth-is-out-there-on-an-app" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2024/01/29/the-truth-is-out-there-on-an-app</a>  
+   Link:<a href="https://www.newyorker.com/magazine/2024/01/29/the-truth-is-out-there-on-an-app" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2024/01/29/the-truth-is-out-there-on-an-app</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nypost.com  
    Title: New York Post Enigma's 'UFO'-spotting app soars by 74% in wake of drone mystery  
-   Link: <a href="https://nypost.com/2024/12/18/business/enigmas-ufo-spotting-app-soars-by-74-in-wake-of-drone-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/12/18/business/enigmas-ufo-spotting-app-soars-by-74-in-wake-of-drone-mystery/</a>  
+   Link:<a href="https://nypost.com/2024/12/18/business/enigmas-ufo-spotting-app-soars-by-74-in-wake-of-drone-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/12/18/business/enigmas-ufo-spotting-app-soars-by-74-in-wake-of-drone-mystery/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/explore" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore</a>  
+   Link:<a href="https://enigmalabs.io/explore" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: enigmalabs.io  
    Title: 12000 uap sightings and counting  
-   Link: <a href="https://enigmalabs.io/blog/12000-uap-sightings-and-counting" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/blog/12000-uap-sightings-and-counting</a>  
+   Link:<a href="https://enigmalabs.io/blog/12000-uap-sightings-and-counting" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/blog/12000-uap-sightings-and-counting</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/library" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library</a>  
+   Link:<a href="https://enigmalabs.io/library" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: enigmalabs.io  
    Title: data transparency1  
-   Link: <a href="https://enigmalabs.io/blog/data-transparency1" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/blog/data-transparency1</a>  
+   Link:<a href="https://enigmalabs.io/blog/data-transparency1" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/blog/data-transparency1</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/journalsentinel/posts/enigma-labs-has-created-an-app-allowing-users-to-post-unidentified-aerial-phenom/878482007648607/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/journalsentinel/posts/enigma-labs-has-created-an-app-allowing-users-to-post-unidentified-aerial-phenom/878482007648607/</a>  
+   Link:<a href="https://www.facebook.com/journalsentinel/posts/enigma-labs-has-created-an-app-allowing-users-to-post-unidentified-aerial-phenom/878482007648607/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/journalsentinel/posts/enigma-labs-has-created-an-app-allowing-users-to-post-unidentified-aerial-phenom/878482007648607/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/enigma-labs-collects-videos-submitted-by-people-who-have-seen-ufos/873020898438262/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/enigma-labs-collects-videos-submitted-by-people-who-have-seen-ufos/873020898438262/</a>  
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/enigma-labs-collects-videos-submitted-by-people-who-have-seen-ufos/873020898438262/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/enigma-labs-collects-videos-submitted-by-people-who-have-seen-ufos/873020898438262/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/UFO/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/UFO/</a>  
+   Link:<a href="https://www.war.gov/UFO/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/UFO/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: f4.fund  
-   Link: <a href="https://f4.fund/startups/enigmalabs" target="_blank" rel="noopener noreferrer nofollow">https://f4.fund/startups/enigmalabs</a>  
+   Link:<a href="https://f4.fund/startups/enigmalabs" target="_blank" rel="noopener noreferrer nofollow">https://f4.fund/startups/enigmalabs</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: cbinsights.com  
    Title: Enigma Labs  
-   Link: <a href="https://www.cbinsights.com/company/enigma-labs" target="_blank" rel="noopener noreferrer nofollow">https://www.cbinsights.com/company/enigma-labs</a>  
+   Link:<a href="https://www.cbinsights.com/company/enigma-labs" target="_blank" rel="noopener noreferrer nofollow">https://www.cbinsights.com/company/enigma-labs</a>  
 
 ### Additional References
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=fVuO_yu1eWk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fVuO_yu1eWk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Science vs. Speculation | Alejandro Rojas...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fVuO_yu1eWk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fVuO_yu1eWk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Science vs. Speculation | Alejandro Rojas...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: Website tracks 'USO's — unidentified submerged objects | Jesse Weber Live  
-   Link: <a href="https://www.youtube.com/watch?v=uiSqxzktor8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uiSqxzktor8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Governments Using AI To Decode Massive UFO Databases | WION Podcast...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=uiSqxzktor8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uiSqxzktor8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Governments Using AI To Decode Massive UFO Databases | WION Podcast...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: Governments Using AI To Decode Massive UFO Databases | WION Podcast  
-   Link: <a href="https://www.youtube.com/watch?v=adCsqd_-M94" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=adCsqd_-M94</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hidden Government UFO Programs with UAP Gerb...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=adCsqd_-M94" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=adCsqd_-M94</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Hidden Government UFO Programs with UAP Gerb...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: UAP Science vs. Speculation | Alejandro Rojas  
-   Link: <a href="https://www.youtube.com/watch?v=o3FWYZ8zYcM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=o3FWYZ8zYcM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Website tracks &#x27;USO&#x27;s — unidentified submerged objects | Jesse Weber Live...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=o3FWYZ8zYcM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=o3FWYZ8zYcM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Website tracks &#x27;USO&#x27;s — unidentified submerged objects | Jesse Weber Live...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/a-video-sharing-platform-run-by-enigma-labs-is-storing-images-of-unidentified-an/873015845105434/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-video-sharing-platform-run-by-enigma-labs-is-storing-images-of-unidentified-an/873015845105434/</a>  
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/a-video-sharing-platform-run-by-enigma-labs-is-storing-images-of-unidentified-an/873015845105434/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-video-sharing-platform-run-by-enigma-labs-is-storing-images-of-unidentified-an/873015845105434/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: nowsecure.com  
-   Link: <a href="https://www.nowsecure.com/marc-app/enigma-whats-that-in-the-sky-ios/" target="_blank" rel="noopener noreferrer nofollow">https://www.nowsecure.com/marc-app/enigma-whats-that-in-the-sky-ios/</a>  
+   Link:<a href="https://www.nowsecure.com/marc-app/enigma-whats-that-in-the-sky-ios/" target="_blank" rel="noopener noreferrer nofollow">https://www.nowsecure.com/marc-app/enigma-whats-that-in-the-sky-ios/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: abcnews4.com  
-   Link: <a href="https://abcnews4.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars" target="_blank" rel="noopener noreferrer nofollow">https://abcnews4.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars</a>  
+   Link:<a href="https://abcnews4.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars" target="_blank" rel="noopener noreferrer nofollow">https://abcnews4.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/8272719901/posts/10161444376884902/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/8272719901/posts/10161444376884902/</a>  
+   Link:<a href="https://www.facebook.com/groups/8272719901/posts/10161444376884902/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/8272719901/posts/10161444376884902/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: ralphbuncheinstitute.org  
-   Link: <a href="https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/" target="_blank" rel="noopener noreferrer nofollow">https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/</a>  
+   Link:<a href="https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/" target="_blank" rel="noopener noreferrer nofollow">https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/a-crowdsourced-website-that-collects-information-about-sightings-of-uaps-has-com/999306182476399/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-crowdsourced-website-that-collects-information-about-sightings-of-uaps-has-com/999306182476399/</a>
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/a-crowdsourced-website-that-collects-information-about-sightings-of-uaps-has-com/999306182476399/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-crowdsourced-website-that-collects-information-about-sightings-of-uaps-has-com/999306182476399/</a>

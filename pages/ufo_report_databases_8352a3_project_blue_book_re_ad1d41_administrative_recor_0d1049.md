@@ -268,35 +268,35 @@ image: /assets/images/ufo_report_databases_8352a3_project_blue_book_re_ad1d41_ad
 
 ## Introduction
 
-In the context of the U.S. Air Force’s systematic UFO investigation programme, Project [Blue Book]({{ 'blue-book/' | relative_url }})’s *administrative and procedural records* form a distinct body of evidence. Alongside thousands of individual [case files]({{ 'case-files/' | relative_url }}) documenting sightings and evaluations, the administrative files preserved at the U.S. National Archives capture how the project was organised, staffed, controlled and adapted over its two‑decade existence. These records — encompassing internal correspondence, status reports, memos, questionnaires, personnel documentation and procedural materials — reveal not just what Blue Book concluded, but *how* it functioned as a bureaucratic and analytical system within the Air Force. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
+In the context of the U.S. Air Force’s systematic UFO investigation programme, Project [Blue Book]({{ 'blue-book/' | relative_url }})’s *administrative and procedural records* form a distinct body of evidence. Alongside thousands of individual [case files]({{ 'case-files/' | relative_url }}) documenting sightings and evaluations, the administrative files preserved at the U.S. National Archives capture how the project was organised, staffed, controlled and adapted over its two‑decade existence. These records — encompassing internal correspondence, status reports, memos, questionnaires, personnel documentation and procedural materials — reveal not just what Blue Book concluded, but *how* it functioned as a bureaucratic and analytical system within the Air Force.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_project_blue_book_re_ad1d41_administrative_recor_0d1049-Illustration-1-dark.svg" | relative_url }}" alt="Admin Records illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_project_blue_book_re_ad1d41_administrative_recor_0d1049-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_project_blue_book_re_ad1d41_administrative_recor_0d1049-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Organisational Structure and Staffing
 
-Blue Book’s administrative records document the project’s organisational placement within the Air Force and key changes in leadership and staffing over time. Project Blue Book succeeded earlier Air Force UFO initiatives — *Project Sign* and *Project Grudge* — but from 1952 onwards was codified as an official Air Force study with its own office at Wright‑Patterson Air Force Base, Ohio. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
+Blue Book’s administrative records document the project’s organisational placement within the Air Force and key changes in leadership and staffing over time. Project Blue Book succeeded earlier Air Force UFO initiatives — *Project Sign* and *Project Grudge* — but from 1952 onwards was codified as an official Air Force study with its own office at Wright‑Patterson Air Force Base, Ohio.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
-Within the administrative files stored under National [Archives]({{ 'archives/' | relative_url }}) Identifier **595175**, personnel records and correspondence illustrate shifts in who oversaw the project and how roles were defined. For example, staff studies and organisational correspondence in these records relate to supervision by the Air Technical Intelligence Center (ATIC) and, at times, debates over whether oversight should be transferred to other Air Force units. <span class="citation-chip-wrap"><a class="citation-chip" href="https://prologue.blogs.archives.gov/wp-content/uploads/sites/9/2018/03/report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prologue.blogs.archives.gov">[Pieces of History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prologue.blogs.archives.gov</span><span class="citation-popover-title">Pieces of Historyreport.pdf</span><span class="citation-popover-snippet">Pieces of HistoryMarch 20, 2018 — The files relate to investigations of reports of sightings of unidentified flying objects made:in the U...</span><span class="citation-popover-meta">Published: March 20, 2018</span></span></span>
+Within the administrative files stored under National [Archives]({{ 'archives/' | relative_url }}) Identifier **595175**, personnel records and correspondence illustrate shifts in who oversaw the project and how roles were defined. For example, staff studies and organisational correspondence in these records relate to supervision by the Air Technical Intelligence Center (ATIC) and, at times, debates over whether oversight should be transferred to other Air Force units.<span class="citation-chip-wrap"><a class="citation-chip" href="https://prologue.blogs.archives.gov/wp-content/uploads/sites/9/2018/03/report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prologue.blogs.archives.gov">[Pieces of History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prologue.blogs.archives.gov</span><span class="citation-popover-title">Pieces of Historyreport.pdf</span><span class="citation-popover-snippet">Pieces of HistoryMarch 20, 2018 — The files relate to investigations of reports of sightings of unidentified flying objects made:in the U...</span><span class="citation-popover-meta">Published: March 20, 2018</span></span></span>
 
-These administrative files also contain documentation of internal staffing debates, proposed transfers of responsibility, and “Deputy Director” files that reveal how the Air Force grappled with resourcing and managing Blue Book alongside other intelligence priorities. Such materials give a clearer picture of the human and institutional framework behind the case files themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
+These administrative files also contain documentation of internal staffing debates, proposed transfers of responsibility, and “Deputy Director” files that reveal how the Air Force grappled with resourcing and managing Blue Book alongside other intelligence priorities. Such materials give a clearer picture of the human and institutional framework behind the case files themselves.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YvpN6Imoj44" title="Project Blue Book: UFO Secrets Hidden Inside Hangar 18 (Season 2) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YvpN6Imoj44" target="_blank" rel="noopener noreferrer">Project Blue Book: UFO Secrets Hidden Inside Hangar 18 (Season 2) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 140.8K &middot; Uploaded: March 2020 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YvpN6Imoj44" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YvpN6Imoj44">Open on YouTube</a></p></div></div></div>
 
 ## Internal Memos and Correspondence
 
-A substantial portion of the administrative series consists of *inter‑office memos, correspondence and formal reports* that illuminate Blue Book’s internal communication and decision‑making processes. These include memoranda between department heads, status reports prepared for higher‑level Air Force staff, and notes on the handling of public information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/Category%3AUS_National_Archives_series%3A_Project_Blue_Book_Administrative_Files%2C_1947_-_1969" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia CommonsCategory:US National Archives series: Project Blue Book Administrative Files, 1947 - 1969 - Wikimedia Commons...</span></span></span>
+A substantial portion of the administrative series consists of *inter‑office memos, correspondence and formal reports* that illuminate Blue Book’s internal communication and decision‑making processes. These include memoranda between department heads, status reports prepared for higher‑level Air Force staff, and notes on the handling of public information.<span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/Category%3AUS_National_Archives_series%3A_Project_Blue_Book_Administrative_Files%2C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia CommonsCategory:US National Archives series: Project Blue Book Administrative Files, 1947 - 1969 - Wikimedia Commons...</span></span></span>
 
-For example, administrative correspondence in the National Archives covers press releases, congressional hearing reports, and internal briefings prepared by Blue Book personnel. These documents show how the project responded to external scrutiny — such as inquiries from civilian UFO research groups or questions from Congress — and how it positioned its work within broader military priorities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://prologue.blogs.archives.gov/wp-content/uploads/sites/9/2018/03/report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prologue.blogs.archives.gov">[Pieces of History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prologue.blogs.archives.gov</span><span class="citation-popover-title">Pieces of Historyreport.pdf</span><span class="citation-popover-snippet">Pieces of HistoryMarch 20, 2018 — The files relate to investigations of reports of sightings of unidentified flying objects made:in the U...</span><span class="citation-popover-meta">Published: March 20, 2018</span></span></span>
+For example, administrative correspondence in the National Archives covers press releases, congressional hearing reports, and internal briefings prepared by Blue Book personnel. These documents show how the project responded to external scrutiny — such as inquiries from civilian UFO research groups or questions from Congress — and how it positioned its work within broader military priorities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://prologue.blogs.archives.gov/wp-content/uploads/sites/9/2018/03/report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prologue.blogs.archives.gov">[Pieces of History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prologue.blogs.archives.gov</span><span class="citation-popover-title">Pieces of Historyreport.pdf</span><span class="citation-popover-snippet">Pieces of HistoryMarch 20, 2018 — The files relate to investigations of reports of sightings of unidentified flying objects made:in the U...</span><span class="citation-popover-meta">Published: March 20, 2018</span></span></span>
 
-Included among the administrative files are also questionnaires and standardised reporting forms used for incoming UFO reports. These procedural artifacts, catalogued in status reports, reflect attempts to *standardise how sightings were documented* at the point of entry, shaping the procedural flow from public report to internal analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://docsteach.org/document/ufo-questionnaire/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docsteach.org">[DocsTeach]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docsteach.org</span><span class="citation-popover-snippet">Air Force&#x27;s investigations into UFOs. During the Cold War in 1952, fearful that the...</span></span></span>
+Included among the administrative files are also questionnaires and standardised reporting forms used for incoming UFO reports. These procedural artifacts, catalogued in status reports, reflect attempts to *standardise how sightings were documented* at the point of entry, shaping the procedural flow from public report to internal analysis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://docsteach.org/document/ufo-questionnaire/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docsteach.org">[DocsTeach]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docsteach.org</span><span class="citation-popover-snippet">Air Force&#x27;s investigations into UFOs. During the Cold War in 1952, fearful that the...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_project_blue_book_re_ad1d41_administrative_recor_0d1049-Illustration-2-dark.svg" | relative_url }}" alt="Admin Records illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_project_blue_book_re_ad1d41_administrative_recor_0d1049-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_project_blue_book_re_ad1d41_administrative_recor_0d1049-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Policy Updates and Procedural Changes
 
-The administrative records also document *policy instruments and procedural updates* that guided how reports were investigated, classified and communicated. While no single published manual exists in the archive under the Blue Book label, surviving regulations such as Air Force Regulation 200‑2 — which governed the broader responsibilities for UFO reporting and analysis — appear in related archival materials and illustrate the formal rules under which Blue Book operated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[WHS ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDProject Blue Book</span><span class="citation-popover-snippet">WHS ESDProject Blue BookSeptember 25, 2012 — The objectives of Project Blue Book are two-fold: first, to determine whether UFOs pose a th...</span><span class="citation-popover-meta">Published: September 25, 2012</span></span></span>
+The administrative records also document *policy instruments and procedural updates* that guided how reports were investigated, classified and communicated. While no single published manual exists in the archive under the Blue Book label, surviving regulations such as Air Force Regulation 200‑2 — which governed the broader responsibilities for UFO reporting and analysis — appear in related archival materials and illustrate the formal rules under which Blue Book operated.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[WHS ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDProject Blue Book</span><span class="citation-popover-snippet">WHS ESDProject Blue BookSeptember 25, 2012 — The objectives of Project Blue Book are two-fold: first, to determine whether UFOs pose a th...</span><span class="citation-popover-meta">Published: September 25, 2012</span></span></span>
 
-Administrative files include official *status reports* summarising the project’s progress, analyses of procedural efficacy, and staff studies that reflect internal reviews of investigative methods. These documents demonstrate how procedural emphases shifted over time — for example, later in the project when minimising the number of unexplained cases became an explicit target in the 1950s. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
+Administrative files include official *status reports* summarising the project’s progress, analyses of procedural efficacy, and staff studies that reflect internal reviews of investigative methods. These documents demonstrate how procedural emphases shifted over time — for example, later in the project when minimising the number of unexplained cases became an explicit target in the 1950s.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
-Status reports and staff‑level studies also record how Blue Book dealt with practical procedural challenges, such as integrating reports from disparate Air Force bases, liaising with civilian authorities, and managing public communications about UFO sightings. Procedural updates sometimes followed external pressures, such as congressional hearings or reviews by scientific bodies (e.g., the Condon Committee in the late 1960s), which prompted internal discussions about the project’s mandate and analytical frameworks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
+Status reports and staff‑level studies also record how Blue Book dealt with practical procedural challenges, such as integrating reports from disparate Air Force bases, liaising with civilian authorities, and managing public communications about UFO sightings. Procedural updates sometimes followed external pressures, such as congressional hearings or reviews by scientific bodies (e.g., the Condon Committee in the late 1960s), which prompted internal discussions about the project’s mandate and analytical frameworks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UKzI3uu_oTQ" title="Project Blue Book: Declassified - The True Story of the D.C. UFO Sightings | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UKzI3uu_oTQ" target="_blank" rel="noopener noreferrer">Project Blue Book: Declassified - The True Story of the D.C. UFO Sightings | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 393.5K &middot; Uploaded: March 2019 &middot; Length: 2 minutes 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UKzI3uu_oTQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UKzI3uu_oTQ">Open on YouTube</a></p></div></div></div>
 
@@ -306,199 +306,199 @@ Status reports and staff‑level studies also record how Blue Book dealt with pr
 
 Taken together, the administrative and procedural records in the Project Blue Book archive are more than filing system artefacts. They reveal a *live bureaucracy at work*: grappling with resource constraints, responding to shifting leadership, codifying investigative routines, and interacting with both military hierarchy and civilian audiences. These materials complement the individual UFO case files by showing how Blue Book’s policies and personnel influenced what was collected, how reports were processed, and how conclusions were framed.
 
-For researchers and historians, this administrative corpus — available in the National Archives’ textual records and preserved on microfilm roll T‑1206 — provides an essential lens on the operational history of Project Blue Book and its evolving internal procedures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
+For researchers and historians, this administrative corpus — available in the National Archives’ textual records and preserved on microfilm roll T‑1206 — provides an essential lens on the operational history of Project Blue Book and its evolving internal procedures.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_project_blue_book_re_ad1d41_administrative_recor_0d1049-Illustration-3-dark.svg" | relative_url }}" alt="Admin Records illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_project_blue_book_re_ad1d41_administrative_recor_0d1049-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_project_blue_book_re_ad1d41_administrative_recor_0d1049-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Internal Administration and Procedures Behind Project Blue Book. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Internal Administration and Procedures Behind Project Blue Book. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Directly explains the administration, staffing, and procedures behind Project Blue Book.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explains the administration, staffing, and procedures behind Project Blue Book.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Covers how governments and officials handled and evaluated UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers how governments and officials handled and evaluated UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Provides historical context for official UFO administration and policy systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for official UFO administration and policy systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
         
-        <p class="fr-book-desc">First published 2011.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Action Figure Red 2020 Collectible 10cm Toy"><img src="{{ '/assets/images/marketplace-covers/93988dfd825946a70d54.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Action Figure Red 2020 Collectible 10cm Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Action Figure Red 2020 Collectible 10cm Toy</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible toy">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible toy</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Action Figure Red 2020 Collectible 10cm Toy"><img src="{{ '/assets/images/marketplace-covers/93988dfd825946a70d54.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Action Figure Red 2020 Collectible 10cm Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Action Figure Red 2020 Collectible 10cm Toy</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible toy">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible toy</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AVP Alien vs. Predator Collectible 9cm 3D Printed Statue Model Action Figure Toy"><img src="{{ '/assets/images/marketplace-covers/601c56544c3f2eaf183a.jpg' | relative_url }}" alt="Listing image for AVP Alien vs. Predator Collectible 9cm 3D Printed Statue Model Action Figure Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer">AVP Alien vs. Predator Collectible 9cm 3D Printed Statue Model Action Figure Toy</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible toy">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible toy</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AVP Alien vs. Predator Collectible 9cm 3D Printed Statue Model Action Figure Toy"><img src="{{ '/assets/images/marketplace-covers/601c56544c3f2eaf183a.jpg' | relative_url }}" alt="Listing image for AVP Alien vs. Predator Collectible 9cm 3D Printed Statue Model Action Figure Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer">AVP Alien vs. Predator Collectible 9cm 3D Printed Statue Model Action Figure Toy</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible toy">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible toy</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scorpion Snake Alien Figure - Aliens vs Predator Collectible Toy"><img src="{{ '/assets/images/marketplace-covers/db59b03e5475945e8983.jpg' | relative_url }}" alt="Listing image for Scorpion Snake Alien Figure - Aliens vs Predator Collectible Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer">Scorpion Snake Alien Figure - Aliens vs Predator Collectible Toy</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible toy">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible toy</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scorpion Snake Alien Figure - Aliens vs Predator Collectible Toy"><img src="{{ '/assets/images/marketplace-covers/db59b03e5475945e8983.jpg' | relative_url }}" alt="Listing image for Scorpion Snake Alien Figure - Aliens vs Predator Collectible Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer">Scorpion Snake Alien Figure - Aliens vs Predator Collectible Toy</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible toy">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible toy</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien - The Betty Die-Cast 7&quot; Ship [New Toy] Figure, Collectible"><img src="{{ '/assets/images/marketplace-covers/76d6b7a9ef5c57656a55.jpg' | relative_url }}" alt="Listing image for Alien - The Betty Die-Cast 7&quot; Ship [New Toy] Figure, Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer">Alien - The Betty Die-Cast 7&quot; Ship [New Toy] Figure, Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible toy">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible toy</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien - The Betty Die-Cast 7&quot; Ship [New Toy] Figure, Collectible"><img src="{{ '/assets/images/marketplace-covers/76d6b7a9ef5c57656a55.jpg' | relative_url }}" alt="Listing image for Alien - The Betty Die-Cast 7&quot; Ship [New Toy] Figure, Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer">Alien - The Betty Die-Cast 7&quot; Ship [New Toy] Figure, Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible toy">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible toy</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+toy+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible toy -book -books" data-ebay-reference="admin-records-internal-administration-and-procedures-behind-project-blue-book-ufo-report-databas-alien-collectible-toy-b" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -514,7 +514,7 @@ For researchers and historians, this administrative corpus — available in the 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -534,7 +534,7 @@ For researchers and historians, this administrative corpus — available in the 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -566,7 +566,7 @@ For researchers and historians, this administrative corpus — available in the 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -618,7 +618,7 @@ For researchers and historians, this administrative corpus — available in the 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -663,7 +663,7 @@ For researchers and historians, this administrative corpus — available in the 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -704,153 +704,153 @@ For researchers and historians, this administrative corpus — available in the 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying Objects | National ArchivesJune 25, 2024...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying Objects | National ArchivesJune 25, 2024...</p></details>
    Published: June 25, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: commons.wikimedia.org  
-   Link: <a href="https://commons.wikimedia.org/wiki/Category%3AUS_National_Archives_series%3A_Project_Blue_Book_Administrative_Files%2C_1947_-_1969" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AUS_National_Archives_series%3A_Project_Blue_Book_Administrative_Files%2C_1947_-_1969</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsCategory:US National Archives series: Project Blue Book Administrative Files, 1947 - 1969 - Wikimedia Commons...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/Category%3AUS_National_Archives_series%3A_Project_Blue_Book_Administrative_Files%2C" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AUS_National_Archives_series%3A_Project_Blue_Book_Administrative_Files%2C</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsCategory:US National Archives series: Project Blue Book Administrative Files, 1947 - 1969 - Wikimedia Commons...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: prologue.blogs.archives.gov  
    Title: Pieces of Historyreport.pdf  
-   Link: <a href="https://prologue.blogs.archives.gov/wp-content/uploads/sites/9/2018/03/report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/wp-content/uploads/sites/9/2018/03/report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pieces of HistoryMarch 20, 2018 — The files relate to investigations of reports of sightings of unidentified flying objects made:in the U...</p></details>
+   Link:<a href="https://prologue.blogs.archives.gov/wp-content/uploads/sites/9/2018/03/report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/wp-content/uploads/sites/9/2018/03/report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pieces of HistoryMarch 20, 2018 — The files relate to investigations of reports of sightings of unidentified flying objects made:in the U...</p></details>
    Published: March 20, 2018  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesBulk Downloads for Records Related to Unidentified Anomalous Phenomena (UAPs) | National ArchivesApril 24, 2025...</p></details>
+   Link:<a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesBulk Downloads for Records Related to Unidentified Anomalous Phenomena (UAPs) | National ArchivesApril 24, 2025...</p></details>
    Published: April 24, 2025  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: docsteach.org  
-   Link: <a href="https://docsteach.org/document/ufo-questionnaire/" target="_blank" rel="noopener noreferrer nofollow">https://docsteach.org/document/ufo-questionnaire/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force&#x27;s investigations into UFOs. During the Cold War in 1952, fearful that the...</p></details>
+   Link:<a href="https://docsteach.org/document/ufo-questionnaire/" target="_blank" rel="noopener noreferrer nofollow">https://docsteach.org/document/ufo-questionnaire/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force&#x27;s investigations into UFOs. During the Cold War in 1952, fearful that the...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: esd.whs.mil  
    Title: ESDProject Blue Book  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WHS ESDProject Blue BookSeptember 25, 2012 — The objectives of Project Blue Book are two-fold: first, to determine whether UFOs pose a th...</p></details>
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WHS ESDProject Blue BookSeptember 25, 2012 — The objectives of Project Blue Book are two-fold: first, to determine whether UFOs pose a th...</p></details>
    Published: September 25, 2012  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/textual-and-microfilm" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/textual-and-microfilm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>icrofilm | National ArchivesApril 24, 2025 — ON THIS PAGE * Record Group 64: Records of the National Archives and Records Administration...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps/textual-and-microfilm" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/textual-and-microfilm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>icrofilm | National ArchivesApril 24, 2025 — ON THIS PAGE * Record Group 64: Records of the National Archives and Records Administration...</p></details>
    Published: April 24, 2025  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: archives.gov  
    Title: Do Records Show Proof of UFOs?  
-   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesJuly 24, 2023 — DO RECORDS SHOW PROOF OF UFOS? En Español Image: UFO graphic banner By Kerri Lawrence | National Archi...</p></details>
+   Link:<a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesJuly 24, 2023 — DO RECORDS SHOW PROOF OF UFOS? En Español Image: UFO graphic banner By Kerri Lawrence | National Archi...</p></details>
    Published: July 24, 2023  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 5, 2019 — PUBLIC INTEREST IN UFOS PERSISTS 50 YEARS AFTER PROJECT BLUE BOOK TERMINATION By Jonathan Marker | National Archives N...</p></details>
+   Link:<a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 5, 2019 — PUBLIC INTEREST IN UFOS PERSISTS 50 YEARS AFTER PROJECT BLUE BOOK TERMINATION By Jonathan Marker | National Archives N...</p></details>
    Published: December 5, 2019  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: commons.wikimedia.org  
    Title: File:Project Blue Book FBI file  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_FBI_file.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_FBI_file.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Project Blue Book FBI file.pdf - Wikimedia CommonsFILE:PROJECT BLUE BOOK FBI FILE.PDF * File * Discussion [Input] Engli...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_FBI_file.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_FBI_file.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Project Blue Book FBI file.pdf - Wikimedia CommonsFILE:PROJECT BLUE BOOK FBI FILE.PDF * File * Discussion [Input] Engli...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book, BBA PBSR1 300  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book ArchiveThese administrative files include correspondence, formal reports, status reports, AFOSI investigative reports...</p></details>
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book ArchiveThese administrative files include correspondence, formal reports, status reports, AFOSI investigative reports...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book, BBA PBSR8 300  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/5/5c/Project_Blue_Book%2C_BBA-PBSR8-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/5/5c/Project_Blue_Book%2C_BBA-PBSR8-300.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>States Air Force investigations from the early AMC period through...Read more...</p></details>
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/5/5c/Project_Blue_Book%2C_BBA-PBSR8-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/5/5c/Project_Blue_Book%2C_BBA-PBSR8-300.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>States Air Force investigations from the early AMC period through...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book, BBA PBSR11 300  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book ArchiveThese administrative files include correspondence, formal reports, status reports, AFOSI investigative reports...</p></details>
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book ArchiveThese administrative files include correspondence, formal reports, status reports, AFOSI investigative reports...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — Project Blue Book, code name for the United States&#x27; longest-running Air Force pro...</p></details>
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — Project Blue Book, code name for the United States&#x27; longest-running Air Force pro...</p></details>
    Published: May 2026  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: archives.library.rice.edu  
    Title: archival objects  
-   Link: <a href="https://archives.library.rice.edu/repositories/2/archival_objects/364793" target="_blank" rel="noopener noreferrer nofollow">https://archives.library.rice.edu/repositories/2/archival_objects/364793</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book - Classified documents and Correspondence | ArchivesSpace Public InterfacePROJECT BLUE BOOK - CLASSIFIED DOCUMENTS AND CORRESPO...</p></details>
+   Link:<a href="https://archives.library.rice.edu/repositories/2/archival_objects/364793" target="_blank" rel="noopener noreferrer nofollow">https://archives.library.rice.edu/repositories/2/archival_objects/364793</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book - Classified documents and Correspondence | ArchivesSpace Public InterfacePROJECT BLUE BOOK - CLASSIFIED DOCUMENTS AND CORRESPO...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: scribd.com  
    Title: Project Blue Book Archive | PDF | National Archives And Records Administration  
-   Link: <a href="https://www.scribd.com/document/751733389/Project-Blue-Book-Archive" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/751733389/Project-Blue-Book-Archive</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 5, 1955 — THIS PDF FORMAT DOCUMENT WAS PRODUCED BY THE PROJECT BLUE BOOK ARCHIVE [http://www.bluebookarchive.org](http://www.bluebookarchive.org) with the support of P...</p></details>
+   Link:<a href="https://www.scribd.com/document/751733389/Project-Blue-Book-Archive" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/751733389/Project-Blue-Book-Archive</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 5, 1955 — THIS PDF FORMAT DOCUMENT WAS PRODUCED BY THE PROJECT BLUE BOOK ARCHIVE [http://www.bluebookarchive.org](http://www.bluebookarchive.org) with the support of P...</p></details>
    Published: May 5, 1955  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/52369346/BBA-PBSR6-300" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/52369346/BBA-PBSR6-300</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 30, 1952 — The Project Blue Book Archive part of Blue Book Project UPLOADED BY THIS PDF FORMAT DOCUMENT WAS PRODUCED BY THE PROJECT...</p></details>
+   Link:<a href="https://www.scribd.com/document/52369346/BBA-PBSR6-300" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/52369346/BBA-PBSR6-300</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 30, 1952 — The Project Blue Book Archive part of Blue Book Project UPLOADED BY THIS PDF FORMAT DOCUMENT WAS PRODUCED BY THE PROJECT...</p></details>
    Published: April 30, 1952  
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Force regulation establishing and controlling the program for investigating and analyzing UFOs was rescinded.Read more...</p></details>
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Force regulation establishing and controlling the program for investigating and analyzing UFOs was rescinded.Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: theprojectbluebookarchive.org  
-   Link: <a href="https://www.theprojectbluebookarchive.org/archive/" target="_blank" rel="noopener noreferrer nofollow">https://www.theprojectbluebookarchive.org/archive/</a>  
+   Link:<a href="https://www.theprojectbluebookarchive.org/archive/" target="_blank" rel="noopener noreferrer nofollow">https://www.theprojectbluebookarchive.org/archive/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: forcesnews.com  
    Title: project blue book what was us air force operation investigate ufos  
-   Link: <a href="https://www.forcesnews.com/usa/project-blue-book-what-was-us-air-force-operation-investigate-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.forcesnews.com/usa/project-blue-book-what-was-us-air-force-operation-investigate-ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: What was US Air Force operation to...3 Aug 2022 — More than 12000 sightings of UFOs were investigated during the prog...</p></details>
+   Link:<a href="https://www.forcesnews.com/usa/project-blue-book-what-was-us-air-force-operation-investigate-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.forcesnews.com/usa/project-blue-book-what-was-us-air-force-operation-investigate-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: What was US Air Force operation to...3 Aug 2022 — More than 12000 sightings of UFOs were investigated during the prog...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: theprojectbluebookarchive.org  
-   Link: <a href="https://theprojectbluebookarchive.org/" target="_blank" rel="noopener noreferrer nofollow">https://theprojectbluebookarchive.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force ABOUT THE ARCHIVE The Project Blue Book Archive is the most comprehensive public col...</p></details>
+   Link:<a href="https://theprojectbluebookarchive.org/" target="_blank" rel="noopener noreferrer nofollow">https://theprojectbluebookarchive.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force ABOUT THE ARCHIVE The Project Blue Book Archive is the most comprehensive public col...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: uk.forceswarrecords.com  
    Title: The files contain reports from UFO observers, correspondence  
-   Link: <a href="https://uk.forceswarrecords.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969" target="_blank" rel="noopener noreferrer nofollow">https://uk.forceswarrecords.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>forceswarrecords.comUS, Project Blue Book - UFO Investigations, 1947-196926 Feb 2007 — Each case file relates to one sighting or to a gro...</p></details>
+   Link:<a href="https://uk.forceswarrecords.com/publication/461/us-project-blue-book-ufo-investigations" target="_blank" rel="noopener noreferrer nofollow">https://uk.forceswarrecords.com/publication/461/us-project-blue-book-ufo-investigations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>forceswarrecords.comUS, Project Blue Book - UFO Investigations, 1947-196926 Feb 2007 — Each case file relates to one sighting or to a gro...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: af.mil  
    Title: The project, headquartered at Wright-Patterson Air Force  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue BookFrom 1947 to 1969, the Air Force investigated Unidentified Flying Objects unde...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue BookFrom 1947 to 1969, the Air Force investigated Unidentified Flying Objects unde...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: vault.fbi.gov  
    Title: Project Blue Book (UFO)  
-   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book (UFO).... In 1989, an organization calling itself “The New Project Blue Book” contacted the FBI. This file consists of corresp...</p></details>
+   Link:<a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book (UFO).... In 1989, an organization calling itself “The New Project Blue Book” contacted the FBI. This file consists of corresp...</p></details>

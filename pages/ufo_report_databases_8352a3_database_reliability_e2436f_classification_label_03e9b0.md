@@ -277,7 +277,7 @@ image: /assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_cl
 A UFO case can appear much stronger than it really is because of a single word in a database entry. Labels such as “unexplained”, “unknown”, “unidentified” and “anomalous” often sound as if investigators ruled out every ordinary explanation and were left with a genuine mystery. In practice, different databases use those words in very different ways. Some labels reflect a completed investigation. Others simply mean that the report could not be matched to a known explanation using the information available at the time.
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_classification_label_03e9b0-Illustration-1-dark.svg" | relative_url }}" alt="Case Labels illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_classification_label_03e9b0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_classification_label_03e9b0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This creates one of the biggest comparison problems in UFO research. Two databases may both contain a category called “unknown”, yet one may reserve it for heavily investigated cases while another applies it to reports with minimal follow-up. Understanding how labels are assigned is often more important than the label itself. A database with strict classification rules can make a small number of “unknowns” meaningful. A database with vague rules can make the same word almost impossible to interpret. Pieces of History <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Eds Whs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Eds WhsProject Blue BookThe Air Force groups its evaluations of UFO reports under three general headings: (1) identified. (2) insufficie...</span></span></span>
+This creates one of the biggest comparison problems in UFO research. Two databases may both contain a category called “unknown”, yet one may reserve it for heavily investigated cases while another applies it to reports with minimal follow-up. Understanding how labels are assigned is often more important than the label itself. A database with strict classification rules can make a small number of “unknowns” meaningful. A database with vague rules can make the same word almost impossible to interpret. Pieces of History<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Eds Whs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Eds WhsProject Blue BookThe Air Force groups its evaluations of UFO reports under three general headings: (1) identified. (2) insufficie...</span></span></span>
 
 ## Common UFO Classification Words
 
@@ -285,7 +285,7 @@ The language used in UFO catalogues has accumulated over decades, but many terms
 
 ### “Unidentified” is not the same as “extraordinary”
 
-The classic example comes from Project [Blue Book]({{ 'blue-book/' | relative_url }}). The Air Force sorted reports into categories including identified, insufficient data and unidentified. By the end of the programme, 701 cases remained classified as unidentified. However, the Air Force also stated that there was no evidence that these unidentified reports represented extraterrestrial vehicles. In other words, “unidentified” meant the available investigation did not reach a confident explanation, not that an exotic explanation had been established. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Eds Whs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Eds WhsProject Blue BookThe Air Force groups its evaluations of UFO reports under three general headings: (1) identified. (2) insufficie...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookWith the termination of Project Blue Book, the Air Force regulation e...</span></span></span>
+The classic example comes from Project [Blue Book]({{ 'blue-book/' | relative_url }}). The Air Force sorted reports into categories including identified, insufficient data and unidentified. By the end of the programme, 701 cases remained classified as unidentified. However, the Air Force also stated that there was no evidence that these unidentified reports represented extraterrestrial vehicles. In other words, “unidentified” meant the available investigation did not reach a confident explanation, not that an exotic explanation had been established.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Eds Whs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Eds WhsProject Blue BookThe Air Force groups its evaluations of UFO reports under three general headings: (1) identified. (2) insufficie...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookWith the termination of Project Blue Book, the Air Force regulation e...</span></span></span>
 
 This distinction is frequently lost when databases or commentators cite the number of unexplained cases without explaining how the category was defined.
 
@@ -313,7 +313,7 @@ The National UFO Reporting Center, for example, primarily functions as a reporti
 
 One of the most common mistakes in UFO database analysis is treating “insufficient data” as if it belongs in the same category as unexplained anomalies.
 
-Project Blue Book explicitly separated insufficient-data cases from unidentified cases. This distinction recognised a basic investigative reality: a report cannot be analysed properly if key information is missing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prologue.blogs.archives.gov">[Pieces of History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prologue.blogs.archives.gov</span><span class="citation-popover-title">blue book 2</span><span class="citation-popover-snippet">Pieces of HistoryUFOs: Natural Explanations - Pieces of History16 Apr 2018 — After investigating a case, the Air Force placed it into one...</span></span></span>
+Project Blue Book explicitly separated insufficient-data cases from unidentified cases. This distinction recognised a basic investigative reality: a report cannot be analysed properly if key information is missing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prologue.blogs.archives.gov">[Pieces of History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prologue.blogs.archives.gov</span><span class="citation-popover-title">blue book 2</span><span class="citation-popover-snippet">Pieces of HistoryUFOs: Natural Explanations - Pieces of History16 Apr 2018 — After investigating a case, the Air Force placed it into one...</span></span></span>
 
 Missing information can include:
 
@@ -331,7 +331,7 @@ Missing information can include:
 
 A weak report can remain unresolved because there is too little information to evaluate it. That does not make it mysterious. It simply means the evidence is inadequate.
 
-This is especially important in large public databases. Online reporting systems can collect thousands of sightings, but the amount of detail varies dramatically. NASA's recent discussions of UAP data quality have repeatedly stressed that scientific analysis depends on metadata, calibration information and contextual details. Without those elements, a report may remain unexplained for procedural reasons rather than because it represents a genuine anomaly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/space/extraterrestrial-life/us-government-declassifies-nearly-200-uap-files-including-strange-sightings-from-apollo-astronauts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">Live Science US government declassifies dozens of additional UFO files</span><span class="citation-popover-snippet">Due to the poor data quality, the reports do not contain any compelling evidence of alien intelligence. While NASA has not...Read more...</span></span></span>
+This is especially important in large public databases. Online reporting systems can collect thousands of sightings, but the amount of detail varies dramatically. NASA's recent discussions of UAP data quality have repeatedly stressed that scientific analysis depends on metadata, calibration information and contextual details. Without those elements, a report may remain unexplained for procedural reasons rather than because it represents a genuine anomaly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/space/extraterrestrial-life/us-government-declassifies-nearly-200-uap-files-including-strange-sightings-from-apollo-astronauts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">Live Science US government declassifies dozens of additional UFO files</span><span class="citation-popover-snippet">Due to the poor data quality, the reports do not contain any compelling evidence of alien intelligence. While NASA has not...Read more...</span></span></span>
 
 A useful mental test is to ask whether the case remained unexplained after investigation or before investigation. Those are very different situations that are often collapsed into a single category when databases present summary statistics.
 
@@ -342,7 +342,7 @@ Classification systems can make databases appear more dramatic even when nobody 
 
 ### Large unresolved totals attract attention
 
-Readers often focus on counts of unexplained cases. Project Blue Book's 701 unidentified reports are regularly cited because the number is memorable. Yet the figure only becomes meaningful when viewed alongside the programme's more than 12,000 total reports and the specific classification procedures used to sort them. Office of the Secretary of the Air Force <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osi.af.mil">[osi.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osi.af.mil</span><span class="citation-popover-title">project blue book part 1 ufo reports</span><span class="citation-popover-snippet">Blue Book Part 1 (UFO Reports)6 Aug 2020 — Project Blue Book continued until 1969. A total of 12,618 sightings were reported to Project B...</span></span></span>
+Readers often focus on counts of unexplained cases. Project Blue Book's 701 unidentified reports are regularly cited because the number is memorable. Yet the figure only becomes meaningful when viewed alongside the programme's more than 12,000 total reports and the specific classification procedures used to sort them. Office of the Secretary of the Air Force<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osi.af.mil">[osi.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osi.af.mil</span><span class="citation-popover-title">project blue book part 1 ufo reports</span><span class="citation-popover-snippet">Blue Book Part 1 (UFO Reports)6 Aug 2020 — Project Blue Book continued until 1969. A total of 12,618 sightings were reported to Project B...</span></span></span>
 
 Without that context, the label becomes a rhetorical shortcut rather than an analytical category.
 
@@ -399,194 +399,194 @@ An “unidentified” classification may represent a carefully investigated repo
 That is why classification labels alone are poor indicators of evidential strength. The value of a label depends on the rules behind it, the quality of the underlying data and the transparency of the investigative process. Without those elements, categories that sound impressive can tell readers far less than they appear to.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Does Unexplained Really Mean Unknown?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Does Unexplained Really Mean Unknown?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek’s work is central to UFO report categories, case quality, and the difference between unexplained and extraordinary.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek’s work is central to UFO report categories, case quality, and the difference between unexplained and extraordinary.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Uses official and professional testimony where labels such as unidentified, unexplained, and unknown matter.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Uses official and professional testimony where labels such as unidentified, unexplained, and unknown matter.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly relates to how official UFO cases were evaluated, labelled, and interpreted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relates to how official UFO cases were evaluated, labelled, and interpreted.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Explains government UFO programmes and the institutional meaning of classification terms.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains government UFO programmes and the institutional meaning of classification terms.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="case-labels-when-does-unexplained-really-mean-unknown-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -602,7 +602,7 @@ That is why classification labels alone are poor indicators of evidential streng
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -622,7 +622,7 @@ That is why classification labels alone are poor indicators of evidential streng
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -654,7 +654,7 @@ That is why classification labels alone are poor indicators of evidential streng
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -706,7 +706,7 @@ That is why classification labels alone are poor indicators of evidential streng
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -751,7 +751,7 @@ That is why classification labels alone are poor indicators of evidential streng
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -792,167 +792,167 @@ That is why classification labels alone are poor indicators of evidential streng
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: prologue.blogs.archives.gov  
    Title: blue book 2  
-   Link: <a href="https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pieces of HistoryUFOs: Natural Explanations - Pieces of History16 Apr 2018 — After investigating a case, the Air Force placed it into one...</p></details>
+   Link:<a href="https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pieces of HistoryUFOs: Natural Explanations - Pieces of History16 Apr 2018 — After investigating a case, the Air Force placed it into one...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: esd.whs.mil  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eds WhsProject Blue BookThe Air Force groups its evaluations of UFO reports under three general headings: (1) identified. (2) insufficie...</p></details>
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eds WhsProject Blue BookThe Air Force groups its evaluations of UFO reports under three general headings: (1) identified. (2) insufficie...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
    Title: Browse reports, images, videos, maps and more  
-   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witn...</p></details>
+   Link:<a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witn...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</p></details>
+   Link:<a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: history.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book - Alien, Definition &amp; Files22 Feb 2010 — Similarly to the Robertson Panel, Blue Book would eventually classify m...</p></details>
+   Link:<a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book - Alien, Definition &amp; Files22 Feb 2010 — Similarly to the Robertson Panel, Blue Book would eventually classify m...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/reportform/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/reportform/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting Report Form | NUFORCSIGHTING DATE AND TIME · SIGHTING LOCATION · DESCRIBE WHAT YOU SAW · TELL US ABOUT YOU · ADD IMAGES OR V...</p></details>
+   Link:<a href="https://nuforc.org/reportform/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/reportform/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting Report Form | NUFORCSIGHTING DATE AND TIME · SIGHTING LOCATION · DESCRIBE WHAT YOU SAW · TELL US ABOUT YOU · ADD IMAGES OR V...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/ndx/?id=shape" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=shape</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by Shape... File a UFO Report · Donate · About Us · Toggle website search. NUFORC Reports by Shape. SHAPE, REPORT COUNT. U...</p></details>
+   Link:<a href="https://nuforc.org/ndx/?id=shape" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=shape</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by Shape... File a UFO Report · Donate · About Us · Toggle website search. NUFORC Reports by Shape. SHAPE, REPORT COUNT. U...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/spatial/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/spatial/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Military tests? Experimental Boeing/...Read more...</p></details>
+   Link:<a href="https://nuforc.org/spatial/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/spatial/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Military tests? Experimental Boeing/...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/report-a-ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>agency for reporting UFO/UAP related events...</p></details>
+   Link:<a href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/report-a-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>agency for reporting UFO/UAP related events...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/univutahstudy/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/univutahstudy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Utah and Recent [AARO](&amp;#123;&amp;#123; &#x27;aaro/&#x27; | relative_url &amp;#125;&amp;#125;) Director Publish...15 Dec 2023 — Data [Reliability](&amp;#123;&amp;#123; &#x27;reliability/&#x27; | relative_url &amp;#125;&amp;#125;): The study acknowledges the challenge of...</p></details>
+   Link:<a href="https://nuforc.org/univutahstudy/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/univutahstudy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of Utah and Recent [AARO](&amp;#123;&amp;#123; &#x27;aaro/&#x27; | relative_url &amp;#125;&amp;#125;) Director Publish...15 Dec 2023 — Data [Reliability](&amp;#123;&amp;#123; &#x27;reliability/&#x27; | relative_url &amp;#125;&amp;#125;): The study acknowledges the challenge of...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: UFO Report (U.S. Intelligence)  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_Report_%28U.S._Intelligence%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_Report_%28U.S._Intelligence%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Report (U.S. Intelligence)A lack of data does not mean aliens are the likely answer.&quot; Research... Five questions left unanswered...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_Report_%28U.S._Intelligence%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_Report_%28U.S._Intelligence%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Report (U.S. Intelligence)A lack of data does not mean aliens are the likely answer.&quot; Research... Five questions left unanswered...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookWith the termination of Project Blue Book, the Air Force regulation e...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookWith the termination of Project Blue Book, the Air Force regulation e...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: osi.af.mil  
    Title: project blue book part 1 ufo reports  
-   Link: <a href="https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book Part 1 (UFO Reports)6 Aug 2020 — Project Blue Book continued until 1969. A total of 12,618 sightings were reported to Project B...</p></details>
+   Link:<a href="https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book Part 1 (UFO Reports)6 Aug 2020 — Project Blue Book continued until 1969. A total of 12,618 sightings were reported to Project B...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: livescience.com  
    Title: Live Science US government declassifies dozens of additional UFO files  
-   Link: <a href="https://www.livescience.com/space/extraterrestrial-life/us-government-declassifies-nearly-200-uap-files-including-strange-sightings-from-apollo-astronauts" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/extraterrestrial-life/us-government-declassifies-nearly-200-uap-files-including-strange-sightings-from-apollo-astronauts</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Due to the poor data quality, the reports do not contain any compelling evidence of alien intelligence. While NASA has not...Read more...</p></details>
+   Link:<a href="https://www.livescience.com/space/extraterrestrial-life/us-government-declassifies-nearly-200-uap-files-including-strange-sightings-from-apollo-astronauts" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/extraterrestrial-life/us-government-declassifies-nearly-200-uap-files-including-strange-sightings-from-apollo-astronauts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Due to the poor data quality, the reports do not contain any compelling evidence of alien intelligence. While NASA has not...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — Project Blue Book, code name for the United States&#x27; longest-running Air Force pro...</p></details>
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — Project Blue Book, code name for the United States&#x27; longest-running Air Force pro...</p></details>
    Published: May 2026  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cuny.manifoldapp.org  
    Title: national ufo reporting center  
-   Link: <a href="https://cuny.manifoldapp.org/read/national-ufo-reporting-center" target="_blank" rel="noopener noreferrer nofollow">https://cuny.manifoldapp.org/read/national-ufo-reporting-center</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Reporting CenterApr 2, 2025 — The National UFO Reporting Center (NUFORC) is a text-heavy web-based archive with a searchable database...</p></details>
+   Link:<a href="https://cuny.manifoldapp.org/read/national-ufo-reporting-center" target="_blank" rel="noopener noreferrer nofollow">https://cuny.manifoldapp.org/read/national-ufo-reporting-center</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Reporting CenterApr 2, 2025 — The National UFO Reporting Center (NUFORC) is a text-heavy web-based archive with a searchable database...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: geekchocolate.co.uk  
    Title: project blue book  
-   Link: <a href="https://geekchocolate.co.uk/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://geekchocolate.co.uk/project-blue-book/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>9 Jan 2019 — Allen Hynek&#x27;s investigations for the U.S. Air Force into the existence of UFOs. The cases depicted are based on real events...</p></details>
+   Link:<a href="https://geekchocolate.co.uk/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://geekchocolate.co.uk/project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>9 Jan 2019 — Allen Hynek&#x27;s investigations for the U.S. Air Force into the existence of UFOs. The cases depicted are based on real events...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/library/d3b9f01b-ddb8-4ecf-bcf4-832e413200bf" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/d3b9f01b-ddb8-4ecf-bcf4-832e413200bf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Enigma](&amp;#123;&amp;#123; &#x27;enigma/&#x27; | relative_url &amp;#125;&amp;#125;) Labs | Report a UFO sightingThe National UFO Reporting Center (NUFORC)Gribble, receives, records, documents, and corroborates repo...</p></details>
+   Link:<a href="https://enigmalabs.io/library/d3b9f01b-ddb8-4ecf-bcf4-832e413200bf" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/d3b9f01b-ddb8-4ecf-bcf4-832e413200bf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Enigma](&amp;#123;&amp;#123; &#x27;enigma/&#x27; | relative_url &amp;#125;&amp;#125;) Labs | Report a UFO sightingThe National UFO Reporting Center (NUFORC)Gribble, receives, records, documents, and corroborates repo...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/OriginsOSU/posts/recently-the-pentagon-released-more-files-on-ufos-it-seems-like-every-few-months/1809383503713749/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OriginsOSU/posts/recently-the-pentagon-released-more-files-on-ufos-it-seems-like-every-few-months/1809383503713749/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Air Force Investigation into UFOsProject Blue Book investigated 12,618 UFO sightings and 701 of those sightings remained unidentified...</p></details>
+   Link:<a href="https://www.facebook.com/OriginsOSU/posts/recently-the-pentagon-released-more-files-on-ufos-it-seems-like-every-few-months/1809383503713749/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OriginsOSU/posts/recently-the-pentagon-released-more-files-on-ufos-it-seems-like-every-few-months/1809383503713749/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Air Force Investigation into UFOsProject Blue Book investigated 12,618 UFO sightings and 701 of those sightings remained unidentified...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: ufodatalive.com  
-   Link: <a href="https://www.ufodatalive.com/about/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufodatalive.com/about/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sightings — is drawn from peer-reviewed academic research geocoding historical NUFORC (National UFO Reporting Center)...Read more...</p></details>
+   Link:<a href="https://www.ufodatalive.com/about/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufodatalive.com/about/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sightings — is drawn from peer-reviewed academic research geocoding historical NUFORC (National UFO Reporting Center)...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: sofrep.com  
    Title: the truth behind ufos from project blue book to the pentagons uap task force  
-   Link: <a href="https://sofrep.com/news/the-truth-behind-ufos-from-project-blue-book-to-the-pentagons-uap-task-force/" target="_blank" rel="noopener noreferrer nofollow">https://sofrep.com/news/the-truth-behind-ufos-from-project-blue-book-to-the-pentagons-uap-task-force/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth Behind UFOs: From Project Blue Book to the...8 Feb 2026 — Project Blue Book had two main goals: to determine whether UFOs posed...</p></details>
+   Link:<a href="https://sofrep.com/news/the-truth-behind-ufos-from-project-blue-book-to-the-pentagons-uap-task-force/" target="_blank" rel="noopener noreferrer nofollow">https://sofrep.com/news/the-truth-behind-ufos-from-project-blue-book-to-the-pentagons-uap-task-force/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth Behind UFOs: From Project Blue Book to the...8 Feb 2026 — Project Blue Book had two main goals: to determine whether UFOs posed...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: enigmaticideas.com  
    Title: Shadowy beings: 68% of witnesses report fear. Greys: 38% involve abduction  
-   Link: <a href="https://enigmaticideas.com/what-152-000-ufo-reports-reveal-about-entity-encounters/" target="_blank" rel="noopener noreferrer nofollow">https://enigmaticideas.com/what-152-000-ufo-reports-reveal-about-entity-encounters/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What 152,000 UFO Reports Reveal About Entity Encounters8 Jan 2026 — I analyzed entity encounters in the NUFORC sightings database...</p></details>
+   Link:<a href="https://enigmaticideas.com/what-152-000-ufo-reports-reveal-about-entity-encounters/" target="_blank" rel="noopener noreferrer nofollow">https://enigmaticideas.com/what-152-000-ufo-reports-reveal-about-entity-encounters/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What 152,000 UFO Reports Reveal About Entity Encounters8 Jan 2026 — I analyzed entity encounters in the NUFORC sightings database...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: weirddatascience.net  
    Title: the shape of the other the evolution of ufo sightings by shape  
-   Link: <a href="https://www.weirddatascience.net/2018/06/20/the-shape-of-the-other-the-evolution-of-ufo-sightings-by-shape/" target="_blank" rel="noopener noreferrer nofollow">https://www.weirddatascience.net/2018/06/20/the-shape-of-the-other-the-evolution-of-ufo-sightings-by-shape/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Shape of the Other: The Evolution of UFO Sightings...20 Jun 2018 — The NUFORC dataset classifies each sighting as one of 46 possible...</p></details>
+   Link:<a href="https://www.weirddatascience.net/2018/06/20/the-shape-of-the-other-the-evolution-of-ufo-sightings-by-shape/" target="_blank" rel="noopener noreferrer nofollow">https://www.weirddatascience.net/2018/06/20/the-shape-of-the-other-the-evolution-of-ufo-sightings-by-shape/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Shape of the Other: The Evolution of UFO Sightings...20 Jun 2018 — The NUFORC dataset classifies each sighting as one of 46 possible...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: popularmechanics.com  
    Title: j allen hynek project blue book ufo investigation truth  
-   Link: <a href="https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek &amp; Project Blue Book: UFO Secrets Revealed12 Apr 2026 — Explore the UFO mysteries J. Allen Hynek uncovered with Project Blue B...</p></details>
+   Link:<a href="https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek &amp; Project Blue Book: UFO Secrets Revealed12 Apr 2026 — Explore the UFO mysteries J. Allen Hynek uncovered with Project Blue B...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: metabunk.org  
    Title: nuforc sightings categorized by decade and shape.14610  
-   Link: <a href="https://www.metabunk.org/threads/nuforc-sightings-categorized-by-decade-and-shape.14610/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/nuforc-sightings-categorized-by-decade-and-shape.14610/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC sightings categorized by decade and shape1 Dec 2025 — Interesting. I&#x27;ve been working on a report rating scheme to grade UFO report...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/nuforc-sightings-categorized-by-decade-and-shape.14610/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/nuforc-sightings-categorized-by-decade-and-shape.14610/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC sightings categorized by decade and shape1 Dec 2025 — Interesting. I&#x27;ve been working on a report rating scheme to grade UFO report...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/illumination/project-blue-book-unidentified-unexplained-or-misunderstood-0a9524ba3664" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/illumination/project-blue-book-unidentified-unexplained-or-misunderstood-0a9524ba3664</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>es Air Force (USAF), started in 1952 and continuing until the end of 1969.Read more...</p></details>
+   Link:<a href="https://medium.com/illumination/project-blue-book-unidentified-unexplained-or-misunderstood-0a9524ba3664" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/illumination/project-blue-book-unidentified-unexplained-or-misunderstood-0a9524ba3664</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>es Air Force (USAF), started in 1952 and continuing until the end of 1969.Read more...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: steeped.ai  
    Title: ufo sightings data analysis exploring tier 1 reports  
-   Link: <a href="https://steeped.ai/ufo-sightings-data-analysis-exploring-tier-1-reports/" target="_blank" rel="noopener noreferrer nofollow">https://steeped.ai/ufo-sightings-data-analysis-exploring-tier-1-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Data Analysis: Exploring 1500+ Tier 1 Reports21 Jan 2026 — As the “National” in NUFORC suggests, these sightings were heavi...</p></details>
+   Link:<a href="https://steeped.ai/ufo-sightings-data-analysis-exploring-tier-1-reports/" target="_blank" rel="noopener noreferrer nofollow">https://steeped.ai/ufo-sightings-data-analysis-exploring-tier-1-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Data Analysis: Exploring 1500+ Tier 1 Reports21 Jan 2026 — As the “National” in NUFORC suggests, these sightings were heavi...</p></details>

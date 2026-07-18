@@ -352,24 +352,24 @@ image: /assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724-ov
 
 ## Introduction
 
-UFOCAT is best understood as a source-tracing catalogue, not a clean counter of unique UFO incidents. Its value is that it tries to tell researchers where a report came from: an original investigation file, a newspaper item, a UFO periodical, a book, a database listing, or another secondary reference. That same strength creates its central trap. Because one sighting can appear in several sources, UFOCAT may hold several records for the same underlying event, so a raw record count can overstate the number of actual sightings. CUFOS, which maintains UFOCAT, explicitly warns that the catalogue often contains multiple entries for the same sighting and that simple case counts can over-count cases unless users filter for primary entries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
+UFOCAT is best understood as a source-tracing catalogue, not a clean counter of unique UFO incidents. Its value is that it tries to tell researchers where a report came from: an original investigation file, a newspaper item, a UFO periodical, a book, a database listing, or another secondary reference. That same strength creates its central trap. Because one sighting can appear in several sources, UFOCAT may hold several records for the same underlying event, so a raw record count can overstate the number of actual sightings. CUFOS, which maintains UFOCAT, explicitly warns that the catalogue often contains multiple entries for the same sighting and that simple case counts can over-count cases unless users filter for primary entries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724-overview.webp" | relative_url }}" alt="Overview image for UFOCAT" loading="eager" decoding="sync" fetchpriority="high">
 For historical UFO research, this is not a defect to be ignored. It is the main reason UFOCAT matters. The catalogue preserves trails through a messy literature in which one witness report might travel from a local newspaper to an investigator’s file, then to a periodical, then to a book, with small changes at each stage.
 
 ## Why UFOCAT Works Better as a Source Map Than a Sighting Total
 
-UFOCAT began as a computerised catalogue associated with Dr David R. Saunders during the Air Force-sponsored University of Colorado UFO project, often known as the Condon Committee. CUFOS says the 2023 version represents a 55-year effort, with more than 300,000 entries and more than 192,000 primary UFO reports. The database has existed in some form since 1967, was given by Saunders to CUFOS in 1976, and later moved from mainframe storage into more accessible relational database formats. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cufos.org/PDFs/pdfs/UFOCAT%20fields.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
+UFOCAT began as a computerised catalogue associated with Dr David R. Saunders during the Air Force-sponsored University of Colorado UFO project, often known as the Condon Committee. CUFOS says the 2023 version represents a 55-year effort, with more than 300,000 entries and more than 192,000 primary UFO reports. The database has existed in some form since 1967, was given by Saunders to CUFOS in 1976, and later moved from mainframe storage into more accessible relational database formats.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cufos.org/PDFs/pdfs/UFOCAT%20fields.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 
-That history matters because UFOCAT was built in the world of archival UFO research, not modern app-based reporting. It was designed to organise scattered material: private files, local press reports, case summaries, group investigations, older catalogues and bibliographic references. CUFOS describes a later redesign as placing special emphasis on specifying the source for each report, including author names and longer mnemonic source codes, to make the catalogue easier to use as a reference tool. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Center_for_UFO_Studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
+That history matters because UFOCAT was built in the world of archival UFO research, not modern app-based reporting. It was designed to organise scattered material: private files, local press reports, case summaries, group investigations, older catalogues and bibliographic references. CUFOS describes a later redesign as placing special emphasis on specifying the source for each report, including author names and longer mnemonic source codes, to make the catalogue easier to use as a reference tool.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Center_for_UFO_Studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 
-The codebook is unusually direct about the proper use of the data. It says users should not expect to “begin and end” research with UFOCAT because the data contain gaps and the sources are not equally reliable. It describes the catalogue’s results as a guide to original sources for crucial details, rather than as a final evidential judgement on each sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
+The codebook is unusually direct about the proper use of the data. It says users should not expect to “begin and end” research with UFOCAT because the data contain gaps and the sources are not equally reliable. It describes the catalogue’s results as a guide to original sources for crucial details, rather than as a final evidential judgement on each sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 
 This makes UFOCAT different from a simple public sightings table. A sightings table invites the reader to ask, “How many reports are there?” UFOCAT invites a more useful historical question: “What is the chain of sources behind this report, and which version is closest to the original observation?”
 
 ## How the Source Trail Is Built Into the Records
 
-UFOCAT’s internal structure reflects its source-tracing purpose. The codebook describes the basic unit as a record, with fields for record identifiers, source codes, location, time, classification, witness information and notes. It also states that most entries describe UFO events, but some non-UFO events of potential ufological interest have been included, such as nuclear test explosions, aircraft crashes, major power failures, deaths of UFO figures and crop-circle-related entries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cufos.org/PDFs/pdfs/UFOCAT%20fields.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
+UFOCAT’s internal structure reflects its source-tracing purpose. The codebook describes the basic unit as a record, with fields for record identifiers, source codes, location, time, classification, witness information and notes. It also states that most entries describe UFO events, but some non-UFO events of potential ufological interest have been included, such as nuclear test explosions, aircraft crashes, major power failures, deaths of UFO figures and crop-circle-related entries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cufos.org/PDFs/pdfs/UFOCAT%20fields.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 
 Several fields are especially important for source tracing:
 
@@ -381,7 +381,7 @@ Several fields are especially important for source tracing:
 
 * **IRN** points to the record most closely associated with an indirect source.
 * **SOURCE**, **ISOURCE**, **PAGEVOL** and **IPAGEVOL** identify the direct and indirect source and the relevant page or case position.
-* **LEVEL** records the level or type of source, distinguishing, for example, investigating organisations, newspapers, first-edition books, revised books and database listings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Center_for_UFO_Studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
+* **LEVEL** records the level or type of source, distinguishing, for example, investigating organisations, newspapers, first-edition books, revised books and database listings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Center_for_UFO_Studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 
 </div>
 
@@ -392,15 +392,15 @@ This is valuable because UFO literature is often cumulative. A dramatic case may
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724-Illustration-1-dark.svg" | relative_url }}" alt="UFOCAT illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Duplicate Entries Happen
 
-Duplicate records in UFOCAT are not merely accidental data-entry noise. Many are a predictable result of the catalogue’s design. CUFOS gives a simple example: one UFO sighting might have an original case file, an article in a UFO periodical and a description in a UFO book, and UFOCAT may include all three so that a researcher can access the full source trail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Center_for_UFO_Studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
+Duplicate records in UFOCAT are not merely accidental data-entry noise. Many are a predictable result of the catalogue’s design. CUFOS gives a simple example: one UFO sighting might have an original case file, an article in a UFO periodical and a description in a UFO book, and UFOCAT may include all three so that a researcher can access the full source trail.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Center_for_UFO_Studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 
-The codebook explains this in database terms. Typically, each record reflects one witness or witness group, about one event, as reported through one source. In practice, it adds, witnesses, events and sources are not always cleanly separable. The catalogue therefore tries to preserve what the source actually said, even where the source may contain inaccuracies, while using flags for suspected or known errors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Center_for_UFO_Studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
+The codebook explains this in database terms. Typically, each record reflects one witness or witness group, about one event, as reported through one source. In practice, it adds, witnesses, events and sources are not always cleanly separable. The catalogue therefore tries to preserve what the source actually said, even where the source may contain inaccuracies, while using flags for suspected or known errors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Center_for_UFO_Studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 
 [Duplicates]({{ 'duplicates/' | relative_url }}) can arise in several ways:
 
 **One event, multiple publications.** A single incident may appear first in a local newspaper, then in an investigator’s file, then in a UFO organisation’s newsletter, then in a later book. Each may contain distinct information or errors.
 
-**One object, multiple witnesses.** If several witnesses in different places report the same object, some catalogues merge them into one sighting; UFOCAT may preserve them as separate records. Jacques Vallée noted in a workshop paper that both GEiPAN and UFOCAT treat every report of a given case as a separate entry, while other catalogues, such as the Hatch catalogue, use a single entry per sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/15_VALLEE_full.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">15 VALLEE full</span><span class="citation-popover-snippet">15 VALLEE full</span></span></span>
+**One object, multiple witnesses.** If several witnesses in different places report the same object, some catalogues merge them into one sighting; UFOCAT may preserve them as separate records. Jacques Vallée noted in a workshop paper that both GEiPAN and UFOCAT treat every report of a given case as a separate entry, while other catalogues, such as the Hatch catalogue, use a single entry per sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/15_VALLEE_full.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">15 VALLEE full</span><span class="citation-popover-snippet">15 VALLEE full</span></span></span>
 
 **One historical case, uncertain source chain.** Older cases may be known through second- or third-hand references. UFOCAT’s indirect-source fields matter because the apparent source may not be the original source.
 
@@ -412,26 +412,26 @@ The key point is that duplication is partly intentional. UFOCAT tries to preserv
 
 ## The X2 Field: The Reader’s First Guard Against Over-Counting
 
-For anyone trying to count cases rather than trace sources, the X2 field is crucial. CUFOS says preliminary case counts can be produced by selecting records with X2 coded as “0”, because that value identifies primary entries. The codebook gives the same warning in stronger technical terms: X2 identifies the “handedness” or primacy of the record, with “0” marking [primary records]({{ 'primary-records/' | relative_url }}), “1” marking independent investigations not chosen as primary, “2” marking secondary sources, and “3” marking sources further removed from the original report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Center_for_UFO_Studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
+For anyone trying to count cases rather than trace sources, the X2 field is crucial. CUFOS says preliminary case counts can be produced by selecting records with X2 coded as “0”, because that value identifies primary entries. The codebook gives the same warning in stronger technical terms: X2 identifies the “handedness” or primacy of the record, with “0” marking [primary records]({{ 'primary-records/' | relative_url }}), “1” marking independent investigations not chosen as primary, “2” marking secondary sources, and “3” marking sources further removed from the original report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Center_for_UFO_Studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 
-The PRN field works with this logic. It points to the record judged to have the most primary source of information for the event, and filtering by that number can retrieve the block of records referring to the same event. The codebook says these blocks contain entries that refer to the same event but are based on different sources, with the earliest report or most complete account treated as the primary record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Center_for_UFO_Studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
+The PRN field works with this logic. It points to the record judged to have the most primary source of information for the event, and filtering by that number can retrieve the block of records referring to the same event. The codebook says these blocks contain entries that refer to the same event but are based on different sources, with the earliest report or most complete account treated as the primary record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Center_for_UFO_Studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 
 This is the main difference between a careful UFOCAT count and a misleading one. A raw record count answers: “How many catalogue entries match this query?” A filtered count tries to answer: “How many primary event records match this query?” Those are different numbers, and for historical UFO research the difference can be substantial.
 
 ## A Concrete Example: Saunders Already Had to Control for Duplicates
 
-The duplicate-record problem is not a modern criticism imposed from outside. David Saunders’ own UFOCAT-based statistical work had to address it. In an analysis of “extrinsic factors in UFO-reporting”, a version of UFOCAT contained 59,237 total entries, but that total included duplicate reports of the same events and reports outside the usable United States county framework. Saunders reduced the usable set to 18,122 entries for the county-level measures he was analysing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/saundersefur.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The duplicate-record problem is not a modern criticism imposed from outside. David Saunders’ own UFOCAT-based statistical work had to address it. In an analysis of “extrinsic factors in UFO-reporting”, a version of UFOCAT contained 59,237 total entries, but that total included duplicate reports of the same events and reports outside the usable United States county framework. Saunders reduced the usable set to 18,122 entries for the county-level measures he was analysing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/saundersefur.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Even then, the counting method had to be constrained. The analysis counted no more than one event per county per day for the main UFO-reporting measure, choosing the entry with the highest type code where multiple countable entries existed. Saunders explained that this avoided a larger problem caused by differences in reporting practices among the sources underlying UFOCAT: some sources detailed [clusters]({{ 'clusters/' | relative_url }}) of reports from one county on one date, while others did not. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/saundersefur.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Even then, the counting method had to be constrained. The analysis counted no more than one event per county per day for the main UFO-reporting measure, choosing the entry with the highest type code where multiple countable entries existed. Saunders explained that this avoided a larger problem caused by differences in reporting practices among the sources underlying UFOCAT: some sources detailed [clusters]({{ 'clusters/' | relative_url }}) of reports from one county on one date, while others did not.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/saundersefur.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This example shows why UFOCAT should not be treated as a neutral pile of equal observations. Its entries are shaped by the habits of newspapers, investigators, UFO groups, book authors and database compilers. A county with active newspapers or active investigators may produce more records, not necessarily more anomalous events.
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724-Illustration-2-dark.svg" | relative_url }}" alt="UFOCAT illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_ufocat_source_tracin_039724-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Source Levels Reveal About Reliability
 
-UFOCAT does not make every source equally strong. Its source-level field helps distinguish kinds of references. The UFOCAT fields summary gives examples: an investigating organisation’s case file may be coded differently from a newspaper source, a first-edition book, a revised book or a database listing without additional information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Center_for_UFO_Studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
+UFOCAT does not make every source equally strong. Its source-level field helps distinguish kinds of references. The UFOCAT fields summary gives examples: an investigating organisation’s case file may be coded differently from a newspaper source, a first-edition book, a revised book or a database listing without additional information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Center_for_UFO_Studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 
-The 2023 codebook states that lower-numbered source-level codes tend to be closer to primary sources, and that type 3 sources, meaning investigation files, are especially preferred for additions because they are more likely to contain richer case information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Center_for_UFO_Studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
+The 2023 codebook states that lower-numbered source-level codes tend to be closer to primary sources, and that type 3 sources, meaning investigation files, are especially preferred for additions because they are more likely to contain richer case information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Center_for_UFO_Studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 
 This is why source tracing matters more than merely finding a famous case name. Suppose two UFOCAT records describe the same event. One is based on a newspaper paragraph published the next day; another is based on a book published twenty years later; a third is an investigation file with witness interviews. None can be assumed perfect, but they have different evidential weight. The catalogue’s purpose is to keep those distinctions visible.
 
@@ -439,7 +439,7 @@ It also helps researchers identify where a dramatic detail entered the record. I
 
 ## The Problem of Preserving Errors on Purpose
 
-One of UFOCAT’s more subtle design choices is that it often preserves the data as given by the source, even when those data are known to be inaccurate. The codebook says this was a principle from earlier versions, with exceptions where an error would cause a major misreading, and with special codes to flag suspected or known inaccuracies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Center_for_UFO_Studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
+One of UFOCAT’s more subtle design choices is that it often preserves the data as given by the source, even when those data are known to be inaccurate. The codebook says this was a principle from earlier versions, with exceptions where an error would cause a major misreading, and with special codes to flag suspected or known inaccuracies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Center_for_UFO_Studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 
 That choice makes sense for a historical source catalogue. If a newspaper got the town name slightly wrong, or a book moved a date by a day, the mistake may be part of the transmission history. Correcting every source into a harmonised modern version would make the data look cleaner but would erase evidence of how the case circulated.
 
@@ -458,23 +458,23 @@ Its best uses include:
 
 **Separating primary and secondary evidence.** The X2, PRN, IRN and source-level fields help researchers avoid mixing first-hand investigations with later summaries.
 
-**Building cautious statistical samples.** Researchers can filter for primary records and then add further controls, as Saunders did when limiting counts by county and date to reduce source-practice distortion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/saundersefur.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Building cautious statistical samples.** Researchers can filter for primary records and then add further controls, as Saunders did when limiting counts by county and date to reduce source-practice distortion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/saundersefur.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 **Identifying archival targets.** A UFOCAT record may not contain everything needed to evaluate a case, but it can tell a researcher which newspaper, organisation, book or file trail to pursue.
 
-The catalogue is least suitable for simple claims such as “UFOCAT proves there were X sightings” or “this many reports means this many anomalous objects”. CUFOS itself warns that using only UFOCAT risks losing the distinction between poorly investigated reports and exhaustively studied sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Center_for_UFO_Studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
+The catalogue is least suitable for simple claims such as “UFOCAT proves there were X sightings” or “this many reports means this many anomalous objects”. CUFOS itself warns that using only UFOCAT risks losing the distinction between poorly investigated reports and exhaustively studied sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Center_for_UFO_Studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8R34a9_sRKQ" title="Persistent Detection of Non-Participating Aircraft by USN Tactical Aircraft Ryan Graves, AIAA AV21" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8R34a9_sRKQ" target="_blank" rel="noopener noreferrer">Persistent Detection of Non-Participating Aircraft by USN Tactical Aircraft Ryan Graves, AIAA AV21</a></p><p class="youtube-embed-meta">Channel: NARCAP &middot; Views: 5.3K &middot; Uploaded: August 2021 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8R34a9_sRKQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8R34a9_sRKQ">Open on YouTube</a></p></div></div></div>
 
 ## How to Read a UFOCAT Entry Without Being Misled
 
-A good reading of UFOCAT starts with the source trail, not the dramatic content. The first question is whether the record is primary or secondary. If X2 is “0”, it is treated as the primary record for that event block. If it is “2” or “3”, it is further from the original report and should be used mainly as a pointer unless it adds a clearly identified source. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Center_for_UFO_Studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
+A good reading of UFOCAT starts with the source trail, not the dramatic content. The first question is whether the record is primary or secondary. If X2 is “0”, it is treated as the primary record for that event block. If it is “2” or “3”, it is further from the original report and should be used mainly as a pointer unless it adds a clearly identified source.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Center_for_UFO_Studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 
 The next question is whether other records share the same PRN. If they do, they are part of a block concerning the same event. This is where UFOCAT becomes useful as a historical tool: the reader can compare what each source says and determine which details are stable across versions.
 
-The third question is what kind of source is being cited. A newspaper item, an organisation file, a book, a revised book and a database listing do not carry the same weight. The source-level and direct-source fields help identify that difference. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Center_for_UFO_Studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
+The third question is what kind of source is being cited. A newspaper item, an organisation file, a book, a revised book and a database listing do not carry the same weight. The source-level and direct-source fields help identify that difference.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Center_for_UFO_Studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 
-Finally, the reader should look for missing or flagged information. The codebook says blanks generally indicate [missing data]({{ 'missing-data/' | relative_url }}) or information unknown to the person making the entry, and it asks users to distinguish omissions from errors already flagged as source errors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Center_for_UFO_Studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
+Finally, the reader should look for missing or flagged information. The codebook says blanks generally indicate [missing data]({{ 'missing-data/' | relative_url }}) or information unknown to the person making the entry, and it asks users to distinguish omissions from errors already flagged as source errors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Center_for_UFO_Studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 
 This is a slower way to read a UFO catalogue, but it is the only way to use UFOCAT responsibly. The catalogue’s great virtue is not that it gives a final answer. It helps the researcher find where the answer would have to come from.
 
@@ -487,194 +487,194 @@ That makes it frustrating for headline counts but valuable for historical work. 
 The proper takeaway is therefore restrained but important: UFOCAT should not be cited as a raw tally of unique UFO incidents. It should be used as a bibliographic and evidential guide, with X2 and PRN used to control duplicate counting and the source fields used to trace each case back towards its earliest recoverable documentation.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why UFOCAT Is Not Just a Sighting Count. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why UFOCAT Is Not Just a Sighting Count. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful background for catalogue-based UFO research and case classification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful background for catalogue-based UFO research and case classification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Matches source trails, historical catalogues and official UFO documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches source trails, historical catalogues and official UFO documentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains case categories and research methods behind historical UFO cataloguing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains case categories and research methods behind historical UFO cataloguing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Provides broader official-history context for why source provenance matters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader official-history context for why source provenance matters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Polar Lights 1/48 UFO Area 51 New Plastic Model Kit 1 48 POL982 982 Mr Models"><img src="{{ '/assets/images/marketplace-covers/b2c31325257837b1123c.jpg' | relative_url }}" alt="Listing image for Polar Lights 1/48 UFO Area 51 New Plastic Model Kit 1 48 POL982 982 Mr Models" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t" target="_blank" rel="sponsored noopener noreferrer">Polar Lights 1/48 UFO Area 51 New Plastic Model Kit 1 48 POL982 982 Mr Models</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Polar Lights 1/48 UFO Area 51 New Plastic Model Kit 1 48 POL982 982 Mr Models"><img src="{{ '/assets/images/marketplace-covers/b2c31325257837b1123c.jpg' | relative_url }}" alt="Listing image for Polar Lights 1/48 UFO Area 51 New Plastic Model Kit 1 48 POL982 982 Mr Models" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t" target="_blank" rel="sponsored noopener noreferrer">Polar Lights 1/48 UFO Area 51 New Plastic Model Kit 1 48 POL982 982 Mr Models</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Atlantis AMC-1011 TR-3E Triangular UFO 5” Long With 8” Long Base MISB Model Kit"><img src="{{ '/assets/images/marketplace-covers/5e692932a49cedf9ff3c.jpg' | relative_url }}" alt="Listing image for Atlantis AMC-1011 TR-3E Triangular UFO 5” Long With 8” Long Base MISB Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t" target="_blank" rel="sponsored noopener noreferrer">Atlantis AMC-1011 TR-3E Triangular UFO 5” Long With 8” Long Base MISB Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Atlantis AMC-1011 TR-3E Triangular UFO 5” Long With 8” Long Base MISB Model Kit"><img src="{{ '/assets/images/marketplace-covers/5e692932a49cedf9ff3c.jpg' | relative_url }}" alt="Listing image for Atlantis AMC-1011 TR-3E Triangular UFO 5” Long With 8” Long Base MISB Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t" target="_blank" rel="sponsored noopener noreferrer">Atlantis AMC-1011 TR-3E Triangular UFO 5” Long With 8” Long Base MISB Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Stellar Raiders mechanical DIY model kit"><img src="{{ '/assets/images/marketplace-covers/bf469a8b290d621a0893.jpg' | relative_url }}" alt="Listing image for UFO Stellar Raiders mechanical DIY model kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t" target="_blank" rel="sponsored noopener noreferrer">UFO Stellar Raiders mechanical DIY model kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Stellar Raiders mechanical DIY model kit"><img src="{{ '/assets/images/marketplace-covers/bf469a8b290d621a0893.jpg' | relative_url }}" alt="Listing image for UFO Stellar Raiders mechanical DIY model kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t" target="_blank" rel="sponsored noopener noreferrer">UFO Stellar Raiders mechanical DIY model kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Atlantis Models 5 Inch TR3 UFO Alien Spaceship Plastic Model Kit w/Base"><img src="{{ '/assets/images/marketplace-covers/5b17f6e3f389fcd54128.jpg' | relative_url }}" alt="Listing image for Atlantis Models 5 Inch TR3 UFO Alien Spaceship Plastic Model Kit w/Base" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t" target="_blank" rel="sponsored noopener noreferrer">Atlantis Models 5 Inch TR3 UFO Alien Spaceship Plastic Model Kit w/Base</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Atlantis Models 5 Inch TR3 UFO Alien Spaceship Plastic Model Kit w/Base"><img src="{{ '/assets/images/marketplace-covers/5b17f6e3f389fcd54128.jpg' | relative_url }}" alt="Listing image for Atlantis Models 5 Inch TR3 UFO Alien Spaceship Plastic Model Kit w/Base" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t" target="_blank" rel="sponsored noopener noreferrer">Atlantis Models 5 Inch TR3 UFO Alien Spaceship Plastic Model Kit w/Base</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="ufocat-why-ufocat-is-not-just-a-sighting-count-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-anderson-series-t" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -690,7 +690,7 @@ The proper takeaway is therefore restrained but important: UFOCAT should not be 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -710,7 +710,7 @@ The proper takeaway is therefore restrained but important: UFOCAT should not be 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -742,7 +742,7 @@ The proper takeaway is therefore restrained but important: UFOCAT should not be 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -794,7 +794,7 @@ The proper takeaway is therefore restrained but important: UFOCAT should not be 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -839,7 +839,7 @@ The proper takeaway is therefore restrained but important: UFOCAT should not be 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -880,130 +880,130 @@ The proper takeaway is therefore restrained but important: UFOCAT should not be 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cufos.org  
    Title: Center for UFO Studies UFOCAT  
-   Link: <a href="https://cufos.org/cufos-publications-databases/ufocat/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/cufos-publications-databases/ufocat/</a>  
+   Link:<a href="https://cufos.org/cufos-publications-databases/ufocat/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/cufos-publications-databases/ufocat/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cufos.org  
    Title: Center for UFO Studies  
-   Link: <a href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf</a>  
+   Link:<a href="https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/UFOCAT%20Codebook%202023.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cufos.org  
    Title: Center for UFO Studies  
-   Link: <a href="https://cufos.org/PDFs/pdfs/UFOCAT%20fields.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/pdfs/UFOCAT%20fields.pdf</a>  
+   Link:<a href="https://cufos.org/PDFs/pdfs/UFOCAT%20fields.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/pdfs/UFOCAT%20fields.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cnes-geipan.fr  
    Title: 15 VALLEE full  
-   Link: <a href="https://www.cnes-geipan.fr/sites/default/files/15_VALLEE_full.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/15_VALLEE_full.pdf</a>  
+   Link:<a href="https://www.cnes-geipan.fr/sites/default/files/15_VALLEE_full.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/15_VALLEE_full.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cufos.org  
-   Link: <a href="https://cufos.org/resources/ufo-catalogues/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/resources/ufo-catalogues/</a>  
+   Link:<a href="https://cufos.org/resources/ufo-catalogues/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/resources/ufo-catalogues/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cufos.org  
-   Link: <a href="https://cufos.org/PDFs/books/UFO_REPORTS_INVOLVING_VEHICLE_INTERFERENCE.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/books/UFO_REPORTS_INVOLVING_VEHICLE_INTERFERENCE.pdf</a>  
+   Link:<a href="https://cufos.org/PDFs/books/UFO_REPORTS_INVOLVING_VEHICLE_INTERFERENCE.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/books/UFO_REPORTS_INVOLVING_VEHICLE_INTERFERENCE.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cufos.org  
-   Link: <a href="https://cufos.org/PDFs/CUFOS_Associate_Newsletter/AN1_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/CUFOS_Associate_Newsletter/AN1_1.pdf</a>  
+   Link:<a href="https://cufos.org/PDFs/CUFOS_Associate_Newsletter/AN1_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/CUFOS_Associate_Newsletter/AN1_1.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cufos.org  
-   Link: <a href="https://cufos.org/PDFs/JUFOS/1980_OS_vol2_JUFOS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/JUFOS/1980_OS_vol2_JUFOS.pdf</a>  
+   Link:<a href="https://cufos.org/PDFs/JUFOS/1980_OS_vol2_JUFOS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/JUFOS/1980_OS_vol2_JUFOS.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ufocat.com  
-   Link: <a href="https://ufocat.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufocat.com/</a>  
+   Link:<a href="https://ufocat.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufocat.com/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: colorado.edu  
-   Link: <a href="https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study" target="_blank" rel="noopener noreferrer nofollow">https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study</a>  
+   Link:<a href="https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study" target="_blank" rel="noopener noreferrer nofollow">https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/sites/default/files/UFO_Waves.__An_International_Bibliography__November__1___2015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/UFO_Waves.__An_International_Bibliography__November__1___2015.pdf</a>  
+   Link:<a href="https://www.cnes-geipan.fr/sites/default/files/UFO_Waves.__An_International_Bibliography__November__1___2015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/UFO_Waves.__An_International_Bibliography__November__1___2015.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://ufologie.patrickgross.org/htm/saundersefur.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/saundersefur.htm</a>  
+   Link:<a href="https://ufologie.patrickgross.org/htm/saundersefur.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/saundersefur.htm</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://ufologie.patrickgross.org/bio/saunders.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/bio/saunders.htm</a>  
+   Link:<a href="https://ufologie.patrickgross.org/bio/saunders.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/bio/saunders.htm</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Center for UFO Studies  
-   Link: <a href="https://en.wikipedia.org/wiki/Center_for_UFO_Studies" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Center_for_UFO_Studies</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Center_for_UFO_Studies" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Center_for_UFO_Studies</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Condon Committee  
-   Link: <a href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Condon_Committee</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Condon_Committee</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/1296963" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/1296963</a>  
+   Link:<a href="https://www.jstor.org/stable/1296963" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/1296963</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/1725090" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/1725090</a>  
+   Link:<a href="https://www.jstor.org/stable/1725090" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/1725090</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/science-and-technology/technology/aviation-general/ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science-and-technology/technology/aviation-general/ufo</a>  
+   Link:<a href="https://www.encyclopedia.com/science-and-technology/technology/aviation-general/ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science-and-technology/technology/aviation-general/ufo</a>  
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: UFO & UAP “Need to Know” News Documentary with Coulthart & Zabel  
-   Link: <a href="https://www.youtube.com/watch?v=pSZUBulON6I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pSZUBulON6I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. David Saunders and the University of Colorado UFO Project History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=pSZUBulON6I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pSZUBulON6I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. David Saunders and the University of Colorado UFO Project History...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Dr. David Saunders and the University of Colorado UFO Project History  
-   Link: <a href="https://www.youtube.com/watch?v=8R34a9_sRKQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8R34a9_sRKQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project [Blue Book](&amp;#123;&amp;#123; &#x27;blue-book/&#x27; | relative_url &amp;#125;&amp;#125;) Archive Files and Database Anomalies...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8R34a9_sRKQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8R34a9_sRKQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project [Blue Book](&amp;#123;&amp;#123; &#x27;blue-book/&#x27; | relative_url &amp;#125;&amp;#125;) Archive Files and Database Anomalies...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010008-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010008-3.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010008-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010008-3.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0000042346.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000042346.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/DOC_0000042346.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000042346.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: Exploring the Center for UFO Studies Historical Records  
-   Link: <a href="https://www.youtube.com/watch?v=E-b0LwW0I6Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E-b0LwW0I6Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific Principles of UAP Data Collection and Duplicate Traps...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=E-b0LwW0I6Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E-b0LwW0I6Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific Principles of UAP Data Collection and Duplicate Traps...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: Project Blue Book Archive Files and Database Anomalies  
-   Link: <a href="https://www.youtube.com/watch?v=k_F9RscL25o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k_F9RscL25o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the Center for UFO Studies Historical Records...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=k_F9RscL25o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k_F9RscL25o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the Center for UFO Studies Historical Records...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories</a>  
+   Link:<a href="https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography</a>  
+   Link:<a href="https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/252518312_Time-Series_Analysis_of_a_Catalog_of_UFO_Events_Evidence_of_a_Local-Sidereal-Time_Modulation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/252518312_Time-Series_Analysis_of_a_Catalog_of_UFO_Events_Evidence_of_a_Local-Sidereal-Time_Modulation</a>  
+   Link:<a href="https://www.researchgate.net/publication/252518312_Time-Series_Analysis_of_a_Catalog_of_UFO_Events_Evidence_of_a_Local-Sidereal-Time_Modulation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/252518312_Time-Series_Analysis_of_a_Catalog_of_UFO_Events_Evidence_of_a_Local-Sidereal-Time_Modulation</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: ufo-com.net  
-   Link: <a href="https://www.ufo-com.net/_pics/vik_gajd/vallee_sysclassif.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/_pics/vik_gajd/vallee_sysclassif.pdf</a>
+   Link:<a href="https://www.ufo-com.net/_pics/vik_gajd/vallee_sysclassif.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/_pics/vik_gajd/vallee_sysclassif.pdf</a>

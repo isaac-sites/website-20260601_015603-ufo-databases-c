@@ -317,194 +317,194 @@ Taken together, these patterns demonstrate that many reports in the UK Ministry 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DxgqN13k4D4" title="UFO file release May 2008 Part 3 (audio with slides)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DxgqN13k4D4" target="_blank" rel="noopener noreferrer">UFO file release May 2008 Part 3 (audio with slides)</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 5.2K &middot; Uploaded: June 2008 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DxgqN13k4D4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DxgqN13k4D4">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Ordinary Objects Behind UK UFO Sightings. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Ordinary Objects Behind UK UFO Sightings. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Covers the study of misidentifications and methodology for evaluating sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers the study of misidentifications and methodology for evaluating sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Evidence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Gic3gcQysOsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Evidence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Evidence">The UFO Evidence</a>
-        </h4>
-        <p class="fr-book-author">By Richard H. Hall</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Evidence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Gic3gcQysOsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Evidence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Evidence">The UFO Evidence</a>
+</h4>
+<p class="fr-book-author">By Richard H. Hall</p>
         
-        <p class="fr-book-desc">Analyzes long-term trends including misidentifications and false positives in UFO reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Analyzes long-term trends including misidentifications and false positives in UFO reporting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explains misidentifications, the importance of analysis, and evaluation of ordinary objects misreported as UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains misidentifications, the importance of analysis, and evaluation of ordinary objects misreported as UFOs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
         
-        <p class="fr-book-desc">First published 2011.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Evidence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Evidence</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Evidence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Evidence</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &quot;Aliens Making Crop Circles&quot; Archival Print Poster 12&quot;x18&quot; Area 51 Roswell UFO"><img src="{{ '/assets/images/marketplace-covers/30ae8deb125b36083056.jpg' | relative_url }}" alt="Listing image for &quot;Aliens Making Crop Circles&quot; Archival Print Poster 12&quot;x18&quot; Area 51 Roswell UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book" target="_blank" rel="sponsored noopener noreferrer">&quot;Aliens Making Crop Circles&quot; Archival Print Poster 12&quot;x18&quot; Area 51 Roswell UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo archival print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo archival print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &quot;Aliens Making Crop Circles&quot; Archival Print Poster 12&quot;x18&quot; Area 51 Roswell UFO"><img src="{{ '/assets/images/marketplace-covers/30ae8deb125b36083056.jpg' | relative_url }}" alt="Listing image for &quot;Aliens Making Crop Circles&quot; Archival Print Poster 12&quot;x18&quot; Area 51 Roswell UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book" target="_blank" rel="sponsored noopener noreferrer">&quot;Aliens Making Crop Circles&quot; Archival Print Poster 12&quot;x18&quot; Area 51 Roswell UFO</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo archival print">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo archival print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gregg Louis, Everyday UFO No 17, Archival Digital Print"><img src="{{ '/assets/images/marketplace-covers/ec19cb68a6c45bde4c05.jpg' | relative_url }}" alt="Listing image for Gregg Louis, Everyday UFO No 17, Archival Digital Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book" target="_blank" rel="sponsored noopener noreferrer">Gregg Louis, Everyday UFO No 17, Archival Digital Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo archival print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo archival print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gregg Louis, Everyday UFO No 17, Archival Digital Print"><img src="{{ '/assets/images/marketplace-covers/ec19cb68a6c45bde4c05.jpg' | relative_url }}" alt="Listing image for Gregg Louis, Everyday UFO No 17, Archival Digital Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book" target="_blank" rel="sponsored noopener noreferrer">Gregg Louis, Everyday UFO No 17, Archival Digital Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo archival print">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo archival print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gregg Louis, Everyday UFO No 17, Archival Digital Print"><img src="{{ '/assets/images/marketplace-covers/ec19cb68a6c45bde4c05.jpg' | relative_url }}" alt="Listing image for Gregg Louis, Everyday UFO No 17, Archival Digital Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book" target="_blank" rel="sponsored noopener noreferrer">Gregg Louis, Everyday UFO No 17, Archival Digital Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo archival print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo archival print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gregg Louis, Everyday UFO No 17, Archival Digital Print"><img src="{{ '/assets/images/marketplace-covers/ec19cb68a6c45bde4c05.jpg' | relative_url }}" alt="Listing image for Gregg Louis, Everyday UFO No 17, Archival Digital Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book" target="_blank" rel="sponsored noopener noreferrer">Gregg Louis, Everyday UFO No 17, Archival Digital Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo archival print">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo archival print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gregg Louis, Everyday UFO No 14, Archival Digital Print"><img src="{{ '/assets/images/marketplace-covers/590fd64d49f16a07b8a7.jpg' | relative_url }}" alt="Listing image for Gregg Louis, Everyday UFO No 14, Archival Digital Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book" target="_blank" rel="sponsored noopener noreferrer">Gregg Louis, Everyday UFO No 14, Archival Digital Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo archival print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo archival print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gregg Louis, Everyday UFO No 14, Archival Digital Print"><img src="{{ '/assets/images/marketplace-covers/590fd64d49f16a07b8a7.jpg' | relative_url }}" alt="Listing image for Gregg Louis, Everyday UFO No 14, Archival Digital Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book" target="_blank" rel="sponsored noopener noreferrer">Gregg Louis, Everyday UFO No 14, Archival Digital Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo archival print">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo archival print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+archival+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo archival print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="misidentified-reports-ordinary-objects-behind-uk-ufo-sightings-ufo-report-databases-and-catalogu-ufo-archival-print-book" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -520,7 +520,7 @@ Taken together, these patterns demonstrate that many reports in the UK Ministry 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -540,7 +540,7 @@ Taken together, these patterns demonstrate that many reports in the UK Ministry 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -572,7 +572,7 @@ Taken together, these patterns demonstrate that many reports in the UK Ministry 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -624,7 +624,7 @@ Taken together, these patterns demonstrate that many reports in the UK Ministry 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -669,7 +669,7 @@ Taken together, these patterns demonstrate that many reports in the UK Ministry 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -710,126 +710,126 @@ Taken together, these patterns demonstrate that many reports in the UK Ministry 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: UFO sightings in the United Kingdom  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: independent.co.uk  
    Title: Secret Mo D files reveal UFOs went to the top  
-   Link: <a href="https://www.independent.co.uk/news/uk/politics/secret-mod-files-reveal-ufos-went-to-the-top-1773100.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/politics/secret-mod-files-reveal-ufos-went-to-the-top-1773100.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Secret MoD files reveal UFOs went to the topAugust 17, 2009 — 17 Aug 2009 — The files contain UFO reports of 800 sightings between Januar...</p></details>
+   Link:<a href="https://www.independent.co.uk/news/uk/politics/secret-mod-files-reveal-ufos-went-to-the-top-1773100.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/politics/secret-mod-files-reveal-ufos-went-to-the-top-1773100.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Secret MoD files reveal UFOs went to the topAugust 17, 2009 — 17 Aug 2009 — The files contain UFO reports of 800 sightings between Januar...</p></details>
    Published: August 17, 2009  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Desk: Why MoD Shut Real-Life X-Files | UK News | Sky NewsJune 20, 2013 — UFO DESK: WHY MOD SHUT REAL-LIFE X-FILES The Ministry of Defence...</p></details>
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Desk: Why MoD Shut Real-Life X-Files | UK News | Sky NewsJune 20, 2013 — UFO DESK: WHY MOD SHUT REAL-LIFE X-FILES The Ministry of Defence...</p></details>
    Published: June 20, 2013  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: independent.co.uk  
-   Link: <a href="https://www.independent.co.uk/news/uk/home-news/revealed-eerie-ufo-sightings-recorded-in-mod-files-1903251.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/home-news/revealed-eerie-ufo-sightings-recorded-in-mod-files-1903251.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Revealed: eerie UFO sightings recorded in MoD files | The Independent | The IndependentFebruary 18, 2010 — REVEALED: EERIE UFO SIGHTINGS...</p></details>
+   Link:<a href="https://www.independent.co.uk/news/uk/home-news/revealed-eerie-ufo-sightings-recorded-in-mod-files-1903251.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/home-news/revealed-eerie-ufo-sightings-recorded-in-mod-files-1903251.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Revealed: eerie UFO sightings recorded in MoD files | The Independent | The IndependentFebruary 18, 2010 — REVEALED: EERIE UFO SIGHTINGS...</p></details>
    Published: February 18, 2010  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: independent.co.uk  
-   Link: <a href="https://www.independent.co.uk/news/uk/politics/ufo-secret-records-show-there-were-almost-1-200-mysterious-sightings-between-1987-and-1993-1651408.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/politics/ufo-secret-records-show-there-were-almost-1-200-mysterious-sightings-between-1987-and-1993-1651408.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO: Secret records show there were almost 1,200 mysterious sightings between 1987 and 1993 | The Independent | The IndependentMarch 22...</p></details>
+   Link:<a href="https://www.independent.co.uk/news/uk/politics/ufo-secret-records-show-there-were-almost-1-200-mysterious-sightings-between-1987-and-1993-1651408.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/politics/ufo-secret-records-show-there-were-almost-1-200-mysterious-sightings-between-1987-and-1993-1651408.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO: Secret records show there were almost 1,200 mysterious sightings between 1987 and 1993 | The Independent | The IndependentMarch 22...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nationalarchives.gov.uk  
    Title: The National Archives UFO reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reports - The National Archives...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reports - The National Archives...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesHighlights GuideDozens of sightings of a brightly illuminated oval object were reported over London, caused by what was...</p></details>
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesHighlights GuideDozens of sightings of a brightly illuminated oval object were reported over London, caused by what was...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: media.nationalarchives.gov.uk  
    Title: nationalarchives.gov.uk The Cold War and UFOs | The National Archives  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/cold-war-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/cold-war-ufos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This was not reported to the MOD UFO Desk. This was seen as a near-miss not a UFO, and reported to the CAA, the Civil Aviation A...</p></details>
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/cold-war-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/cold-war-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This was not reported to the MOD UFO Desk. This was seen as a near-miss not a UFO, and reported to the CAA, the Civil Aviation A...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>files at The National Archives | The National ArchivesMay 1, 2018 — UFO FILES AT THE NATIONAL ARCHIVES Tuesday 1 May 2018 | Dr David Clar...</p></details>
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>files at The National Archives | The National ArchivesMay 1, 2018 — UFO FILES AT THE NATIONAL ARCHIVES Tuesday 1 May 2018 | Dr David Clar...</p></details>
    Published: May 1, 2018  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOS This is a brief guide to researching records of UFOs. The surviving records consist mainly of documents relating to official policy...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOS This is a brief guide to researching records of UFOs. The surviving records consist mainly of documents relating to official policy...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ufotransparency.com  
-   Link: <a href="https://ufotransparency.com/files/intl-uk-project-condign-volume-1-uap-vol1-pgs35to55-ch3a" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-uk-project-condign-volume-1-uap-vol1-pgs35to55-ch3a</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Summary, Chapters 1–5, Annexes A–F), UK Ministry of Defence / Defence Intelligence Staff (DI55) · 2006 · UFO TransparencyMay 15, 2006 — A...</p></details>
+   Link:<a href="https://ufotransparency.com/files/intl-uk-project-condign-volume-1-uap-vol1-pgs35to55-ch3a" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-uk-project-condign-volume-1-uap-vol1-pgs35to55-ch3a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Summary, Chapters 1–5, Annexes A–F), UK Ministry of Defence / Defence Intelligence Staff (DI55) · 2006 · UFO TransparencyMay 15, 2006 — A...</p></details>
    Published: May 15, 2006  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: the-independent.com  
-   Link: <a href="https://www.the-independent.com/news/uk/politics/uncovered-at-last-the-sightings-of-strange-flying-objects-found-in-britain-s-xfiles-487828.html" target="_blank" rel="noopener noreferrer nofollow">https://www.the-independent.com/news/uk/politics/uncovered-at-last-the-sightings-of-strange-flying-objects-found-in-britain-s-xfiles-487828.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 21, 2005 — UNCOVERED AT LAST: THE SIGHTINGS OF STRANGE FLYING OBJECTS FOUND IN BRITAIN&#x27;S &#x27;X-FILES&#x27; Robert Verkaik Friday 21 Janua...</p></details>
+   Link:<a href="https://www.the-independent.com/news/uk/politics/uncovered-at-last-the-sightings-of-strange-flying-objects-found-in-britain-s-xfiles-487828.html" target="_blank" rel="noopener noreferrer nofollow">https://www.the-independent.com/news/uk/politics/uncovered-at-last-the-sightings-of-strange-flying-objects-found-in-britain-s-xfiles-487828.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 21, 2005 — UNCOVERED AT LAST: THE SIGHTINGS OF STRANGE FLYING OBJECTS FOUND IN BRITAIN&#x27;S &#x27;X-FILES&#x27; Robert Verkaik Friday 21 Janua...</p></details>
    Published: January 21, 2005  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MoD&#x27;s latest UFO files reveal saucerful of secrets | National Archives | The GuardianAugust 16, 2009 — This article is more than 16 years...</p></details>
+   Link:<a href="https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MoD&#x27;s latest UFO files reveal saucerful of secrets | National Archives | The GuardianAugust 16, 2009 — This article is more than 16 years...</p></details>
    Published: August 16, 2009  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: strangeattractor.co.uk  
    Title: You can get them here, along with an accompanying research guide by D  
-   Link: <a href="https://strangeattractor.co.uk/news/mod-ufo-files-released/" target="_blank" rel="noopener noreferrer nofollow">https://strangeattractor.co.uk/news/mod-ufo-files-released/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MOD UFO files released - Strange AttractorMay 14, 2008 — MOD UFO FILES RELEASED The British Ministry of Defence has made public the first...</p></details>
+   Link:<a href="https://strangeattractor.co.uk/news/mod-ufo-files-released/" target="_blank" rel="noopener noreferrer nofollow">https://strangeattractor.co.uk/news/mod-ufo-files-released/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MOD UFO files released - Strange AttractorMay 14, 2008 — MOD UFO FILES RELEASED The British Ministry of Defence has made public the first...</p></details>
    Published: May 14, 2008  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: theguardian.com  
    Title: Alien nation: Mo D releases final UFO files | Ministry of Defence | The Guardian  
-   Link: <a href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Photograph: National Archives/PA A letter from a schoolchild in Altrincham, released with the MoD&#x27;s UFO files. Photograp...</p></details>
+   Link:<a href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Photograph: National Archives/PA A letter from a schoolchild in Altrincham, released with the MoD&#x27;s UFO files. Photograp...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: theguardian.com  
    Title: New UFO secrets are revealed in Mo D files | UK news | The Guardian  
-   Link: <a href="https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New UFO secrets are revealed in MoD files | UK news | The GuardianMarch 21, 2009 — This article is more than 17 years old NEW UFO SECRETS...</p></details>
+   Link:<a href="https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/mar/22/ufos-aliens-di55-mod</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New UFO secrets are revealed in MoD files | UK news | The GuardianMarch 21, 2009 — This article is more than 17 years old NEW UFO SECRETS...</p></details>
    Published: March 21, 2009  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: yourexpertwitness.co.uk  
-   Link: <a href="https://www.yourexpertwitness.co.uk/expert-witness-home/legal-news/15-expert-witness-legal-news/154-files-detailing-mysterious-sightings-of-ufos-are-released-by-mod" target="_blank" rel="noopener noreferrer nofollow">https://www.yourexpertwitness.co.uk/expert-witness-home/legal-news/15-expert-witness-legal-news/154-files-detailing-mysterious-sightings-of-ufos-are-released-by-mod</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The drawing of a mystery object in 1995 is just one of a host of sightings made public today.Read more...</p></details>
+   Link:<a href="https://www.yourexpertwitness.co.uk/expert-witness-home/legal-news/15-expert-witness-legal-news/154-files-detailing-mysterious-sightings-of-ufos-are-released-by-mod" target="_blank" rel="noopener noreferrer nofollow">https://www.yourexpertwitness.co.uk/expert-witness-home/legal-news/15-expert-witness-legal-news/154-files-detailing-mysterious-sightings-of-ufos-are-released-by-mod</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The drawing of a mystery object in 1995 is just one of a host of sightings made public today.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: defenceweb.co.za  
    Title: U K Government releases UFO sighting and policy files  
-   Link: <a href="https://defenceweb.co.za/governance/governance-governance/uk-government-releases-ufo-sighting-and-policy-files/" target="_blank" rel="noopener noreferrer nofollow">https://defenceweb.co.za/governance/governance-governance/uk-government-releases-ufo-sighting-and-policy-files/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Government releases UFO sighting and policy files - DefenceWebMarch 3, 2011 — Governance UK GOVERNMENT RELEASES UFO SIGHTING AND POLIC...</p></details>
+   Link:<a href="https://defenceweb.co.za/governance/governance-governance/uk-government-releases-ufo-sighting-and-policy-files/" target="_blank" rel="noopener noreferrer nofollow">https://defenceweb.co.za/governance/governance-governance/uk-government-releases-ufo-sighting-and-policy-files/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Government releases UFO sighting and policy files - DefenceWebMarch 3, 2011 — Governance UK GOVERNMENT RELEASES UFO SIGHTING AND POLIC...</p></details>
    Published: March 3, 2011  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: time.com  
    Title: britain releases its x files  
-   Link: <a href="https://time.com/archive/6943352/britain-releases-its-x-files/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6943352/britain-releases-its-x-files/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Britain Releases its X-Files13 May 2008 — This week Britain&#x27;s Ministry of Defence (MoD) begins releasing all its files about UFOs — in mi...</p></details>
+   Link:<a href="https://time.com/archive/6943352/britain-releases-its-x-files/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6943352/britain-releases-its-x-files/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Britain Releases its X-Files13 May 2008 — This week Britain&#x27;s Ministry of Defence (MoD) begins releasing all its files about UFOs — in mi...</p></details>
    Published: May 2008  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: api.parliament.uk  
    Title: unidentified flying objects  
-   Link: <a href="https://api.parliament.uk/historic-hansard/lords/1979/jan/18/unidentified-flying-objects" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/lords/1979/jan/18/unidentified-flying-objects</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FLYING OBJECTS (Hansard, 18 January 1979)18 Jan 1979 — It is true that when people ask to see the Ministry of Defence UFO files they are...</p></details>
+   Link:<a href="https://api.parliament.uk/historic-hansard/lords/1979/jan/18/unidentified-flying-objects" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/lords/1979/jan/18/unidentified-flying-objects</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FLYING OBJECTS (Hansard, 18 January 1979)18 Jan 1979 — It is true that when people ask to see the Ministry of Defence UFO files they are...</p></details>
    Published: January 1979

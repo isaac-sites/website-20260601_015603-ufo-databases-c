@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-report-databases-8352a3-sighting/
 description: Focused pages that expand on Clusters.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49
 parent_title: Clusters
@@ -16,7 +16,7 @@ parent_permalink: /clusters/
 
 # Explore Topics in Clusters
 
-The following pages expand on the main **[Clusters]({{ '/clusters/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Clusters]({{ '/clusters/' | relative_url }})** page and cover its key branches in.
 
 - [Air Traffic]({{ '/air-traffic/' | relative_url }})
 - [Weather Patterns]({{ '/weather-patterns/' | relative_url }})

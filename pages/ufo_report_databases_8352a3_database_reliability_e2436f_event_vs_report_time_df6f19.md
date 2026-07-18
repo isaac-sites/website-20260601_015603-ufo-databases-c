@@ -286,9 +286,9 @@ A UFO database often has at least two relevant time fields:
 
 These can diverge for several reasons:
 
-**Reporting Lag:** Many witnesses do not submit their sightings immediately. A statistical study of 80,000+ UFO reports from the National UFO Reporting Center ([NUFORC]({{ 'nuforc/' | relative_url }})) database found that the **time lag between sighting and reporting varies widely** and shows behavioural patterns among reporters, including a detectable tendency to report within a certain window of time after the sighting rather than immediately. The research identified a sort of “critical reporting lag” around tens of days after the contact, suggesting non‑random delays in when people choose to report what they saw. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect On the dynamics of reporting data: A case study of UFO sightings</span><span class="citation-popover-snippet">On the dynamics of reporting data: A case study of UFO sightings - ScienceDirectOctober 1, 2022...</span><span class="citation-popover-meta">Published: October 1, 2022</span></span></span>
+**Reporting Lag:** Many witnesses do not submit their sightings immediately. A statistical study of 80,000+ UFO reports from the National UFO Reporting Center ([NUFORC]({{ 'nuforc/' | relative_url }})) database found that the **time lag between sighting and reporting varies widely** and shows behavioural patterns among reporters, including a detectable tendency to report within a certain window of time after the sighting rather than immediately. The research identified a sort of “critical reporting lag” around tens of days after the contact, suggesting non‑random delays in when people choose to report what they saw.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect On the dynamics of reporting data: A case study of UFO sightings</span><span class="citation-popover-snippet">On the dynamics of reporting data: A case study of UFO sightings - ScienceDirectOctober 1, 2022...</span><span class="citation-popover-meta">Published: October 1, 2022</span></span></span>
 
-**Date Rounding and Memory Biases:** Human memory and reporting habits shape dates in catalogues. The same study noted that observers often prefer “round” times and dates in their accounts—such as on the hour or on round calendar dates—rather than the exact minute they recall. This indicates some entries are shaped by recall bias rather than precise event timing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect On the dynamics of reporting data: A case study of UFO sightings</span><span class="citation-popover-snippet">On the dynamics of reporting data: A case study of UFO sightings - ScienceDirectOctober 1, 2022...</span><span class="citation-popover-meta">Published: October 1, 2022</span></span></span>
+**Date Rounding and Memory Biases:** Human memory and reporting habits shape dates in catalogues. The same study noted that observers often prefer “round” times and dates in their accounts—such as on the hour or on round calendar dates—rather than the exact minute they recall. This indicates some entries are shaped by recall bias rather than precise event timing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect On the dynamics of reporting data: A case study of UFO sightings</span><span class="citation-popover-snippet">On the dynamics of reporting data: A case study of UFO sightings - ScienceDirectOctober 1, 2022...</span><span class="citation-popover-meta">Published: October 1, 2022</span></span></span>
 
 **Data Publication Delay:** Even after submission, some datasets may not be uploaded or posted until later, leading to artificial clustering on publication dates (for instance, when a backlog is processed), which further separates public “report time” from event time.
 
@@ -300,11 +300,11 @@ When researchers plot **report frequency by report date**, these lags and biases
 
 Human behaviour around reporting is highly sensitive to **external triggers**:
 
-**Media Influence:** Sightings and reporting rates often increase around periods of intense media coverage. A study focusing on UFO report dynamics noted that the number of new report submissions shows sensitivity to broadcasting events: when UFO news or discussions are prominent in media, people are more likely to notice and then submit reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect On the dynamics of reporting data: A case study of UFO sightings</span><span class="citation-popover-snippet">On the dynamics of reporting data: A case study of UFO sightings - ScienceDirectOctober 1, 2022...</span><span class="citation-popover-meta">Published: October 1, 2022</span></span></span>
+**Media Influence:** Sightings and reporting rates often increase around periods of intense media coverage. A study focusing on UFO report dynamics noted that the number of new report submissions shows sensitivity to broadcasting events: when UFO news or discussions are prominent in media, people are more likely to notice and then submit reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect On the dynamics of reporting data: A case study of UFO sightings</span><span class="citation-popover-snippet">On the dynamics of reporting data: A case study of UFO sightings - ScienceDirectOctober 1, 2022...</span><span class="citation-popover-meta">Published: October 1, 2022</span></span></span>
 
 This pattern isn’t unique to UFO reports. Epidemiology studies, for example, show that disease reports peak when awareness campaigns run—even if the underlying incidence doesn’t change—because more people seek diagnosis or file reports. The same mechanism applies to UFO data: heightened publicity *primes* observers to look at the sky and then to report what they see, inflating counts around the period of media attention.
 
-**Daylight and Leisure Time:** In addition to media, basic social patterns influence reporting. Analyses of public UFO sightings show that most reports cluster during evening and nighttime hours—when people are free from work and more likely to look up at the sky—and during weekends and summer months, when outdoor activity is more common. These patterns track human visibility and leisure behaviour rather than fluctuations in actual aerial phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://newspaceeconomy.ca/2025/09/24/the-uap-phenomenon-a-statistical-inquiry/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newspaceeconomy.ca">[New Space Economy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newspaceeconomy.ca</span><span class="citation-popover-title">New Space Economy The UAP Phenomenon: A Statistical Inquiry</span><span class="citation-popover-snippet">New Space EconomyThe UAP Phenomenon: A Statistical Inquiry - New Space EconomyMay 22, 2026...</span><span class="citation-popover-meta">Published: May 22, 2026</span></span></span>
+**Daylight and Leisure Time:** In addition to media, basic social patterns influence reporting. Analyses of public UFO sightings show that most reports cluster during evening and nighttime hours—when people are free from work and more likely to look up at the sky—and during weekends and summer months, when outdoor activity is more common. These patterns track human visibility and leisure behaviour rather than fluctuations in actual aerial phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://newspaceeconomy.ca/2025/09/24/the-uap-phenomenon-a-statistical-inquiry/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newspaceeconomy.ca">[New Space Economy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newspaceeconomy.ca</span><span class="citation-popover-title">New Space Economy The UAP Phenomenon: A Statistical Inquiry</span><span class="citation-popover-snippet">New Space EconomyThe UAP Phenomenon: A Statistical Inquiry - New Space EconomyMay 22, 2026...</span><span class="citation-popover-meta">Published: May 22, 2026</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_event_vs_report_time_df6f19-Illustration-2-dark.svg" | relative_url }}" alt="Report Timing illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_event_vs_report_time_df6f19-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_event_vs_report_time_df6f19-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Practical Implications for Data Quality
@@ -328,194 +328,194 @@ A spike in UFO reports **often reflects reporting behaviour** as much as, or mor
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_event_vs_report_time_df6f19-Illustration-3-dark.svg" | relative_url }}" alt="Report Timing illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_event_vs_report_time_df6f19-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_event_vs_report_time_df6f19-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Are UFO Spikes Events or Reporting Surges?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Are UFO Spikes Events or Reporting Surges?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Discusses UFO reports as investigable cases, supporting distinctions between observation, report, and interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses UFO reports as investigable cases, supporting distinctions between observation, report, and interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides UFO case context where event timing, official reports, and witness accounts must be distinguished.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides UFO case context where event timing, official reports, and witness accounts must be distinguished.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ckOQEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-        </h4>
-        <p class="fr-book-author">By Nate Silver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ckOQEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+</h4>
+<p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Helps readers think about signal, noise, timing artefacts, and misleading spikes in large datasets.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers think about signal, noise, timing artefacts, and misleading spikes in large datasets.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
-        </h4>
-        <p class="fr-book-author">By Darrell Huff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
+</h4>
+<p class="fr-book-author">By Darrell Huff</p>
         
-        <p class="fr-book-desc">Useful for understanding how report spikes can be misread when counting and timing fields are confused.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how report spikes can be misread when counting and timing fields are confused.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="report-timing-are-ufo-spikes-events-or-reporting-surges-ufo-report-databases-and-catalogues-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -531,7 +531,7 @@ A spike in UFO reports **often reflects reporting behaviour** as much as, or mor
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -551,7 +551,7 @@ A spike in UFO reports **often reflects reporting behaviour** as much as, or mor
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -583,7 +583,7 @@ A spike in UFO reports **often reflects reporting behaviour** as much as, or mor
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -635,7 +635,7 @@ A spike in UFO reports **often reflects reporting behaviour** as much as, or mor
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -680,7 +680,7 @@ A spike in UFO reports **often reflects reporting behaviour** as much as, or mor
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -721,85 +721,85 @@ A spike in UFO reports **often reflects reporting behaviour** as much as, or mor
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect On the dynamics of reporting data: A case study of UFO sightings  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>On the dynamics of reporting data: A case study of UFO sightings - ScienceDirectOctober 1, 2022...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On the dynamics of reporting data: A case study of UFO sightings - ScienceDirectOctober 1, 2022...</p></details>
    Published: October 1, 2022  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
    Title: On the dynamics of reporting data: A case study of UFO sightings  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0378437122005295</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>October 1, 2022 — PHYSICA A: STATISTICAL MECHANICS AND ITS APPLICATIONS Volume 603, 1 October 2022, 127807 ON THE DYNAMICS O...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0378437122005295</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 1, 2022 — PHYSICA A: STATISTICAL MECHANICS AND ITS APPLICATIONS Volume 603, 1 October 2022, 127807 ON THE DYNAMICS O...</p></details>
    Published: October 1, 2022  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: newspaceeconomy.ca  
    Title: New Space Economy The UAP Phenomenon: A Statistical Inquiry  
-   Link: <a href="https://newspaceeconomy.ca/2025/09/24/the-uap-phenomenon-a-statistical-inquiry/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/09/24/the-uap-phenomenon-a-statistical-inquiry/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>New Space EconomyThe UAP Phenomenon: A Statistical Inquiry - New Space EconomyMay 22, 2026...</p></details>
+   Link:<a href="https://newspaceeconomy.ca/2025/09/24/the-uap-phenomenon-a-statistical-inquiry/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/09/24/the-uap-phenomenon-a-statistical-inquiry/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Space EconomyThe UAP Phenomenon: A Statistical Inquiry - New Space EconomyMay 22, 2026...</p></details>
    Published: May 22, 2026  
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-49527-x</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>December 14, 2023 — An environmental analysis of public UAP sightings and sky view potential Download PDF Download PDF * Article * Open a...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-49527-x</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 14, 2023 — An environmental analysis of public UAP sightings and sky view potential Download PDF Download PDF * Article * Open a...</p></details>
    Published: December 14, 2023  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ada-nuforc-analysis.github.io  
-   Link: <a href="https://ada-nuforc-analysis.github.io/UFO.html" target="_blank" rel="noopener noreferrer nofollow">https://ada-nuforc-analysis.github.io/UFO.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOANALYSIS¶ TIME OF OCCURRENCE¶ CAN THE REPORTS BE EXPLAINED?¶ A reports submission splits into three parts, &#x27;Occurred&#x27; when the UFO sig...</p></details>
+   Link:<a href="https://ada-nuforc-analysis.github.io/UFO.html" target="_blank" rel="noopener noreferrer nofollow">https://ada-nuforc-analysis.github.io/UFO.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOANALYSIS¶ TIME OF OCCURRENCE¶ CAN THE REPORTS BE EXPLAINED?¶ A reports submission splits into three parts, &#x27;Occurred&#x27; when the UFO sig...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: complex.pfi.uem.br  
-   Link: <a href="https://complex.pfi.uem.br/publication/2022/on-the-dynamics-of-reporting-data-a-case-study-of-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://complex.pfi.uem.br/publication/2022/on-the-dynamics-of-reporting-data-a-case-study-of-ufo-sightings/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>J. Antonio, A. S. Itami, F. F. Dalmedico, F. S. Mendes, Physica A 603, 127807 (2022). PDF Cite DOI Image ABSTRACT There are a...</p></details>
+   Link:<a href="https://complex.pfi.uem.br/publication/2022/on-the-dynamics-of-reporting-data-a-case-study-of-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://complex.pfi.uem.br/publication/2022/on-the-dynamics-of-reporting-data-a-case-study-of-ufo-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>J. Antonio, A. S. Itami, F. F. Dalmedico, F. S. Mendes, Physica A 603, 127807 (2022). PDF Cite DOI Image ABSTRACT There are a...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: astronomy.com  
    Title: But the public is growing increasingly confused by ordinary object  
-   Link: <a href="https://www.astronomy.com/science/reports-of-rising-ufo-sightings-are-greatly-exaggerated/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/science/reports-of-rising-ufo-sightings-are-greatly-exaggerated/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reports of rising UFO sightings are greatly exaggeratedOctober 2, 2020 — REPORTS OF RISING UFO SIGHTINGS ARE GREATLY EXAGGERATED The pand...</p></details>
+   Link:<a href="https://www.astronomy.com/science/reports-of-rising-ufo-sightings-are-greatly-exaggerated/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/science/reports-of-rising-ufo-sightings-are-greatly-exaggerated/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reports of rising UFO sightings are greatly exaggeratedOctober 2, 2020 — REPORTS OF RISING UFO SIGHTINGS ARE GREATLY EXAGGERATED The pand...</p></details>
    Published: October 2, 2020  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: journalofscientificexploration.org  
    Title: Modeling the Law of Times | Journal of Scientific Exploration  
-   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/797" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/797</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>29 No. 2, Research Articles Vol. 29 No. 2 MODELING THE LAW OF TIMES Research Articles Published 2015-06-06 * Julio Plaza del Olmo Julio P...</p></details>
+   Link:<a href="https://journalofscientificexploration.org/index.php/jse/article/view/797" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/797</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>29 No. 2, Research Articles Vol. 29 No. 2 MODELING THE LAW OF TIMES Research Articles Published 2015-06-06 * Julio Plaza del Olmo Julio P...</p></details>
    Published: June 6, 2015  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ovniteca.net  
    Title: dynamics reporting data case study ufo sightings  
-   Link: <a href="https://www.ovniteca.net/bibliografia/dynamics-reporting-data-case-study-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.ovniteca.net/bibliografia/dynamics-reporting-data-case-study-ufo-sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>On the dynamics of reporting data: A case study of UFO sightings | OvnitecaOvniteca Historia y actualidad de los ovnis ON THE DYNAMICS OF...</p></details>
+   Link:<a href="https://www.ovniteca.net/bibliografia/dynamics-reporting-data-case-study-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.ovniteca.net/bibliografia/dynamics-reporting-data-case-study-ufo-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On the dynamics of reporting data: A case study of UFO sightings | OvnitecaOvniteca Historia y actualidad de los ovnis ON THE DYNAMICS OF...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: philpapers.org  
    Title: Julio Plaza del Olmo, Modeling the Law of Times  
-   Link: <a href="https://philpapers.org/rec/OLMMTL" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/OLMMTL</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MODELING THE LAW OF TIMES Julio Plaza del Olmo Journal of Scientific Exploration 29 (2) (2015) Copy B IB T_{E}X ABSTRACT The La...</p></details>
+   Link:<a href="https://philpapers.org/rec/OLMMTL" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/OLMMTL</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MODELING THE LAW OF TIMES Julio Plaza del Olmo Journal of Scientific Exploration 29 (2) (2015) Copy B IB T_{E}X ABSTRACT The La...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cbsnews.com  
    Title: UF O reports spiked over the summer  
-   Link: <a href="https://www.cbsnews.com/news/ufo-reports-spiked-over-the-summer/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/ufo-reports-spiked-over-the-summer/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports spiked over the summer - CBS NewsSeptember 19, 2011 — UFO REPORTS SPIKED OVER THE SUMMER By Benjamin Radford September 19, 20...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/ufo-reports-spiked-over-the-summer/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/ufo-reports-spiked-over-the-summer/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports spiked over the summer - CBS NewsSeptember 19, 2011 — UFO REPORTS SPIKED OVER THE SUMMER By Benjamin Radford September 19, 20...</p></details>
    Published: September 19, 2011  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Let's Talk About the New UFO Files Released by The Government  
-   Link: <a href="http://www.youtube.com/watch?v=K4SiqjS28ZE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=K4SiqjS28ZE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Ufo sightings&quot; data analysis time series UFO Data Mining, Part 1: Time Series Models Cache Lack Stats...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=K4SiqjS28ZE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=K4SiqjS28ZE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Ufo sightings&quot; data analysis time series UFO Data Mining, Part 1: Time Series Models Cache Lack Stats...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=qMp6jlxC238" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=qMp6jlxC238</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I Analyzed 173,747 UFO Reports… Here’s What I Found...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=qMp6jlxC238" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=qMp6jlxC238</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I Analyzed 173,747 UFO Reports… Here’s What I Found...</p></details>

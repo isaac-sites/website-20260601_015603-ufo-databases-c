@@ -274,7 +274,7 @@ image: /assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mu
 
 ## Introduction
 
-[MUFON]({{ 'mufon/' | relative_url }}) [case files]({{ 'case-files/' | relative_url }}) are often discussed in terms of witness testimony, but the attachments submitted alongside reports can be far more revealing than the written account itself. Photographs, videos, screenshots, drawings and supporting documents may contain names, addresses, workplace information, precise locations or hidden technical data that identifies where and when a sighting occurred. This creates a significant privacy trade-off within UFO reporting: the more evidence a witness provides, the greater the possibility that personal information will accompany it. MUFON itself explicitly warns reporters that attached files may compromise anonymity and advises against including personal information in submitted materials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/cms-ifo-info/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">CMS IFO InfoAll witnesses who attach files to this report must acknowledge that by clicking the CONTINUE WITH REPORT button below, t...</span></span></span>
+[MUFON]({{ 'mufon/' | relative_url }}) [case files]({{ 'case-files/' | relative_url }}) are often discussed in terms of witness testimony, but the attachments submitted alongside reports can be far more revealing than the written account itself. Photographs, videos, screenshots, drawings and supporting documents may contain names, addresses, workplace information, precise locations or hidden technical data that identifies where and when a sighting occurred. This creates a significant privacy trade-off within UFO reporting: the more evidence a witness provides, the greater the possibility that personal information will accompany it. MUFON itself explicitly warns reporters that attached files may compromise anonymity and advises against including personal information in submitted materials.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/cms-ifo-info/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">CMS IFO InfoAll witnesses who attach files to this report must acknowledge that by clicking the CONTINUE WITH REPORT button below, t...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_attachment_pri_ac069d-Illustration-1-dark.svg" | relative_url }}" alt="Privacy risks illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_attachment_pri_ac069d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_attachment_pri_ac069d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader ecosystem of [UFO report databases and catalogues]({{ 'ufo-report-databases-and-catalogues/' | relative_url }}), attachments are therefore not merely evidence. They are also potential sources of identifiable personal data that can affect witnesses, investigators and third parties who appear in the material.
@@ -285,7 +285,7 @@ Within the broader ecosystem of [UFO report databases and catalogues]({{ 'ufo-re
 
 Many witnesses assume that removing their name from a report is enough to protect their identity. In practice, attached files often contain information that can reveal far more than the narrative itself.
 
-MUFON's reporting system specifically warns that photographs, videos, drawings and documents may contain compromising personal information and states that anonymity cannot be guaranteed when such information is included. Examples highlighted by MUFON include visible addresses, vehicle registration details, workplace identifiers and other information capable of identifying the witness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/the-scientific-method/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">The Scientific MethodAmong the parameters collected on UFO reports include: date, time, latitude, longitude, witness report, witness...</span></span></span>
+MUFON's reporting system specifically warns that photographs, videos, drawings and documents may contain compromising personal information and states that anonymity cannot be guaranteed when such information is included. Examples highlighted by MUFON include visible addresses, vehicle registration details, workplace identifiers and other information capable of identifying the witness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/the-scientific-method/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">The Scientific MethodAmong the parameters collected on UFO reports include: date, time, latitude, longitude, witness report, witness...</span></span></span>
 
 Common privacy exposures include:
 
@@ -300,13 +300,13 @@ Common privacy exposures include:
 
 </div>
 
-The risk extends beyond the person making the report. Research on image privacy has shown that individuals appearing incidentally in photographs can have their identities and movements exposed even when they were not the ones who shared the image. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2103.10851" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">March 19, 2021...</span><span class="citation-popover-meta">Published: March 19, 2021</span></span></span>
+The risk extends beyond the person making the report. Research on image privacy has shown that individuals appearing incidentally in photographs can have their identities and movements exposed even when they were not the ones who shared the image.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2103.10851" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">March 19, 2021...</span><span class="citation-popover-meta">Published: March 19, 2021</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nU4PMRrx36w" title="Congress UFO hearing explained: MUFON insider talks UAPs and whistleblowers | ChicagoNOW" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nU4PMRrx36w" target="_blank" rel="noopener noreferrer">Congress UFO hearing explained: MUFON insider talks UAPs and whistleblowers | ChicagoNOW</a></p><p class="youtube-embed-meta">Channel: FOX 32 Chicago &middot; Views: 19.9K &middot; Uploaded: September 2025 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nU4PMRrx36w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nU4PMRrx36w">Open on YouTube</a></p></div></div></div>
 
 ### Hidden metadata can be as revealing as the image
 
-A photograph can disclose information even when nothing sensitive is visible on screen. Modern smartphones and digital cameras routinely store metadata, commonly known as EXIF data, inside image files. This metadata may include the date and time a photograph was taken, device details and, in some cases, precise GPS coordinates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.canon-europe.com/pro/infobank/all-about-exif/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canon-europe.com">[Canon Europe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canon-europe.com</span><span class="citation-popover-snippet">Canon EuropeUnderstanding EXIF and metadataEXIF stands for Exchangeable Image File Format. It is a standardised way of storing useful met...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Exif" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">ExifPrivacy and security. edit. Since the Exif tag contains metadata about the photo, it can pose a privacy problem. For example, a ph...</span></span></span> The FBI has warned that geolocation data embedded in images can reveal where a person lives, works or spends time, recommending that users remove EXIF data before sharing photographs online. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fbi.gov/contact-us/field-offices/portland/news/press-releases/oregon-fbi-tech-tuesday-building-a-digital-defense-against-dangers-of-exif-data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbi.gov">[Federal Bureau of Investigation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbi.gov</span><span class="citation-popover-snippet">Federal Bureau of InvestigationBuilding a Digital Defense Against Dangers of EXIF DataNov 17, 2020 — Turn off your phone or camera&#x27;s geo...</span></span></span>
+A photograph can disclose information even when nothing sensitive is visible on screen. Modern smartphones and digital cameras routinely store metadata, commonly known as EXIF data, inside image files. This metadata may include the date and time a photograph was taken, device details and, in some cases, precise GPS coordinates.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.canon-europe.com/pro/infobank/all-about-exif/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canon-europe.com">[Canon Europe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canon-europe.com</span><span class="citation-popover-snippet">Canon EuropeUnderstanding EXIF and metadataEXIF stands for Exchangeable Image File Format. It is a standardised way of storing useful met...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Exif" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">ExifPrivacy and security. edit. Since the Exif tag contains metadata about the photo, it can pose a privacy problem. For example, a ph...</span></span></span> The FBI has warned that geolocation data embedded in images can reveal where a person lives, works or spends time, recommending that users remove EXIF data before sharing photographs online.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fbi.gov/contact-us/field-offices/portland/news/press-releases/oregon-fbi-tech-tuesday-building-a-digital-defense-against-dangers-of-exif-data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbi.gov">[Federal Bureau of Investigation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbi.gov</span><span class="citation-popover-snippet">Federal Bureau of InvestigationBuilding a Digital Defense Against Dangers of EXIF DataNov 17, 2020 — Turn off your phone or camera&#x27;s geo...</span></span></span>
 
 For UFO reports, this creates a distinctive problem. A witness may believe they are sharing only an image of an unusual object in the sky, while the file itself may disclose the exact location from which the observation was made. That information can potentially identify the witness even if the public-facing report omits their name.
 
@@ -314,13 +314,13 @@ For UFO reports, this creates a distinctive problem. A witness may believe they 
 
 ## Why Exact Locations and Metadata Matter
 
-MUFON's investigative process values precise location information because it helps reconstruct sighting conditions. The organisation states that reports may collect data including latitude and longitude as part of its effort to analyse sightings scientifically. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">Mufon&#x27;s Ufo, Et Research Tracking ToolsThe MUFON Case Management System (CMS) is a powerful tool designed to help researchers, investigat...</span></span></span>
+MUFON's investigative process values precise location information because it helps reconstruct sighting conditions. The organisation states that reports may collect data including latitude and longitude as part of its effort to analyse sightings scientifically.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">Mufon&#x27;s Ufo, Et Research Tracking ToolsThe MUFON Case Management System (CMS) is a powerful tool designed to help researchers, investigat...</span></span></span>
 
 From an investigative perspective, exact coordinates can be useful. They allow investigators to compare reports with aircraft movements, astronomical events, satellite passes and environmental conditions. However, the same information can create privacy concerns when linked to an identifiable person.
 
-In sparsely populated areas, a set of coordinates may point to a single property. Even in urban environments, combining a location with a date, time and publicly visible social-media activity can narrow the pool of potential witnesses. Privacy researchers have repeatedly demonstrated that location information is often highly identifying, even when names are removed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2103.10851" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">March 19, 2021...</span><span class="citation-popover-meta">Published: March 19, 2021</span></span></span>
+In sparsely populated areas, a set of coordinates may point to a single property. Even in urban environments, combining a location with a date, time and publicly visible social-media activity can narrow the pool of potential witnesses. Privacy researchers have repeatedly demonstrated that location information is often highly identifying, even when names are removed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2103.10851" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">March 19, 2021...</span><span class="citation-popover-meta">Published: March 19, 2021</span></span></span>
 
-A further complication is that geolocation can sometimes be inferred from image content alone. Landmarks, skylines, terrain features and other visual clues may allow viewers to identify where a photograph was taken, even if metadata has been removed. Research on photo geolocation has shown that images can sometimes be matched to locations through visual analysis without relying on embedded GPS data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2103.10851" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">March 19, 2021...</span><span class="citation-popover-meta">Published: March 19, 2021</span></span></span>
+A further complication is that geolocation can sometimes be inferred from image content alone. Landmarks, skylines, terrain features and other visual clues may allow viewers to identify where a photograph was taken, even if metadata has been removed. Research on photo geolocation has shown that images can sometimes be matched to locations through visual analysis without relying on embedded GPS data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2103.10851" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">March 19, 2021...</span><span class="citation-popover-meta">Published: March 19, 2021</span></span></span>
 
 This means that privacy risks do not disappear simply because metadata is stripped from a file.
 
@@ -329,7 +329,7 @@ This means that privacy risks do not disappear simply because metadata is stripp
 
 The privacy implications become greater when attachments are stored within a large case-management system rather than remaining in private correspondence.
 
-MUFON's Case Management System functions as a repository for witness reports and associated files, including photographs, videos, drawings and investigation materials. The organisation promotes the system as a searchable database and reports that its archive contains well over one hundred thousand witness-submitted cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slideserve.com/alcina/mufon-case-management-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slideserve.com">[SlideServe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slideserve.com</span><span class="citation-popover-title">mufon case management system</span><span class="citation-popover-snippet">MUFON Case Management System5 Sept 2014 — Allows a witness to easily REPORT their UFO Sighting to MUFON via the Internet • A RE...</span></span></span> MUFON Large repositories create several governance challenges: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/cms-ifo-info/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[mufon.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">CMS IFO InfoAll witnesses who attach files to this report must acknowledge that by clicking the CONTINUE WITH REPORT button below, t...</span></span></span>
+MUFON's Case Management System functions as a repository for witness reports and associated files, including photographs, videos, drawings and investigation materials. The organisation promotes the system as a searchable database and reports that its archive contains well over one hundred thousand witness-submitted cases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slideserve.com/alcina/mufon-case-management-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slideserve.com">[SlideServe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slideserve.com</span><span class="citation-popover-title">mufon case management system</span><span class="citation-popover-snippet">MUFON Case Management System5 Sept 2014 — Allows a witness to easily REPORT their UFO Sighting to MUFON via the Internet • A RE...</span></span></span> MUFON Large repositories create several governance challenges:<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/cms-ifo-info/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[mufon.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">CMS IFO InfoAll witnesses who attach files to this report must acknowledge that by clicking the CONTINUE WITH REPORT button below, t...</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -348,7 +348,7 @@ The issue is not necessarily malicious access. Often the concern is cumulative d
 
 The privacy risks associated with attachments help explain why UFO databases frequently restrict access to complete case files.
 
-A written sighting summary can often be shared publicly with relatively little risk. Attached media are different. Images, videos and documents may contain identifiable information, hidden metadata or details about third parties who never agreed to public disclosure. As a result, organisations may limit who can view original files, redact information before publication, or keep certain materials available only to investigators and authorised users. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">MUFON Through the AgesThe MUFON Case Management System (CMS) now holds over 140,000 witness submitted cases! 2024. The MUFON Symposium re...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">HomeRead and Search MUFON Case Management System Reports; Monthly MUFON e-Journal with Exclusive UFO Coverage; Access to The Obser...</span></span></span>
+A written sighting summary can often be shared publicly with relatively little risk. Attached media are different. Images, videos and documents may contain identifiable information, hidden metadata or details about third parties who never agreed to public disclosure. As a result, organisations may limit who can view original files, redact information before publication, or keep certain materials available only to investigators and authorised users.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">MUFON Through the AgesThe MUFON Case Management System (CMS) now holds over 140,000 witness submitted cases! 2024. The MUFON Symposium re...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">HomeRead and Search MUFON Case Management System Reports; Monthly MUFON e-Journal with Exclusive UFO Coverage; Access to The Obser...</span></span></span>
 
 This creates a recurring tension within UFO research. Greater openness can improve transparency and independent analysis, yet stronger privacy protection often requires restricting access to the most detailed evidence. The attachments that make a case more useful for investigation are frequently the same materials that create the greatest privacy concerns.
 
@@ -357,194 +357,194 @@ In that sense, attachment privacy is not a side issue within MUFON's reporting m
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_attachment_pri_ac069d-Illustration-3-dark.svg" | relative_url }}" alt="Privacy risks illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_attachment_pri_ac069d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_attachment_pri_ac069d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Can a UFO File Reveal?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Can a UFO File Reveal?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Strong fit for case files, investigation records, official documentation and evidential tradeoffs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for case files, investigation records, official documentation and evidential tradeoffs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains classification, witness evaluation and the problem of turning reports into usable evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains classification, witness evaluation and the problem of turning reports into usable evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Covers UFO evidence handling, official records, witness reports and the limits of public case material.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers UFO evidence handling, official records, witness reports and the limits of public case material.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Useful for understanding how UFO reports, artefacts and testimony become socially meaningful records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how UFO reports, artefacts and testimony become socially meaningful records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="privacy-risks-what-can-a-ufo-file-reveal-ufo-report-databases-and-catalogues-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -560,7 +560,7 @@ In that sense, attachment privacy is not a side issue within MUFON's reporting m
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -580,7 +580,7 @@ In that sense, attachment privacy is not a side issue within MUFON's reporting m
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -612,7 +612,7 @@ In that sense, attachment privacy is not a side issue within MUFON's reporting m
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -664,7 +664,7 @@ In that sense, attachment privacy is not a side issue within MUFON's reporting m
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -709,7 +709,7 @@ In that sense, attachment privacy is not a side issue within MUFON's reporting m
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -750,167 +750,167 @@ In that sense, attachment privacy is not a side issue within MUFON's reporting m
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/cms-ifo-info/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/cms-ifo-info/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CMS IFO InfoAll witnesses who attach files to this report must acknowledge that by clicking the CONTINUE WITH REPORT button below, t...</p></details>
+   Link:<a href="https://mufon.com/cms-ifo-info/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/cms-ifo-info/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CMS IFO InfoAll witnesses who attach files to this report must acknowledge that by clicking the CONTINUE WITH REPORT button below, t...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2103.10851" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2103.10851</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 19, 2021...</p></details>
+   Link:<a href="https://arxiv.org/abs/2103.10851" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2103.10851</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 19, 2021...</p></details>
    Published: March 19, 2021  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: canon-europe.com  
-   Link: <a href="https://www.canon-europe.com/pro/infobank/all-about-exif/" target="_blank" rel="noopener noreferrer nofollow">https://www.canon-europe.com/pro/infobank/all-about-exif/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canon EuropeUnderstanding EXIF and metadataEXIF stands for Exchangeable Image File Format. It is a standardised way of storing useful met...</p></details>
+   Link:<a href="https://www.canon-europe.com/pro/infobank/all-about-exif/" target="_blank" rel="noopener noreferrer nofollow">https://www.canon-europe.com/pro/infobank/all-about-exif/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canon EuropeUnderstanding EXIF and metadataEXIF stands for Exchangeable Image File Format. It is a standardised way of storing useful met...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Exif" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Exif</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ExifPrivacy and security. edit. Since the Exif tag contains metadata about the photo, it can pose a privacy problem. For example, a ph...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Exif" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Exif</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ExifPrivacy and security. edit. Since the Exif tag contains metadata about the photo, it can pose a privacy problem. For example, a ph...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: fbi.gov  
-   Link: <a href="https://www.fbi.gov/contact-us/field-offices/portland/news/press-releases/oregon-fbi-tech-tuesday-building-a-digital-defense-against-dangers-of-exif-data" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/contact-us/field-offices/portland/news/press-releases/oregon-fbi-tech-tuesday-building-a-digital-defense-against-dangers-of-exif-data</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Bureau of InvestigationBuilding a Digital Defense Against Dangers of EXIF DataNov 17, 2020 — Turn off your phone or camera&#x27;s geo...</p></details>
+   Link:<a href="https://www.fbi.gov/contact-us/field-offices/portland/news/press-releases/oregon-fbi-tech-tuesday-building-a-digital-defense-against-dangers-of-exif-data" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/contact-us/field-offices/portland/news/press-releases/oregon-fbi-tech-tuesday-building-a-digital-defense-against-dangers-of-exif-data</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Bureau of InvestigationBuilding a Digital Defense Against Dangers of EXIF DataNov 17, 2020 — Turn off your phone or camera&#x27;s geo...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/the-scientific-method/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/the-scientific-method/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientific MethodAmong the parameters collected on UFO reports include: date, time, latitude, longitude, witness report, witness...</p></details>
+   Link:<a href="https://mufon.com/the-scientific-method/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/the-scientific-method/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientific MethodAmong the parameters collected on UFO reports include: date, time, latitude, longitude, witness report, witness...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv Protecting Geolocation Privacy of Photo Collections  
-   Link: <a href="https://arxiv.org/abs/1912.02085" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1912.02085</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Protecting Geolocation Privacy of Photo CollectionsDecember 4, 2019...</p></details>
+   Link:<a href="https://arxiv.org/abs/1912.02085" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1912.02085</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Protecting Geolocation Privacy of Photo CollectionsDecember 4, 2019...</p></details>
    Published: December 4, 2019  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1603.01335" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1603.01335</a>  
+   Link:<a href="https://arxiv.org/abs/1603.01335" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1603.01335</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: slideserve.com  
    Title: mufon case management system  
-   Link: <a href="https://www.slideserve.com/alcina/mufon-case-management-system" target="_blank" rel="noopener noreferrer nofollow">https://www.slideserve.com/alcina/mufon-case-management-system</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON Case Management System5 Sept 2014 — Allows a witness to easily REPORT their UFO Sighting to MUFON via the Internet • A RE...</p></details>
+   Link:<a href="https://www.slideserve.com/alcina/mufon-case-management-system" target="_blank" rel="noopener noreferrer nofollow">https://www.slideserve.com/alcina/mufon-case-management-system</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON Case Management System5 Sept 2014 — Allows a witness to easily REPORT their UFO Sighting to MUFON via the Internet • A RE...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/research/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/research/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mufon&#x27;s Ufo, Et Research Tracking ToolsThe MUFON Case Management System (CMS) is a powerful tool designed to help researchers, investigat...</p></details>
+   Link:<a href="https://mufon.com/research/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/research/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mufon&#x27;s Ufo, Et Research Tracking ToolsThe MUFON Case Management System (CMS) is a powerful tool designed to help researchers, investigat...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/history/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/history/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON Through the AgesThe MUFON Case Management System (CMS) now holds over 140,000 witness submitted cases! 2024. The MUFON Symposium re...</p></details>
+   Link:<a href="https://mufon.com/history/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/history/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON Through the AgesThe MUFON Case Management System (CMS) now holds over 140,000 witness submitted cases! 2024. The MUFON Symposium re...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HomeRead and Search MUFON Case Management System Reports; Monthly MUFON e-Journal with Exclusive UFO Coverage; Access to The Obser...</p></details>
+   Link:<a href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HomeRead and Search MUFON Case Management System Reports; Monthly MUFON e-Journal with Exclusive UFO Coverage; Access to The Obser...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/become-a-mufon-field-investigator/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/become-a-mufon-field-investigator/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Become a Mufon Field InvestigatorTrack UFOs · Field Investigator CMS Login · Become a Field Investigator · Report a UFO · Report an Exper...</p></details>
+   Link:<a href="https://mufon.com/become-a-mufon-field-investigator/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/become-a-mufon-field-investigator/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Become a Mufon Field InvestigatorTrack UFOs · Field Investigator CMS Login · Become a Field Investigator · Report a UFO · Report an Exper...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/join/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/join/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>or undertaking with costs...Read more...</p></details>
+   Link:<a href="https://mufon.com/join/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/join/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>or undertaking with costs...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/contact/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/contact/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ContactTo ensure your report is properly tracked and investigated, please submit your sighting directly through our website by clicking o...</p></details>
+   Link:<a href="https://mufon.com/contact/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/contact/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ContactTo ensure your report is properly tracked and investigated, please submit your sighting directly through our website by clicking o...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/search_database-terms-and-conditions/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/search_database-terms-and-conditions/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Search Database Terms and ConditionsThe Mutual UFO Network (MUFON) allows active members to access certain parts of our Case Management S...</p></details>
+   Link:<a href="https://mufon.com/search_database-terms-and-conditions/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/search_database-terms-and-conditions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Search Database Terms and ConditionsThe Mutual UFO Network (MUFON) allows active members to access certain parts of our Case Management S...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/history-2/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/history-2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Brief History of MufonHas a computerized UFO Case Management System (CMS) with over 139,000UFO cases; Has a structured Field Investigat...</p></details>
+   Link:<a href="https://mufon.com/history-2/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/history-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Brief History of MufonHas a computerized UFO Case Management System (CMS) with over 139,000UFO cases; Has a structured Field Investigat...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: lucidtruthtechnologies.com  
    Title: Understanding Metadata in Digital Forensics: HTML vs  
-   Link: <a href="https://lucidtruthtechnologies.com/understanding-meta-data-in-digital-forensics/" target="_blank" rel="noopener noreferrer nofollow">https://lucidtruthtechnologies.com/understanding-meta-data-in-digital-forensics/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EXIFThis blog post aims to clarify the differences between HTML metadata and EXIF data, discuss their implications in legal contexts, and...</p></details>
+   Link:<a href="https://lucidtruthtechnologies.com/understanding-meta-data-in-digital-forensics/" target="_blank" rel="noopener noreferrer nofollow">https://lucidtruthtechnologies.com/understanding-meta-data-in-digital-forensics/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EXIFThis blog post aims to clarify the differences between HTML metadata and EXIF data, discuss their implications in legal contexts, and...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: mufongeorgia.org  
-   Link: <a href="https://mufongeorgia.org/report-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://mufongeorgia.org/report-ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Report a UFOIn order to effectively catalogue and investigate all these reports MUFON asks that you submit your sighting reports with pho...</p></details>
+   Link:<a href="https://mufongeorgia.org/report-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://mufongeorgia.org/report-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report a UFOIn order to effectively catalogue and investigate all these reports MUFON asks that you submit your sighting reports with pho...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: proton.me  
    Title: exif data  
-   Link: <a href="https://proton.me/blog/exif-data" target="_blank" rel="noopener noreferrer nofollow">https://proton.me/blog/exif-data</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in shared photos may compromise your privacyAug 6, 2025 — EXIF data in your photos can reveal more than you think, including your locatio...</p></details>
+   Link:<a href="https://proton.me/blog/exif-data" target="_blank" rel="noopener noreferrer nofollow">https://proton.me/blog/exif-data</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in shared photos may compromise your privacyAug 6, 2025 — EXIF data in your photos can reveal more than you think, including your locatio...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: dochub.com  
-   Link: <a href="https://www.dochub.com/fillable-form/109085-mufon-field-investigator-manual" target="_blank" rel="noopener noreferrer nofollow">https://www.dochub.com/fillable-form/109085-mufon-field-investigator-manual</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ien UFO Investigations. MUFON Field Investigators are the...Read more...</p></details>
+   Link:<a href="https://www.dochub.com/fillable-form/109085-mufon-field-investigator-manual" target="_blank" rel="noopener noreferrer nofollow">https://www.dochub.com/fillable-form/109085-mufon-field-investigator-manual</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ien UFO Investigations. MUFON Field Investigators are the...Read more...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nist.gov  
-   Link: <a href="https://www.nist.gov/image/data-metadata" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/image/data-metadata</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Data &amp; MetadataOther organizations may use this image without charge for editorial articles that mention NIST in accompanying text or a c...</p></details>
+   Link:<a href="https://www.nist.gov/image/data-metadata" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/image/data-metadata</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data &amp; MetadataOther organizations may use this image without charge for editorial articles that mention NIST in accompanying text or a c...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: [archives](&#123;&#123; 'archives/' | relative_url &#125;&#125;). gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...NARA has records related to unidentified flying objects (UFO) and unidentifi...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...NARA has records related to unidentified flying objects (UFO) and unidentifi...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: adarsus.com  
-   Link: <a href="https://www.adarsus.com/en/all-about-the-metadata-of-a-photograph/" target="_blank" rel="noopener noreferrer nofollow">https://www.adarsus.com/en/all-about-the-metadata-of-a-photograph/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EXIF or IPTC metadata of the photographsThe EXIF metadata also contain the location coordinates in case the camera is GPS-enabled, as wel...</p></details>
+   Link:<a href="https://www.adarsus.com/en/all-about-the-metadata-of-a-photograph/" target="_blank" rel="noopener noreferrer nofollow">https://www.adarsus.com/en/all-about-the-metadata-of-a-photograph/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EXIF or IPTC metadata of the photographsThe EXIF metadata also contain the location coordinates in case the camera is GPS-enabled, as wel...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/haynes-ufo-investigations-manual-ufo-investigations-from-1892-to-the-present-day-085733400x-9780857334008.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/haynes-ufo-investigations-manual-ufo-investigations-from-1892-to-the-present-day-085733400x-9780857334008.html</a>  
+   Link:<a href="https://dokumen.pub/haynes-ufo-investigations-manual-ufo-investigations-from-1892-to-the-present-day-085733400x-9780857334008.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/haynes-ufo-investigations-manual-ufo-investigations-from-1892-to-the-present-day-085733400x-9780857334008.html</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: majorcitieschiefs.com  
-   Link: <a href="https://majorcitieschiefs.com/wp-content/uploads/2024/06/MCCA-UAP_Reference-Guide-June-2024-.pdf" target="_blank" rel="noopener noreferrer nofollow">https://majorcitieschiefs.com/wp-content/uploads/2024/06/MCCA-UAP_Reference-Guide-June-2024-.pdf</a>  
+   Link:<a href="https://majorcitieschiefs.com/wp-content/uploads/2024/06/MCCA-UAP_Reference-Guide-June-2024-.pdf" target="_blank" rel="noopener noreferrer nofollow">https://majorcitieschiefs.com/wp-content/uploads/2024/06/MCCA-UAP_Reference-Guide-June-2024-.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: pdffiller.com  
-   Link: <a href="https://www.pdffiller.com/101430199-Form2030-MUFON20Field20Investigators20Reportpdf-mufon-field-investigator-manual-" target="_blank" rel="noopener noreferrer nofollow">https://www.pdffiller.com/101430199-Form2030-MUFON20Field20Investigators20Reportpdf-mufon-field-investigator-manual-</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2015-2026 MUFON Form 30 Field Investigators Report5 May 2026 — MUFON Form 30 Field Investigators Report is needed by: Field Investigators...</p></details>
+   Link:<a href="https://www.pdffiller.com/101430199-Form2030-MUFON20Field20Investigators20Reportpdf-mufon-field-investigator-manual-" target="_blank" rel="noopener noreferrer nofollow">https://www.pdffiller.com/101430199-Form2030-MUFON20Field20Investigators20Reportpdf-mufon-field-investigator-manual-</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2015-2026 MUFON Form 30 Field Investigators Report5 May 2026 — MUFON Form 30 Field Investigators Report is needed by: Field Investigators...</p></details>
    Published: May 2026  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: consumerreports.org  
    Title: CR tells you how social media and photo-storage sites handle the data,  
-   Link: <a href="https://www.consumerreports.org/electronics-computers/privacy/what-can-you-tell-from-photo-exif-data-a2386546443/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerreports.org/electronics-computers/privacy/what-can-you-tell-from-photo-exif-data-a2386546443/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How a Photo&#x27;s Hidden &#x27;Exif&#x27; Data Exposes Your Personal...Dec 6, 2019 — A photo&#x27;s embedded Exif data can give away your location information...</p></details>
+   Link:<a href="https://www.consumerreports.org/electronics-computers/privacy/what-can-you-tell-from-photo-exif-data-a2386546443/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerreports.org/electronics-computers/privacy/what-can-you-tell-from-photo-exif-data-a2386546443/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How a Photo&#x27;s Hidden &#x27;Exif&#x27; Data Exposes Your Personal...Dec 6, 2019 — A photo&#x27;s embedded Exif data can give away your location information...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: isaca.org  
    Title: what to know about exif data a more subtle cybersecurity risk  
-   Link: <a href="https://www.isaca.org/resources/news-and-trends/industry-news/2025/what-to-know-about-exif-data-a-more-subtle-cybersecurity-risk" target="_blank" rel="noopener noreferrer nofollow">https://www.isaca.org/resources/news-and-trends/industry-news/2025/what-to-know-about-exif-data-a-more-subtle-cybersecurity-risk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What to Know About EXIF Data, a More Subtle...Feb 6, 2025 — EXIF data consists of more than just the visible pixels; it also houses a pl...</p></details>
+   Link:<a href="https://www.isaca.org/resources/news-and-trends/industry-news/2025/what-to-know-about-exif-data-a-more-subtle-cybersecurity-risk" target="_blank" rel="noopener noreferrer nofollow">https://www.isaca.org/resources/news-and-trends/industry-news/2025/what-to-know-about-exif-data-a-more-subtle-cybersecurity-risk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What to Know About EXIF Data, a More Subtle...Feb 6, 2025 — EXIF data consists of more than just the visible pixels; it also houses a pl...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: security.stackexchange.com  
    Title: gps metadata in uploaded pictures vulnerability or not  
-   Link: <a href="https://security.stackexchange.com/questions/272944/gps-metadata-in-uploaded-pictures-vulnerability-or-not" target="_blank" rel="noopener noreferrer nofollow">https://security.stackexchange.com/questions/272944/gps-metadata-in-uploaded-pictures-vulnerability-or-not</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>metadata in uploaded pictures: vulnerability or not?2 Nov 2023 — If a web application (like an internet forum, social media, etc.) does n...</p></details>
+   Link:<a href="https://security.stackexchange.com/questions/272944/gps-metadata-in-uploaded-pictures-vulnerability-or-not" target="_blank" rel="noopener noreferrer nofollow">https://security.stackexchange.com/questions/272944/gps-metadata-in-uploaded-pictures-vulnerability-or-not</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>metadata in uploaded pictures: vulnerability or not?2 Nov 2023 — If a web application (like an internet forum, social media, etc.) does n...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: webiano.digital  
    Title: the hidden privacy risk inside every photo you share  
-   Link: <a href="https://webiano.digital/the-hidden-privacy-risk-inside-every-photo-you-share/" target="_blank" rel="noopener noreferrer nofollow">https://webiano.digital/the-hidden-privacy-risk-inside-every-photo-you-share/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>14-Apr-2026 — Committee to Protect Journalists advises reporters to remove metadata before posting because EXIF can reveal when and where...</p></details>
+   Link:<a href="https://webiano.digital/the-hidden-privacy-risk-inside-every-photo-you-share/" target="_blank" rel="noopener noreferrer nofollow">https://webiano.digital/the-hidden-privacy-risk-inside-every-photo-you-share/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>14-Apr-2026 — Committee to Protect Journalists advises reporters to remove metadata before posting because EXIF can reveal when and where...</p></details>

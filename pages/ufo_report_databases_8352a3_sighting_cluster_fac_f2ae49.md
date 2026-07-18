@@ -357,21 +357,21 @@ When researchers and enthusiasts map large UFO/UAP report databases such as the 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49-overview.webp" | relative_url }}" alt="Overview image for Clusters" loading="eager" decoding="sync" fetchpriority="high">
 ## Sky‑Viewing Conditions and Landscape
 
-One recent quantitative study applied spatial analysis to nearly 100,000 public UAP reports and linked clusters to **environmental visibility variables**. Researchers modelled report rates against factors like **[light pollution]({{ 'light-pollution/' | relative_url }}) levels, cloud cover, and tree canopy**, hypothesising that open skies with fewer visual obstructions allow more observers to detect aerial phenomena. They also included proximity to **aircraft corridors and military installations**, reasoning that higher [air traffic]({{ 'air-traffic/' | relative_url }}) increases the background of objects people may misinterpret. Their statistical model found credible correlations suggesting that people have more reported “phenomena” where they have **greater opportunity to see something due to clearer skies and lower visual clutter**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky view potential &#124; Scientific ReportsDecember 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>
+One recent quantitative study applied spatial analysis to nearly 100,000 public UAP reports and linked clusters to **environmental visibility variables**. Researchers modelled report rates against factors like **[light pollution]({{ 'light-pollution/' | relative_url }}) levels, cloud cover, and tree canopy**, hypothesising that open skies with fewer visual obstructions allow more observers to detect aerial phenomena. They also included proximity to **aircraft corridors and military installations**, reasoning that higher [air traffic]({{ 'air-traffic/' | relative_url }}) increases the background of objects people may misinterpret. Their statistical model found credible correlations suggesting that people have more reported “phenomena” where they have **greater opportunity to see something due to clearer skies and lower visual clutter**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky view potential &#124; Scientific ReportsDecember 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>
 
-This type of analysis also reveals where clusters might be artefacts of the landscape itself. For example, counties with wide open terrain or less urban light can show up as hotspots simply because the daylight or night sky is easier to scan with the unaided eye or camera — not because there is necessarily something unusual in the sky there. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn environmental analysis of public UAP sightings and sky view potential</span><span class="citation-popover-snippet">December 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>
+This type of analysis also reveals where clusters might be artefacts of the landscape itself. For example, counties with wide open terrain or less urban light can show up as hotspots simply because the daylight or night sky is easier to scan with the unaided eye or camera — not because there is necessarily something unusual in the sky there.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn environmental analysis of public UAP sightings and sky view potential</span><span class="citation-popover-snippet">December 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49-Illustration-1-dark.svg" | relative_url }}" alt="Clusters illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Population Density and Reporting Culture
 
-Another consistent pattern in UFO databases is the link between **population size and report density**. The broad reviews of geographical distributions conclude that areas with higher populations tend to generate more sightings reports, albeit not in strict proportion — a doubling of population does not always mean double the reports, but **denser regions reliably show more entries in sighting catalogues**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/812" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Journal of Scientific ExplorationA Review on the Geographical Distribution of UFO Reports &#124; Journal of Scientific ExplorationSeptember 25...</span></span></span>
+Another consistent pattern in UFO databases is the link between **population size and report density**. The broad reviews of geographical distributions conclude that areas with higher populations tend to generate more sightings reports, albeit not in strict proportion — a doubling of population does not always mean double the reports, but **denser regions reliably show more entries in sighting catalogues**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/812" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Journal of Scientific ExplorationA Review on the Geographical Distribution of UFO Reports &#124; Journal of Scientific ExplorationSeptember 25...</span></span></span>
 
 This likely arises from multiple mechanisms:
 
 * **More potential witnesses** naturally raises the chance that someone will see and report a light or aerial object.
-* **Cultural factors** around reporting — including media attention, local folklore, or community interest — can influence whether an unusual sighting gets recorded at all. Studies of reporting dynamics have shown that **media broadcasts and public awareness spikes** can drive increases in reported cases in the short term, creating temporal clusters that map onto social rather than astronomical events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect On the dynamics of reporting data: A case study of UFO sightings</span><span class="citation-popover-snippet">On the dynamics of reporting data: A case study of UFO sightings - ScienceDirectOctober 1, 2022...</span><span class="citation-popover-meta">Published: October 1, 2022</span></span></span>
+* **Cultural factors** around reporting — including media attention, local folklore, or community interest — can influence whether an unusual sighting gets recorded at all. Studies of reporting dynamics have shown that **media broadcasts and public awareness spikes** can drive increases in reported cases in the short term, creating temporal clusters that map onto social rather than astronomical events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect On the dynamics of reporting data: A case study of UFO sightings</span><span class="citation-popover-snippet">On the dynamics of reporting data: A case study of UFO sightings - ScienceDirectOctober 1, 2022...</span><span class="citation-popover-meta">Published: October 1, 2022</span></span></span>
 
-In addition, human reporting behaviour itself has quirks that can influence cluster maps. Analysis of historical UFO sightings notes that observers tend to report events that happen during **nighttime hours with clear visibility**, and that they may unconsciously favour reporting times or patterns that are socially meaningful (such as round times), which can distort temporal and spatial clustering without implying any underlying physical phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect On the dynamics of reporting data: A case study of UFO sightings</span><span class="citation-popover-snippet">On the dynamics of reporting data: A case study of UFO sightings - ScienceDirectOctober 1, 2022...</span><span class="citation-popover-meta">Published: October 1, 2022</span></span></span>
+In addition, human reporting behaviour itself has quirks that can influence cluster maps. Analysis of historical UFO sightings notes that observers tend to report events that happen during **nighttime hours with clear visibility**, and that they may unconsciously favour reporting times or patterns that are socially meaningful (such as round times), which can distort temporal and spatial clustering without implying any underlying physical phenomenon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect On the dynamics of reporting data: A case study of UFO sightings</span><span class="citation-popover-snippet">On the dynamics of reporting data: A case study of UFO sightings - ScienceDirectOctober 1, 2022...</span><span class="citation-popover-meta">Published: October 1, 2022</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49-Illustration-3-dark.svg" | relative_url }}" alt="Clusters illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -379,210 +379,210 @@ In addition, human reporting behaviour itself has quirks that can influence clus
 
 ## Separating Patterns from Artefacts
 
-Interpreting sighting clusters requires care to avoid mistaking **environmental artefacts for anomalous phenomena**. When clusters coincide with well‑populated, open, low‑light areas, the pattern may reflect **visibility opportunity and reporting likelihood** rather than an uptick in real unidentified phenomena. For example, in the U.S. data analysed, clusters appeared across the western states and in parts of the northeast where sparse tree cover and clear skies coincide with significant local populations — a pattern consistent with visibility and access effects as much as any other driver. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky view potential &#124; Scientific ReportsDecember 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>
+Interpreting sighting clusters requires care to avoid mistaking **environmental artefacts for anomalous phenomena**. When clusters coincide with well‑populated, open, low‑light areas, the pattern may reflect **visibility opportunity and reporting likelihood** rather than an uptick in real unidentified phenomena. For example, in the U.S. data analysed, clusters appeared across the western states and in parts of the northeast where sparse tree cover and clear skies coincide with significant local populations — a pattern consistent with visibility and access effects as much as any other driver.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky view potential &#124; Scientific ReportsDecember 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>
 
-In contrast, **cold spots** — regions exhibiting fewer reports — tend to correlate with heavy light pollution, high cloud cover, or dense [tree canopy]({{ 'tree-canopy/' | relative_url }}), all factors that reduce the sky area visible to human observers, as well as lower local population presence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn environmental analysis of public UAP sightings and sky view potential</span><span class="citation-popover-snippet">December 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>
+In contrast, **cold spots** — regions exhibiting fewer reports — tend to correlate with heavy light pollution, high cloud cover, or dense [tree canopy]({{ 'tree-canopy/' | relative_url }}), all factors that reduce the sky area visible to human observers, as well as lower local population presence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn environmental analysis of public UAP sightings and sky view potential</span><span class="citation-popover-snippet">December 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>
 
-To genuinely discern where clusters might be marking something deeper, analysts often normalise reports against underlying population, or compare reported sightings against independent environmental data like **light pollution maps or meteorological records**. When clusters persist after such normalisation, they become more suggestive of factors beyond mere visibility or social reporting behaviour. But without these controls, many apparent clusters in UFO databases reflect **environmental and human reporting conditions** rather than anomalies in the skies themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/812" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Journal of Scientific ExplorationA Review on the Geographical Distribution of UFO Reports &#124; Journal of Scientific ExplorationSeptember 25...</span></span></span>
+To genuinely discern where clusters might be marking something deeper, analysts often normalise reports against underlying population, or compare reported sightings against independent environmental data like **light pollution maps or meteorological records**. When clusters persist after such normalisation, they become more suggestive of factors beyond mere visibility or social reporting behaviour. But without these controls, many apparent clusters in UFO databases reflect **environmental and human reporting conditions** rather than anomalies in the skies themselves.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/812" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Journal of Scientific ExplorationA Review on the Geographical Distribution of UFO Reports &#124; Journal of Scientific ExplorationSeptember 25...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PTkdspJg6Pg" title="UFO Hearing LIVE | &quot;UAP Are Real&quot; Shocking Alien Revelation Rocks America | UFO whistleblower" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PTkdspJg6Pg" target="_blank" rel="noopener noreferrer">UFO Hearing LIVE | &quot;UAP Are Real&quot; Shocking Alien Revelation Rocks America | UFO whistleblower</a></p><p class="youtube-embed-meta">Channel: MIRROR NOW &middot; Views: 10.9K &middot; Uploaded: May 2026 &middot; Length: 8 hours 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PTkdspJg6Pg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PTkdspJg6Pg">Open on YouTube</a></p></div></div></div>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49-Illustration-2-dark.svg" | relative_url }}" alt="Clusters illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Environmental Context in Reporting Databases
 
-Large UFO report catalogues such as NUFORC play a crucial role in surface patterns and trends, but the emergence of cluster maps needs to be interpreted with **environmental context in mind**. As research continues to quantify the influence of sky clarity, population access, local culture, and media dynamics, it becomes clearer that **sighting clusters are as much about where and when people look up and choose to report, as about what they might see**. Any analysis that neglects visibility and environmental variation risks over‑interpreting spatial spikes as evidence of unexplained aerial phenomena rather than structured reporting behaviour shaped by measurable factors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky view potential &#124; Scientific ReportsDecember 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>
+Large UFO report catalogues such as NUFORC play a crucial role in surface patterns and trends, but the emergence of cluster maps needs to be interpreted with **environmental context in mind**. As research continues to quantify the influence of sky clarity, population access, local culture, and media dynamics, it becomes clearer that **sighting clusters are as much about where and when people look up and choose to report, as about what they might see**. Any analysis that neglects visibility and environmental variation risks over‑interpreting spatial spikes as evidence of unexplained aerial phenomena rather than structured reporting behaviour shaped by measurable factors.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky view potential &#124; Scientific ReportsDecember 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jCy8KlDMSvI" title="Exploring the questions surrounding UAPs and the search for extraterrestrial life" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jCy8KlDMSvI" target="_blank" rel="noopener noreferrer">Exploring the questions surrounding UAPs and the search for extraterrestrial life</a></p><p class="youtube-embed-meta">Channel: PBS NewsHour &middot; Views: 114.6K &middot; Uploaded: May 2026 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jCy8KlDMSvI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jCy8KlDMSvI">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why UFO Sightings Cluster on the Map. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why UFO Sightings Cluster on the Map. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Gives readers a serious UFO reporting context before interpreting mapped clusters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Gives readers a serious UFO reporting context before interpreting mapped clusters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHNAEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
-        </h4>
-        <p class="fr-book-author">By Philip C. Plait</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHNAEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
+</h4>
+<p class="fr-book-author">By Philip C. Plait</p>
         
-        <p class="fr-book-desc">Supports sky-observation literacy behind many UFO sighting distributions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports sky-observation literacy behind many UFO sighting distributions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Maps+by+Mark+Monmonier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Maps on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MwdRDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Maps" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Maps+by+Mark+Monmonier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Maps">How to Lie with Maps</a>
-        </h4>
-        <p class="fr-book-author">By Mark Monmonier</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Maps+by+Mark+Monmonier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Maps on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MwdRDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Maps" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Maps+by+Mark+Monmonier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Maps">How to Lie with Maps</a>
+</h4>
+<p class="fr-book-author">By Mark Monmonier</p>
         
-        <p class="fr-book-desc">Excellent companion for understanding how mapped UFO clusters can mislead.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Maps+by+Mark+Monmonier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Excellent companion for understanding how mapped UFO clusters can mislead.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Maps+by+Mark+Monmonier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Helps readers distinguish meaningful patterns from reporting artefacts and bias.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Helps readers distinguish meaningful patterns from reporting artefacts and bias.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Astronomy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Astronomy</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Lie+with+Maps&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Lie with Maps</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Astronomy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Astronomy</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Lie+with+Maps&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Lie with Maps</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print Alien Saucer Over City Vintage Map UFO Hovering Leonardo Da Vinci Styl"><img src="{{ '/assets/images/marketplace-covers/622c1729001d43c4346c.jpg' | relative_url }}" alt="Listing image for Art Print Alien Saucer Over City Vintage Map UFO Hovering Leonardo Da Vinci Styl" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">Art Print Alien Saucer Over City Vintage Map UFO Hovering Leonardo Da Vinci Styl</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print Alien Saucer Over City Vintage Map UFO Hovering Leonardo Da Vinci Styl"><img src="{{ '/assets/images/marketplace-covers/622c1729001d43c4346c.jpg' | relative_url }}" alt="Listing image for Art Print Alien Saucer Over City Vintage Map UFO Hovering Leonardo Da Vinci Styl" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">Art Print Alien Saucer Over City Vintage Map UFO Hovering Leonardo Da Vinci Styl</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map"><img src="{{ '/assets/images/marketplace-covers/785e336da487766e89a7.jpg' | relative_url }}" alt="Listing image for Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map"><img src="{{ '/assets/images/marketplace-covers/785e336da487766e89a7.jpg' | relative_url }}" alt="Listing image for Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print Giant UFO Hovering Over Vintage City Red Beam Attack Map Style Weird"><img src="{{ '/assets/images/marketplace-covers/a91422e1e8ff511c3818.jpg' | relative_url }}" alt="Listing image for Art Print Giant UFO Hovering Over Vintage City Red Beam Attack Map Style Weird" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">Art Print Giant UFO Hovering Over Vintage City Red Beam Attack Map Style Weird</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print Giant UFO Hovering Over Vintage City Red Beam Attack Map Style Weird"><img src="{{ '/assets/images/marketplace-covers/a91422e1e8ff511c3818.jpg' | relative_url }}" alt="Listing image for Art Print Giant UFO Hovering Over Vintage City Red Beam Attack Map Style Weird" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">Art Print Giant UFO Hovering Over Vintage City Red Beam Attack Map Style Weird</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map"><img src="{{ '/assets/images/marketplace-covers/51b8893bbe54c1ca707b.jpg' | relative_url }}" alt="Listing image for Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map"><img src="{{ '/assets/images/marketplace-covers/51b8893bbe54c1ca707b.jpg' | relative_url }}" alt="Listing image for Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="clusters-why-ufo-sightings-cluster-on-the-map-ufo-report-databases-and-catalogues-ufo-map-print-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -598,7 +598,7 @@ Large UFO report catalogues such as NUFORC play a crucial role in surface patter
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -618,7 +618,7 @@ Large UFO report catalogues such as NUFORC play a crucial role in surface patter
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -650,7 +650,7 @@ Large UFO report catalogues such as NUFORC play a crucial role in surface patter
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -702,7 +702,7 @@ Large UFO report catalogues such as NUFORC play a crucial role in surface patter
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -747,7 +747,7 @@ Large UFO report catalogues such as NUFORC play a crucial role in surface patter
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -788,112 +788,112 @@ Large UFO report catalogues such as NUFORC play a crucial role in surface patter
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-49527-x</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An environmental analysis of public UAP sightings and sky view potential | Scientific ReportsDecember 14, 2023...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-49527-x</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An environmental analysis of public UAP sightings and sky view potential | Scientific ReportsDecember 14, 2023...</p></details>
    Published: December 14, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAn environmental analysis of public UAP sightings and sky view potential  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>December 14, 2023...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 14, 2023...</p></details>
    Published: December 14, 2023  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect On the dynamics of reporting data: A case study of UFO sightings  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>On the dynamics of reporting data: A case study of UFO sightings - ScienceDirectOctober 1, 2022...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On the dynamics of reporting data: A case study of UFO sightings - ScienceDirectOctober 1, 2022...</p></details>
    Published: October 1, 2022  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sciencedirect.com  
    Title: On the dynamics of reporting data: A case study of UFO sightings  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0378437122005295</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>October 1, 2022 — PHYSICA A: STATISTICAL MECHANICS AND ITS APPLICATIONS Volume 603, 1 October 2022, 127807 ON THE DYNAMICS O...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0378437122005295</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 1, 2022 — PHYSICA A: STATISTICAL MECHANICS AND ITS APPLICATIONS Volume 603, 1 October 2022, 127807 ON THE DYNAMICS O...</p></details>
    Published: October 1, 2022  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nuforc.org  
    Title: For 25 years, it ha  
-   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021 — THE NATIONAL UFO REPORTING CENTER ONLINE DATABASE Image The NUFORC Databank...</p></details>
+   Link:<a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021 — THE NATIONAL UFO REPORTING CENTER ONLINE DATABASE Image The NUFORC Databank...</p></details>
    Published: September 6, 2021  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: journalofscientificexploration.org  
-   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/812" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/812</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Scientific ExplorationA Review on the Geographical Distribution of UFO Reports | Journal of Scientific ExplorationSeptember 25...</p></details>
+   Link:<a href="https://journalofscientificexploration.org/index.php/jse/article/view/812" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/812</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Scientific ExplorationA Review on the Geographical Distribution of UFO Reports | Journal of Scientific ExplorationSeptember 25...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: journalofscientificexploration.org  
-   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/2681" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/2681</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Scientific ExplorationFebruary 11, 2023 — Social Factors and UFO Reports: Was the SARS-CoV-2 Pandemic Associated with an Inc...</p></details>
+   Link:<a href="https://journalofscientificexploration.org/index.php/jse/article/view/2681" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/2681</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Scientific ExplorationFebruary 11, 2023 — Social Factors and UFO Reports: Was the SARS-CoV-2 Pandemic Associated with an Inc...</p></details>
    Published: February 11, 2023  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: journalofscientificexploration.org  
    Title: Modeling the Law of Times | Journal of Scientific Exploration  
-   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/797" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/797</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>29 No. 2, Research Articles Vol. 29 No. 2 MODELING THE LAW OF TIMES Research Articles Published 2015-06-06 * Julio Plaza del Olmo Julio P...</p></details>
+   Link:<a href="https://journalofscientificexploration.org/index.php/jse/article/view/797" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/797</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>29 No. 2, Research Articles Vol. 29 No. 2 MODELING THE LAW OF TIMES Research Articles Published 2015-06-06 * Julio Plaza del Olmo Julio P...</p></details>
    Published: June 6, 2015  
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: uapmonitor.org  
-   Link: <a href="https://uapmonitor.org/research" target="_blank" rel="noopener noreferrer nofollow">https://uapmonitor.org/research</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Monitor — Global UFO &amp; UAP Sightings Database, Map &amp; Intelligence PlatformUAP MONITOR — GLOBAL UFO &amp; UAP SIGHTINGS INTELLIGENCE PLATF...</p></details>
+   Link:<a href="https://uapmonitor.org/research" target="_blank" rel="noopener noreferrer nofollow">https://uapmonitor.org/research</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Monitor — Global UFO &amp; UAP Sightings Database, Map &amp; Intelligence PlatformUAP MONITOR — GLOBAL UFO &amp; UAP SIGHTINGS INTELLIGENCE PLATF...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ouci.dntb.gov.ua  
-   Link: <a href="https://ouci.dntb.gov.ua/en/works/4EweyOK9/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/4EweyOK9/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>environmental analysis of public UAP sightings and sky view potentialAN ENVIRONMENTAL ANALYSIS OF PUBLIC UAP SIGHTINGS AND SKY VIEW POTEN...</p></details>
+   Link:<a href="https://ouci.dntb.gov.ua/en/works/4EweyOK9/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/4EweyOK9/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>environmental analysis of public UAP sightings and sky view potentialAN ENVIRONMENTAL ANALYSIS OF PUBLIC UAP SIGHTINGS AND SKY VIEW POTEN...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: philpapers.org  
    Title: Julio Plaza del Olmo, A Review on the Geographical Distribution of UFO Reports  
-   Link: <a href="https://philpapers.org/rec/OLMARO" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/OLMARO</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A REVIEW ON THE GEOGRAPHICAL DISTRIBUTION OF UFO REPORTS Julio Plaza del Olmo Journal of Scientific Exploration 29 (3) (2015) @...</p></details>
+   Link:<a href="https://philpapers.org/rec/OLMARO" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/OLMARO</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A REVIEW ON THE GEOGRAPHICAL DISTRIBUTION OF UFO REPORTS Julio Plaza del Olmo Journal of Scientific Exploration 29 (3) (2015) @...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ufotimelineproject.com  
-   Link: <a href="https://www.ufotimelineproject.com/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.ufotimelineproject.com/ufo-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Discover Contact us WHY SIGHTINGS MATTER Sightings are the front door of UFO/UAP research. They&#x27;re messy, human, and...</p></details>
+   Link:<a href="https://www.ufotimelineproject.com/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.ufotimelineproject.com/ufo-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Discover Contact us WHY SIGHTINGS MATTER Sightings are the front door of UFO/UAP research. They&#x27;re messy, human, and...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: euronews.com  
    Title: UF Os: Do environmental factors increase or decrease reported sightings?  
-   Link: <a href="https://www.euronews.com/next/2024/02/29/ufos-do-environmental-factors-increase-or-decrease-reported-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.euronews.com/next/2024/02/29/ufos-do-environmental-factors-increase-or-decrease-reported-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EuronewsFebruary 29, 2024 — UFOS: DO ENVIRONMENTAL FACTORS INCREASE OR DECREASE REPORTED SIGHTINGS? Image: The image from video provide...</p></details>
+   Link:<a href="https://www.euronews.com/next/2024/02/29/ufos-do-environmental-factors-increase-or-decrease-reported-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.euronews.com/next/2024/02/29/ufos-do-environmental-factors-increase-or-decrease-reported-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EuronewsFebruary 29, 2024 — UFOS: DO ENVIRONMENTAL FACTORS INCREASE OR DECREASE REPORTED SIGHTINGS? Image: The image from video provide...</p></details>
    Published: February 29, 2024  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: complex.pfi.uem.br  
-   Link: <a href="https://complex.pfi.uem.br/publication/2022/on-the-dynamics-of-reporting-data-a-case-study-of-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://complex.pfi.uem.br/publication/2022/on-the-dynamics-of-reporting-data-a-case-study-of-ufo-sightings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>J. Antonio, A. S. Itami, F. F. Dalmedico, F. S. Mendes, Physica A 603, 127807 (2022). PDF Cite DOI Image ABSTRACT There are a...</p></details>
+   Link:<a href="https://complex.pfi.uem.br/publication/2022/on-the-dynamics-of-reporting-data-a-case-study-of-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://complex.pfi.uem.br/publication/2022/on-the-dynamics-of-reporting-data-a-case-study-of-ufo-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>J. Antonio, A. S. Itami, F. F. Dalmedico, F. S. Mendes, Physica A 603, 127807 (2022). PDF Cite DOI Image ABSTRACT There are a...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ovniteca.net  
    Title: dynamics reporting data case study ufo sightings  
-   Link: <a href="https://www.ovniteca.net/bibliografia/dynamics-reporting-data-case-study-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.ovniteca.net/bibliografia/dynamics-reporting-data-case-study-ufo-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On the dynamics of reporting data: A case study of UFO sightings | OvnitecaOvniteca Historia y actualidad de los ovnis ON THE DYNAMICS OF...</p></details>
+   Link:<a href="https://www.ovniteca.net/bibliografia/dynamics-reporting-data-case-study-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.ovniteca.net/bibliografia/dynamics-reporting-data-case-study-ufo-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On the dynamics of reporting data: A case study of UFO sightings | OvnitecaOvniteca Historia y actualidad de los ovnis ON THE DYNAMICS OF...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: More Weird UFO Files Just Released: Forensic Expert Analysis  
-   Link: <a href="https://www.youtube.com/watch?v=F9Vmsk6CcmI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F9Vmsk6CcmI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Hearing LIVE | &quot;UAP Are Real&quot; Shocking Alien Revelation Rocks America - YouTube UFO Hearing LIVE | &quot;UAP Are Real&quot; Shocking Alien Reve...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=F9Vmsk6CcmI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F9Vmsk6CcmI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Hearing LIVE | &quot;UAP Are Real&quot; Shocking Alien Revelation Rocks America - YouTube UFO Hearing LIVE | &quot;UAP Are Real&quot; Shocking Alien Reve...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: UFO Hearing LIVE | "UAP Are Real" Shocking Alien Revelation Rocks America  
-   Link: <a href="https://www.youtube.com/watch?v=PTkdspJg6Pg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PTkdspJg6Pg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO files REVEAL mysterious UAP formations over Iran, CENTCOM captures video | WATCH...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PTkdspJg6Pg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PTkdspJg6Pg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO files REVEAL mysterious UAP formations over Iran, CENTCOM captures video | WATCH...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=_NU5VbysFJE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_NU5VbysFJE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>More Weird UFO Files Just Released: Forensic Expert Analysis...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_NU5VbysFJE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_NU5VbysFJE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>More Weird UFO Files Just Released: Forensic Expert Analysis...</p></details>

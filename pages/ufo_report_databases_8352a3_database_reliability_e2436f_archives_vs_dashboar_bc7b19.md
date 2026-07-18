@@ -271,17 +271,17 @@ image: /assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_ar
 Official UFO [archives]({{ 'archives/' | relative_url }}) and public UFO dashboards often appear to cover the same subject, but they are built for different purposes. Archives are usually designed to preserve records, document provenance and show how an institution handled a report. Dashboards are designed to make reports searchable, visible and easy to browse. Neither format is automatically more reliable than the other. The key question is what kind of [reliability]({{ 'reliability/' | relative_url }}) a researcher needs.
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_archives_vs_dashboar_bc7b19-Illustration-1-dark.svg" | relative_url }}" alt="Archives vs Apps illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_archives_vs_dashboar_bc7b19-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_archives_vs_dashboar_bc7b19-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-If the goal is to verify that a document exists, trace a case back to an original government file, or understand how an investigation was conducted, official archives usually provide stronger evidence. If the goal is to spot reporting trends, compare witness descriptions across regions, or follow new submissions quickly, public reporting systems often provide better access and speed. The most effective UFO research typically moves between both systems rather than treating one as a replacement for the other. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</span></span></span>
+If the goal is to verify that a document exists, trace a case back to an original government file, or understand how an investigation was conducted, official archives usually provide stronger evidence. If the goal is to spot reporting trends, compare witness descriptions across regions, or follow new submissions quickly, public reporting systems often provide better access and speed. The most effective UFO research typically moves between both systems rather than treating one as a replacement for the other.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</span></span></span>
 
 ## What archives reveal that dashboards may not
 
 Official archives are strongest when a reader wants to know where a record came from, who created it and how it entered the historical record.
 
-The US National Archives' holdings on Project [Blue Book]({{ 'blue-book/' | relative_url }}) are a clear example. The archive preserves the Air Force records generated during the programme's investigations between the 1950s and 1969. Researchers can examine original documents rather than relying on later summaries, screenshots or retellings. The archive's value lies in provenance: a user can often identify the agency, date, filing structure and administrative context behind a record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</span></span></span>
+The US National Archives' holdings on Project [Blue Book]({{ 'blue-book/' | relative_url }}) are a clear example. The archive preserves the Air Force records generated during the programme's investigations between the 1950s and 1969. Researchers can examine original documents rather than relying on later summaries, screenshots or retellings. The archive's value lies in provenance: a user can often identify the agency, date, filing structure and administrative context behind a record.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</span></span></span>
 
-Modern UAP collections at the National Archives extend this principle. The archive now offers bulk downloads containing digitised records alongside JSON metadata files. That means researchers can inspect not only documents but also the catalogue information attached to them. Metadata can reveal when a record was created, which record group it belongs to and whether it is part of a larger collection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</span></span></span>
+Modern UAP collections at the National Archives extend this principle. The archive now offers bulk downloads containing digitised records alongside JSON metadata files. That means researchers can inspect not only documents but also the catalogue information attached to them. Metadata can reveal when a record was created, which record group it belongs to and whether it is part of a larger collection.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</span></span></span>
 
-The UK's National Archives UFO collections illustrate another archival advantage. Ministry of Defence files contain correspondence, policy discussions, parliamentary responses and sighting reports. These records help researchers understand how officials interpreted reports, what procedures existed at the time and how public enquiries were handled. They are often more useful for reconstructing institutional behaviour than for measuring UFO frequencies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">The project closed in 1969 and we have no...Read more...</span></span></span>
+The UK's National Archives UFO collections illustrate another archival advantage. Ministry of Defence files contain correspondence, policy discussions, parliamentary responses and sighting reports. These records help researchers understand how officials interpreted reports, what procedures existed at the time and how public enquiries were handled. They are often more useful for reconstructing institutional behaviour than for measuring UFO frequencies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">The project closed in 1969 and we have no...Read more...</span></span></span>
 
 A major benefit of archives is that they preserve context alongside claims. A witness statement may sit beside investigative notes, internal memos, classification decisions or correspondence between departments. Public dashboards often display the report itself but not the administrative history surrounding it.
 
@@ -289,7 +289,7 @@ A major benefit of archives is that they preserve context alongside claims. A wi
 
 Many UFO cases have accumulated decades of retellings, media adaptations and internet summaries. An archive allows a researcher to move backwards toward the earliest available record.
 
-For example, Project [Blue Book files]({{ 'blue-book-files/' | relative_url }}) can show whether a famous case was classified as explained, insufficiently documented or unresolved at the time. That does not automatically prove the classification was correct, but it does provide a documented chain of custody. Researchers can see what information investigators actually had rather than relying on later interpretations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The project, headquartered at Wright-Patterson Air Force</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookFrom 1947 to 1969, the Air Force investigated Unidentified Flying Obj...</span></span></span>
+For example, Project [Blue Book files]({{ 'blue-book-files/' | relative_url }}) can show whether a famous case was classified as explained, insufficiently documented or unresolved at the time. That does not automatically prove the classification was correct, but it does provide a documented chain of custody. Researchers can see what information investigators actually had rather than relying on later interpretations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The project, headquartered at Wright-Patterson Air Force</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookFrom 1947 to 1969, the Air Force investigated Unidentified Flying Obj...</span></span></span>
 
 This is particularly important because some UFO stories circulate online in simplified form. A dashboard entry may present a dramatic summary, while archival records reveal missing witness statements, contradictory testimony or uncertainty in the original investigation.
 
@@ -299,21 +299,21 @@ This is particularly important because some UFO stories circulate online in simp
 
 Public UFO dashboards solve a different problem: access.
 
-Sites such as the National UFO Reporting Center ([NUFORC]({{ 'nuforc/' | relative_url }})) allow users to browse reports by date, location, shape and other categories. New reports can appear quickly, making these systems valuable for tracking current reporting activity rather than historical government investigations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+Sites such as the National UFO Reporting Center ([NUFORC]({{ 'nuforc/' | relative_url }})) allow users to browse reports by date, location, shape and other categories. New reports can appear quickly, making these systems valuable for tracking current reporting activity rather than historical government investigations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-The scale of these databases is one of their main strengths. NUFORC describes its databank as the largest independently collected UFO reporting archive available online. Researchers can search thousands of reports within seconds, filter by region and compare narratives across decades. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=event" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports by MonthNUFORC. Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search · Menu C...</span></span></span>
+The scale of these databases is one of their main strengths. NUFORC describes its databank as the largest independently collected UFO reporting archive available online. Researchers can search thousands of reports within seconds, filter by region and compare narratives across decades.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=event" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports by MonthNUFORC. Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search · Menu C...</span></span></span>
 
-Interactive dashboards also make patterns visible. Maps, timelines and searchable fields help users explore questions that would be difficult to answer by manually reading archival boxes or scanned files. A user can quickly examine [clusters]({{ 'clusters/' | relative_url }}) of reports in a particular state, compare reporting rates over time or search for recurring descriptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Browse reports, images, videos, maps and more</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witn...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports by Location NUFORC Reports by Location; USA</span><span class="citation-popover-snippet">NUFORC Reports by LocationNUFORC Reports by Location; USA - Oregon, 3808; USA - Pennsylvania, 5387; USA - Puerto Rico, 192; USA - Rho...</span></span></span>
+Interactive dashboards also make patterns visible. Maps, timelines and searchable fields help users explore questions that would be difficult to answer by manually reading archival boxes or scanned files. A user can quickly examine [clusters]({{ 'clusters/' | relative_url }}) of reports in a particular state, compare reporting rates over time or search for recurring descriptions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Browse reports, images, videos, maps and more</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witn...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports by Location NUFORC Reports by Location; USA</span><span class="citation-popover-snippet">NUFORC Reports by LocationNUFORC Reports by Location; USA - Oregon, 3808; USA - Pennsylvania, 5387; USA - Puerto Rico, 192; USA - Rho...</span></span></span>
 
-Another advantage is public participation. Reporting systems continuously receive new submissions from witnesses. Official archives are often closed collections documenting past investigations, whereas dashboards can function as active intake systems. NUFORC, for example, combines browsing tools with online reporting mechanisms and witness submission channels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">report a ufo</span><span class="citation-popover-snippet">File a UFO Report &#124; NUFORCThe Center&#x27;s hotline at 206-722-3000 is generally reserved for recent UFO reports. However, brief queries may b...</span></span></span>
+Another advantage is public participation. Reporting systems continuously receive new submissions from witnesses. Official archives are often closed collections documenting past investigations, whereas dashboards can function as active intake systems. NUFORC, for example, combines browsing tools with online reporting mechanisms and witness submission channels.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">report a ufo</span><span class="citation-popover-snippet">File a UFO Report &#124; NUFORCThe Center&#x27;s hotline at 206-722-3000 is generally reserved for recent UFO reports. However, brief queries may b...</span></span></span>
 
 ### The trade-off behind speed
 
 The same openness that makes dashboards useful also creates reliability challenges.
 
-Many public databases depend heavily on self-reported accounts. Reports can vary enormously in detail, accuracy and evidential value. Some include photographs, timestamps and multiple witnesses. Others contain only a brief description. Moderation policies differ from one platform to another, and not every report receives a full investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+Many public databases depend heavily on self-reported accounts. Reports can vary enormously in detail, accuracy and evidential value. Some include photographs, timestamps and multiple witnesses. Others contain only a brief description. Moderation policies differ from one platform to another, and not every report receives a full investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-Large public datasets also accumulate [duplicates]({{ 'duplicates/' | relative_url }}). A single event may be reported by multiple witnesses, reposted across platforms or entered into derivative datasets used by researchers and hobbyists. When dashboard data is exported into secondary projects, additional cleaning and verification become necessary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://github.com/timothyrenner/nuforc_sightings_data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-snippet">timothyrenner/nuforc_sightings_data: Data collection and...The Nationa UFO Research Center (NUFORC) maintains an online database o...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kaggle.com/datasets/sawradipsaha/ufo-data-national-ufo-reporting-center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kaggle.com">[Kaggle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kaggle.com</span><span class="citation-popover-title">UFO Data</span><span class="citation-popover-snippet">Amarel · 3.5; UFO Report Time Series · Noah Hradek · 8.2; NUFORC UFO Data for English Speaking...Read more...</span></span></span>
+Large public datasets also accumulate [duplicates]({{ 'duplicates/' | relative_url }}). A single event may be reported by multiple witnesses, reposted across platforms or entered into derivative datasets used by researchers and hobbyists. When dashboard data is exported into secondary projects, additional cleaning and verification become necessary.<span class="citation-chip-wrap"><a class="citation-chip" href="https://github.com/timothyrenner/nuforc_sightings_data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-snippet">timothyrenner/nuforc_sightings_data: Data collection and...The Nationa UFO Research Center (NUFORC) maintains an online database o...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kaggle.com/datasets/sawradipsaha/ufo-data-national-ufo-reporting-center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kaggle.com">[Kaggle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kaggle.com</span><span class="citation-popover-title">UFO Data</span><span class="citation-popover-snippet">Amarel · 3.5; UFO Report Time Series · Noah Hradek · 8.2; NUFORC UFO Data for English Speaking...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_archives_vs_dashboar_bc7b19-Illustration-2-dark.svg" | relative_url }}" alt="Archives vs Apps illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_archives_vs_dashboar_bc7b19-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_archives_vs_dashboar_bc7b19-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to compare access, speed and provenance
@@ -325,19 +325,19 @@ The easiest way to compare archives and dashboards is to ask three questions.
 * Public dashboards usually win.
 * Witnesses can submit reports directly.
 * Interactive maps and feeds often update far faster than institutional archives.
-* Historical archives may release records years or decades after events occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lON" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for State ONNUFORC · Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search · M...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=highlights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Highlighted NUFORC ReportsNUFORC. Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search · Men...</span></span></span>
+* Historical archives may release records years or decades after events occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lON" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for State ONNUFORC · Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search · M...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=highlights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Highlighted NUFORC ReportsNUFORC. Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search · Men...</span></span></span>
 
 **How easily can users search the material?**
 
 * Dashboards are generally easier for casual users.
 * Filters, maps and keyword searches reduce the effort required to explore large collections.
-* Archives may require familiarity with catalogue systems, record groups and document references. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+* Archives may require familiarity with catalogue systems, record groups and document references.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 **How strong is the provenance?**
 
 * Official archives generally provide stronger provenance.
 * Records are usually linked to specific agencies, filing systems and preservation practices.
-* Researchers can often identify exactly where a document originated and how it was retained. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</span></span></span>
+* Researchers can often identify exactly where a document originated and how it was retained.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</span></span></span>
 
 These strengths and weaknesses mean that a visually impressive dashboard is not necessarily a stronger source than a plain archival catalogue. Likewise, a government archive is not automatically more complete simply because it is official. Archives may exclude records that were never preserved, never released or never collected in the first place.
 
@@ -349,7 +349,7 @@ One of the most useful reliability tests occurs when a dashboard summary and an 
 
 A dashboard may describe a sighting as unresolved, while archival material shows investigators considered several conventional explanations. Conversely, a government case file may have received a routine explanation despite later researchers identifying gaps in the investigation. The disagreement itself can be informative because it reveals how interpretations change over time.
 
-Project Blue Book demonstrates this tension. Official summaries reported that most investigated cases were eventually explained, while a smaller number remained unidentified. Later researchers have revisited individual cases and debated whether some classifications were justified or whether evidence was incomplete. The archive preserves the documentation necessary for those debates, while public databases help researchers locate related witness accounts and subsequent commentary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The project, headquartered at Wright-Patterson Air Force</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookFrom 1947 to 1969, the Air Force investigated Unidentified Flying Obj...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</span></span></span>
+Project Blue Book demonstrates this tension. Official summaries reported that most investigated cases were eventually explained, while a smaller number remained unidentified. Later researchers have revisited individual cases and debated whether some classifications were justified or whether evidence was incomplete. The archive preserves the documentation necessary for those debates, while public databases help researchers locate related witness accounts and subsequent commentary.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The project, headquartered at Wright-Patterson Air Force</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookFrom 1947 to 1969, the Air Force investigated Unidentified Flying Obj...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</span></span></span>
 
 This is why experienced researchers often treat archives as source repositories and dashboards as discovery tools. The dashboard helps find a case; the archive helps verify what can actually be documented about it.
 
@@ -359,199 +359,199 @@ This is why experienced researchers often treat archives as source repositories 
 
 Archives are usually better for provenance, document tracing and understanding how an institution handled a report. Public dashboards are usually better for discovering reports, identifying patterns and following ongoing public submissions.
 
-The strongest reliability assessments come from combining both. A dashboard can reveal that hundreds of witnesses reported similar objects in a region. An archive can reveal what investigators concluded, what evidence was collected and whether original records still exist. Used together, they answer different questions about the same phenomenon. Used separately, each leaves important gaps. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</span></span></span>
+The strongest reliability assessments come from combining both. A dashboard can reveal that hundreds of witnesses reported similar objects in a region. An archive can reveal what investigators concluded, what evidence was collected and whether original records still exist. Used together, they answer different questions about the same phenomenon. Used separately, each leaves important gaps.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_archives_vs_dashboar_bc7b19-Illustration-3-dark.svg" | relative_url }}" alt="Archives vs Apps illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_archives_vs_dashboar_bc7b19-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_database_reliability_e2436f_archives_vs_dashboar_bc7b19-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Are Archives Better Than UFO Dashboards?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Are Archives Better Than UFO Dashboards?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Helps readers understand classification, investigation quality, and why raw sighting lists need careful interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand classification, investigation quality, and why raw sighting lists need careful interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Connects UFO evidence, official witnesses, and government documentation, fitting archive-versus-public-system reliability questions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects UFO evidence, official witnesses, and government documentation, fitting archive-versus-public-system reliability questions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Gives context for how official UFO reports were collected, assessed, summarised, and archived.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Gives context for how official UFO reports were collected, assessed, summarised, and archived.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Directly supports comparing official archives, provenance, government records, and database summaries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly supports comparing official archives, provenance, government records, and database summaries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="archives-vs-apps-are-archives-better-than-ufo-dashboards-ufo-report-databases-and-catalogues-ufo-poster-book-books-serie" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -567,7 +567,7 @@ The strongest reliability assessments come from combining both. A dashboard can 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -587,7 +587,7 @@ The strongest reliability assessments come from combining both. A dashboard can 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -619,7 +619,7 @@ The strongest reliability assessments come from combining both. A dashboard can 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -671,7 +671,7 @@ The strongest reliability assessments come from combining both. A dashboard can 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -716,7 +716,7 @@ The strongest reliability assessments come from combining both. A dashboard can 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -757,211 +757,211 @@ The strongest reliability assessments come from combining both. A dashboard can 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesBulk Downloads for Records Related to Unidentified...Digitized and born-digital records related to Unidentified Anomalo...</p></details>
+   Link:<a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesBulk Downloads for Records Related to Unidentified...Digitized and born-digital records related to Unidentified Anomalo...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</p></details>
+   Link:<a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — NARA has records related to unidentified flyi...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — NARA has records related to unidentified flyi...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
+   Link:<a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/ndx/?id=event" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=event</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by MonthNUFORC. Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search · Menu C...</p></details>
+   Link:<a href="https://nuforc.org/ndx/?id=event" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=event</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by MonthNUFORC. Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search · Menu C...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nuforc.org  
    Title: Browse reports, images, videos, maps and more  
-   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witn...</p></details>
+   Link:<a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witn...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports by Location NUFORC Reports by Location; USA  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationNUFORC Reports by Location; USA - Oregon, 3808; USA - Pennsylvania, 5387; USA - Puerto Rico, 192; USA - Rho...</p></details>
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationNUFORC Reports by Location; USA - Oregon, 3808; USA - Pennsylvania, 5387; USA - Puerto Rico, 192; USA - Rho...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nuforc.org  
    Title: report a ufo  
-   Link: <a href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/report-a-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>File a UFO Report | NUFORCThe Center&#x27;s hotline at 206-722-3000 is generally reserved for recent UFO reports. However, brief queries may b...</p></details>
+   Link:<a href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/report-a-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>File a UFO Report | NUFORCThe Center&#x27;s hotline at 206-722-3000 is generally reserved for recent UFO reports. However, brief queries may b...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: github.com  
-   Link: <a href="https://github.com/timothyrenner/nuforc_sightings_data" target="_blank" rel="noopener noreferrer nofollow">https://github.com/timothyrenner/nuforc_sightings_data</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>timothyrenner/nuforc_sightings_data: Data collection and...The Nationa UFO Research Center (NUFORC) maintains an online database o...</p></details>
+   Link:<a href="https://github.com/timothyrenner/nuforc_sightings_data" target="_blank" rel="noopener noreferrer nofollow">https://github.com/timothyrenner/nuforc_sightings_data</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>timothyrenner/nuforc_sightings_data: Data collection and...The Nationa UFO Research Center (NUFORC) maintains an online database o...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: kaggle.com  
    Title: UFO Data  
-   Link: <a href="https://www.kaggle.com/datasets/sawradipsaha/ufo-data-national-ufo-reporting-center" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/sawradipsaha/ufo-data-national-ufo-reporting-center</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Amarel · 3.5; UFO Report Time Series · Noah Hradek · 8.2; NUFORC UFO Data for English Speaking...Read more...</p></details>
+   Link:<a href="https://www.kaggle.com/datasets/sawradipsaha/ufo-data-national-ufo-reporting-center" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/sawradipsaha/ufo-data-national-ufo-reporting-center</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Amarel · 3.5; UFO Report Time Series · Noah Hradek · 8.2; NUFORC UFO Data for English Speaking...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: kaggle.com  
-   Link: <a href="https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO SightingsThe National UFO Research Center (NUFORC) collects and serves over 100,000 reports of UFO sightings. This dataset contains t...</p></details>
+   Link:<a href="https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO SightingsThe National UFO Research Center (NUFORC) collects and serves over 100,000 reports of UFO sightings. This dataset contains t...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The page is organized by record group, with links to...Read more...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The page is organized by record group, with links to...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: archives.gov  
    Title: presidential libraries  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/presidential-libraries" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/presidential-libraries</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...30 Jan 2026 — This page provides a list of presidential records related to U...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps/presidential-libraries" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/presidential-libraries</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...30 Jan 2026 — This page provides a list of presidential records related to U...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: archives.gov  
    Title: moving images and sound  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — This page provides a list of moving images and sound recording...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — This page provides a list of moving images and sound recording...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=lON" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lON</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for State ONNUFORC · Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search · M...</p></details>
+   Link:<a href="https://nuforc.org/subndx/?id=lON" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lON</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for State ONNUFORC · Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search · M...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=highlights" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=highlights</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Highlighted NUFORC ReportsNUFORC. Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search · Men...</p></details>
+   Link:<a href="https://nuforc.org/subndx/?id=highlights" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=highlights</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Highlighted NUFORC ReportsNUFORC. Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search · Men...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: kaggle.com  
-   Link: <a href="https://www.kaggle.com/datasets/thedevastator/uncovering-mysterious-unexplained-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/thedevastator/uncovering-mysterious-unexplained-ufo-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings (Location &amp; Time)This vast dataset contains records of reported UFO sightings from North America, including detailed inform...</p></details>
+   Link:<a href="https://www.kaggle.com/datasets/thedevastator/uncovering-mysterious-unexplained-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/thedevastator/uncovering-mysterious-unexplained-ufo-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings (Location &amp; Time)This vast dataset contains records of reported UFO sightings from North America, including detailed inform...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: af.mil  
    Title: The project, headquartered at Wright-Patterson Air Force  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookFrom 1947 to 1969, the Air Force investigated Unidentified Flying Obj...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookFrom 1947 to 1969, the Air Force investigated Unidentified Flying Obj...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOsThis is a brief guide to researching records of UFOs. The surviving records consist mainly of documents relating to official policy...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOsThis is a brief guide to researching records of UFOs. The surviving records consist mainly of documents relating to official policy...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookProject Blue Book was the code name for the systematic study of unidentified flying objects (UFOs) by the United Stat...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookProject Blue Book was the code name for the systematic study of unidentified flying objects (UFOs) by the United Stat...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
    Title: National UFO Reporting Center  
-   Link: <a href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_UFO_Reporting_Center</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting CenterMUFON, the most prominent UFO data collectors in the US, have worked with the National UFO Reporting Cent...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_UFO_Reporting_Center</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting CenterMUFON, the most prominent UFO data collectors in the US, have worked with the National UFO Reporting Cent...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives – UFO files (MoD)No information is available for this page...</p></details>
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives – UFO files (MoD)No information is available for this page...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: briefing guide 12 07 12  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>documentanalysis of 12,618 reports collected by the USAF Project Blue Book between 1947 and. 1969 (Blue Book followed Projects Sign and G...</p></details>
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>documentanalysis of 12,618 reports collected by the USAF Project Blue Book between 1947 and. 1969 (Blue Book followed Projects Sign and G...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — Project Blue Book, code name for the United States&#x27; longest-running Air Force pro...</p></details>
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — Project Blue Book, code name for the United States&#x27; longest-running Air Force pro...</p></details>
    Published: May 2026  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: docsteach.org  
-   Link: <a href="https://docsteach.org/document/project-blue-book-status-report-number-eight/" target="_blank" rel="noopener noreferrer nofollow">https://docsteach.org/document/project-blue-book-status-report-number-eight/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force&#x27;s investigations into UFOs. Periodically, Project Bluebook staff created...Read more...</p></details>
+   Link:<a href="https://docsteach.org/document/project-blue-book-status-report-number-eight/" target="_blank" rel="noopener noreferrer nofollow">https://docsteach.org/document/project-blue-book-status-report-number-eight/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force&#x27;s investigations into UFOs. Periodically, Project Bluebook staff created...Read more...</p></details>
 
 ### Additional References
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: archivesfoundation.org  
-   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>50 Years Ago: Government Stops Investigating UFOsTo mark the 50th anniversary of the end of Project Blue Book, the National Archives will...</p></details>
+   Link:<a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>50 Years Ago: Government Stops Investigating UFOsTo mark the 50th anniversary of the end of Project Blue Book, the National Archives will...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: reddit.com  
    Title: i analyzed 80000 ufo sightings from the nuforc  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>databaseI analyzed the comments (free text fields) that captured the witness accounts in the NUFORC database of over 80000 sightings.Read...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>databaseI analyzed the comments (free text fields) that captured the witness accounts in the NUFORC database of over 80000 sightings.Read...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: cristinaiglesias.com  
-   Link: <a href="https://cristinaiglesias.com/blog/project-blue-book-archives-unlocking-the-pentagons-cold-war-uap-secrets/" target="_blank" rel="noopener noreferrer nofollow">https://cristinaiglesias.com/blog/project-blue-book-archives-unlocking-the-pentagons-cold-war-uap-secrets/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>er the Pentagon&#x27;s most chilling Cold War UAP cases that remain unsolved...</p></details>
+   Link:<a href="https://cristinaiglesias.com/blog/project-blue-book-archives-unlocking-the-pentagons-cold-war-uap-secrets/" target="_blank" rel="noopener noreferrer nofollow">https://cristinaiglesias.com/blog/project-blue-book-archives-unlocking-the-pentagons-cold-war-uap-secrets/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>er the Pentagon&#x27;s most chilling Cold War UAP cases that remain unsolved...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: vault.fbi.gov  
    Title: Project Blue Book (UFO)  
-   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book (UFO)Project Blue Book Originally Project Blue Book was the Air Force name for a project that investigated UFO reports between...</p></details>
+   Link:<a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book (UFO)Project Blue Book Originally Project Blue Book was the Air Force name for a project that investigated UFO reports between...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: history.navy.mil  
    Title: u2s ufos and operation blue book  
-   Link: <a href="https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U-2s, UFOs, and Operation Blue Book24 Jan 2024 — Based at Wright-Patterson, the operation collected all reports of UFO sightings. Air For...</p></details>
+   Link:<a href="https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U-2s, UFOs, and Operation Blue Book24 Jan 2024 — Based at Wright-Patterson, the operation collected all reports of UFO sightings. Air For...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40pavelzlatnk/when-disclosure-doesnt-mean-disclosure-ebad49d893b9" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40pavelzlatnk/when-disclosure-doesnt-mean-disclosure-ebad49d893b9</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ructure around UAP records. The U.S....Read more...</p></details>
+   Link:<a href="https://medium.com/%40pavelzlatnk/when-disclosure-doesnt-mean-disclosure-ebad49d893b9" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40pavelzlatnk/when-disclosure-doesnt-mean-disclosure-ebad49d893b9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ructure around UAP records. The U.S....Read more...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsMost commonly reported shapes in UFO sightings gathered in the National UFO Reporting Center (NUFORC) On...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsMost commonly reported shapes in UFO sightings gathered in the National UFO Reporting Center (NUFORC) On...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: cuny.manifoldapp.org  
-   Link: <a href="https://cuny.manifoldapp.org/read/national-ufo-reporting-center/section/fcbc8a38-68e6-4d00-927c-a9f799775599/resource/3e3a208c-fcc6-4ff4-a8e5-b42d60a7dfa5" target="_blank" rel="noopener noreferrer nofollow">https://cuny.manifoldapp.org/read/national-ufo-reporting-center/section/fcbc8a38-68e6-4d00-927c-a9f799775599/resource/3e3a208c-fcc6-4ff4-a8e5-b42d60a7dfa5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center Home Page14 Apr 2025 — The National UFO Reporting Center (NUFORC) is a text-heavy web-based archive with a...</p></details>
+   Link:<a href="https://cuny.manifoldapp.org/read/national-ufo-reporting-center/section/fcbc8a38-68e6-4d00-927c-a9f799775599/resource/3e3a208c-fcc6-4ff4-a8e5-b42d60a7dfa5" target="_blank" rel="noopener noreferrer nofollow">https://cuny.manifoldapp.org/read/national-ufo-reporting-center/section/fcbc8a38-68e6-4d00-927c-a9f799775599/resource/3e3a208c-fcc6-4ff4-a8e5-b42d60a7dfa5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center Home Page14 Apr 2025 — The National UFO Reporting Center (NUFORC) is a text-heavy web-based archive with a...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
    Title: UFO FILES: 35 minutes of 'never-before-seen' footage released under Trump  
-   Link: <a href="https://www.youtube.com/watch?v=93V7pOi-oIQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=93V7pOi-oIQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Releases First Batch of 160+ Declassified Files on UFO Sightings...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=93V7pOi-oIQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=93V7pOi-oIQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>United States Releases First Batch of 160+ Declassified Files on UFO Sightings...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: experiments.withgoogle.com  
-   Link: <a href="https://experiments.withgoogle.com/ufo-sightings-around-the-world" target="_blank" rel="noopener noreferrer nofollow">https://experiments.withgoogle.com/ufo-sightings-around-the-world</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We built this webpage to host all of the visualizations we created so other people can...Read more...</p></details>
+   Link:<a href="https://experiments.withgoogle.com/ufo-sightings-around-the-world" target="_blank" rel="noopener noreferrer nofollow">https://experiments.withgoogle.com/ufo-sightings-around-the-world</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We built this webpage to host all of the visualizations we created so other people can...Read more...</p></details>

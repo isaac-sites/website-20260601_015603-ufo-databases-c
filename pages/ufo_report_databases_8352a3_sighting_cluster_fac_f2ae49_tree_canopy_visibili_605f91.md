@@ -274,18 +274,18 @@ image: /assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_tr
 
 ## Introduction
 
-Tree cover and terrain shape UFO sighting databases in a simple but often overlooked way: people can only report what they are able to see. Dense forest canopies, steep valleys, ridgelines and broken terrain reduce the visible portion of the sky, limiting opportunities to observe distant lights, aircraft, satellites or unexplained aerial objects. In contrast, open deserts, plains and elevated landscapes provide wider fields of view and longer sightlines, increasing the chances that unusual aerial events will be noticed and reported. Recent spatial analysis of nearly 100,000 UAP reports in the United States found that environmental visibility factors, including tree canopy cover, have measurable relationships with where reports cluster. Rather than treating all sighting maps as direct evidence of anomalous activity, researchers increasingly examine how landscape visibility influences what enters public databases in the first place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — Supporting these efforts, this res...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — Supporting these efforts, this research tea...</span></span></span>
+Tree cover and terrain shape UFO sighting databases in a simple but often overlooked way: people can only report what they are able to see. Dense forest canopies, steep valleys, ridgelines and broken terrain reduce the visible portion of the sky, limiting opportunities to observe distant lights, aircraft, satellites or unexplained aerial objects. In contrast, open deserts, plains and elevated landscapes provide wider fields of view and longer sightlines, increasing the chances that unusual aerial events will be noticed and reported. Recent spatial analysis of nearly 100,000 UAP reports in the United States found that environmental visibility factors, including tree canopy cover, have measurable relationships with where reports cluster. Rather than treating all sighting maps as direct evidence of anomalous activity, researchers increasingly examine how landscape visibility influences what enters public databases in the first place.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — Supporting these efforts, this res...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — Supporting these efforts, this research tea...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_tree_canopy_visibili_605f91-Illustration-1-dark.svg" | relative_url }}" alt="Tree Canopy illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_tree_canopy_visibili_605f91-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_tree_canopy_visibili_605f91-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Tree Canopy and Open Sky Analysis
 
 Forest cover acts as a natural visibility filter. A witness standing beneath a dense canopy may only see small patches of sky through gaps in the trees, while someone in an open field can observe a much larger portion of the horizon and overhead sky. This difference matters because many UFO reports involve distant lights, moving points of illumination, aircraft-like objects or transient events that require an unobstructed view.
 
-The strongest quantitative evidence comes from a 2023 study published in *Scientific Reports*. Researchers analysed approximately 98,700 reports from the National UFO Reporting Center ([NUFORC]({{ 'nuforc/' | relative_url }})) and compared reporting rates with environmental variables at county level across the contiguous United States. Tree canopy cover showed a negative relationship with reported sightings, consistent with the idea that heavier vegetation reduces opportunities for observation. The study's authors interpreted this as support for a visibility-based explanation: when people have less sky available to observe, fewer aerial phenomena enter reporting systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — Supporting these efforts, this res...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — Supporting these efforts, this research tea...</span></span></span>
+The strongest quantitative evidence comes from a 2023 study published in *Scientific Reports*. Researchers analysed approximately 98,700 reports from the National UFO Reporting Center ([NUFORC]({{ 'nuforc/' | relative_url }})) and compared reporting rates with environmental variables at county level across the contiguous United States. Tree canopy cover showed a negative relationship with reported sightings, consistent with the idea that heavier vegetation reduces opportunities for observation. The study's authors interpreted this as support for a visibility-based explanation: when people have less sky available to observe, fewer aerial phenomena enter reporting systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — Supporting these efforts, this res...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — Supporting these efforts, this research tea...</span></span></span>
 
-This does not necessarily mean fewer unusual objects are present over forested areas. Instead, it suggests that databases may systematically underrepresent locations where environmental conditions restrict observation. A heavily wooded county could experience the same number of aerial events as a neighbouring open landscape while generating fewer reports simply because fewer witnesses have clear lines of sight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — Supporting these efforts, this res...</span></span></span>
+This does not necessarily mean fewer unusual objects are present over forested areas. Instead, it suggests that databases may systematically underrepresent locations where environmental conditions restrict observation. A heavily wooded county could experience the same number of aerial events as a neighbouring open landscape while generating fewer reports simply because fewer witnesses have clear lines of sight.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — Supporting these efforts, this res...</span></span></span>
 
-Researchers studying visibility in geographic information systems frequently describe vegetation as a partially opaque obstacle. Modern viewshed analysis increasingly attempts to account for forest density because traditional line-of-sight models often overestimate what observers can actually see through wooded terrain. Studies of vegetation-aware visibility modelling show that forest cover substantially alters real-world observation opportunities, particularly over long distances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1674987120302498" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The method is based on a quasi-Monte Carlo simulation.Read more...</span></span></span>
+Researchers studying visibility in geographic information systems frequently describe vegetation as a partially opaque obstacle. Modern viewshed analysis increasingly attempts to account for forest density because traditional line-of-sight models often overestimate what observers can actually see through wooded terrain. Studies of vegetation-aware visibility modelling show that forest cover substantially alters real-world observation opportunities, particularly over long distances.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1674987120302498" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The method is based on a quasi-Monte Carlo simulation.Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LKYcy0n82x8" title="Phil and Jessica Try To Communicate With UFOs In Utah&#x27;s Most Mysterious Valley | Expedition X S4 Ep8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LKYcy0n82x8" target="_blank" rel="noopener noreferrer">Phil and Jessica Try To Communicate With UFOs In Utah&#x27;s Most Mysterious Valley | Expedition X S4 Ep8</a></p><p class="youtube-embed-meta">Channel: DiscoveryChannelInd &middot; Views: 39.3K &middot; Uploaded: March 2026 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LKYcy0n82x8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LKYcy0n82x8">Open on YouTube</a></p></div></div></div>
 
@@ -293,7 +293,7 @@ Researchers studying visibility in geographic information systems frequently des
 
 Trees are only one part of the visibility problem. Terrain itself can hide large sections of the sky and horizon.
 
-In geographic analysis, a "viewshed" refers to the area visible from a particular location after accounting for elevation changes. Hills, mountains, ridges and canyon walls block sightlines in much the same way buildings block visibility in cities. Someone standing in a valley may have excellent visibility directly overhead but a severely restricted view of the horizon, where many reported UFO observations begin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mapular.com/glossary/viewshed-analysis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapular.com">[Mapular]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapular.com</span><span class="citation-popover-snippet">Viewshed Analysis: Mapping Terrain VisibilityViewshed analysis determines the areas visible from one or more observation points ac...</span></span></span>
+In geographic analysis, a "viewshed" refers to the area visible from a particular location after accounting for elevation changes. Hills, mountains, ridges and canyon walls block sightlines in much the same way buildings block visibility in cities. Someone standing in a valley may have excellent visibility directly overhead but a severely restricted view of the horizon, where many reported UFO observations begin.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mapular.com/glossary/viewshed-analysis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapular.com">[Mapular]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapular.com</span><span class="citation-popover-snippet">Viewshed Analysis: Mapping Terrain VisibilityViewshed analysis determines the areas visible from one or more observation points ac...</span></span></span>
 
 Several mechanisms affect sighting likelihood:
 
@@ -302,7 +302,7 @@ Several mechanisms affect sighting likelihood:
 * **Horizon masking:** Mountains and ridges conceal low-altitude objects and reduce the visible horizon distance.
 * **Valley confinement:** Deep valleys create narrow viewing corridors, limiting the directions from which objects can be observed.
 * **Elevation advantage:** Higher observation points often provide wider sky coverage and longer viewing distances.
-* **Terrain fragmentation:** Rolling hills repeatedly interrupt line-of-sight tracking, making it harder for observers to follow moving objects across the landscape. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mapular.com/glossary/viewshed-analysis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapular.com">[Mapular]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapular.com</span><span class="citation-popover-snippet">Viewshed Analysis: Mapping Terrain VisibilityViewshed analysis determines the areas visible from one or more observation points ac...</span></span></span>
+* **Terrain fragmentation:** Rolling hills repeatedly interrupt line-of-sight tracking, making it harder for observers to follow moving objects across the landscape.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mapular.com/glossary/viewshed-analysis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapular.com">[Mapular]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapular.com</span><span class="citation-popover-snippet">Viewshed Analysis: Mapping Terrain VisibilityViewshed analysis determines the areas visible from one or more observation points ac...</span></span></span>
 
 </div>
 
@@ -311,7 +311,7 @@ These effects matter because many UFO reports involve motion. A witness may firs
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_tree_canopy_visibili_605f91-Illustration-2-dark.svg" | relative_url }}" alt="Tree Canopy illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_tree_canopy_visibili_605f91-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_tree_canopy_visibili_605f91-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Open Landscapes Produce More Reports
 
-One of the most striking findings from recent environmental studies is the concentration of reports across large areas of the western United States. Researchers examining UAP reporting patterns argue that the region's extensive open spaces, lower population densities combined with dark skies, and reduced canopy obstruction create favourable viewing conditions. The result is not necessarily more anomalous activity, but more opportunity to notice and document aerial events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: attheu.utah.edu">[attheu.utah.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">attheu.utah.edu</span><span class="citation-popover-title">The West is best to spot UFOs</span><span class="citation-popover-snippet">· Grainy, sepia-toned photograph of a silver flying...Read more...</span></span></span>
+One of the most striking findings from recent environmental studies is the concentration of reports across large areas of the western United States. Researchers examining UAP reporting patterns argue that the region's extensive open spaces, lower population densities combined with dark skies, and reduced canopy obstruction create favourable viewing conditions. The result is not necessarily more anomalous activity, but more opportunity to notice and document aerial events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: attheu.utah.edu">[attheu.utah.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">attheu.utah.edu</span><span class="citation-popover-title">The West is best to spot UFOs</span><span class="citation-popover-snippet">· Grainy, sepia-toned photograph of a silver flying...Read more...</span></span></span>
 
 Open landscapes offer several observational advantages:
 
@@ -325,7 +325,7 @@ Open landscapes offer several observational advantages:
 
 </div>
 
-The same logic helps explain why deserts and sparsely forested regions frequently appear in UFO hotspot discussions. Wide-open terrain increases exposure to both ordinary aerial traffic and genuinely unidentified observations. As one University of Utah analysis noted, people are more likely to report unexplained phenomena when environmental conditions give them a greater chance of seeing something in the first place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: attheu.utah.edu">[attheu.utah.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">attheu.utah.edu</span><span class="citation-popover-title">The West is best to spot UFOs</span><span class="citation-popover-snippet">· Grainy, sepia-toned photograph of a silver flying...Read more...</span></span></span>
+The same logic helps explain why deserts and sparsely forested regions frequently appear in UFO hotspot discussions. Wide-open terrain increases exposure to both ordinary aerial traffic and genuinely unidentified observations. As one University of Utah analysis noted, people are more likely to report unexplained phenomena when environmental conditions give them a greater chance of seeing something in the first place.<span class="citation-chip-wrap"><a class="citation-chip" href="https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: attheu.utah.edu">[attheu.utah.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">attheu.utah.edu</span><span class="citation-popover-title">The West is best to spot UFOs</span><span class="citation-popover-snippet">· Grainy, sepia-toned photograph of a silver flying...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Fsa3GEFr9RE" title="UFO files are ‘TREASURE TROVE of information,’ whistleblower says" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Fsa3GEFr9RE" target="_blank" rel="noopener noreferrer">UFO files are ‘TREASURE TROVE of information,’ whistleblower says</a></p><p class="youtube-embed-meta">Channel: Fox News Clips &middot; Views: 96.8K &middot; Uploaded: May 2026 &middot; Length: 4 minutes 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Fsa3GEFr9RE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Fsa3GEFr9RE">Open on YouTube</a></p></div></div></div>
 
@@ -335,7 +335,7 @@ Heavily forested regions create an important interpretive challenge for UFO data
 
 In these landscapes, sightings frequently occur in clearings, along roads, over lakes, from mountain overlooks or from settlements where the canopy opens. Witness narratives from forested regions often emphasise the sudden appearance of lights above treelines rather than long-distance tracking across open horizons. This reflects the constraints imposed by the landscape itself.
 
-The issue becomes particularly important when comparing regions statistically. A county dominated by forests may generate fewer reports than a neighbouring agricultural county even if both experience similar levels of aerial activity. Without accounting for visibility differences, researchers risk mistaking observational bias for a genuine geographic pattern. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — Supporting these efforts, this res...</span></span></span>
+The issue becomes particularly important when comparing regions statistically. A county dominated by forests may generate fewer reports than a neighbouring agricultural county even if both experience similar levels of aerial activity. Without accounting for visibility differences, researchers risk mistaking observational bias for a genuine geographic pattern.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — Supporting these efforts, this res...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fBjqEtnaK2Y" title="Best place to spot UFOs? The West, according to University of Utah" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fBjqEtnaK2Y" target="_blank" rel="noopener noreferrer">Best place to spot UFOs? The West, according to University of Utah</a></p><p class="youtube-embed-meta">Channel: ABC4 Utah &middot; Views: 4.3K &middot; Uploaded: February 2024 &middot; Length: 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fBjqEtnaK2Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fBjqEtnaK2Y">Open on YouTube</a></p></div></div></div>
 
@@ -343,206 +343,206 @@ The issue becomes particularly important when comparing regions statistically. A
 
 The growing use of geographic information systems has changed how researchers evaluate UFO report [clusters]({{ 'clusters/' | relative_url }}). Instead of assuming that concentrations of reports automatically indicate concentrations of unexplained phenomena, analysts increasingly ask whether the environment makes observation easier or harder.
 
-Modern visibility studies use digital elevation models, vegetation data and viewshed calculations to estimate what observers can realistically see from different locations. Similar techniques are widely used in environmental planning, forestry and telecommunications, where line-of-sight conditions are critical. Applying these methods to UFO databases helps distinguish potential observational artefacts from patterns that might warrant closer attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mapular.com/glossary/viewshed-analysis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapular.com">[Mapular]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapular.com</span><span class="citation-popover-snippet">Viewshed Analysis: Mapping Terrain VisibilityViewshed analysis determines the areas visible from one or more observation points ac...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.fs.usda.gov/download/treesearch/66876.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.fs.usda.gov">[USFS Research &amp; Development]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.fs.usda.gov</span><span class="citation-popover-snippet">USFS Research &amp; DevelopmentUsing airborne lidar and machine learning to predict visibility...by KA Mistick · 2023 · Cited by 11 — This s...</span></span></span>
+Modern visibility studies use digital elevation models, vegetation data and viewshed calculations to estimate what observers can realistically see from different locations. Similar techniques are widely used in environmental planning, forestry and telecommunications, where line-of-sight conditions are critical. Applying these methods to UFO databases helps distinguish potential observational artefacts from patterns that might warrant closer attention.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mapular.com/glossary/viewshed-analysis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapular.com">[Mapular]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapular.com</span><span class="citation-popover-snippet">Viewshed Analysis: Mapping Terrain VisibilityViewshed analysis determines the areas visible from one or more observation points ac...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://research.fs.usda.gov/download/treesearch/66876.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.fs.usda.gov">[USFS Research &amp; Development]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.fs.usda.gov</span><span class="citation-popover-snippet">USFS Research &amp; DevelopmentUsing airborne lidar and machine learning to predict visibility...by KA Mistick · 2023 · Cited by 11 — This s...</span></span></span>
 
-The implication is significant for catalogue interpretation. A low-report region is not automatically a low-activity region, just as a hotspot is not automatically evidence of unusual concentrations of phenomena. Tree canopy and terrain influence the visibility pipeline through which sightings become reports, and every database reflects that filtering process to some degree. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — Supporting these efforts, this res...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — Supporting these efforts, this research tea...</span></span></span>
+The implication is significant for catalogue interpretation. A low-report region is not automatically a low-activity region, just as a hotspot is not automatically evidence of unusual concentrations of phenomena. Tree canopy and terrain influence the visibility pipeline through which sightings become reports, and every database reflects that filtering process to some degree.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — Supporting these efforts, this res...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — Supporting these efforts, this research tea...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_tree_canopy_visibili_605f91-Illustration-3-dark.svg" | relative_url }}" alt="Tree Canopy illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_tree_canopy_visibili_605f91-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_tree_canopy_visibili_605f91-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Tree Canopy Reveals About Sighting Clusters
 
 Tree canopy and terrain are among the clearest examples of how environmental conditions shape UFO reporting patterns. Dense forests restrict sky access, while open terrain expands it. Valleys, ridges and mountains alter what observers can detect and how long they can follow an object. As a result, sighting databases are partly records of aerial observations and partly maps of observational opportunity.
 
-Recent environmental modelling supports the idea that visibility conditions help explain why some regions generate far more reports than others. For researchers working with large UFO catalogues, accounting for forest cover and terrain is therefore essential. Without that correction, apparent clusters may reveal as much about where people can see the sky as about what is actually moving through it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — Supporting these efforts, this res...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.euronews.com/next/2024/02/29/ufos-do-environmental-factors-increase-or-decrease-reported-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: euronews.com">[2euronews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">euronews.com</span><span class="citation-popover-snippet">UFOs: Do environmental factors increase or decrease...29 Feb 2024 — UFOs: Do environmental factors increase or decrease reported...</span></span></span>
+Recent environmental modelling supports the idea that visibility conditions help explain why some regions generate far more reports than others. For researchers working with large UFO catalogues, accounting for forest cover and terrain is therefore essential. Without that correction, apparent clusters may reveal as much about where people can see the sky as about what is actually moving through it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — Supporting these efforts, this res...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.euronews.com/next/2024/02/29/ufos-do-environmental-factors-increase-or-decrease-reported-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: euronews.com">[2euronews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">euronews.com</span><span class="citation-popover-snippet">UFOs: Do environmental factors increase or decrease...29 Feb 2024 — UFOs: Do environmental factors increase or decrease reported...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Landscape and Forest Cover Affect UFO Reports. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Landscape and Forest Cover Affect UFO Reports. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Keeps readers in the UFO investigation lane while landscape visibility is the local angle.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Keeps readers in the UFO investigation lane while landscape visibility is the local angle.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Explains how field of view, horizons and viewing conditions affect what skywatchers can see.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how field of view, horizons and viewing conditions affect what skywatchers can see.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Helps readers distinguish meaningful patterns from reporting artefacts and bias.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Helps readers distinguish meaningful patterns from reporting artefacts and bias.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IQhUzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IQhUzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
         
-        <p class="fr-book-desc">Supports the page’s point that terrain, horizon and local obstructions shape observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports the page’s point that terrain, horizon and local obstructions shape observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map"><img src="{{ '/assets/images/marketplace-covers/51b8893bbe54c1ca707b.jpg' | relative_url }}" alt="Listing image for Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer">Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map"><img src="{{ '/assets/images/marketplace-covers/51b8893bbe54c1ca707b.jpg' | relative_url }}" alt="Listing image for Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer">Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print Giant UFO Hovering Over Vintage City Red Beam Attack Map Style Weird"><img src="{{ '/assets/images/marketplace-covers/a91422e1e8ff511c3818.jpg' | relative_url }}" alt="Listing image for Art Print Giant UFO Hovering Over Vintage City Red Beam Attack Map Style Weird" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer">Art Print Giant UFO Hovering Over Vintage City Red Beam Attack Map Style Weird</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print Giant UFO Hovering Over Vintage City Red Beam Attack Map Style Weird"><img src="{{ '/assets/images/marketplace-covers/a91422e1e8ff511c3818.jpg' | relative_url }}" alt="Listing image for Art Print Giant UFO Hovering Over Vintage City Red Beam Attack Map Style Weird" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer">Art Print Giant UFO Hovering Over Vintage City Red Beam Attack Map Style Weird</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print Alien Saucer Over City Vintage Map UFO Hovering Leonardo Da Vinci Styl"><img src="{{ '/assets/images/marketplace-covers/622c1729001d43c4346c.jpg' | relative_url }}" alt="Listing image for Art Print Alien Saucer Over City Vintage Map UFO Hovering Leonardo Da Vinci Styl" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer">Art Print Alien Saucer Over City Vintage Map UFO Hovering Leonardo Da Vinci Styl</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print Alien Saucer Over City Vintage Map UFO Hovering Leonardo Da Vinci Styl"><img src="{{ '/assets/images/marketplace-covers/622c1729001d43c4346c.jpg' | relative_url }}" alt="Listing image for Art Print Alien Saucer Over City Vintage Map UFO Hovering Leonardo Da Vinci Styl" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer">Art Print Alien Saucer Over City Vintage Map UFO Hovering Leonardo Da Vinci Styl</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map"><img src="{{ '/assets/images/marketplace-covers/785e336da487766e89a7.jpg' | relative_url }}" alt="Listing image for Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer">Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map"><img src="{{ '/assets/images/marketplace-covers/785e336da487766e89a7.jpg' | relative_url }}" alt="Listing image for Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer">Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="tree-canopy-how-landscape-and-forest-cover-affect-ufo-reports-ufo-report-databases-and-catalogue-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -558,7 +558,7 @@ Recent environmental modelling supports the idea that visibility conditions help
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -578,7 +578,7 @@ Recent environmental modelling supports the idea that visibility conditions help
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -610,7 +610,7 @@ Recent environmental modelling supports the idea that visibility conditions help
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -662,7 +662,7 @@ Recent environmental modelling supports the idea that visibility conditions help
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -707,7 +707,7 @@ Recent environmental modelling supports the idea that visibility conditions help
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -748,95 +748,95 @@ Recent environmental modelling supports the idea that visibility conditions help
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-49527-x</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — Supporting these efforts, this res...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-49527-x</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — Supporting these efforts, this res...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — Supporting these efforts, this research tea...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — Supporting these efforts, this research tea...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: euronews.com  
-   Link: <a href="https://www.euronews.com/next/2024/02/29/ufos-do-environmental-factors-increase-or-decrease-reported-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.euronews.com/next/2024/02/29/ufos-do-environmental-factors-increase-or-decrease-reported-sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: Do environmental factors increase or decrease...29 Feb 2024 — UFOs: Do environmental factors increase or decrease reported...</p></details>
+   Link:<a href="https://www.euronews.com/next/2024/02/29/ufos-do-environmental-factors-increase-or-decrease-reported-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.euronews.com/next/2024/02/29/ufos-do-environmental-factors-increase-or-decrease-reported-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: Do environmental factors increase or decrease...29 Feb 2024 — UFOs: Do environmental factors increase or decrease reported...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1674987120302498" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1674987120302498</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The method is based on a quasi-Monte Carlo simulation.Read more...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1674987120302498" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1674987120302498</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The method is based on a quasi-Monte Carlo simulation.Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: mapular.com  
-   Link: <a href="https://mapular.com/glossary/viewshed-analysis" target="_blank" rel="noopener noreferrer nofollow">https://mapular.com/glossary/viewshed-analysis</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Viewshed Analysis: Mapping Terrain VisibilityViewshed analysis determines the areas visible from one or more observation points ac...</p></details>
+   Link:<a href="https://mapular.com/glossary/viewshed-analysis" target="_blank" rel="noopener noreferrer nofollow">https://mapular.com/glossary/viewshed-analysis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Viewshed Analysis: Mapping Terrain VisibilityViewshed analysis determines the areas visible from one or more observation points ac...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: attheu.utah.edu  
    Title: The West is best to spot UFOs  
-   Link: <a href="https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>· Grainy, sepia-toned photograph of a silver flying...Read more...</p></details>
+   Link:<a href="https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>· Grainy, sepia-toned photograph of a silver flying...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: research.fs.usda.gov  
-   Link: <a href="https://research.fs.usda.gov/download/treesearch/66876.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.fs.usda.gov/download/treesearch/66876.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>USFS Research &amp; DevelopmentUsing airborne lidar and machine learning to predict visibility...by KA Mistick · 2023 · Cited by 11 — This s...</p></details>
+   Link:<a href="https://research.fs.usda.gov/download/treesearch/66876.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.fs.usda.gov/download/treesearch/66876.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USFS Research &amp; DevelopmentUsing airborne lidar and machine learning to predict visibility...by KA Mistick · 2023 · Cited by 11 — This s...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/391877882_Image-based_Visibility_Analysis_Replacing_Line-of-Sight_Simulation_An_Urban_Landmark_Perspective" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391877882_Image-based_Visibility_Analysis_Replacing_Line-of-Sight_Simulation_An_Urban_Landmark_Perspective</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Image-based Visibility Analysis Replacing Line-of-Sight...20 May 2025 — The study challenges the traditional LoS-based approaches by int...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/391877882_Image-based_Visibility_Analysis_Replacing_Line-of-Sight_Simulation_An_Urban_Landmark_Perspective" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391877882_Image-based_Visibility_Analysis_Replacing_Line-of-Sight_Simulation_An_Urban_Landmark_Perspective</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Image-based Visibility Analysis Replacing Line-of-Sight...20 May 2025 — The study challenges the traditional LoS-based approaches by int...</p></details>
    Published: May 2025  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ouci.dntb.gov.ua  
-   Link: <a href="https://ouci.dntb.gov.ua/en/works/4EweyOK9/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/4EweyOK9/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>[https://nuforc.org/databank/](https://nuforc.org/databank/) (2023). Appelle, S. UFOs and the scientific method. Science 281, 5379 (1998)...Read more...</p></details>
+   Link:<a href="https://ouci.dntb.gov.ua/en/works/4EweyOK9/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/4EweyOK9/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[https://nuforc.org/databank/](https://nuforc.org/databank/) (2023). Appelle, S. UFOs and the scientific method. Science 281, 5379 (1998)...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Discovery/posts/investigators-scope-out-ghost-canyon-in-the-hopes-of-uncovering-the-truth-behind/1269962235177026/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Discovery/posts/investigators-scope-out-ghost-canyon-in-the-hopes-of-uncovering-the-truth-behind/1269962235177026/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bigfoot is real! While mainstream science has refused to accept the existence of the hair hominin, reports of...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/Discovery/posts/investigators-scope-out-ghost-canyon-in-the-hopes-of-uncovering-the-truth-behind/1269962235177026/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Discovery/posts/investigators-scope-out-ghost-canyon-in-the-hopes-of-uncovering-the-truth-behind/1269962235177026/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bigfoot is real! While mainstream science has refused to accept the existence of the hair hominin, reports of...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ufotransparency.com  
    Title: UFO Transparency An environmental analysis of public UAP sightings and sky  
-   Link: <a href="https://ufotransparency.com/scholarly/papers/medina-uap-sightings-environment-2023" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/scholarly/papers/medina-uap-sightings-environment-2023</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tree canopy, and show no credible relationship with cloud cover... thedisclosureindex@gmail.com@TransparencyUFO. AKHRA NX-KGX. DI03 · SC...</p></details>
+   Link:<a href="https://ufotransparency.com/scholarly/papers/medina-uap-sightings-environment-2023" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/scholarly/papers/medina-uap-sightings-environment-2023</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tree canopy, and show no credible relationship with cloud cover... thedisclosureindex@gmail.com@TransparencyUFO. AKHRA NX-KGX. DI03 · SC...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/376519968_An_environmental_analysis_of_public_UAP_sightings_and_sky_view_potential" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376519968_An_environmental_analysis_of_public_UAP_sightings_and_sky_view_potential</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science 281, 5379 (1998). 9. Zimmer, T. A. Social psychological correlates of possible UFO sightings. J. Soc. Ps...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/376519968_An_environmental_analysis_of_public_UAP_sightings_and_sky_view_potential" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376519968_An_environmental_analysis_of_public_UAP_sightings_and_sky_view_potential</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science 281, 5379 (1998). 9. Zimmer, T. A. Social psychological correlates of possible UFO sightings. J. Soc. Ps...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
    Title: 228379151 Sky Viewshed Modelling for GPS Use in the Urban Environment  
-   Link: <a href="https://www.researchgate.net/publication/228379151_Sky_Viewshed_Modelling_for_GPS_Use_in_the_Urban_Environment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228379151_Sky_Viewshed_Modelling_for_GPS_Use_in_the_Urban_Environment</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Sky Viewshed Modelling for GPS Use in the Urban...PDF | On Jan 1, 2003, Bridget Joan Beesley published Sky Viewshed Modelling for...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/228379151_Sky_Viewshed_Modelling_for_GPS_Use_in_the_Urban_Environment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228379151_Sky_Viewshed_Modelling_for_GPS_Use_in_the_Urban_Environment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Sky Viewshed Modelling for GPS Use in the Urban...PDF | On Jan 1, 2003, Bridget Joan Beesley published Sky Viewshed Modelling for...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Local3News/posts/in-search-of-sasquatch-the-legend-of-bigfoot-shows-little-sign-of-fading-away-fr/1433829095454543/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Local3News/posts/in-search-of-sasquatch-the-legend-of-bigfoot-shows-little-sign-of-fading-away-fr/1433829095454543/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IN SEARCH OF SASQUATCH: The legend of Bigfoot...When most people think about Bigfoot, they imagine an ape-like creature lurking in the c...</p></details>
+   Link:<a href="https://www.facebook.com/Local3News/posts/in-search-of-sasquatch-the-legend-of-bigfoot-shows-little-sign-of-fading-away-fr/1433829095454543/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Local3News/posts/in-search-of-sasquatch-the-legend-of-bigfoot-shows-little-sign-of-fading-away-fr/1433829095454543/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IN SEARCH OF SASQUATCH: The legend of Bigfoot...When most people think about Bigfoot, they imagine an ape-like creature lurking in the c...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
    Title: An environmental analysis of public UAP sightings and sky  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1c0axgo/naturecom_an_environmental_analysis_of_public_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1c0axgo/naturecom_an_environmental_analysis_of_public_uap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP sightings and sky view potential: r/UFOs... r/UfoUapNews - Nasa&#x27;S Ufo Report: What We Learned From Uap Study. bbc. 1. 0. Lesser Kno...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1c0axgo/naturecom_an_environmental_analysis_of_public_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1c0axgo/naturecom_an_environmental_analysis_of_public_uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP sightings and sky view potential: r/UFOs... r/UfoUapNews - Nasa&#x27;S Ufo Report: What We Learned From Uap Study. bbc. 1. 0. Lesser Kno...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: amazon.co.uk  
-   Link: <a href="https://www.amazon.co.uk/Appalachian-Case-Study-Encounters-Unexplained/dp/0979323665" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Appalachian-Case-Study-Encounters-Unexplained/dp/0979323665</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Appalachian Case Study: UFO Sightings, Alien Encounters...Appalachian Case Study: UFO Sightings, Alien Encounters And Unexplained Phenomena...</p></details>
+   Link:<a href="https://www.amazon.co.uk/Appalachian-Case-Study-Encounters-Unexplained/dp/0979323665" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Appalachian-Case-Study-Encounters-Unexplained/dp/0979323665</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Appalachian Case Study: UFO Sightings, Alien Encounters...Appalachian Case Study: UFO Sightings, Alien Encounters And Unexplained Phenomena...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
    Title: Unidentified anomalous phenomena are having a moment  
-   Link: <a href="https://www.facebook.com/AARP/posts/unidentified-anomalous-phenomena-are-having-a-moment-and-if-you-are-looking-to-f/921697140004334/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AARP/posts/unidentified-anomalous-phenomena-are-having-a-moment-and-if-you-are-looking-to-f/921697140004334/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens are also mentioned, but they are at the very bottom of the list. Researchers now hope to investigate UFO sighting reports. This wa...</p></details>
+   Link:<a href="https://www.facebook.com/AARP/posts/unidentified-anomalous-phenomena-are-having-a-moment-and-if-you-are-looking-to-f/921697140004334/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AARP/posts/unidentified-anomalous-phenomena-are-having-a-moment-and-if-you-are-looking-to-f/921697140004334/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens are also mentioned, but they are at the very bottom of the list. Researchers now hope to investigate UFO sighting reports. This wa...</p></details>

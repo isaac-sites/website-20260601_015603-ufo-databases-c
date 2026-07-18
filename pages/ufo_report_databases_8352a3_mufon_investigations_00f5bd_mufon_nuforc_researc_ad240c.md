@@ -274,7 +274,7 @@ image: /assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mu
 
 ## Introduction
 
-For researchers comparing UFO report databases, the key difference between [MUFON]({{ 'mufon/' | relative_url }}) and [NUFORC]({{ 'nuforc/' | relative_url }}) is not simply the number of reports they contain. It is the way each organisation handles access, investigation and transparency. Both collect witness accounts of unusual aerial phenomena, but they create different evidence trails. MUFON operates through a case-management and investigation system in which reports may be reviewed by volunteer field investigators, while much of the detailed material remains behind membership-based access controls. NUFORC, by contrast, has traditionally functioned as a largely public reporting archive, allowing researchers to browse large numbers of reports directly through its online databank. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">Mufon&#x27;s Ufo, Et Research Tracking ToolsSEARCH THE UFO DATABASE. The MUFON Case Management System (CMS) is a powerful tool designed t...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/search_database-terms-and-conditions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">Search Database Terms and ConditionsThe Mutual UFO Network (MUFON) allows active members to access certain parts of our Case Managem...</span></span></span>
+For researchers comparing UFO report databases, the key difference between [MUFON]({{ 'mufon/' | relative_url }}) and [NUFORC]({{ 'nuforc/' | relative_url }}) is not simply the number of reports they contain. It is the way each organisation handles access, investigation and transparency. Both collect witness accounts of unusual aerial phenomena, but they create different evidence trails. MUFON operates through a case-management and investigation system in which reports may be reviewed by volunteer field investigators, while much of the detailed material remains behind membership-based access controls. NUFORC, by contrast, has traditionally functioned as a largely public reporting archive, allowing researchers to browse large numbers of reports directly through its online databank.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">Mufon&#x27;s Ufo, Et Research Tracking ToolsSEARCH THE UFO DATABASE. The MUFON Case Management System (CMS) is a powerful tool designed t...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/search_database-terms-and-conditions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">Search Database Terms and ConditionsThe Mutual UFO Network (MUFON) allows active members to access certain parts of our Case Managem...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_nuforc_researc_ad240c-Illustration-1-dark.svg" | relative_url }}" alt="MUFON vs NUFORC illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_nuforc_researc_ad240c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_nuforc_researc_ad240c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For anyone studying UFO catalogues, the practical question is not which database is “better”, but which questions each database can answer. The answer often depends on how much of the underlying record can be independently checked.
@@ -283,9 +283,9 @@ For anyone studying UFO catalogues, the practical question is not which database
 
 MUFON and NUFORC were built around different priorities.
 
-MUFON's reporting system is designed to support case management and investigation. Witness submissions enter the Case Management System (CMS), where they can be reviewed, assigned to investigators and supplemented with interviews, photographs, videos and other materials. MUFON presents the CMS as a research and investigative tool and highlights its field-investigation structure as a core part of its mission. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">MUFON Through the AgesOne of the best improvements in MUFON&#x27;s handling of UFO reports during this era was the development of the computer...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">HomeRead and Search MUFON Case Management System Reports; Monthly MUFON e-Journal with Exclusive UFO Coverage; Access to The Obser...</span></span></span>
+MUFON's reporting system is designed to support case management and investigation. Witness submissions enter the Case Management System (CMS), where they can be reviewed, assigned to investigators and supplemented with interviews, photographs, videos and other materials. MUFON presents the CMS as a research and investigative tool and highlights its field-investigation structure as a core part of its mission.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">MUFON Through the AgesOne of the best improvements in MUFON&#x27;s handling of UFO reports during this era was the development of the computer...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">HomeRead and Search MUFON Case Management System Reports; Monthly MUFON e-Journal with Exclusive UFO Coverage; Access to The Obser...</span></span></span>
 
-NUFORC developed in a different direction. Its databank is intended as a publicly accessible repository of witness reports. The organisation describes its archive as one of the largest independent collections of UFO sighting reports available online and makes extensive report indexes searchable by location, date, shape and other categories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location NUFORC Reports by Location; USA</span><span class="citation-popover-snippet">NUFORC Reports by LocationNUFORC Reports by Location; USA - Unspecified, 118; USA - Alaska, 672; USA - Alabama, 1515; USA - Arkansas...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=shape" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports by ShapeNUFORC Reports by Shape; Cylinder, 2783; Diamond, 2309; Disk, 9430; Egg, 1391.Read more...</span></span></span>
+NUFORC developed in a different direction. Its databank is intended as a publicly accessible repository of witness reports. The organisation describes its archive as one of the largest independent collections of UFO sighting reports available online and makes extensive report indexes searchable by location, date, shape and other categories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location NUFORC Reports by Location; USA</span><span class="citation-popover-snippet">NUFORC Reports by LocationNUFORC Reports by Location; USA - Unspecified, 118; USA - Alaska, 672; USA - Alabama, 1515; USA - Arkansas...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=shape" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports by ShapeNUFORC Reports by Shape; Cylinder, 2783; Diamond, 2309; Disk, 9430; Egg, 1391.Read more...</span></span></span>
 
 This distinction creates different research strengths:
 
@@ -306,9 +306,9 @@ In practice, MUFON behaves more like an investigative archive, while NUFORC func
 
 The most important methodological difference is who can inspect the underlying data.
 
-MUFON explicitly states that access to significant portions of its CMS database is a benefit of paid membership. Narratives, photographs, videos and attached documents are subject to access restrictions and usage terms. Public-facing tools exist, but researchers outside the organisation may not be able to examine all material associated with a case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/cms-ifo-info/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">CMS IFO InfoKeep all personal information limited to your report narrative and contact details. Upon the submission of this report, the r...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/join/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">stigator · Report a UFO...Read more...</span></span></span>
+MUFON explicitly states that access to significant portions of its CMS database is a benefit of paid membership. Narratives, photographs, videos and attached documents are subject to access restrictions and usage terms. Public-facing tools exist, but researchers outside the organisation may not be able to examine all material associated with a case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/cms-ifo-info/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">CMS IFO InfoKeep all personal information limited to your report narrative and contact details. Upon the submission of this report, the r...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/join/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">stigator · Report a UFO...Read more...</span></span></span>
 
-NUFORC's archive is far more visible. Its databank, report indexes and many individual reports are openly available online. Researchers can browse reports by location, date, shape and other variables without joining the organisation. This openness has also made NUFORC data easier to scrape, analyse and reuse in independent projects and public datasets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kaggle.com/datasets/thedevastator/uncovering-mysterious-unexplained-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kaggle.com">[Kaggle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kaggle.com</span><span class="citation-popover-snippet">ation about the time, location, duration, shape and...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">All NUFORC ReportsAll NUFORC Reports.; Open, 03/02/2026 18:15, Folsom; Open, 03/02/2026 14:25, Solana Beach; Open, 03/02/2026 07:30, D...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=highlights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Highlighted NUFORC ReportsLink, Occurred, City, State, Country, Shape. Open! 02/16/2026 08:46, Odessa, TX, USA, Triangle. Open! 02/07/2...</span></span></span>
+NUFORC's archive is far more visible. Its databank, report indexes and many individual reports are openly available online. Researchers can browse reports by location, date, shape and other variables without joining the organisation. This openness has also made NUFORC data easier to scrape, analyse and reuse in independent projects and public datasets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kaggle.com/datasets/thedevastator/uncovering-mysterious-unexplained-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kaggle.com">[Kaggle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kaggle.com</span><span class="citation-popover-snippet">ation about the time, location, duration, shape and...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">All NUFORC ReportsAll NUFORC Reports.; Open, 03/02/2026 18:15, Folsom; Open, 03/02/2026 14:25, Solana Beach; Open, 03/02/2026 07:30, D...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=highlights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Highlighted NUFORC ReportsLink, Occurred, City, State, Country, Shape. Open! 02/16/2026 08:46, Odessa, TX, USA, Triangle. Open! 02/07/2...</span></span></span>
 
 The consequences are significant:
 
@@ -321,18 +321,18 @@ For academic-style analysis, transparency often matters as much as data volume. 
 
 A useful way to understand the contrast is to imagine a witness reporting a triangular object.
 
-If submitted to NUFORC, the result may be a publicly searchable narrative that includes date, location, shape category and the witness description. Other researchers can immediately compare it with nearby reports, astronomical events or aviation activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/recent-investigation-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">recent investigation reports</span><span class="citation-popover-snippet">11 Jan 2025 — NUFORC investigators dug into several of our best cases from 2024, performing witness interviews and contacting offic...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/mufon2022/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">UFO Hotline, which have given rise to rise to in excess of 136,000 written reports posted to the NUFORC website, www.ufocenter.com. II...</span></span></span>
+If submitted to NUFORC, the result may be a publicly searchable narrative that includes date, location, shape category and the witness description. Other researchers can immediately compare it with nearby reports, astronomical events or aviation activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/recent-investigation-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">recent investigation reports</span><span class="citation-popover-snippet">11 Jan 2025 — NUFORC investigators dug into several of our best cases from 2024, performing witness interviews and contacting offic...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/mufon2022/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">UFO Hotline, which have given rise to rise to in excess of 136,000 written reports posted to the NUFORC website, www.ufocenter.com. II...</span></span></span>
 
-If submitted to MUFON, the same event might generate a richer internal file. An investigator could interview the witness, request original photographs, evaluate possible conventional explanations and record additional observations. However, outside researchers may only see part of that process unless they have access to the CMS. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/ufo-news/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">MUFON NewsA MUFON PHOTO ANALYSIS: Is This Green Orb Communicating? A Forensic Image Analysis of a Viral UAP Claim By Seth H. Feinstein MU...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/history-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">A Brief History of MufonOne of the best improvements in MUFON&#x27;s handling of UFO reports during this era was the development of the comput...</span></span></span>
+If submitted to MUFON, the same event might generate a richer internal file. An investigator could interview the witness, request original photographs, evaluate possible conventional explanations and record additional observations. However, outside researchers may only see part of that process unless they have access to the CMS.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/ufo-news/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">MUFON NewsA MUFON PHOTO ANALYSIS: Is This Green Orb Communicating? A Forensic Image Analysis of a Viral UAP Claim By Seth H. Feinstein MU...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/history-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">A Brief History of MufonOne of the best improvements in MUFON&#x27;s handling of UFO reports during this era was the development of the comput...</span></span></span>
 
 This creates a recurring trade-off:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **NUFORC offers greater external visibility.**
-* **MUFON may offer greater internal case depth.** <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slideserve.com/alcina/mufon-case-management-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slideserve.com">[slideserve.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slideserve.com</span><span class="citation-popover-title">mufon case management system</span><span class="citation-popover-snippet">5 Sept 2014 — Provides an Easy way to SEARCH the MUFON CMS database... reported to MUFON into CMS • Make CMS your Website&#x27;s ONLY UFO Rep...</span></span></span>
+* **MUFON may offer greater internal case depth.**<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slideserve.com/alcina/mufon-case-management-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slideserve.com">[slideserve.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slideserve.com</span><span class="citation-popover-title">mufon case management system</span><span class="citation-popover-snippet">5 Sept 2014 — Provides an Easy way to SEARCH the MUFON CMS database... reported to MUFON into CMS • Make CMS your Website&#x27;s ONLY UFO Rep...</span></span></span>
 * **Visibility helps replication.**
-* **Depth helps case development.** <span class="citation-chip-wrap"><a class="citation-chip" href="https://mufon.com/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[mufon.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">MUFON Through the AgesOne of the best improvements in MUFON&#x27;s handling of UFO reports during this era was the development of the computer...</span></span></span>
+* **Depth helps case development.**<span class="citation-chip-wrap"><a class="citation-chip" href="https://mufon.com/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[mufon.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">MUFON Through the AgesOne of the best improvements in MUFON&#x27;s handling of UFO reports during this era was the development of the computer...</span></span></span>
 
 </div>
 
@@ -344,11 +344,11 @@ Researchers often value both, but rarely receive both from the same report.
 
 Neither database should be treated as a catalogue of verified anomalous events.
 
-Both systems depend heavily on witness testimony, which is vulnerable to memory errors, misidentification and reporting bias. The databases record what people report, not necessarily what objectively occurred. Researchers studying UFO reports therefore often use these [archives]({{ 'archives/' | relative_url }}) as indicators of claims and perceptions rather than direct proof of unusual phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sharonahill.com/ufo-reports-declining-several-social-factors-involved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sharonahill.com">[Sharon A. Hill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sharonahill.com</span><span class="citation-popover-snippet">HillUFO reports declining: Several social factors involved2 Jul 2018 — As such, UFO sightings decline when the society changes. That is...</span></span></span>
+Both systems depend heavily on witness testimony, which is vulnerable to memory errors, misidentification and reporting bias. The databases record what people report, not necessarily what objectively occurred. Researchers studying UFO reports therefore often use these [archives]({{ 'archives/' | relative_url }}) as indicators of claims and perceptions rather than direct proof of unusual phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sharonahill.com/ufo-reports-declining-several-social-factors-involved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sharonahill.com">[Sharon A. Hill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sharonahill.com</span><span class="citation-popover-snippet">HillUFO reports declining: Several social factors involved2 Jul 2018 — As such, UFO sightings decline when the society changes. That is...</span></span></span>
 
-MUFON's investigative structure can potentially improve data quality by introducing follow-up interviews and attempts to identify conventional explanations. At the same time, critics have questioned the consistency and scientific rigour of volunteer investigations, noting that investigators are not generally professional forensic specialists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National UFO Reporting Center</span><span class="citation-popover-snippet">National UFO Reporting CenterMUFON, the most prominent UFO data collectors in the US, have worked with the National UFO Reporting Cent...</span></span></span>
+MUFON's investigative structure can potentially improve data quality by introducing follow-up interviews and attempts to identify conventional explanations. At the same time, critics have questioned the consistency and scientific rigour of volunteer investigations, noting that investigators are not generally professional forensic specialists.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National UFO Reporting Center</span><span class="citation-popover-snippet">National UFO Reporting CenterMUFON, the most prominent UFO data collectors in the US, have worked with the National UFO Reporting Cent...</span></span></span>
 
-NUFORC's transparency makes independent review easier, but openness alone does not guarantee accuracy. A public archive can contain mistaken observations, hoaxes or incomplete information. NUFORC itself notes that reports are reviewed and categorised, and the organisation has increasingly published investigation reports for selected cases, but most entries remain witness-centred records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ada-nuforc-analysis.github.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ada-nuforc-analysis.github.io">[ada-nuforc-analysis.github.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ada-nuforc-analysis.github.io</span><span class="citation-popover-snippet">NUFORC Report AnalysisThe NUFORC checks each reports for fakes or hoax and comments them accordingly. The reports are classified by their...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=post" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports by Date PostedData Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search... NUFORC Reports...</span></span></span>
+NUFORC's transparency makes independent review easier, but openness alone does not guarantee accuracy. A public archive can contain mistaken observations, hoaxes or incomplete information. NUFORC itself notes that reports are reviewed and categorised, and the organisation has increasingly published investigation reports for selected cases, but most entries remain witness-centred records.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ada-nuforc-analysis.github.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ada-nuforc-analysis.github.io">[ada-nuforc-analysis.github.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ada-nuforc-analysis.github.io</span><span class="citation-popover-snippet">NUFORC Report AnalysisThe NUFORC checks each reports for fakes or hoax and comments them accordingly. The reports are classified by their...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=post" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports by Date PostedData Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search... NUFORC Reports...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HhLI6W15nQU" title="UFOs In American Culture: A History Of Intrigue And Denial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HhLI6W15nQU" target="_blank" rel="noopener noreferrer">UFOs In American Culture: A History Of Intrigue And Denial</a></p><p class="youtube-embed-meta">Channel: Connecticut Public Podcasts &middot; Views: 78 &middot; Uploaded: September 2024 &middot; Length: 49 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HhLI6W15nQU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HhLI6W15nQU">Open on YouTube</a></p></div></div></div>
 
@@ -362,201 +362,201 @@ A cautious workflow might involve:
 2. **Check MUFON records when available** to see whether a reported event generated additional investigation, interviews or supporting material.
 3. **Look for overlap between databases.** A sighting reported independently to both organisations can sometimes provide additional context or reveal discrepancies.
 4. **Compare with external sources** such as aviation records, satellite passes, astronomical events, weather data and local news coverage.
-5. **Avoid treating report counts as direct evidence.** Reporting behaviour is influenced by publicity, media attention, reporting convenience and cultural factors as well as by what witnesses actually observed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sharonahill.com/ufo-reports-declining-several-social-factors-involved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sharonahill.com">[Sharon A. Hill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sharonahill.com</span><span class="citation-popover-snippet">HillUFO reports declining: Several social factors involved2 Jul 2018 — As such, UFO sightings decline when the society changes. That is...</span></span></span>
+5. **Avoid treating report counts as direct evidence.** Reporting behaviour is influenced by publicity, media attention, reporting convenience and cultural factors as well as by what witnesses actually observed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sharonahill.com/ufo-reports-declining-several-social-factors-involved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sharonahill.com">[Sharon A. Hill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sharonahill.com</span><span class="citation-popover-snippet">HillUFO reports declining: Several social factors involved2 Jul 2018 — As such, UFO sightings decline when the society changes. That is...</span></span></span>
 
 The central lesson is simple: NUFORC is often easier to inspect, while MUFON may contain richer investigative material. For researchers concerned with verification and reproducibility, access rules matter as much as the reports themselves. The choice between the two databases is therefore less about which archive contains the most sightings and more about which evidence trail can actually be examined.
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_nuforc_researc_ad240c-Illustration-3-dark.svg" | relative_url }}" alt="MUFON vs NUFORC illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_nuforc_researc_ad240c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_mufon_investigations_00f5bd_mufon_nuforc_researc_ad240c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Which UFO Database Can Researchers Check?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Which UFO Database Can Researchers Check?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for understanding how UFO reports are classified and cautiously interpreted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how UFO reports are classified and cautiously interpreted.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Connects witness reports, official material and research access issues in modern UFO study.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects witness reports, official material and research access issues in modern UFO study.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Very relevant to comparing databases, official records and investigation-led evidence trails.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Very relevant to comparing databases, official records and investigation-led evidence trails.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Shows how UFO evidence ecosystems include researchers, archives, belief communities and contested access.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how UFO evidence ecosystems include researchers, archives, belief communities and contested access.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for STAMPEDE - COLLECTION OF ORIGINAL 1980&#x27;s MAGAZINE MEMORABILIA (UFO / PHIL LYNOTT"><img src="{{ '/assets/images/marketplace-covers/40db0680589d8b4f199c.jpg' | relative_url }}" alt="Listing image for STAMPEDE - COLLECTION OF ORIGINAL 1980&#x27;s MAGAZINE MEMORABILIA (UFO / PHIL LYNOTT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">STAMPEDE - COLLECTION OF ORIGINAL 1980&#x27;s MAGAZINE MEMORABILIA (UFO / PHIL LYNOTT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for STAMPEDE - COLLECTION OF ORIGINAL 1980&#x27;s MAGAZINE MEMORABILIA (UFO / PHIL LYNOTT"><img src="{{ '/assets/images/marketplace-covers/40db0680589d8b4f199c.jpg' | relative_url }}" alt="Listing image for STAMPEDE - COLLECTION OF ORIGINAL 1980&#x27;s MAGAZINE MEMORABILIA (UFO / PHIL LYNOTT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">STAMPEDE - COLLECTION OF ORIGINAL 1980&#x27;s MAGAZINE MEMORABILIA (UFO / PHIL LYNOTT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Hooper Colorado Watchtower Button Pin - Colorado Souvenir, Alien memorabilia"><img src="{{ '/assets/images/marketplace-covers/047e6fffe40438943c89.jpg' | relative_url }}" alt="Listing image for UFO Hooper Colorado Watchtower Button Pin - Colorado Souvenir, Alien memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Hooper Colorado Watchtower Button Pin - Colorado Souvenir, Alien memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Hooper Colorado Watchtower Button Pin - Colorado Souvenir, Alien memorabilia"><img src="{{ '/assets/images/marketplace-covers/047e6fffe40438943c89.jpg' | relative_url }}" alt="Listing image for UFO Hooper Colorado Watchtower Button Pin - Colorado Souvenir, Alien memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Hooper Colorado Watchtower Button Pin - Colorado Souvenir, Alien memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA"><img src="{{ '/assets/images/marketplace-covers/089e187e1876638c9c25.jpg' | relative_url }}" alt="Listing image for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA"><img src="{{ '/assets/images/marketplace-covers/089e187e1876638c9c25.jpg' | relative_url }}" alt="Listing image for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="mufon-vs-nuforc-which-ufo-database-can-researchers-check-ufo-report-databases-and-catalogues-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -572,7 +572,7 @@ The central lesson is simple: NUFORC is often easier to inspect, while MUFON may
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -592,7 +592,7 @@ The central lesson is simple: NUFORC is often easier to inspect, while MUFON may
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -624,7 +624,7 @@ The central lesson is simple: NUFORC is often easier to inspect, while MUFON may
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -676,7 +676,7 @@ The central lesson is simple: NUFORC is often easier to inspect, while MUFON may
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -721,7 +721,7 @@ The central lesson is simple: NUFORC is often easier to inspect, while MUFON may
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -762,253 +762,253 @@ The central lesson is simple: NUFORC is often easier to inspect, while MUFON may
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/research/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/research/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mufon&#x27;s Ufo, Et Research Tracking ToolsSEARCH THE UFO DATABASE. The MUFON Case Management System (CMS) is a powerful tool designed t...</p></details>
+   Link:<a href="https://mufon.com/research/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/research/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mufon&#x27;s Ufo, Et Research Tracking ToolsSEARCH THE UFO DATABASE. The MUFON Case Management System (CMS) is a powerful tool designed t...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/search_database-terms-and-conditions/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/search_database-terms-and-conditions/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Search Database Terms and ConditionsThe Mutual UFO Network (MUFON) allows active members to access certain parts of our Case Managem...</p></details>
+   Link:<a href="https://mufon.com/search_database-terms-and-conditions/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/search_database-terms-and-conditions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Search Database Terms and ConditionsThe Mutual UFO Network (MUFON) allows active members to access certain parts of our Case Managem...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</p></details>
+   Link:<a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
+   Link:<a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/history/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/history/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON Through the AgesOne of the best improvements in MUFON&#x27;s handling of UFO reports during this era was the development of the computer...</p></details>
+   Link:<a href="https://mufon.com/history/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/history/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON Through the AgesOne of the best improvements in MUFON&#x27;s handling of UFO reports during this era was the development of the computer...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HomeRead and Search MUFON Case Management System Reports; Monthly MUFON e-Journal with Exclusive UFO Coverage; Access to The Obser...</p></details>
+   Link:<a href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HomeRead and Search MUFON Case Management System Reports; Monthly MUFON e-Journal with Exclusive UFO Coverage; Access to The Obser...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nuforc.org  
    Title: Reports by Location NUFORC Reports by Location; USA  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationNUFORC Reports by Location; USA - Unspecified, 118; USA - Alaska, 672; USA - Alabama, 1515; USA - Arkansas...</p></details>
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationNUFORC Reports by Location; USA - Unspecified, 118; USA - Alaska, 672; USA - Alabama, 1515; USA - Arkansas...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/ndx/?id=shape" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=shape</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by ShapeNUFORC Reports by Shape; Cylinder, 2783; Diamond, 2309; Disk, 9430; Egg, 1391.Read more...</p></details>
+   Link:<a href="https://nuforc.org/ndx/?id=shape" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=shape</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by ShapeNUFORC Reports by Shape; Cylinder, 2783; Diamond, 2309; Disk, 9430; Egg, 1391.Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>All NUFORC ReportsAll NUFORC Reports.; Open, 03/02/2026 18:15, Folsom; Open, 03/02/2026 14:25, Solana Beach; Open, 03/02/2026 07:30, D...</p></details>
+   Link:<a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All NUFORC ReportsAll NUFORC Reports.; Open, 03/02/2026 18:15, Folsom; Open, 03/02/2026 14:25, Solana Beach; Open, 03/02/2026 07:30, D...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: github.com  
-   Link: <a href="https://github.com/timothyrenner/nuforc_sightings_data" target="_blank" rel="noopener noreferrer nofollow">https://github.com/timothyrenner/nuforc_sightings_data</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>timothyrenner/nuforc_sightings_data: Data collection and...The Nationa UFO Research Center (NUFORC) maintains an online database of over...</p></details>
+   Link:<a href="https://github.com/timothyrenner/nuforc_sightings_data" target="_blank" rel="noopener noreferrer nofollow">https://github.com/timothyrenner/nuforc_sightings_data</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>timothyrenner/nuforc_sightings_data: Data collection and...The Nationa UFO Research Center (NUFORC) maintains an online database of over...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: kaggle.com  
-   Link: <a href="https://www.kaggle.com/datasets/thedevastator/uncovering-mysterious-unexplained-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/thedevastator/uncovering-mysterious-unexplained-ufo-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ation about the time, location, duration, shape and...Read more...</p></details>
+   Link:<a href="https://www.kaggle.com/datasets/thedevastator/uncovering-mysterious-unexplained-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/thedevastator/uncovering-mysterious-unexplained-ufo-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ation about the time, location, duration, shape and...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=highlights" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=highlights</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Highlighted NUFORC ReportsLink, Occurred, City, State, Country, Shape. Open! 02/16/2026 08:46, Odessa, TX, USA, Triangle. Open! 02/07/2...</p></details>
+   Link:<a href="https://nuforc.org/subndx/?id=highlights" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=highlights</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Highlighted NUFORC ReportsLink, Occurred, City, State, Country, Shape. Open! 02/16/2026 08:46, Odessa, TX, USA, Triangle. Open! 02/07/2...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sharonahill.com  
-   Link: <a href="https://sharonahill.com/ufo-reports-declining-several-social-factors-involved/" target="_blank" rel="noopener noreferrer nofollow">https://sharonahill.com/ufo-reports-declining-several-social-factors-involved/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HillUFO reports declining: Several social factors involved2 Jul 2018 — As such, UFO sightings decline when the society changes. That is...</p></details>
+   Link:<a href="https://sharonahill.com/ufo-reports-declining-several-social-factors-involved/" target="_blank" rel="noopener noreferrer nofollow">https://sharonahill.com/ufo-reports-declining-several-social-factors-involved/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HillUFO reports declining: Several social factors involved2 Jul 2018 — As such, UFO sightings decline when the society changes. That is...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: National UFO Reporting Center  
-   Link: <a href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_UFO_Reporting_Center</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting CenterMUFON, the most prominent UFO data collectors in the US, have worked with the National UFO Reporting Cent...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_UFO_Reporting_Center</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting CenterMUFON, the most prominent UFO data collectors in the US, have worked with the National UFO Reporting Cent...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Mutual UFO Network  
-   Link: <a href="https://en.wikipedia.org/wiki/Mutual_UFO_Network" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mutual_UFO_Network</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Mutual_UFO_Network" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mutual_UFO_Network</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ada-nuforc-analysis.github.io  
-   Link: <a href="https://ada-nuforc-analysis.github.io/" target="_blank" rel="noopener noreferrer nofollow">https://ada-nuforc-analysis.github.io/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Report AnalysisThe NUFORC checks each reports for fakes or hoax and comments them accordingly. The reports are classified by their...</p></details>
+   Link:<a href="https://ada-nuforc-analysis.github.io/" target="_blank" rel="noopener noreferrer nofollow">https://ada-nuforc-analysis.github.io/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Report AnalysisThe NUFORC checks each reports for fakes or hoax and comments them accordingly. The reports are classified by their...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nuforc.org  
    Title: recent investigation reports  
-   Link: <a href="https://nuforc.org/recent-investigation-reports/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/recent-investigation-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>11 Jan 2025 — NUFORC investigators dug into several of our best cases from 2024, performing witness interviews and contacting offic...</p></details>
+   Link:<a href="https://nuforc.org/recent-investigation-reports/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/recent-investigation-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>11 Jan 2025 — NUFORC investigators dug into several of our best cases from 2024, performing witness interviews and contacting offic...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/mufon2022/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/mufon2022/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Hotline, which have given rise to rise to in excess of 136,000 written reports posted to the NUFORC website, www.ufocenter.com. II...</p></details>
+   Link:<a href="https://nuforc.org/mufon2022/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/mufon2022/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Hotline, which have given rise to rise to in excess of 136,000 written reports posted to the NUFORC website, www.ufocenter.com. II...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/ndx/?id=post" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=post</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by Date PostedData Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search... NUFORC Reports...</p></details>
+   Link:<a href="https://nuforc.org/ndx/?id=post" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=post</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by Date PostedData Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search... NUFORC Reports...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=lCO" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lCO</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for State CONUFORC Reports for State CO.; Open, 03/03/2026 21:15, Wheat Ridge; Open, 02/20/2026 21:00, Mead; Open, 02/1...</p></details>
+   Link:<a href="https://nuforc.org/subndx/?id=lCO" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lCO</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for State CONUFORC Reports for State CO.; Open, 03/03/2026 21:15, Wheat Ridge; Open, 02/20/2026 21:00, Mead; Open, 02/1...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
+   Link:<a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=lSC" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lSC</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for State SCNUFORC Reports for State SC.; Open, 02/13/2026 21:13, Ladson; Open, 01/20/2026 06:58, Lexington; Open, 01/1...</p></details>
+   Link:<a href="https://nuforc.org/subndx/?id=lSC" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lSC</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for State SCNUFORC Reports for State SC.; Open, 02/13/2026 21:13, Ladson; Open, 01/20/2026 06:58, Lexington; Open, 01/1...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=lAZ" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lAZ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for State AZNUFORC. Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search · Me...</p></details>
+   Link:<a href="https://nuforc.org/subndx/?id=lAZ" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lAZ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for State AZNUFORC. Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search · Me...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: nuforc.org  
    Title: about us  
-   Link: <a href="https://nuforc.org/about-us/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/about-us/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Christian Stepien has had a life long interest in UFOs and is an avid student of the phenomenon. Since 1994, he has served as the d...</p></details>
+   Link:<a href="https://nuforc.org/about-us/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/about-us/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Christian Stepien has had a life long interest in UFOs and is an avid student of the phenomenon. Since 1994, he has served as the d...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/cms-ifo-info/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/cms-ifo-info/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CMS IFO InfoKeep all personal information limited to your report narrative and contact details. Upon the submission of this report, the r...</p></details>
+   Link:<a href="https://mufon.com/cms-ifo-info/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/cms-ifo-info/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CMS IFO InfoKeep all personal information limited to your report narrative and contact details. Upon the submission of this report, the r...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/join/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/join/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>stigator · Report a UFO...Read more...</p></details>
+   Link:<a href="https://mufon.com/join/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/join/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>stigator · Report a UFO...Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/ufo-news/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/ufo-news/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON NewsA MUFON PHOTO ANALYSIS: Is This Green Orb Communicating? A Forensic Image Analysis of a Viral UAP Claim By Seth H. Feinstein MU...</p></details>
+   Link:<a href="https://mufon.com/ufo-news/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/ufo-news/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON NewsA MUFON PHOTO ANALYSIS: Is This Green Orb Communicating? A Forensic Image Analysis of a Viral UAP Claim By Seth H. Feinstein MU...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/history-2/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/history-2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Brief History of MufonOne of the best improvements in MUFON&#x27;s handling of UFO reports during this era was the development of the comput...</p></details>
+   Link:<a href="https://mufon.com/history-2/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/history-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Brief History of MufonOne of the best improvements in MUFON&#x27;s handling of UFO reports during this era was the development of the comput...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/contact/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/contact/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ContactOnce submitted, your report will be assigned a unique MUFON Case number and forwarded to your State Director, who will assign it t...</p></details>
+   Link:<a href="https://mufon.com/contact/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/contact/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ContactOnce submitted, your report will be assigned a unique MUFON Case number and forwarded to your State Director, who will assign it t...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: helpdesk.mufon.com  
-   Link: <a href="https://helpdesk.mufon.com/" target="_blank" rel="noopener noreferrer nofollow">https://helpdesk.mufon.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HomeMUFON Helpdesk. A place for all MUFON Members, Field Investigators, Directors, and Management to submit requests for MUFON...</p></details>
+   Link:<a href="https://helpdesk.mufon.com/" target="_blank" rel="noopener noreferrer nofollow">https://helpdesk.mufon.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HomeMUFON Helpdesk. A place for all MUFON Members, Field Investigators, Directors, and Management to submit requests for MUFON...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsHe also said that he was confined within a small round room where he was compelled to have sex with a fo...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsHe also said that he was confined within a small round room where he was compelled to have sex with a fo...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: kaggle.com  
-   Link: <a href="https://www.kaggle.com/datasets/bitterfq/nufroc-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/bitterfq/nufroc-ufo-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFROC UFO SIGHTINGSThis CSV dataset contains detailed information scraped from the National UFO Reporting Center website, including repo...</p></details>
+   Link:<a href="https://www.kaggle.com/datasets/bitterfq/nufroc-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/bitterfq/nufroc-ufo-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFROC UFO SIGHTINGSThis CSV dataset contains detailed information scraped from the National UFO Reporting Center website, including repo...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: kaggle.com  
-   Link: <a href="https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO SightingsThe National UFO Research Center (NUFORC) collects and serves over 100,000 reports of UFO sightings. This dataset contains t...</p></details>
+   Link:<a href="https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO SightingsThe National UFO Research Center (NUFORC) collects and serves over 100,000 reports of UFO sightings. This dataset contains t...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — NARA has records related to unidentified flying objects (UFO)...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — NARA has records related to unidentified flying objects (UFO)...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1oz3i0h/im_releasing_a_cleaned_enriched_ufo_dataset_327k/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1oz3i0h/im_releasing_a_cleaned_enriched_ufo_dataset_327k/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON/Open, Kaggle scrapes, and others). Each sighting has...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1oz3i0h/im_releasing_a_cleaned_enriched_ufo_dataset_327k/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1oz3i0h/im_releasing_a_cleaned_enriched_ufo_dataset_327k/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON/Open, Kaggle scrapes, and others). Each sighting has...Read more...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: reddit.com  
    Title: mufon is under a major hack right now sources  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1akv3lu/mufon_is_under_a_major_hack_right_now_sources/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1akv3lu/mufon_is_under_a_major_hack_right_now_sources/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON is under a major hack right now. Sources indicate...MUFON is under a major hack right now. Sources indicate the hacker has taken o...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1akv3lu/mufon_is_under_a_major_hack_right_now_sources/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1akv3lu/mufon_is_under_a_major_hack_right_now_sources/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON is under a major hack right now. Sources indicate...MUFON is under a major hack right now. Sources indicate the hacker has taken o...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: slideserve.com  
    Title: mufon case management system  
-   Link: <a href="https://www.slideserve.com/alcina/mufon-case-management-system" target="_blank" rel="noopener noreferrer nofollow">https://www.slideserve.com/alcina/mufon-case-management-system</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Sept 2014 — Provides an Easy way to SEARCH the MUFON CMS database... reported to MUFON into CMS • Make CMS your Website&#x27;s ONLY UFO Rep...</p></details>
+   Link:<a href="https://www.slideserve.com/alcina/mufon-case-management-system" target="_blank" rel="noopener noreferrer nofollow">https://www.slideserve.com/alcina/mufon-case-management-system</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Sept 2014 — Provides an Easy way to SEARCH the MUFON CMS database... reported to MUFON into CMS • Make CMS your Website&#x27;s ONLY UFO Rep...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: washingtonpost.com  
    Title: ufo conspiracy theorist  
-   Link: <a href="https://www.washingtonpost.com/nation/interactive/2021/ufo-conspiracy-theorist/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/nation/interactive/2021/ufo-conspiracy-theorist/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON field investigators: learning the organization&#x27;s case management system, or CMS. When reports came in through MUFON&#x27;s online...Rea...</p></details>
+   Link:<a href="https://www.washingtonpost.com/nation/interactive/2021/ufo-conspiracy-theorist/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/nation/interactive/2021/ufo-conspiracy-theorist/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON field investigators: learning the organization&#x27;s case management system, or CMS. When reports came in through MUFON&#x27;s online...Rea...</p></details>
 
 ### Additional References
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/368458403_Social_factors_and_UFO_reports_was_the_SARS-CoV-2_pandemic_associated_with_an_increase_in_UFO_reporting" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/368458403_Social_factors_and_UFO_reports_was_the_SARS-CoV-2_pandemic_associated_with_an_increase_in_UFO_reporting</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Social factors and UFO reports: was the SARS-CoV...To measure UFO reports we utilized two public databases of UFO reports for sigh...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/368458403_Social_factors_and_UFO_reports_was_the_SARS-CoV-2_pandemic_associated_with_an_increase_in_UFO_reporting" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/368458403_Social_factors_and_UFO_reports_was_the_SARS-CoV-2_pandemic_associated_with_an_increase_in_UFO_reporting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Social factors and UFO reports: was the SARS-CoV...To measure UFO reports we utilized two public databases of UFO reports for sigh...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: resdac.org  
-   Link: <a href="https://resdac.org/cms-public-use-files-for-researcher-use" target="_blank" rel="noopener noreferrer nofollow">https://resdac.org/cms-public-use-files-for-researcher-use</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CMS Public Use Files for Researcher UseBelow are a few CMS public use files that researchers who use RIF data may find useful: Synthetic...</p></details>
+   Link:<a href="https://resdac.org/cms-public-use-files-for-researcher-use" target="_blank" rel="noopener noreferrer nofollow">https://resdac.org/cms-public-use-files-for-researcher-use</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CMS Public Use Files for Researcher UseBelow are a few CMS public use files that researchers who use RIF data may find useful: Synthetic...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DVorasBEcS5/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVorasBEcS5/</a>  
+   Link:<a href="https://www.instagram.com/p/DVorasBEcS5/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVorasBEcS5/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DQ79ivTDAse/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DQ79ivTDAse/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Accessing the MUFON CMS – Discover the World&#x27;s Largest UFO...Did you know that MUFON holds over 145,000 UFO sighting reports in its Case...</p></details>
+   Link:<a href="https://www.instagram.com/p/DQ79ivTDAse/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DQ79ivTDAse/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Accessing the MUFON CMS – Discover the World&#x27;s Largest UFO...Did you know that MUFON holds over 145,000 UFO sighting reports in its Case...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheNewsPress/posts/the-us-government-released-new-files-on-unidentified-anomalous-phenomena-uap-flo/1389041366593103/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheNewsPress/posts/the-us-government-released-new-files-on-unidentified-anomalous-phenomena-uap-flo/1389041366593103/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings. David Garrison ▻ Area51 - AIC - Alien Investigation Center. 11y · Public · Double UFO Sightings on...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/TheNewsPress/posts/the-us-government-released-new-files-on-unidentified-anomalous-phenomena-uap-flo/1389041366593103/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheNewsPress/posts/the-us-government-released-new-files-on-unidentified-anomalous-phenomena-uap-flo/1389041366593103/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings. David Garrison ▻ Area51 - AIC - Alien Investigation Center. 11y · Public · Double UFO Sightings on...Read more...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: reddit.com  
    Title: i analyzed 80000 ufo sightings from the nuforc  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>databaseI analyzed the comments (free text fields) that captured the witness accounts in the NUFORC database of over 80000 sightings.Read...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>databaseI analyzed the comments (free text fields) that captured the witness accounts in the NUFORC database of over 80000 sightings.Read...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: [aaro](&#123;&#123; 'aaro/' | relative_url &#125;&#125;). mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2025 UAP Workshop: Narrative Data, Infrastructures, and...Additionally, LLMs are already biased by UFO-related cultural content, potenti...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2025 UAP Workshop: Narrative Data, Infrastructures, and...Additionally, LLMs are already biased by UFO-related cultural content, potenti...</p></details>
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RoswellUFOmuseum/posts/have-you-seen-a-ufo-report-it-to-mufon/1392217882945208/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RoswellUFOmuseum/posts/have-you-seen-a-ufo-report-it-to-mufon/1392217882945208/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tes to your favorites. For detailed...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/RoswellUFOmuseum/posts/have-you-seen-a-ufo-report-it-to-mufon/1392217882945208/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RoswellUFOmuseum/posts/have-you-seen-a-ufo-report-it-to-mufon/1392217882945208/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tes to your favorites. For detailed...Read more...</p></details>
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: attheu.utah.edu  
    Title: the west is best to spot ufos  
-   Link: <a href="https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Research Center reported sightings from 2001 to... UFO, UFO sightings, Unidentified Autonomous Phenomena, Where can I see U...</p></details>
+   Link:<a href="https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Research Center reported sightings from 2001 to... UFO, UFO sightings, Unidentified Autonomous Phenomena, Where can I see U...</p></details>
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=nraHhvzdZAQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nraHhvzdZAQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs have gone Mainstream! Eyewitness Reports - Peter Davenport...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nraHhvzdZAQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nraHhvzdZAQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs have gone Mainstream! Eyewitness Reports - Peter Davenport...</p></details>

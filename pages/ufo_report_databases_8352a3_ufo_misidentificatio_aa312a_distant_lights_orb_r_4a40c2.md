@@ -279,9 +279,9 @@ In UFO reporting and catalogues, brief accounts of **orb‑like lights** are amo
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_ufo_misidentificatio_aa312a_distant_lights_orb_r_4a40c2-Illustration-1-dark.svg" | relative_url }}" alt="Orb reports illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_ufo_misidentificatio_aa312a_distant_lights_orb_r_4a40c2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_ufo_misidentificatio_aa312a_distant_lights_orb_r_4a40c2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Point Lights Lose Scale and Distance
 
-Our visual system and recording devices are built to interpret scenes with familiar reference points. In open sky observations, **distance cues are absent**: there’s no background texture, no known size or parallax reference, and no depth information. Bright objects seen at great distance—such as stars, planets or distant aircraft lights—are usually **perceived as featureless luminous points** because the eye and most cameras cannot resolve structural details at distance or in low‑light conditions. When the brain tries to make sense of these minimal inputs, it defaults to basic **geometric simplification**, often as a glowing sphere or orb, because that is the simplest interpretation of a point of light with no visible structure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Identifying UFOs and UAPs</span><span class="citation-popover-snippet">NASA ScienceIdentifying UFOs and UAPs - NASA ScienceDecember 1, 2013...</span><span class="citation-popover-meta">Published: December 1, 2013</span></span></span>
+Our visual system and recording devices are built to interpret scenes with familiar reference points. In open sky observations, **distance cues are absent**: there’s no background texture, no known size or parallax reference, and no depth information. Bright objects seen at great distance—such as stars, planets or distant aircraft lights—are usually **perceived as featureless luminous points** because the eye and most cameras cannot resolve structural details at distance or in low‑light conditions. When the brain tries to make sense of these minimal inputs, it defaults to basic **geometric simplification**, often as a glowing sphere or orb, because that is the simplest interpretation of a point of light with no visible structure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Identifying UFOs and UAPs</span><span class="citation-popover-snippet">NASA ScienceIdentifying UFOs and UAPs - NASA ScienceDecember 1, 2013...</span><span class="citation-popover-meta">Published: December 1, 2013</span></span></span>
 
-In practical terms, a bright planet like **Venus or Jupiter**, or a satellite reflecting sunlight, will appear as an unresolved light source to a casual observer. Without a means to gauge how far away that light source is, witnesses may infer **movement, closeness or size** incorrectly. This missing scale is why what is essentially a point of light gets described as an orb rather than a distant celestial object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Identifying UFOs and UAPs</span><span class="citation-popover-snippet">NASA ScienceIdentifying UFOs and UAPs - NASA ScienceDecember 1, 2013...</span><span class="citation-popover-meta">Published: December 1, 2013</span></span></span>
+In practical terms, a bright planet like **Venus or Jupiter**, or a satellite reflecting sunlight, will appear as an unresolved light source to a casual observer. Without a means to gauge how far away that light source is, witnesses may infer **movement, closeness or size** incorrectly. This missing scale is why what is essentially a point of light gets described as an orb rather than a distant celestial object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Identifying UFOs and UAPs</span><span class="citation-popover-snippet">NASA ScienceIdentifying UFOs and UAPs - NASA ScienceDecember 1, 2013...</span><span class="citation-popover-meta">Published: December 1, 2013</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P-ymwG9mDhE" title="Jupiter and Venus &#x27;could be mistaken for UFOs&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P-ymwG9mDhE" target="_blank" rel="noopener noreferrer">Jupiter and Venus &#x27;could be mistaken for UFOs&#x27;</a></p><p class="youtube-embed-meta">Channel: The Telegraph &middot; Views: 22.9K &middot; Uploaded: March 2012 &middot; Length: 1 minute 57 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P-ymwG9mDhE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P-ymwG9mDhE">Open on YouTube</a></p></div></div></div>
 
@@ -289,14 +289,14 @@ In practical terms, a bright planet like **Venus or Jupiter**, or a satellite re
 
 ### Celestial Objects as Orb Cues
 
-Bright celestial objects are among the most common sights people mistake for unidentified phenomena. Venus, for example, can be mistaken for a moving or hovering object when it’s low on the horizon or when atmospheric effects cause apparent “scintillation” or twinkling. Similarly, artificial satellites in low Earth orbit—especially **Starlink trains**—can appear as strings of moving lights that cross the sky in a manner unfamiliar to many casual observers. Without parallax or scale, these lights take on an orb‑like appearance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://newspaceeconomy.ca/2025/12/02/decoding-the-unidentified-a-comprehensive-analysis-of-uap-explanations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newspaceeconomy.ca">[New Space Economy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newspaceeconomy.ca</span><span class="citation-popover-title">New Space Economy Decoding the Unidentified: A Comprehensive Analysis of UAP</span><span class="citation-popover-snippet">Satellites in low Earth orbit reflect sunlight and appear as moving stars. Large formations, such...Read more...</span></span></span>
+Bright celestial objects are among the most common sights people mistake for unidentified phenomena. Venus, for example, can be mistaken for a moving or hovering object when it’s low on the horizon or when atmospheric effects cause apparent “scintillation” or twinkling. Similarly, artificial satellites in low Earth orbit—especially **Starlink trains**—can appear as strings of moving lights that cross the sky in a manner unfamiliar to many casual observers. Without parallax or scale, these lights take on an orb‑like appearance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://newspaceeconomy.ca/2025/12/02/decoding-the-unidentified-a-comprehensive-analysis-of-uap-explanations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newspaceeconomy.ca">[New Space Economy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newspaceeconomy.ca</span><span class="citation-popover-title">New Space Economy Decoding the Unidentified: A Comprehensive Analysis of UAP</span><span class="citation-popover-snippet">Satellites in low Earth orbit reflect sunlight and appear as moving stars. Large formations, such...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_ufo_misidentificatio_aa312a_distant_lights_orb_r_4a40c2-Illustration-2-dark.svg" | relative_url }}" alt="Orb reports illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_ufo_misidentificatio_aa312a_distant_lights_orb_r_4a40c2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_ufo_misidentificatio_aa312a_distant_lights_orb_r_4a40c2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Camera and Optical Artefacts
 
-When distant lights are recorded with consumer cameras—such as smartphones or dashcams—they often appear as **circular spots of light** rather than pinpoint sources. This occurs because of optical effects like **bokeh** and **defocus aberration**, where out‑of‑focus point sources are rendered as blurred discs defined by lens aperture and focus settings. In photography terms, this blur is a common characteristic of bright points outside the plane of focus, and is not indicative of a physical spherical object in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bokeh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+When distant lights are recorded with consumer cameras—such as smartphones or dashcams—they often appear as **circular spots of light** rather than pinpoint sources. This occurs because of optical effects like **bokeh** and **defocus aberration**, where out‑of‑focus point sources are rendered as blurred discs defined by lens aperture and focus settings. In photography terms, this blur is a common characteristic of bright points outside the plane of focus, and is not indicative of a physical spherical object in the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bokeh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-Another common optical effect is **backscatter** in low‑light photography, where light reflects off particles near the camera, producing circular artifacts that can look like orbs in images. These phenomena are unrelated to actual atmospheric objects but can mislead viewers and contribute to orb reports in databases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Defocus_aberration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Defocus aberration</span><span class="citation-popover-snippet">Defocus aberration</span></span></span>
+Another common optical effect is **backscatter** in low‑light photography, where light reflects off particles near the camera, producing circular artifacts that can look like orbs in images. These phenomena are unrelated to actual atmospheric objects but can mislead viewers and contribute to orb reports in databases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Defocus_aberration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Defocus aberration</span><span class="citation-popover-snippet">Defocus aberration</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/obmBcb0kQ3Y" title="Strange lights in Night Sky? It was SpaceX Starlink, not UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=obmBcb0kQ3Y" target="_blank" rel="noopener noreferrer">Strange lights in Night Sky? It was SpaceX Starlink, not UFOs</a></p><p class="youtube-embed-meta">Channel: KCENNews &middot; Views: 3.9K &middot; Uploaded: January 2026 &middot; Length: 35 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=obmBcb0kQ3Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=obmBcb0kQ3Y">Open on YouTube</a></p></div></div></div>
 
@@ -304,201 +304,201 @@ Another common optical effect is **backscatter** in low‑light photography, whe
 
 ## Database Labels That Preserve First Impressions
 
-In UFO databases, reports are often logged with the **original witness description**, especially when submissions are brief and lack detailed quantitative data such as altitude, angular motion, or corroborated sensor measurements. A witness might describe a sighting with phrases like “bright orb hovering” or “strange glowing sphere,” which gets indexed accordingly. Because many reporting systems prioritise capturing the witness’s impression, the **initial descriptor—“orb”—is preserved** even when later investigation indicates a mundane cause. This contrasts with more structured databases that encourage inclusion of reference data (time, location, angular direction) needed for later cross‑matching with known astronomical or aircraft data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Identifying UFOs and UAPs</span><span class="citation-popover-snippet">NASA ScienceIdentifying UFOs and UAPs - NASA ScienceDecember 1, 2013...</span><span class="citation-popover-meta">Published: December 1, 2013</span></span></span>
+In UFO databases, reports are often logged with the **original witness description**, especially when submissions are brief and lack detailed quantitative data such as altitude, angular motion, or corroborated sensor measurements. A witness might describe a sighting with phrases like “bright orb hovering” or “strange glowing sphere,” which gets indexed accordingly. Because many reporting systems prioritise capturing the witness’s impression, the **initial descriptor—“orb”—is preserved** even when later investigation indicates a mundane cause. This contrasts with more structured databases that encourage inclusion of reference data (time, location, angular direction) needed for later cross‑matching with known astronomical or aircraft data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Identifying UFOs and UAPs</span><span class="citation-popover-snippet">NASA ScienceIdentifying UFOs and UAPs - NASA ScienceDecember 1, 2013...</span><span class="citation-popover-meta">Published: December 1, 2013</span></span></span>
 
-Furthermore, human perception biases can play a role: when lacking scale or context, the brain tends to **fill in gaps with familiar geometric shapes** (such as circles or spheres) and attributes motion or behaviour that are not actually measured. This psychological tendency, combined with limited observation data, contributes to the proliferation of orb labels in UFO catalogues. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/unidentified-flying-object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[britannica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Unidentified flying object (UFO) &#124; History, Sightings, &amp; Facts &#124; Britannica</span><span class="citation-popover-snippet">March 11, 2026...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
+Furthermore, human perception biases can play a role: when lacking scale or context, the brain tends to **fill in gaps with familiar geometric shapes** (such as circles or spheres) and attributes motion or behaviour that are not actually measured. This psychological tendency, combined with limited observation data, contributes to the proliferation of orb labels in UFO catalogues.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/unidentified-flying-object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[britannica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Unidentified flying object (UFO) &#124; History, Sightings, &amp; Facts &#124; Britannica</span><span class="citation-popover-snippet">March 11, 2026...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_ufo_misidentificatio_aa312a_distant_lights_orb_r_4a40c2-Illustration-3-dark.svg" | relative_url }}" alt="Orb reports illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_ufo_misidentificatio_aa312a_distant_lights_orb_r_4a40c2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_ufo_misidentificatio_aa312a_distant_lights_orb_r_4a40c2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why ordinary lights become UFO orbs. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why ordinary lights become UFO orbs. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Gives serious UFO-report context while this page focuses on prosaic light misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Gives serious UFO-report context while this page focuses on prosaic light misidentifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Directly supports careful evaluation of extraordinary UFO claims and misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Directly supports careful evaluation of extraordinary UFO claims and misidentifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps identify planets, stars, satellites and other point lights commonly mistaken for UFO orbs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps identify planets, stars, satellites and other point lights commonly mistaken for UFO orbs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHNAEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
-        </h4>
-        <p class="fr-book-author">By Philip C. Plait</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHNAEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
+</h4>
+<p class="fr-book-author">By Philip C. Plait</p>
         
-        <p class="fr-book-desc">Explains common misconceptions about astronomical observations and apparent motion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains common misconceptions about astronomical observations and apparent motion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+orb+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-lights-become-ufo-orbs-led-orb-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED orb lamp" data-ebay-reference="why-ordinary-lights-become-ufo-orbs-led-orb-lamp" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TIME LED Antik Fluted Globe 4W E27 COB LED Filament Lamp (Gold)"><img src="https://i.ebayimg.com/images/g/fDgAAeSwKMdodjJl/s-l225.jpg" alt="Listing image for TIME LED Antik Fluted Globe 4W E27 COB LED Filament Lamp (Gold)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+orb+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-lights-become-ufo-orbs-led-orb-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED orb lamp" data-ebay-reference="why-ordinary-lights-become-ufo-orbs-led-orb-lamp" target="_blank" rel="sponsored noopener noreferrer">TIME LED Antik Fluted Globe 4W E27 COB LED Filament Lamp (Gold)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+orb+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-lights-become-ufo-orbs-led-orb-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED orb lamp" data-ebay-reference="why-ordinary-lights-become-ufo-orbs-led-orb-lamp" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LED orb lamp">Search <span data-ebay-domain-label>eBay.co.uk</span>: LED orb lamp</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+orb+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-lights-become-ufo-orbs-led-orb-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED orb lamp" data-ebay-reference="why-ordinary-lights-become-ufo-orbs-led-orb-lamp" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+orb+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-lights-become-ufo-orbs-led-orb-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED orb lamp" data-ebay-reference="why-ordinary-lights-become-ufo-orbs-led-orb-lamp" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TIME LED Antik Fluted Globe 4W E27 COB LED Filament Lamp (Gold)"><img src="https://i.ebayimg.com/images/g/fDgAAeSwKMdodjJl/s-l225.jpg" alt="Listing image for TIME LED Antik Fluted Globe 4W E27 COB LED Filament Lamp (Gold)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+orb+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-lights-become-ufo-orbs-led-orb-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED orb lamp" data-ebay-reference="why-ordinary-lights-become-ufo-orbs-led-orb-lamp" target="_blank" rel="sponsored noopener noreferrer">TIME LED Antik Fluted Globe 4W E27 COB LED Filament Lamp (Gold)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+orb+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-lights-become-ufo-orbs-led-orb-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED orb lamp" data-ebay-reference="why-ordinary-lights-become-ufo-orbs-led-orb-lamp" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LED orb lamp">Search<span data-ebay-domain-label>eBay.co.uk</span>: LED orb lamp</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+orb+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-lights-become-ufo-orbs-led-orb-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED orb lamp" data-ebay-reference="why-ordinary-lights-become-ufo-orbs-led-orb-lamp" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+orb+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-lights-become-ufo-orbs-led-orb-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED orb lamp" data-ebay-reference="why-ordinary-lights-become-ufo-orbs-led-orb-lamp" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED Dimmable GLS Bulbs 7W=60W / 12W=100W Lamp Globe Light Bayonet B22 Screw E27"><img src="https://i.ebayimg.com/images/g/akMAAOSwDcNlZvBs/s-l225.jpg" alt="Listing image for LED Dimmable GLS Bulbs 7W=60W / 12W=100W Lamp Globe Light Bayonet B22 Screw E27" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+orb+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-lights-become-ufo-orbs-led-orb-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED orb lamp" data-ebay-reference="why-ordinary-lights-become-ufo-orbs-led-orb-lamp" target="_blank" rel="sponsored noopener noreferrer">LED Dimmable GLS Bulbs 7W=60W / 12W=100W Lamp Globe Light Bayonet B22 Screw E27</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+orb+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-lights-become-ufo-orbs-led-orb-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED orb lamp" data-ebay-reference="why-ordinary-lights-become-ufo-orbs-led-orb-lamp" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LED orb lamp">Search <span data-ebay-domain-label>eBay.co.uk</span>: LED orb lamp</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+orb+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-lights-become-ufo-orbs-led-orb-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED orb lamp" data-ebay-reference="why-ordinary-lights-become-ufo-orbs-led-orb-lamp" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+orb+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-lights-become-ufo-orbs-led-orb-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED orb lamp" data-ebay-reference="why-ordinary-lights-become-ufo-orbs-led-orb-lamp" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED Dimmable GLS Bulbs 7W=60W / 12W=100W Lamp Globe Light Bayonet B22 Screw E27"><img src="https://i.ebayimg.com/images/g/akMAAOSwDcNlZvBs/s-l225.jpg" alt="Listing image for LED Dimmable GLS Bulbs 7W=60W / 12W=100W Lamp Globe Light Bayonet B22 Screw E27" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+orb+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-lights-become-ufo-orbs-led-orb-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED orb lamp" data-ebay-reference="why-ordinary-lights-become-ufo-orbs-led-orb-lamp" target="_blank" rel="sponsored noopener noreferrer">LED Dimmable GLS Bulbs 7W=60W / 12W=100W Lamp Globe Light Bayonet B22 Screw E27</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+orb+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-lights-become-ufo-orbs-led-orb-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED orb lamp" data-ebay-reference="why-ordinary-lights-become-ufo-orbs-led-orb-lamp" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LED orb lamp">Search<span data-ebay-domain-label>eBay.co.uk</span>: LED orb lamp</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+orb+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-lights-become-ufo-orbs-led-orb-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED orb lamp" data-ebay-reference="why-ordinary-lights-become-ufo-orbs-led-orb-lamp" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+orb+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-lights-become-ufo-orbs-led-orb-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED orb lamp" data-ebay-reference="why-ordinary-lights-become-ufo-orbs-led-orb-lamp" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED Ball Light Indoor Orb Coloured Light Globe With Remote Cordless 6 inch"><img src="https://i.ebayimg.com/images/g/UvUAAeSwDe5qJbXF/s-l225.jpg" alt="Listing image for LED Ball Light Indoor Orb Coloured Light Globe With Remote Cordless 6 inch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+orb+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-lights-become-ufo-orbs-led-orb-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED orb lamp" data-ebay-reference="why-ordinary-lights-become-ufo-orbs-led-orb-lamp" target="_blank" rel="sponsored noopener noreferrer">LED Ball Light Indoor Orb Coloured Light Globe With Remote Cordless 6 inch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+orb+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-lights-become-ufo-orbs-led-orb-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED orb lamp" data-ebay-reference="why-ordinary-lights-become-ufo-orbs-led-orb-lamp" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LED orb lamp">Search <span data-ebay-domain-label>eBay.co.uk</span>: LED orb lamp</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+orb+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-lights-become-ufo-orbs-led-orb-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED orb lamp" data-ebay-reference="why-ordinary-lights-become-ufo-orbs-led-orb-lamp" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+orb+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-lights-become-ufo-orbs-led-orb-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED orb lamp" data-ebay-reference="why-ordinary-lights-become-ufo-orbs-led-orb-lamp" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED Ball Light Indoor Orb Coloured Light Globe With Remote Cordless 6 inch"><img src="https://i.ebayimg.com/images/g/UvUAAeSwDe5qJbXF/s-l225.jpg" alt="Listing image for LED Ball Light Indoor Orb Coloured Light Globe With Remote Cordless 6 inch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+orb+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-lights-become-ufo-orbs-led-orb-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED orb lamp" data-ebay-reference="why-ordinary-lights-become-ufo-orbs-led-orb-lamp" target="_blank" rel="sponsored noopener noreferrer">LED Ball Light Indoor Orb Coloured Light Globe With Remote Cordless 6 inch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+orb+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-lights-become-ufo-orbs-led-orb-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED orb lamp" data-ebay-reference="why-ordinary-lights-become-ufo-orbs-led-orb-lamp" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LED orb lamp">Search<span data-ebay-domain-label>eBay.co.uk</span>: LED orb lamp</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+orb+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-lights-become-ufo-orbs-led-orb-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED orb lamp" data-ebay-reference="why-ordinary-lights-become-ufo-orbs-led-orb-lamp" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+orb+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-lights-become-ufo-orbs-led-orb-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED orb lamp" data-ebay-reference="why-ordinary-lights-become-ufo-orbs-led-orb-lamp" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lucky Clover Crystal Ball Lamp – Colour Changing LED Glass Orb Gift"><img src="https://i.ebayimg.com/images/g/BGAAAeSwyMZp-bUy/s-l225.jpg" alt="Listing image for Lucky Clover Crystal Ball Lamp – Colour Changing LED Glass Orb Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+orb+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-lights-become-ufo-orbs-led-orb-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED orb lamp" data-ebay-reference="why-ordinary-lights-become-ufo-orbs-led-orb-lamp" target="_blank" rel="sponsored noopener noreferrer">Lucky Clover Crystal Ball Lamp – Colour Changing LED Glass Orb Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+orb+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-lights-become-ufo-orbs-led-orb-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED orb lamp" data-ebay-reference="why-ordinary-lights-become-ufo-orbs-led-orb-lamp" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LED orb lamp">Search <span data-ebay-domain-label>eBay.co.uk</span>: LED orb lamp</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+orb+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-lights-become-ufo-orbs-led-orb-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED orb lamp" data-ebay-reference="why-ordinary-lights-become-ufo-orbs-led-orb-lamp" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+orb+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-lights-become-ufo-orbs-led-orb-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED orb lamp" data-ebay-reference="why-ordinary-lights-become-ufo-orbs-led-orb-lamp" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+orb+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-lights-become-ufo-orbs-led-orb-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED orb lamp" data-ebay-reference="why-ordinary-lights-become-ufo-orbs-led-orb-lamp" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lucky Clover Crystal Ball Lamp – Colour Changing LED Glass Orb Gift"><img src="https://i.ebayimg.com/images/g/BGAAAeSwyMZp-bUy/s-l225.jpg" alt="Listing image for Lucky Clover Crystal Ball Lamp – Colour Changing LED Glass Orb Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+orb+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-lights-become-ufo-orbs-led-orb-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED orb lamp" data-ebay-reference="why-ordinary-lights-become-ufo-orbs-led-orb-lamp" target="_blank" rel="sponsored noopener noreferrer">Lucky Clover Crystal Ball Lamp – Colour Changing LED Glass Orb Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+orb+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-lights-become-ufo-orbs-led-orb-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED orb lamp" data-ebay-reference="why-ordinary-lights-become-ufo-orbs-led-orb-lamp" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LED orb lamp">Search<span data-ebay-domain-label>eBay.co.uk</span>: LED orb lamp</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+orb+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-lights-become-ufo-orbs-led-orb-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED orb lamp" data-ebay-reference="why-ordinary-lights-become-ufo-orbs-led-orb-lamp" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+orb+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ordinary-lights-become-ufo-orbs-led-orb-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED orb lamp" data-ebay-reference="why-ordinary-lights-become-ufo-orbs-led-orb-lamp" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -514,7 +514,7 @@ Furthermore, human perception biases can play a role: when lacking scale or cont
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -534,7 +534,7 @@ Furthermore, human perception biases can play a role: when lacking scale or cont
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -566,7 +566,7 @@ Furthermore, human perception biases can play a role: when lacking scale or cont
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -618,7 +618,7 @@ Furthermore, human perception biases can play a role: when lacking scale or cont
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -663,7 +663,7 @@ Furthermore, human perception biases can play a role: when lacking scale or cont
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -704,104 +704,104 @@ Furthermore, human perception biases can play a role: when lacking scale or cont
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science Identifying UFOs and UAPs  
-   Link: <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIdentifying UFOs and UAPs - NASA ScienceDecember 1, 2013...</p></details>
+   Link:<a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIdentifying UFOs and UAPs - NASA ScienceDecember 1, 2013...</p></details>
    Published: December 1, 2013  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Bokeh" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bokeh</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Bokeh" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bokeh</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Defocus aberration  
-   Link: <a href="https://en.wikipedia.org/wiki/Defocus_aberration" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Defocus_aberration</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Defocus_aberration" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Defocus_aberration</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Backscatter (photography)  
-   Link: <a href="https://en.wikipedia.org/wiki/Backscatter_%28photography%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Backscatter_%28photography%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Backscatter_%28photography%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Backscatter_%28photography%29</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: britannica.com  
    Title: Unidentified flying object (UFO) | History, Sightings, & Facts | Britannica  
-   Link: <a href="https://www.britannica.com/topic/unidentified-flying-object" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/unidentified-flying-object</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 11, 2026...</p></details>
+   Link:<a href="https://www.britannica.com/topic/unidentified-flying-object" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/unidentified-flying-object</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 11, 2026...</p></details>
    Published: March 11, 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Diffraction spike  
-   Link: <a href="https://en.wikipedia.org/wiki/Diffraction_spike" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Diffraction_spike</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Diffraction spikeDiffraction spikes are lines radiating from bright light sources, causing what is known as the starburst effect or su...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Diffraction_spike" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Diffraction_spike</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Diffraction spikeDiffraction spikes are lines radiating from bright light sources, causing what is known as the starburst effect or su...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: newspaceeconomy.ca  
    Title: New Space Economy Decoding the Unidentified: A Comprehensive Analysis of UAP  
-   Link: <a href="https://newspaceeconomy.ca/2025/12/02/decoding-the-unidentified-a-comprehensive-analysis-of-uap-explanations/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/12/02/decoding-the-unidentified-a-comprehensive-analysis-of-uap-explanations/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellites in low Earth orbit reflect sunlight and appear as moving stars. Large formations, such...Read more...</p></details>
+   Link:<a href="https://newspaceeconomy.ca/2025/12/02/decoding-the-unidentified-a-comprehensive-analysis-of-uap-explanations/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/12/02/decoding-the-unidentified-a-comprehensive-analysis-of-uap-explanations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Satellites in low Earth orbit reflect sunlight and appear as moving stars. Large formations, such...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: assap.ac.uk  
-   Link: <a href="https://www.assap.ac.uk/articles/detail/orb-faq" target="_blank" rel="noopener noreferrer nofollow">https://www.assap.ac.uk/articles/detail/orb-faq</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FAQJanuary 29, 2021 — These include: * the depth of field of the lens (which is affected by manual zooming and automatic autofocus) * the...</p></details>
+   Link:<a href="https://www.assap.ac.uk/articles/detail/orb-faq" target="_blank" rel="noopener noreferrer nofollow">https://www.assap.ac.uk/articles/detail/orb-faq</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAQJanuary 29, 2021 — These include: * the depth of field of the lens (which is affected by manual zooming and automatic autofocus) * the...</p></details>
    Published: January 29, 2021  
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: uapsightings.org  
-   Link: <a href="https://uapsightings.org/common-uap-misidentifications/" target="_blank" rel="noopener noreferrer nofollow">https://uapsightings.org/common-uap-misidentifications/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Common UAP MisidentificationsLarge-scale holographic displays used for events or entertainment can create realistic-looking objects in th...</p></details>
+   Link:<a href="https://uapsightings.org/common-uap-misidentifications/" target="_blank" rel="noopener noreferrer nofollow">https://uapsightings.org/common-uap-misidentifications/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Common UAP MisidentificationsLarge-scale holographic displays used for events or entertainment can create realistic-looking objects in th...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: astrophyzix.com  
-   Link: <a href="https://www.astrophyzix.com/2026/02/ufo-uap-orbs-explained-by-science.html?m=0" target="_blank" rel="noopener noreferrer nofollow">https://www.astrophyzix.com/2026/02/ufo-uap-orbs-explained-by-science.html?m=0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Latest Potentially Hazardous Asteroid News and PHA NEO Close Approach Reports: Orb UAP Sightings Explained: The Science Beh...</p></details>
+   Link:<a href="https://www.astrophyzix.com/2026/02/ufo-uap-orbs-explained-by-science.html?m=0" target="_blank" rel="noopener noreferrer nofollow">https://www.astrophyzix.com/2026/02/ufo-uap-orbs-explained-by-science.html?m=0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Latest Potentially Hazardous Asteroid News and PHA NEO Close Approach Reports: Orb UAP Sightings Explained: The Science Beh...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ufoindex.com  
-   Link: <a href="https://www.ufoindex.com/orbs" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoindex.com/orbs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Orbs, Foo Fighters &amp; the UFO Phenomenon | UFOIndex.comAerial Phenomena ORBS, FOO FIGHTERS &amp; the UFO Phenomenon A mystery that predates th...</p></details>
+   Link:<a href="https://www.ufoindex.com/orbs" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoindex.com/orbs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Orbs, Foo Fighters &amp; the UFO Phenomenon | UFOIndex.comAerial Phenomena ORBS, FOO FIGHTERS &amp; the UFO Phenomenon A mystery that predates th...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: inmysacredspace.com  
-   Link: <a href="https://inmysacredspace.com/your-definitive-guide-to-debunking-orbs-lens-flares/" target="_blank" rel="noopener noreferrer nofollow">https://inmysacredspace.com/your-definitive-guide-to-debunking-orbs-lens-flares/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Your Definitive Guide to Debunking Orbs: Lens FlaresIn this guide to debunking orbs, learn how to spot a lens flare. Lens flares are a co...</p></details>
+   Link:<a href="https://inmysacredspace.com/your-definitive-guide-to-debunking-orbs-lens-flares/" target="_blank" rel="noopener noreferrer nofollow">https://inmysacredspace.com/your-definitive-guide-to-debunking-orbs-lens-flares/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Your Definitive Guide to Debunking Orbs: Lens FlaresIn this guide to debunking orbs, learn how to spot a lens flare. Lens flares are a co...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: open-data.spr.ac.uk  
-   Link: <a href="https://open-data.spr.ac.uk/articles/orbs-light-anomalies" target="_blank" rel="noopener noreferrer nofollow">https://open-data.spr.ac.uk/articles/orbs-light-anomalies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(Light Anomalies) | Psi EncyclopediaORBS (LIGHT ANOMALIES) Image ‘Orbs’ is the term used to describe the globular light anomalies often s...</p></details>
+   Link:<a href="https://open-data.spr.ac.uk/articles/orbs-light-anomalies" target="_blank" rel="noopener noreferrer nofollow">https://open-data.spr.ac.uk/articles/orbs-light-anomalies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(Light Anomalies) | Psi EncyclopediaORBS (LIGHT ANOMALIES) Image ‘Orbs’ is the term used to describe the globular light anomalies often s...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: arstechnica.com  
-   Link: <a href="https://arstechnica.com/science/2014/01/seismologists-offer-explanation-for-mysterious-aerial-light-orbs-preceding-quakes/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/science/2014/01/seismologists-offer-explanation-for-mysterious-aerial-light-orbs-preceding-quakes/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ars TechnicaJanuary 5, 2014 — SEISMOLOGISTS OFFER EXPLANATION FOR MYSTERIOUS AERIAL LIGHT ORBS PRECEDING QUAKES UFO seekers, you’ll have...</p></details>
+   Link:<a href="https://arstechnica.com/science/2014/01/seismologists-offer-explanation-for-mysterious-aerial-light-orbs-preceding-quakes/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/science/2014/01/seismologists-offer-explanation-for-mysterious-aerial-light-orbs-preceding-quakes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ars TechnicaJanuary 5, 2014 — SEISMOLOGISTS OFFER EXPLANATION FOR MYSTERIOUS AERIAL LIGHT ORBS PRECEDING QUAKES UFO seekers, you’ll have...</p></details>
    Published: January 5, 2014  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2018/11/ufo-identification-process/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2018/11/ufo-identification-process/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>6 November / December 2018 The important things to remember about UFOs are, first, that they are just alleged sightings th...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2018/11/ufo-identification-process/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2018/11/ufo-identification-process/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>6 November / December 2018 The important things to remember about UFOs are, first, that they are just alleged sightings th...</p></details>
    Published: December 2018  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: public.nrao.edu  
    Title: why do stars look like points of light rather than a uniform haze of light  
-   Link: <a href="https://public.nrao.edu/ask/why-do-stars-look-like-points-of-light-rather-than-a-uniform-haze-of-light/" target="_blank" rel="noopener noreferrer nofollow">https://public.nrao.edu/ask/why-do-stars-look-like-points-of-light-rather-than-a-uniform-haze-of-light/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Do Stars Look Like Points of Light Rather than a...The explanation to the paradox is that the universe is expanding, and this expansion...</p></details>
+   Link:<a href="https://public.nrao.edu/ask/why-do-stars-look-like-points-of-light-rather-than-a-uniform-haze-of-light/" target="_blank" rel="noopener noreferrer nofollow">https://public.nrao.edu/ask/why-do-stars-look-like-points-of-light-rather-than-a-uniform-haze-of-light/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Do Stars Look Like Points of Light Rather than a...The explanation to the paradox is that the universe is expanding, and this expansion...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: sky-lens.com  
-   Link: <a href="https://sky-lens.com/guide/common-confusables" target="_blank" rel="noopener noreferrer nofollow">https://sky-lens.com/guide/common-confusables</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learn them, and your false-positive rate drops dramatically. Object | Appearance | Key...</p></details>
+   Link:<a href="https://sky-lens.com/guide/common-confusables" target="_blank" rel="noopener noreferrer nofollow">https://sky-lens.com/guide/common-confusables</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Learn them, and your false-positive rate drops dramatically. Object | Appearance | Key...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: skyatnightmagazine.com  
    Title: 17 things commonly mistaken for UFOs | BBC Sky at Night Magazine  
-   Link: <a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Consider the following possibilities... Get monthly inspiration to your door with BBC Sky At Night Magazine - subscribe toda...</p></details>
+   Link:<a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Consider the following possibilities... Get monthly inspiration to your door with BBC Sky At Night Magazine - subscribe toda...</p></details>

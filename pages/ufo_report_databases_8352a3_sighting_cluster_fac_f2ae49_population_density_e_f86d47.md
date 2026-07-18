@@ -274,14 +274,14 @@ image: /assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_po
 
 ## Introduction
 
-Population density shapes UFO report clustering because UFO databases record **reported sightings**, not sightings independent of witnesses. Dense areas supply more potential observers, more internet access, more local discussion, and more chances for a single ambiguous light or aircraft to become a database entry. Raw maps of public catalogues such as [NUFORC]({{ 'nuforc/' | relative_url }}) therefore often resemble maps of where people live. Yet the relationship is not simple: some studies find more total reports in populated areas, while per-capita or model-adjusted analyses can highlight rural regions where reports are unusually frequent for the number of residents. The key point is that population density is a baseline variable: before treating a UFO cluster as anomalous, analysts need to ask whether it is mainly a cluster of people, reporting habits, and skywatching opportunity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofscientificexploration.org/index.php/jse/article/view/812" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[journalofscientificexploration.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">In the search for patterns of the UFO phenomenon, the geographical distribution has shown contradictory results.Read more...</span></span></span>
+Population density shapes UFO report clustering because UFO databases record **reported sightings**, not sightings independent of witnesses. Dense areas supply more potential observers, more internet access, more local discussion, and more chances for a single ambiguous light or aircraft to become a database entry. Raw maps of public catalogues such as [NUFORC]({{ 'nuforc/' | relative_url }}) therefore often resemble maps of where people live. Yet the relationship is not simple: some studies find more total reports in populated areas, while per-capita or model-adjusted analyses can highlight rural regions where reports are unusually frequent for the number of residents. The key point is that population density is a baseline variable: before treating a UFO cluster as anomalous, analysts need to ask whether it is mainly a cluster of people, reporting habits, and skywatching opportunity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofscientificexploration.org/index.php/jse/article/view/812" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[journalofscientificexploration.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">In the search for patterns of the UFO phenomenon, the geographical distribution has shown contradictory results.Read more...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_population_density_e_f86d47-Illustration-1-dark.svg" | relative_url }}" alt="Population Density illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_population_density_e_f86d47-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_population_density_e_f86d47-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Population as a Witness Pool
 
-The simplest mechanism is also the most important: more people create more opportunities for someone to notice, interpret, and submit an aerial observation. A review of geographical UFO-report studies found that the relationship between reports and population density has long produced apparently contradictory findings, but those contradictions can often be reconciled by distinguishing raw report totals from rates adjusted for population. In raw counts, more populated places tend to generate more reports because there are more witnesses available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofscientificexploration.org/index.php/jse/article/view/3551/2205" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[journalofscientificexploration.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Open source on journalofscientificexploration.org.</span></span></span>
+The simplest mechanism is also the most important: more people create more opportunities for someone to notice, interpret, and submit an aerial observation. A review of geographical UFO-report studies found that the relationship between reports and population density has long produced apparently contradictory findings, but those contradictions can often be reconciled by distinguishing raw report totals from rates adjusted for population. In raw counts, more populated places tend to generate more reports because there are more witnesses available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofscientificexploration.org/index.php/jse/article/view/3551/2205" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[journalofscientificexploration.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Open source on journalofscientificexploration.org.</span></span></span>
 
-NUFORC’s own public location index illustrates the raw-count effect. Large-population states such as California and Florida appear near the top of the report totals, while less populated areas generally have fewer entries. That does not prove that more unusual objects appear over those places; it shows that large public sighting catalogues are strongly shaped by where observers are concentrated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</span></span></span>
+NUFORC’s own public location index illustrates the raw-count effect. Large-population states such as California and Florida appear near the top of the report totals, while less populated areas generally have fewer entries. That does not prove that more unusual objects appear over those places; it shows that large public sighting catalogues are strongly shaped by where observers are concentrated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</span></span></span>
 
 This matters because “cluster” can mean two different things. A cluster of reports in a city may simply reflect a large witness pool. A cluster that remains strong after population adjustment is more analytically interesting, because it suggests that something beyond population alone may be influencing reports: sky visibility, local aircraft activity, tourism, regional UFO culture, internet access, or unusual repeated events.
 
@@ -291,9 +291,9 @@ This matters because “cluster” can mean two different things. A cluster of r
 
 A raw dot map of UFO reports is visually persuasive but statistically risky. If every report is plotted as a point, dense cities and suburbs naturally glow brighter. The viewer may read this as a map of unexplained activity, when it is often closer to a map of **human opportunity to report**.
 
-This is why several modern analyses use population-normalised rates, such as reports per 10,000 people, or model expected report counts against local demographic [baselines]({{ 'baselines/' | relative_url }}). The 2023 Scientific Reports study of more than 98,000 public UAP reports examined county-level reporting rates rather than simply counting reports, allowing the authors to compare places with very different population sizes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — The dependent variable includes ov...</span></span></span>
+This is why several modern analyses use population-normalised rates, such as reports per 10,000 people, or model expected report counts against local demographic [baselines]({{ 'baselines/' | relative_url }}). The 2023 Scientific Reports study of more than 98,000 public UAP reports examined county-level reporting rates rather than simply counting reports, allowing the authors to compare places with very different population sizes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — The dependent variable includes ov...</span></span></span>
 
-The RAND Corporation’s 2023 analysis of 101,151 NUFORC reports likewise treated public UAP reporting as a geographical pattern requiring controls. Its findings complicate the simple “more population equals more UFOs” assumption: after modelling report likelihood across U.S. census designated places, RAND found reports were less likely in more densely populated areas, while rural areas tended to show higher report rates. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-title">RRA2475 1</span><span class="citation-popover-snippet">RRA2475 1</span></span></span>
+The RAND Corporation’s 2023 analysis of 101,151 NUFORC reports likewise treated public UAP reporting as a geographical pattern requiring controls. Its findings complicate the simple “more population equals more UFOs” assumption: after modelling report likelihood across U.S. census designated places, RAND found reports were less likely in more densely populated areas, while rural areas tended to show higher report rates.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-title">RRA2475 1</span><span class="citation-popover-snippet">RRA2475 1</span></span></span>
 
 That result does not overturn the witness-pool effect. It shows the difference between **total reports** and **report rates**. Big cities can generate many reports in absolute terms while rural areas may produce more reports per resident, especially where skies are darker, horizons are more open, or people spend more time outdoors.
 
@@ -302,9 +302,9 @@ That result does not overturn the witness-pool effect. It shows the difference b
 
 Population density also affects reporting through social transmission. In dense communities, a strange light can be seen by many people at once, discussed quickly, shared online, and converted into multiple reports. Media attention can then create a feedback loop: people who might have ignored an ambiguous sighting may submit it after hearing that others saw something similar.
 
-A study of 80,332 UFO reports from 1906 to 2014 found that reporting patterns were sensitive to media broadcasts and to human reporting behaviour, not just to the original sighting event. This supports the view that UFO databases partly measure public attention and willingness to report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A study of 80,332 UFO reports from 1906 to 2014 found that reporting patterns were sensitive to media broadcasts and to human reporting behaviour, not just to the original sighting event. This supports the view that UFO databases partly measure public attention and willingness to report.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Dense population does not automatically mean stronger reporting culture, however. Some rural regions have powerful UFO associations, military folklore, dark-sky recreation, or local tourism tied to anomalous phenomena. The American West is a good example: the University of Utah summary of the Scientific Reports analysis noted high per-capita reporting [clusters]({{ 'clusters/' | relative_url }}) in the West and far Northeast, with cold spots in parts of the central plains and Southeast. <span class="citation-chip-wrap"><a class="citation-chip" href="https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: attheu.utah.edu">[attheu.utah.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">attheu.utah.edu</span><span class="citation-popover-title">The West is best to spot UFOs</span><span class="citation-popover-snippet">The West is best to spot UFOs</span></span></span>
+Dense population does not automatically mean stronger reporting culture, however. Some rural regions have powerful UFO associations, military folklore, dark-sky recreation, or local tourism tied to anomalous phenomena. The American West is a good example: the University of Utah summary of the Scientific Reports analysis noted high per-capita reporting [clusters]({{ 'clusters/' | relative_url }}) in the West and far Northeast, with cold spots in parts of the central plains and Southeast.<span class="citation-chip-wrap"><a class="citation-chip" href="https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: attheu.utah.edu">[attheu.utah.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">attheu.utah.edu</span><span class="citation-popover-title">The West is best to spot UFOs</span><span class="citation-popover-snippet">The West is best to spot UFOs</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Xjsng_aBBxg" title="LIVE | The TRUTH About Donald Trump&#x27;s UFO Shocker | US Congress Hearing on UFOs | UAP or UFO | N18G" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Xjsng_aBBxg" target="_blank" rel="noopener noreferrer">LIVE | The TRUTH About Donald Trump&#x27;s UFO Shocker | US Congress Hearing on UFOs | UAP or UFO | N18G</a></p><p class="youtube-embed-meta">Channel: CNN-News18 &middot; Views: 131.0K &middot; Uploaded: June 2025 &middot; Length: 2 hours 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Xjsng_aBBxg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Xjsng_aBBxg">Open on YouTube</a></p></div></div></div>
 
@@ -312,9 +312,9 @@ Dense population does not automatically mean stronger reporting culture, however
 
 Urban clusters and rural clusters should not be interpreted in the same way. An urban cluster often starts with the obvious question: is this just where more people live? A rural cluster starts with a different question: why are reports high despite fewer people?
 
-In cities, common sources of misidentification include aircraft, drones, advertising lights, satellites seen through gaps in cloud, and reflections in dense built environments. People may also have less sky visibility because of buildings and [light pollution]({{ 'light-pollution/' | relative_url }}), which can reduce some kinds of observation even while the population is large. The Scientific Reports environmental analysis found that reporting patterns were connected to opportunity-to-see variables, including light pollution and [tree canopy]({{ 'tree-canopy/' | relative_url }}), reinforcing the point that population interacts with visibility rather than acting alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41599-024-04182-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
+In cities, common sources of misidentification include aircraft, drones, advertising lights, satellites seen through gaps in cloud, and reflections in dense built environments. People may also have less sky visibility because of buildings and [light pollution]({{ 'light-pollution/' | relative_url }}), which can reduce some kinds of observation even while the population is large. The Scientific Reports environmental analysis found that reporting patterns were connected to opportunity-to-see variables, including light pollution and [tree canopy]({{ 'tree-canopy/' | relative_url }}), reinforcing the point that population interacts with visibility rather than acting alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41599-024-04182-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
 
-In rural areas, fewer people may be offset by darker skies, wider horizons, outdoor work, camping, hunting, stargazing, or proximity to military training airspace. RAND’s strongest and most consistent finding was that UAP reports were more likely within 30 km of military operations areas, suggesting that some rural or semi-rural clusters may reflect exposure to aircraft activity rather than population density alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-title">RAND RRA2475 1</span><span class="citation-popover-snippet">RAND RRA2475 1</span></span></span>
+In rural areas, fewer people may be offset by darker skies, wider horizons, outdoor work, camping, hunting, stargazing, or proximity to military training airspace. RAND’s strongest and most consistent finding was that UAP reports were more likely within 30 km of military operations areas, suggesting that some rural or semi-rural clusters may reflect exposure to aircraft activity rather than population density alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-title">RAND RRA2475 1</span><span class="citation-popover-snippet">RAND RRA2475 1</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_population_density_e_f86d47-Illustration-3-dark.svg" | relative_url }}" alt="Population Density illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_population_density_e_f86d47-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49_population_density_e_f86d47-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Analysts Should Use Population Density
@@ -335,194 +335,194 @@ This approach keeps UFO catalogue analysis grounded. It avoids treating every de
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VmVf2Axe6as" title="UAP Data Analysis On 80,000 Sightings! | Don Tadaya" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VmVf2Axe6as" target="_blank" rel="noopener noreferrer">UAP Data Analysis On 80,000 Sightings! | Don Tadaya</a></p><p class="youtube-embed-meta">Channel: Tim Ventura &middot; Views: 9.1K &middot; Uploaded: May 2023 &middot; Length: 54 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VmVf2Axe6as" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VmVf2Axe6as">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Denser Populations Produce More UFO Sightings. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Denser Populations Produce More UFO Sightings. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Relevant to how reports are gathered, classified and interpreted rather than counted naively.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to how reports are gathered, classified and interpreted rather than counted naively.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Anchors database-pattern discussion in credible reported cases and official testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Anchors database-pattern discussion in credible reported cases and official testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Helps readers distinguish meaningful patterns from reporting artefacts and bias.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Helps readers distinguish meaningful patterns from reporting artefacts and bias.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Lies+by+Seth+Stephens-Davidowitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Lies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8dEkDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Everybody Lies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Everybody+Lies+by+Seth+Stephens-Davidowitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Lies">Everybody Lies</a>
-        </h4>
-        <p class="fr-book-author">By Seth Stephens-Davidowitz</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Lies+by+Seth+Stephens-Davidowitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Lies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8dEkDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Everybody Lies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Everybody+Lies+by+Seth+Stephens-Davidowitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Lies">Everybody Lies</a>
+</h4>
+<p class="fr-book-author">By Seth Stephens-Davidowitz</p>
         
-        <p class="fr-book-desc">Useful for understanding population, reporting bias and what public datasets can misleadingly show.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Everybody+Lies+by+Seth+Stephens-Davidowitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding population, reporting bias and what public datasets can misleadingly show.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Everybody+Lies+by+Seth+Stephens-Davidowitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map"><img src="{{ '/assets/images/marketplace-covers/51b8893bbe54c1ca707b.jpg' | relative_url }}" alt="Listing image for Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer">Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map"><img src="{{ '/assets/images/marketplace-covers/51b8893bbe54c1ca707b.jpg' | relative_url }}" alt="Listing image for Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer">Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map"><img src="{{ '/assets/images/marketplace-covers/785e336da487766e89a7.jpg' | relative_url }}" alt="Listing image for Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer">Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map"><img src="{{ '/assets/images/marketplace-covers/785e336da487766e89a7.jpg' | relative_url }}" alt="Listing image for Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer">Art Print UFO Over Ancient Port City Red Energy Lines Bizarre Flying Saucer Map</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print Alien Saucer Over City Vintage Map UFO Hovering Leonardo Da Vinci Styl"><img src="{{ '/assets/images/marketplace-covers/622c1729001d43c4346c.jpg' | relative_url }}" alt="Listing image for Art Print Alien Saucer Over City Vintage Map UFO Hovering Leonardo Da Vinci Styl" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer">Art Print Alien Saucer Over City Vintage Map UFO Hovering Leonardo Da Vinci Styl</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print Alien Saucer Over City Vintage Map UFO Hovering Leonardo Da Vinci Styl"><img src="{{ '/assets/images/marketplace-covers/622c1729001d43c4346c.jpg' | relative_url }}" alt="Listing image for Art Print Alien Saucer Over City Vintage Map UFO Hovering Leonardo Da Vinci Styl" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer">Art Print Alien Saucer Over City Vintage Map UFO Hovering Leonardo Da Vinci Styl</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print Giant UFO Hovering Over Vintage City Red Beam Attack Map Style Weird"><img src="{{ '/assets/images/marketplace-covers/a91422e1e8ff511c3818.jpg' | relative_url }}" alt="Listing image for Art Print Giant UFO Hovering Over Vintage City Red Beam Attack Map Style Weird" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer">Art Print Giant UFO Hovering Over Vintage City Red Beam Attack Map Style Weird</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print Giant UFO Hovering Over Vintage City Red Beam Attack Map Style Weird"><img src="{{ '/assets/images/marketplace-covers/a91422e1e8ff511c3818.jpg' | relative_url }}" alt="Listing image for Art Print Giant UFO Hovering Over Vintage City Red Beam Attack Map Style Weird" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer">Art Print Giant UFO Hovering Over Vintage City Red Beam Attack Map Style Weird</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="population-density-why-denser-populations-produce-more-ufo-sightings-ufo-report-databases-and-ca-ufo-map-print-book-book" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -538,7 +538,7 @@ This approach keeps UFO catalogue analysis grounded. It avoids treating every de
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -558,7 +558,7 @@ This approach keeps UFO catalogue analysis grounded. It avoids treating every de
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -590,7 +590,7 @@ This approach keeps UFO catalogue analysis grounded. It avoids treating every de
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -642,7 +642,7 @@ This approach keeps UFO catalogue analysis grounded. It avoids treating every de
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -687,7 +687,7 @@ This approach keeps UFO catalogue analysis grounded. It avoids treating every de
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -728,125 +728,125 @@ This approach keeps UFO catalogue analysis grounded. It avoids treating every de
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: journalofscientificexploration.org  
-   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/812" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/812</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In the search for patterns of the UFO phenomenon, the geographical distribution has shown contradictory results.Read more...</p></details>
+   Link:<a href="https://journalofscientificexploration.org/index.php/jse/article/view/812" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/812</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In the search for patterns of the UFO phenomenon, the geographical distribution has shown contradictory results.Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</p></details>
+   Link:<a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports by Location  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationAugust 20, 2023 — NUFORC Reports by Location; USA - Arizona, 5349; USA - California, 17169; USA - Colorado...</p></details>
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationAugust 20, 2023 — NUFORC Reports by Location; USA - Arizona, 5349; USA - California, 17169; USA - Colorado...</p></details>
    Published: August 20, 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-49527-x</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — The dependent variable includes ov...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-49527-x</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — The dependent variable includes ov...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: rand.org  
    Title: RRA2475 1  
-   Link: <a href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/research_reports/RRA2475-1.html</a>  
+   Link:<a href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/research_reports/RRA2475-1.html</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: attheu.utah.edu  
    Title: The West is best to spot UFOs  
-   Link: <a href="https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/</a>  
+   Link:<a href="https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/newmap/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/newmap/</a>  
+   Link:<a href="https://nuforc.org/newmap/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/newmap/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
+   Link:<a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/spatial/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/spatial/</a>  
+   Link:<a href="https://nuforc.org/spatial/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/spatial/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: rand.org  
    Title: RAND RRA2475 1  
-   Link: <a href="https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf</a>  
+   Link:<a href="https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41599-024-04182-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-024-04182-z</a>  
+   Link:<a href="https://www.nature.com/articles/s41599-024-04182-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-024-04182-z</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: journalofscientificexploration.org  
-   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/3551/2205" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/3551/2205</a>  
+   Link:<a href="https://journalofscientificexploration.org/index.php/jse/article/view/3551/2205" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/3551/2205</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: UAP Data Analysis On 80,000 Sightings! | Don Tadaya  
-   Link: <a href="https://www.youtube.com/watch?v=VmVf2Axe6as" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VmVf2Axe6as</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LIVE | The TRUTH About Donald Trump&#x27;s UFO Shocker | US Congress Hearing on UFOs | UAP or UFO...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VmVf2Axe6as" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VmVf2Axe6as</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LIVE | The TRUTH About Donald Trump&#x27;s UFO Shocker | US Congress Hearing on UFOs | UAP or UFO...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Xjsng_aBBxg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xjsng_aBBxg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WATCH: Meet the people who research suspected UFO sightings...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Xjsng_aBBxg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xjsng_aBBxg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WATCH: Meet the people who research suspected UFO sightings...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: sciencenews.org  
    Title: Science News Scientists are getting serious about UFOs  
-   Link: <a href="https://www.sciencenews.org/article/scientists-serious-ufo-uap-security" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencenews.org/article/scientists-serious-ufo-uap-security</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s why7 Aug 2024 — An analysis of nearly 99,000 reported UAP sightings pinpointed U.S. counties with a particularly high number of re...</p></details>
+   Link:<a href="https://www.sciencenews.org/article/scientists-serious-ufo-uap-security" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencenews.org/article/scientists-serious-ufo-uap-security</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s why7 Aug 2024 — An analysis of nearly 99,000 reported UAP sightings pinpointed U.S. counties with a particularly high number of re...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: [MUFON](&#123;&#123; 'mufon/' | relative_url &#125;&#125;) – The Truth Behind UFOs and Alien Encounters  
-   Link: <a href="https://www.youtube.com/watch?v=PSgTuE7HFx0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PSgTuE7HFx0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Utah UFO sighting map population density Is that UFO??!😰#googlemaps Explore The Universe...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PSgTuE7HFx0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PSgTuE7HFx0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of Utah UFO sighting map population density Is that UFO??!😰#googlemaps Explore The Universe...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: WATCH: Meet the people who research suspected UFO sightings  
-   Link: <a href="https://www.youtube.com/watch?v=JvqoodXDZjE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JvqoodXDZjE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON Unmasks the Truth! | UFO&#x27;s Over Earth | Discovery Channel...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JvqoodXDZjE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JvqoodXDZjE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON Unmasks the Truth! | UFO&#x27;s Over Earth | Discovery Channel...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: MUFON Unmasks the Truth! | UFO's Over Earth | Discovery Channel  
-   Link: <a href="https://www.youtube.com/watch?v=NJdt9Dxvfvo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NJdt9Dxvfvo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON – The Truth Behind UFOs and Alien Encounters...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=NJdt9Dxvfvo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NJdt9Dxvfvo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON – The Truth Behind UFOs and Alien Encounters...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1396529487421974/posts/2169736926767889/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1396529487421974/posts/2169736926767889/</a>  
+   Link:<a href="https://www.facebook.com/groups/1396529487421974/posts/2169736926767889/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1396529487421974/posts/2169736926767889/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/data-science/data-analysis-everything-youve-ever-wanted-to-know-about-ufo-sightings-e16f2ed34151" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/data-science/data-analysis-everything-youve-ever-wanted-to-know-about-ufo-sightings-e16f2ed34151</a>  
+   Link:<a href="https://medium.com/data-science/data-analysis-everything-youve-ever-wanted-to-know-about-ufo-sightings-e16f2ed34151" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/data-science/data-analysis-everything-youve-ever-wanted-to-know-about-ufo-sightings-e16f2ed34151</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/MapPorn/comments/1thusij/europes_ufo_reports_map/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/MapPorn/comments/1thusij/europes_ufo_reports_map/</a>  
+   Link:<a href="https://www.reddit.com/r/MapPorn/comments/1thusij/europes_ufo_reports_map/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/MapPorn/comments/1thusij/europes_ufo_reports_map/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: github.com  
-   Link: <a href="https://github.com/lazell/ufo_reports" target="_blank" rel="noopener noreferrer nofollow">https://github.com/lazell/ufo_reports</a>  
+   Link:<a href="https://github.com/lazell/ufo_reports" target="_blank" rel="noopener noreferrer nofollow">https://github.com/lazell/ufo_reports</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40katie.lazell/more-than-meets-the-eye-unsupervised-learning-on-ufo-reports-part-i-f1f5320cc244" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40katie.lazell/more-than-meets-the-eye-unsupervised-learning-on-ufo-reports-part-i-f1f5320cc244</a>  
+   Link:<a href="https://medium.com/%40katie.lazell/more-than-meets-the-eye-unsupervised-learning-on-ufo-reports-part-i-f1f5320cc244" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40katie.lazell/more-than-meets-the-eye-unsupervised-learning-on-ufo-reports-part-i-f1f5320cc244</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/361615025_On_the_dynamics_of_reporting_data_A_case_study_of_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/361615025_On_the_dynamics_of_reporting_data_A_case_study_of_UFO_sightings</a>
+   Link:<a href="https://www.researchgate.net/publication/361615025_On_the_dynamics_of_reporting_data_A_case_study_of_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/361615025_On_the_dynamics_of_reporting_data_A_case_study_of_UFO_sightings</a>

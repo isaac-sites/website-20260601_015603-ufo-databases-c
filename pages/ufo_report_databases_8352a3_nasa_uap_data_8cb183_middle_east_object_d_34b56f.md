@@ -274,14 +274,14 @@ image: /assets/images/ufo_report_databases_8352a3_nasa_uap_data_8cb183_middle_ea
 
 ## Introduction
 
-The so-called Middle East Object case became one of the most widely discussed modern UAP incidents not because it showed extraordinary behaviour, but because it exposed how little can be concluded from a short and isolated piece of military footage. The video, captured by a US MQ-9 Reaper drone and later released through Pentagon and [AARO]({{ 'aaro/' | relative_url }}) channels, shows a small metallic-looking orb crossing the sensor’s field of view. The object remains officially unidentified. Yet the reason it remains unidentified is important: investigators repeatedly stated that the available data were too limited to determine what the object actually was. U.S. Department of War <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryThis clip was taken by an MQ-9 in the Middle East, and while... object in the clip is not exhibiting anomalous behavior, the...</span></span></span>
+The so-called Middle East Object case became one of the most widely discussed modern UAP incidents not because it showed extraordinary behaviour, but because it exposed how little can be concluded from a short and isolated piece of military footage. The video, captured by a US MQ-9 Reaper drone and later released through Pentagon and [AARO]({{ 'aaro/' | relative_url }}) channels, shows a small metallic-looking orb crossing the sensor’s field of view. The object remains officially unidentified. Yet the reason it remains unidentified is important: investigators repeatedly stated that the available data were too limited to determine what the object actually was. U.S. Department of War<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryThis clip was taken by an MQ-9 in the Middle East, and while... object in the clip is not exhibiting anomalous behavior, the...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_report_databases_8352a3_nasa_uap_data_8cb183_middle_east_object_d_34b56f-Illustration-1-dark.svg" | relative_url }}" alt="Middle East Object illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_report_databases_8352a3_nasa_uap_data_8cb183_middle_east_object_d_34b56f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_report_databases_8352a3_nasa_uap_data_8cb183_middle_east_object_d_34b56f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within discussions about UFO report databases and scientific UAP catalogues, the Middle East Object is useful as a lesson in evidence quality. It demonstrates that an unresolved case does not automatically indicate something exotic. Sometimes “unidentified” simply means that crucial contextual information is missing. The case fits closely with NASA’s broader argument that many UAP reports remain unresolved because the underlying records lack sufficient sensor data, calibration information, environmental context and corroborating measurements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportFootage taken by an MQ-9 of an apparent silver, orb-like object in the Middle East. Due to limit...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportFootage taken by an MQ-9 of an apparent silver, orb-like object in the Middle East. Due to limit...</span></span></span>
+Within discussions about UFO report databases and scientific UAP catalogues, the Middle East Object is useful as a lesson in evidence quality. It demonstrates that an unresolved case does not automatically indicate something exotic. Sometimes “unidentified” simply means that crucial contextual information is missing. The case fits closely with NASA’s broader argument that many UAP reports remain unresolved because the underlying records lack sufficient sensor data, calibration information, environmental context and corroborating measurements.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportFootage taken by an MQ-9 of an apparent silver, orb-like object in the Middle East. Due to limit...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportFootage taken by an MQ-9 of an apparent silver, orb-like object in the Middle East. Due to limit...</span></span></span>
 
 ## What the Middle East Object footage shows
 
-The publicly released clip was recorded on 12 July 2022 by an MQ-9 operating in the Middle East. In the video, a small orb-like object appears to move across the sensor image while the drone's camera tracks the scene. Pentagon officials described it as an apparent silver or metallic sphere. AARO director Sean Kirkpatrick presented the footage during a Senate hearing in April 2023 and later referenced it during NASA’s public UAP discussions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://allarab.news/us-drone-operating-in-middle-east-spots-mysterious-orb/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: allarab.news">[All Arab News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">allarab.news</span><span class="citation-popover-title">us drone operating in middle east spots mysterious orb</span><span class="citation-popover-snippet">All Arab NewsUS drone operating in Middle East spots mysterious orb20 Apr 2023 — Kirkpatrick leads the Pentagon&#x27;s All-domain Anomaly Reso...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/Multimedia/videoid/880273/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[3U.S.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Department of WarMultimedia &#124; U.S. Department of War12 Jul 2022 — This clip was taken by an MQ-9 in the Middle East... object in the cli...</span></span></span> Department of War <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/880273/middle-east-object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">Video - Middle East ObjectA video that depicts an apparent silver, orb-like object cross the sensor&#x27;s field of view. This clip was taken...</span></span></span> What often gets overlooked is what officials said alongside the footage. AARO did not present the object as evidence of extraordinary technology. Instead, the office stated that the object was not assessed as displaying anomalous behaviour, even though its identity could not be determined from the available information. The released description specifically notes that the object remains unidentified while also saying that it was not exhibiting unusual flight characteristics. U.S. Department of War <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryThis clip was taken by an MQ-9 in the Middle East, and while... object in the clip is not exhibiting anomalous behavior, the...</span></span></span>
+The publicly released clip was recorded on 12 July 2022 by an MQ-9 operating in the Middle East. In the video, a small orb-like object appears to move across the sensor image while the drone's camera tracks the scene. Pentagon officials described it as an apparent silver or metallic sphere. AARO director Sean Kirkpatrick presented the footage during a Senate hearing in April 2023 and later referenced it during NASA’s public UAP discussions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://allarab.news/us-drone-operating-in-middle-east-spots-mysterious-orb/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: allarab.news">[All Arab News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">allarab.news</span><span class="citation-popover-title">us drone operating in middle east spots mysterious orb</span><span class="citation-popover-snippet">All Arab NewsUS drone operating in Middle East spots mysterious orb20 Apr 2023 — Kirkpatrick leads the Pentagon&#x27;s All-domain Anomaly Reso...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/Multimedia/videoid/880273/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[3U.S.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Department of WarMultimedia &#124; U.S. Department of War12 Jul 2022 — This clip was taken by an MQ-9 in the Middle East... object in the cli...</span></span></span> Department of War<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/880273/middle-east-object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">Video - Middle East ObjectA video that depicts an apparent silver, orb-like object cross the sensor&#x27;s field of view. This clip was taken...</span></span></span> What often gets overlooked is what officials said alongside the footage. AARO did not present the object as evidence of extraordinary technology. Instead, the office stated that the object was not assessed as displaying anomalous behaviour, even though its identity could not be determined from the available information. The released description specifically notes that the object remains unidentified while also saying that it was not exhibiting unusual flight characteristics. U.S. Department of War<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryThis clip was taken by an MQ-9 in the Middle East, and while... object in the clip is not exhibiting anomalous behavior, the...</span></span></span>
 
 That distinction is central to understanding the case. The video shows an object that was not positively identified. It does not show an object proven to possess unknown capabilities.
 
@@ -304,7 +304,7 @@ This combination makes it an ideal example of a data-quality problem rather than
 
 The most revealing aspect of the Middle East Object case is not the orb itself but the lack of accompanying information.
 
-During discussion of the incident, Kirkpatrick stated that the released clip essentially represented all the data available to investigators for that event. Independent analysts examining the footage reached a similar conclusion: the public video alone does not contain enough information to calculate distance, size, speed or trajectory with confidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/middle-east-2022-mq-9-observed-apparent-spherical-uap-via-aaro.12932/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Middle East 2022 MQ-9 Observed Apparent Spherical UAP...Apr 22, 2023 — The footage was shot on July 12, 2022 from an American MQ...</span><span class="citation-popover-meta">Published: July 12, 2022</span></span></span>
+During discussion of the incident, Kirkpatrick stated that the released clip essentially represented all the data available to investigators for that event. Independent analysts examining the footage reached a similar conclusion: the public video alone does not contain enough information to calculate distance, size, speed or trajectory with confidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/middle-east-2022-mq-9-observed-apparent-spherical-uap-via-aaro.12932/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Middle East 2022 MQ-9 Observed Apparent Spherical UAP...Apr 22, 2023 — The footage was shot on July 12, 2022 from an American MQ...</span><span class="citation-popover-meta">Published: July 12, 2022</span></span></span>
 
 A short infrared or electro-optical clip can be surprisingly deceptive without supporting measurements. Several key questions remain unanswered:
 
@@ -321,7 +321,7 @@ A short infrared or electro-optical clip can be surprisingly deceptive without s
 
 Without those answers, competing explanations remain difficult to eliminate.
 
-This is exactly the problem highlighted by NASA's UAP study. The report repeatedly stresses that scientific analysis is weakened when observations lack multiple calibrated measurements, [sensor metadata]({{ 'sensor-metadata/' | relative_url }}), baseline information and contextual records. NASA argued that many UAP cases remain unresolved because the available observations are incomplete rather than because they demonstrate extraordinary phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportFootage taken by an MQ-9 of an apparent silver, orb-like object in the Middle East. Due to limit...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</span></span></span> The Middle East Object became a practical illustration of that principle. The object may have been mundane, unusual or something else entirely. The existing record does not allow investigators to discriminate reliably between those possibilities.
+This is exactly the problem highlighted by NASA's UAP study. The report repeatedly stresses that scientific analysis is weakened when observations lack multiple calibrated measurements, [sensor metadata]({{ 'sensor-metadata/' | relative_url }}), baseline information and contextual records. NASA argued that many UAP cases remain unresolved because the available observations are incomplete rather than because they demonstrate extraordinary phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportFootage taken by an MQ-9 of an apparent silver, orb-like object in the Middle East. Due to limit...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</span></span></span> The Middle East Object became a practical illustration of that principle. The object may have been mundane, unusual or something else entirely. The existing record does not allow investigators to discriminate reliably between those possibilities.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/j6qTR_Lxe1Q" title="Orb-shaped UFO seen over Iraq in stunning video released by Pentagon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=j6qTR_Lxe1Q" target="_blank" rel="noopener noreferrer">Orb-shaped UFO seen over Iraq in stunning video released by Pentagon</a></p><p class="youtube-embed-meta">Channel: VideoFromSpace &middot; Views: 392.9K &middot; Uploaded: April 2023 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=j6qTR_Lxe1Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=j6qTR_Lxe1Q">Open on YouTube</a></p></div></div></div>
 
@@ -329,7 +329,7 @@ This is exactly the problem highlighted by NASA's UAP study. The report repeated
 
 The public release of the video quickly produced different interpretations.
 
-Some observers viewed the metallic appearance and lack of immediate identification as evidence that the object could represent an advanced or unknown technology. Others argued that the imagery was consistent with far more ordinary possibilities, including [balloons]({{ 'balloons/' | relative_url }}) viewed under difficult imaging conditions. Open-source investigators examined camera geometry, motion effects and environmental conditions to test whether a drifting object could produce the appearance seen in the video. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">Isn&#x27;t That A Balloon?</span><span class="citation-popover-snippet">Deflating a DoD UFO Video24 Oct 2023 — A US military drone captured video of a metallic, spherical orb flying over the Middle East. The U...</span></span></span>
+Some observers viewed the metallic appearance and lack of immediate identification as evidence that the object could represent an advanced or unknown technology. Others argued that the imagery was consistent with far more ordinary possibilities, including [balloons]({{ 'balloons/' | relative_url }}) viewed under difficult imaging conditions. Open-source investigators examined camera geometry, motion effects and environmental conditions to test whether a drifting object could produce the appearance seen in the video.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">Isn&#x27;t That A Balloon?</span><span class="citation-popover-snippet">Deflating a DoD UFO Video24 Oct 2023 — A US military drone captured video of a metallic, spherical orb flying over the Middle East. The U...</span></span></span>
 
 What makes these debates persistent is that neither side possesses the full evidential package needed to settle the question.
 
@@ -363,7 +363,7 @@ Without range, even basic characteristics remain speculative.
 
 ### Multi-sensor observations
 
-NASA's study repeatedly emphasised the value of multiple simultaneous sensors. A visual or infrared image becomes much more informative when paired with radar tracks, additional optical systems or independent observations from another platform. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportFootage taken by an MQ-9 of an apparent silver, orb-like object in the Middle East. Due to limit...</span></span></span>
+NASA's study repeatedly emphasised the value of multiple simultaneous sensors. A visual or infrared image becomes much more informative when paired with radar tracks, additional optical systems or independent observations from another platform.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportFootage taken by an MQ-9 of an apparent silver, orb-like object in the Middle East. Due to limit...</span></span></span>
 
 If the Middle East Object had been observed simultaneously by several instruments, investigators could compare measurements and eliminate many ambiguities.
 
@@ -388,7 +388,7 @@ Such information often determines whether an object's behaviour is actually unus
 
 ### Original sensor metadata
 
-One of NASA's recurring concerns is the absence of complete metadata in many UAP reports. Metadata provides information about how the observation was recorded and how the instrument was functioning at the time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportFootage taken by an MQ-9 of an apparent silver, orb-like object in the Middle East. Due to limit...</span></span></span>
+One of NASA's recurring concerns is the absence of complete metadata in many UAP reports. Metadata provides information about how the observation was recorded and how the instrument was functioning at the time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportFootage taken by an MQ-9 of an apparent silver, orb-like object in the Middle East. Due to limit...</span></span></span>
 
 For a case like the Middle East Object, detailed metadata could help analysts reconstruct the geometry of the observation and test competing explanations quantitatively rather than visually.
 
@@ -397,199 +397,199 @@ For a case like the Middle East Object, detailed metadata could help analysts re
 
 Many famous UFO cases attract attention because they appear unsolved. The Middle East Object is valuable for a different reason. It demonstrates that a modern military recording can still fall below the threshold needed for a strong scientific conclusion.
 
-A high-quality UAP database is not simply a collection of unexplained videos. It is a system that preserves enough contextual information for later investigators to test hypotheses and potentially reach a resolution. The Middle East Object remains in AARO's archive precisely because additional information could change the assessment in the future. Official descriptions of the case note that such incidents are retained pending the discovery of new data that might enable resolution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AMiddleEast_UAP_20220712_Official_Footage_from_the_USG_for_Public_Release.webm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia CommonsFile:MiddleEast UAP 20220712 Official Footage from the USG...This clip was taken by an MQ-9 in the Middle East...</span></span></span>
+A high-quality UAP database is not simply a collection of unexplained videos. It is a system that preserves enough contextual information for later investigators to test hypotheses and potentially reach a resolution. The Middle East Object remains in AARO's archive precisely because additional information could change the assessment in the future. Official descriptions of the case note that such incidents are retained pending the discovery of new data that might enable resolution.<span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AMiddleEast_UAP_20220712_Official_Footage_from_the_USG_for_Public_Release.webm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia CommonsFile:MiddleEast UAP 20220712 Official Footage from the USG...This clip was taken by an MQ-9 in the Middle East...</span></span></span>
 
-In that sense, the case serves as a practical example of the lesson emphasised by NASA's UAP study: the central challenge is often not the object itself but the quality and completeness of the record. An unidentified observation is not necessarily evidence of something extraordinary. Sometimes it is evidence that the dataset is incomplete. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportFootage taken by an MQ-9 of an apparent silver, orb-like object in the Middle East. Due to limit...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</span></span></span>
+In that sense, the case serves as a practical example of the lesson emphasised by NASA's UAP study: the central challenge is often not the object itself but the quality and completeness of the record. An unidentified observation is not necessarily evidence of something extraordinary. Sometimes it is evidence that the dataset is incomplete.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportFootage taken by an MQ-9 of an apparent silver, orb-like object in the Middle East. Due to limit...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Orb Video That Shows the Data Problem. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Orb Video That Shows the Data Problem. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Connects official military sightings, unresolved cases and the limits of available evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects official military sightings, unresolved cases and the limits of available evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+</h4>
+<p class="fr-book-author">By Luis Elizondo</p>
         
-        <p class="fr-book-desc">Relevant to military UAP footage, official investigation culture and data gaps.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to military UAP footage, official investigation culture and data gaps.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Supports the page’s point that unresolved footage is not automatically extraordinary evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Supports the page’s point that unresolved footage is not automatically extraordinary evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3FbSEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believer">The Believer</a>
-        </h4>
-        <p class="fr-book-author">By Ralph Blumenthal</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3FbSEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believer">The Believer</a>
+</h4>
+<p class="fr-book-author">By Ralph Blumenthal</p>
         
-        <p class="fr-book-desc">Broadens the UAP context while keeping focus on evidence, science and contested interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Broadens the UAP context while keeping focus on evidence, science and contested interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bandai UFO Unidentified Flying Object Model Kit 36002 with Flywheel 1978"><img src="{{ '/assets/images/marketplace-covers/d426cbe0b96c11b57c6f.jpg' | relative_url }}" alt="Listing image for Bandai UFO Unidentified Flying Object Model Kit 36002 with Flywheel 1978" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and" target="_blank" rel="sponsored noopener noreferrer">Bandai UFO Unidentified Flying Object Model Kit 36002 with Flywheel 1978</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bandai UFO Unidentified Flying Object Model Kit 36002 with Flywheel 1978"><img src="{{ '/assets/images/marketplace-covers/d426cbe0b96c11b57c6f.jpg' | relative_url }}" alt="Listing image for Bandai UFO Unidentified Flying Object Model Kit 36002 with Flywheel 1978" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and" target="_blank" rel="sponsored noopener noreferrer">Bandai UFO Unidentified Flying Object Model Kit 36002 with Flywheel 1978</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flight of the Navigator UFO Spaceship + Stand Movie 3D Printed Model Kit"><img src="{{ '/assets/images/marketplace-covers/ebe3cf393219aa33bee6.jpg' | relative_url }}" alt="Listing image for Flight of the Navigator UFO Spaceship + Stand Movie 3D Printed Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and" target="_blank" rel="sponsored noopener noreferrer">Flight of the Navigator UFO Spaceship + Stand Movie 3D Printed Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flight of the Navigator UFO Spaceship + Stand Movie 3D Printed Model Kit"><img src="{{ '/assets/images/marketplace-covers/ebe3cf393219aa33bee6.jpg' | relative_url }}" alt="Listing image for Flight of the Navigator UFO Spaceship + Stand Movie 3D Printed Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and" target="_blank" rel="sponsored noopener noreferrer">Flight of the Navigator UFO Spaceship + Stand Movie 3D Printed Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Atlantis AMC-1011 TR-3E Triangular UFO 5” Long With 8” Long Base MISB Model Kit"><img src="{{ '/assets/images/marketplace-covers/5e692932a49cedf9ff3c.jpg' | relative_url }}" alt="Listing image for Atlantis AMC-1011 TR-3E Triangular UFO 5” Long With 8” Long Base MISB Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and" target="_blank" rel="sponsored noopener noreferrer">Atlantis AMC-1011 TR-3E Triangular UFO 5” Long With 8” Long Base MISB Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Atlantis AMC-1011 TR-3E Triangular UFO 5” Long With 8” Long Base MISB Model Kit"><img src="{{ '/assets/images/marketplace-covers/5e692932a49cedf9ff3c.jpg' | relative_url }}" alt="Listing image for Atlantis AMC-1011 TR-3E Triangular UFO 5” Long With 8” Long Base MISB Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and" target="_blank" rel="sponsored noopener noreferrer">Atlantis AMC-1011 TR-3E Triangular UFO 5” Long With 8” Long Base MISB Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Polar Lights 1/48 UFO Area 51 New Plastic Model Kit 1 48 POL982 982 Mr Models"><img src="{{ '/assets/images/marketplace-covers/b2c31325257837b1123c.jpg' | relative_url }}" alt="Listing image for Polar Lights 1/48 UFO Area 51 New Plastic Model Kit 1 48 POL982 982 Mr Models" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and" target="_blank" rel="sponsored noopener noreferrer">Polar Lights 1/48 UFO Area 51 New Plastic Model Kit 1 48 POL982 982 Mr Models</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Polar Lights 1/48 UFO Area 51 New Plastic Model Kit 1 48 POL982 982 Mr Models"><img src="{{ '/assets/images/marketplace-covers/b2c31325257837b1123c.jpg' | relative_url }}" alt="Listing image for Polar Lights 1/48 UFO Area 51 New Plastic Model Kit 1 48 POL982 982 Mr Models" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and" target="_blank" rel="sponsored noopener noreferrer">Polar Lights 1/48 UFO Area 51 New Plastic Model Kit 1 48 POL982 982 Mr Models</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model kit -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="middle-east-object-the-orb-video-that-shows-the-data-problem-ufo-report-databases-and-catalogues-ufo-model-kit-gerry-and" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -605,7 +605,7 @@ In that sense, the case serves as a practical example of the lesson emphasised b
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -625,7 +625,7 @@ In that sense, the case serves as a practical example of the lesson emphasised b
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -657,7 +657,7 @@ In that sense, the case serves as a practical example of the lesson emphasised b
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -709,7 +709,7 @@ In that sense, the case serves as a practical example of the lesson emphasised b
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -754,7 +754,7 @@ In that sense, the case serves as a practical example of the lesson emphasised b
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -795,125 +795,125 @@ In that sense, the case serves as a practical example of the lesson emphasised b
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/Multimedia/videoid/880273/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/Multimedia/videoid/880273/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarMultimedia | U.S. Department of War12 Jul 2022 — This clip was taken by an MQ-9 in the Middle East... object in the cli...</p></details>
+   Link:<a href="https://www.war.gov/Multimedia/videoid/880273/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/Multimedia/videoid/880273/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarMultimedia | U.S. Department of War12 Jul 2022 — This clip was taken by an MQ-9 in the Middle East... object in the cli...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportFootage taken by an MQ-9 of an apparent silver, orb-like object in the Middle East. Due to limit...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportFootage taken by an MQ-9 of an apparent silver, orb-like object in the Middle East. Due to limit...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP9 Jun 2022 — We commissioned a study team to examine from a scientific perspective unidentified anomalous phenomena (UAPs)...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP9 Jun 2022 — We commissioned a study team to examine from a scientific perspective unidentified anomalous phenomena (UAPs)...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</p></details>
+   Link:<a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/880273/middle-east-object" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/880273/middle-east-object</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Video - Middle East ObjectA video that depicts an apparent silver, orb-like object cross the sensor&#x27;s field of view. This clip was taken...</p></details>
+   Link:<a href="https://www.dvidshub.net/video/880273/middle-east-object" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/880273/middle-east-object</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Video - Middle East ObjectA video that depicts an apparent silver, orb-like object cross the sensor&#x27;s field of view. This clip was taken...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: metabunk.org  
-   Link: <a href="https://www.metabunk.org/threads/middle-east-2022-mq-9-observed-apparent-spherical-uap-via-aaro.12932/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/middle-east-2022-mq-9-observed-apparent-spherical-uap-via-aaro.12932/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Middle East 2022 MQ-9 Observed Apparent Spherical UAP...Apr 22, 2023 — The footage was shot on July 12, 2022 from an American MQ...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/middle-east-2022-mq-9-observed-apparent-spherical-uap-via-aaro.12932/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/middle-east-2022-mq-9-observed-apparent-spherical-uap-via-aaro.12932/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Middle East 2022 MQ-9 Observed Apparent Spherical UAP...Apr 22, 2023 — The footage was shot on July 12, 2022 from an American MQ...</p></details>
    Published: July 12, 2022  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: bellingcat.com  
    Title: Isn't That A Balloon?  
-   Link: <a href="https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Deflating a DoD UFO Video24 Oct 2023 — A US military drone captured video of a metallic, spherical orb flying over the Middle East. The U...</p></details>
+   Link:<a href="https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deflating a DoD UFO Video24 Oct 2023 — A US military drone captured video of a metallic, spherical orb flying over the Middle East. The U...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: commons.wikimedia.org  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AMiddleEast_UAP_20220712_Official_Footage_from_the_USG_for_Public_Release.webm" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AMiddleEast_UAP_20220712_Official_Footage_from_the_USG_for_Public_Release.webm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsFile:MiddleEast UAP 20220712 Official Footage from the USG...This clip was taken by an MQ-9 in the Middle East...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AMiddleEast_UAP_20220712_Official_Footage_from_the_USG_for_Public_Release.webm" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AMiddleEast_UAP_20220712_Official_Footage_from_the_USG_for_Public_Release.webm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsFile:MiddleEast UAP 20220712 Official Footage from the USG...This clip was taken by an MQ-9 in the Middle East...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/ufo/?type=.vid" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/?type=.vid</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An unidentified object report with enhanced imagery from a PANTEX radar tower. Image showing objects in formation with trails, a crosshai...</p></details>
+   Link:<a href="https://www.war.gov/ufo/?type=.vid" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/?type=.vid</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An unidentified object report with enhanced imagery from a PANTEX radar tower. Image showing objects in formation with trails, a crosshai...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: allarab.news  
    Title: us drone operating in middle east spots mysterious orb  
-   Link: <a href="https://allarab.news/us-drone-operating-in-middle-east-spots-mysterious-orb/" target="_blank" rel="noopener noreferrer nofollow">https://allarab.news/us-drone-operating-in-middle-east-spots-mysterious-orb/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>All Arab NewsUS drone operating in Middle East spots mysterious orb20 Apr 2023 — Kirkpatrick leads the Pentagon&#x27;s All-domain Anomaly Reso...</p></details>
+   Link:<a href="https://allarab.news/us-drone-operating-in-middle-east-spots-mysterious-orb/" target="_blank" rel="noopener noreferrer nofollow">https://allarab.news/us-drone-operating-in-middle-east-spots-mysterious-orb/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All Arab NewsUS drone operating in Middle East spots mysterious orb20 Apr 2023 — Kirkpatrick leads the Pentagon&#x27;s All-domain Anomaly Reso...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: europeafrica.army.mil  
    Title: Middle East Object  
-   Link: <a href="https://www.europeafrica.army.mil/UITC/?dvpTag=Objectives&amp;dvpmoduleid=99137&amp;videoid=880273" target="_blank" rel="noopener noreferrer nofollow">https://www.europeafrica.army.mil/UITC/?dvpTag=Objectives&amp;dvpmoduleid=99137&amp;videoid=880273</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UITC12 Jul 2022 — This clip was taken by an MQ-9 in the Middle East... object in the clip is not exhibiting anomalous behavior, the obje...</p></details>
+   Link:<a href="https://www.europeafrica.army.mil/UITC/?dvpTag=Objectives&amp;dvpmoduleid=99137&amp;videoid=880273" target="_blank" rel="noopener noreferrer nofollow">https://www.europeafrica.army.mil/UITC/?dvpTag=Objectives&amp;dvpmoduleid=99137&amp;videoid=880273</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UITC12 Jul 2022 — This clip was taken by an MQ-9 in the Middle East... object in the clip is not exhibiting anomalous behavior, the obje...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: news.sky.com  
-   Link: <a href="https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO report - live: Scientists release Unidentified...14 Sept 2023 — NASA has released a report on Unidentified Anomalous Phenomena - com...</p></details>
+   Link:<a href="https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO report - live: Scientists release Unidentified...14 Sept 2023 — NASA has released a report on Unidentified Anomalous Phenomena - com...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/167nwhe/aaros_videos_the_us_government_cannot_identify/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/167nwhe/aaros_videos_the_us_government_cannot_identify/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROs Videos: The US Government cannot identify...This clip was taken by an MQ-9 in the Middle East... object in the clip is not exhibi...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/167nwhe/aaros_videos_the_us_government_cannot_identify/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/167nwhe/aaros_videos_the_us_government_cannot_identify/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AAROs Videos: The US Government cannot identify...This clip was taken by an MQ-9 in the Middle East... object in the clip is not exhibi...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: axios.com  
-   Link: <a href="https://www.axios.com/2023/09/14/nasa-uap-report-release" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2023/09/14/nasa-uap-report-release</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>government efforts in understanding UAPs. Unlike the Department of Defense&#x27;s often classified data, NASA emphasizes transparency and publ...</p></details>
+   Link:<a href="https://www.axios.com/2023/09/14/nasa-uap-report-release" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2023/09/14/nasa-uap-report-release</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>government efforts in understanding UAPs. Unlike the Department of Defense&#x27;s often classified data, NASA emphasizes transparency and publ...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/shorts/YBoe2b-Evc8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/YBoe2b-Evc8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Declassified UFO video shows orb surviving missile strikeThis video is of an MQ9 drone tracking an orb or this object off the coast of Yemen...</p></details>
+   Link:<a href="https://www.youtube.com/shorts/YBoe2b-Evc8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/YBoe2b-Evc8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Declassified UFO video shows orb surviving missile strikeThis video is of an MQ9 drone tracking an orb or this object off the coast of Yemen...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nypost.com  
    Title: nasa appoints first ufo director admits they dont know what uap are  
-   Link: <a href="https://nypost.com/2023/09/14/nasa-appoints-first-ufo-director-admits-they-dont-know-what-uap-are/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2023/09/14/nasa-appoints-first-ufo-director-admits-they-dont-know-what-uap-are/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MQ-9 of an apparent silver, orb-like object in the Middle East. Due to limited data, the object remains unidentified. NASA. “That&#x27;s in pa...</p></details>
+   Link:<a href="https://nypost.com/2023/09/14/nasa-appoints-first-ufo-director-admits-they-dont-know-what-uap-are/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2023/09/14/nasa-appoints-first-ufo-director-admits-they-dont-know-what-uap-are/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MQ-9 of an apparent silver, orb-like object in the Middle East. Due to limited data, the object remains unidentified. NASA. “That&#x27;s in pa...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ralphbuncheinstitute.org  
-   Link: <a href="https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/" target="_blank" rel="noopener noreferrer nofollow">https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Figuring out the truth behind Unidentified Anomalous Phenomena (UAPs) takes more than speculation, it requires hard science.Read more...</p></details>
+   Link:<a href="https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/" target="_blank" rel="noopener noreferrer nofollow">https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Figuring out the truth behind Unidentified Anomalous Phenomena (UAPs) takes more than speculation, it requires hard science.Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: "Middle East Object" UAP  
-   Link: <a href="https://www.youtube.com/watch?v=KCqcFgRUraM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KCqcFgRUraM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Middle East Object&quot; AARO OR &quot;Sean Kirkpatrick&quot; hearing Gov Released UFO, Middle East Object 7-12-2022, UFO Sighting News...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KCqcFgRUraM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KCqcFgRUraM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Middle East Object&quot; AARO OR &quot;Sean Kirkpatrick&quot; hearing Gov Released UFO, Middle East Object 7-12-2022, UFO Sighting News...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: globalnews.ca  
    Title: Some do not appear to move at all while others have  
-   Link: <a href="https://globalnews.ca/news/9746110/metallic-flying-orbs-nasa-pentagon-panel-ufos-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/9746110/metallic-flying-orbs-nasa-pentagon-panel-ufos-uaps/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Metallic flying orbs seen around the world, baffling NASA...5 Jun 2023 — Unidentified flying orbs have been spotted at several different...</p></details>
+   Link:<a href="https://globalnews.ca/news/9746110/metallic-flying-orbs-nasa-pentagon-panel-ufos-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/9746110/metallic-flying-orbs-nasa-pentagon-panel-ufos-uaps/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Metallic flying orbs seen around the world, baffling NASA...5 Jun 2023 — Unidentified flying orbs have been spotted at several different...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/News13/posts/among-the-newly-released-materials-are-videos-reportedly-showing-unexplained-obj/1296069716063092/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/News13/posts/among-the-newly-released-materials-are-videos-reportedly-showing-unexplained-obj/1296069716063092/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>objects near military operations in the Middle East, tracking data...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/News13/posts/among-the-newly-released-materials-are-videos-reportedly-showing-unexplained-obj/1296069716063092/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/News13/posts/among-the-newly-released-materials-are-videos-reportedly-showing-unexplained-obj/1296069716063092/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>objects near military operations in the Middle East, tracking data...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/aljazeera/posts/for-the-first-time-nasa-held-a-public-event-examining-ufo-sightings-while-most-w/10161697698838690/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/aljazeera/posts/for-the-first-time-nasa-held-a-public-event-examining-ufo-sightings-while-most-w/10161697698838690/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sor calibration, lack of multiple measurements, and baseline data.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/aljazeera/posts/for-the-first-time-nasa-held-a-public-event-examining-ufo-sightings-while-most-w/10161697698838690/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/aljazeera/posts/for-the-first-time-nasa-held-a-public-event-examining-ufo-sightings-while-most-w/10161697698838690/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sor calibration, lack of multiple measurements, and baseline data.Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/14wwtc3/middle_east_orb_extended_background_video_frames/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/14wwtc3/middle_east_orb_extended_background_video_frames/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and honestly to occupy my free time while the new news comes in.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/14wwtc3/middle_east_orb_extended_background_video_frames/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/14wwtc3/middle_east_orb_extended_background_video_frames/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and honestly to occupy my free time while the new news comes in.Read more...</p></details>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-report-databases-8352a3-index/
 description: Focused pages that expand on UFO Report Databases And Catalogues.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: ufo_report_databases_8352a3
 parent_title: UFO Report Databases And Catalogues
@@ -16,7 +16,7 @@ parent_permalink: /ufo-report-databases-and-catalogues/
 
 # Explore Topics in UFO Report Databases And Catalogues
 
-The following pages expand on the main **[UFO Report Databases And Catalogues]({{ '/ufo-report-databases-and-catalogues/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[UFO Report Databases And Catalogues]({{ '/ufo-report-databases-and-catalogues/' | relative_url }})** page and cover its key branches in.
 
 - [AARO]({{ '/aaro/' | relative_url }})
 - [Reliability]({{ '/reliability/' | relative_url }})
