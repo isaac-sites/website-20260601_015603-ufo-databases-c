@@ -203,6 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 18:32:47'
+last_modified_at: '2026-05-31 18:32:47'
 parent_title: What NUFORC Reports Can Really Tell You
 parent_permalink: /nuforc/
 parent_nav_short_title: NUFORC
