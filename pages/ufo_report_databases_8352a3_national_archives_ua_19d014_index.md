@@ -14,7 +14,7 @@ parent_nav_short_title: Archives
 parent_permalink: /archives/
 ---
 
-# Explore Topics in Archives
+## Explore Topics in Archives
 
 The following pages expand on the main **[Archives]({{ '/archives/' | relative_url }})** page and cover its key branches in.
 
