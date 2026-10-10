@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufo-report-databases-8352a3-sighting/
 description: Focused pages that expand on Clusters.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ufo_report_databases_8352a3_sighting_cluster_fac_f2ae49
 parent_title: Clusters

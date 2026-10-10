@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufo-report-databases-8352a3-nasa-uap/
 description: Focused pages that expand on NASA UAP.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ufo_report_databases_8352a3_nasa_uap_data_8cb183
 parent_title: NASA UAP
