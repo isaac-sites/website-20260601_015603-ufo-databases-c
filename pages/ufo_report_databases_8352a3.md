@@ -1044,11 +1044,11 @@ The strongest habit is to use more than one database. A single entry can show th
 
 55.<a id="endnote-55"></a>
    Source: play.google.com  
-   Link:<a href="https://play.google.com/store/apps/details?hl=en_GB&amp;id=ovni_info.space.ovniobservationgb" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_GB&amp;id=ovni_info.space.ovniobservationgb</a>  
+   Link:https://play.google.com/store/apps/details?hl=en_GB&amp;id=ovni_info.space.ovniobservationgb  
 
 56.<a id="endnote-56"></a>
    Source: play.google.com  
-   Link:<a href="https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.enigma.mobile" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.enigma.mobile</a>  
+   Link:https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.enigma.mobile  
 
 57.<a id="endnote-57"></a>
    Source: Wikipedia  

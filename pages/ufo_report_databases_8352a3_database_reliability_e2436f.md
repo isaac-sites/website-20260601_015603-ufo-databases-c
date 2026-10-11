@@ -1091,7 +1091,7 @@ The best UFO databases make uncertainty visible. They show where the report came
 
 41.<a id="endnote-41"></a>
    Source: play.google.com  
-   Link:<a href="https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.enigma.mobile" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.enigma.mobile</a>  
+   Link:https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.enigma.mobile  
 
 42.<a id="endnote-42"></a>
    Source: nationalarchives.gov.uk  

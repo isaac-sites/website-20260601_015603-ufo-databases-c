@@ -373,7 +373,7 @@ For researchers, digital-only transfers offer several advantages:
 * Searchable catalogue integration.
 * Bulk-download possibilities.
 * Easier cross-agency comparison.
-* More consistent preservation workflows. National Archives<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/records-mgmt/memos/ac" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[archives.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesAC 04.202510 Oct 2024 — No later than September 30, 2025, federal agencies must transfer to NARA digital copies of all U...</span><span class="citation-popover-meta">Published: September 30, 2025</span></span></span>
+* More consistent preservation workflows. National Archives<span class="citation-chip-wrap">[archives.gov]<span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesAC 04.202510 Oct 2024 — No later than September 30, 2025, federal agencies must transfer to NARA digital copies of all U...</span><span class="citation-popover-meta">Published: September 30, 2025</span></span></span>
 
 </div>
 
@@ -854,7 +854,7 @@ For UAP researchers, the transfer process itself has become a source of evidence
 
 3.<a id="endnote-3"></a>
    Source: archives.gov  
-   Link:<a href="https://www.archives.gov/records-mgmt/memos/ac" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/memos/ac</a>  
+   Link:https://www.archives.gov/records-mgmt/memos/ac  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesAC 04.202510 Oct 2024 — No later than September 30, 2025, federal agencies must transfer to NARA digital copies of all U...</p></details>
    Published: September 30, 2025  
 
