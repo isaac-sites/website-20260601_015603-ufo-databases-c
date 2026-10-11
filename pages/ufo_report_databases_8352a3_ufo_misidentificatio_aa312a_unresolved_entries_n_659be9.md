@@ -757,12 +757,10 @@ This alignment between cautious scientific assessment, archival practice and dat
 
 7.<a id="endnote-7"></a>
    Source: ufotransparency.com  
-   Link:https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO TransparencyAARO Historical Record Report, Volume I, 2024, DoD / All-domain Anomaly Resolution Office (AARO) · 2024 · UFO Transparenc...</p></details>
 
 8.<a id="endnote-8"></a>
    Source: ufotransparency.com  
-   Link:https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Government Involvement with Unidentified Anomalous Phenomena, Volume I, AARO_Historical_Record_Report_Volu...</p></details>
 
 9.<a id="endnote-9"></a>

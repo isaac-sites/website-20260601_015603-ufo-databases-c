@@ -794,7 +794,6 @@ That shift from isolated reports to visible clusters is one of the app’s defin
 
 2.<a id="endnote-2"></a>
    Source: play.google.com  
-   Link:https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.enigma.mobile  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Google PlayEnigma: What&#x27;s that in the Sky – Apps on...Finally, the #1 mobile app for UFO sightings and alerts is now available on Android...</p></details>
 
 3.<a id="endnote-3"></a>
