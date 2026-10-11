@@ -872,7 +872,6 @@ This approach does not make the archive a final judge of what happened in the sk
 
 5.<a id="endnote-5"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 6.<a id="endnote-6"></a>
    Source: archives.gov  
@@ -1012,7 +1011,6 @@ This approach does not make the archive a final judge of what happened in the sk
 35.<a id="endnote-35"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 36.<a id="endnote-36"></a>
    Source: cdn.nationalarchives.gov.uk  

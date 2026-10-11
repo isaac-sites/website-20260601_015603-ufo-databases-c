@@ -765,7 +765,6 @@ The files do not show a large-scale secret investigation. Instead, they reveal a
 5.<a id="endnote-5"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>DEFE 24/1948Memo from the Ministry of Defence concerning the UFO sighting at Rendlesham Forest. Find out more about this document in Disc...</p></details>
 
 6.<a id="endnote-6"></a>
@@ -789,7 +788,6 @@ The files do not show a large-scale secret investigation. Instead, they reveal a
 9.<a id="endnote-9"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948 2  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesDEFE 24/1948DEFE 24/1948. Letter from Wigan Ariel Phenomenon Investigation Team to the Ministry of Defence asking ab...</p></details>
 
 10.<a id="endnote-10"></a>

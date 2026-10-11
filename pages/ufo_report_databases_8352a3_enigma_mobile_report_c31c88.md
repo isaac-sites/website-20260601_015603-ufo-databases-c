@@ -848,7 +848,6 @@ The best way to understand Enigma, then, is as a live experiment in improving th
 6.<a id="endnote-6"></a>
    Source: play.google.com  
    Title: Play Enigma: What’s that in the Sky – Apps on Google Play  
-   Link:https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.enigma.mobile  
 
 7.<a id="endnote-7"></a>
    Source: axios.com  

@@ -846,7 +846,6 @@ Even so, the camera system represents a notable departure from traditional UFO r
 
 8.<a id="endnote-8"></a>
    Source: play.google.com  
-   Link:https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.enigma.mobile  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>google.comEnigma: What&#x27;s that in the Sky – Apps on...Seen something unusual in the sky? Share your UFO sighting story and read accounts...</p></details>
 
 9.<a id="endnote-9"></a>

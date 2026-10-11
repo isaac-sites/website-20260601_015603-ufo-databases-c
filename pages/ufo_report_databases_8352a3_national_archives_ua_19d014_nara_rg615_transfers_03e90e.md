@@ -854,7 +854,6 @@ For UAP researchers, the transfer process itself has become a source of evidence
 
 3.<a id="endnote-3"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesAC 04.202510 Oct 2024 — No later than September 30, 2025, federal agencies must transfer to NARA digital copies of all U...</p></details>
    Published: September 30, 2025  
 
