@@ -864,7 +864,7 @@ That approach reflects the broader purpose of national archives. The objective i
 
 8.<a id="endnote-8"></a>
    Source: archives.gov  
-   Link:<a href="https://www.archives.gov/records-mgmt/memos/ac" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/memos/ac</a>  
+   Link:https://www.archives.gov/records-mgmt/memos/ac  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesAC 04.2025Oct 10, 2024 — For any publicly releasable records that include redactions, agencies must simultaneously trans...</p></details>
 
 9.<a id="endnote-9"></a>

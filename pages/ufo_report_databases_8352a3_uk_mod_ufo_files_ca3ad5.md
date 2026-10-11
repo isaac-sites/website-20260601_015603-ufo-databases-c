@@ -892,7 +892,7 @@ For researchers and readers, the strongest use is comparative. The files can be 
 19.<a id="endnote-19"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 20.<a id="endnote-20"></a>
    Source: media.nationalarchives.gov.uk  
@@ -925,7 +925,7 @@ For researchers and readers, the strongest use is comparative. The files can be 
 26.<a id="endnote-26"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948 2  
-   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/</a>  
+   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/  
 
 27.<a id="endnote-27"></a>
    Source: nationalarchives.gov.uk  

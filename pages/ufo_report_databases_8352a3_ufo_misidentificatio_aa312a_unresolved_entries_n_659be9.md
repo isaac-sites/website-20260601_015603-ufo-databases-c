@@ -303,7 +303,7 @@ Interpreting unresolved cases as evidence of extraordinary phenomena — such as
 
 **• Logical Fallacy:** An unresolved label does not *positively indicate* anything about the nature of the object. In epistemological terms, “absence of evidence” is not “evidence of absence,” but neither is it evidence of an extraordinary cause. Without sufficient data, one cannot confidently ascribe a specific explanation, let alone one with profound implications.
 
-**• Official Investigations Find Ordinary Causes Dominate:** Major review efforts, including those by AARO and broader U.S. government surveys dating back decades, conclude that **most sightings, when analysed with adequate data, resolve to mundane sources** such as aircraft, [balloons]({{ 'balloons/' | relative_url }}), atmospheric phenomena, or sensor artefacts. They also consistently find *no evidence* linking unresolved reports to extraterrestrial life or technologies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyAARO Historical Record Report, Volume I, 2024, DoD / All-domain Anomaly Resolution Office (AARO) · 2024 · UFO Transparenc...</span></span></span>
+**• Official Investigations Find Ordinary Causes Dominate:** Major review efforts, including those by AARO and broader U.S. government surveys dating back decades, conclude that **most sightings, when analysed with adequate data, resolve to mundane sources** such as aircraft, [balloons]({{ 'balloons/' | relative_url }}), atmospheric phenomena, or sensor artefacts. They also consistently find *no evidence* linking unresolved reports to extraterrestrial life or technologies.<span class="citation-chip-wrap">[UFO Transparency]<span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyAARO Historical Record Report, Volume I, 2024, DoD / All-domain Anomaly Resolution Office (AARO) · 2024 · UFO Transparenc...</span></span></span>
 
 **• Misinterpretation Fuels Conspiracy Over Content:** Unresolved status is often highlighted in public discourse as mysterious precisely because it lacks explanation. But official summaries emphasise that unresolved cases are simply those where available evidence — be it radar tracks, visual footage or witness logs — is inadequate to support a strong attribution either to known objects or to extraordinary claims. Interpreting them as evidence of the latter is a **category error** in evidence assessment.
 
@@ -757,12 +757,12 @@ This alignment between cautious scientific assessment, archival practice and dat
 
 7.<a id="endnote-7"></a>
    Source: ufotransparency.com  
-   Link:<a href="https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume</a>  
+   Link:https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO TransparencyAARO Historical Record Report, Volume I, 2024, DoD / All-domain Anomaly Resolution Office (AARO) · 2024 · UFO Transparenc...</p></details>
 
 8.<a id="endnote-8"></a>
    Source: ufotransparency.com  
-   Link:<a href="https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume</a>  
+   Link:https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Government Involvement with Unidentified Anomalous Phenomena, Volume I, AARO_Historical_Record_Report_Volu...</p></details>
 
 9.<a id="endnote-9"></a>
